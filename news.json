@@ -1,5 +1,45 @@
 [
   {
+    "title": "3DPOD 254: Jay Dinsmore, ADDMAN Group",
+    "summary_en": "Jay Dinsmore founded the eponymous company Dinsmore years ago. Since then, he&#8217;s had many an adventure in hiring people, managing them, training them, keeping them, and getting the best out...…",
+    "summary_cs": "Jay Dinsmore founded the eponymous company Dinsmore years ago. Since then, he&#8217;s had many an adventure in hiring people, managing them, training them, keeping them, and getting the best out...…",
+    "url": "https://3dprint.com/317245/3dpod-jay-dinsmore-addman-group/",
+    "image": "https://via.placeholder.com/800x400.png?text=3D+News",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-19T12:00:40+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "Design of the Week: NOBody",
+    "summary_en": "This week’s selection is the NOBody sculpture by Cults contributor COLLECTICRAFT.\nThe post Design of the Week: NOBody appeared on Fabbaloo.…",
+    "summary_cs": "This week’s selection is the NOBody sculpture by Cults contributor COLLECTICRAFT.\nThe post Design of the Week: NOBody appeared on Fabbaloo.…",
+    "url": "https://www.fabbaloo.com/news/design-of-the-week-nobody",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/nobody-cover-300x225.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-05-19T11:32:00+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "New Sunlu FilaDryer SP2: Technical specifications and pricing",
+    "summary_en": "Chinese 3D printing technology firm SUNLU has released a new filament drying system designed to offer more flexibility for 3D printing users managing multiple spools.&#160; Called the FilaDryer SP2, the unit separates its heating base from the drying chambers, allowing up to three chambers to be stacked vertically. This setup is aimed at users running [&#8230;]…",
+    "summary_cs": "Chinese 3D printing technology firm SUNLU has released a new filament drying system designed to offer more flexibility for 3D printing users managing multiple spools.&#160; Called the FilaDryer SP2, the unit separates its heating base from the drying chambers, allowing up to three chambers to be stacked vertically. This setup is aimed at users running [&#8230;]…",
+    "url": "https://3dprintingindustry.com/news/new-sunlu-filadryer-sp2-technical-specifications-and-pricing-239638/?utm_source=rss&utm_medium=rss&utm_campaign=new-sunlu-filadryer-sp2-technical-specifications-and-pricing",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/image-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-05-19T10:02:04+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "Researchers develop automatic exposure system for volumetric 3D printing",
+    "summary_en": "A team from the National Research Council Canada and the University of Victoria has developed a fully automatic exposure control system for tomographic volumetric additive manufacturing (VAM), a technique that fabricates entire objects at once using projected light patterns inside a rotating resin vat, significantly improving the process&#8217;s accuracy and repeatability. The results, shared in [&#8230;]…",
+    "summary_cs": "A team from the National Research Council Canada and the University of Victoria has developed a fully automatic exposure control system for tomographic volumetric additive manufacturing (VAM), a technique that fabricates entire objects at once using projected light patterns inside a rotating resin vat, significantly improving the process&#8217;s accuracy and repeatability. The results, shared in [&#8230;]…",
+    "url": "https://3dprintingindustry.com/news/researchers-develop-automatic-exposure-system-for-volumetric-3d-printing-239632/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-develop-automatic-exposure-system-for-volumetric-3d-printing",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/vam-1-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-19T09:58:19+00:00",
+    "topic": "General"
+  },
+  {
     "title": "Zortrax and Sygnis head towards obscurity",
     "summary_en": "The Atomic Layers: S10E18 (00285)…",
     "summary_cs": "The Atomic Layers: S10E18 (00285)…",
@@ -360,16 +400,6 @@
     "topic": "General"
   },
   {
-    "title": "3D Printing Financials: Velo3D Looks to Bounce Back with Defense Deals",
-    "summary_en": "Velo3D (OTCQX: VLDX) is working hard to get back on track. The metal 3D printing company brought in $9.3 million in revenue during the first quarter of 2025, slightly below...…",
-    "summary_cs": "Velo3D (OTCQX: VLDX) is working hard to get back on track. The metal 3D printing company brought in $9.3 million in revenue during the first quarter of 2025, slightly below...…",
-    "url": "https://3dprint.com/318080/3d-printing-financials-velo3d-looks-to-bounce-back-with-defense-deals/",
-    "image": "https://3dprint.com/wp-content/uploads/2023/07/2020_11_VELO_3D_0787-scaled.jpg",
-    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
-    "published": "2025-05-15T12:00:48+00:00",
-    "topic": "General"
-  },
-  {
     "title": "3D Printed Self-Watering Planters by Posie Pots - 3DPrinting.com",
     "summary_en": "3D Printed Self-Watering Planters by Posie PotsMay 15…",
     "summary_cs": "3D Printed Self-Watering Planters by Posie PotsMay 15…",
@@ -440,26 +470,6 @@
     "topic": "General"
   },
   {
-    "title": "Prusa Research Adopts Molex Connector Systems for Scalable 3D Printing Solutions",
-    "summary_en": "Molex, global manufacturer of electronic and fiber optic connectivity systems, is working with Czech FDM 3D printer manufacturer Prusa Research to support the integration of connector technologies into 3D printing systems. Key components in this collaboration include Molex’s CLIK-Mate wire-to-board connectors, Micro-Fit power connectors, and ultra-microcoaxial RF connectors.&#160; With support from American…",
-    "summary_cs": "Molex, global manufacturer of electronic and fiber optic connectivity systems, is working with Czech FDM 3D printer manufacturer Prusa Research to support the integration of connector technologies into 3D printing systems. Key components in this collaboration include Molex’s CLIK-Mate wire-to-board connectors, Micro-Fit power connectors, and ultra-microcoaxial RF connectors.&#160; With support from American…",
-    "url": "https://3dprintingindustry.com/news/prusa-research-adopts-molex-connector-systems-for-scalable-3d-printing-solutions-239551/?utm_source=rss&utm_medium=rss&utm_campaign=prusa-research-adopts-molex-connector-systems-for-scalable-3d-printing-solutions",
-    "image": "https://3dprintingindustry.com/wp-content/uploads/2024/11/a3726739-dsc2834-150x100.jpg",
-    "source": "3D Printing Industry",
-    "published": "2025-05-15T06:01:03+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "New 3D Printing Jobs at CDG 3D TECH, Sandvik, SWISSto12 and More",
-    "summary_en": "Welcome to the latest edition of our 3D printing jobs and career moves update for the additive manufacturing sector.&#160;&#160; In this edition, we’ll highlight recent developments and movements in the industry’s workforce, shedding light on the dynamic landscape of the additive manufacturing sector. Read on for recent facility openings and new appointments at CDG 3D [&#8230;]…",
-    "summary_cs": "Welcome to the latest edition of our 3D printing jobs and career moves update for the additive manufacturing sector.&#160;&#160; In this edition, we’ll highlight recent developments and movements in the industry’s workforce, shedding light on the dynamic landscape of the additive manufacturing sector. Read on for recent facility openings and new appointments at CDG 3D [&#8230;]…",
-    "url": "https://3dprintingindustry.com/news/new-3d-printing-jobs-at-cdg-3d-tech-sandvik-swissto12-and-more-239557/?utm_source=rss&utm_medium=rss&utm_campaign=new-3d-printing-jobs-at-cdg-3d-tech-sandvik-swissto12-and-more",
-    "image": "https://3dprintingindustry.com/wp-content/uploads/2018/08/3D-Printing-Industry-Jobs-Board-1024x488-150x100.png",
-    "source": "3D Printing Industry",
-    "published": "2025-05-15T05:57:44+00:00",
-    "topic": "General"
-  },
-  {
     "title": "Formnext Awards 2025 – nominations are now open. Who would you nominate for the AMbassador Award? 😏",
     "summary_en": "The Atomic Layers: S10E14 (00281)…",
     "summary_cs": "The Atomic Layers: S10E14 (00281)…",
@@ -487,16 +497,6 @@
     "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e795d6d-24e8-43ff-9842-6279f35a657b_1500x1000.jpeg",
     "source": "The 3D Printing Journal",
     "published": "2025-05-14T16:16:08+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Fabric8Labs Partners with AEWIN to Deploy ECAM Technology for Thermal Management Solutions - 3DPrinting.com",
-    "summary_en": "Fabric8Labs Partners with AEWIN to Deploy ECAM Technology for Thermal Management SolutionsMay 14…",
-    "summary_cs": "Fabric8Labs Partners with AEWIN to Deploy ECAM Technology for Thermal Management SolutionsMay 14…",
-    "url": "https://3dprinting.com/news/fabric8labs-partners-with-aewin-to-deploy-ecam-technology-for-thermal-management-solutions/",
-    "image": "https://3dprinting.com/wp-content/uploads/86498505-500x450.jpg",
-    "source": "3DPrinting.com",
-    "published": "2025-05-14T15:34:08+00:00",
     "topic": "General"
   }
 ]
