@@ -1,5 +1,135 @@
 [
   {
+    "title": "05-22-2013: Zortrax launched its Kickstarter campaign for M200 3D printer",
+    "summary_en": "The Kickstarter campaign was one of the best prepared at that time…",
+    "summary_cs": "The Kickstarter campaign was one of the best prepared at that time…",
+    "url": "https://www.3dprintingjournal.com/p/05-22-2013-zortrax-launched-its-kickstarter",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ef5ad74-0714-423e-93fe-c61a6835fb8c_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-22T17:27:30+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "05-22-2012: Objet released Objet30 Pro 3D printer",
+    "summary_en": "The system was offering a choice of seven different materials…",
+    "summary_cs": "The system was offering a choice of seven different materials…",
+    "url": "https://www.3dprintingjournal.com/p/05-22-2012-objet-released-objet30",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff55b0175-38ab-42ba-b7fd-52a8215bbdb8_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-22T17:18:02+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "AI Slop’ Threatens Viability of 3D Model Platforms as Content Moderation Struggles to Keep Up",
+    "summary_en": "AI slop is going to cause a transformation in 3D model repositories.\nThe post AI Slop&#8217; Threatens Viability of 3D Model Platforms as Content Moderation Struggles to Keep Up appeared on Fabbaloo.…",
+    "summary_cs": "AI slop is going to cause a transformation in 3D model repositories.\nThe post AI Slop&#8217; Threatens Viability of 3D Model Platforms as Content Moderation Struggles to Keep Up appeared on Fabbaloo.…",
+    "url": "https://www.fabbaloo.com/news/ai-slop-threatens-viability-of-3d-model-platforms-as-content-moderation-struggles-to-keep-up",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/ai-slop-cover2-300x170.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-05-22T16:22:00+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "UKAEA appoints Kingsbury and Additure to fusion energy project",
+    "summary_en": "UKAEA, the UK’s national fusion energy research organization and an executive, non-departmental public body sponsored by the Department for Energy Security and Net Zero, has appointed Kingsbury and Additure to &#8230;\nThe post UKAEA appoints Kingsbury and Additure to fusion energy project appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "summary_cs": "UKAEA, the UK’s national fusion energy research organization and an executive, non-departmental public body sponsored by the Department for Energy Security and Net Zero, has appointed Kingsbury and Additure to &#8230;\nThe post UKAEA appoints Kingsbury and Additure to fusion energy project appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "url": "https://www.voxelmatters.com/ukaea-appoints-kingsbury-and-additure-to-fusion-energy-project/",
+    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/Banner_Option_1.png-1.webp",
+    "source": "VoxelMatters – The heart of additive manufacturing",
+    "published": "2025-05-22T16:00:35+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "PaintStation Offers Enclosed, Filtered Workspace for Precision Painting of 3D Printed Models",
+    "summary_en": "A new project on Kickstarter should be of interest to anyone printing gaming parts: PaintStation.\nThe post PaintStation Offers Enclosed, Filtered Workspace for Precision Painting of 3D Printed Models appeared on Fabbaloo.…",
+    "summary_cs": "A new project on Kickstarter should be of interest to anyone printing gaming parts: PaintStation.\nThe post PaintStation Offers Enclosed, Filtered Workspace for Precision Painting of 3D Printed Models appeared on Fabbaloo.…",
+    "url": "https://www.fabbaloo.com/news/paintstation-offers-enclosed-filtered-workspace-for-precision-painting-of-3d-printed-models",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/paintstation-cover-300x184.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-05-22T15:12:24+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "Gantri Made, a digital manufacturing platform for lighting products",
+    "summary_en": "Bay Area lighting company Gantri, which specializes in 3D printed lamps, has launched a new product development platform that will make it easier for brands and designers to bring their &#8230;\nThe post Gantri Made, a digital manufacturing platform for lighting products appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "summary_cs": "Bay Area lighting company Gantri, which specializes in 3D printed lamps, has launched a new product development platform that will make it easier for brands and designers to bring their &#8230;\nThe post Gantri Made, a digital manufacturing platform for lighting products appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "url": "https://www.voxelmatters.com/gantri-made-a-digital-manufacturing-platform-for-lighting-products/",
+    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/Haworth_B2C_LACP_Chicago_Feb25-4313.jpeg",
+    "source": "VoxelMatters – The heart of additive manufacturing",
+    "published": "2025-05-22T15:00:20+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "Researchers use AI to detect origin of 3D printed parts",
+    "summary_en": "According to the University of Illinois Urbana-Champaign, a new artificial intelligence system pinpoints the origin of 3D printed parts down to the specific machine that made them. The technology could &#8230;\nThe post Researchers use AI to detect origin of 3D printed parts appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "summary_cs": "According to the University of Illinois Urbana-Champaign, a new artificial intelligence system pinpoints the origin of 3D printed parts down to the specific machine that made them. The technology could &#8230;\nThe post Researchers use AI to detect origin of 3D printed parts appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "url": "https://www.voxelmatters.com/researchers-use-ai-to-detect-origin-of-3d-printed-parts/",
+    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/IllinoisFingerprint.jpg",
+    "source": "VoxelMatters – The heart of additive manufacturing",
+    "published": "2025-05-22T14:00:05+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "3D Printed Skin: Australia Leads the World with Breakthrough Trial in Sydney",
+    "summary_en": "A world-first clinical trial is underway in Sydney, and it’s rewriting the future of burn treatment. At the Concord Burns Unit, a patient has become the first in the world...…",
+    "summary_cs": "A world-first clinical trial is underway in Sydney, and it’s rewriting the future of burn treatment. At the Concord Burns Unit, a patient has become the first in the world...…",
+    "url": "https://3dprint.com/318254/3d-printed-skin-australia-leads-the-world-with-breakthrough-trial-in-sydney/",
+    "image": "https://3dprint.com/wp-content/uploads/2025/05/Screenshot-2025-05-21-at-23-05-26-Sydney-Local-Health-District-@sydneylocalhealthdistrict-•-Instagram-photos-and-videos.png",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-22T13:30:03+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "University of Glasgow Opens NextSpace Testrig to Simulate Harsh Space Conditions for 3D Printed Parts",
+    "summary_en": "Another big step towards space-based 3D printing has taken place in Scotland.\nThe post University of Glasgow Opens NextSpace Testrig to Simulate Harsh Space Conditions for 3D Printed Parts appeared on Fabbaloo.…",
+    "summary_cs": "Another big step towards space-based 3D printing has taken place in Scotland.\nThe post University of Glasgow Opens NextSpace Testrig to Simulate Harsh Space Conditions for 3D Printed Parts appeared on Fabbaloo.…",
+    "url": "https://www.fabbaloo.com/news/university-of-glasgow-opens-nextspace-testrig-to-simulate-harsh-space-conditions-for-3d-printed-parts",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/glasgow-nextspace-testrig-cover-300x218.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-05-22T13:21:00+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "Will the Slate Truck Usher in a New Era of 3D Printing Car Customization?",
+    "summary_en": "In 2021, we wrote an article about the auto industry perhaps ushering in a new era of coach building. With an electric car putting most of its components in a...…",
+    "summary_cs": "In 2021, we wrote an article about the auto industry perhaps ushering in a new era of coach building. With an electric car putting most of its components in a...…",
+    "url": "https://3dprint.com/318229/will-the-slate-truck-usher-in-a-new-era-of-3d-printing-car-customization/",
+    "image": "https://3dprint.com/wp-content/uploads/2025/05/Hero-Blank-Slate-and-SUV_web-1024x683.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-22T13:00:45+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "Airtech and Kimya: A perfect pairing",
+    "summary_en": "Airtech Advanced Materials Group, a leading developer of materials for [previously] LFAM applications, has accelerated its presence in high-performance 3D printing with its recent acquisition of Kimya&#8217;s full filament portfolio, &#8230;\nThe post Airtech and Kimya: A perfect pairing appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "summary_cs": "Airtech Advanced Materials Group, a leading developer of materials for [previously] LFAM applications, has accelerated its presence in high-performance 3D printing with its recent acquisition of Kimya&#8217;s full filament portfolio, &#8230;\nThe post Airtech and Kimya: A perfect pairing appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "url": "https://www.voxelmatters.com/airtech-and-kimya-a-perfect-pairing-2/",
+    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/04/Kimya_white_Airtech-scaled-e1744941374815.jpg",
+    "source": "VoxelMatters – The heart of additive manufacturing",
+    "published": "2025-05-22T13:00:34+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "Stratasys Acquires Forward AM’s Assets, Broadening Its Advanced Materials Portfolio",
+    "summary_en": "Stratasys, a 3D printer OEM, has announced the acquisition of assets from Forward AM GmbH, a BASF spin-off based in Germany. This strategic transaction expands Stratasys’ materials portfolio, particularly enhancing its capabilities in Selective Absorption Fusion (SAF) and Digital Light Processing (DLP) technologies. The acquisition also reinforces Stratasys’ commitment to driving innovation and maintaining its…",
+    "summary_cs": "Stratasys, a 3D printer OEM, has announced the acquisition of assets from Forward AM GmbH, a BASF spin-off based in Germany. This strategic transaction expands Stratasys’ materials portfolio, particularly enhancing its capabilities in Selective Absorption Fusion (SAF) and Digital Light Processing (DLP) technologies. The acquisition also reinforces Stratasys’ commitment to driving innovation and maintaining its…",
+    "url": "https://3dprintingindustry.com/news/stratasys-acquires-forward-ams-assets-broadening-its-advanced-materials-portfolio-239786/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-acquires-forward-ams-assets-broadening-its-advanced-materials-portfolio",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/forward-am-use-case-concrete-formworks-printing-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-22T12:47:10+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "New York DA Proposes Law to Stop Sharing Digital 3D Printed Gun Blueprints",
+    "summary_en": "A new bill in New York seeks to stop the spread of digital blueprints used to 3D print gun parts and auto sears. These small devices can turn a semi-automatic...…",
+    "summary_cs": "A new bill in New York seeks to stop the spread of digital blueprints used to 3D print gun parts and auto sears. These small devices can turn a semi-automatic...…",
+    "url": "https://3dprint.com/318204/new-york-da-proposes-law-to-stop-sharing-3d-printed-gun-blueprints/",
+    "image": "https://3dprint.com/wp-content/uploads/2025/05/auto-sear-1024760.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-22T12:30:13+00:00",
+    "topic": "General"
+  },
+  {
     "title": "CEAD and Damen Partnering to Develop HDPE 3D Printed Workboat",
     "summary_en": "Dutch 3D printing firm CEAD partnered with Damen Compact Crafts (DCCr), part of the Damen Shipyards Group, to develop a 3D printed HDPE workboat. CEAD makes gantry and robot arm-based...…",
     "summary_cs": "Dutch 3D printing firm CEAD partnered with Damen Compact Crafts (DCCr), part of the Damen Shipyards Group, to develop a 3D printed HDPE workboat. CEAD makes gantry and robot arm-based...…",
@@ -80,9 +210,9 @@
     "topic": "General"
   },
   {
-    "title": "Nikon SLM Solutions installs Solukon SFM-AT1500-S at AM Technology Center",
-    "summary_en": "Offering a holistic and customer-centric approach, the Nikon AM Technology Center provides comprehensive Design for Additive Manufacturing (DfAM) services, engineering and manufacturing solutions, as well as prototyping and production capabilities. &#8230;\nThe post Nikon SLM Solutions installs Solukon SFM-AT1500-S at AM Technology Center appeared first on VoxelMatters - The heart of additive manufacturing.…",
-    "summary_cs": "Offering a holistic and customer-centric approach, the Nikon AM Technology Center provides comprehensive Design for Additive Manufacturing (DfAM) services, engineering and manufacturing solutions, as well as prototyping and production capabilities. &#8230;\nThe post Nikon SLM Solutions installs Solukon SFM-AT1500-S at AM Technology Center appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "title": "Nikon installs Solukon SFM-AT1500-S at AM Technology Center in Long Beach",
+    "summary_en": "Offering a holistic and customer-centric approach, the Nikon AM Technology Center provides comprehensive Design for Additive Manufacturing (DfAM) services, engineering and manufacturing solutions, as well as prototyping and production capabilities. &#8230;\nThe post Nikon installs Solukon SFM-AT1500-S at AM Technology Center in Long Beach appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "summary_cs": "Offering a holistic and customer-centric approach, the Nikon AM Technology Center provides comprehensive Design for Additive Manufacturing (DfAM) services, engineering and manufacturing solutions, as well as prototyping and production capabilities. &#8230;\nThe post Nikon installs Solukon SFM-AT1500-S at AM Technology Center in Long Beach appeared first on VoxelMatters - The heart of additive manufacturing.…",
     "url": "https://www.voxelmatters.com/nikon-slm-solutions-installs-solukon-sfm-at1500-s-at-am-technology-center-in-long-beach/",
     "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/Solukon_Nikon_AM_1.jpg",
     "source": "VoxelMatters – The heart of additive manufacturing",
@@ -280,16 +410,6 @@
     "topic": "General"
   },
   {
-    "title": "America Makes and NCDMM Announce $920K Call to Advance Metal AM for Defense",
-    "summary_en": "America Makes, the National Additive Manufacturing Innovation Institute, and the National Center for Defense Manufacturing and Machining (NCDMM) have announced a new project call valued at $920,000. Funded by the Office of the Under Secretary of Defense, Manufacturing Technology Office (OSD ManTech), the initiative—High Priority Open Topics for Additive Manufacturing (AM)—aims to advance AM repair [&#8230;]…",
-    "summary_cs": "America Makes, the National Additive Manufacturing Innovation Institute, and the National Center for Defense Manufacturing and Machining (NCDMM) have announced a new project call valued at $920,000. Funded by the Office of the Under Secretary of Defense, Manufacturing Technology Office (OSD ManTech), the initiative—High Priority Open Topics for Additive Manufacturing (AM)—aims to advance AM repair [&#8230;]…",
-    "url": "https://3dprintingindustry.com/news/america-makes-and-ncdmm-announce-920k-call-to-advance-metal-am-for-defense-239695/?utm_source=rss&utm_medium=rss&utm_campaign=america-makes-and-ncdmm-announce-920k-call-to-advance-metal-am-for-defense",
-    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/1747343976123-150x100.jpeg",
-    "source": "3D Printing Industry",
-    "published": "2025-05-21T10:09:45+00:00",
-    "topic": "General"
-  },
-  {
     "title": "Bhumi’s Emma van Engelen Pioneers Fashion Tech Activism - 3DPrinting.com",
     "summary_en": "Bhumi&#8217;s Emma van Engelen Pioneers Fashion Tech ActivismMay 21…",
     "summary_cs": "Bhumi&#8217;s Emma van Engelen Pioneers Fashion Tech ActivismMay 21…",
@@ -370,16 +490,6 @@
     "topic": "General"
   },
   {
-    "title": "EPMA elects new president and board",
-    "summary_en": "The European Powder Metallurgy Association (EMPA) has elected Adeline Riou, Market Development Director of Metal Powders at Aubert &#38; Duval, as its new President &#8211; succeeding Carlström Ralf after his &#8230;\nThe post EPMA elects new president and board appeared first on VoxelMatters - The heart of additive manufacturing.…",
-    "summary_cs": "The European Powder Metallurgy Association (EMPA) has elected Adeline Riou, Market Development Director of Metal Powders at Aubert &#38; Duval, as its new President &#8211; succeeding Carlström Ralf after his &#8230;\nThe post EPMA elects new president and board appeared first on VoxelMatters - The heart of additive manufacturing.…",
-    "url": "https://www.voxelmatters.com/epma-elects-new-president-and-board/",
-    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/1747350551395.jpeg",
-    "source": "VoxelMatters – The heart of additive manufacturing",
-    "published": "2025-05-20T16:00:06+00:00",
-    "topic": "General"
-  },
-  {
     "title": "05-20-2009: EOS sold its first EOSINT P 800 High-Temperature Peek Processing System",
     "summary_en": "The client was FKM…",
     "summary_cs": "The client was FKM…",
@@ -387,116 +497,6 @@
     "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc215240-a0d1-4fd0-ab93-7631ea25c503_1500x1000.jpeg",
     "source": "The 3D Printing Journal",
     "published": "2025-05-20T15:44:49+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Divergent and Palantir partner on DAPS for defense on-demand AM",
-    "summary_en": "Palantir Technologies (NASDAQ: PLTR) and Divergent Technologies formed a strategic partnership to provide access to Divergent&#8217;s DAPS advanced manufacturing capabilities via Palantir&#8217;s software platform. This partnership will bring digitally manufactured parts &#8230;\nThe post Divergent and Palantir partner on DAPS for defense on-demand AM appeared first on VoxelMatters - The heart of additive…",
-    "summary_cs": "Palantir Technologies (NASDAQ: PLTR) and Divergent Technologies formed a strategic partnership to provide access to Divergent&#8217;s DAPS advanced manufacturing capabilities via Palantir&#8217;s software platform. This partnership will bring digitally manufactured parts &#8230;\nThe post Divergent and Palantir partner on DAPS for defense on-demand AM appeared first on VoxelMatters - The heart of additive…",
-    "url": "https://www.voxelmatters.com/divergent-and-palantir-partner-on-daps-for-defense-on-demand-am/",
-    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/Palantir.jpg",
-    "source": "VoxelMatters – The heart of additive manufacturing",
-    "published": "2025-05-20T15:15:47+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "RepRapMicron Project Advances Open-Source Microscopic 3D Printing With MAUS Platform",
-    "summary_en": "It’s time for an update on the RepRapMicron project.\nThe post RepRapMicron Project Advances Open-Source Microscopic 3D Printing With MAUS Platform appeared on Fabbaloo.…",
-    "summary_cs": "It’s time for an update on the RepRapMicron project.\nThe post RepRapMicron Project Advances Open-Source Microscopic 3D Printing With MAUS Platform appeared on Fabbaloo.…",
-    "url": "https://www.fabbaloo.com/news/reprapmicron-project-advances-open-source-microscopic-3d-printing-with-maus-platform",
-    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/reprapmicron-prototype-cover-300x225.jpg",
-    "source": "Fabbaloo",
-    "published": "2025-05-20T15:01:00+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Learn all about 3D printing textiles in new online course",
-    "summary_en": "Footwearology, the premiere academy for footwear innovation, is expanding its exploration of 3D printing with the launch of two new online courses focused on 3D printing textiles. The courses, developed &#8230;\nThe post Learn all about 3D printing textiles in new online course appeared first on VoxelMatters - The heart of additive manufacturing.…",
-    "summary_cs": "Footwearology, the premiere academy for footwear innovation, is expanding its exploration of 3D printing with the launch of two new online courses focused on 3D printing textiles. The courses, developed &#8230;\nThe post Learn all about 3D printing textiles in new online course appeared first on VoxelMatters - The heart of additive manufacturing.…",
-    "url": "https://www.voxelmatters.com/footwearology-course-3d-printing-textiles/",
-    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/3d-textiles-3.jpeg",
-    "source": "VoxelMatters – The heart of additive manufacturing",
-    "published": "2025-05-20T15:00:49+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "South Africa’s CSIR delivers locally produced metal AM powder",
-    "summary_en": "South Africa&#8217;s Council for Scientific and Industrial Research (CSIR) has successfully produced 316L stainless-steel powder using a recently commissioned ultrasonic atomizer machine, co-funded by the National Research Foundation (NRF), an &#8230;\nThe post South Africa&#8217;s CSIR delivers locally produced metal AM powder appeared first on VoxelMatters - The heart of additive manufacturing.…",
-    "summary_cs": "South Africa&#8217;s Council for Scientific and Industrial Research (CSIR) has successfully produced 316L stainless-steel powder using a recently commissioned ultrasonic atomizer machine, co-funded by the National Research Foundation (NRF), an &#8230;\nThe post South Africa&#8217;s CSIR delivers locally produced metal AM powder appeared first on VoxelMatters - The heart of additive manufacturing.…",
-    "url": "https://www.voxelmatters.com/south-africas-csir-delivers-locally-produced-metal-am-powder/",
-    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-20-at-15.57.01-e1747736898348.jpeg",
-    "source": "VoxelMatters – The heart of additive manufacturing",
-    "published": "2025-05-20T14:00:48+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Nikon Advanced Manufacturing & America Makes to Develop Aluminum Powder Dataset",
-    "summary_en": "Nikon Advanced Manufacturing Inc. (NAMI), the Long Beach-based end-to-end metal additive manufacturing (AM) firm, has announced that the company is partnering with the Manufacturing USA Institute America Makes to develop...…",
-    "summary_cs": "Nikon Advanced Manufacturing Inc. (NAMI), the Long Beach-based end-to-end metal additive manufacturing (AM) firm, has announced that the company is partnering with the Manufacturing USA Institute America Makes to develop...…",
-    "url": "https://3dprint.com/318195/nikon-advanced-manufacturing-america-makes-to-develop-aluminum-powder-dataset/",
-    "image": "https://3dprint.com/wp-content/uploads/2025/05/IMG_1679.webp",
-    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
-    "published": "2025-05-20T13:30:58+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "University of Glasgow Builds Facility to Test Structural Integrity of 3D Printing Materials in Space",
-    "summary_en": "Researchers at the University of Glasgow James Watt School of Engineering, led by Dr. Gilles Bailet, collaborated with The Manufacturing Technology Centre (MTC) to build they call the first dedicated...…",
-    "summary_cs": "Researchers at the University of Glasgow James Watt School of Engineering, led by Dr. Gilles Bailet, collaborated with The Manufacturing Technology Centre (MTC) to build they call the first dedicated...…",
-    "url": "https://3dprint.com/318128/facility-to-test-structural-integrity-of-3d-printing-materials-in-space/",
-    "image": "https://3dprint.com/wp-content/uploads/2025/05/NetSpace-TestRig-2.png",
-    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
-    "published": "2025-05-20T13:00:28+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Almond AI Launches Robot-as-a-Service Platform to Automate 3D Printer Operations",
-    "summary_en": "Need a robot to help operate your 3D printers? An Almond Bot can do that. A new company, Almond AI, is marketing a robotic solution for manufacturing equipment automation. They offer a “robot as a service” that can perform inspection, pick &#38; place functions, and automatically tend to machines — and that’s the function we’re&#8230; Continue reading Almond AI Launches Robot-as-a-Service Platform to Automate 3D…",
-    "summary_cs": "Need a robot to help operate your 3D printers? An Almond Bot can do that. A new company, Almond AI, is marketing a robotic solution for manufacturing equipment automation. They offer a “robot as a service” that can perform inspection, pick &#38; place functions, and automatically tend to machines — and that’s the function we’re&#8230; Continue reading Almond AI Launches Robot-as-a-Service Platform to Automate 3D…",
-    "url": "https://www.fabbaloo.com/news/almond-ai-launches-robot-as-a-service-platform-to-automate-3d-printer-operations",
-    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/almondbot-cover-1-300x181.jpeg",
-    "source": "Fabbaloo",
-    "published": "2025-05-20T13:00:00+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Printing Money Episode 29: 3D Printing Deals and Analysis with Alex Kingsbury",
-    "summary_en": "Printing Money is back with Episode 29. Alex Kingsbury (Product Line Manager – AM, nLIGHT) is back. Need we say more to convince you to listen? Either way, we’ll say...…",
-    "summary_cs": "Printing Money is back with Episode 29. Alex Kingsbury (Product Line Manager – AM, nLIGHT) is back. Need we say more to convince you to listen? Either way, we’ll say...…",
-    "url": "https://3dprint.com/318186/printing-money-29-3d-printing-deals-and-analysis-with-alex-kingsbury/",
-    "image": "https://via.placeholder.com/800x400.png?text=3D+News",
-    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
-    "published": "2025-05-20T12:30:49+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Rarify and Gantri Unveil Modular 3D Printed Lighting System - 3DPrinting.com",
-    "summary_en": "Rarify and Gantri Unveil Modular 3D Printed Lighting SystemMay 20…",
-    "summary_cs": "Rarify and Gantri Unveil Modular 3D Printed Lighting SystemMay 20…",
-    "url": "https://3dprinting.com/news/rarify-and-gantri-unveil-modular-3d-printed-lighting-system/",
-    "image": "https://3dprinting.com/wp-content/uploads/rarify-gantri-studio-guapo-nyc-design-week-2025_dezeen_2364_col_7-scaled-1-500x500.jpg",
-    "source": "3DPrinting.com",
-    "published": "2025-05-20T12:01:13+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Made-in-America Rugged 3D Printer Launched by Chicago Additive, Backed by NAVWAR",
-    "summary_en": "Chicago Additive, an end-to-end additive manufacturing (AM) solutions company based in Northwest Indiana, has announced the pre-launch of its AMOS 3D printer. This ruggedized FDM desktop printer was originally developed...…",
-    "summary_cs": "Chicago Additive, an end-to-end additive manufacturing (AM) solutions company based in Northwest Indiana, has announced the pre-launch of its AMOS 3D printer. This ruggedized FDM desktop printer was originally developed...…",
-    "url": "https://3dprint.com/318182/made-in-america-rugged-3d-printer-launched-by-chicago-additive-backed-by-navwar/",
-    "image": "https://3dprint.com/wp-content/uploads/2025/05/IMG_1675.jpeg",
-    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
-    "published": "2025-05-20T12:00:47+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Outokumpu Develops Stainless Steel Powder for Aerospace Additive Manufacturing - 3DPrinting.com",
-    "summary_en": "Outokumpu Develops Stainless Steel Powder for Aerospace Additive ManufacturingMay 20…",
-    "summary_cs": "Outokumpu Develops Stainless Steel Powder for Aerospace Additive ManufacturingMay 20…",
-    "url": "https://3dprinting.com/news/outokumpu-develops-stainless-steel-powder-for-aerospace-additive-manufacturing/",
-    "image": "https://3dprinting.com/wp-content/uploads/76388479794-500x429.jpg",
-    "source": "3DPrinting.com",
-    "published": "2025-05-20T11:49:18+00:00",
     "topic": "General"
   }
 ]
