@@ -1,5 +1,25 @@
 [
   {
+    "title": "Gastronology scales up unique 3D printed meals for dysphagia patients",
+    "summary_en": "Dutch food 3D printing company Gastronology has begun large-scale production of 3D printed meals designed for people with dysphagia, a condition that makes chewing and swallowing difficult. Working with contract manufacturer Budelfood B.V. in Poortvliet, the Dutch company rolled out its first industrial batches in April last year. Branded as Dysphalicious, these meals were initially [&#8230;]…",
+    "summary_cs": "Dutch food 3D printing company Gastronology has begun large-scale production of 3D printed meals designed for people with dysphagia, a condition that makes chewing and swallowing difficult. Working with contract manufacturer Budelfood B.V. in Poortvliet, the Dutch company rolled out its first industrial batches in April last year. Branded as Dysphalicious, these meals were initially [&#8230;]…",
+    "url": "https://3dprintingindustry.com/news/gastronology-scales-up-unique-3d-printed-meals-for-dysphagia-patients-239729/?utm_source=rss&utm_medium=rss&utm_campaign=gastronology-scales-up-unique-3d-printed-meals-for-dysphagia-patients",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/image-2-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-05-21T20:33:49+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "Introducing PrismSlicer by Additive Appearance: Photorealistic Software for Complex Multi-Material 3D Printing",
+    "summary_en": "Prague-based startup Additive Appearance, a spin-off from Charles University, has released PrismSlicer, a slicing and design-for-additive-manufacturing (DfAM) software developed specifically for multi-material inkjet 3D printing. PrismSlicer focuses on delivering high-fidelity color accuracy, precise volumetric control, and efficient material use, addressing needs across sectors such as industrial design,…",
+    "summary_cs": "Prague-based startup Additive Appearance, a spin-off from Charles University, has released PrismSlicer, a slicing and design-for-additive-manufacturing (DfAM) software developed specifically for multi-material inkjet 3D printing. PrismSlicer focuses on delivering high-fidelity color accuracy, precise volumetric control, and efficient material use, addressing needs across sectors such as industrial design,…",
+    "url": "https://3dprintingindustry.com/news/introducing-prismslicer-by-additive-appearance-photorealistic-software-for-complex-multi-material-3d-printing-239721/?utm_source=rss&utm_medium=rss&utm_campaign=introducing-prismslicer-by-additive-appearance-photorealistic-software-for-complex-multi-material-3d-printing",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/PrismSlicer-2-Slice-viewer-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-05-21T20:29:13+00:00",
+    "topic": "General"
+  },
+  {
     "title": "AM market forecasts from 12 years ago – did they hold up?",
     "summary_en": "The Atomic Layers: S10E21 (00288)…",
     "summary_cs": "The Atomic Layers: S10E21 (00288)…",
@@ -477,26 +497,6 @@
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/Dr.-David-Hoganson-speaking-at-the-Materialise-3D-Printing-in-Hospitals-Forum-2025.-Photo-via-Materialise3-150x100.jpg",
     "source": "3D Printing Industry",
     "published": "2025-05-20T09:00:00+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Distributed manufacturing benefits: Revolutionizing production",
-    "summary_en": "The post Distributed manufacturing benefits: Revolutionizing production appeared first on UltiMaker.…",
-    "summary_cs": "The post Distributed manufacturing benefits: Revolutionizing production appeared first on UltiMaker.…",
-    "url": "https://ultimaker.com/learn/distributed-manufacturing-benefits-revolutionizing-production/",
-    "image": "https://via.placeholder.com/800x400.png?text=3D+News",
-    "source": "UltiMaker",
-    "published": "2025-05-20T08:33:03+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Titomic and nuForj Join Forces to Expand Cold Spray Additive Manufacturing in the U.S.",
-    "summary_en": "Titomic Limited, an Australian company specializing in cold spray additive manufacturing through its proprietary Titomic Kinetic Fusion (TKF) process, has signed a strategic partnership with U.S.-based advanced manufacturing provider nuForj. The agreement is intended to accelerate the commercialization of TKF in North American sectors including aerospace, defense, education, and industrial manufacturing. nuForj will…",
-    "summary_cs": "Titomic Limited, an Australian company specializing in cold spray additive manufacturing through its proprietary Titomic Kinetic Fusion (TKF) process, has signed a strategic partnership with U.S.-based advanced manufacturing provider nuForj. The agreement is intended to accelerate the commercialization of TKF in North American sectors including aerospace, defense, education, and industrial manufacturing. nuForj will…",
-    "url": "https://3dprintingindustry.com/news/titomic-and-nuforj-join-forces-to-expand-cold-spray-additive-manufacturing-in-the-u-s-239663/?utm_source=rss&utm_medium=rss&utm_campaign=titomic-and-nuforj-join-forces-to-expand-cold-spray-additive-manufacturing-in-the-u-s",
-    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/Titomic-150x100.png",
-    "source": "3D Printing Industry",
-    "published": "2025-05-20T07:37:11+00:00",
     "topic": "General"
   }
 ]
