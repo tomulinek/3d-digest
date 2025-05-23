@@ -1,5 +1,15 @@
 [
   {
+    "title": "Analysis of a 3D printer's... fingerprint? 🤨",
+    "summary_en": "The Atomic Layers: S10E22 (00289)…",
+    "summary_cs": "The Atomic Layers: S10E22 (00289)…",
+    "url": "https://www.3dprintingjournal.com/p/analysis-of-a-3d-printers-fingerprint",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/87581391-4511-4045-914d-8603a0095d51_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-22T18:48:33+00:00",
+    "topic": "General"
+  },
+  {
     "title": "05-22-2013: Zortrax launched its Kickstarter campaign for M200 3D printer",
     "summary_en": "The Kickstarter campaign was one of the best prepared at that time…",
     "summary_cs": "The Kickstarter campaign was one of the best prepared at that time…",
@@ -147,6 +157,16 @@
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/MTczNTM5ODI0ODY3NzAxMzY4ZDU4MmU-150x100.jpg",
     "source": "3D Printing Industry",
     "published": "2025-05-22T11:55:48+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "Webinar: Master multi-material dual extrusion 3D printing",
+    "summary_en": "The post Webinar: Master multi-material dual extrusion 3D printing appeared first on UltiMaker.…",
+    "summary_cs": "The post Webinar: Master multi-material dual extrusion 3D printing appeared first on UltiMaker.…",
+    "url": "https://ultimaker.com/learn/webinar-master-multi-material-dual-extrusion-3d-printing/",
+    "image": "https://via.placeholder.com/800x400.png?text=3D+News",
+    "source": "UltiMaker",
+    "published": "2025-05-22T11:31:36+00:00",
     "topic": "General"
   },
   {
@@ -477,26 +497,6 @@
     "image": "https://3dprinting.com/wp-content/uploads/imageCarousel.imageformat.lightbox.1725920425-500x500.jpg",
     "source": "3DPrinting.com",
     "published": "2025-05-20T17:14:06+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "New PrismSlicer Software Targets Visual Precision in Color 3D Printing",
-    "summary_en": "A new slicer hopes to revolutionize full-colour 3D printing.\nThe post New PrismSlicer Software Targets Visual Precision in Color 3D Printing appeared on Fabbaloo.…",
-    "summary_cs": "A new slicer hopes to revolutionize full-colour 3D printing.\nThe post New PrismSlicer Software Targets Visual Precision in Color 3D Printing appeared on Fabbaloo.…",
-    "url": "https://www.fabbaloo.com/news/new-prismslicer-software-targets-visual-precision-in-color-3d-printing",
-    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/prismslicer-cover-300x202.jpg",
-    "source": "Fabbaloo",
-    "published": "2025-05-20T16:12:00+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "05-20-2009: EOS sold its first EOSINT P 800 High-Temperature Peek Processing System",
-    "summary_en": "The client was FKM…",
-    "summary_cs": "The client was FKM…",
-    "url": "https://www.3dprintingjournal.com/p/05-20-2009-eos-sold-its-first-eosint",
-    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc215240-a0d1-4fd0-ab93-7631ea25c503_1500x1000.jpeg",
-    "source": "The 3D Printing Journal",
-    "published": "2025-05-20T15:44:49+00:00",
     "topic": "General"
   }
 ]
