@@ -120,6 +120,16 @@
     "topic": "General"
   },
   {
+    "title": "Nothing Phone 3D printing contest in new Prusa challenge",
+    "summary_en": "A new contest is underway, inviting designers and 3D printing enthusiasts to create custom accessories for the CMF Phone 2 Pro, a modular smartphone from CMF by Nothing. Organized in partnership with Czech based 3D printer manufacturer Prusa Research, the contest focuses on designs that enhance the phone’s appearance, functionality, or usability. Open for another [&#8230;]…",
+    "summary_cs": "A new contest is underway, inviting designers and 3D printing enthusiasts to create custom accessories for the CMF Phone 2 Pro, a modular smartphone from CMF by Nothing. Organized in partnership with Czech based 3D printer manufacturer Prusa Research, the contest focuses on designs that enhance the phone’s appearance, functionality, or usability. Open for another [&#8230;]…",
+    "url": "https://3dprintingindustry.com/news/nothing-phone-3d-printing-contest-in-new-prusa-challenge-239832/?utm_source=rss&utm_medium=rss&utm_campaign=nothing-phone-3d-printing-contest-in-new-prusa-challenge",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/IMAGE1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-05-23T13:56:29+00:00",
+    "topic": "General"
+  },
+  {
     "title": "BigRep’s DryCon System for High-Capacity Filament Drying and Part Annealing",
     "summary_en": "I had a quick look at BigRep’s DryCon system.\nThe post BigRep&#8217;s DryCon System for High-Capacity Filament Drying and Part Annealing appeared on Fabbaloo.…",
     "summary_cs": "I had a quick look at BigRep’s DryCon system.\nThe post BigRep&#8217;s DryCon System for High-Capacity Filament Drying and Part Annealing appeared on Fabbaloo.…",
@@ -207,6 +217,56 @@
     "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/Equinor_F3nice_-2025-05-23-alle-12.45.30.jpg",
     "source": "VoxelMatters – The heart of additive manufacturing",
     "published": "2025-05-23T10:51:18+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "DLR launches fully 3D printed MiniFix module for biological fixation in space",
+    "summary_en": "Researchers at the German Aerospace Center (DLR) have developed MiniFix, a fully 3D printed syringe-based biological fixation system engineered for spaceflight. Successfully deployed in five MAPHEUS sounding rocket missions, MiniFix represents a breakthrough in experimental payload design, combining rapid prototyping, modularity, and robust performance in microgravity environments, combining rapid prototyping with…",
+    "summary_cs": "Researchers at the German Aerospace Center (DLR) have developed MiniFix, a fully 3D printed syringe-based biological fixation system engineered for spaceflight. Successfully deployed in five MAPHEUS sounding rocket missions, MiniFix represents a breakthrough in experimental payload design, combining rapid prototyping, modularity, and robust performance in microgravity environments, combining rapid prototyping with…",
+    "url": "https://3dprintingindustry.com/news/dlr-launches-fully-3d-printed-minifix-module-for-biological-fixation-in-space-239805/?utm_source=rss&utm_medium=rss&utm_campaign=dlr-launches-fully-3d-printed-minifix-module-for-biological-fixation-in-space",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/s12217-025-10178-4-2-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-23T09:41:58+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "Mapping the Expanding Role of 3D Printing in Micro and Nano Device Fabrication",
+    "summary_en": "A new review by researchers from the Beijing University of Posts and Telecommunications, CETC 54 (54th Research Institute of Electronics Technology Group Corporation), Sun Yat-sen University, Shenzhen University, and the University of Electronic Science and Technology of China surveys the latest developments in 3D printing for microelectronic and microfluidic applications. The paper released on Springer [&#8230;]…",
+    "summary_cs": "A new review by researchers from the Beijing University of Posts and Telecommunications, CETC 54 (54th Research Institute of Electronics Technology Group Corporation), Sun Yat-sen University, Shenzhen University, and the University of Electronic Science and Technology of China surveys the latest developments in 3D printing for microelectronic and microfluidic applications. The paper released on Springer [&#8230;]…",
+    "url": "https://3dprintingindustry.com/news/mapping-the-expanding-role-of-3d-printing-in-micro-and-nano-device-fabrication-239815/?utm_source=rss&utm_medium=rss&utm_campaign=mapping-the-expanding-role-of-3d-printing-in-micro-and-nano-device-fabrication",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/41378_2024_812_Figa_HTML-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-05-23T09:33:33+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "AEWIN Selects Fabric8Labs’ ECAM Technology for Edge AI Thermal Management",
+    "summary_en": "Fabric8Labs, a San Diego-based manufacturer specializing in Electrochemical Additive Manufacturing (ECAM), has been selected by AEWIN Technologies to supply thermal management components for its next generation of Edge AI systems. AEWIN, a provider of high-performance network platforms and a member of the Qisda Business Group, will integrate ECAM-produced copper components into its upcoming cooling infrastructure.…",
+    "summary_cs": "Fabric8Labs, a San Diego-based manufacturer specializing in Electrochemical Additive Manufacturing (ECAM), has been selected by AEWIN Technologies to supply thermal management components for its next generation of Edge AI systems. AEWIN, a provider of high-performance network platforms and a member of the Qisda Business Group, will integrate ECAM-produced copper components into its upcoming cooling infrastructure.…",
+    "url": "https://3dprintingindustry.com/news/aewin-selects-fabric8labs-ecam-technology-for-edge-ai-thermal-management-239825/?utm_source=rss&utm_medium=rss&utm_campaign=aewin-selects-fabric8labs-ecam-technology-for-edge-ai-thermal-management",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/ECAM-enables-high-resolution-customized-designs-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-23T09:31:18+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "New lab at Glasgow University simulates space to test 3D printed parts for orbital safety",
+    "summary_en": "A new testing centre at University of Glasgow is simulating the conditions of outer space to help prevent 3D printed parts from becoming sources of high-speed orbital debris. Housed at the university&#8217;s James Watt School of Engineering, the NextSpace Testrig lab is designed to assess whether materials like metals, polymers and ceramics can survive extreme [&#8230;]…",
+    "summary_cs": "A new testing centre at University of Glasgow is simulating the conditions of outer space to help prevent 3D printed parts from becoming sources of high-speed orbital debris. Housed at the university&#8217;s James Watt School of Engineering, the NextSpace Testrig lab is designed to assess whether materials like metals, polymers and ceramics can survive extreme [&#8230;]…",
+    "url": "https://3dprintingindustry.com/news/new-lab-at-glasgow-university-simulates-space-to-test-3d-printed-parts-for-orbital-safety-239810/?utm_source=rss&utm_medium=rss&utm_campaign=new-lab-at-glasgow-university-simulates-space-to-test-3d-printed-parts-for-orbital-safety",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/image-4-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-05-23T09:22:05+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "AIRSYS’ new global HQ to house a massive 3D printing factory for liquid cooling parts",
+    "summary_en": "AIRSYS Cooling Technologies is set to open a new global headquarters and expand its manufacturing operations in Spartanburg County, South Carolina. Located at 6228 Highway 101 in Woodruff, the new site is expected to create 215 jobs following a $40 million investment. The expansion comes as AIRSYS marks its 30th year in business.&#160; The company [&#8230;]…",
+    "summary_cs": "AIRSYS Cooling Technologies is set to open a new global headquarters and expand its manufacturing operations in Spartanburg County, South Carolina. Located at 6228 Highway 101 in Woodruff, the new site is expected to create 215 jobs following a $40 million investment. The expansion comes as AIRSYS marks its 30th year in business.&#160; The company [&#8230;]…",
+    "url": "https://3dprintingindustry.com/news/airsys-new-global-hq-to-house-a-massive-3d-printing-factory-for-liquid-cooling-parts-239784/?utm_source=rss&utm_medium=rss&utm_campaign=airsys-new-global-hq-to-house-a-massive-3d-printing-factory-for-liquid-cooling-parts",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/image-3-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-05-23T09:11:56+00:00",
     "topic": "General"
   },
   {
@@ -370,6 +430,16 @@
     "topic": "General"
   },
   {
+    "title": "Stratasys Acquires Forward AM’s Assets, Broadening Its Advanced Materials Portfolio",
+    "summary_en": "Stratasys, a 3D printer OEM, has announced the acquisition of assets from Forward AM GmbH, a BASF spin-off based in Germany. This strategic transaction expands Stratasys’ materials portfolio, particularly enhancing its capabilities in Selective Absorption Fusion (SAF) and Digital Light Processing (DLP) technologies. The acquisition also reinforces Stratasys’ commitment to driving innovation and maintaining its…",
+    "summary_cs": "Stratasys, a 3D printer OEM, has announced the acquisition of assets from Forward AM GmbH, a BASF spin-off based in Germany. This strategic transaction expands Stratasys’ materials portfolio, particularly enhancing its capabilities in Selective Absorption Fusion (SAF) and Digital Light Processing (DLP) technologies. The acquisition also reinforces Stratasys’ commitment to driving innovation and maintaining its…",
+    "url": "https://3dprintingindustry.com/news/stratasys-acquires-forward-ams-assets-broadening-its-advanced-materials-portfolio-239786/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-acquires-forward-ams-assets-broadening-its-advanced-materials-portfolio",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/forward-am-use-case-concrete-formworks-printing-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-22T12:47:10+00:00",
+    "topic": "General"
+  },
+  {
     "title": "New York DA Proposes Law to Stop Sharing Digital 3D Printed Gun Blueprints",
     "summary_en": "A new bill in New York seeks to stop the spread of digital blueprints used to 3D print gun parts and auto sears. These small devices can turn a semi-automatic...…",
     "summary_cs": "A new bill in New York seeks to stop the spread of digital blueprints used to 3D print gun parts and auto sears. These small devices can turn a semi-automatic...…",
@@ -387,6 +457,16 @@
     "image": "https://3dprint.com/wp-content/uploads/2025/05/Damen-Gorinchem-HDPE-Workboat-HWB-903-C-LowRes-15361024-1024x683.jpg",
     "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
     "published": "2025-05-22T12:00:41+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "TCT 3Sixty Returns to Birmingham with Two Days of Innovation, Insight, and Industry Networking",
+    "summary_en": "The UK’s event for 3D printing and additive manufacturing, TCT 3Sixty, returns to the NEC Birmingham on 4–5 June 2025, bringing together more than 5,000 professionals for two days of live demonstrations, expert talks, and networking. Hosted by The TCT Group, the free-to-attend show is designed to offer a comprehensive look at how additive manufacturing [&#8230;]…",
+    "summary_cs": "The UK’s event for 3D printing and additive manufacturing, TCT 3Sixty, returns to the NEC Birmingham on 4–5 June 2025, bringing together more than 5,000 professionals for two days of live demonstrations, expert talks, and networking. Hosted by The TCT Group, the free-to-attend show is designed to offer a comprehensive look at how additive manufacturing [&#8230;]…",
+    "url": "https://3dprintingindustry.com/news/tct-3sixty-returns-to-birmingham-with-two-days-of-innovation-insight-and-industry-networking-239779/?utm_source=rss&utm_medium=rss&utm_campaign=tct-3sixty-returns-to-birmingham-with-two-days-of-innovation-insight-and-industry-networking",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/MTczNTM5ODI0ODY3NzAxMzY4ZDU4MmU-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-22T11:55:48+00:00",
     "topic": "General"
   },
   {
@@ -410,93 +490,13 @@
     "topic": "General"
   },
   {
-    "title": "FFF printer advantages: Understanding fused filament fabrication",
-    "summary_en": "The post FFF printer advantages: Understanding fused filament fabrication appeared first on UltiMaker.…",
-    "summary_cs": "The post FFF printer advantages: Understanding fused filament fabrication appeared first on UltiMaker.…",
-    "url": "https://ultimaker.com/learn/fff-printer-advantages-understanding-fused-filament-fabrication/",
-    "image": "https://via.placeholder.com/800x400.png?text=3D+News",
-    "source": "UltiMaker",
-    "published": "2025-05-22T10:10:57+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Application of the week: Sprocket wheel",
-    "summary_en": "The post Application of the week: Sprocket wheel appeared first on UltiMaker.…",
-    "summary_cs": "The post Application of the week: Sprocket wheel appeared first on UltiMaker.…",
-    "url": "https://ultimaker.com/learn/application-of-the-week-sprocket-wheel/",
-    "image": "https://via.placeholder.com/800x400.png?text=3D+News",
-    "source": "UltiMaker",
-    "published": "2025-05-22T08:03:13+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "AM market forecasts from 12 years ago – did they hold up?",
-    "summary_en": "The Atomic Layers: S10E21 (00288)…",
-    "summary_cs": "The Atomic Layers: S10E21 (00288)…",
-    "url": "https://www.3dprintingjournal.com/p/am-market-forecasts-from-12-years",
-    "image": "https://substack-post-media.s3.amazonaws.com/public/images/db099692-8ba9-4329-8e7f-eae422be4427_700x500.jpeg",
-    "source": "The 3D Printing Journal",
-    "published": "2025-05-21T17:45:02+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "New Study Finds Microplastics Strongly Adsorb Toxic Metals, Increasing Health Risks",
-    "summary_en": "There’s even more bad news about microplastics. Microplastics are rapidly becoming a major problem. They are the end result of poorly disposed plastic items. Discarded plastic eventually breaks down in the environment due to UV exposure, temperature changes, water exposure, or mechanical action. Ultimately, it becomes plastic “dust” that easily blows around the planet and&#8230; Continue reading New Study Finds…",
-    "summary_cs": "There’s even more bad news about microplastics. Microplastics are rapidly becoming a major problem. They are the end result of poorly disposed plastic items. Discarded plastic eventually breaks down in the environment due to UV exposure, temperature changes, water exposure, or mechanical action. Ultimately, it becomes plastic “dust” that easily blows around the planet and&#8230; Continue reading New Study Finds…",
-    "url": "https://www.fabbaloo.com/news/new-study-finds-microplastics-strongly-adsorb-toxic-metals-increasing-health-risks",
-    "image": "https://www.fabbaloo.com/wp-content/uploads/2023/06/microplastics-beach-cover-300x200.jpg",
-    "source": "Fabbaloo",
-    "published": "2025-05-21T16:34:00+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "05-21-2014: Sculpteo launched its 3D printing store on Amazon",
-    "summary_en": "It was the second platform of this type that Amazon added to its digital 3D printing marketplace…",
-    "summary_cs": "It was the second platform of this type that Amazon added to its digital 3D printing marketplace…",
-    "url": "https://www.3dprintingjournal.com/p/05-21-2014-sculpteo-launched-its",
-    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20d2642e-15a8-449f-9239-c2c1f153f150_1500x1000.jpeg",
-    "source": "The 3D Printing Journal",
-    "published": "2025-05-21T16:28:36+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Full-Color TPP 3D Printing Achieved With Electrically Responsive Resin System",
-    "summary_en": "Researchers have figured out a method to generate full colour using the TPP 3D printing process.\nThe post Full-Color TPP 3D Printing Achieved With Electrically Responsive Resin System appeared on Fabbaloo.…",
-    "summary_cs": "Researchers have figured out a method to generate full colour using the TPP 3D printing process.\nThe post Full-Color TPP 3D Printing Achieved With Electrically Responsive Resin System appeared on Fabbaloo.…",
-    "url": "https://www.fabbaloo.com/news/full-color-tpp-3d-printing-achieved-with-electrically-responsive-resin-system",
-    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/ef-tpp-cover-300x192.jpg",
-    "source": "Fabbaloo",
-    "published": "2025-05-21T15:33:00+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "ASME Takes Over Women in 3D Printing Operations",
-    "summary_en": "Big changes have taken place at Women in 3D Printing.\nThe post ASME Takes Over Women in 3D Printing Operations appeared on Fabbaloo.…",
-    "summary_cs": "Big changes have taken place at Women in 3D Printing.\nThe post ASME Takes Over Women in 3D Printing Operations appeared on Fabbaloo.…",
-    "url": "https://www.fabbaloo.com/news/asme-takes-over-women-in-3d-printing-operations",
-    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/asme-wi3dp-cover-300x169.jpg",
-    "source": "Fabbaloo",
-    "published": "2025-05-21T14:14:00+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "3D Printing News Briefs, May 21, 2025: Medical Training Models, Connectors, Makerspace, & More",
-    "summary_en": "We&#8217;re starting with research and medical in today&#8217;s 3D Printing News Briefs, as a research team from Caltech is using sound to 3D print deep inside living tissue, and rural...…",
-    "summary_cs": "We&#8217;re starting with research and medical in today&#8217;s 3D Printing News Briefs, as a research team from Caltech is using sound to 3D print deep inside living tissue, and rural...…",
-    "url": "https://3dprint.com/318202/3d-printing-news-briefs-5-21-2025/",
-    "image": "https://3dprint.com/wp-content/uploads/2025/05/Gao_Wei-In-Vivo-3D-Printed-Patterns-1-WEB.width-450.jpg",
-    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
-    "published": "2025-05-21T13:30:11+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "GM 3D Prints 130 Components for the Cadillac CELESTIQ",
-    "summary_en": "With the highest concentration of 3D printed parts of any General Motors product, the CELESTIQ is one of the most custom-commissioned vehicles on the market.\nThe post GM 3D Prints 130 Components for the Cadillac CELESTIQ appeared on Fabbaloo.…",
-    "summary_cs": "With the highest concentration of 3D printed parts of any General Motors product, the CELESTIQ is one of the most custom-commissioned vehicles on the market.\nThe post GM 3D Prints 130 Components for the Cadillac CELESTIQ appeared on Fabbaloo.…",
-    "url": "https://www.fabbaloo.com/news/gm-3d-prints-130-components-for-the-cadillac-celestiq",
-    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/celestiq-cover-300x181.jpg",
-    "source": "Fabbaloo",
-    "published": "2025-05-21T12:52:00+00:00",
+    "title": "Additive manufacturing unlocks new possibilities in acoustic metamaterials design",
+    "summary_en": "A review published in Virtual and Physical Prototyping explores the growing field of additively manufactured acoustic metamaterials (ACA-Meta), highlighting how 3D printing technologies enable novel designs for effective sound absorption across diverse applications. Authored by researchers from Khalifa University and Dassault Aviation, the paper classifies acoustic metamaterials into perforated, slotted, cellular,…",
+    "summary_cs": "A review published in Virtual and Physical Prototyping explores the growing field of additively manufactured acoustic metamaterials (ACA-Meta), highlighting how 3D printing technologies enable novel designs for effective sound absorption across diverse applications. Authored by researchers from Khalifa University and Dassault Aviation, the paper classifies acoustic metamaterials into perforated, slotted, cellular,…",
+    "url": "https://3dprintingindustry.com/news/additive-manufacturing-unlocks-new-possibilities-in-acoustic-metamaterials-design-239749/?utm_source=rss&utm_medium=rss&utm_campaign=additive-manufacturing-unlocks-new-possibilities-in-acoustic-metamaterials-design",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/Additively-manufactured-metamaterials-for-acoustic-absorption-a-review-4-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-22T10:39:23+00:00",
     "topic": "General"
   }
 ]
