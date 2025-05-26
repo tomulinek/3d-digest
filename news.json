@@ -1,5 +1,95 @@
 [
   {
+    "title": "05-26-2016: BCN3D Technologies made its Sigma 3D printer 100% open-source",
+    "summary_en": "The release included BCN3D Sigma firmware, BCN3D Cura source code, and detailed mechanical designs…",
+    "summary_cs": "The release included BCN3D Sigma firmware, BCN3D Cura source code, and detailed mechanical designs…",
+    "url": "https://www.3dprintingjournal.com/p/05-26-2016-bcn3d-technologies-made",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e5e76b9-0fe2-4c38-8e5d-af9f3dfc927a_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-26T17:11:10+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "M.A.T. 3D Printer by 3DCeram Offers Multi-Toolhead System for Metal, Ceramic, and Paste Extrusion",
+    "summary_en": "I saw a desktop 3D printer that is designed to print both metal and ceramic materials.\nThe post M.A.T. 3D Printer by 3DCeram Offers Multi-Toolhead System for Metal, Ceramic, and Paste Extrusion appeared on Fabbaloo.…",
+    "summary_cs": "I saw a desktop 3D printer that is designed to print both metal and ceramic materials.\nThe post M.A.T. 3D Printer by 3DCeram Offers Multi-Toolhead System for Metal, Ceramic, and Paste Extrusion appeared on Fabbaloo.…",
+    "url": "https://www.fabbaloo.com/news/m-a-t-3d-printer-by-3dceram-offers-multi-toolhead-system-for-metal-ceramic-and-paste-extrusion",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/3dceram-mat-cover-1-300x212.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-05-26T16:42:00+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "White Tower Project Signals Shift Toward Parallelized, Prefab 3D Printing in Construction",
+    "summary_en": "I had some thoughts about the speed of 3DCP and how large buildings can be 3D printed quickly.\nThe post White Tower Project Signals Shift Toward Parallelized, Prefab 3D Printing in Construction appeared on Fabbaloo.…",
+    "summary_cs": "I had some thoughts about the speed of 3DCP and how large buildings can be 3D printed quickly.\nThe post White Tower Project Signals Shift Toward Parallelized, Prefab 3D Printing in Construction appeared on Fabbaloo.…",
+    "url": "https://www.fabbaloo.com/news/white-tower-project-signals-shift-toward-parallelized-prefab-3d-printing-in-construction",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/white-tower-cover-300x150.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-05-26T15:22:00+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "Miami pilot project evaluates 3D printed BIOCAP seawall tiles",
+    "summary_en": "Coastal cities like Miami are urgently looking for solutions to help combat ecological issues like flooding and erosion. One particularly promising answer is the installation of advanced seawalls designed to &#8230;\nThe post Miami pilot project evaluates 3D printed BIOCAP seawall tiles appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "summary_cs": "Coastal cities like Miami are urgently looking for solutions to help combat ecological issues like flooding and erosion. One particularly promising answer is the installation of advanced seawalls designed to &#8230;\nThe post Miami pilot project evaluates 3D printed BIOCAP seawall tiles appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "url": "https://www.voxelmatters.com/miami-pilot-project-biocap-seawall-tiles/",
+    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/biocap-3.jpeg",
+    "source": "VoxelMatters – The heart of additive manufacturing",
+    "published": "2025-05-26T15:00:57+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "VEEM awarded $2M to advance nuclear submarine supply chain",
+    "summary_en": "VEEM, a designer and manufacturer of marine propulsion and stabilization systems for the global luxury motor yacht, fast ferry, commercial workboat, and defense industries, has been awarded two grants totalling &#8230;\nThe post VEEM awarded $2M to advance nuclear submarine supply chain appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "summary_cs": "VEEM, a designer and manufacturer of marine propulsion and stabilization systems for the global luxury motor yacht, fast ferry, commercial workboat, and defense industries, has been awarded two grants totalling &#8230;\nThe post VEEM awarded $2M to advance nuclear submarine supply chain appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "url": "https://www.voxelmatters.com/veem-awarded-2m-to-advance-nuclear-submarine-supply-chain/",
+    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/VEEM-Website-size-900x604-1.jpeg",
+    "source": "VoxelMatters – The heart of additive manufacturing",
+    "published": "2025-05-26T14:00:22+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "SpecOptiBlend Software Solves Color Challenges in DIY Filament Recycling",
+    "summary_en": "There’s new software that can help sort 3D print scraps for recycling into properly coloured filament.\nThe post SpecOptiBlend Software Solves Color Challenges in DIY Filament Recycling appeared on Fabbaloo.…",
+    "summary_cs": "There’s new software that can help sort 3D print scraps for recycling into properly coloured filament.\nThe post SpecOptiBlend Software Solves Color Challenges in DIY Filament Recycling appeared on Fabbaloo.…",
+    "url": "https://www.fabbaloo.com/news/specoptiblend-software-solves-color-challenges-in-diy-filament-recycling",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/SpecOptiBlend-cover-300x247.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-05-26T13:36:00+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "New CZS KRAFt center launched to drive resource-efficient AM",
+    "summary_en": "The newly established CZS Center for Circular Economy and Resource Efficiency using Additive Manufacturing Technologies (KRAFt Center) aims to make additive manufacturing process chains more sustainable. A joint initiative by &#8230;\nThe post New CZS KRAFt center launched to drive resource-efficient AM appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "summary_cs": "The newly established CZS Center for Circular Economy and Resource Efficiency using Additive Manufacturing Technologies (KRAFt Center) aims to make additive manufacturing process chains more sustainable. A joint initiative by &#8230;\nThe post New CZS KRAFt center launched to drive resource-efficient AM appeared first on VoxelMatters - The heart of additive manufacturing.…",
+    "url": "https://www.voxelmatters.com/new-czs-kraft-center-launched-to-drive-resource-efficient-am/",
+    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-26-at-12.58.17.jpeg",
+    "source": "VoxelMatters – The heart of additive manufacturing",
+    "published": "2025-05-26T13:00:41+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "3D Printed Patches Made with a “Miracle Tree” Could Change How Doctors Treat Colon Cancer",
+    "summary_en": "A team of researchers in Türkiye (formerly known as Turkey) may have found a smarter way to treat one of the deadliest cancers, using a 3D printed patch powered by...…",
+    "summary_cs": "A team of researchers in Türkiye (formerly known as Turkey) may have found a smarter way to treat one of the deadliest cancers, using a 3D printed patch powered by...…",
+    "url": "https://3dprint.com/318319/3d-printed-patches-made-with-a-miracle-tree-could-change-how-doctors-treat-colon-cancer/",
+    "image": "https://3dprint.com/wp-content/uploads/2025/05/300556_452683.webp",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-26T13:00:28+00:00",
+    "topic": "General"
+  },
+  {
+    "title": "3DPOD 255: Process Streamlining with Ruben Meuth, 3D Spark",
+    "summary_en": "Ruben Meuth worked at Fraunhofer before helping to start 3D Spark, a German startup that helps companies identify, cost, quote, and screen 3D printed parts. There&#8217;s a lot going on...…",
+    "summary_cs": "Ruben Meuth worked at Fraunhofer before helping to start 3D Spark, a German startup that helps companies identify, cost, quote, and screen 3D printed parts. There&#8217;s a lot going on...…",
+    "url": "https://3dprint.com/317242/3dpod-255-process-streamlining-ruben-meuth-3d-spark/",
+    "image": "https://via.placeholder.com/800x400.png?text=3D+News",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-26T12:30:16+00:00",
+    "topic": "General"
+  },
+  {
     "title": "Design of the Week: Infill Heritage",
     "summary_en": "This week’s selection is “Infill Heritage” by BBA Studio and partners.\nThe post Design of the Week: Infill Heritage appeared on Fabbaloo.…",
     "summary_cs": "This week’s selection is “Infill Heritage” by BBA Studio and partners.\nThe post Design of the Week: Infill Heritage appeared on Fabbaloo.…",
@@ -260,26 +350,6 @@
     "topic": "General"
   },
   {
-    "title": "Lithoz achieves ISO 13485 certification",
-    "summary_en": "Lithoz, a high-performance ceramic materials and 3D printing technology company, has certified its quality management system to ISO 13485 standards, marking a significant milestone in its commitment to providing high-performance &#8230;\nThe post Lithoz achieves ISO 13485 certification appeared first on VoxelMatters - The heart of additive manufacturing.…",
-    "summary_cs": "Lithoz, a high-performance ceramic materials and 3D printing technology company, has certified its quality management system to ISO 13485 standards, marking a significant milestone in its commitment to providing high-performance &#8230;\nThe post Lithoz achieves ISO 13485 certification appeared first on VoxelMatters - The heart of additive manufacturing.…",
-    "url": "https://www.voxelmatters.com/lithoz-achieves-iso-13485-certification/",
-    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/HA480_HQ-11-768x512-1.webp",
-    "source": "VoxelMatters – The heart of additive manufacturing",
-    "published": "2025-05-23T13:00:16+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Form 4 review: the definitive resin 3D printing experience on your desktop",
-    "summary_en": "Few companies in the world of 3D printing have been able to continue to grow and evolve their technology as Formlabs. Unlike many market leaders in the filament extrusion segment, &#8230;\nThe post Form 4 review: the definitive resin 3D printing experience on your desktop appeared first on VoxelMatters - The heart of additive manufacturing.…",
-    "summary_cs": "Few companies in the world of 3D printing have been able to continue to grow and evolve their technology as Formlabs. Unlike many market leaders in the filament extrusion segment, &#8230;\nThe post Form 4 review: the definitive resin 3D printing experience on your desktop appeared first on VoxelMatters - The heart of additive manufacturing.…",
-    "url": "https://www.voxelmatters.com/form-4-review-the-definitive-resin-3d-printing-experience-on-your-desktop/",
-    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/Form-4-review.jpg",
-    "source": "VoxelMatters – The heart of additive manufacturing",
-    "published": "2025-05-23T12:41:05+00:00",
-    "topic": "General"
-  },
-  {
     "title": "Nano Dimension’s Post-Acquisition Focus Turns to Profitability",
     "summary_en": "After finalizing its acquisitions of Desktop Metal and Markforged, Nano Dimension (Nasdaq: NNDM) is moving away from aggressive M&#38;A and toward stronger strategic integration and long-term profitability. Julien Lederman, the...…",
     "summary_cs": "After finalizing its acquisitions of Desktop Metal and Markforged, Nano Dimension (Nasdaq: NNDM) is moving away from aggressive M&#38;A and toward stronger strategic integration and long-term profitability. Julien Lederman, the...…",
@@ -307,16 +377,6 @@
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/in-vivo-printing-cover-300x229.jpg",
     "source": "Fabbaloo",
     "published": "2025-05-23T11:12:00+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Equinor 3D prints 4,000 metal parts using F3nice recycled materials",
-    "summary_en": "Equinor, a global energy company known for its proactive stance on sustainability, has made a significant leap forward in its environmental strategy by 3D printing 4,000 metal components using recycled &#8230;\nThe post Equinor 3D prints 4,000 metal parts using F3nice recycled materials appeared first on VoxelMatters - The heart of additive manufacturing.…",
-    "summary_cs": "Equinor, a global energy company known for its proactive stance on sustainability, has made a significant leap forward in its environmental strategy by 3D printing 4,000 metal components using recycled &#8230;\nThe post Equinor 3D prints 4,000 metal parts using F3nice recycled materials appeared first on VoxelMatters - The heart of additive manufacturing.…",
-    "url": "https://www.voxelmatters.com/equinor-3d-prints-4000-metal-parts-using-f3nice-recycled-materials/",
-    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/Equinor_F3nice_-2025-05-23-alle-12.45.30.jpg",
-    "source": "VoxelMatters – The heart of additive manufacturing",
-    "published": "2025-05-23T10:51:18+00:00",
     "topic": "General"
   },
   {
@@ -437,66 +497,6 @@
     "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ef5ad74-0714-423e-93fe-c61a6835fb8c_1500x1000.jpeg",
     "source": "The 3D Printing Journal",
     "published": "2025-05-22T17:27:30+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "05-22-2012: Objet released Objet30 Pro 3D printer",
-    "summary_en": "The system was offering a choice of seven different materials…",
-    "summary_cs": "The system was offering a choice of seven different materials…",
-    "url": "https://www.3dprintingjournal.com/p/05-22-2012-objet-released-objet30",
-    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff55b0175-38ab-42ba-b7fd-52a8215bbdb8_1500x1000.jpeg",
-    "source": "The 3D Printing Journal",
-    "published": "2025-05-22T17:18:02+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "AI Slop’ Threatens Viability of 3D Model Platforms as Content Moderation Struggles to Keep Up",
-    "summary_en": "AI slop is going to cause a transformation in 3D model repositories.\nThe post AI Slop&#8217; Threatens Viability of 3D Model Platforms as Content Moderation Struggles to Keep Up appeared on Fabbaloo.…",
-    "summary_cs": "AI slop is going to cause a transformation in 3D model repositories.\nThe post AI Slop&#8217; Threatens Viability of 3D Model Platforms as Content Moderation Struggles to Keep Up appeared on Fabbaloo.…",
-    "url": "https://www.fabbaloo.com/news/ai-slop-threatens-viability-of-3d-model-platforms-as-content-moderation-struggles-to-keep-up",
-    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/ai-slop-cover2-300x170.jpg",
-    "source": "Fabbaloo",
-    "published": "2025-05-22T16:22:00+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "PaintStation Offers Enclosed, Filtered Workspace for Precision Painting of 3D Printed Models",
-    "summary_en": "A new project on Kickstarter should be of interest to anyone printing gaming parts: PaintStation.\nThe post PaintStation Offers Enclosed, Filtered Workspace for Precision Painting of 3D Printed Models appeared on Fabbaloo.…",
-    "summary_cs": "A new project on Kickstarter should be of interest to anyone printing gaming parts: PaintStation.\nThe post PaintStation Offers Enclosed, Filtered Workspace for Precision Painting of 3D Printed Models appeared on Fabbaloo.…",
-    "url": "https://www.fabbaloo.com/news/paintstation-offers-enclosed-filtered-workspace-for-precision-painting-of-3d-printed-models",
-    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/paintstation-cover-300x184.jpeg",
-    "source": "Fabbaloo",
-    "published": "2025-05-22T15:12:24+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "3D Printed Skin: Australia Leads the World with Breakthrough Trial in Sydney",
-    "summary_en": "A world-first clinical trial is underway in Sydney, and it’s rewriting the future of burn treatment. At the Concord Burns Unit, a patient has become the first in the world...…",
-    "summary_cs": "A world-first clinical trial is underway in Sydney, and it’s rewriting the future of burn treatment. At the Concord Burns Unit, a patient has become the first in the world...…",
-    "url": "https://3dprint.com/318254/3d-printed-skin-australia-leads-the-world-with-breakthrough-trial-in-sydney/",
-    "image": "https://3dprint.com/wp-content/uploads/2025/05/Screenshot-2025-05-21-at-23-05-26-Sydney-Local-Health-District-@sydneylocalhealthdistrict-•-Instagram-photos-and-videos.png",
-    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
-    "published": "2025-05-22T13:30:03+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "University of Glasgow Opens NextSpace Testrig to Simulate Harsh Space Conditions for 3D Printed Parts",
-    "summary_en": "Another big step towards space-based 3D printing has taken place in Scotland.\nThe post University of Glasgow Opens NextSpace Testrig to Simulate Harsh Space Conditions for 3D Printed Parts appeared on Fabbaloo.…",
-    "summary_cs": "Another big step towards space-based 3D printing has taken place in Scotland.\nThe post University of Glasgow Opens NextSpace Testrig to Simulate Harsh Space Conditions for 3D Printed Parts appeared on Fabbaloo.…",
-    "url": "https://www.fabbaloo.com/news/university-of-glasgow-opens-nextspace-testrig-to-simulate-harsh-space-conditions-for-3d-printed-parts",
-    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/glasgow-nextspace-testrig-cover-300x218.jpeg",
-    "source": "Fabbaloo",
-    "published": "2025-05-22T13:21:00+00:00",
-    "topic": "General"
-  },
-  {
-    "title": "Will the Slate Truck Usher in a New Era of 3D Printing Car Customization?",
-    "summary_en": "In 2021, we wrote an article about the auto industry perhaps ushering in a new era of coach building. With an electric car putting most of its components in a...…",
-    "summary_cs": "In 2021, we wrote an article about the auto industry perhaps ushering in a new era of coach building. With an electric car putting most of its components in a...…",
-    "url": "https://3dprint.com/318229/will-the-slate-truck-usher-in-a-new-era-of-3d-printing-car-customization/",
-    "image": "https://3dprint.com/wp-content/uploads/2025/05/Hero-Blank-Slate-and-SUV_web-1024x683.jpg",
-    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
-    "published": "2025-05-22T13:00:45+00:00",
     "topic": "General"
   }
 ]
