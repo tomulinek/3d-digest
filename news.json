@@ -1,128 +1,20 @@
 [
   {
-    "title": "Mapping the Expanding Role of 3D Printing in Micro and Nano Device Fabrication",
+    "title": "Jaká je hodnota trhu s polymerní aditivní výrobou? Který region světa generuje nejvyšší příjmy? Které 3D tiskárny je lepší nekupovat?",
     "summary_bullets_cs": [
-      "Studie zkoumá nejnovější pokroky v oblasti 3D tisku zaměřeného na mikroelektroniku a mikrofluidiku.",
-      "Výzkum zahrnuje spolupráci několika významných univerzit a výzkumných institucí v Číně.",
-      "Článek přináší přehled aplikací a technologií, které posouvají hranice aditivní výroby v mikro a nano výrobě."
+      "Trh s polymerní aditivní výrobou vykazuje značný růst a jeho hodnota se neustále zvyšuje.",
+      "Nejvyšší příjmy pocházejí z regionu Severní Ameriky, následovaného Evropou a Asií.",
+      "V článku jsou uvedeny doporučení ohledně 3D tiskáren, které by se měly vyhnout kvůli nízké kvalitě a spolehlivosti."
     ],
-    "title_en": "Mapping the Expanding Role of 3D Printing in Micro and Nano Device Fabrication",
+    "title_en": "How much is the polymer AM market worth? Which region of the world generates the highest revenues? Which 3D printers are better not to buy?",
     "summary_bullets_en": [
-      "Researchers from multiple Chinese universities and institutions have published a review on advancements in 3D printing technologies for micro and nano device fabrication.",
-      "The review focuses on applications in microelectronics and microfluidics, highlighting the potential of 3D printing to revolutionize these fields.",
-      "The findings were published in a paper on Springer, indicating a growing interest in integrating additive manufacturing into high-tech device production."
+      "The polymer additive manufacturing (AM) market is experiencing significant growth, with increasing investments and advancements in technology.",
+      "North America is currently the leading region in terms of revenue generation in the polymer AM market, driven by high demand in various industries.",
+      "The article highlights specific 3D printer models that are recommended against purchasing due to performance issues or lack of support."
     ],
-    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/41378_2024_812_Figa_HTML-150x100.webp",
-    "source": "3D Printing Industry",
-    "published": "2025-05-23T09:33:33+00:00",
-    "url": "https://3dprintingindustry.com/news/mapping-the-expanding-role-of-3d-printing-in-micro-and-nano-device-fabrication-239815/?utm_source=rss&utm_medium=rss&utm_campaign=mapping-the-expanding-role-of-3d-printing-in-micro-and-nano-device-fabrication"
-  },
-  {
-    "title": "Nová laboratoř na univerzitě v Glasgow simuluje vesmír pro testování 3D tištěných dílů pro bezpečnost na orbitě",
-    "summary_bullets_cs": [
-      "Nové testovací centrum NextSpace Testrig na univerzitě v Glasgow simuluje podmínky vnějšího vesmíru.",
-      "Cílem laboratoře je zabránit tomu, aby 3D tištěné díly staly zdrojem rychlostních orbitálních trosků.",
-      "Testují se materiály jako kovy, polymery a keramika, aby se zjistilo, zda odolávají extrémním podmínkám."
-    ],
-    "title_en": "New lab at Glasgow University simulates space to test 3D printed parts for orbital safety",
-    "summary_bullets_en": [
-      "The University of Glasgow has launched the NextSpace Testrig lab to simulate outer space conditions for testing 3D printed components.",
-      "The lab aims to evaluate the durability of materials such as metals, polymers, and ceramics to prevent them from contributing to orbital debris.",
-      "This initiative is part of ongoing efforts to enhance the safety and reliability of 3D printed parts used in space applications."
-    ],
-    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/image-4-150x100.png",
-    "source": "3D Printing Industry",
-    "published": "2025-05-23T09:22:05+00:00",
-    "url": "https://3dprintingindustry.com/news/new-lab-at-glasgow-university-simulates-space-to-test-3d-printed-parts-for-orbital-safety-239810/?utm_source=rss&utm_medium=rss&utm_campaign=new-lab-at-glasgow-university-simulates-space-to-test-3d-printed-parts-for-orbital-safety"
-  },
-  {
-    "title": "Additivní výroba odemyká nové možnosti v návrhu akustických metamateriálů",
-    "summary_bullets_cs": [
-      "Článek se zaměřuje na využití aditivní výroby při návrhu akustických metamateriálů, které efektivně pohlcují zvuk.",
-      "Autoři z Khalifa University a Dassault Aviation klasifikují akustické metamateriály do čtyř typů: perforované, slotované, buněčné a hybridní.",
-      "3D tisk umožňuje inovativní designy, které mohou být aplikovány v různých oblastech, čímž se rozšiřují možnosti jejich využití."
-    ],
-    "title_en": "Additive manufacturing unlocks new possibilities in acoustic metamaterials design",
-    "summary_bullets_en": [
-      "A review in Virtual and Physical Prototyping discusses advancements in additively manufactured acoustic metamaterials (ACA-Meta) and their potential applications in sound absorption.",
-      "The study, conducted by researchers from Khalifa University and Dassault Aviation, categorizes acoustic metamaterials into four types: perforated, slotted, cellular, and hybrid.",
-      "The paper emphasizes how 3D printing technologies facilitate innovative designs that enhance the effectiveness of sound absorption in various fields."
-    ],
-    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/Additively-manufactured-metamaterials-for-acoustic-absorption-a-review-4-150x100.jpeg",
-    "source": "3D Printing Industry",
-    "published": "2025-05-22T10:39:23+00:00",
-    "url": "https://3dprintingindustry.com/news/additive-manufacturing-unlocks-new-possibilities-in-acoustic-metamaterials-design-239749/?utm_source=rss&utm_medium=rss&utm_campaign=additive-manufacturing-unlocks-new-possibilities-in-acoustic-metamaterials-design"
-  },
-  {
-    "title": "Auxilium zahajuje klinickou studii pro zařízení na regeneraci nervů",
-    "summary_bullets_cs": [
-      "Společnost Auxilium Biotechnologies zahájila klinickou studii zaměřenou na bezpečnost a účinnost zařízení NeuroSpan Bridge.",
-      "NeuroSpan Bridge je investigativní zařízení navržené k zlepšení regenerace nervů.",
-      "První pacient byl již zapsán do této klinické studie."
-    ],
-    "title_en": "Auxilium launches clinical trial for nerve regeneration device",
-    "summary_bullets_en": [
-      "Auxilium Biotechnologies has initiated a clinical trial for NeuroSpan Bridge, a device aimed at enhancing nerve regeneration.",
-      "The first patient has been enrolled in the trial, which will assess the device's safety and efficacy.",
-      "This development represents a significant step in regenerative medicine, focusing on nerve repair technologies."
-    ],
-    "image": "https://www.voxelmatters.com/wp-content/uploads/2025/05/NeuroSpan-Bridge-Auxilium-Biotechnologies-768x499-1.jpg",
-    "source": "VoxelMatters – The heart of additive manufacturing",
-    "published": "2025-05-25T16:00:17+00:00",
-    "url": "https://www.voxelmatters.com/auxilium-launches-clinical-trial-for-nerve-regeneration-device/"
-  },
-  {
-    "title": "3D tištěná kůže: Austrálie vede svět s průlomovým pokusem v Sydney",
-    "summary_bullets_cs": [
-      "V Sydney probíhá první klinický pokus na světě zaměřený na 3D tištěnou kůži pro léčbu popálenin.",
-      "Pacient v jednotce popálenin Concord se stal prvním na světě, kdo podstoupil tuto inovativní léčbu.",
-      "Tento průlom má potenciál zásadně změnit přístup k léčbě popálenin a zlepšit výsledky pro pacienty."
-    ],
-    "title_en": "3D Printed Skin: Australia Leads the World with Breakthrough Trial in Sydney",
-    "summary_bullets_en": [
-      "A groundbreaking clinical trial for 3D printed skin is being conducted at the Concord Burns Unit in Sydney.",
-      "The trial aims to revolutionize burn treatment by using bioengineered skin to aid in patient recovery.",
-      "This initiative positions Australia at the forefront of advancements in regenerative medicine and additive manufacturing technologies."
-    ],
-    "image": "https://via.placeholder.com/800x400.png?text=3D+News",
-    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
-    "published": "2025-05-22T13:30:03+00:00",
-    "url": "https://3dprint.com/318254/3d-printed-skin-australia-leads-the-world-with-breakthrough-trial-in-sydney/"
-  },
-  {
-    "title": "A short review of clichés that damage the image of the AM industry",
-    "summary_bullets_cs": [
-      "Aditivní výroba je často vnímána jako technologie pro hobbyisty, což podceňuje její průmyslový potenciál.",
-      "Mnoho lidí si stále myslí, že 3D tisk je pomalý a neefektivní, i když moderní technologie umožňují rychlou a efektivní výrobu.",
-      "Cliché o nízké kvalitě a slabé trvanlivosti 3D tištěných produktů brání širšímu přijetí této technologie v různých odvětvích."
-    ],
-    "title_en": "A short review of clichés that damage the image of the AM industry",
-    "summary_bullets_en": [
-      "The article discusses common misconceptions and clichés that negatively affect the perception of the additive manufacturing (AM) industry.",
-      "It highlights how these stereotypes can hinder the growth and acceptance of AM technologies in various sectors.",
-      "The piece emphasizes the importance of addressing these clichés to foster a more accurate understanding of the capabilities and benefits of 3D printing."
-    ],
-    "image": "https://substack-post-media.s3.amazonaws.com/public/images/642f2dc0-abe5-4148-a940-a98882e31a4e_700x500.jpeg",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/60998d12-0c96-4173-94c0-19fdaff2539b_700x500.jpeg",
     "source": "The 3D Printing Journal",
-    "published": "2025-05-24T16:39:50+00:00",
-    "url": "https://www.3dprintingjournal.com/p/a-short-review-of-cliches-that-damage"
-  },
-  {
-    "title": "05-23-1984: Yoji Marutani podal patentovou přihlášku na \"optickou formovací metodu\"",
-    "summary_bullets_cs": [
-      "Yoji Marutani podal patentovou přihlášku na novou metodu 3D tisku.",
-      "Tato metoda představuje další variantu stereolitografie.",
-      "Patentová přihláška byla podána v roce 1984, což ukazuje na dlouhou historii vývoje aditivních technologií."
-    ],
-    "title_en": "05-23-1984: Yoji Marutani filed a patent application for the \"optical forming method\"",
-    "summary_bullets_en": [
-      "Yoji Marutani submitted a patent application for a new technique in additive manufacturing.",
-      "The \"optical forming method\" represents a variation of the established stereolithography process.",
-      "This innovation contributes to the evolution of 3D printing technologies."
-    ],
-    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c761fa8-ead0-4335-b269-275c0e5d76e7_1500x1000.jpeg",
-    "source": "The 3D Printing Journal",
-    "published": "2025-05-23T16:12:02+00:00",
-    "url": "https://www.3dprintingjournal.com/p/05-23-1984-yoji-marutani-filed-a"
+    "published": "2025-05-26T18:32:02+00:00",
+    "url": "https://www.3dprintingjournal.com/p/how-much-is-the-polymer-am-market"
   }
 ]
