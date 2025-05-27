@@ -1,5 +1,167 @@
 [
   {
+    "title": "Zortrax představil Inventure",
+    "summary": "A groundbreaking 3D printer that never lived up to its promises",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99a18db9-aeda-469c-987d-e1e3c30b55d9_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-27T07:58:35",
+    "url": "https://www.3dprintingjournal.com/p/05-27-2015-zortrax-presented-inventure",
+    "title_en": "Zortrax Unveils Inventure",
+    "summary_bullets_en": [
+      "Zortrax introduced the Inventure 3D printer in 2015.",
+      "The printer was marketed as a groundbreaking innovation.",
+      "Despite high expectations, it failed to meet its promises."
+    ],
+    "summary_bullets_cs": [
+      "Zortrax v roce 2015 představil 3D tiskárnu Inventure.",
+      "Tiskárna byla propagována jako průlomová inovace.",
+      "Navzdory vysokým očekáváním nesplnila své sliby."
+    ]
+  },
+  {
+    "title": "Palantir spolupracuje s Divergent na pokročilé AI řízené výrobě na vyžádání",
+    "summary": "Software provider Palantir Technologies and AI-driven 3D manufacturing solutions provider, Divergent Technologies, have formed a strategic partnership to integrate Divergent’s advanced manufacturing system with Palantir’s software platforms. The collaboration enables users of Palantir’s Warp Speed and Foundry systems to access Divergent’s on-demand components, improving flexibility and accelerating production timelines. Divergent explained that the integration gives [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/DAPS-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-05-27T07:37:04",
+    "url": "https://3dprintingindustry.com/news/palantir-partners-with-divergent-to-advance-ai-powered-on-demand-manufacturing-239886/?utm_source=rss&utm_medium=rss&utm_campaign=palantir-partners-with-divergent-to-advance-ai-powered-on-demand-manufacturing",
+    "title_en": "Palantir Partners with Divergent to Advance AI-Powered On-Demand Manufacturing",
+    "summary_bullets_en": [
+      "Palantir Technologies and Divergent Technologies have formed a strategic partnership.",
+      "The collaboration integrates Divergent’s manufacturing system with Palantir’s software platforms.",
+      "Users of Palantir’s Warp Speed and Foundry systems can access Divergent’s on-demand components.",
+      "The integration aims to improve flexibility and accelerate production timelines."
+    ],
+    "summary_bullets_cs": [
+      "Palantir Technologies a Divergent Technologies vytvořily strategické partnerství.",
+      "Spolupráce integruje výrobní systém Divergent s platformami Palantir.",
+      "Uživatelé systémů Warp Speed a Foundry od Palantir mohou přistupovat k komponentům Divergent na vyžádání.",
+      "Integrace má za cíl zlepšit flexibilitu a urychlit výrobní časové osy."
+    ]
+  },
+  {
+    "title": "AIMEN vyvíjí první 3D tištěnou kryogenní nádrž pro aplikace v letadlech na kapalný vodík",
+    "summary": "AIMEN Technology Centre in O Porriño, Galicia, has completed the production of Spain’s first large-format 3D‑printed cryogenic tank designed for aircraft hydrogen storage. The 1.5 m diameter demonstrator is part of the EU-funded Overleaf programme, led by ACITURRI, which targets zero-emission aviation through lightweight and sustainable structures. The printed tank features a dual-wall architecture: an inner liner [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/aimen-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-27T07:36:14",
+    "url": "https://3dprintingindustry.com/news/aimen-develops-first-3d-printed-cryogenic-tank-for-liquid-hydrogen-aircraft-applications-239892/?utm_source=rss&utm_medium=rss&utm_campaign=aimen-develops-first-3d-printed-cryogenic-tank-for-liquid-hydrogen-aircraft-applications",
+    "title_en": "AIMEN develops first 3D printed cryogenic tank for liquid hydrogen aircraft applications",
+    "summary_bullets_en": [
+      "AIMEN Technology Centre in Galicia has produced Spain's first large-format 3D-printed cryogenic tank.",
+      "The tank is designed for hydrogen storage in aircraft and is part of the EU-funded Overleaf programme.",
+      "The project aims to achieve zero-emission aviation through lightweight and sustainable structures.",
+      "The 1.5 m diameter tank features a dual-wall architecture."
+    ],
+    "summary_bullets_cs": [
+      "Technologické centrum AIMEN v Galicii vyrobilo první velkoformátovou 3D tištěnou kryogenní nádrž ve Španělsku.",
+      "Nádrž je navržena pro skladování vodíku v letadlech a je součástí programu Overleaf financovaného EU.",
+      "Projekt si klade za cíl dosáhnout bezemisní letectví prostřednictvím lehkých a udržitelných struktur.",
+      "Nádrž o průměru 1,5 m má dvoustěnnou architekturu."
+    ]
+  },
+  {
+    "title": "Insight Surgery získává 2,5 milionu dolarů na rozšíření personalizovaných chirurgických řešení v USA",
+    "summary": "Houston-based medtech company Insight Surgery has raised $2.5 million in a Series A equity round led by US venture capital firm Nodenza Venture Partners, positioning the company for its next phase of U.S. growth. The investment follows FDA 510(k) clearance for Insight’s patient-specific surgical guides used in orthopedic and orthopedic-oncology procedures. The funding will support [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/Surgery-Picture-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-27T07:35:40",
+    "url": "https://3dprintingindustry.com/news/insight-surgery-raises-2-5m-to-scale-personalized-surgical-solutions-across-u-s-239854/?utm_source=rss&utm_medium=rss&utm_campaign=insight-surgery-raises-2-5m-to-scale-personalized-surgical-solutions-across-u-s",
+    "title_en": "Insight Surgery Raises $2.5M to Scale Personalized Surgical Solutions Across U.S.",
+    "summary_bullets_en": [
+      "Insight Surgery, a medtech company based in Houston, has secured $2.5 million in a Series A funding round.",
+      "The investment was led by US venture capital firm Nodenza Venture Partners.",
+      "The funding follows FDA 510(k) clearance for Insight's patient-specific surgical guides.",
+      "The company plans to use the funds to expand its personalized surgical solutions across the U.S."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Insight Surgery, medtech firma se sídlem v Houstonu, získala 2,5 milionu dolarů v rámci financování Series A.",
+      "Investici vedla americká venture kapitálová firma Nodenza Venture Partners.",
+      "Financování následuje po schválení FDA 510(k) pro pacientsky specifické chirurgické průvodce společnosti Insight.",
+      "Společnost plánuje využít prostředky k rozšíření svých personalizovaných chirurgických řešení po celých USA."
+    ]
+  },
+  {
+    "title": "Atomik AM získává 600 000 liber na rozšíření týmu a pokrok v patentované udržitelné výrobě",
+    "summary": "Atomik AM, an advanced manufacturing start-up based in Liverpool, has secured £600,000 in growth funding from the Northern Powerhouse Investment Fund II (NPIF II). The funding—delivered through NPIF II – Praetura Equity Finance, which is managed by Praetura Ventures—will support a 40% increase in Atomik AM’s workforce in the Liverpool City Region and facilitate the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/1747824974430-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-27T07:34:25",
+    "url": "https://3dprintingindustry.com/news/atomik-am-secures-600k-to-grow-team-and-advance-patented-sustainable-manufacturing-239842/?utm_source=rss&utm_medium=rss&utm_campaign=atomik-am-secures-600k-to-grow-team-and-advance-patented-sustainable-manufacturing",
+    "title_en": "Atomik AM Secures £600k to Grow Team and Advance Patented Sustainable Manufacturing",
+    "summary_bullets_en": [
+      "Atomik AM, a Liverpool-based advanced manufacturing start-up, has received £600,000 in growth funding.",
+      "The funding comes from the Northern Powerhouse Investment Fund II (NPIF II) through Praetura Equity Finance.",
+      "The investment will enable a 40% increase in Atomik AM's workforce in the Liverpool City Region."
+    ],
+    "summary_bullets_cs": [
+      "Atomik AM, start-up zaměřený na pokročilou výrobu se sídlem v Liverpoolu, získal 600 000 liber na růstové financování.",
+      "Financování pochází z fondu Northern Powerhouse Investment Fund II (NPIF II) prostřednictvím Praetura Equity Finance.",
+      "Investice umožní 40% nárůst pracovní síly Atomik AM v regionu Liverpool City."
+    ]
+  },
+  {
+    "title": "Newyorský návrh zákona se snaží kriminalizovat online sdílení plánů na 3D tištěné zbraně",
+    "summary": "Manhattan District Attorney Alvin L. Bragg, Jr., together with New York State Senator Brad Hoylman-Sigal and Assemblymember Linda Rosenthal, has introduced updated legislation (S227A/A1777A) aimed at curbing the spread of 3D printed guns and auto sears—small, inexpensive devices capable of converting semi-automatic firearms into fully automatic weapons. Under current New York State law, possession of [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/blue-print-gun-part-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-27T07:27:43",
+    "url": "https://3dprintingindustry.com/news/new-york-bill-aims-to-criminalize-online-sharing-of-3d-printed-gun-blueprints-239875/?utm_source=rss&utm_medium=rss&utm_campaign=new-york-bill-aims-to-criminalize-online-sharing-of-3d-printed-gun-blueprints",
+    "title_en": "New York Bill Aims to Criminalize Online Sharing of 3D Printed Gun Blueprints",
+    "summary_bullets_en": [
+      "Manhattan District Attorney Alvin L. Bragg, Jr. and New York lawmakers introduced legislation to combat 3D printed guns.",
+      "The bill targets the online distribution of blueprints for 3D printed guns and auto sears.",
+      "Auto sears are devices that can convert semi-automatic firearms into fully automatic weapons."
+    ],
+    "summary_bullets_cs": [
+      "Manhattanský okresní prokurátor Alvin L. Bragg, Jr. a newyorští zákonodárci představili legislativu zaměřenou na boj proti 3D tištěným zbraním.",
+      "Návrh zákona cílí na online distribuci plánů pro 3D tištěné zbraně a auto sears.",
+      "Auto sears jsou zařízení, která mohou přeměnit poloautomatické střelné zbraně na plně automatické."
+    ]
+  },
+  {
+    "title": "Lithoz získal certifikaci ISO 13485 pro 3D tisk zdravotnických zařízení",
+    "summary": "Lithoz, a ceramic 3D printing company headquartered in Vienna, has secured ISO 13485 certification for its quality management system, aligning its operations with international standards for medical device manufacturing. The certification, regarded as the benchmark for regulatory compliance in healthcare production, enables Lithoz to meet FDA Quality System Regulation (QSR) requirements and expands its role [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/Lithoz_PR_ISO_13485_Image-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-27T07:26:49",
+    "url": "https://3dprintingindustry.com/news/lithoz-certified-iso-13485-for-medical-device-3d-printing-239867/?utm_source=rss&utm_medium=rss&utm_campaign=lithoz-certified-iso-13485-for-medical-device-3d-printing",
+    "title_en": "Lithoz Certified ISO 13485 for Medical Device 3D Printing",
+    "summary_bullets_en": [
+      "Lithoz, based in Vienna, specializes in ceramic 3D printing.",
+      "The company has achieved ISO 13485 certification for its quality management system.",
+      "This certification aligns Lithoz's operations with international standards for medical device manufacturing.",
+      "ISO 13485 is considered the benchmark for regulatory compliance in healthcare production.",
+      "The certification allows Lithoz to meet FDA Quality System Regulation (QSR) requirements."
+    ],
+    "summary_bullets_cs": [
+      "Lithoz, společnost se sídlem ve Vídni, se specializuje na keramický 3D tisk.",
+      "Společnost dosáhla certifikace ISO 13485 pro svůj systém řízení kvality.",
+      "Tato certifikace slaďuje operace Lithoz s mezinárodními standardy pro výrobu zdravotnických zařízení.",
+      "ISO 13485 je považována za měřítko pro regulační shodu ve výrobě zdravotnických prostředků.",
+      "Certifikace umožňuje Lithoz splňovat požadavky FDA na systém řízení kvality (QSR)."
+    ]
+  },
+  {
+    "title": "Nikon spolupracuje s NCDMM na pokroku v oblasti hliníkových slitin pro aditivní výrobu v obraně a letectví",
+    "summary": "Japanese advanced optoelectronics supplier Nikon Corporation has entered a new development agreement with the National Center for Defense Manufacturing and Machining (NCDMM), the organization managing America Makes, to support the advancement of metal additive manufacturing (AM) technologies in defense and aerospace. The initiative is funded by the Office of the Under Secretary of Defense, Manufacturing [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/03/mm2_1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-05-27T07:26:08",
+    "url": "https://3dprintingindustry.com/news/nikon-partners-with-ncdmm-to-advance-aluminum-alloy-for-defense-and-aerospace-additive-manufacturing-239839/?utm_source=rss&utm_medium=rss&utm_campaign=nikon-partners-with-ncdmm-to-advance-aluminum-alloy-for-defense-and-aerospace-additive-manufacturing",
+    "title_en": "Nikon Partners with NCDMM to Advance Aluminum Alloy for Defense and Aerospace Additive Manufacturing",
+    "summary_bullets_en": [
+      "Nikon Corporation has partnered with the National Center for Defense Manufacturing and Machining (NCDMM).",
+      "The collaboration aims to advance metal additive manufacturing technologies for defense and aerospace.",
+      "The initiative is funded by the Office of the Under Secretary of Defense, Manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Nikon Corporation uzavřela partnerství s Národním centrem pro obrannou výrobu a obrábění (NCDMM).",
+      "Cílem spolupráce je pokročit v technologiích kovové aditivní výroby pro obranu a letectví.",
+      "Iniciativa je financována Úřadem náměstka ministra obrany pro výrobu."
+    ]
+  },
+  {
     "title": "Jaká je hodnota trhu s polymerní aditivní výrobou? Který region světa generuje nejvyšší příjmy? Které 3D tiskárny je lepší nekupovat?",
     "summary_bullets_cs": [
       "Trh s polymerní aditivní výrobou vykazuje výrazný růst a jeho hodnota se neustále zvyšuje.",
