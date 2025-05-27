@@ -16,5 +16,672 @@
     "source": "The 3D Printing Journal",
     "published": "2025-05-26T18:32:02+00:00",
     "url": "https://www.3dprintingjournal.com/p/how-much-is-the-polymer-am-market"
+  },
+  {
+    "title": "BCN3D Technologies zpřístupnila svou 3D tiskárnu Sigma jako 100% open-source",
+    "summary": "The release included BCN3D Sigma firmware, BCN3D Cura source code, and detailed mechanical designs",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e5e76b9-0fe2-4c38-8e5d-af9f3dfc927a_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-26T17:11:10",
+    "url": "https://www.3dprintingjournal.com/p/05-26-2016-bcn3d-technologies-made",
+    "title_en": "BCN3D Technologies made its Sigma 3D printer 100% open-source",
+    "summary_bullets_en": [
+      "BCN3D Technologies released the Sigma 3D printer as fully open-source.",
+      "The release includes the Sigma firmware, BCN3D Cura source code, and detailed mechanical designs.",
+      "This move aims to foster innovation and collaboration within the 3D printing community."
+    ],
+    "summary_bullets_cs": [
+      "BCN3D Technologies uvolnila 3D tiskárnu Sigma jako plně open-source.",
+      "Uvolnění zahrnuje firmware Sigma, zdrojový kód BCN3D Cura a podrobné mechanické návrhy.",
+      "Tento krok má za cíl podpořit inovace a spolupráci v komunitě 3D tisku."
+    ]
+  },
+  {
+    "title": "3D tištěné náplasti vyrobené z 'zázračného stromu' by mohly změnit léčbu rakoviny tlustého střeva",
+    "summary": "A team of researchers in Türkiye (formerly known as Turkey) may have found a smarter way to treat one of the deadliest cancers, using a 3D printed patch powered by...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-26T13:00:28",
+    "url": "https://3dprint.com/318319/3d-printed-patches-made-with-a-miracle-tree-could-change-how-doctors-treat-colon-cancer/",
+    "title_en": "3D Printed Patches Made with a “Miracle Tree” Could Change How Doctors Treat Colon Cancer",
+    "summary_bullets_en": [
+      "Researchers in Türkiye have developed a 3D printed patch to treat colon cancer.",
+      "The patch is made using extracts from a plant known as the 'miracle tree'.",
+      "This innovative approach could offer a more effective treatment for one of the deadliest cancers."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci v Turecku vyvinuli 3D tištěnou náplast pro léčbu rakoviny tlustého střeva.",
+      "Náplast je vyrobena s použitím extraktů z rostliny známé jako 'zázračný strom'.",
+      "Tento inovativní přístup by mohl nabídnout účinnější léčbu jedné z nejsmrtelnějších rakovin."
+    ]
+  },
+  {
+    "title": "3DPOD 255: Zefektivnění procesů s Rubenem Meuthem, 3D Spark",
+    "summary": "Ruben Meuth worked at Fraunhofer before helping to start 3D Spark, a German startup that helps companies identify, cost, quote, and screen 3D printed parts. There&#8217;s a lot going on...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-26T12:30:16",
+    "url": "https://3dprint.com/317242/3dpod-255-process-streamlining-ruben-meuth-3d-spark/",
+    "title_en": "3DPOD 255: Process Streamlining with Ruben Meuth, 3D Spark",
+    "summary_bullets_en": [
+      "Ruben Meuth previously worked at Fraunhofer before co-founding 3D Spark.",
+      "3D Spark is a German startup focused on optimizing the identification, costing, quoting, and screening of 3D printed parts.",
+      "The company aims to streamline processes for businesses using 3D printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Ruben Meuth pracoval dříve ve Fraunhoferu, než spoluzaložil 3D Spark.",
+      "3D Spark je německý startup zaměřený na optimalizaci identifikace, nákladů, cenových nabídek a výběru 3D tištěných dílů.",
+      "Společnost se snaží zefektivnit procesy pro firmy využívající technologii 3D tisku."
+    ]
+  },
+  {
+    "title": "Jediní přeživší – které chemické giganty stále věří v AM?",
+    "summary": "The Atomic Layers: S10E25 (00292)",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/603f8d72-e13f-4354-b657-f356d710e284_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-25T16:02:25",
+    "url": "https://www.3dprintingjournal.com/p/the-sole-survivors-which-chemical",
+    "title_en": "The sole survivors – which chemical giants still believe in AM?",
+    "summary_bullets_en": [
+      "The article discusses the current state of additive manufacturing (AM) within the chemical industry.",
+      "It highlights which major chemical companies are still investing in and supporting AM technologies.",
+      "The challenges and opportunities faced by these companies in the AM sector are explored.",
+      "The article provides insights into the future potential of AM in the chemical industry."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá současným stavem aditivní výroby (AM) v chemickém průmyslu.",
+      "Zdůrazňuje, které významné chemické společnosti stále investují do a podporují technologie AM.",
+      "Jsou prozkoumány výzvy a příležitosti, kterým tyto společnosti v sektoru AM čelí.",
+      "Článek poskytuje pohled na budoucí potenciál AM v chemickém průmyslu."
+    ]
+  },
+  {
+    "title": "Od sedel k sochám: Jezdecké dědictví Hermès se setkává s 3D tiskem",
+    "summary": "A horse in the park, birds in flight, and a window that tells a story with curves and colors. This is the latest visual tale from Hermès, unveiled at Amsterdam&#8217;s...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-25T13:00:56",
+    "url": "https://3dprint.com/318305/from-saddles-to-sculptures-hermes-equestrian-legacy-meets-3d-printing/",
+    "title_en": "From Saddles to Sculptures: Hermès’ Equestrian Legacy Meets 3D Printing",
+    "summary_bullets_en": [
+      "Hermès has unveiled a new visual display in Amsterdam.",
+      "The display features a horse, birds, and a colorful window, showcasing the brand's artistic storytelling.",
+      "The installation highlights Hermès' blend of traditional craftsmanship with modern 3D printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Hermès odhalil novou vizuální instalaci v Amsterdamu.",
+      "Instalace zahrnuje koně, ptáky a barevné okno, které ukazuje umělecké vyprávění značky.",
+      "Instalace zdůrazňuje spojení tradičního řemesla Hermès s moderní technologií 3D tisku."
+    ]
+  },
+  {
+    "title": "Phrozen Make byl úspěšně financován na Kickstarteru",
+    "summary": "Today, Phrozen is a significant player in the 3D printing industry",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe65ac2c6-8c77-4f20-ab64-d40e5d03bbd2_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-25T08:12:34",
+    "url": "https://www.3dprintingjournal.com/p/05-25-2017-phrozen-make-was-successfully",
+    "title_en": "Phrozen Make Successfully Funded on Kickstarter",
+    "summary_bullets_en": [
+      "Phrozen Make was launched on Kickstarter in 2017.",
+      "The campaign was successfully funded, marking the beginning of Phrozen's journey.",
+      "Today, Phrozen is a significant player in the 3D printing industry."
+    ],
+    "summary_bullets_cs": [
+      "Phrozen Make byl spuštěn na Kickstarteru v roce 2017.",
+      "Kampaň byla úspěšně financována, což znamenalo začátek cesty společnosti Phrozen.",
+      "Dnes je Phrozen významným hráčem v odvětví 3D tisku."
+    ]
+  },
+  {
+    "title": "Krátký přehled klišé, která poškozují image průmyslu aditivní výroby",
+    "summary": "The Atomic Layers: S10E24 (00291)",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/642f2dc0-abe5-4148-a940-a98882e31a4e_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-24T16:39:50",
+    "url": "https://www.3dprintingjournal.com/p/a-short-review-of-cliches-that-damage",
+    "title_en": "A short review of clichés that damage the image of the AM industry",
+    "summary_bullets_en": [
+      "The article discusses common clichés that negatively impact the perception of the additive manufacturing (AM) industry.",
+      "It highlights how these clichés can lead to misunderstandings about the capabilities and limitations of 3D printing technology.",
+      "The piece emphasizes the importance of addressing these misconceptions to improve the industry's reputation and foster innovation."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá běžnými klišé, která negativně ovlivňují vnímání průmyslu aditivní výroby.",
+      "Zdůrazňuje, jak tato klišé mohou vést k nedorozuměním ohledně schopností a omezení technologie 3D tisku.",
+      "Text klade důraz na důležitost řešení těchto mylných představ pro zlepšení pověsti průmyslu a podporu inovací."
+    ]
+  },
+  {
+    "title": "Photocentric uvedl na trh 3D tiskárnu Liquid Crystal Magna v.2",
+    "summary": "LC Magna v.2 offered substantially increased print speeds",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96f8bc81-6982-43ce-bdbd-1fc0820efdab_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-24T15:16:17",
+    "url": "https://www.3dprintingjournal.com/p/05-24-2022-photocentric-launched",
+    "title_en": "Photocentric launched Liquid Crystal Magna v.2 3D printer",
+    "summary_bullets_en": [
+      "Photocentric introduced the Liquid Crystal Magna v.2 3D printer.",
+      "The new model offers significantly increased print speeds.",
+      "The printer is designed for high-volume production."
+    ],
+    "summary_bullets_cs": [
+      "LC Magna v.2 nabízí podstatně zvýšené rychlosti tisku."
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 24. května 2025: Komercializace, akvizice a zařízení",
+    "summary": "We&#8217;re all business in today&#8217;s 3D Printing News Briefs! Titomic and nuForj have announced a strategic partnership, and AMETEK is acquiring FARO Technologies. CDG 3D Tech opened an Additive Manufacturing...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-24T12:30:59",
+    "url": "https://3dprint.com/318241/3d-printing-news-briefs-5-24-2025/",
+    "title_en": "3D Printing News Briefs, May 24, 2025: Commercialization, Acquisition, & Facilities",
+    "summary_bullets_en": [
+      "Titomic and nuForj have announced a strategic partnership.",
+      "AMETEK is acquiring FARO Technologies.",
+      "CDG 3D Tech has opened a new Additive Manufacturing facility."
+    ],
+    "summary_bullets_cs": [
+      "Titomic a nuForj oznámily strategické partnerství.",
+      "AMETEK kupuje společnost FARO Technologies.",
+      "CDG 3D Tech otevřela nové zařízení pro aditivní výrobu."
+    ]
+  },
+  {
+    "title": "Nano Dimension poskytuje aktualizaci svých budoucích plánů, včetně výhledu pro Desktop Metal a Markforged",
+    "summary": "The Atomic Layers: S10E23 (00290)",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/a733b328-a29b-41c6-95a3-0e7869c5c708_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-23T17:49:12",
+    "url": "https://www.3dprintingjournal.com/p/nano-dimension-provides-an-update",
+    "title_en": "Nano Dimension provides an update on its future plans, including the outlook for Desktop Metal and Markforged",
+    "summary_bullets_en": [
+      "Nano Dimension outlines its strategic vision for the future, focusing on growth and innovation.",
+      "The company discusses potential collaborations and partnerships with Desktop Metal and Markforged.",
+      "Emphasis is placed on expanding their technological capabilities and market reach.",
+      "Nano Dimension aims to leverage synergies with Desktop Metal and Markforged to enhance product offerings."
+    ],
+    "summary_bullets_cs": [
+      "Nano Dimension představuje svou strategickou vizi pro budoucnost se zaměřením na růst a inovace.",
+      "Společnost diskutuje o možných spolupracích a partnerstvích s Desktop Metal a Markforged.",
+      "Důraz je kladen na rozšíření technologických schopností a dosahu na trhu.",
+      "Nano Dimension se snaží využít synergie s Desktop Metal a Markforged k vylepšení nabídky produktů."
+    ]
+  },
+  {
+    "title": "23.05.1984: Yoji Marutani podal patentovou přihlášku na 'optickou formovací metodu'",
+    "summary": "This was yet another version of stereolithography",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c761fa8-ead0-4335-b269-275c0e5d76e7_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-23T16:12:02",
+    "url": "https://www.3dprintingjournal.com/p/05-23-1984-yoji-marutani-filed-a",
+    "title_en": "05-23-1984: Yoji Marutani filed a patent application for the 'optical forming method'",
+    "summary_bullets_en": [
+      "Yoji Marutani submitted a patent application on May 23, 1984.",
+      "The patent was for an 'optical forming method'.",
+      "This method is a variation of stereolithography."
+    ],
+    "summary_bullets_cs": [
+      "Yoji Marutani podal patentovou přihlášku 23. května 1984.",
+      "Patent byl na 'optickou formovací metodu'.",
+      "Tato metoda je variantou stereolitografie."
+    ]
+  },
+  {
+    "title": "Soutěž v 3D tisku pro Nothing Phone v nové výzvě od Prusy",
+    "summary": "A new contest is underway, inviting designers and 3D printing enthusiasts to create custom accessories for the CMF Phone 2 Pro, a modular smartphone from CMF by Nothing. Organized in partnership with Czech based 3D printer manufacturer Prusa Research, the contest focuses on designs that enhance the phone’s appearance, functionality, or usability. Open for another [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/IMAGE1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-05-23T13:56:29",
+    "url": "https://3dprintingindustry.com/news/nothing-phone-3d-printing-contest-in-new-prusa-challenge-239832/?utm_source=rss&utm_medium=rss&utm_campaign=nothing-phone-3d-printing-contest-in-new-prusa-challenge",
+    "title_en": "Nothing Phone 3D printing contest in new Prusa challenge",
+    "summary_bullets_en": [
+      "A new contest invites designers and 3D printing enthusiasts to create custom accessories for the CMF Phone 2 Pro.",
+      "The contest is organized in partnership with Czech 3D printer manufacturer Prusa Research.",
+      "Designs should enhance the phone’s appearance, functionality, or usability."
+    ],
+    "summary_bullets_cs": [
+      "Nová soutěž zve designéry a nadšence do 3D tisku k vytvoření vlastních doplňků pro modulární smartphone CMF Phone 2 Pro.",
+      "Soutěž je organizována ve spolupráci s českým výrobcem 3D tiskáren Prusa Research.",
+      "Návrhy by měly zlepšit vzhled, funkčnost nebo použitelnost telefonu."
+    ]
+  },
+  {
+    "title": "Auxilium zahajuje klinickou studii pro nervový implantát poprvé biotištěný ve vesmíru",
+    "summary": "Auxilium Biotechnologies has officially launched a clinical trial for its proprietary NeuroSpan Bridge, a nerve-regeneration implant first bioprinted in space. The implant, created using the company’s AMP-1 bioprinter aboard the...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-23T13:30:57",
+    "url": "https://3dprint.com/318279/auxilium-starts-human-trial-for-nerve-implant-first-bioprinted-in-space/",
+    "title_en": "Auxilium Starts Human Trial for Nerve Implant First Bioprinted in Space",
+    "summary_bullets_en": [
+      "Auxilium Biotechnologies has initiated a clinical trial for the NeuroSpan Bridge implant.",
+      "The implant is designed for nerve regeneration and was first bioprinted in space.",
+      "The NeuroSpan Bridge was created using the AMP-1 bioprinter aboard a space station."
+    ],
+    "summary_bullets_cs": [
+      "Auxilium Biotechnologies oficiálně zahájila klinickou studii pro implantát NeuroSpan Bridge.",
+      "Implantát je určen pro regeneraci nervů a byl poprvé biotištěn ve vesmíru.",
+      "NeuroSpan Bridge byl vytvořen pomocí biotiskárny AMP-1 na palubě vesmírné stanice."
+    ]
+  },
+  {
+    "title": "Croom Medical uvádí technologickou platformu TALOS pro 3D tisk tantalu",
+    "summary": "Irish company Croom Medical, specializing in precision manufacturing for orthopedic implants, has officially launched the TALOS technology platform for 3D printed tantalum (Ta) components. The platform was developed in collaboration...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-23T13:00:47",
+    "url": "https://3dprint.com/318242/croom-medical-launches-talos-technology-platform-for-3d-printed-tantalum/",
+    "title_en": "Croom Medical Launches TALOS Technology Platform for 3D Printed Tantalum",
+    "summary_bullets_en": [
+      "Croom Medical, an Irish company, has launched the TALOS technology platform.",
+      "The platform specializes in 3D printed tantalum components for orthopedic implants.",
+      "TALOS was developed in collaboration with industry partners."
+    ],
+    "summary_bullets_cs": [
+      "Irská společnost Croom Medical spustila technologickou platformu TALOS.",
+      "Platforma se specializuje na 3D tištěné tantálové komponenty pro ortopedické implantáty.",
+      "TALOS byl vyvinut ve spolupráci s průmyslovými partnery."
+    ]
+  },
+  {
+    "title": "Nano Dimension se po akvizicích zaměřuje na ziskovost",
+    "summary": "After finalizing its acquisitions of Desktop Metal and Markforged, Nano Dimension (Nasdaq: NNDM) is moving away from aggressive M&#38;A and toward stronger strategic integration and long-term profitability. Julien Lederman, the...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-23T12:30:51",
+    "url": "https://3dprint.com/318216/nano-dimensions-post-acquisition-focus-turns-to-profitability/",
+    "title_en": "Nano Dimension’s Post-Acquisition Focus Turns to Profitability",
+    "summary_bullets_en": [
+      "Nano Dimension has completed its acquisitions of Desktop Metal and Markforged.",
+      "The company is shifting its focus from aggressive mergers and acquisitions to strategic integration.",
+      "The goal is to achieve long-term profitability.",
+      "Julien Lederman is involved in the strategic transition."
+    ],
+    "summary_bullets_cs": [
+      "Nano Dimension dokončila akvizice společností Desktop Metal a Markforged.",
+      "Společnost se přesouvá od agresivních fúzí a akvizic k strategické integraci.",
+      "Cílem je dosáhnout dlouhodobé ziskovosti.",
+      "Julien Lederman se podílí na strategickém přechodu."
+    ]
+  },
+  {
+    "title": "Zakázkové 3D tištěné ortézy od XO Armor budou sloužit armádě a sportovcům",
+    "summary": "Several years ago, the Auburn University Biomechanical Engineering Laboratory (AUBE LAB) spawned XO Armor, which uses 3D printing to help college sports teams heal faster. XO Armor uses desktop Material Extrusion...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-23T12:00:02",
+    "url": "https://3dprint.com/318270/xo-armor-to-cater-to-military-as-well-as-athletes/",
+    "title_en": "XO Armor’s Custom 3D Printed Orthotics Will Cater to Military & Athletes",
+    "summary_bullets_en": [
+      "XO Armor, originating from Auburn University's Biomechanical Engineering Laboratory, focuses on 3D printing for faster healing.",
+      "The company uses desktop Material Extrusion technology to create custom orthotics.",
+      "Their products are designed to benefit both military personnel and athletes."
+    ],
+    "summary_bullets_cs": [
+      "XO Armor, vzniklá z Biomechanické inženýrské laboratoře Auburnské univerzity, se zaměřuje na 3D tisk pro rychlejší hojení.",
+      "Společnost používá technologii Material Extrusion na stolních tiskárnách k výrobě zakázkových ortéz.",
+      "Jejich produkty jsou navrženy tak, aby prospívaly jak vojenskému personálu, tak sportovcům."
+    ]
+  },
+  {
+    "title": "DLR uvádí plně 3D tištěný modul MiniFix pro biologickou fixaci ve vesmíru",
+    "summary": "Researchers at the German Aerospace Center (DLR) have developed MiniFix, a fully 3D printed syringe-based biological fixation system engineered for spaceflight. Successfully deployed in five MAPHEUS sounding rocket missions, MiniFix represents a breakthrough in experimental payload design, combining rapid prototyping, modularity, and robust performance in microgravity environments, combining rapid prototyping with modular, lightweight, and reliable [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/s12217-025-10178-4-2-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-23T09:41:58",
+    "url": "https://3dprintingindustry.com/news/dlr-launches-fully-3d-printed-minifix-module-for-biological-fixation-in-space-239805/?utm_source=rss&utm_medium=rss&utm_campaign=dlr-launches-fully-3d-printed-minifix-module-for-biological-fixation-in-space",
+    "title_en": "DLR launches fully 3D printed MiniFix module for biological fixation in space",
+    "summary_bullets_en": [
+      "The German Aerospace Center (DLR) has developed MiniFix, a fully 3D printed biological fixation system.",
+      "MiniFix is designed for spaceflight and operates using a syringe-based mechanism.",
+      "It has been successfully deployed in five MAPHEUS sounding rocket missions.",
+      "The system represents a breakthrough in experimental payload design for microgravity environments.",
+      "MiniFix combines rapid prototyping, modularity, and robust performance."
+    ],
+    "summary_bullets_cs": [
+      "Německé středisko pro letectví a kosmonautiku (DLR) vyvinulo MiniFix, plně 3D tištěný systém pro biologickou fixaci.",
+      "MiniFix je navržen pro vesmírné lety a funguje na principu stříkačkového mechanismu.",
+      "Byl úspěšně nasazen v pěti misích sondážních raket MAPHEUS.",
+      "Systém představuje průlom v návrhu experimentálních nákladů pro mikrogravitaci.",
+      "MiniFix kombinuje rychlou prototypizaci, modularitu a robustní výkon."
+    ]
+  },
+  {
+    "title": "Mapování rostoucí role 3D tisku ve výrobě mikro a nano zařízení",
+    "summary": "A new review by researchers from the Beijing University of Posts and Telecommunications, CETC 54 (54th Research Institute of Electronics Technology Group Corporation), Sun Yat-sen University, Shenzhen University, and the University of Electronic Science and Technology of China surveys the latest developments in 3D printing for microelectronic and microfluidic applications. The paper released on Springer [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/41378_2024_812_Figa_HTML-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-05-23T09:33:33",
+    "url": "https://3dprintingindustry.com/news/mapping-the-expanding-role-of-3d-printing-in-micro-and-nano-device-fabrication-239815/?utm_source=rss&utm_medium=rss&utm_campaign=mapping-the-expanding-role-of-3d-printing-in-micro-and-nano-device-fabrication",
+    "title_en": "Mapping the Expanding Role of 3D Printing in Micro and Nano Device Fabrication",
+    "summary_bullets_en": [
+      "Researchers from several Chinese universities and institutes have conducted a comprehensive review of 3D printing applications in microelectronics and microfluidics.",
+      "The study highlights the latest advancements in 3D printing technology for creating micro and nano-scale devices.",
+      "The review discusses the potential of 3D printing to revolutionize the fabrication processes in these fields."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z několika čínských univerzit a institutů provedli komplexní přehled aplikací 3D tisku v mikroelektronice a mikrofluidice.",
+      "Studie zdůrazňuje nejnovější pokroky v technologii 3D tisku pro tvorbu mikro a nano měřítkových zařízení.",
+      "Přehled diskutuje potenciál 3D tisku k revoluci ve výrobních procesech v těchto oblastech."
+    ]
+  },
+  {
+    "title": "AEWIN vybírá technologii ECAM od Fabric8Labs pro tepelné řízení Edge AI",
+    "summary": "Fabric8Labs, a San Diego-based manufacturer specializing in Electrochemical Additive Manufacturing (ECAM), has been selected by AEWIN Technologies to supply thermal management components for its next generation of Edge AI systems. AEWIN, a provider of high-performance network platforms and a member of the Qisda Business Group, will integrate ECAM-produced copper components into its upcoming cooling infrastructure. [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/ECAM-enables-high-resolution-customized-designs-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-23T09:31:18",
+    "url": "https://3dprintingindustry.com/news/aewin-selects-fabric8labs-ecam-technology-for-edge-ai-thermal-management-239825/?utm_source=rss&utm_medium=rss&utm_campaign=aewin-selects-fabric8labs-ecam-technology-for-edge-ai-thermal-management",
+    "title_en": "AEWIN Selects Fabric8Labs’ ECAM Technology for Edge AI Thermal Management",
+    "summary_bullets_en": [
+      "Fabric8Labs, based in San Diego, specializes in Electrochemical Additive Manufacturing (ECAM).",
+      "AEWIN Technologies has chosen Fabric8Labs to provide thermal management components for its Edge AI systems.",
+      "The ECAM-produced copper components will be integrated into AEWIN's next-generation cooling infrastructure.",
+      "AEWIN is a provider of high-performance network platforms and part of the Qisda Business Group."
+    ],
+    "summary_bullets_cs": [
+      "Fabric8Labs, se sídlem v San Diegu, se specializuje na elektrochemickou aditivní výrobu (ECAM).",
+      "AEWIN Technologies si vybrala Fabric8Labs pro dodávku komponentů pro tepelné řízení svých Edge AI systémů.",
+      "Měděné komponenty vyrobené pomocí ECAM budou integrovány do nové generace chladicí infrastruktury AEWIN.",
+      "AEWIN je poskytovatelem vysoce výkonných síťových platforem a členem Qisda Business Group."
+    ]
+  },
+  {
+    "title": "Nová laboratoř na Univerzitě v Glasgow simuluje vesmír pro testování 3D tištěných dílů pro bezpečnost na oběžné dráze",
+    "summary": "A new testing centre at University of Glasgow is simulating the conditions of outer space to help prevent 3D printed parts from becoming sources of high-speed orbital debris. Housed at the university&#8217;s James Watt School of Engineering, the NextSpace Testrig lab is designed to assess whether materials like metals, polymers and ceramics can survive extreme [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/image-4-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-05-23T09:22:05",
+    "url": "https://3dprintingindustry.com/news/new-lab-at-glasgow-university-simulates-space-to-test-3d-printed-parts-for-orbital-safety-239810/?utm_source=rss&utm_medium=rss&utm_campaign=new-lab-at-glasgow-university-simulates-space-to-test-3d-printed-parts-for-orbital-safety",
+    "title_en": "New lab at Glasgow University simulates space to test 3D printed parts for orbital safety",
+    "summary_bullets_en": [
+      "The University of Glasgow has opened a new testing centre called the NextSpace Testrig lab.",
+      "The lab simulates outer space conditions to test 3D printed parts for orbital safety.",
+      "It aims to prevent 3D printed materials from becoming high-speed orbital debris.",
+      "The lab is part of the James Watt School of Engineering.",
+      "Materials such as metals, polymers, and ceramics are tested for their ability to withstand extreme conditions."
+    ],
+    "summary_bullets_cs": [
+      "Univerzita v Glasgow otevřela nové testovací centrum nazvané NextSpace Testrig lab.",
+      "Laboratoř simuluje podmínky vesmíru pro testování 3D tištěných dílů z hlediska bezpečnosti na oběžné dráze.",
+      "Cílem je zabránit tomu, aby se 3D tištěné materiály staly zdrojem vysokorychlostního orbitálního odpadu.",
+      "Laboratoř je součástí James Watt School of Engineering.",
+      "Testují se materiály jako kovy, polymery a keramika, zda vydrží extrémní podmínky."
+    ]
+  },
+  {
+    "title": "Nové globální sídlo AIRSYS bude zahrnovat obrovskou továrnu na 3D tisk dílů pro kapalinové chlazení",
+    "summary": "AIRSYS Cooling Technologies is set to open a new global headquarters and expand its manufacturing operations in Spartanburg County, South Carolina. Located at 6228 Highway 101 in Woodruff, the new site is expected to create 215 jobs following a $40 million investment. The expansion comes as AIRSYS marks its 30th year in business.&#160; The company [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/image-3-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-05-23T09:11:56",
+    "url": "https://3dprintingindustry.com/news/airsys-new-global-hq-to-house-a-massive-3d-printing-factory-for-liquid-cooling-parts-239784/?utm_source=rss&utm_medium=rss&utm_campaign=airsys-new-global-hq-to-house-a-massive-3d-printing-factory-for-liquid-cooling-parts",
+    "title_en": "AIRSYS’ new global HQ to house a massive 3D printing factory for liquid cooling parts",
+    "summary_bullets_en": [
+      "AIRSYS Cooling Technologies is opening a new global headquarters in Spartanburg County, South Carolina.",
+      "The new site will include a large 3D printing factory for manufacturing liquid cooling parts.",
+      "The expansion represents a $40 million investment and is expected to create 215 jobs.",
+      "This development coincides with AIRSYS celebrating its 30th anniversary."
+    ],
+    "summary_bullets_cs": [
+      "AIRSYS Cooling Technologies otevírá nové globální sídlo v okrese Spartanburg v Jižní Karolíně.",
+      "Nové místo bude zahrnovat velkou továrnu na 3D tisk pro výrobu dílů pro kapalinové chlazení.",
+      "Rozšíření představuje investici ve výši 40 milionů dolarů a očekává se, že vytvoří 215 pracovních míst.",
+      "Tento rozvoj se shoduje s oslavou 30. výročí společnosti AIRSYS."
+    ]
+  },
+  {
+    "title": "Analýza... otisku prstu 3D tiskárny? 🤨",
+    "summary": "The Atomic Layers: S10E22 (00289)",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/87581391-4511-4045-914d-8603a0095d51_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-22T18:48:33",
+    "url": "https://www.3dprintingjournal.com/p/analysis-of-a-3d-printers-fingerprint",
+    "title_en": "Analysis of a 3D printer's... fingerprint? 🤨",
+    "summary_bullets_en": [
+      "Researchers have discovered that each 3D printer leaves a unique 'fingerprint' on the objects it creates.",
+      "This fingerprint is determined by the specific mechanical and software characteristics of the printer.",
+      "The discovery could have implications for intellectual property protection and counterfeit prevention.",
+      "The study suggests that these fingerprints could be used to trace the origin of 3D printed objects."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci zjistili, že každá 3D tiskárna zanechává na objektech, které vytváří, unikátní 'otisk prstu'.",
+      "Tento otisk je určen specifickými mechanickými a softwarovými charakteristikami tiskárny.",
+      "Objev by mohl mít dopady na ochranu duševního vlastnictví a prevenci padělání.",
+      "Studie naznačuje, že tyto otisky by mohly být použity k vystopování původu 3D tištěných objektů."
+    ]
+  },
+  {
+    "title": "22.05.2013: Zortrax spustil kampaň na Kickstarteru pro 3D tiskárnu M200",
+    "summary": "The Kickstarter campaign was one of the best prepared at that time",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ef5ad74-0714-423e-93fe-c61a6835fb8c_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-22T17:27:30",
+    "url": "https://www.3dprintingjournal.com/p/05-22-2013-zortrax-launched-its-kickstarter",
+    "title_en": "05-22-2013: Zortrax launched its Kickstarter campaign for M200 3D printer",
+    "summary_bullets_en": [
+      "Zortrax launched a Kickstarter campaign for their M200 3D printer.",
+      "The campaign was noted for its exceptional preparation.",
+      "The M200 3D printer was a significant product for Zortrax."
+    ],
+    "summary_bullets_cs": [
+      "Kampaň na Kickstarteru byla jednou z nejlépe připravených v té době."
+    ]
+  },
+  {
+    "title": "Objet vydal 3D tiskárnu Objet30 Pro dne 22. května 2012",
+    "summary": "The system was offering a choice of seven different materials",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff55b0175-38ab-42ba-b7fd-52a8215bbdb8_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-22T17:18:02",
+    "url": "https://www.3dprintingjournal.com/p/05-22-2012-objet-released-objet30",
+    "title_en": "Objet released Objet30 Pro 3D printer on May 22, 2012",
+    "summary_bullets_en": [
+      "Objet introduced the Objet30 Pro 3D printer.",
+      "The printer offers a selection of seven different materials.",
+      "It was released on May 22, 2012."
+    ],
+    "summary_bullets_cs": [
+      "Objet představil 3D tiskárnu Objet30 Pro.",
+      "Tiskárna nabízí výběr ze sedmi různých materiálů."
+    ]
+  },
+  {
+    "title": "3D tištěná kůže: Austrálie vede svět s průlomovou studií v Sydney",
+    "summary": "A world-first clinical trial is underway in Sydney, and it’s rewriting the future of burn treatment. At the Concord Burns Unit, a patient has become the first in the world...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-22T13:30:03",
+    "url": "https://3dprint.com/318254/3d-printed-skin-australia-leads-the-world-with-breakthrough-trial-in-sydney/",
+    "title_en": "3D Printed Skin: Australia Leads the World with Breakthrough Trial in Sydney",
+    "summary_bullets_en": [
+      "A groundbreaking clinical trial is taking place in Sydney, Australia.",
+      "The trial involves the use of 3D printed skin for burn treatment.",
+      "A patient at the Concord Burns Unit is the first in the world to receive this treatment.",
+      "This innovation could revolutionize the future of burn care."
+    ],
+    "summary_bullets_cs": [
+      "V Sydney, Austrálie, probíhá průlomová klinická studie.",
+      "Studie zahrnuje použití 3D tištěné kůže pro léčbu popálenin.",
+      "Pacient v Concord Burns Unit je první na světě, kdo tuto léčbu podstoupil.",
+      "Tato inovace by mohla revolučně změnit budoucnost péče o popáleniny."
+    ]
+  },
+  {
+    "title": "Přinese Slate Truck novou éru 3D tisku v přizpůsobení automobilů?",
+    "summary": "In 2021, we wrote an article about the auto industry perhaps ushering in a new era of coach building. With an electric car putting most of its components in a...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-22T13:00:45",
+    "url": "https://3dprint.com/318229/will-the-slate-truck-usher-in-a-new-era-of-3d-printing-car-customization/",
+    "title_en": "Will the Slate Truck Usher in a New Era of 3D Printing Car Customization?",
+    "summary_bullets_en": [
+      "The article discusses the potential for a new era in car customization through 3D printing.",
+      "Electric vehicles simplify the integration of 3D printed components due to fewer mechanical parts.",
+      "The Slate Truck is highlighted as a potential pioneer in this customization trend."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá potenciálem nové éry v přizpůsobení automobilů pomocí 3D tisku.",
+      "Elektrická vozidla usnadňují integraci 3D tištěných komponent díky menšímu počtu mechanických částí.",
+      "Slate Truck je zdůrazněn jako možný průkopník v tomto trendu přizpůsobení."
+    ]
+  },
+  {
+    "title": "Stratasys získává aktiva Forward AM, rozšiřuje své portfolio pokročilých materiálů",
+    "summary": "Stratasys, a 3D printer OEM, has announced the acquisition of assets from Forward AM GmbH, a BASF spin-off based in Germany. This strategic transaction expands Stratasys’ materials portfolio, particularly enhancing its capabilities in Selective Absorption Fusion (SAF) and Digital Light Processing (DLP) technologies. The acquisition also reinforces Stratasys’ commitment to driving innovation and maintaining its [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2021/05/forward-am-use-case-concrete-formworks-printing-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-22T12:47:10",
+    "url": "https://3dprintingindustry.com/news/stratasys-acquires-forward-ams-assets-broadening-its-advanced-materials-portfolio-239786/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-acquires-forward-ams-assets-broadening-its-advanced-materials-portfolio",
+    "title_en": "Stratasys Acquires Forward AM’s Assets, Broadening Its Advanced Materials Portfolio",
+    "summary_bullets_en": [
+      "Stratasys has acquired assets from Forward AM GmbH, a BASF spin-off.",
+      "The acquisition enhances Stratasys' materials portfolio, especially in SAF and DLP technologies.",
+      "This move reinforces Stratasys' commitment to innovation."
+    ],
+    "summary_bullets_cs": [
+      "Stratasys získal aktiva od Forward AM GmbH, odštěpku společnosti BASF.",
+      "Akvizice rozšiřuje portfolio materiálů Stratasys, zejména v technologiích SAF a DLP.",
+      "Tento krok posiluje závazek Stratasys k inovacím."
+    ]
+  },
+  {
+    "title": "TCT 3Sixty se vrací do Birminghamu s dvoudenní dávkou inovací, poznatků a průmyslového networkingu",
+    "summary": "The UK’s event for 3D printing and additive manufacturing, TCT 3Sixty, returns to the NEC Birmingham on 4–5 June 2025, bringing together more than 5,000 professionals for two days of live demonstrations, expert talks, and networking. Hosted by The TCT Group, the free-to-attend show is designed to offer a comprehensive look at how additive manufacturing [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/MTczNTM5ODI0ODY3NzAxMzY4ZDU4MmU-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-22T11:55:48",
+    "url": "https://3dprintingindustry.com/news/tct-3sixty-returns-to-birmingham-with-two-days-of-innovation-insight-and-industry-networking-239779/?utm_source=rss&utm_medium=rss&utm_campaign=tct-3sixty-returns-to-birmingham-with-two-days-of-innovation-insight-and-industry-networking",
+    "title_en": "TCT 3Sixty Returns to Birmingham with Two Days of Innovation, Insight, and Industry Networking",
+    "summary_bullets_en": [
+      "TCT 3Sixty, the UK's event for 3D printing and additive manufacturing, will take place at NEC Birmingham on 4–5 June 2025.",
+      "The event will gather over 5,000 professionals for live demonstrations, expert talks, and networking opportunities.",
+      "Hosted by The TCT Group, the show is free to attend and offers a comprehensive look at additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "TCT 3Sixty, britská akce zaměřená na 3D tisk a aditivní výrobu, se uskuteční v NEC Birmingham ve dnech 4.–5. června 2025.",
+      "Akce přiláká více než 5 000 profesionálů na živé ukázky, odborné přednášky a networkingové příležitosti.",
+      "Pořádá ji The TCT Group a vstup na akci je zdarma, přičemž nabízí komplexní pohled na aditivní výrobu."
+    ]
+  },
+  {
+    "title": "Aditivní výroba otevírá nové možnosti v návrhu akustických metamateriálů",
+    "summary": "A review published in Virtual and Physical Prototyping explores the growing field of additively manufactured acoustic metamaterials (ACA-Meta), highlighting how 3D printing technologies enable novel designs for effective sound absorption across diverse applications. Authored by researchers from Khalifa University and Dassault Aviation, the paper classifies acoustic metamaterials into perforated, slotted, cellular, and hybrid types and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/Additively-manufactured-metamaterials-for-acoustic-absorption-a-review-4-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-22T10:39:23",
+    "url": "https://3dprintingindustry.com/news/additive-manufacturing-unlocks-new-possibilities-in-acoustic-metamaterials-design-239749/?utm_source=rss&utm_medium=rss&utm_campaign=additive-manufacturing-unlocks-new-possibilities-in-acoustic-metamaterials-design",
+    "title_en": "Additive manufacturing unlocks new possibilities in acoustic metamaterials design",
+    "summary_bullets_en": [
+      "A review in Virtual and Physical Prototyping examines the role of 3D printing in developing acoustic metamaterials.",
+      "The study highlights how additive manufacturing enables innovative designs for sound absorption.",
+      "Researchers from Khalifa University and Dassault Aviation contributed to the paper.",
+      "Acoustic metamaterials are categorized into perforated, slotted, cellular, and hybrid types."
+    ],
+    "summary_bullets_cs": [
+      "Recenze ve Virtual and Physical Prototyping zkoumá roli 3D tisku ve vývoji akustických metamateriálů.",
+      "Studie zdůrazňuje, jak aditivní výroba umožňuje inovativní návrhy pro absorpci zvuku.",
+      "Na článku se podíleli výzkumníci z Khalifa University a Dassault Aviation.",
+      "Akustické metamateriály jsou kategorizovány na perforované, drážkované, buněčné a hybridní typy."
+    ]
+  },
+  {
+    "title": "Ad-Proc-Add II: FOTEC pokročil v elektrochemickém post-processingu v 3D tisku",
+    "summary": "Forschungs- und Technologietransfer GmbH (FOTEC), a research subsidiary of the University of Applied Sciences Wiener Neustadt, has developed key technologies for the integration of additive manufacturing into industrial process chains as part of the international joint project Ad-Proc-Add II. The focus was on automated post-processing using Hirtisation, the characterization of additively manufactured surfaces, and the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/d13f7579-6631-4a04-db87-39b13a3a9353-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-22T10:09:04",
+    "url": "https://3dprintingindustry.com/news/ad-proc-add-ii-fotec-advances-electrochemical-post-processing-in-3d-printing-239748/?utm_source=rss&utm_medium=rss&utm_campaign=ad-proc-add-ii-fotec-advances-electrochemical-post-processing-in-3d-printing",
+    "title_en": "Ad-Proc-Add II: FOTEC Advances Electrochemical Post-Processing in 3D Printing",
+    "summary_bullets_en": [
+      "FOTEC, a subsidiary of the University of Applied Sciences Wiener Neustadt, is advancing 3D printing technologies.",
+      "The Ad-Proc-Add II project focuses on integrating additive manufacturing into industrial processes.",
+      "Key developments include automated post-processing using Hirtisation and surface characterization."
+    ],
+    "summary_bullets_cs": [
+      "FOTEC, dceřiná společnost Univerzity aplikovaných věd Wiener Neustadt, pokročila v technologiích 3D tisku.",
+      "Projekt Ad-Proc-Add II se zaměřuje na integraci aditivní výroby do průmyslových procesů.",
+      "Klíčové pokroky zahrnují automatizovaný post-processing pomocí Hirtisation a charakterizaci povrchů."
+    ]
+  },
+  {
+    "title": "Předpovědi trhu AM z před 12 lety – splnily se?",
+    "summary": "The Atomic Layers: S10E21 (00288)",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/db099692-8ba9-4329-8e7f-eae422be4427_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-21T17:45:02",
+    "url": "https://www.3dprintingjournal.com/p/am-market-forecasts-from-12-years",
+    "title_en": "AM market forecasts from 12 years ago – did they hold up?",
+    "summary_bullets_en": [
+      "The article reviews the accuracy of additive manufacturing market forecasts made 12 years ago.",
+      "It examines which predictions were accurate and which were not.",
+      "The analysis highlights the rapid advancements and unexpected challenges in the 3D printing industry.",
+      "Experts provide insights into how the market has evolved differently than anticipated."
+    ],
+    "summary_bullets_cs": [
+      "Článek hodnotí přesnost předpovědí trhu aditivní výroby z před 12 lety.",
+      "Zkoumá, které předpovědi byly přesné a které ne.",
+      "Analýza zdůrazňuje rychlý pokrok a neočekávané výzvy v odvětví 3D tisku.",
+      "Odborníci poskytují pohled na to, jak se trh vyvíjel jinak, než se očekávalo."
+    ]
+  },
+  {
+    "title": "Sculpteo spustilo svůj obchod s 3D tiskem na Amazonu",
+    "summary": "It was the second platform of this type that Amazon added to its digital 3D printing marketplace",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20d2642e-15a8-449f-9239-c2c1f153f150_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-21T16:28:36",
+    "url": "https://www.3dprintingjournal.com/p/05-21-2014-sculpteo-launched-its",
+    "title_en": "Sculpteo launched its 3D printing store on Amazon",
+    "summary_bullets_en": [
+      "Sculpteo has opened a 3D printing store on Amazon.",
+      "This marks the second platform of its kind on Amazon's digital 3D printing marketplace."
+    ],
+    "summary_bullets_cs": [
+      "Sculpteo otevřelo obchod s 3D tiskem na Amazonu.",
+      "Jedná se o druhou platformu tohoto typu, kterou Amazon přidal do svého digitálního tržiště pro 3D tisk."
+    ]
+  },
+  {
+    "title": "Trh s aditivní výrobou roste a bude růst i nadále",
+    "summary": "The Atomic Layers: S10E20 (00287)",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/63e77029-2229-46ea-a191-cecf72546835_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-20T18:01:31",
+    "url": "https://www.3dprintingjournal.com/p/the-am-market-is-growing-and-will",
+    "title_en": "The AM market is growing and will continue to grow",
+    "summary_bullets_en": [
+      "The additive manufacturing (AM) market is experiencing significant growth.",
+      "Technological advancements are driving the expansion of the AM industry.",
+      "The demand for 3D printing is increasing across various sectors.",
+      "Investments in AM technologies are expected to rise in the coming years."
+    ],
+    "summary_bullets_cs": [
+      "Trh s aditivní výrobou (AM) zažívá významný růst.",
+      "Technologické pokroky pohánějí expanzi průmyslu AM.",
+      "Poptávka po 3D tisku roste v různých sektorech.",
+      "Investice do technologií AM se očekávají v nadcházejících letech."
+    ]
+  },
+  {
+    "title": "20. května 2009: EOS prodalo svůj první systém EOSINT P 800 pro zpracování PEEK při vysokých teplotách",
+    "summary": "The client was FKM",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc215240-a0d1-4fd0-ab93-7631ea25c503_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-20T15:44:49",
+    "url": "https://www.3dprintingjournal.com/p/05-20-2009-eos-sold-its-first-eosint",
+    "title_en": "May 20, 2009: EOS sold its first EOSINT P 800 High-Temperature Peek Processing System",
+    "summary_bullets_en": [
+      "EOS sold its first EOSINT P 800 system.",
+      "The system is designed for high-temperature PEEK processing.",
+      "The client for this system was FKM."
+    ],
+    "summary_bullets_cs": [
+      "EOS prodalo svůj první systém EOSINT P 800.",
+      "Systém je navržen pro zpracování PEEK při vysokých teplotách.",
+      "Zákazníkem tohoto systému byla společnost FKM."
+    ]
   }
 ]
