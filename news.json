@@ -1,5 +1,86 @@
 [
   {
+    "title": "Robot, který odešel z tiskárny",
+    "summary": "In the Soft Systems Group at the University of Edinburgh, researchers 3D printed a tiny soft robot, then watched as it walked straight off the machine that made it. This...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-27T13:30:02",
+    "url": "https://3dprint.com/318335/the-robot-that-walked-off-the-printer/",
+    "title_en": "The Robot That Walked Off the Printer",
+    "summary_bullets_en": [
+      "Researchers at the University of Edinburgh 3D printed a small soft robot.",
+      "The robot was able to walk off the 3D printer on its own.",
+      "The project was conducted by the Soft Systems Group.",
+      "The robot's movement demonstrates advancements in soft robotics."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Univerzity v Edinburghu vytiskli malého měkkého robota pomocí 3D tisku.",
+      "Robot byl schopen sám odejít z 3D tiskárny.",
+      "Projekt byl realizován skupinou Soft Systems Group.",
+      "Pohyb robota ukazuje pokroky v oblasti měkké robotiky."
+    ],
+    "tags": [
+      "Hardware",
+      "Soft Robotics",
+      "University of Edinburgh",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Insight Surgery získává investici 2,5 milionu dolarů a schválení FDA pro 3D tištěné vodítka",
+    "summary": "UK-based Insight Surgery has received a $2.5 million investment, with the round led by medtech investor Nordenza Venture Partners. Insight has a workflow solution for end-to-end design and printing of...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-27T13:00:39",
+    "url": "https://3dprint.com/318292/insight-surgery-investment-fda-clearance/",
+    "title_en": "Insight Surgery Receives $2.5 Million Investment & FDA Clearance for 3D Printed Guides",
+    "summary_bullets_en": [
+      "Insight Surgery, a UK-based company, has secured a $2.5 million investment.",
+      "The investment round was led by medtech investor Nordenza Venture Partners.",
+      "Insight Surgery has developed a workflow solution for the design and 3D printing of surgical guides.",
+      "The company has received FDA clearance for its 3D printed guides."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Insight Surgery z Velké Británie získala investici ve výši 2,5 milionu dolarů.",
+      "Investiční kolo vedl medtech investor Nordenza Venture Partners.",
+      "Insight Surgery vyvinula řešení pro návrh a 3D tisk chirurgických vodítek.",
+      "Společnost získala schválení FDA pro své 3D tištěné vodítka."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Insight Surgery",
+      "Nordenza Venture Partners",
+      "FDA"
+    ]
+  },
+  {
+    "title": "Siraya Tech představuje nové elastomerové materiály pro 3D tisk, včetně pěnového TPU",
+    "summary": "California company Siraya Tech, founded in 2019 with a focus on material science, customer focus, and agility, develops high-quality 3D printing materials that meet the needs of creators, hobbyists, and...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-27T12:30:33",
+    "url": "https://3dprint.com/318328/siraya-new-elastomer-3d-printing-materials/",
+    "title_en": "Siraya Tech Introduces New Elastomer 3D Printing Materials, Including Foaming TPU",
+    "summary_bullets_en": [
+      "Siraya Tech, a California-based company, specializes in developing high-quality 3D printing materials.",
+      "The company has introduced new elastomer materials, including a foaming TPU.",
+      "Founded in 2019, Siraya Tech focuses on material science, customer needs, and agility.",
+      "Their products cater to creators, hobbyists, and professionals in the 3D printing industry."
+    ],
+    "summary_bullets_cs": [
+      "Kalifornská společnost Siraya Tech se specializuje na vývoj vysoce kvalitních materiálů pro 3D tisk.",
+      "Společnost představila nové elastomerové materiály, včetně pěnového TPU.",
+      "Siraya Tech byla založena v roce 2019 a zaměřuje se na materiálovou vědu, potřeby zákazníků a agilitu.",
+      "Jejich produkty jsou určeny pro tvůrce, nadšence a profesionály v oblasti 3D tisku."
+    ],
+    "tags": [
+      "Material",
+      "Siraya Tech",
+      "3D Printing"
+    ]
+  },
+  {
     "title": "Polymaker představuje řadu 3D tiskových filamentů HT-PLA a HT-PLA-GF",
     "summary": "Today, Polymaker has launched a new line of HT-PLA &#38; HT-PLA-GF filaments. These enhanced PLA versions increase the glass transition temperature of PLA from a normal 60°C to above 130°C....",
     "image": "",
