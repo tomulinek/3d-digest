@@ -1,5 +1,163 @@
 [
   {
+    "title": "3D tištěné armádní součástky vyrobené v terénu vojáky vyškolenými NASAM",
+    "summary": "Two U.S. Army soldiers deployed with Combined Joint Task Force Operation Inherent Resolve applied additive manufacturing (AM) training from a naval aviation program to produce critical components in the field. Their actions demonstrate how cross-branch technical instruction supports operational readiness. SPC James Martin and SPC Harry Vo, part of the 10th Mountain Division&#8217;s Allied Trades [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/A-U.S.-Army-Soldier-conducts-drivers-training-with-the-Mine-Resistant-Ambush-Protected-MRAP-vehicle.-U.S.-Army-photo-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-27T16:57:39",
+    "url": "https://3dprintingindustry.com/news/3d-printed-army-parts-produced-in-field-by-nasam-trained-soldiers-239882/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-army-parts-produced-in-field-by-nasam-trained-soldiers",
+    "title_en": "3D Printed Army Parts Produced in Field by NASAM-Trained Soldiers",
+    "summary_bullets_en": [
+      "Two U.S. Army soldiers used additive manufacturing training from a naval aviation program to produce critical components in the field.",
+      "Their actions highlight the benefits of cross-branch technical instruction for operational readiness.",
+      "SPC James Martin and SPC Harry Vo are part of the 10th Mountain Division's Allied Trades."
+    ],
+    "summary_bullets_cs": [
+      "Dva vojáci americké armády využili školení v aditivní výrobě z programu námořního letectva k výrobě klíčových komponentů v terénu.",
+      "Jejich činnost zdůrazňuje výhody mezirezortního technického školení pro operační připravenost.",
+      "SPC James Martin a SPC Harry Vo jsou součástí Allied Trades 10. horské divize."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "U.S. Army",
+      "NASAM",
+      "10th Mountain Division"
+    ]
+  },
+  {
+    "title": "ETH Zurich představuje Tor Alva: Nejvyšší 3D tištěná betonová věž na světě ukazující udržitelnou výstavbu",
+    "summary": "Researchers at public university ETH Zurich, commissioned by the cultural foundation Nova Fundaziun Origen,  have completed what is described as the world’s tallest 3D printed concrete tower: Tor Alva — a 30-meter, four-story modular structure in Mulegns, Switzerland.  Constructed from 3D printed concrete elements, this project showcases how robotic fabrication, computer-aided design, and resource-efficient construction [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/Screenshot-2025-05-24-at-11.35.24-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-05-27T16:54:53",
+    "url": "https://3dprintingindustry.com/news/eth-zurich-unveils-tor-alva-worlds-tallest-3d-printed-concrete-tower-showcasing-sustainable-construction-239848/?utm_source=rss&utm_medium=rss&utm_campaign=eth-zurich-unveils-tor-alva-worlds-tallest-3d-printed-concrete-tower-showcasing-sustainable-construction",
+    "title_en": "ETH Zurich Unveils Tor Alva: World’s Tallest 3D Printed Concrete Tower Showcasing Sustainable Construction",
+    "summary_bullets_en": [
+      "ETH Zurich has completed the world's tallest 3D printed concrete tower, Tor Alva, in Mulegns, Switzerland.",
+      "The tower is a 30-meter, four-story modular structure.",
+      "The project highlights the use of robotic fabrication, computer-aided design, and resource-efficient construction."
+    ],
+    "summary_bullets_cs": [
+      "ETH Zurich dokončila nejvyšší 3D tištěnou betonovou věž na světě, Tor Alva, v Mulegns, Švýcarsko.",
+      "Věž je modulární konstrukce o výšce 30 metrů a čtyřech podlažích.",
+      "Projekt zdůrazňuje využití robotické výroby, počítačově podporovaného designu a efektivní výstavby s ohledem na zdroje."
+    ],
+    "tags": [
+      "Hardware",
+      "ETH Zurich",
+      "3D Printing",
+      "Concrete",
+      "Sustainable Construction"
+    ]
+  },
+  {
+    "title": "AI model identifikuje původ 3D tištěných dílů s 98% přesností v novém výzkumu",
+    "summary": "Researchers from The Grainger College of Engineering at the University of Illinois Urbana-Champaign have developed a deep learning model that can determine which specific 3D printer created a part, using only a photograph.&#160; Working with SyBridge Technologies, the method offers a new way for manufacturers to verify part authenticity, monitor supplier compliance, and detect process [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/image-3-2-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-05-27T16:53:42",
+    "url": "https://3dprintingindustry.com/news/ai-model-identifies-origin-of-3d-printed-parts-with-98-accuracy-in-new-research-239900/?utm_source=rss&utm_medium=rss&utm_campaign=ai-model-identifies-origin-of-3d-printed-parts-with-98-accuracy-in-new-research",
+    "title_en": "AI model identifies origin of 3D printed parts with 98% accuracy in new research",
+    "summary_bullets_en": [
+      "Researchers at the University of Illinois Urbana-Champaign have developed a deep learning model.",
+      "The model can determine which specific 3D printer created a part using only a photograph.",
+      "This method helps manufacturers verify part authenticity and monitor supplier compliance.",
+      "The research was conducted in collaboration with SyBridge Technologies."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z The Grainger College of Engineering na University of Illinois Urbana-Champaign vyvinuli model hlubokého učení.",
+      "Model dokáže určit, který konkrétní 3D tiskárna vytvořila díl, pouze na základě fotografie.",
+      "Tato metoda pomáhá výrobcům ověřovat pravost dílů a monitorovat dodržování předpisů dodavatelů.",
+      "Výzkum byl proveden ve spolupráci se SyBridge Technologies."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "AI",
+      "University of Illinois",
+      "SyBridge Technologies"
+    ]
+  },
+  {
+    "title": "Univerzita v Edinburghu představuje světově první měkké roboty, kteří chodí přímo z 3D tiskárny",
+    "summary": "Researchers at the University of Edinburgh have developed what they describe as the world’s first soft robots capable of walking immediately after being produced by a low-cost, custom-built 3D printing platform. This open-source platform is expected to help overcome long-standing obstacles in the design, fabrication, and adoption of soft robotic systems. The robots—small, four-legged devices [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/robot-photo-to-scale_cropped-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-27T16:52:33",
+    "url": "https://3dprintingindustry.com/news/university-of-edinburgh-unveils-world-first-soft-robots-walking-straight-off-the-3d-printer-239901/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-edinburgh-unveils-world-first-soft-robots-walking-straight-off-the-3d-printer",
+    "title_en": "University of Edinburgh Unveils World-First Soft Robots Walking Straight Off the 3D Printer",
+    "summary_bullets_en": [
+      "Researchers at the University of Edinburgh have created soft robots that can walk immediately after being 3D printed.",
+      "The robots are produced using a low-cost, custom-built 3D printing platform.",
+      "This open-source platform aims to address challenges in the design and adoption of soft robotic systems."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Univerzity v Edinburghu vytvořili měkké roboty, kteří mohou chodit ihned po vytištění na 3D tiskárně.",
+      "Roboti jsou vyráběni pomocí nízkonákladové, na míru postavené 3D tiskové platformy.",
+      "Tato open-source platforma má za cíl řešit výzvy v návrhu a přijetí měkkých robotických systémů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Soft Robotics",
+      "University of Edinburgh",
+      "Open Source"
+    ]
+  },
+  {
+    "title": "Polymaker představuje HT-PLA a HT-PLA-GF pro 3D tisk s vysokou teplotní odolností a pevností",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/919076897/0/fabbaloo/default~Polymaker-Unveils-HTPLA-and-HTPLAGF-for-HighTemperature-HighStrength-D-Printing\" rel=\"nofollow\" title=\"Polymaker Unveils HT-PLA and HT-PLA-GF for High-Temperature, High-Strength 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/05/ht-pla-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Polymaker introduced two very intriguing new 3D printer materials today.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/919076897/0/fabbaloo/default~Polymaker-Unveils-HTPLA-and-HTPLAGF-for-HighTemperature-HighStrength-D-Printing\" rel=\"nofollow\">Polymaker Unveils HT-PLA and HT-PLA-GF for High-Temperature, High-Strength 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "",
+    "source": "Fabbaloo",
+    "published": "2025-05-27T16:48:00",
+    "url": "https://feeds.fabbaloo.com/~/919076897/0/fabbaloo/default~Polymaker-Unveils-HTPLA-and-HTPLAGF-for-HighTemperature-HighStrength-D-Printing",
+    "title_en": "Polymaker Unveils HT-PLA and HT-PLA-GF for High-Temperature, High-Strength 3D Printing",
+    "summary_bullets_en": [
+      "Polymaker has introduced two new 3D printing materials: HT-PLA and HT-PLA-GF.",
+      "These materials are designed for high-temperature and high-strength applications.",
+      "HT-PLA-GF is reinforced with glass fibers for added strength."
+    ],
+    "summary_bullets_cs": [
+      "Polymaker představil dva nové materiály pro 3D tisk: HT-PLA a HT-PLA-GF.",
+      "Tyto materiály jsou navrženy pro aplikace s vysokou teplotní odolností a pevností.",
+      "HT-PLA-GF je vyztužen skleněnými vlákny pro zvýšenou pevnost."
+    ],
+    "tags": [
+      "Material",
+      "Polymaker",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "ProForge 300 nabízí cenově dostupný 3D tisk s výměnou nástrojů a více materiály",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/919070558/0/fabbaloo/default~The-ProForge-Offers-Affordable-MultiMaterial-Toolchanging-D-Printing\" rel=\"nofollow\" title=\"The ProForge 300 Offers Affordable Multi-Material Toolchanging 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/05/proforge300-models-cover-300x145.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There is another tool-changing 3D printer available, the ProForge 300, and it’s an open-source design.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/919070558/0/fabbaloo/default~The-ProForge-Offers-Affordable-MultiMaterial-Toolchanging-D-Printing\" rel=\"nofollow\">The ProForge 300 Offers Affordable Multi-Material Toolchanging 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "",
+    "source": "Fabbaloo",
+    "published": "2025-05-27T15:11:00",
+    "url": "https://feeds.fabbaloo.com/~/919070558/0/fabbaloo/default~The-ProForge-Offers-Affordable-MultiMaterial-Toolchanging-D-Printing",
+    "title_en": "The ProForge 300 Offers Affordable Multi-Material Toolchanging 3D Printing",
+    "summary_bullets_en": [
+      "The ProForge 300 is a new tool-changing 3D printer.",
+      "It supports multi-material printing.",
+      "The design of the ProForge 300 is open-source.",
+      "The printer is positioned as an affordable option in the market."
+    ],
+    "summary_bullets_cs": [
+      "ProForge 300 je nový 3D tiskárna s výměnou nástrojů.",
+      "Podporuje tisk s více materiály.",
+      "Design ProForge 300 je open-source.",
+      "Tiskárna je na trhu prezentována jako cenově dostupná možnost."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "ProForge 300",
+      "Open-Source",
+      "Multi-Material"
+    ]
+  },
+  {
     "title": "Robot, který odešel z tiskárny",
     "summary": "In the Soft Systems Group at the University of Edinburgh, researchers 3D printed a tiny soft robot, then watched as it walked straight off the machine that made it. This...",
     "image": "",
