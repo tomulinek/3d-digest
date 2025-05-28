@@ -1,5 +1,317 @@
 [
   {
+    "title": "Automatizace AM výroby pokročí pouze prostřednictvím stolních 3D tiskáren",
+    "summary": "The Atomic Layers: S10E28 (00295)",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/63696d82-570e-4c7a-bdab-b63e56cf69cb_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-28T17:07:52",
+    "url": "https://www.3dprintingjournal.com/p/the-automation-of-am-production-will",
+    "title_en": "The automation of AM production will advance only through desktop 3D printers",
+    "summary_bullets_en": [
+      "Desktop 3D printers are crucial for advancing the automation of additive manufacturing (AM) production.",
+      "These printers offer flexibility and accessibility, making them ideal for small-scale production and prototyping.",
+      "The integration of desktop 3D printers into production processes can lead to significant cost savings and efficiency improvements.",
+      "The future of AM automation relies heavily on the continued development and adoption of desktop 3D printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Stolní 3D tiskárny jsou klíčové pro pokrok v automatizaci aditivní výroby (AM).",
+      "Tyto tiskárny nabízejí flexibilitu a dostupnost, což je činí ideálními pro malovýrobu a prototypování.",
+      "Integrace stolních 3D tiskáren do výrobních procesů může vést k významným úsporám nákladů a zlepšení efektivity.",
+      "Budoucnost automatizace AM silně závisí na dalším vývoji a přijetí technologie stolního 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Desktop 3D Printers",
+      "Additive Manufacturing",
+      "Automation"
+    ]
+  },
+  {
+    "title": "ELEGOO navrhuje otevřený RFID standard pro cívky s filamentem pro 3D tiskárny, hledá zpětnou vazbu od komunity",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/919145591/0/fabbaloo/default~ELEGOO-Proposes-Open-RFID-Standard-for-D-Printer-Filament-Spools-Seeks-Community-Feedback\" rel=\"nofollow\" title=\"ELEGOO Proposes Open RFID Standard for 3D Printer Filament Spools, Seeks Community Feedback\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/05/elegoo-rfid-cover-1-300x176.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>ELEGOO has requested public input on their important RFID standard.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/919145591/0/fabbaloo/default~ELEGOO-Proposes-Open-RFID-Standard-for-D-Printer-Filament-Spools-Seeks-Community-Feedback\" rel=\"nofollow\">ELEGOO Proposes Open RFID Standard for 3D Printer Filament Spools, Seeks Community Feedback</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "",
+    "source": "Fabbaloo",
+    "published": "2025-05-28T16:30:00",
+    "url": "https://feeds.fabbaloo.com/~/919145591/0/fabbaloo/default~ELEGOO-Proposes-Open-RFID-Standard-for-D-Printer-Filament-Spools-Seeks-Community-Feedback",
+    "title_en": "ELEGOO Proposes Open RFID Standard for 3D Printer Filament Spools, Seeks Community Feedback",
+    "summary_bullets_en": [
+      "ELEGOO has introduced a proposal for an open RFID standard for 3D printer filament spools.",
+      "The company is seeking feedback from the community to refine and improve the standard.",
+      "The initiative aims to enhance compatibility and information sharing across different 3D printing systems."
+    ],
+    "summary_bullets_cs": [
+      "ELEGOO představilo návrh na otevřený RFID standard pro cívky s filamentem pro 3D tiskárny.",
+      "Společnost hledá zpětnou vazbu od komunity, aby standard zdokonalila a vylepšila.",
+      "Iniciativa má za cíl zlepšit kompatibilitu a sdílení informací mezi různými systémy 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "ELEGOO",
+      "3D Printing",
+      "RFID",
+      "Filament"
+    ]
+  },
+  {
+    "title": "28-05-2014: MOD-t - nejlevnější 3D tiskárna té doby, byla spuštěna na Indiegogo",
+    "summary": "The printer was created by New Matter",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a756693-68b5-498d-9497-0f963c169314_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-28T16:26:55",
+    "url": "https://www.3dprintingjournal.com/p/05-28-2014-mod-t-the-cheapest-3d",
+    "title_en": "05-28-2014: MOD-t - the cheapest 3D printer of that time, was launched on Indiegogo",
+    "summary_bullets_en": [
+      "MOD-t was introduced as the most affordable 3D printer of its time.",
+      "The printer was launched on the crowdfunding platform Indiegogo.",
+      "New Matter is the company behind the creation of MOD-t."
+    ],
+    "summary_bullets_cs": [
+      "MOD-t byla představena jako nejdostupnější 3D tiskárna své doby.",
+      "Tiskárna byla spuštěna na crowdfundingové platformě Indiegogo.",
+      "Společnost New Matter stojí za vytvořením MOD-t."
+    ],
+    "tags": [
+      "Hardware",
+      "New Matter",
+      "Indiegogo",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Nový Flex TPU Air Filament od Siraya Tech nabízí nastavitelnou flexibilitu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/919140314/0/fabbaloo/default~New-Flex-TPU-Air-Filament-From-Siraya-Tech-Offers-Tunable-Flexibility\" rel=\"nofollow\" title=\"New Flex TPU Air Filament From Siraya Tech Offers Tunable Flexibility\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/05/flex-tpu-air-cover-300x128.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Siraya Tech introduced a fascinating new foaming 3D printer filament, Flex TPU Air.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/919140314/0/fabbaloo/default~New-Flex-TPU-Air-Filament-From-Siraya-Tech-Offers-Tunable-Flexibility\" rel=\"nofollow\">New Flex TPU Air Filament From Siraya Tech Offers Tunable Flexibility</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "",
+    "source": "Fabbaloo",
+    "published": "2025-05-28T15:11:00",
+    "url": "https://feeds.fabbaloo.com/~/919140314/0/fabbaloo/default~New-Flex-TPU-Air-Filament-From-Siraya-Tech-Offers-Tunable-Flexibility",
+    "title_en": "New Flex TPU Air Filament From Siraya Tech Offers Tunable Flexibility",
+    "summary_bullets_en": [
+      "Siraya Tech has launched a new foaming 3D printer filament called Flex TPU Air.",
+      "The filament offers tunable flexibility, allowing users to adjust the material's properties.",
+      "Flex TPU Air is designed to enhance the versatility of 3D printed objects."
+    ],
+    "summary_bullets_cs": [
+      "Siraya Tech představila nový pěnový filament pro 3D tiskárny s názvem Flex TPU Air.",
+      "Filament nabízí nastavitelnou flexibilitu, což umožňuje uživatelům upravit vlastnosti materiálu.",
+      "Flex TPU Air je navržen tak, aby zvýšil všestrannost 3D tištěných objektů."
+    ],
+    "tags": [
+      "Material",
+      "Siraya Tech",
+      "3D Printing",
+      "Flex TPU Air"
+    ]
+  },
+  {
+    "title": "Singapur představuje svůj první standard 3D tisku pro letectví",
+    "summary": "Singapore has introduced a national standard designed to bring additive manufacturing more firmly into the country’s aerospace sector.&#160; Named “Additive Manufacturing for Aerospace – Filament Layer Manufacturing Process Specifications,” SS 708 sets out process specifications for filament layer manufacturing (FLM), a type of 3D printing that builds parts by depositing melted thermoplastic materials one layer [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-03-26-at-15.12.48-1024x700-1-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-28T14:58:23",
+    "url": "https://3dprintingindustry.com/news/singapore-introduces-its-first-ever-3d-printing-standard-for-aerospace-239975/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-introduces-its-first-ever-3d-printing-standard-for-aerospace",
+    "title_en": "Singapore introduces its first ever 3D printing standard for aerospace",
+    "summary_bullets_en": [
+      "Singapore has launched its first national standard for 3D printing in the aerospace sector.",
+      "The standard is named 'Additive Manufacturing for Aerospace – Filament Layer Manufacturing Process Specifications' (SS 708).",
+      "SS 708 outlines process specifications for filament layer manufacturing (FLM), a type of 3D printing using melted thermoplastic materials."
+    ],
+    "summary_bullets_cs": [
+      "Singapur zavedl svůj první národní standard pro 3D tisk v leteckém sektoru.",
+      "Standard nese název 'Additive Manufacturing for Aerospace – Filament Layer Manufacturing Process Specifications' (SS 708).",
+      "SS 708 stanovuje specifikace procesů pro filamentovou vrstvovou výrobu (FLM), typ 3D tisku využívající roztavené termoplastické materiály."
+    ],
+    "tags": [
+      "Hardware",
+      "Aerospace",
+      "3D Printing",
+      "Singapore",
+      "Standards"
+    ]
+  },
+  {
+    "title": "Tým z Luleå University of Technology pokročil v autonomním leteckém 3D tisku s experimentálním rámcem založeným na částech",
+    "summary": "Researchers at Luleå University of Technology in Sweden have demonstrated a fully autonomous aerial additive manufacturing (AM) framework capable of fabricating 3D structures using drones. The system, developed by Marios-Nektarios Stamatopoulos, Jakub Haluska, Elias Small, Jude Marroush, Avijit Banerjee, and George Nikolakopoulos, combines optimized mesh decomposition with advanced flight control and has been validated through [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/aer-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-05-28T14:53:06",
+    "url": "https://3dprintingindustry.com/news/lulea-university-of-technology-team-advances-autonomous-aerial-3d-printing-with-experimental-chunk-based-framework-239955/?utm_source=rss&utm_medium=rss&utm_campaign=lulea-university-of-technology-team-advances-autonomous-aerial-3d-printing-with-experimental-chunk-based-framework",
+    "title_en": "Luleå University of Technology team advances autonomous aerial 3D printing with experimental chunk-based framework",
+    "summary_bullets_en": [
+      "Researchers at Luleå University of Technology have developed an autonomous aerial 3D printing system using drones.",
+      "The framework is capable of fabricating 3D structures autonomously.",
+      "The system combines optimized mesh decomposition with advanced flight control.",
+      "The project was led by Marios-Nektarios Stamatopoulos and his team."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Luleå University of Technology vyvinuli autonomní letecký 3D tiskový systém využívající drony.",
+      "Rámec je schopen autonomně vytvářet 3D struktury.",
+      "Systém kombinuje optimalizovanou dekompozici sítě s pokročilým řízením letu.",
+      "Projekt vedl Marios-Nektarios Stamatopoulos a jeho tým."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Drones",
+      "Autonomous Systems",
+      "Luleå University of Technology"
+    ]
+  },
+  {
+    "title": "BCN3D podává návrh na bankrot navzdory nedávným úspěchům",
+    "summary": "Spanish 3D printer manufacturer BCN3D has filed for voluntary bankruptcy, according to Crónica Global. Based in Gavà, near Barcelona, the company had been one of Spain’s most recognized players in...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-28T13:49:39",
+    "url": "https://3dprint.com/318341/bcn3d-files-for-bankruptcy-despite-recent-milestones/",
+    "title_en": "BCN3D Files for Bankruptcy Despite Recent Milestones",
+    "summary_bullets_en": [
+      "BCN3D, a Spanish 3D printer manufacturer, has filed for voluntary bankruptcy.",
+      "The company is based in Gavà, near Barcelona, and was a prominent player in Spain's 3D printing industry.",
+      "Despite recent achievements, BCN3D faced financial difficulties leading to this decision."
+    ],
+    "summary_bullets_cs": [
+      "Španělský výrobce 3D tiskáren BCN3D podal návrh na dobrovolný bankrot.",
+      "Společnost sídlí v Gavà poblíž Barcelony a byla významným hráčem na španělském trhu 3D tisku.",
+      "Navzdory nedávným úspěchům čelila BCN3D finančním potížím, které vedly k tomuto rozhodnutí."
+    ],
+    "tags": [
+      "Hardware",
+      "BCN3D",
+      "3D Printing",
+      "Bankruptcy",
+      "Spain"
+    ]
+  },
+  {
+    "title": "Damen a CEAD vyvíjejí 3D tištěný pracovní člun z HDPE",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/919134809/0/fabbaloo/default~Damen-and-CEAD-to-develop-D-printed-HDPE-Workboat-HWB\" rel=\"nofollow\" title=\"Damen and CEAD to develop 3D printed HDPE Workboat (HWB)\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/05/damen-and-cead-join-forces-to-develop-3d-printed-hdpe-workboat-top-780x470.jpeg-300x181.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The success of the project could open the door to broader applications of additive manufacturing in shipbuilding. </p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/919134809/0/fabbaloo/default~Damen-and-CEAD-to-develop-D-printed-HDPE-Workboat-HWB\" rel=\"nofollow\">Damen and CEAD to develop 3D printed HDPE Workboat (HWB)</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "",
+    "source": "Fabbaloo",
+    "published": "2025-05-28T13:43:00",
+    "url": "https://feeds.fabbaloo.com/~/919134809/0/fabbaloo/default~Damen-and-CEAD-to-develop-D-printed-HDPE-Workboat-HWB",
+    "title_en": "Damen and CEAD to develop 3D printed HDPE Workboat (HWB)",
+    "summary_bullets_en": [
+      "Damen and CEAD are collaborating to develop a 3D printed workboat made from HDPE.",
+      "The project aims to demonstrate the potential of additive manufacturing in shipbuilding.",
+      "Success could lead to broader applications of 3D printing technology in the maritime industry."
+    ],
+    "summary_bullets_cs": [
+      "Damen a CEAD spolupracují na vývoji 3D tištěného pracovního člunu z HDPE.",
+      "Projekt má za cíl ukázat potenciál aditivní výroby v lodním stavitelství.",
+      "Úspěch by mohl vést k širšímu využití technologie 3D tisku v námořním průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Damen",
+      "CEAD",
+      "3D Printing",
+      "Shipbuilding",
+      "HDPE"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 28. května 2025: Stolní betonová 3D tiskárna, polyesterová pryskyřice a další",
+    "summary": "We&#8217;re starting things off with business in today&#8217;s 3D Printing News Briefs, as Axtra3D named Maquinser a professional reseller. A tabletop concrete 3D printer has been developed for materials research,...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-28T13:00:15",
+    "url": "https://3dprint.com/318330/3d-printing-news-briefs-5-28-2025/",
+    "title_en": "3D Printing News Briefs, May 28, 2025: Tabletop Concrete 3D Printer, Polyester Resin, & More",
+    "summary_bullets_en": [
+      "Axtra3D has appointed Maquinser as a professional reseller.",
+      "A new tabletop concrete 3D printer has been developed for materials research.",
+      "The article discusses advancements in polyester resin for 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Axtra3D jmenovala Maquinser profesionálním prodejcem.",
+      "Byla vyvinuta nová stolní betonová 3D tiskárna pro výzkum materiálů.",
+      "Článek se zabývá pokroky v oblasti polyesterové pryskyřice pro 3D tisk."
+    ],
+    "tags": [
+      "Hardware",
+      "Axtra3D",
+      "Maquinser",
+      "Materials"
+    ]
+  },
+  {
+    "title": "Revopoint Trackit zahajuje kampaň na Kickstarteru s 3D skenováním bez markerů",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/revopoint-trackit-launches-on-kickstarter-with-marker-free-3d-scanning/\" target=\"_blank\">Revopoint Trackit Launches on Kickstarter with Marker-Free 3D Scanning</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">May 28</span></div><div><img alt=\"Revopoint Trackit Launches on Kickstarter with Marker-Free 3D Scanning\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/image4-111-500x500.png\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "",
+    "source": "3DPrinting.com",
+    "published": "2025-05-28T12:45:00",
+    "url": "https://3dprinting.com/news/revopoint-trackit-launches-on-kickstarter-with-marker-free-3d-scanning/",
+    "title_en": "Revopoint Trackit Launches on Kickstarter with Marker-Free 3D Scanning",
+    "summary_bullets_en": [
+      "Revopoint has launched a new 3D scanner called Trackit on Kickstarter.",
+      "The Trackit scanner offers marker-free 3D scanning technology.",
+      "This innovation aims to simplify the 3D scanning process for users.",
+      "The Kickstarter campaign seeks to fund the production and distribution of the Trackit scanner."
+    ],
+    "summary_bullets_cs": [
+      "Revopoint spustil nový 3D skener s názvem Trackit na Kickstarteru.",
+      "Skener Trackit nabízí technologii 3D skenování bez použití markerů.",
+      "Tato inovace má za cíl zjednodušit proces 3D skenování pro uživatele.",
+      "Kampaň na Kickstarteru se snaží získat prostředky na výrobu a distribuci skeneru Trackit."
+    ],
+    "tags": [
+      "Hardware",
+      "Revopoint",
+      "3D Scanning",
+      "Kickstarter"
+    ]
+  },
+  {
+    "title": "Indická MIRA 3D přináší rychlý a cenově dostupný software pro přípravu výroby v AM",
+    "summary": "A 2022 startup out of Mumbai, India, caught my attention at RAPID + TCT 2025. The company, known as MIRA 3D and officially registered as Samisan Tech Private Limited, was...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-28T12:30:35",
+    "url": "https://3dprint.com/318353/indias-mira-3d-delivers-fast-affordable-build-prep-software-for-am/",
+    "title_en": "India’s MIRA 3D Delivers Fast, Affordable Build Prep Software for AM",
+    "summary_bullets_en": [
+      "MIRA 3D, a startup from Mumbai, India, was highlighted at RAPID + TCT 2025.",
+      "The company is officially registered as Samisan Tech Private Limited.",
+      "MIRA 3D offers fast and affordable build preparation software for additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Startup MIRA 3D z Bombaje, Indie, byl vyzdvižen na RAPID + TCT 2025.",
+      "Společnost je oficiálně registrována jako Samisan Tech Private Limited.",
+      "MIRA 3D nabízí rychlý a cenově dostupný software pro přípravu výroby v aditivní výrobě."
+    ],
+    "tags": [
+      "Software",
+      "MIRA 3D",
+      "Samisan Tech Private Limited",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Středoškolský student vyvinul levný dron vytištěný na 3D tiskárně",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/high-school-student-develops-low-cost-3d-printed-drone/\" target=\"_blank\">High School Student Develops Low-Cost 3D Printed Drone</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">May 28</span></div><div><img alt=\"High School Student Develops Low-Cost 3D Printed Drone\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/Cooper-Taylor-vtol-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "",
+    "source": "3DPrinting.com",
+    "published": "2025-05-28T12:29:00",
+    "url": "https://3dprinting.com/news/high-school-student-develops-low-cost-3d-printed-drone/",
+    "title_en": "High School Student Develops Low-Cost 3D Printed Drone",
+    "summary_bullets_en": [
+      "A high school student has created a low-cost drone using 3D printing technology.",
+      "The drone is designed to be affordable and accessible for educational purposes.",
+      "The project showcases the potential of 3D printing in developing functional and cost-effective technology."
+    ],
+    "summary_bullets_cs": [
+      "Středoškolský student vytvořil levný dron pomocí technologie 3D tisku.",
+      "Dron je navržen tak, aby byl cenově dostupný a přístupný pro vzdělávací účely.",
+      "Projekt ukazuje potenciál 3D tisku při vývoji funkční a nákladově efektivní technologie."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Education",
+      "Drones"
+    ]
+  },
+  {
     "title": "Zpět ve hře: Jak platforma prášků Continuum pohání další fázi aditivní výroby",
     "summary": "Continuum Powders made headlines in 2025 for its work with Siemens Energy, helping the industrial giant turn aerospace scrap into metal powder for additive manufacturing (AM). That scrap-to-powder model became...",
     "image": "",
