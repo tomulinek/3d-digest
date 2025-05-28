@@ -1,5 +1,81 @@
 [
   {
+    "title": "Zpět ve hře: Jak platforma prášků Continuum pohání další fázi aditivní výroby",
+    "summary": "Continuum Powders made headlines in 2025 for its work with Siemens Energy, helping the industrial giant turn aerospace scrap into metal powder for additive manufacturing (AM). That scrap-to-powder model became...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-28T12:00:18",
+    "url": "https://3dprint.com/318192/back-in-the-mix-how-continuums-powder-platform-fuels-the-next-phase-of-am/",
+    "title_en": "Back in the Mix: How Continuum’s Powder Platform Fuels the Next Phase of AM",
+    "summary_bullets_en": [
+      "Continuum Powders gained attention in 2025 for collaborating with Siemens Energy to convert aerospace scrap into metal powder for additive manufacturing.",
+      "The scrap-to-powder model developed by Continuum has become a significant innovation in the AM industry.",
+      "This approach not only reduces waste but also provides a sustainable source of high-quality metal powder for various applications."
+    ],
+    "summary_bullets_cs": [
+      "Continuum Powders získala pozornost v roce 2025 díky spolupráci se Siemens Energy na přeměně leteckého odpadu na kovový prášek pro aditivní výrobu.",
+      "Model přeměny odpadu na prášek, který vyvinula Continuum, se stal významnou inovací v průmyslu aditivní výroby.",
+      "Tento přístup nejenže snižuje odpad, ale také poskytuje udržitelný zdroj vysoce kvalitního kovového prášku pro různé aplikace."
+    ],
+    "tags": [
+      "Material",
+      "Siemens Energy",
+      "Continuum Powders",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Výzkumníci z University of Toronto představují rámec strojového učení pro optimalizaci 3D tisku kovů",
+    "summary": "Researchers at the University of Toronto have unveiled a machine learning-based framework designed to accelerate and refine the optimization of laser-based metal additive manufacturing. Named AIDED (Accurate Inverse process optimization framework in laser Directed Energy Deposition), the system allows users to predict and inversely determine optimal printing parameters for Laser Directed Energy Deposition (L-DED) processes, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/1-s2-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-05-28T07:11:26",
+    "url": "https://3dprintingindustry.com/news/university-of-toronto-researchers-introduce-machine-learning-framework-to-optimize-metal-3d-printing-239931/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-toronto-researchers-introduce-machine-learning-framework-to-optimize-metal-3d-printing",
+    "title_en": "University of Toronto researchers introduce machine learning framework to optimize metal 3D printing",
+    "summary_bullets_en": [
+      "Researchers at the University of Toronto have developed a machine learning framework called AIDED.",
+      "AIDED is designed to optimize laser-based metal additive manufacturing processes.",
+      "The framework helps predict and determine optimal printing parameters for Laser Directed Energy Deposition (L-DED)."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University of Toronto vyvinuli rámec strojového učení nazvaný AIDED.",
+      "AIDED je navržen pro optimalizaci procesů laserového aditivního zpracování kovů.",
+      "Rámec pomáhá předpovídat a určovat optimální tiskové parametry pro Laser Directed Energy Deposition (L-DED)."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "University of Toronto",
+      "Laser Directed Energy Deposition",
+      "AIDED"
+    ]
+  },
+  {
+    "title": "3D tištěný laboratorní nástroj pro vesmírnou biologii přežil vesmírný let",
+    "summary": "When it comes to space missions, even the smallest tools have to be light, tough, and reliable, and one small device is proving just how powerful that combination can be....",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-05-28T07:00:02",
+    "url": "https://3dprint.com/318360/a-3d-printed-lab-tool-for-space-biology-survives-spaceflight/",
+    "title_en": "A 3D Printed Lab Tool for Space Biology Survives Spaceflight",
+    "summary_bullets_en": [
+      "A 3D printed lab tool designed for space biology has successfully endured the challenges of spaceflight.",
+      "The tool is lightweight, durable, and reliable, making it ideal for space missions.",
+      "This achievement highlights the potential of 3D printing technology in creating essential tools for space exploration."
+    ],
+    "summary_bullets_cs": [
+      "3D tištěný laboratorní nástroj navržený pro vesmírnou biologii úspěšně zvládl náročné podmínky vesmírného letu.",
+      "Nástroj je lehký, odolný a spolehlivý, což ho činí ideálním pro vesmírné mise.",
+      "Tento úspěch zdůrazňuje potenciál technologie 3D tisku při vytváření nezbytných nástrojů pro průzkum vesmíru."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Space Exploration",
+      "Space Biology"
+    ]
+  },
+  {
     "title": "3D tištěné armádní součástky vyrobené v terénu vojáky vyškolenými NASAM",
     "summary": "Two U.S. Army soldiers deployed with Combined Joint Task Force Operation Inherent Resolve applied additive manufacturing (AM) training from a naval aviation program to produce critical components in the field. Their actions demonstrate how cross-branch technical instruction supports operational readiness. SPC James Martin and SPC Harry Vo, part of the 10th Mountain Division&#8217;s Allied Trades [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/A-U.S.-Army-Soldier-conducts-drivers-training-with-the-Mine-Resistant-Ambush-Protected-MRAP-vehicle.-U.S.-Army-photo-150x100.jpg",
