@@ -1,5 +1,35 @@
 [
   {
+    "title": "Sektor 3D tisku prochází \"resetem\"",
+    "summary": "The Atomic Layers: S10E29 (00296)",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/c3ddde42-8564-4e2b-8f2a-db95fc1c9b5e_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-29T18:06:03",
+    "url": "https://www.3dprintingjournal.com/p/the-3d-printing-sector-is-undergoing",
+    "title_en": "The 3D printing sector is undergoing a \"reset\"",
+    "summary_bullets_en": [
+      "The 3D printing industry is experiencing significant changes, often referred to as a 'reset'.",
+      "Companies are reevaluating their strategies and focusing on sustainable growth.",
+      "There is a shift towards more efficient and cost-effective production methods.",
+      "Key players in the industry are adapting to new market demands and technological advancements."
+    ],
+    "summary_bullets_cs": [
+      "Průmysl 3D tisku zažívá významné změny, často označované jako 'reset'.",
+      "Firmy přehodnocují své strategie a zaměřují se na udržitelný růst.",
+      "Dochází k posunu směrem k efektivnějším a nákladově efektivnějším výrobním metodám.",
+      "Klíčoví hráči v odvětví se přizpůsobují novým požadavkům trhu a technologickým pokrokům."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "UltiMaker",
+      "Nikon SLM Solutions",
+      "HP"
+    ]
+  },
+  {
     "title": "Patentový spor mezi Creality a Slice Engineering vyřešen novou dohodou",
     "summary": "Florida-based Slice Engineering has reached an agreement with Creality over a patent non-infringement lawsuit filed by the Shenzhen-based 3D printer manufacturer.&#160;&#160; The original declaratory judgment lawsuit was filed last year in the United States District Court for the Northern District of Florida, Gainesville Division. Creality claimed that Slice Engineering wrongly accused it of infringing two [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2023/05/The-Mosquito-Prime-hotend.-Image-via-Slice-Engineering-150x100.png",
