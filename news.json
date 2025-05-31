@@ -1,5 +1,84 @@
 [
   {
+    "title": "Průlom v multibarevném DLP 3D tisku umožňuje rozpustné podpory pro složité samostatně stojící struktury",
+    "summary": "Researchers at the University of Texas at Austin have developed a novel resin system for multicolor digital light processing (DLP) 3D printing that enables rapid fabrication of freestanding and non-assembly structures using dissolvable supports. The work, led by Zachariah A. Page and published in ACS Central Science, combines UV- and visible-light-responsive chemistries to produce materials [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/images_large_oc5c00289_0005-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-05-31T09:52:50",
+    "url": "https://3dprintingindustry.com/news/multicolor-dlp-3d-printing-breakthrough-enables-dissolvable-supports-for-complex-freestanding-structures-240247/?utm_source=rss&utm_medium=rss&utm_campaign=multicolor-dlp-3d-printing-breakthrough-enables-dissolvable-supports-for-complex-freestanding-structures",
+    "title_en": "Multicolor DLP 3D printing breakthrough enables dissolvable supports for complex freestanding structures",
+    "summary_bullets_en": [
+      "Researchers at the University of Texas at Austin have developed a new resin system for multicolor DLP 3D printing.",
+      "The system allows for the rapid fabrication of freestanding and non-assembly structures.",
+      "Dissolvable supports are used, which simplifies the creation of complex structures.",
+      "The research was led by Zachariah A. Page and published in ACS Central Science."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University of Texas v Austinu vyvinuli nový systém pryskyřic pro multibarevný DLP 3D tisk.",
+      "Systém umožňuje rychlou výrobu samostatně stojících a nesestavovaných struktur.",
+      "Používají se rozpustné podpory, což zjednodušuje tvorbu složitých struktur.",
+      "Výzkum vedl Zachariah A. Page a byl publikován v ACS Central Science."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "University of Texas at Austin",
+      "DLP 3D Printing",
+      "ACS Central Science"
+    ]
+  },
+  {
+    "title": "Elegoo spouští RFID ekosystém, vyzývá uživatele k zpětné vazbě na systém ověřování materiálů",
+    "summary": "Shenzhen-based 3D printer manufacturer Elegoo has introduced a new RFID Ecosystem for its upcoming printer line, including the upcoming Elegoo Saturn 4 Ultra. This system integrates RFID-tagged resin bottles, an Elegoo-designed scanner, and cloud-connected print profiles. Elegoo has opened a public feedback solicitation on its website and GitHub page to refine the implementation and encourage [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/elegoo-filament_system-rfid-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-05-31T08:42:56",
+    "url": "https://3dprintingindustry.com/news/elegoo-launches-rfid-ecosystem-invites-user-feedback-for-material-authentication-system-240255/?utm_source=rss&utm_medium=rss&utm_campaign=elegoo-launches-rfid-ecosystem-invites-user-feedback-for-material-authentication-system",
+    "title_en": "Elegoo launches RFID ecosystem, invites user feedback for material authentication system",
+    "summary_bullets_en": [
+      "Elegoo, a Shenzhen-based 3D printer manufacturer, has introduced a new RFID Ecosystem for its upcoming printer line.",
+      "The system includes RFID-tagged resin bottles, an Elegoo-designed scanner, and cloud-connected print profiles.",
+      "Elegoo is seeking public feedback on its website and GitHub page to refine the system's implementation."
+    ],
+    "summary_bullets_cs": [
+      "Elegoo, výrobce 3D tiskáren se sídlem v Shenzhenu, představil nový RFID ekosystém pro svou nadcházející řadu tiskáren.",
+      "Systém zahrnuje pryskyřicové lahve s RFID štítky, skener navržený společností Elegoo a tiskové profily připojené ke cloudu.",
+      "Elegoo žádá veřejnost o zpětnou vazbu na svých webových stránkách a GitHubu, aby vylepšila implementaci systému."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Elegoo",
+      "RFID",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "31.05.2022: Bambu Lab X1 debutoval na Kickstarteru",
+    "summary": "...turning the whole FDM/FFF 3D printing industry upside down",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d9177fe-3079-431c-8ed9-38c062324a39_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-05-31T08:24:00",
+    "url": "https://www.3dprintingjournal.com/p/05-31-2022-bambu-lab-x1-debuted-on",
+    "title_en": "05-31-2022: Bambu Lab X1 debuted on Kickstarter",
+    "summary_bullets_en": [
+      "Bambu Lab X1 was launched on Kickstarter, promising to revolutionize the FDM/FFF 3D printing industry.",
+      "The printer features advanced technology aimed at improving print quality and speed.",
+      "Bambu Lab X1 has garnered significant attention and support from the 3D printing community."
+    ],
+    "summary_bullets_cs": [
+      "Bambu Lab X1 byl spuštěn na Kickstarteru s cílem revolucionalizovat průmysl FDM/FFF 3D tisku.",
+      "Tiskárna nabízí pokročilou technologii zaměřenou na zlepšení kvality a rychlosti tisku.",
+      "Bambu Lab X1 získal významnou pozornost a podporu od komunity 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing",
+      "Kickstarter"
+    ]
+  },
+  {
     "title": "Molecular Rebar Design patentuje disperze uhlíkových nanotrubic pro vylepšené pryskyřice pro aditivní výrobu",
     "summary": "Molecular Rebar Design, a nanomaterials company based in Austin, Texas, has patented a new additive manufacturing (AM) composition that utilizes oxidized discrete carbon nanotubes (CNTs) with bonded dispersing agents to enhance 3D printing resins. The patent, published under US20210237509A1, outlines methods to improve resin properties for applications such as vat photopolymerization, sintering, and thermoplastic fusion. [&#8230;]",
     "image": "",
