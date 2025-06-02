@@ -1,5 +1,84 @@
 [
   {
+    "title": "3DPOD Epizoda 256: DLP AM ve Visitech s Øyvindem Tafjordem, CEO",
+    "summary": "Øyvind Tafjord runs Visitech, a firm that makes the light engines that power a lot of the DLP machines we use in Additive. We talk to Øyvind about light engines,...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-02T12:00:14",
+    "url": "https://3dprint.com/317826/3dpod-episode-256-dlp-am-at-visitech-with-oyvind-tafjord-ceo/",
+    "title_en": "3DPOD Episode 256: DLP AM at Visitech with Øyvind Tafjord, CEO",
+    "summary_bullets_en": [
+      "Øyvind Tafjord discusses the role of Visitech in producing light engines for DLP machines in additive manufacturing.",
+      "The conversation explores the technical aspects and innovations in light engine technology.",
+      "Øyvind shares insights into the future of DLP technology and its applications in the industry."
+    ],
+    "summary_bullets_cs": [
+      "Øyvind Tafjord diskutuje roli Visitech ve výrobě světelných motorů pro DLP stroje v aditivní výrobě.",
+      "Rozhovor zkoumá technické aspekty a inovace v technologii světelných motorů.",
+      "Øyvind sdílí pohledy na budoucnost DLP technologie a její aplikace v průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Visitech",
+      "DLP",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "DAB Motors odhaluje elektrickou motorku inspirovanou Akirou s 3D tištěným tělem",
+    "summary": "DAB Motors, a French custom motorcycle manufacturer, collaborated with Vita Veloce Team (VVT), a design and technology collective founded by Colombian singer J Balvin and designer Mattias Gollin, to create a unique electric motorcycle featuring 3D printed bodywork. Although the companies did not officially cite the influence, the vehicle closely mirrors the aesthetic of Kaneda’s [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/1748441860768-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-02T09:03:25",
+    "url": "https://3dprintingindustry.com/news/dab-motors-reveal-akira-inspired-3d-printed-electric-motorcycle-240271/?utm_source=rss&utm_medium=rss&utm_campaign=dab-motors-reveal-akira-inspired-3d-printed-electric-motorcycle",
+    "title_en": "DAB Motors Reveal Akira-Inspired 3D Printed Electric Motorcycle",
+    "summary_bullets_en": [
+      "DAB Motors collaborated with Vita Veloce Team to create a unique electric motorcycle.",
+      "The motorcycle features 3D printed bodywork.",
+      "The design closely resembles the aesthetic of Kaneda's bike from the anime Akira."
+    ],
+    "summary_bullets_cs": [
+      "DAB Motors spolupracovali s Vita Veloce Team na vytvoření unikátní elektrické motorky.",
+      "Motorka má 3D tištěné tělo.",
+      "Design se blízce podobá estetice motorky Kanedy z anime Akira."
+    ],
+    "tags": [
+      "Hardware",
+      "DAB Motors",
+      "Vita Veloce Team",
+      "3D Printing",
+      "Electric Motorcycle"
+    ]
+  },
+  {
+    "title": "Inženýři používají unikátní 3D tištěné modely pro montáž zařízení na jadernou fúzi",
+    "summary": "Engineers at the Princeton Plasma Physics Laboratory (PPPL) in the U.S. are preparing for the assembly of the fusion research device National Spherical Torus Experiment-Upgrade (NSTX-U) expected to begin operations in 2026.&#160; To ensure precise alignment of components, they have created over 50 3D printed prototypes. Central to the NSTX-U is a magnet bundle that [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/PPPL-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-06-02T08:33:00",
+    "url": "https://3dprintingindustry.com/news/engineers-use-unique-3d-printed-models-for-assembly-of-nuclear-fusion-device-240264/?utm_source=rss&utm_medium=rss&utm_campaign=engineers-use-unique-3d-printed-models-for-assembly-of-nuclear-fusion-device",
+    "title_en": "Engineers use unique 3D printed models for assembly of nuclear fusion device",
+    "summary_bullets_en": [
+      "Engineers at the Princeton Plasma Physics Laboratory are preparing for the assembly of the National Spherical Torus Experiment-Upgrade (NSTX-U).",
+      "The assembly is expected to begin operations in 2026.",
+      "Over 50 3D printed prototypes have been created to ensure precise alignment of components.",
+      "A magnet bundle is central to the NSTX-U device."
+    ],
+    "summary_bullets_cs": [
+      "Inženýři z Princeton Plasma Physics Laboratory se připravují na montáž zařízení National Spherical Torus Experiment-Upgrade (NSTX-U).",
+      "Montáž by měla začít fungovat v roce 2026.",
+      "Bylo vytvořeno přes 50 3D tištěných prototypů pro zajištění přesného zarovnání komponent.",
+      "Magnetický svazek je ústředním prvkem zařízení NSTX-U."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Princeton Plasma Physics Laboratory",
+      "NSTX-U",
+      "Nuclear Fusion"
+    ]
+  },
+  {
     "title": "06-01-2016: Snapmaker byl založen",
     "summary": "It is top Chinese manufacturer of multifunctional &#8222;All-In-One&#8221; 3D printers",
     "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2621eef3-ae0a-4679-a2b5-810cbdf216c5_1500x1000.jpeg",
