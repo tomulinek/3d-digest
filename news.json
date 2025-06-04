@@ -1,5 +1,184 @@
 [
   {
+    "title": "Nový proces SSVP umožňuje rozpustné podpory v 3D tisku z pryskyřice",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/919686563/0/fabbaloo/default~New-SSVP-Process-Enables-Soluble-Supports-in-Resin-D-Printing\" rel=\"nofollow\" title=\"New SSVP Process Enables Soluble Supports in Resin 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/ssvp-cover-300x245.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new research paper describes a way to 3D print soluble supports with resin.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/919686563/0/fabbaloo/default~New-SSVP-Process-Enables-Soluble-Supports-in-Resin-D-Printing\" rel=\"nofollow\">New SSVP Process Enables Soluble Supports in Resin 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "",
+    "source": "Fabbaloo",
+    "published": "2025-06-04T16:24:41",
+    "url": "https://feeds.fabbaloo.com/~/919686563/0/fabbaloo/default~New-SSVP-Process-Enables-Soluble-Supports-in-Resin-D-Printing",
+    "title_en": "New SSVP Process Enables Soluble Supports in Resin 3D Printing",
+    "summary_bullets_en": [
+      "A new research paper introduces a method for 3D printing soluble supports using resin.",
+      "The SSVP process allows for easier removal of supports in resin-based 3D printing.",
+      "This advancement could improve the efficiency and quality of resin 3D printed objects."
+    ],
+    "summary_bullets_cs": [
+      "Nový výzkumný článek představuje metodu pro 3D tisk rozpustných podpor pomocí pryskyřice.",
+      "Proces SSVP umožňuje snadnější odstranění podpor v 3D tisku na bázi pryskyřice.",
+      "Tento pokrok by mohl zlepšit efektivitu a kvalitu objektů tištěných z pryskyřice."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Resin",
+      "SSVP"
+    ]
+  },
+  {
+    "title": "Problém černé skříňky: proč uzavřený software pro aditivní výrobu blokuje cestu k rychlé výrobě",
+    "summary": "RECODE.AM #1",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb906fe24-6648-4a90-bb57-a6947372bf9c_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-06-04T16:01:39",
+    "url": "https://www.3dprintingjournal.com/p/the-black-box-problem-why-closed",
+    "title_en": "The Black Box Problem: why closed AM software blocks the path to Rapid Manufacturing",
+    "summary_bullets_en": [
+      "Closed AM software limits innovation and flexibility in additive manufacturing.",
+      "Proprietary systems create dependency on specific vendors, hindering competition.",
+      "Open-source solutions could enhance collaboration and accelerate technological advancements."
+    ],
+    "summary_bullets_cs": [
+      "Uzavřený software pro aditivní výrobu omezuje inovace a flexibilitu.",
+      "Proprietární systémy vytvářejí závislost na konkrétních dodavatelích a brání konkurenci.",
+      "Open-source řešení by mohla zlepšit spolupráci a urychlit technologický pokrok."
+    ],
+    "tags": [
+      "Software",
+      "Additive Manufacturing",
+      "Open Source",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "ASTM spouští nový certifikační program AMCC pro společnosti zabývající se aditivní výrobou",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/919682324/0/fabbaloo/default~ASTM-Launches-New-AMCC-Certification-Program-for-Additive-Manufacturing-Companies\" rel=\"nofollow\" title=\"ASTM Launches New AMCC Certification Program for Additive Manufacturing Companies\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/astm-international-logo-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>ASTM announced a new certification program for manufacturers using AM technology.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/919682324/0/fabbaloo/default~ASTM-Launches-New-AMCC-Certification-Program-for-Additive-Manufacturing-Companies\" rel=\"nofollow\">ASTM Launches New AMCC Certification Program for Additive Manufacturing Companies</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "",
+    "source": "Fabbaloo",
+    "published": "2025-06-04T15:16:00",
+    "url": "https://feeds.fabbaloo.com/~/919682324/0/fabbaloo/default~ASTM-Launches-New-AMCC-Certification-Program-for-Additive-Manufacturing-Companies",
+    "title_en": "ASTM Launches New AMCC Certification Program for Additive Manufacturing Companies",
+    "summary_bullets_en": [
+      "ASTM International has introduced a new certification program for additive manufacturing companies.",
+      "The program is called the Additive Manufacturing Certification Center (AMCC).",
+      "It aims to standardize and improve the quality of additive manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "ASTM International představila nový certifikační program pro společnosti zabývající se aditivní výrobou.",
+      "Program se nazývá Additive Manufacturing Certification Center (AMCC).",
+      "Cílem je standardizovat a zlepšit kvalitu procesů aditivní výroby."
+    ],
+    "tags": [
+      "Services",
+      "ASTM",
+      "Certification",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Budoucnost BCN3D je nejistá, skupina investorů nabízí záchranný balíček",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/919679372/0/fabbaloo/default~BCND%e2%80%99s-Future-Uncertain-as-Investor-Group-Offers-Rescue-Package\" rel=\"nofollow\" title=\"BCN3D’s Future Uncertain as Investor Group Offers Rescue Package\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/bcn3d-stormy-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There has been a development in the BCN3D situation, but it’s still not clear how this will end.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/919679372/0/fabbaloo/default~BCND%e2%80%99s-Future-Uncertain-as-Investor-Group-Offers-Rescue-Package\" rel=\"nofollow\">BCN3D’s Future Uncertain as Investor Group Offers Rescue Package</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "",
+    "source": "Fabbaloo",
+    "published": "2025-06-04T14:16:00",
+    "url": "https://feeds.fabbaloo.com/~/919679372/0/fabbaloo/default~BCND%e2%80%99s-Future-Uncertain-as-Investor-Group-Offers-Rescue-Package",
+    "title_en": "BCN3D’s Future Uncertain as Investor Group Offers Rescue Package",
+    "summary_bullets_en": [
+      "BCN3D is facing an uncertain future as an investor group proposes a rescue package.",
+      "The details of the rescue package and its potential impact on BCN3D are not yet clear.",
+      "The situation remains unresolved, leaving the future of BCN3D in question."
+    ],
+    "summary_bullets_cs": [
+      "BCN3D čelí nejisté budoucnosti, protože skupina investorů navrhuje záchranný balíček.",
+      "Detaily záchranného balíčku a jeho potenciální dopad na BCN3D zatím nejsou jasné.",
+      "Situace zůstává nevyřešená, což zanechává budoucnost BCN3D v otázce."
+    ],
+    "tags": [
+      "Hardware",
+      "BCN3D",
+      "Investment",
+      "Rescue Package"
+    ]
+  },
+  {
+    "title": "Ricoh a UTokyo zkoumají budoucnost 3D tištěné keramiky na výstavě Re Charge",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/919678055/0/fabbaloo/default~Ricoh-and-UTokyo-Explore-the-Future-of-D-Printed-Ceramics-at-Re-Charge-Exhibit\" rel=\"nofollow\" title=\"Ricoh and UTokyo Explore the Future of 3D Printed Ceramics at Re Charge Exhibit\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/richo-tokyo-cover-300x181.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Leveraging Ricoh’s proprietary PHM (Photopolymer-based Hybrid Molding) technology. </p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/919678055/0/fabbaloo/default~Ricoh-and-UTokyo-Explore-the-Future-of-D-Printed-Ceramics-at-Re-Charge-Exhibit\" rel=\"nofollow\">Ricoh and UTokyo Explore the Future of 3D Printed Ceramics at Re Charge Exhibit</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "",
+    "source": "Fabbaloo",
+    "published": "2025-06-04T13:48:00",
+    "url": "https://feeds.fabbaloo.com/~/919678055/0/fabbaloo/default~Ricoh-and-UTokyo-Explore-the-Future-of-D-Printed-Ceramics-at-Re-Charge-Exhibit",
+    "title_en": "Ricoh and UTokyo Explore the Future of 3D Printed Ceramics at Re Charge Exhibit",
+    "summary_bullets_en": [
+      "Ricoh and the University of Tokyo are collaborating to explore advancements in 3D printed ceramics.",
+      "The exhibit showcases Ricoh's proprietary PHM (Photopolymer-based Hybrid Molding) technology.",
+      "The event aims to highlight the potential applications and future of 3D printed ceramics."
+    ],
+    "summary_bullets_cs": [
+      "Ricoh a Univerzita v Tokiu spolupracují na zkoumání pokroků v 3D tištěné keramice.",
+      "Výstava představuje vlastní technologii PHM (Fotopolymerová hybridní formování) od společnosti Ricoh.",
+      "Cílem akce je zdůraznit potenciální aplikace a budoucnost 3D tištěné keramiky."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Ricoh",
+      "UTokyo",
+      "3D Printing",
+      "Ceramics"
+    ]
+  },
+  {
+    "title": "Robotické systémy Comau se zaměřují na aplikace 3D tisku",
+    "summary": "Lately, Comau, the Italy-based manufacturer of robotic systems owned by One Equity Partners and automaker Stellantis, has formed a growing number of partnerships with companies in the additive manufacturing (AM)...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-04T13:00:56",
+    "url": "https://3dprint.com/318499/comau-brings-its-robotic-systems-to-the-3d-printing-industry/",
+    "title_en": "Comau’s Robotic Systems Take on 3D Printing Applications",
+    "summary_bullets_en": [
+      "Comau, an Italian manufacturer of robotic systems, is expanding its presence in the additive manufacturing sector.",
+      "The company is forming partnerships with various companies to integrate its robotic systems into 3D printing applications.",
+      "Comau is owned by One Equity Partners and automaker Stellantis, highlighting its strong industrial backing."
+    ],
+    "summary_bullets_cs": [
+      "Comau, italský výrobce robotických systémů, rozšiřuje svou přítomnost v oblasti aditivní výroby.",
+      "Společnost navazuje partnerství s různými firmami, aby integrovala své robotické systémy do aplikací 3D tisku.",
+      "Comau je vlastněna společnostmi One Equity Partners a automobilkou Stellantis, což podtrhuje její silné průmyslové zázemí."
+    ],
+    "tags": [
+      "Hardware",
+      "Comau",
+      "Additive Manufacturing",
+      "Stellantis",
+      "One Equity Partners"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 4. června 2025: Plnobarevný slicer, zubní implantáty a další",
+    "summary": "In today&#8217;s 3D Printing News Briefs, we&#8217;ll start with some software and post-processing news, and then move on to a case report in which digital dentistry was successfully used. Read...",
+    "image": "",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-04T12:30:09",
+    "url": "https://3dprint.com/318473/3d-printing-news-briefs-6-4-2025/",
+    "title_en": "3D Printing News Briefs, June 4, 2025: Full-Color Slicer, Denture Implants, & More",
+    "summary_bullets_en": [
+      "A new full-color slicer software has been introduced, enhancing the capabilities of 3D printing.",
+      "Advancements in digital dentistry have led to successful denture implant procedures.",
+      "The article covers recent developments in 3D printing software and post-processing techniques."
+    ],
+    "summary_bullets_cs": [
+      "Byl představen nový plnobarevný slicer software, který rozšiřuje možnosti 3D tisku.",
+      "Pokroky v digitální stomatologii vedly k úspěšným procedurám zubních implantátů.",
+      "Článek se zabývá nedávnými vývoji v oblasti softwaru pro 3D tisk a post-processingových technik."
+    ],
+    "tags": [
+      "Software",
+      "Digital Dentistry",
+      "3D Printing",
+      "Full-Color Slicer"
+    ]
+  },
+  {
     "title": "GKN Aerospace přidává software AM Explorer od Interspectral do svého pracovního postupu 3D tisku",
     "summary": "GKN Aerospace, the UK-based leading manufacturer of aircraft components, has adopted AM Explorer, a platform made by Swedish software firm Interspectral, at its Centre of Excellence for Engine Systems in...",
     "image": "",
