@@ -6006,5 +6006,159 @@
       "U.S. Army",
       "Field Equipment"
     ]
+  },
+  {
+    "title": "3D tištěné akční figurky: Jak si vytvořit vlastní akční figurku",
+    "summary": "3D printing has impacted all kinds of objects — even action figures. Big brands like DC Comics have even signed deals with 3D printing companies to print some of their figurines. But since 3D printing is all about customization, it is also the perfect technology to create your own action figure. Here’s how it’s done! There are several ways you can create your own action figure or fantasy character. It could be something of your own invention, or it could even be yourself, with the help of 3D scanning. In this blog, we&#8217;ll give a broad overview of the different ways you can get your own 3D-printed miniature figurine, whether you sculpt it yourself, start with a file you found online, or need a 3D scan of yourself. Start from scratch: If you want to create your own action figurine or fantasy miniature from scratch, you probably need to look into digital sculpting. CAD software intended for creating 3D models of mechanical parts or architectural models won’t help you a lot — the result will simply be too edgy and non-organic. Luckily, specialized digital sculpting software is available — and quite a few decent programs come for free. Meshmixer: Meshmixer, a free sculpting program from Autodesk, is also a great solution for beginners. While the sculpting tools aren&#8217;t top tier, Meshmixer is perfect for preparing your model for 3D printing. That’s why many 3D artists work with several programs and use Meshmixer to give their model the ‘finishing touches’ before it goes to the printer. ZBrush: This is the ‘tour de force’ when it comes to digital sculpting. Most professionals use this software since it is by far the most powerful out there. However, ZBrush&#8216;s power and design freedom involve a somewhat steeper learning curve than in other programs Other software with sculpting modes: There are other popular 3D modeling programs that come with sculpting modules, like Blender (freeware). However, these programs were not originally intended for those kinds of operations and lack some of the features that dedicated digital sculpting software has to offer Starting from a file: Using the software packages above does not always mean that you need to start from scratch! Of course, you can also import 3D files from the web or 3D scans. Finding 3D files on the web: There are tons of websites out there that offer (both free and premium) 3D models to download. We took a look at 10 of the best and most popular 3D model databases and compared them for price, quality, selection, and printability right here. Starting from a 3D model is especially helpful for people new to 3D modeling and 3D printing. Open-source tool for human 3D characters: MakeHuman is a great tool to create your first 3D file. It’s free, open-source software that creates realistic and customized 3D humans that can be further edited in programs like ZBrush and Meshmixer. Getting scanned: Unsurprisingly, many people want themselves to be the main hero! To create a figurine that looks just like you, there are 3D scanners for the job. High-end scanning software can easily cost thousands of dollars, but there are cheaper alternatives. On one hand, you could get yourself scanned (yep, there are services for that), or you could try to get a scan with a free app on your smartphone. Creating a decent 3D scan with a smartphone (or camera) is a bit trickier and may take a few attempts, but we’ve had quite a few positive experiences already. A very important step is to clean up your 3D scan before you can print it. ZBrush or Meshmixer are especially useful for that. 3D printing your design: It doesn’t matter if you start from scratch, a scan, or a file; two more things are essential for a successful 3D print: a well-prepared file and a basic understanding of the intended 3D printing material. 3D printing material: When it comes to action figures in professional 3D printing quality you have several great options. For a 3D print in multiple colors, Multicolor+ is probably the way to go. If you want a stronger plastic material and are thinking about painting the model yourself, you should take a look at Polyamide or Gray Resin. Metal prints are also possible: steel, brass, bronze… you name it! File preparation: No matter which material you choose in the end, you always need to read the detailed design guides for some essential tips and tricks to prepare your file for 3D printing. You&#8217;ll learn why wall thickness is important and how the fragile parts of your model can be supported. We already mentioned it above, but it’s worth another reminder: a 3D scan always needs to be ‘cleaned up’ before it is printable (read more about this in the ‘getting scanned’ part above). Getting your professional 3D print: In order to receive a high-quality 3D print, you can simply upload your file here and choose from 100+ materials and finishes. We will then print your model and ship it right to your doorstep.",
+    "image": "https://i.materialise.com/blog/wp-content/uploads/2018/03/large-that-darn-cat-by-matt-bagshaw-1024x683.jpg",
+    "source": "3D Printing Blog | i.materialise",
+    "published": "2025-04-23T10:00:28+00:00",
+    "url": "https://i.materialise.com/blog/en/make-your-own-action-figure-in-3d/",
+    "title_en": "3D-Printed Action Figures: How To Make Your Own Action Figure",
+    "summary_bullets_en": [
+      "3D printing allows for the creation of customized action figures, whether from scratch, using online files, or through 3D scanning.",
+      "Digital sculpting software like Meshmixer and ZBrush are essential tools for creating and preparing 3D models for printing.",
+      "3D scans can be made using high-end scanners or smartphone apps, but require cleanup in software like ZBrush or Meshmixer.",
+      "Choosing the right 3D printing material and preparing the file correctly are crucial for achieving high-quality prints."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk umožňuje tvorbu přizpůsobených akčních figurek, ať už od nuly, pomocí online souborů nebo 3D skenováním.",
+      "Digitální sochařský software jako Meshmixer a ZBrush jsou nezbytné nástroje pro tvorbu a přípravu 3D modelů k tisku.",
+      "3D skeny lze vytvořit pomocí špičkových skenerů nebo aplikací na smartphonech, ale vyžadují úpravu v softwaru jako ZBrush nebo Meshmixer.",
+      "Výběr správného materiálu pro 3D tisk a správná příprava souboru jsou klíčové pro dosažení vysoce kvalitních tisků."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Meshmixer",
+      "ZBrush",
+      "Blender",
+      "MakeHuman"
+    ]
+  },
+  {
+    "title": "Armáda a obranný průmysl objevují možnosti pokročilého 3D tisku",
+    "summary": "3D tisk už proniká také do armády a obrany. Výhody: flexibilní výroba dílů kdekoli, pružnější logistika, technologická převaha nebo rychlá návratnost investic.",
+    "image": "https://admasys.cz/wp-content/uploads/2024/11/petr-pavel-na-msv-2024-768x576.jpg",
+    "source": "ADMASYS CZ",
+    "published": "2025-04-15T09:32:51+00:00",
+    "url": "https://admasys.cz/3d-tisk-armada-obrana/",
+    "title_en": "Military and Defense Industry Discover Advanced 3D Printing Capabilities",
+    "summary_bullets_en": [
+      "3D printing is making its way into the military and defense sectors.",
+      "Benefits include flexible production of parts anywhere, more agile logistics, technological superiority, and quick return on investment."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk už proniká také do armády a obrany.",
+      "Výhody: flexibilní výroba dílů kdekoli, pružnější logistika, technologická převaha nebo rychlá návratnost investic."
+    ],
+    "tags": [
+      "Hardware",
+      "Defense",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Vzrušující novinky od Sculpteo: Návrat k ručně vyráběné dokonalosti",
+    "summary": "<p>At Sculpteo, we’ve always prided ourselves on being at the forefront of innovation and precision in 3D printing. However, after much soul-searching, countless brainstorming sessions, and one remarkably enlightening pottery class, we’ve decided to take a bold new direction. Today, we are thrilled to announce that we are officially renouncing digital manufacturing in favor of [&#8230;]</p>\n<p>The post <a href=\"https://wp-blog.sculpteo.com/blog/2025/04/01/our-return-to-handcrafted-excellence/\">Exciting News from Sculpteo: Our Return to Handcrafted Excellence</a> appeared first on <a href=\"https://wp-blog.sculpteo.com/blog\">Sculpteo Blog</a>.</p>",
+    "image": "",
+    "source": "Sculpteo Blog",
+    "published": "2025-04-01T09:43:33+00:00",
+    "url": "https://wp-blog.sculpteo.com/blog/2025/04/01/our-return-to-handcrafted-excellence/",
+    "title_en": "Exciting News from Sculpteo: Our Return to Handcrafted Excellence",
+    "summary_bullets_en": [
+      "Sculpteo is shifting focus from digital manufacturing to handcrafted methods.",
+      "The decision was inspired by a pottery class and extensive internal discussions.",
+      "The company aims to embrace traditional craftsmanship while maintaining innovation."
+    ],
+    "summary_bullets_cs": [
+      "Sculpteo se zaměřuje na přechod od digitální výroby k ručně vyráběným metodám.",
+      "Rozhodnutí bylo inspirováno kurzem keramiky a rozsáhlými interními diskusemi.",
+      "Společnost chce přijmout tradiční řemeslnou výrobu a zároveň zachovat inovaci."
+    ],
+    "tags": [
+      "Services",
+      "Sculpteo",
+      "Handcrafted",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "3D tisk z oceli: Jak dosáhnout dokonalého 3D tisku z oceli",
+    "summary": "Being able to get a print in real, solid steel is one of the coolest things 3D printing has to offer. However, we get quite a few questions about the look and feel of this material. In this article, we want to explain to you how steel 3D printing works, what color and finishing options you can choose from, and how you need to prepare your 3D design to get a great steel print! The material and technology: it’s all about steel powder The technology behind our 3D-printed steel is known as indirect metal printing. This technique builds the model from a fine steel powder that is glued together — layer by layer, bottom to top. In contrast to this, some other metals, such as Titanium or Aluminum, are printed directly in a process called direct metal laser sintering (DMLS) and don’t use a binding agent. In our steel 3D printers, a razor-sharp layer of steel powder is spread out. The printer head then moves back and forth over this layer and deposits the binding agent at specific points. These locations will later become the solid 3D print. Everything that isn’t touched by the binding agent will remain loose steel powder. Once a layer is finished and has been dried with the powerful overhead heaters, a new layer of powder is spread, and the process begins again. This way, layer by layer, from the bottom to top, a 3D print in steel is created. With this technology, we can produce parts up to a maximum size of 762 x 393 x 393 mm. Once the printing process is done, the steel part is placed in a curing oven where it is sintered. After the removal of excess power, the print is in its “green state” and remains quite fragile. With the help of a flute system, the binding agent is replaced with a bronze infusion. That’s why the chemical composition of the final 3D-printed product is around 60% steel and 40% bronze, with a density of 7.86 g/cm³. After this step, the part finally becomes a solid and strong metal object. The flutes are then removed manually and the print is tumbled and polished for a smooth finish. &#160; The finish: choose from an extensive selection When using our 3D printing service, users can choose from seven different polishing and plating options. Polished Steel is available in Polished Natural (1), Polished Gold-Plated (2), Polished Black (3), and Polished Brown (4) options. When the material is polished, unpolished (unreachable) spots, such as tiny holes, will stay darker than the polished surfaces, while the polished surface will be shinier and smoother. The gold finish is achieved with an electroless plating process. Unpolished Steel is available in Unpolished Natural (5), Unpolished Gold-Plated (6), and Unpolished Black (7). If you need metal parts with a higher accuracy, Titanium and Aluminum, are suitable choices. If you are interested in getting metal prints with very smooth surfaces you should take a look at Brass, Bronze, Silver, Gold, and Copper. Design rules for steel 3D prints Like any 3D printing material, steel also comes with some specific design rules. Taking these rules into account when creating your 3D model will ensure that your design will be perfectly printable, especially when it comes to wall thickness, edges, and transitions. Choosing the right minimum wall thickness In 3D printing, wall thickness refers to the distance between one surface of your model and the opposite sheer surface. The recommended thickness of the walls heavily depends on the size of your model. Minimum wall thickness increases if the overall size of your model increases. You can consult the chart with the minimum requirements for walls with different ranges of X, Y, or Z dimensions. You will see that small models, such as rings, can have a minimum wall thickness of 1 mm if they are well-supported. Medium-sized objects can have walls between 1.5 mm and 2 mm. For larger models, we highly recommend a wall thickness of at least 3 mm. Choosing the right wall thickness will make your model much stronger, but there is still a risk that fragile parts could break off. That’s why overhanging parts and unsupported elements need additional stability and require a thickness of 6 mm. Edges and transitions To make your model printable, it is important that the wall thicknesses and transitions in your design are even — avoiding sharp edges and enabling smooth transitions is key. Areas that have different thicknesses will heat (expand) and cool (contract) at different rates during and after the infusion phase. Therefore, wall thickness needs to be kept as uniform as possible to minimize the chance of cracking. You can fillet or round sharp corners in accordance with the minimum wall thickness chart to accommodate this in the best possible way. Besides these two rules, we always encourage users to read our design guide for steel 3D printing, which includes further information about issues like hollowing your model, engraving text, or accuracy and shrinkage. Examples of 3D-printed steel objects 3D printing in steel and other metals is a great option, and not just for industrial parts. Have a look at these amazing prints in steel. Luckybone Belt Buckle by Kord Averdunk &#124; 3D printed in Polished Natural Steel Polygons Bracelet by Eike Schling &#124; 3D printed in Polished Brown Steel Ready to give it a try yourself? Upload your 3D model here and get a quote for a high-quality 3D print in real steel in seconds!",
+    "image": "https://i.materialise.com/blog/wp-content/uploads/2016/12/3d-printing-steel-finishes-and-polishing.png",
+    "source": "3D Printing Blog | i.materialise",
+    "published": "2025-03-21T10:28:02+00:00",
+    "url": "https://i.materialise.com/blog/en/3d-printing-in-steel/",
+    "title_en": "3D Printing In Steel: How To Get The Perfect Steel 3D Print",
+    "summary_bullets_en": [
+      "Steel 3D printing uses indirect metal printing with a fine steel powder and a binding agent.",
+      "The process involves layering steel powder, applying a binding agent, and sintering to create a solid object.",
+      "Various finishing options are available, including polished and unpolished surfaces in different colors.",
+      "Design rules such as wall thickness and smooth transitions are crucial for successful steel 3D prints."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk z oceli využívá nepřímý kovový tisk s jemným ocelovým práškem a pojivem.",
+      "Proces zahrnuje vrstvení ocelového prášku, aplikaci pojiva a sintrování pro vytvoření pevného objektu.",
+      "K dispozici jsou různé možnosti povrchové úpravy, včetně leštěných a neleštěných povrchů v různých barvách.",
+      "Pro úspěšný 3D tisk z oceli jsou klíčová pravidla návrhu, jako je tloušťka stěn a hladké přechody."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Steel",
+      "Design",
+      "Finishing"
+    ]
+  },
+  {
+    "title": "Legenda 3D tisku se vrací až 4× rychlejší",
+    "summary": "Co umí zbrusu nový UltiMaker S8 • Přichází trojice přesných 3D skenerů řady FreeScan • Zveme vás na čerstvé novinky z 3D tisku a 3D skenování.",
+    "image": "https://admasys.cz/wp-content/uploads/2025/03/ultimaker-s8-dvojice-s-vytiskem-4x3-1-768x576.jpg",
+    "source": "ADMASYS CZ",
+    "published": "2025-03-11T09:55:56+00:00",
+    "url": "https://admasys.cz/zpravodaj-3d-trendy-novinky-3d-tisk-skenovani-2503/",
+    "title_en": "The Legend of 3D Printing Returns Up to 4× Faster",
+    "summary_bullets_en": [
+      "Introducing the brand new UltiMaker S8 with enhanced speed.",
+      "A new trio of precise 3D scanners from the FreeScan series is arriving.",
+      "Stay updated with the latest innovations in 3D printing and scanning."
+    ],
+    "summary_bullets_cs": [
+      "Představujeme zbrusu nový UltiMaker S8 s vyšší rychlostí.",
+      "Přichází trojice přesných 3D skenerů řady FreeScan.",
+      "Sledujte nejnovější inovace v 3D tisku a skenování."
+    ],
+    "tags": [
+      "Hardware",
+      "UltiMaker",
+      "FreeScan"
+    ]
+  },
+  {
+    "title": "Nový UltiMaker S8 přichází s bleskovou rychlostí 3D tisku",
+    "summary": "Volali jste po vyšší rychlosti, tady je! Ale současně v kvalitě a s funkcemi pro vás profesionály. To vše v tiskárně navržené i postavené v Evropě.",
+    "image": "https://admasys.cz/wp-content/uploads/2025/03/ultimaker-s8-farma-s-f4-4x3-1-768x576.jpg",
+    "source": "ADMASYS CZ",
+    "published": "2025-03-11T09:00:05+00:00",
+    "url": "https://admasys.cz/novy-ultimaker-s8-bleskova-rychlost-3d-tisku/",
+    "title_en": "New UltiMaker S8 Arrives with Lightning-Fast 3D Printing",
+    "summary_bullets_en": [
+      "The UltiMaker S8 offers significantly increased printing speed.",
+      "Maintains high-quality output and features for professional use.",
+      "Designed and manufactured in Europe."
+    ],
+    "summary_bullets_cs": [
+      "UltiMaker S8 nabízí výrazně zvýšenou rychlost tisku.",
+      "Zachovává vysokou kvalitu výstupu a funkce pro profesionální použití.",
+      "Navrženo a vyrobeno v Evropě."
+    ],
+    "tags": [
+      "Hardware",
+      "UltiMaker"
+    ]
   }
 ]
