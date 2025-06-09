@@ -1,5 +1,215 @@
 [
   {
+    "title": "3DPOD 257: Velkoformátový polymerový AM s Center Street Technologies",
+    "summary": "Today we&#8217;re doing something completely different in not having one guest on the 3DPOD but many. We&#8217;re talking one by one to a team of people at Center Street Technologies....",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-09T12:00:38+00:00",
+    "url": "https://3dprint.com/317825/3dpod-257-large-format-polymer-am-with-center-street-technologies/",
+    "title_en": "3DPOD 257: Large Format Polymer AM with Center Street Technologies",
+    "summary_bullets_en": [
+      "The 3DPOD episode features multiple guests from Center Street Technologies.",
+      "The discussion focuses on large format polymer additive manufacturing (AM).",
+      "Each team member shares insights into their roles and contributions to the technology.",
+      "The episode explores the challenges and innovations in large format polymer AM."
+    ],
+    "summary_bullets_cs": [
+      "Epizoda 3DPOD představuje více hostů z Center Street Technologies.",
+      "Diskuse se zaměřuje na velkoformátovou polymerovou aditivní výrobu (AM).",
+      "Každý člen týmu sdílí své poznatky o svých rolích a příspěvcích k technologii.",
+      "Epizoda zkoumá výzvy a inovace ve velkoformátové polymerové AM."
+    ],
+    "tags": [
+      "Hardware",
+      "Center Street Technologies",
+      "Polymer",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Design týdne: Šachová cesta",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/919953134/0/fabbaloo/default~Design-of-the-Week-Chess-Voyage\" rel=\"nofollow\" title=\"Design of the Week: Chess Voyage\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/chess-voyage-cover-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>This week’s selection is the Chess Voyage portable chess set by Printables contributor ERAVIA.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/919953134/0/fabbaloo/default~Design-of-the-Week-Chess-Voyage\" rel=\"nofollow\">Design of the Week: Chess Voyage</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/chess-voyage-cover-300x225.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-06-09T11:58:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/919953134/0/fabbaloo/default~Design-of-the-Week-Chess-Voyage",
+    "title_en": "Design of the Week: Chess Voyage",
+    "summary_bullets_en": [
+      "This week's featured design is the Chess Voyage portable chess set.",
+      "The design is contributed by ERAVIA on the Printables platform.",
+      "Chess Voyage offers a convenient and portable solution for chess enthusiasts."
+    ],
+    "summary_bullets_cs": [
+      "Tento týden je vybraným designem přenosná šachová sada Chess Voyage.",
+      "Design přispěl ERAVIA na platformě Printables.",
+      "Chess Voyage nabízí pohodlné a přenosné řešení pro milovníky šachu."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Printables",
+      "ERAVIA",
+      "Chess"
+    ]
+  },
+  {
+    "title": "WPI vede projekt „Rubble to Rockets“ pro 3D tisk z odpadních materiálů",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/wpi-leads-rubble-to-rockets-project-to-3d-print-with-scrap-materials/\" target=\"_blank\">WPI Leads &#8220;Rubble to Rockets&#8221; Project to 3D Print with Scrap Materials</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 9</span></div><div><img alt=\"WPI Leads &quot;Rubble to Rockets&quot; Project to 3D Print with Scrap Materials\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"450\" src=\"https://3dprinting.com/wp-content/uploads/753868734-500x450.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/753868734-500x450.webp",
+    "source": "3DPrinting.com",
+    "published": "2025-06-09T10:04:44+00:00",
+    "url": "https://3dprinting.com/news/wpi-leads-rubble-to-rockets-project-to-3d-print-with-scrap-materials/",
+    "title_en": "WPI Leads “Rubble to Rockets” Project to 3D Print with Scrap Materials",
+    "summary_bullets_en": [
+      "Worcester Polytechnic Institute (WPI) is spearheading the 'Rubble to Rockets' project.",
+      "The initiative focuses on using scrap materials for 3D printing.",
+      "The project aims to transform waste into valuable resources for aerospace applications.",
+      "This innovative approach could significantly reduce material costs and environmental impact."
+    ],
+    "summary_bullets_cs": [
+      "Worcester Polytechnic Institute (WPI) vede projekt 'Rubble to Rockets'.",
+      "Iniciativa se zaměřuje na využití odpadních materiálů pro 3D tisk.",
+      "Cílem projektu je přeměnit odpad na cenné zdroje pro letecké aplikace.",
+      "Tento inovativní přístup by mohl výrazně snížit náklady na materiál a dopad na životní prostředí."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "WPI",
+      "Aerospace"
+    ]
+  },
+  {
+    "title": "General Motors představuje Cadillac CELESTIQ s více než 130 díly vytištěnými 3D tiskem",
+    "summary": "US multinational vehicle manufacturer General Motors is expanding its use of additive manufacturing (AM) from prototyping into low-volume production, starting with the Cadillac CELESTIQ. The luxury, hand-built electric sedan integrates more than 130 3D printed components—developed at GM’s Additive Industrialization Center (AIC) in Warren, Michigan—to support customized vehicle design. “When looking at whether to use [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/743-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-09T09:19:26+00:00",
+    "url": "https://3dprintingindustry.com/news/general-motors-debuts-cadillac-celestiq-with-over-130-3d-printed-parts-240444/?utm_source=rss&utm_medium=rss&utm_campaign=general-motors-debuts-cadillac-celestiq-with-over-130-3d-printed-parts",
+    "title_en": "General Motors Debuts Cadillac CELESTIQ with Over 130 3D Printed Parts",
+    "summary_bullets_en": [
+      "General Motors is expanding its use of additive manufacturing from prototyping to low-volume production.",
+      "The Cadillac CELESTIQ, a luxury electric sedan, features over 130 3D printed components.",
+      "These components were developed at GM’s Additive Industrialization Center in Warren, Michigan.",
+      "The use of 3D printing supports customized vehicle design."
+    ],
+    "summary_bullets_cs": [
+      "General Motors rozšiřuje využití aditivní výroby z prototypování na malosériovou produkci.",
+      "Cadillac CELESTIQ, luxusní elektrický sedan, obsahuje více než 130 dílů vytištěných 3D tiskem.",
+      "Tyto komponenty byly vyvinuty v GM’s Additive Industrialization Center ve Warren, Michigan.",
+      "Použití 3D tisku podporuje přizpůsobený design vozidel."
+    ],
+    "tags": [
+      "Hardware",
+      "General Motors",
+      "Cadillac",
+      "Additive Manufacturing",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "10krát levnější, 6krát rychlejší 3D tisk s novým Pam Pro: Technické specifikace a ceny",
+    "summary": "French 3D printer manufacturer Pollen AM unveiled its new Pam Pro Pellet 3D Printer at TCT 3Sixty 2025.  At the UK’s largest 3D printing trade show, I spoke with Jimmy Littmann, Sales Manager at Pollen AM and former sales lead at Apple and Formlabs, about the company’s latest addition to the Additive Manufacturing market. Littmann [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/Pollen-AMs-Pam-Pro-pellet-3D-printer.-Photo-by-3D-Printing-Industry-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-06-09T09:17:10+00:00",
+    "url": "https://3dprintingindustry.com/news/10x-cheaper-6x-faster-3d-printing-with-the-new-pam-pro-technical-specifications-and-pricing-240427/?utm_source=rss&utm_medium=rss&utm_campaign=10x-cheaper-6x-faster-3d-printing-with-the-new-pam-pro-technical-specifications-and-pricing",
+    "title_en": "10X Cheaper, 6X Faster 3D Printing with the New Pam Pro: Technical Specifications and Pricing",
+    "summary_bullets_en": [
+      "Pollen AM has launched the Pam Pro Pellet 3D Printer at TCT 3Sixty 2025.",
+      "The printer is claimed to be 10 times cheaper and 6 times faster than traditional 3D printers.",
+      "Jimmy Littmann, Sales Manager at Pollen AM, discussed the new printer's impact on the Additive Manufacturing market."
+    ],
+    "summary_bullets_cs": [
+      "Pollen AM představila na TCT 3Sixty 2025 svou novou 3D tiskárnu Pam Pro Pellet.",
+      "Tiskárna je údajně 10krát levnější a 6krát rychlejší než tradiční 3D tiskárny.",
+      "Jimmy Littmann, obchodní manažer Pollen AM, diskutoval o dopadu nové tiskárny na trh aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Pollen AM",
+      "3D Printing",
+      "Additive Manufacturing",
+      "TCT 3Sixty"
+    ]
+  },
+  {
+    "title": "Nová pryskyřice MIT mění odolnost pomocí UV a viditelného světla, zjednodušuje post-processing",
+    "summary": "MIT researchers have developed a 3D printing method that uses a light-sensitive resin capable of forming both durable structures and dissolvable supports—depending on the type of light it’s exposed to. Ultraviolet (UV) light hardens the resin into strong, permanent shapes, while visible light produces weaker supports that can be dissolved in specific solvents. The new [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/MIT-Dissolvable-Supports-01-press_0-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-09T09:12:14+00:00",
+    "url": "https://3dprintingindustry.com/news/mits-new-resin-switches-durability-with-uv-and-visible-light-simplifying-post-processing-240452/?utm_source=rss&utm_medium=rss&utm_campaign=mits-new-resin-switches-durability-with-uv-and-visible-light-simplifying-post-processing",
+    "title_en": "MIT’s New Resin Switches Durability with UV and Visible Light, Simplifying Post-Processing",
+    "summary_bullets_en": [
+      "MIT researchers have developed a light-sensitive resin for 3D printing.",
+      "The resin can form durable structures with UV light and dissolvable supports with visible light.",
+      "This method simplifies post-processing by allowing easy removal of supports."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z MIT vyvinuli světlocitlivou pryskyřici pro 3D tisk.",
+      "Pryskyřice může tvořit odolné struktury pomocí UV světla a rozpustné podpory pomocí viditelného světla.",
+      "Tato metoda zjednodušuje post-processing díky snadnému odstranění podpor."
+    ],
+    "tags": [
+      "Material",
+      "MIT",
+      "3D Printing",
+      "UV Light",
+      "Visible Light"
+    ]
+  },
+  {
+    "title": "Ember Cafe & Wine kombinuje architekturu inspirovanou přírodou s 3D tištěnou konstrukcí",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/ember-cafe-wine-combines-nature-inspired-architecture-with-3d-printed-construction/\" target=\"_blank\">Ember Cafe &#038; Wine Combines Nature-Inspired Architecture with 3D Printed Construction</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 9</span></div><div><img alt=\"Ember Cafe &amp; Wine Combines Nature-Inspired Architecture with 3D Printed Construction\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/image1-276-500x500.png\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/image1-276-500x500.png",
+    "source": "3DPrinting.com",
+    "published": "2025-06-09T08:42:43+00:00",
+    "url": "https://3dprinting.com/news/ember-cafe-wine-combines-nature-inspired-architecture-with-3d-printed-construction/",
+    "title_en": "Ember Cafe & Wine Combines Nature-Inspired Architecture with 3D Printed Construction",
+    "summary_bullets_en": [
+      "Ember Cafe & Wine integrates nature-inspired design with advanced 3D printing technology.",
+      "The construction utilizes sustainable materials and innovative 3D printing techniques.",
+      "The project highlights the potential of 3D printing in modern architecture."
+    ],
+    "summary_bullets_cs": [
+      "Ember Cafe & Wine spojuje design inspirovaný přírodou s pokročilou technologií 3D tisku.",
+      "Konstrukce využívá udržitelné materiály a inovativní techniky 3D tisku.",
+      "Projekt zdůrazňuje potenciál 3D tisku v moderní architektuře."
+    ],
+    "tags": [
+      "Hardware",
+      "Architecture",
+      "Sustainability",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "06-09-2014: 3D Systems představila 3D tištěné na míru vyrobené ortézy pro chronický stav skoliózy",
+    "summary": "The product was made using SLS technology",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F268dae2f-54b7-431d-9b7c-beda1df7dca1_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-06-09T07:31:00+00:00",
+    "url": "https://www.3dprintingjournal.com/p/06-09-2014-3d-systems-presented-3d",
+    "title_en": "06-09-2014: 3D Systems presented 3D printed Bespoke Braces for Chronic Condition Scoliosis",
+    "summary_bullets_en": [
+      "3D Systems introduced custom 3D printed braces for scoliosis treatment.",
+      "The braces are designed to fit individual patients' needs.",
+      "Selective Laser Sintering (SLS) technology was used in the production."
+    ],
+    "summary_bullets_cs": [
+      "3D Systems představila na míru vyrobené 3D tištěné ortézy pro léčbu skoliózy.",
+      "Ortózy jsou navrženy tak, aby vyhovovaly individuálním potřebám pacientů.",
+      "Při výrobě byla použita technologie selektivního laserového sintrování (SLS)."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Systems",
+      "SLS",
+      "Medical"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 8. června 2025",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/919907237/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-June\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, June 8, 2025\"><img alt=\"Who&#039;s The Biggest In 3D Printing\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg\" style=\"height: auto !important; float: left; margin-right: 5px;\" width=\"1\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/919907237/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-June\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, June 8, 2025</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg",
