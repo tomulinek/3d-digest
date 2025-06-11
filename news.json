@@ -1,5 +1,232 @@
 [
   {
+    "title": "Uživatelé Thangs nyní mohou objednávat 3D tištěné modely díky integraci se Shapeways",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/920073698/0/fabbaloo/default~Thangs-Users-Can-Now-Order-D-Printed-Models-via-Shapeways-Integration\" rel=\"nofollow\" title=\"Thangs Users Can Now Order 3D Printed Models via Shapeways Integration\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/thangs-pod-cover-300x128.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>News from Shapeways: They’ve enabled print-on-demand services at Thangs.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920073698/0/fabbaloo/default~Thangs-Users-Can-Now-Order-D-Printed-Models-via-Shapeways-Integration\" rel=\"nofollow\">Thangs Users Can Now Order 3D Printed Models via Shapeways Integration</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/thangs-pod-cover-300x128.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-06-11T16:29:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/920073698/0/fabbaloo/default~Thangs-Users-Can-Now-Order-D-Printed-Models-via-Shapeways-Integration",
+    "title_en": "Thangs Users Can Now Order 3D Printed Models via Shapeways Integration",
+    "summary_bullets_en": [
+      "Shapeways has integrated print-on-demand services with Thangs.",
+      "Users of Thangs can now order 3D printed models directly through this integration.",
+      "This collaboration enhances the accessibility of 3D printing for Thangs users."
+    ],
+    "summary_bullets_cs": [
+      "Shapeways integroval služby tisku na vyžádání s platformou Thangs.",
+      "Uživatelé Thangs nyní mohou přímo objednávat 3D tištěné modely díky této integraci.",
+      "Tato spolupráce zvyšuje dostupnost 3D tisku pro uživatele Thangs."
+    ],
+    "tags": [
+      "Services",
+      "Shapeways",
+      "Thangs",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Mýtus o síti: proč polygonové pracovní postupy selhávají v kovovém AM",
+    "summary": "RECODE.AM #2",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda102470-a78f-493f-b72a-d1f38bd767e7_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-06-11T15:02:47+00:00",
+    "url": "https://www.3dprintingjournal.com/p/the-myth-of-mesh-why-polygon-based",
+    "title_en": "The myth of mesh: why polygon-based workflows are failing metal AM",
+    "summary_bullets_en": [
+      "Polygon-based workflows in metal additive manufacturing (AM) are proving inadequate due to their limitations in handling complex geometries.",
+      "These workflows often lead to inefficiencies and inaccuracies in the production process, affecting the quality of the final product.",
+      "Alternative approaches, such as voxel-based methods, are being explored to overcome these challenges and improve the precision of metal AM."
+    ],
+    "summary_bullets_cs": [
+      "Polygonové pracovní postupy v kovovém aditivním výrobě (AM) se ukazují jako nedostatečné kvůli jejich omezením při zpracování složitých geometrických tvarů.",
+      "Tyto postupy často vedou k neefektivnosti a nepřesnostem ve výrobním procesu, což ovlivňuje kvalitu konečného produktu.",
+      "Alternativní přístupy, jako jsou metody založené na voxelech, jsou zkoumány k překonání těchto výzev a zlepšení přesnosti kovového AM."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Metal AM",
+      "Voxel-based methods"
+    ]
+  },
+  {
+    "title": "AMOS vysokorychlostní stolní 3D tiskárny od Chicago Additive po spolupráci s námořnictvem",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/920067674/0/fabbaloo/default~Chicago-Additives-AMOS-HighSpeed-Desktop-D-Printers-After-Naval-Collaboration\" rel=\"nofollow\" title=\"Chicago Additive&#8217;s AMOS High-Speed Desktop 3D Printers After Naval Collaboration\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/amos-printers-cover-300x198.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>I’m reading about a new line of desktop 3D printers from Chicago Additive, AMOS.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920067674/0/fabbaloo/default~Chicago-Additives-AMOS-HighSpeed-Desktop-D-Printers-After-Naval-Collaboration\" rel=\"nofollow\">Chicago Additive&#8217;s AMOS High-Speed Desktop 3D Printers After Naval Collaboration</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/amos-printers-cover-300x198.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-06-11T14:28:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/920067674/0/fabbaloo/default~Chicago-Additives-AMOS-HighSpeed-Desktop-D-Printers-After-Naval-Collaboration",
+    "title_en": "Chicago Additive's AMOS High-Speed Desktop 3D Printers After Naval Collaboration",
+    "summary_bullets_en": [
+      "Chicago Additive has introduced a new line of high-speed desktop 3D printers called AMOS.",
+      "The development of these printers was influenced by a collaboration with the naval sector.",
+      "AMOS printers are designed to offer enhanced speed and efficiency for desktop 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Chicago Additive představila novou řadu vysokorychlostních stolních 3D tiskáren nazvanou AMOS.",
+      "Vývoj těchto tiskáren byl ovlivněn spoluprací s námořním sektorem.",
+      "Tiskárny AMOS jsou navrženy tak, aby nabízely vyšší rychlost a efektivitu pro stolní 3D tisk."
+    ],
+    "tags": [
+      "Hardware",
+      "Chicago Additive",
+      "3D Printing",
+      "Naval Collaboration"
+    ]
+  },
+  {
+    "title": "Výzkumníci vyvinuli 3D tištěný robotický systém schopný kolektivního chování",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/researchers-develop-3d-printed-robot-system-capable-of-collective-behavior/\" target=\"_blank\">Researchers Develop 3D-Printed Robot System Capable of Collective Behavior</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 11</span></div><div><img alt=\"Researchers Develop 3D-Printed Robot System Capable of Collective Behavior\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"440\" src=\"https://3dprinting.com/wp-content/uploads/link-bots-can-move-explore-cooperate-without-sensing-or-computation-500x440.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/link-bots-can-move-explore-cooperate-without-sensing-or-computation-500x440.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-06-11T13:38:56+00:00",
+    "url": "https://3dprinting.com/news/researchers-develop-3d-printed-robot-system-capable-of-collective-behavior/",
+    "title_en": "Researchers Develop 3D-Printed Robot System Capable of Collective Behavior",
+    "summary_bullets_en": [
+      "Researchers have developed a 3D-printed robot system that can exhibit collective behavior.",
+      "The robots, known as 'link-bots', can move, explore, and cooperate without the need for sensing or computation.",
+      "This innovation demonstrates the potential for simple robotic systems to perform complex tasks through collective action."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli 3D tištěný robotický systém, který může vykazovat kolektivní chování.",
+      "Roboti, známí jako 'link-boti', se mohou pohybovat, zkoumat a spolupracovat bez potřeby senzorů nebo výpočtů.",
+      "Tato inovace ukazuje potenciál jednoduchých robotických systémů vykonávat složité úkoly prostřednictvím kolektivní akce."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Robotics",
+      "Collective Behavior"
+    ]
+  },
+  {
+    "title": "Nejvyšší americký generál říká, že 3D tiskárny by měly být na bojišti spolu se zbraněmi pro urychlení oprav",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/us-top-general-says-3d-printers-should-join-guns-on-battlefield-to-speed-up-repairs/\" target=\"_blank\">US Top General Says 3D Printers Should Join Guns on Battlefield to Speed Up Repairs</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 11</span></div><div><img alt=\"US Top General Says 3D Printers Should Join Guns on Battlefield to Speed Up Repairs\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/7179038-e1749643468191-1024x610-1-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/7179038-e1749643468191-1024x610-1-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-06-11T13:31:16+00:00",
+    "url": "https://3dprinting.com/news/us-top-general-says-3d-printers-should-join-guns-on-battlefield-to-speed-up-repairs/",
+    "title_en": "US Top General Says 3D Printers Should Join Guns on Battlefield to Speed Up Repairs",
+    "summary_bullets_en": [
+      "A top US general advocates for the use of 3D printers on the battlefield to expedite equipment repairs.",
+      "3D printing technology could provide rapid solutions to logistical challenges faced by military forces.",
+      "The integration of 3D printers could enhance operational efficiency and reduce downtime for military equipment."
+    ],
+    "summary_bullets_cs": [
+      "Nejvyšší americký generál podporuje použití 3D tiskáren na bojišti pro zrychlení oprav vybavení.",
+      "Technologie 3D tisku by mohla poskytnout rychlá řešení logistických výzev, kterým čelí vojenské síly.",
+      "Integrace 3D tiskáren by mohla zvýšit provozní efektivitu a snížit prostoje vojenského vybavení."
+    ],
+    "tags": [
+      "Hardware",
+      "Military",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Toto je 10 nejlepších společností v oblasti polymerového AM podle příjmů v roce 2024",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/920063906/0/fabbaloo/default~These-are-the-Top-Polymer-AM-Companies-by-Revenue-in\" rel=\"nofollow\" title=\"These are the Top 10 Polymer AM Companies by Revenue in 2024\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/top10-polymer-cover-300x181.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Based on the latest data from VoxelMatters' new Polymer AM Market 2025 report.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920063906/0/fabbaloo/default~These-are-the-Top-Polymer-AM-Companies-by-Revenue-in\" rel=\"nofollow\">These are the Top 10 Polymer AM Companies by Revenue in 2024</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/top10-polymer-cover-300x181.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-06-11T13:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/920063906/0/fabbaloo/default~These-are-the-Top-Polymer-AM-Companies-by-Revenue-in",
+    "title_en": "These are the Top 10 Polymer AM Companies by Revenue in 2024",
+    "summary_bullets_en": [
+      "The article lists the top 10 polymer additive manufacturing companies by revenue for the year 2024.",
+      "The data is sourced from VoxelMatters' new Polymer AM Market 2025 report.",
+      "The report provides insights into the financial standings of leading companies in the polymer AM sector."
+    ],
+    "summary_bullets_cs": [
+      "Článek uvádí 10 nejlepších společností v oblasti aditivní výroby polymerů podle příjmů za rok 2024.",
+      "Data pocházejí z nové zprávy Polymer AM Market 2025 od VoxelMatters.",
+      "Zpráva poskytuje přehled o finanční situaci předních společností v sektoru polymerového AM."
+    ],
+    "tags": [
+      "Hardware",
+      "VoxelMatters",
+      "Polymer AM",
+      "Revenue",
+      "Market Report"
+    ]
+  },
+  {
+    "title": "06-11-2015: Bold Machines vydala ikonický 3D model středověkého hradu na Thingiverse",
+    "summary": "Based on two German castles; Schloss Lichtenstein and the Neuschwanstein Castle",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88ef1da2-d32e-44f0-a4e6-6f5862ac56b9_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-06-11T13:10:14+00:00",
+    "url": "https://www.3dprintingjournal.com/p/06-11-2015-bold-machines-released",
+    "title_en": "06-11-2015: Bold Machines released iconic Medieval Castle 3D model on Thingiverse",
+    "summary_bullets_en": [
+      "Bold Machines has released a 3D model of a medieval castle on Thingiverse.",
+      "The design is inspired by two German castles: Schloss Lichtenstein and Neuschwanstein Castle."
+    ],
+    "summary_bullets_cs": [
+      "Bold Machines vydala 3D model středověkého hradu na Thingiverse.",
+      "Design je inspirován dvěma německými hrady: Schloss Lichtenstein a Neuschwanstein."
+    ],
+    "tags": [
+      "Hardware",
+      "Bold Machines",
+      "3D Model",
+      "Thingiverse",
+      "Medieval Castle"
+    ]
+  },
+  {
+    "title": "Novinky o 3D tisku, 11. června 2025: Udržitelnost, nástroje pro automobilový průmysl a další",
+    "summary": "We&#8217;re starting with sustainability news in today&#8217;s 3D Printing News Briefs, as EOS has strengthened its commitment on climate responsibility, and Zestep is making 3D printing filament out of eyewear...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/06/SBTiAnnouncementGraphic-1024x563.png",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-11T13:00:37+00:00",
+    "url": "https://3dprint.com/318690/3d-printing-news-briefs-6-11-2025/",
+    "title_en": "3D Printing News Briefs, June 11, 2025: Sustainability, Automotive Tooling, & More",
+    "summary_bullets_en": [
+      "EOS has reinforced its commitment to climate responsibility.",
+      "Zestep is producing 3D printing filament from recycled eyewear materials.",
+      "The automotive industry is increasingly utilizing 3D printing for tooling applications."
+    ],
+    "summary_bullets_cs": [
+      "EOS posílilo svůj závazek k odpovědnosti za klima.",
+      "Zestep vyrábí filamenty pro 3D tisk z recyklovaných materiálů brýlí.",
+      "Automobilový průmysl stále více využívá 3D tisk pro nástroje."
+    ],
+    "tags": [
+      "Material",
+      "Sustainability",
+      "Automotive",
+      "EOS",
+      "Zestep"
+    ]
+  },
+  {
+    "title": "Ukrajinští výzkumníci spolupracují s NSF a americkým námořnictvem na přeměně trosek na nové 3D tištěné budovy",
+    "summary": "Ukrainian researchers have started a project to try to turn waste from demolished buildings into new 3D printed ones. This is especially relevant in Ukraine, where tens of thousands of...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/06/3D-construction-2025-2-1024x683.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-11T12:30:09+00:00",
+    "url": "https://3dprint.com/318525/ukrainian-researchers-aim-to-turn-debris-into-new-3d-printed-buildings/",
+    "title_en": "Ukrainian Researchers Partner with NSF, US Navy to Turn Debris Into New 3D Printed Buildings",
+    "summary_bullets_en": [
+      "Ukrainian researchers are collaborating with the NSF and the US Navy.",
+      "The project aims to recycle debris from demolished buildings into materials for 3D printing.",
+      "This initiative is particularly significant for Ukraine, which has many damaged structures."
+    ],
+    "summary_bullets_cs": [
+      "Ukrajinští výzkumníci spolupracují s NSF a americkým námořnictvem.",
+      "Projekt se zaměřuje na recyklaci trosek z demolovaných budov na materiály pro 3D tisk.",
+      "Tato iniciativa je obzvláště významná pro Ukrajinu, která má mnoho poškozených staveb."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "NSF",
+      "US Navy",
+      "Ukraine"
+    ]
+  },
+  {
     "title": "3D Systems pomáhá NASA, Penn State a ASU zmírnit tepelné zatížení vesmírných misí",
     "summary": "As space missions get more ambitious, keeping equipment safe from extreme heat and cold is becoming a big challenge. That&#8217;s where 3D printing steps in, and 3D Systems (NYSE: DDD)...",
     "image": "https://3dprint.com/wp-content/uploads/2025/06/Figure-1-CP-Ti-Heat-Pipes.png",
