@@ -1,5 +1,29 @@
 [
   {
+    "title": "Kontroverze kolem Bambu Lab se prohlubuje: Aktualizace firmwaru vyvolává odpor",
+    "summary": "3D printer manufacturer Bambu Lab’s newest firmware update for its A- and P-Series 3D printers has ignited backlash within the 3D printing community, with critics accusing the company of reinforcing its already closed ecosystem. Rolled out last week, the update introduces the controversial “Authorization Control” feature—rebranded as a security measure—alongside a new “Developer Mode,” a [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2024/01/The-Bambu-Lab-X1-Carbon-3D-printer.-Image-via-Bambu-LAb-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-06-11T18:11:52+00:00",
+    "url": "https://3dprintingindustry.com/news/bambu-lab-controversy-deepens-firmware-update-sparks-backlash-240588/?utm_source=rss&utm_medium=rss&utm_campaign=bambu-lab-controversy-deepens-firmware-update-sparks-backlash",
+    "title_en": "Bambu Lab Controversy Deepens: Firmware Update Sparks Backlash",
+    "summary_bullets_en": [
+      "Bambu Lab's latest firmware update for A- and P-Series 3D printers has caused controversy in the 3D printing community.",
+      "The update introduces an 'Authorization Control' feature, criticized for reinforcing a closed ecosystem.",
+      "A new 'Developer Mode' is also part of the update, but details remain sparse."
+    ],
+    "summary_bullets_cs": [
+      "Nejnovější aktualizace firmwaru pro 3D tiskárny řady A a P od Bambu Lab vyvolala kontroverzi v komunitě 3D tisku.",
+      "Aktualizace zavádí funkci 'Authorization Control', která je kritizována za posilování uzavřeného ekosystému."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing",
+      "Firmware"
+    ]
+  },
+  {
     "title": "Uživatelé Thangs nyní mohou objednávat 3D tištěné modely díky integraci se Shapeways",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/920073698/0/fabbaloo/default~Thangs-Users-Can-Now-Order-D-Printed-Models-via-Shapeways-Integration\" rel=\"nofollow\" title=\"Thangs Users Can Now Order 3D Printed Models via Shapeways Integration\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/thangs-pod-cover-300x128.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>News from Shapeways: They’ve enabled print-on-demand services at Thangs.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920073698/0/fabbaloo/default~Thangs-Users-Can-Now-Order-D-Printed-Models-via-Shapeways-Integration\" rel=\"nofollow\">Thangs Users Can Now Order 3D Printed Models via Shapeways Integration</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/thangs-pod-cover-300x128.jpg",
