@@ -1,5 +1,211 @@
 [
   {
+    "title": "WPI získal grant od DARPA ve výši 6,3 milionu dolarů na pokrok v aditivní výrobě ze šrotu",
+    "summary": "US university Worcester Polytechnic Institute (WPI) has received a $6.3 million grant from the Defense Advanced Research Projects Agency (DARPA) to develop a machine learning-driven process for on-site additive manufacturing using scrap metal. The project, named “Rubble to Rockets,” seeks to identify and analyze how mixed materials behave before being melted, combined, and 3D printed [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/CoteLab_82_2025-04-14-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-12T16:16:54+00:00",
+    "url": "https://3dprintingindustry.com/news/wpi-awarded-6-3-million-darpa-grant-to-advance-additive-manufacturing-from-scrap-metal-240679/?utm_source=rss&utm_medium=rss&utm_campaign=wpi-awarded-6-3-million-darpa-grant-to-advance-additive-manufacturing-from-scrap-metal",
+    "title_en": "WPI Awarded $6.3 Million DARPA Grant to Advance Additive Manufacturing from Scrap Metal",
+    "summary_bullets_en": [
+      "Worcester Polytechnic Institute (WPI) received a $6.3 million grant from DARPA.",
+      "The project aims to develop a machine learning-driven process for additive manufacturing using scrap metal.",
+      "Named 'Rubble to Rockets,' the initiative will analyze mixed materials before 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Worcester Polytechnic Institute (WPI) obdržel grant ve výši 6,3 milionu dolarů od DARPA.",
+      "Projekt si klade za cíl vyvinout proces aditivní výroby řízený strojovým učením pomocí šrotu.",
+      "Iniciativa nazvaná 'Rubble to Rockets' bude analyzovat smíšené materiály před 3D tiskem."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Worcester Polytechnic Institute",
+      "DARPA"
+    ]
+  },
+  {
+    "title": "První 3D tištěná rozvodna ve Velké Británii: National Grid cílí na snížení emisí a nákladů",
+    "summary": "UK energy company National Grid has launched a UK-first trial to manufacture, install, and test 3D printed concrete foundations for substations, in collaboration with Finnish concrete 3D printing specialist Hyperion Robotics and the University of Sheffield in the UK. The project aims to assess whether this construction method can reduce carbon emissions, minimize material waste, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/First-batch-of-low-carbon-foundations-for-National-Grid-delivered-to-University-of-Sheffield-1536x1085-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-06-12T16:16:23+00:00",
+    "url": "https://3dprintingindustry.com/news/uks-first-3d-printed-substation-national-grid-targets-lower-emissions-and-costs-240673/?utm_source=rss&utm_medium=rss&utm_campaign=uks-first-3d-printed-substation-national-grid-targets-lower-emissions-and-costs",
+    "title_en": "UK’s First 3D Printed Substation: National Grid Targets Lower Emissions and Costs",
+    "summary_bullets_en": [
+      "National Grid has initiated a UK-first trial for 3D printed concrete foundations for substations.",
+      "The project is in collaboration with Hyperion Robotics and the University of Sheffield.",
+      "The aim is to evaluate the potential for reducing carbon emissions and minimizing material waste."
+    ],
+    "summary_bullets_cs": [
+      "National Grid zahájil ve Velké Británii první zkušební projekt pro 3D tištěné betonové základy rozvoden.",
+      "Projekt je realizován ve spolupráci s Hyperion Robotics a Univerzitou v Sheffieldu.",
+      "Cílem je posoudit možnost snížení emisí uhlíku a minimalizace odpadu z materiálů."
+    ],
+    "tags": [
+      "Hardware",
+      "National Grid",
+      "Hyperion Robotics",
+      "University of Sheffield",
+      "3D Printing",
+      "Concrete"
+    ]
+  },
+  {
+    "title": "Creality a AMISS spojují síly, aby přinesli inovace 3D tisku do módního průmyslu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/920129780/0/fabbaloo/default~Creality-and-AMISS-Partner-to-Bring-D-Printing-Innovation-to-Fashion-Industry\" rel=\"nofollow\" title=\"Creality and AMISS Partner to Bring 3D Printing Innovation to Fashion Industry\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/creality-fashion-cover-300x212.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Creality seems to have developed an entirely new application for 3D printing, this time in the fashion industry.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920129780/0/fabbaloo/default~Creality-and-AMISS-Partner-to-Bring-D-Printing-Innovation-to-Fashion-Industry\" rel=\"nofollow\">Creality and AMISS Partner to Bring 3D Printing Innovation to Fashion Industry</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/creality-fashion-cover-300x212.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-06-12T16:16:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/920129780/0/fabbaloo/default~Creality-and-AMISS-Partner-to-Bring-D-Printing-Innovation-to-Fashion-Industry",
+    "title_en": "Creality and AMISS Partner to Bring 3D Printing Innovation to Fashion Industry",
+    "summary_bullets_en": [
+      "Creality has developed a new application for 3D printing in the fashion industry.",
+      "The partnership with AMISS aims to integrate 3D printing technology into fashion design and production.",
+      "This collaboration could lead to innovative fashion solutions and new design possibilities."
+    ],
+    "summary_bullets_cs": [
+      "Creality vyvinula novou aplikaci pro 3D tisk v módním průmyslu.",
+      "Partnerství s AMISS má za cíl integrovat technologii 3D tisku do návrhu a výroby módy.",
+      "Tato spolupráce by mohla vést k inovativním módním řešením a novým možnostem designu."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "AMISS",
+      "Fashion",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Stratasys se snaží odlišit FDM od FFF v nové marketingové strategii",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/920126804/0/fabbaloo/default~Stratasys-Moves-to-Differentiate-FDM-From-FFF-in-New-Marketing-Strategy\" rel=\"nofollow\" title=\"Stratasys Moves to Differentiate FDM From FFF in New Marketing Strategy\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/fdm-fff-cover-300x177.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>It looks like Stratasys wants to differentiate FDM from FFF.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920126804/0/fabbaloo/default~Stratasys-Moves-to-Differentiate-FDM-From-FFF-in-New-Marketing-Strategy\" rel=\"nofollow\">Stratasys Moves to Differentiate FDM From FFF in New Marketing Strategy</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/fdm-fff-cover-300x177.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-06-12T15:15:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/920126804/0/fabbaloo/default~Stratasys-Moves-to-Differentiate-FDM-From-FFF-in-New-Marketing-Strategy",
+    "title_en": "Stratasys Moves to Differentiate FDM From FFF in New Marketing Strategy",
+    "summary_bullets_en": [
+      "Stratasys aims to distinguish FDM (Fused Deposition Modeling) from FFF (Fused Filament Fabrication) in its marketing.",
+      "The company believes that differentiating these technologies will clarify their unique benefits and applications.",
+      "This strategy is part of Stratasys's broader effort to strengthen its brand and market position."
+    ],
+    "summary_bullets_cs": [
+      "Stratasys se snaží odlišit FDM (Fused Deposition Modeling) od FFF (Fused Filament Fabrication) ve svém marketingu.",
+      "Společnost věří, že odlišení těchto technologií objasní jejich jedinečné výhody a použití.",
+      "Tato strategie je součástí širšího úsilí Stratasysu o posílení značky a tržní pozice."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "Marketing",
+      "FDM",
+      "FFF"
+    ]
+  },
+  {
+    "title": "06-12-2015: GAIA Multitool MAXX – velkoformátová 3D tiskárna pro keramiku byla uvedena na trh",
+    "summary": "The MAXX version was as much as 187 cm high and was equipped with a whole host of functionalities, having as many as 10 interchangeable manufacturing tools",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd80abe1-d5f0-47d6-a263-8862525f9bfb_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-06-12T13:17:20+00:00",
+    "url": "https://www.3dprintingjournal.com/p/06-12-2015-gaia-multitool-maxx-large",
+    "title_en": "06-12-2015: GAIA Multitool MAXX – large-format 3D printer for ceramics was released",
+    "summary_bullets_en": [
+      "The GAIA Multitool MAXX is a large-format 3D printer designed for ceramics.",
+      "It stands at 187 cm tall, making it suitable for large-scale projects.",
+      "The printer features 10 interchangeable manufacturing tools, enhancing its versatility."
+    ],
+    "summary_bullets_cs": [
+      "GAIA Multitool MAXX je velkoformátová 3D tiskárna určená pro keramiku.",
+      "Je vysoká 187 cm, což ji činí vhodnou pro velké projekty.",
+      "Tiskárna je vybavena 10 vyměnitelnými výrobními nástroji, což zvyšuje její všestrannost."
+    ],
+    "tags": [
+      "Hardware",
+      "GAIA",
+      "3D Printing",
+      "Ceramics"
+    ]
+  },
+  {
+    "title": "Progress Group představuje selektivní vkládání pasty pro vysoce přesný 3D tisk betonu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/920121077/0/fabbaloo/default~Progress-Group-Introduces-Selective-Paste-Intrusion-for-HighResolution-Concrete-D-Printing\" rel=\"nofollow\" title=\"Progress Group Introduces Selective Paste Intrusion for High-Resolution Concrete 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/spi-cover-300x270.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Progress Group has developed a new form of concrete 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920121077/0/fabbaloo/default~Progress-Group-Introduces-Selective-Paste-Intrusion-for-HighResolution-Concrete-D-Printing\" rel=\"nofollow\">Progress Group Introduces Selective Paste Intrusion for High-Resolution Concrete 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/spi-cover-300x270.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-06-12T13:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/920121077/0/fabbaloo/default~Progress-Group-Introduces-Selective-Paste-Intrusion-for-HighResolution-Concrete-D-Printing",
+    "title_en": "Progress Group Introduces Selective Paste Intrusion for High-Resolution Concrete 3D Printing",
+    "summary_bullets_en": [
+      "Progress Group has developed a new method for 3D printing with concrete.",
+      "The technique is called Selective Paste Intrusion.",
+      "This method allows for high-resolution printing of concrete structures."
+    ],
+    "summary_bullets_cs": [
+      "Progress Group vyvinula novou metodu 3D tisku s betonem.",
+      "Technika se nazývá selektivní vkládání pasty.",
+      "Tato metoda umožňuje vysoce přesný tisk betonových struktur."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Progress Group",
+      "Concrete 3D Printing"
+    ]
+  },
+  {
+    "title": "Nike's 3D tištěné Air Max 1000 přichází v létě 2025—a influenceři je už mají",
+    "summary": "Nike&#8217;s 3D printed sneaker is officially getting a release. The Air Max 1000 Oatmeal, made using Zellerfeld&#8217;s 3D printing technology, is set to drop in Summer 2025, with a retail...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/06/487139363_18495649180023671_71533516346314110_n.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-12T13:00:08+00:00",
+    "url": "https://3dprint.com/318607/nike-3d-printed-air-max-1000-drops-summer-2025-and-influencers-already-have-it/",
+    "title_en": "Nike’s 3D Printed Air Max 1000 Drops Summer 2025—and Influencers Already Have It",
+    "summary_bullets_en": [
+      "Nike is set to release its 3D printed sneaker, the Air Max 1000 Oatmeal, in Summer 2025.",
+      "The sneaker is produced using Zellerfeld's 3D printing technology.",
+      "Influencers have already received early versions of the shoe."
+    ],
+    "summary_bullets_cs": [
+      "Nike plánuje vydat své 3D tištěné tenisky Air Max 1000 Oatmeal v létě 2025.",
+      "Tenisky jsou vyrobeny pomocí 3D tiskové technologie od Zellerfeldu.",
+      "Influenceři již obdrželi předběžné verze bot."
+    ],
+    "tags": [
+      "Hardware",
+      "Nike",
+      "Zellerfeld",
+      "3D Printing",
+      "Footwear"
+    ]
+  },
+  {
+    "title": "Výzkumníci z ASU vyvinuli AI pro zlepšení 3D tisku kovů",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/asu-researchers-develop-ai-to-improve-metal-3d-printing/\" target=\"_blank\">ASU Researchers Develop AI to Improve Metal 3D Printing</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 12</span></div><div><img alt=\"ASU Researchers Develop AI to Improve Metal 3D Printing\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/6487984-1-500x500.jpeg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/6487984-1-500x500.jpeg",
+    "source": "3DPrinting.com",
+    "published": "2025-06-12T12:32:01+00:00",
+    "url": "https://3dprinting.com/news/asu-researchers-develop-ai-to-improve-metal-3d-printing/",
+    "title_en": "ASU Researchers Develop AI to Improve Metal 3D Printing",
+    "summary_bullets_en": [
+      "Researchers at Arizona State University have developed an AI system to enhance metal 3D printing processes.",
+      "The AI aims to optimize the quality and efficiency of metal 3D printing by predicting and correcting potential defects.",
+      "This innovation could lead to significant advancements in the manufacturing industry, particularly in sectors relying on metal components."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Arizonské státní univerzity vyvinuli AI systém pro zlepšení procesů 3D tisku kovů.",
+      "AI má za cíl optimalizovat kvalitu a efektivitu 3D tisku kovů předpovídáním a opravou potenciálních vad.",
+      "Tato inovace by mohla vést k významným pokrokům v průmyslu, zejména v sektorech spoléhajících na kovové komponenty."
+    ],
+    "tags": [
+      "Software",
+      "Material",
+      "Arizona State University",
+      "3D Printing",
+      "AI"
+    ]
+  },
+  {
     "title": "3D tisk a příležitost veganské kůže",
     "summary": "With veganism on the rise, more eco-conscious consumers, and more of a worry about where all the things we consume come from, a lot of firms are taking a hard...",
     "image": "https://3dprint.com/wp-content/uploads/2025/05/reishi.jpg",
