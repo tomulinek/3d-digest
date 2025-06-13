@@ -1,5 +1,32 @@
 [
   {
+    "title": "ICF jaderná fúze a 3D tisk v italské energetické agentuře",
+    "summary": "Italian energy research agency ENEA (Italian National Agency for New Technologies, Energy and Sustainable Economic Development) has published new results showing how finely-architected precisely engineered additively manufactured foams behave when struck by high-power nanosecond laser pulses. Described in a 4 June 2025 arXiv pre-print by Mattia Cipriani et al., the work pairs experiments on ENEA’s [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/enea-25062-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-06-12T19:48:41+00:00",
+    "url": "https://3dprintingindustry.com/news/icf-nuclear-fusion-and-3d-printing-at-italian-energy-agency-240613/?utm_source=rss&utm_medium=rss&utm_campaign=icf-nuclear-fusion-and-3d-printing-at-italian-energy-agency",
+    "title_en": "ICF Nuclear Fusion and 3D printing at Italian Energy agency",
+    "summary_bullets_en": [
+      "ENEA, the Italian energy research agency, has released new findings on the behavior of 3D printed foams under high-power laser pulses.",
+      "The study, led by Mattia Cipriani, was published as a pre-print on arXiv on June 4, 2025.",
+      "The research focuses on the interaction between finely-architected additively manufactured foams and nanosecond laser pulses."
+    ],
+    "summary_bullets_cs": [
+      "Italská energetická výzkumná agentura ENEA zveřejnila nové výsledky o chování 3D tištěných pěn při působení vysoce výkonných laserových pulsů.",
+      "Studie vedená Mattiou Ciprianim byla publikována jako pre-print na arXiv 4. června 2025.",
+      "Výzkum se zaměřuje na interakci mezi jemně navrženými aditivně vyráběnými pěnami a nanosekundovými laserovými pulsy."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "ENEA",
+      "3D Printing",
+      "Nuclear Fusion",
+      "Laser Technology"
+    ]
+  },
+  {
     "title": "WPI získal grant od DARPA ve výši 6,3 milionu dolarů na pokrok v aditivní výrobě ze šrotu",
     "summary": "US university Worcester Polytechnic Institute (WPI) has received a $6.3 million grant from the Defense Advanced Research Projects Agency (DARPA) to develop a machine learning-driven process for on-site additive manufacturing using scrap metal. The project, named “Rubble to Rockets,” seeks to identify and analyze how mixed materials behave before being melted, combined, and 3D printed [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/CoteLab_82_2025-04-14-1-150x100.jpg",
