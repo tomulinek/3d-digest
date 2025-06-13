@@ -1,5 +1,264 @@
 [
   {
+    "title": "Existuje příležitost pro 3D tisk v oblasti vzácných zemin?",
+    "summary": "For the past decade, voices have been heard exclaiming of a crisis in rare earths. Now, with Chinese restrictions on the exports of Rare Earths, a crisis foretold a thousand times...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/04/am-solutions-meltio_1-873x1024.png",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-13T12:00:43+00:00",
+    "url": "https://3dprint.com/318601/is-there-a-3d-printing-opportunity-in-rare-earth-metals/",
+    "title_en": "Is there a 3D Printing Opportunity in Rare Earth Metals?",
+    "summary_bullets_en": [
+      "The article discusses the ongoing crisis in the supply of rare earth metals, exacerbated by Chinese export restrictions.",
+      "It explores the potential for 3D printing technologies to alleviate some of the supply chain issues associated with rare earth metals.",
+      "The piece highlights the importance of finding alternative solutions to reduce dependency on limited rare earth resources."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá probíhající krizí v dodávkách vzácných zemin, kterou zhoršují čínská omezení exportu.",
+      "Zkoumá potenciál technologií 3D tisku pro zmírnění některých problémů v dodavatelském řetězci spojených se vzácnými zeminami.",
+      "Zdůrazňuje důležitost hledání alternativních řešení ke snížení závislosti na omezených zdrojích vzácných zemin."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Rare Earth Metals",
+      "Supply Chain",
+      "China"
+    ]
+  },
+  {
+    "title": "Nový soudní příkaz v případu Stratasys proti Bambu Lab",
+    "summary": "There has been a new update to the ongoing Stratasys v. Bambu Lab patent infringement lawsuit.&#160; Both parties have agreed to consolidate the lead and member cases (2:24-CV-00644-JRG and 2:24-CV-00645-JRG) into a single case under Case No. 2:25-cv-00465-JRG.&#160; Industrial 3D printing OEM Stratasys filed the request late last month. According to an official court document, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2024/09/Stratasys-vs-Bambu-Lab-Featured-Image.-Image-by-3D-Printing-Industry-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-13T10:14:55+00:00",
+    "url": "https://3dprintingindustry.com/news/new-court-order-in-stratasys-v-bambu-lab-lawsuit-240725/?utm_source=rss&utm_medium=rss&utm_campaign=new-court-order-in-stratasys-v-bambu-lab-lawsuit",
+    "title_en": "New Court Order in Stratasys v. Bambu Lab Lawsuit",
+    "summary_bullets_en": [
+      "Stratasys and Bambu Lab have agreed to consolidate their patent infringement cases.",
+      "The cases will be merged into a single case under Case No. 2:25-cv-00465-JRG.",
+      "Stratasys filed the request for consolidation late last month."
+    ],
+    "summary_bullets_cs": [
+      "Stratasys a Bambu Lab se dohodly na sloučení svých případů porušení patentů.",
+      "Případy budou sloučeny do jednoho pod číslem 2:25-cv-00465-JRG.",
+      "Stratasys podal žádost o sloučení koncem minulého měsíce."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "Bambu Lab",
+      "3D Printing",
+      "Patent Infringement"
+    ]
+  },
+  {
+    "title": "Americká společnost Elmet Technologies podepsala strategickou dohodu o dodávkách s TANIOBIS",
+    "summary": "Elmet Technologies, a fully integrated U.S.-owned manufacturer of tungsten and molybdenum, has signed a strategic agreement with TANIOBIS GmbH, a German company specializing in high-purity niobium and tantalum materials. The partnership establishes a domestic distribution channel for C-103 (Nb-10Hf-1Ti) and FS-85 (Nb-28Ta-10W-1Zr) powders used in additive manufacturing, with provisions to expand into additional alloy formulations. [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/TANIOBIS-Image-3-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-13T09:58:06+00:00",
+    "url": "https://3dprintingindustry.com/news/u-s-based-elmet-technologies-signs-strategic-supply-agreement-with-taniobis-240712/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-based-elmet-technologies-signs-strategic-supply-agreement-with-taniobis",
+    "title_en": "U.S.-Based Elmet Technologies Signs Strategic Supply Agreement with TANIOBIS",
+    "summary_bullets_en": [
+      "Elmet Technologies, a U.S. manufacturer of tungsten and molybdenum, has partnered with TANIOBIS GmbH.",
+      "The agreement focuses on distributing C-103 and FS-85 powders for additive manufacturing.",
+      "The partnership aims to expand into additional alloy formulations."
+    ],
+    "summary_bullets_cs": [
+      "Elmet Technologies, americký výrobce wolframu a molybdenu, uzavřel partnerství s německou společností TANIOBIS GmbH.",
+      "Dohoda se zaměřuje na distribuci prášků C-103 a FS-85 pro aditivní výrobu.",
+      "Partnerství má za cíl rozšířit se na další slitinové formulace."
+    ],
+    "tags": [
+      "Material",
+      "Elmet Technologies",
+      "TANIOBIS",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Technologie SPI od Progress Group zvyšuje přesnost 3D tištěného betonu",
+    "summary": "Progress Group, a company specializing in mechanical engineering and precast concrete systems, has introduced a proprietary 3D printing process known as Selective Paste Intrusion (SPI). Designed for large-format concrete parts, the SPI system achieves a layer resolution of three millimeters and is currently in operation at the company’s facility in Brixen, South Tyrol. At this [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/Facade-brick-wall-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-13T09:57:26+00:00",
+    "url": "https://3dprintingindustry.com/news/spi-technology-by-progress-group-enhances-precision-in-3d-printed-concrete-240717/?utm_source=rss&utm_medium=rss&utm_campaign=spi-technology-by-progress-group-enhances-precision-in-3d-printed-concrete",
+    "title_en": "SPI Technology by Progress Group Enhances Precision in 3D Printed Concrete",
+    "summary_bullets_en": [
+      "Progress Group has developed a 3D printing process called Selective Paste Intrusion (SPI) for large-format concrete parts.",
+      "The SPI system achieves a layer resolution of three millimeters.",
+      "The technology is currently operational at the company's facility in Brixen, South Tyrol."
+    ],
+    "summary_bullets_cs": [
+      "Progress Group vyvinula 3D tiskový proces nazvaný Selective Paste Intrusion (SPI) pro velkoformátové betonové díly.",
+      "Systém SPI dosahuje rozlišení vrstvy tři milimetry.",
+      "Technologie je v současné době v provozu v závodě společnosti v Brixenu, Jižní Tyrolsko."
+    ],
+    "tags": [
+      "Hardware",
+      "Progress Group",
+      "3D Printing",
+      "Concrete",
+      "SPI Technology"
+    ]
+  },
+  {
+    "title": "Nové 3D tiskové zařízení od Stratasys, Automation Intelligence a Titomic Limited",
+    "summary": "Welcome to the latest edition of our 3D Printing facilities update, spotlighting key developments shaping the additive manufacturing (AM) landscape. In this edition, we focus on major facility launches from Stratasys, Automation Intelligence, and Titomic Limited. Expansions that signal new opportunities, respond to emerging demands, and highlight growing collaboration in the industry. Free registration is [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/STRP030_Image_1_Robotic_Arm_Low-Res-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-06-13T09:56:20+00:00",
+    "url": "https://3dprintingindustry.com/news/new-3d-printing-facilities-from-stratasys-automation-intelligence-and-titomic-limited-240689/?utm_source=rss&utm_medium=rss&utm_campaign=new-3d-printing-facilities-from-stratasys-automation-intelligence-and-titomic-limited",
+    "title_en": "New 3D Printing Facilities from Stratasys, Automation Intelligence, and Titomic Limited",
+    "summary_bullets_en": [
+      "Stratasys, Automation Intelligence, and Titomic Limited have launched new 3D printing facilities.",
+      "These expansions aim to create new opportunities and meet emerging demands in the additive manufacturing industry.",
+      "The new facilities highlight the growing collaboration and innovation within the 3D printing sector."
+    ],
+    "summary_bullets_cs": [
+      "Stratasys, Automation Intelligence a Titomic Limited spustili nová zařízení pro 3D tisk.",
+      "Tyto expanze mají za cíl vytvářet nové příležitosti a reagovat na vznikající poptávku v oblasti aditivní výroby.",
+      "Nová zařízení zdůrazňují rostoucí spolupráci a inovace v sektoru 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "Automation Intelligence",
+      "Titomic Limited"
+    ]
+  },
+  {
+    "title": "Rocket Lab rezervuje systémy pro 3D tisk kovů od Nikon SLM Solutions",
+    "summary": "Rocket Lab, a U.S.-based space systems company, has signed a Memorandum of Understanding (MoU) with Nikon SLM Solutions to reserve two units of its upcoming ultra-large format metal 3D printing systems. The agreement signals an effort by Rocket Lab to expand its additive manufacturing capabilities for producing larger, high-performance components for aerospace applications. Free registration [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/03/Rocket-Lab-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-06-13T09:46:25+00:00",
+    "url": "https://3dprintingindustry.com/news/rocket-lab-reserves-metal-3d-printing-systems-from-nikon-slm-solutions-240705/?utm_source=rss&utm_medium=rss&utm_campaign=rocket-lab-reserves-metal-3d-printing-systems-from-nikon-slm-solutions",
+    "title_en": "Rocket Lab Reserves Metal 3D Printing Systems from Nikon SLM Solutions",
+    "summary_bullets_en": [
+      "Rocket Lab has signed a Memorandum of Understanding with Nikon SLM Solutions.",
+      "The agreement involves reserving two ultra-large format metal 3D printing systems.",
+      "This move aims to enhance Rocket Lab's additive manufacturing capabilities.",
+      "The focus is on producing larger, high-performance aerospace components."
+    ],
+    "summary_bullets_cs": [
+      "Rocket Lab podepsala Memorandum o porozumění s Nikon SLM Solutions.",
+      "Dohoda zahrnuje rezervaci dvou systémů pro 3D tisk kovů ve velmi velkém formátu.",
+      "Tento krok má za cíl posílit aditivní výrobní schopnosti Rocket Lab.",
+      "Zaměřuje se na výrobu větších, vysoce výkonných komponent pro letecký průmysl."
+    ],
+    "tags": [
+      "Hardware",
+      "Rocket Lab",
+      "Nikon SLM Solutions",
+      "Aerospace",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Výzkumníci ze Stanfordu vyvinuli novou metodu pro 3D tisk složitých cévních sítí",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/stanford-researchers-develop-new-method-for-3d-printing-complex-vascular-networks/\" target=\"_blank\">Stanford Researchers Develop New Method for 3D Printing Complex Vascular Networks</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 13</span></div><div><img alt=\"Stanford Researchers Develop New Method for 3D Printing Complex Vascular Networks\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/20250313Mark-Skylar-Scott-4-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/20250313Mark-Skylar-Scott-4-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-06-13T09:32:28+00:00",
+    "url": "https://3dprinting.com/news/stanford-researchers-develop-new-method-for-3d-printing-complex-vascular-networks/",
+    "title_en": "Stanford Researchers Develop New Method for 3D Printing Complex Vascular Networks",
+    "summary_bullets_en": [
+      "Stanford researchers have developed a new method for 3D printing complex vascular networks.",
+      "This breakthrough could significantly advance the field of tissue engineering.",
+      "The method allows for the creation of intricate and functional blood vessel structures.",
+      "It has the potential to improve the development of artificial organs and medical implants."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci ze Stanfordu vyvinuli novou metodu pro 3D tisk složitých cévních sítí.",
+      "Tento průlom by mohl významně pokročit v oblasti tkáňového inženýrství.",
+      "Metoda umožňuje vytváření složitých a funkčních struktur krevních cév.",
+      "Má potenciál zlepšit vývoj umělých orgánů a lékařských implantátů."
+    ],
+    "tags": [
+      "Hardware",
+      "Stanford",
+      "Tissue Engineering",
+      "3D Printing",
+      "Medical Implants"
+    ]
+  },
+  {
+    "title": "Rocket Lab rezervuje dva ultra velkoformátové kovové 3D tiskárny od Nikon SLM Solutions",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/rocket-lab-reserves-two-ultra-large-format-metal-3d-printers-from-nikon-slm-solutions/\" target=\"_blank\">Rocket Lab Reserves Two Ultra Large-Format Metal 3D Printers from Nikon SLM Solutions</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 13</span></div><div><img alt=\"Rocket Lab Reserves Two Ultra Large-Format Metal 3D Printers from Nikon SLM Solutions\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"493\" src=\"https://3dprinting.com/wp-content/uploads/684379894-500x493.png\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/684379894-500x493.png",
+    "source": "3DPrinting.com",
+    "published": "2025-06-13T09:00:23+00:00",
+    "url": "https://3dprinting.com/news/rocket-lab-reserves-two-ultra-large-format-metal-3d-printers-from-nikon-slm-solutions/",
+    "title_en": "Rocket Lab Reserves Two Ultra Large-Format Metal 3D Printers from Nikon SLM Solutions",
+    "summary_bullets_en": [
+      "Rocket Lab has reserved two ultra large-format metal 3D printers from Nikon SLM Solutions.",
+      "These printers are expected to enhance Rocket Lab's manufacturing capabilities.",
+      "The acquisition aligns with Rocket Lab's strategy to expand its production capacity."
+    ],
+    "summary_bullets_cs": [
+      "Rocket Lab rezervovala dvě ultra velkoformátové kovové 3D tiskárny od Nikon SLM Solutions.",
+      "Tyto tiskárny mají zlepšit výrobní schopnosti Rocket Lab.",
+      "Tato akvizice je v souladu se strategií Rocket Lab na rozšíření výrobní kapacity."
+    ],
+    "tags": [
+      "Hardware",
+      "Nikon SLM Solutions",
+      "Rocket Lab"
+    ]
+  },
+  {
+    "title": "13.06.2014: Leapfrog uvedl na trh Creatr HS – rychlou stolní 3D tiskárnu s dvěma hlavami",
+    "summary": "Leapfrog constituted, alongside Ultimaker and Felix, the &#8220;Big Three&#8221; Dutch 3D printers manufacturers",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15bfa919-f060-4476-a1f6-58b9da76da96_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-06-13T08:26:19+00:00",
+    "url": "https://www.3dprintingjournal.com/p/06-13-2014-leapfrog-released-creatr",
+    "title_en": "06-13-2014: Leapfrog released Creatr HS – a fast, dual-head desktop 3D printer",
+    "summary_bullets_en": [
+      "Leapfrog released the Creatr HS, a fast desktop 3D printer with dual-head capability.",
+      "The Creatr HS is part of Leapfrog's lineup, positioning them among the top Dutch 3D printer manufacturers.",
+      "Leapfrog, along with Ultimaker and Felix, is considered one of the 'Big Three' in the Dutch 3D printing industry."
+    ],
+    "summary_bullets_cs": [
+      "Leapfrog uvedl na trh Creatr HS, rychlou stolní 3D tiskárnu s možností dvou hlav.",
+      "Creatr HS je součástí nabídky Leapfrog, což je řadí mezi přední nizozemské výrobce 3D tiskáren.",
+      "Leapfrog je spolu s Ultimaker a Felix považován za jednoho z 'Velké trojky' v nizozemském průmyslu 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Leapfrog",
+      "Ultimaker",
+      "Felix"
+    ]
+  },
+  {
+    "title": "3D tištěný hliněný hotel pro hmyz poskytuje udržitelný habitat pro hmyz",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/3d-printed-clay-bug-hotel-provides-sustainable-habitat-for-insects/\" target=\"_blank\">3D-Printed Clay Bug Hotel Provides Sustainable Habitat for Insects</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 13</span></div><div><img alt=\"3D-Printed Clay Bug Hotel Provides Sustainable Habitat for Insects\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/raphael-emine-utopies-entomologiques-02-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/raphael-emine-utopies-entomologiques-02-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2025-06-13T07:00:47+00:00",
+    "url": "https://3dprinting.com/news/3d-printed-clay-bug-hotel-provides-sustainable-habitat-for-insects/",
+    "title_en": "3D-Printed Clay Bug Hotel Provides Sustainable Habitat for Insects",
+    "summary_bullets_en": [
+      "A 3D-printed clay bug hotel has been designed to offer a sustainable habitat for insects.",
+      "The project aims to support biodiversity by providing a safe environment for various insect species.",
+      "The use of clay as a material is both environmentally friendly and beneficial for the insects' natural habitat."
+    ],
+    "summary_bullets_cs": [
+      "3D tištěný hliněný hotel pro hmyz byl navržen tak, aby nabízel udržitelný habitat pro hmyz.",
+      "Projekt si klade za cíl podpořit biodiverzitu tím, že poskytuje bezpečné prostředí pro různé druhy hmyzu.",
+      "Použití hlíny jako materiálu je ekologicky šetrné a prospěšné pro přirozené prostředí hmyzu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Biodiversity",
+      "Sustainability",
+      "3D Printing"
+    ]
+  },
+  {
     "title": "ICF jaderná fúze a 3D tisk v italské energetické agentuře",
     "summary": "Italian energy research agency ENEA (Italian National Agency for New Technologies, Energy and Sustainable Economic Development) has published new results showing how finely-architected precisely engineered additively manufactured foams behave when struck by high-power nanosecond laser pulses. Described in a 4 June 2025 arXiv pre-print by Mattia Cipriani et al., the work pairs experiments on ENEA’s [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/enea-25062-150x100.png",
