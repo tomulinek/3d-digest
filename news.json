@@ -1,5 +1,221 @@
 [
   {
+    "title": "Design týdne: Háček na ručníky ve tvaru zmrzliny",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/920291984/0/fabbaloo/default~Design-of-the-Week-Ice-Cream-Towel-Hook\" rel=\"nofollow\" title=\"Design of the Week: Ice Cream Towel Hook\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/cone-cover-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>This week’s selection is the Ice Cream Towel Hook by MakerWorld contributor Stag 3D.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920291984/0/fabbaloo/default~Design-of-the-Week-Ice-Cream-Towel-Hook\" rel=\"nofollow\">Design of the Week: Ice Cream Towel Hook</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/cone-cover-300x225.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-06-16T11:41:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/920291984/0/fabbaloo/default~Design-of-the-Week-Ice-Cream-Towel-Hook",
+    "title_en": "Design of the Week: Ice Cream Towel Hook",
+    "summary_bullets_en": [
+      "This week's featured design is the Ice Cream Towel Hook.",
+      "The design is contributed by Stag 3D from MakerWorld.",
+      "The post is published on Fabbaloo."
+    ],
+    "summary_bullets_cs": [
+      "Tento týden je vybraným designem háček na ručníky ve tvaru zmrzliny.",
+      "Design přispěl Stag 3D z MakerWorld.",
+      "Příspěvek je publikován na Fabbaloo."
+    ],
+    "tags": [
+      "Hardware",
+      "Design",
+      "3D Printing",
+      "MakerWorld",
+      "Stag 3D",
+      "Fabbaloo"
+    ]
+  },
+  {
+    "title": "Nový patent Bambu Lab chrání technologii vyhřívané podložky 3D tiskárny",
+    "summary": "Shenzhen Tuozhu Technology Co., Ltd., the parent company of Chinese 3D printer manufacturer Bambu Lab, has patented a new 3D printer heatbed design.&#160; Titled “Heated Bed of 3D Printer, and 3D Printer,” the patent was published internationally under the Patent Cooperation Treaty (PCT), a global treaty administered by the World Intellectual Property Organization (WIPO), on [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/Schematic-diagram-of-the-structure-of-the-heatbed-design.-Image-via-the-World-Intellectual-Property-Organization-WIPO-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-06-16T10:54:15+00:00",
+    "url": "https://3dprintingindustry.com/news/new-bambu-lab-patent-protects-3d-printer-heatbed-technology-240782/?utm_source=rss&utm_medium=rss&utm_campaign=new-bambu-lab-patent-protects-3d-printer-heatbed-technology",
+    "title_en": "New Bambu Lab Patent Protects 3D Printer Heatbed Technology",
+    "summary_bullets_en": [
+      "Shenzhen Tuozhu Technology Co., Ltd., the parent company of Bambu Lab, has patented a new 3D printer heatbed design.",
+      "The patent is titled 'Heated Bed of 3D Printer, and 3D Printer'.",
+      "It was published internationally under the Patent Cooperation Treaty (PCT).",
+      "The treaty is administered by the World Intellectual Property Organization (WIPO)."
+    ],
+    "summary_bullets_cs": [
+      "Shenzhen Tuozhu Technology Co., Ltd., mateřská společnost čínského výrobce 3D tiskáren Bambu Lab, patentovala nový design vyhřívané podložky 3D tiskárny.",
+      "Patent nese název 'Vyhřívaná podložka 3D tiskárny a 3D tiskárna'.",
+      "Byl publikován mezinárodně v rámci Smlouvy o patentové spolupráci (PCT).",
+      "Tuto smlouvu spravuje Světová organizace duševního vlastnictví (WIPO)."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "Shenzhen Tuozhu Technology",
+      "WIPO",
+      "PCT"
+    ]
+  },
+  {
+    "title": "Divergent se připojuje k iniciativě EWAAC amerického letectva v hodnotě 46 miliard dolarů pro urychlení obranné výroby",
+    "summary": "Divergent Technologies, an AI-driven 3D manufacturing solutions provider, has been selected to participate in the U.S. Air Force’s Eglin Wide Agile Acquisition Contract (EWAAC), a $46 billion multi-award Indefinite Delivery/Indefinite Quantity (IDIQ) initiative. The program aims to accelerate the development and deployment of next-generation weapons systems. Join AM defense experts on July 10th at Additive [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2022/12/Divergent-Adaptive--150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-06-16T08:18:14+00:00",
+    "url": "https://3dprintingindustry.com/news/divergent-joins-u-s-air-forces-46-billion-ewaac-initiative-to-accelerate-defense-manufacturing-240771/?utm_source=rss&utm_medium=rss&utm_campaign=divergent-joins-u-s-air-forces-46-billion-ewaac-initiative-to-accelerate-defense-manufacturing",
+    "title_en": "Divergent Joins U.S. Air Force’s $46 Billion EWAAC Initiative to Accelerate Defense Manufacturing",
+    "summary_bullets_en": [
+      "Divergent Technologies has been selected to join the U.S. Air Force's EWAAC initiative.",
+      "The EWAAC program is a $46 billion multi-award IDIQ contract.",
+      "The initiative aims to speed up the development and deployment of next-gen weapons systems."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Divergent Technologies byla vybrána k účasti na iniciativě EWAAC amerického letectva.",
+      "Program EWAAC je víceúčelová smlouva IDIQ v hodnotě 46 miliard dolarů.",
+      "Iniciativa má za cíl urychlit vývoj a nasazení zbraňových systémů nové generace."
+    ],
+    "tags": [
+      "Hardware",
+      "Divergent Technologies",
+      "U.S. Air Force",
+      "Defense",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "KITECH zkracuje dobu 3D tisku titanu o 40 % pomocí vylepšených parametrů SLM",
+    "summary": "The Korea Institute of Industrial Technology (KITECH) has developed a Selective Laser Melting (SLM) method for stacking layers of titanium at a faster speed. The method consists in melting layers of metal powder with a high power laser, permitting complete manipulation of the material into complex shapes for advanced component manufacturing.&#160; Join AM leaders on [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/lightweight-aircraft-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-16T08:15:36+00:00",
+    "url": "https://3dprintingindustry.com/news/kitech-cuts-titanium-3d-printing-time-by-40-using-refined-slm-parameters-240697/?utm_source=rss&utm_medium=rss&utm_campaign=kitech-cuts-titanium-3d-printing-time-by-40-using-refined-slm-parameters",
+    "title_en": "KITECH cuts titanium 3D printing time by 40% using refined SLM parameters",
+    "summary_bullets_en": [
+      "KITECH has developed a faster Selective Laser Melting (SLM) method for titanium 3D printing.",
+      "The new method reduces printing time by 40% by optimizing SLM parameters.",
+      "It involves melting layers of metal powder with a high power laser to create complex shapes."
+    ],
+    "summary_bullets_cs": [
+      "KITECH vyvinul rychlejší metodu Selektivního Laserového Tavení (SLM) pro 3D tisk titanu.",
+      "Nová metoda zkracuje dobu tisku o 40 % optimalizací parametrů SLM.",
+      "Zahrnuje tavení vrstev kovového prášku pomocí výkonného laseru pro tvorbu složitých tvarů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "KITECH",
+      "3D Printing",
+      "SLM",
+      "Titanium"
+    ]
+  },
+  {
+    "title": "Nový model s umělou inteligencí z ASU předpovídá mikrostruktury v kovovém AM",
+    "summary": "Secure your spot now for exclusive AM insights at our Additive Manufacturing Advantage online conference covering aerospace, space, and defense! Faculty members from Arizona State University&#8216;s (ASU) School of Computing and Augmented Intelligence are working to solve a long-standing challenge in metal 3D printing: how to reliably predict the internal structure and strength of printed components. Their [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/image-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-06-16T08:11:58+00:00",
+    "url": "https://3dprintingindustry.com/news/new-ai-powered-model-from-asu-predicts-microstructures-in-metal-am-240776/?utm_source=rss&utm_medium=rss&utm_campaign=new-ai-powered-model-from-asu-predicts-microstructures-in-metal-am",
+    "title_en": "New AI-powered model from ASU predicts microstructures in metal AM",
+    "summary_bullets_en": [
+      "Arizona State University researchers are developing an AI model to predict internal structures in metal 3D printing.",
+      "The model aims to address challenges in predicting the strength and reliability of printed metal components.",
+      "The research is part of efforts to enhance additive manufacturing in aerospace, space, and defense sectors."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Arizonské státní univerzity vyvíjejí model s umělou inteligencí pro předpověď vnitřních struktur v kovovém 3D tisku.",
+      "Model se snaží řešit výzvy v předpovídání pevnosti a spolehlivosti tištěných kovových komponentů.",
+      "Výzkum je součástí snah o zlepšení aditivní výroby v leteckém, kosmickém a obranném sektoru."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Arizona State University",
+      "Additive Manufacturing",
+      "Aerospace",
+      "Defense"
+    ]
+  },
+  {
+    "title": "Aerial AM: Výzkumníci z UCL, EPFL, Empa a Imperial College navrhují konstrukční rámec založený na dronech",
+    "summary": "A study published in Science Robotics explores Aerial Additive Manufacturing (Aerial AM), a construction method that uses flying robots equipped with advanced manipulators to build structures in remote, elevated, or otherwise inaccessible environments. The technique was developed by researchers from Swiss institutions EPFL and EMPA, in collaboration with Imperial College London and University College London. [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/Screenshot-2025-06-14-at-20.47.39-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-06-16T08:07:18+00:00",
+    "url": "https://3dprintingindustry.com/news/aerial-am-researchers-from-ucl-epfl-empa-and-imperial-college-propose-drone-based-construction-framework-240762/?utm_source=rss&utm_medium=rss&utm_campaign=aerial-am-researchers-from-ucl-epfl-empa-and-imperial-college-propose-drone-based-construction-framework",
+    "title_en": "Aerial AM: Researchers from UCL, EPFL, Empa, and Imperial College Propose Drone-Based Construction Framework",
+    "summary_bullets_en": [
+      "Aerial Additive Manufacturing (Aerial AM) uses drones with advanced manipulators for construction.",
+      "The method is designed for building in remote, elevated, or inaccessible environments.",
+      "The research is a collaboration between EPFL, EMPA, Imperial College London, and University College London."
+    ],
+    "summary_bullets_cs": [
+      "Aerial Additive Manufacturing (Aerial AM) využívá drony s pokročilými manipulátory pro stavbu.",
+      "Metoda je určena pro stavbu v odlehlých, vyvýšených nebo nepřístupných prostředích.",
+      "Výzkum je výsledkem spolupráce mezi EPFL, EMPA, Imperial College London a University College London."
+    ],
+    "tags": [
+      "Hardware",
+      "EPFL",
+      "EMPA",
+      "Imperial College London",
+      "University College London",
+      "Drones",
+      "Construction"
+    ]
+  },
+  {
+    "title": "Solideon získává kontrakt od letectva v hodnotě 1,25 milionu dolarů na zavedení aditivní výroby do předních linií",
+    "summary": "US autonomous 3D micro-factories producer Solideon, has been awarded a Direct-to-Phase II SBIR contract from AFWERX, valued at $1.25 million. The contract will support the development of a single pallet additive manufacturing cell, designed to fabricate critical systems in expeditionary environments, helping address key operational needs of the U.S. Department of the Air Force (DAF). [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/1736357387775-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-16T08:02:34+00:00",
+    "url": "https://3dprintingindustry.com/news/solideon-secures-1-25m-air-force-contract-to-bring-additive-manufacturing-to-the-front-lines-240753/?utm_source=rss&utm_medium=rss&utm_campaign=solideon-secures-1-25m-air-force-contract-to-bring-additive-manufacturing-to-the-front-lines",
+    "title_en": "Solideon Secures $1.25M Air Force Contract to Bring Additive Manufacturing to the Front Lines",
+    "summary_bullets_en": [
+      "Solideon, a producer of autonomous 3D micro-factories, has received a $1.25 million contract from AFWERX.",
+      "The contract is a Direct-to-Phase II SBIR, aimed at developing a single pallet additive manufacturing cell.",
+      "This technology is designed to fabricate critical systems in expeditionary environments for the U.S. Department of the Air Force."
+    ],
+    "summary_bullets_cs": [
+      "Solideon, výrobce autonomních 3D mikro-továren, získal kontrakt od AFWERX v hodnotě 1,25 milionu dolarů.",
+      "Kontrakt je přímým přechodem do fáze II SBIR a je zaměřen na vývoj aditivní výrobní buňky na jednom paletě.",
+      "Tato technologie je navržena pro výrobu kritických systémů v expedičních prostředích pro Ministerstvo letectva USA."
+    ],
+    "tags": [
+      "Hardware",
+      "Solideon",
+      "AFWERX",
+      "U.S. Department of the Air Force",
+      "3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "16-06-2014: will.i.am a 3D Systems představili 3D tiskárnu Ekocycle",
+    "summary": "It (supposed to) run on recycled Coca-Cola bottles.",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31f90576-ba83-42be-86bd-7c1174092a46_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-06-16T08:02:07+00:00",
+    "url": "https://www.3dprintingjournal.com/p/06-16-2014-william-and-3d-systems",
+    "title_en": "06-16-2014: will.i.am and 3D Systems launched Ekocycle 3D printer",
+    "summary_bullets_en": [
+      "will.i.am collaborated with 3D Systems to launch the Ekocycle 3D printer.",
+      "The printer is designed to use filament made from recycled Coca-Cola bottles.",
+      "The initiative aims to promote sustainability in 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "will.i.am spolupracoval s 3D Systems na uvedení 3D tiskárny Ekocycle.",
+      "Tiskárna je navržena tak, aby používala filament vyrobený z recyklovaných lahví Coca-Cola."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Systems",
+      "will.i.am",
+      "Ekocycle",
+      "Sustainability"
+    ]
+  },
+  {
     "title": "Další úspěch! Stratolaunch uděluje Ursa Major kontrakt za 32,9 milionu dolarů na 16 3D tištěných motorů",
     "summary": "Last week, I published an interview with Ursa Major’s COO, Nick Doucette, and its Head of Marketing and Strategic Communications, Savanah Bray, in which they detailed the internal sentiment at...",
     "image": "https://3dprint.com/wp-content/uploads/2025/06/IMG_0981-1024x685.webp",
