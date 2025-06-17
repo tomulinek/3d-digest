@@ -1,5 +1,135 @@
 [
   {
+    "title": "Společnost Robotics Comau uzavírá partnerství s výrobcem 3D tiskáren Roboze",
+    "summary": "Recently, the Italian robotics original equipment manufacturer (OEM) Comau announced the multifaceted approach it has taken to penetrating the additive manufacturing (AM) market. Comau, jointly owned by One Equity Partners and...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/06/IMG_1718-1024x595.webp",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-17T12:00:33+00:00",
+    "url": "https://3dprint.com/318806/robotics-company-comau-forms-partnership-with-3d-printing-oem-roboze/",
+    "title_en": "Robotics Company Comau Forms Partnership with 3D Printing OEM Roboze",
+    "summary_bullets_en": [
+      "Comau, an Italian robotics OEM, has announced a strategic partnership with 3D printing company Roboze.",
+      "The collaboration aims to enhance Comau's presence in the additive manufacturing market.",
+      "Comau is jointly owned by One Equity Partners and is focusing on a multifaceted approach to AM."
+    ],
+    "summary_bullets_cs": [
+      "Italský výrobce robotiky Comau oznámil strategické partnerství s firmou Roboze, která se zabývá 3D tiskem.",
+      "Cílem spolupráce je posílit přítomnost společnosti Comau na trhu aditivní výroby.",
+      "Comau je společně vlastněna společností One Equity Partners a zaměřuje se na mnohostranný přístup k aditivní výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Comau",
+      "Roboze",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Farsoon uvádí na trh systém pro 3D tisk měděných slitin ve velkém objemu FS621M-Cu",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/farsoon-launches-high-volume-copper-alloy-3d-printing-system-fs621m-cu/\" target=\"_blank\">Farsoon Launches High-Volume Copper Alloy 3D Printing System FS621M-Cu</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 17</span></div><div><img alt=\"Farsoon Launches High-Volume Copper Alloy 3D Printing System FS621M-Cu\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/5-1024x566-1-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/5-1024x566-1-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-06-17T09:34:22+00:00",
+    "url": "https://3dprinting.com/news/farsoon-launches-high-volume-copper-alloy-3d-printing-system-fs621m-cu/",
+    "title_en": "Farsoon Launches High-Volume Copper Alloy 3D Printing System FS621M-Cu",
+    "summary_bullets_en": [
+      "Farsoon has introduced the FS621M-Cu, a new 3D printing system designed for high-volume production of copper alloy parts.",
+      "The system is optimized for producing components with high thermal and electrical conductivity.",
+      "FS621M-Cu aims to meet the demands of industries such as electronics and automotive."
+    ],
+    "summary_bullets_cs": [
+      "Farsoon představil nový systém FS621M-Cu pro 3D tisk, navržený pro velkoobjemovou výrobu dílů z měděných slitin.",
+      "Systém je optimalizován pro výrobu komponent s vysokou tepelnou a elektrickou vodivostí.",
+      "FS621M-Cu má za cíl uspokojit potřeby průmyslů, jako je elektronika a automobilový průmysl."
+    ],
+    "tags": [
+      "Hardware",
+      "Farsoon",
+      "3D Printing",
+      "Copper Alloy",
+      "FS621M-Cu"
+    ]
+  },
+  {
+    "title": "Pratt & Whitney testuje 3D tištěnou rotující součástku pro motor TJ150",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/pratt-whitney-tests-3d-printed-rotating-part-for-tj150-engine/\" target=\"_blank\">Pratt &#038; Whitney Tests 3D Printed Rotating Part for TJ150 Engine</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 17</span></div><div><img alt=\"Pratt &amp; Whitney Tests 3D Printed Rotating Part for TJ150 Engine\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/6386874-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/6386874-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-06-17T09:26:12+00:00",
+    "url": "https://3dprinting.com/news/pratt-whitney-tests-3d-printed-rotating-part-for-tj150-engine/",
+    "title_en": "Pratt & Whitney Tests 3D Printed Rotating Part for TJ150 Engine",
+    "summary_bullets_en": [
+      "Pratt & Whitney has tested a 3D printed rotating part for their TJ150 engine.",
+      "The test aims to evaluate the performance and durability of the 3D printed component.",
+      "This development is part of Pratt & Whitney's ongoing efforts to integrate additive manufacturing into their production processes."
+    ],
+    "summary_bullets_cs": [
+      "Pratt & Whitney otestovala 3D tištěnou rotující součástku pro svůj motor TJ150.",
+      "Cílem testu je zhodnotit výkon a odolnost 3D tištěné součástky.",
+      "Tento vývoj je součástí snah Pratt & Whitney o integraci aditivní výroby do jejich výrobních procesů."
+    ],
+    "tags": [
+      "Hardware",
+      "Pratt & Whitney",
+      "3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Ultralehké 3D tištěné antény na 19 GHz snižují hmotnost o 94 % díky novému procesu s více materiály",
+    "summary": "A research collaboration between the University of California at Berkeley, the University of California, Los Angeles (UCLA), and Lawrence Berkeley National Laboratory (LBNL) has led to the development of a charge-programmed deposition method for 3D printing ultralight, high-frequency antennas. The study, published in Nature Communications, demonstrates a fabrication process that integrates conductive and dielectric materials [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/3D-printed-antenna-systems-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-06-17T08:54:53+00:00",
+    "url": "https://3dprintingindustry.com/news/ultralight-3d-printed-19-ghz-antennas-reduce-weight-by-94-with-new-multi-material-process-240839/?utm_source=rss&utm_medium=rss&utm_campaign=ultralight-3d-printed-19-ghz-antennas-reduce-weight-by-94-with-new-multi-material-process",
+    "title_en": "Ultralight 3D printed 19 GHz antennas reduce weight by 94% with new multi-material process",
+    "summary_bullets_en": [
+      "Researchers from UC Berkeley, UCLA, and LBNL have developed a new 3D printing method for ultralight antennas.",
+      "The charge-programmed deposition technique allows for the integration of conductive and dielectric materials.",
+      "This innovation results in 19 GHz antennas that are 94% lighter than traditional designs.",
+      "The study detailing this process was published in Nature Communications."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z UC Berkeley, UCLA a LBNL vyvinuli novou metodu 3D tisku pro ultralehké antény.",
+      "Technika nabíjením řízeného nanášení umožňuje integraci vodivých a dielektrických materiálů.",
+      "Tato inovace vede k anténám na 19 GHz, které jsou o 94 % lehčí než tradiční návrhy.",
+      "Studie popisující tento proces byla publikována v Nature Communications."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "UC Berkeley",
+      "UCLA",
+      "LBNL",
+      "Antennas",
+      "Nature Communications"
+    ]
+  },
+  {
+    "title": "17.06.2009: Objet Geometries uvedla na trh multimateriálovou 3D tiskárnu Connex350",
+    "summary": "It was the company's second 3D printer to enable simultaneous 3D printing of multiple materials",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84459036-fae4-4711-ba2c-1c25e93ac5e4_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-06-17T08:46:13+00:00",
+    "url": "https://www.3dprintingjournal.com/p/06-17-2009-objet-geometries-launched",
+    "title_en": "06-17-2009: Objet Geometries launched Connex350 multimaterial 3D printer",
+    "summary_bullets_en": [
+      "Objet Geometries introduced the Connex350, a multimaterial 3D printer.",
+      "This was the company's second printer capable of simultaneous 3D printing with multiple materials.",
+      "The Connex350 allowed for greater versatility in 3D printing applications."
+    ],
+    "summary_bullets_cs": [
+      "Objet Geometries představila Connex350, multimateriálovou 3D tiskárnu.",
+      "Byla to druhá tiskárna společnosti umožňující současný 3D tisk s více materiály."
+    ],
+    "tags": [
+      "Hardware",
+      "Objet Geometries",
+      "3D Printing",
+      "Multimaterial"
+    ]
+  },
+  {
     "title": "Nová pravidla pro 3D tisk na Etsy: Pouze originální návrhy",
     "summary": "Etsy has introduced new rules that restrict how vendors sell 3D printed goods.&#160; In an update to its ‘Creativity Standards’, items produced using “computerised tools,” like 3D printers, laser cutters, or Cricut machines, must now be “produced based on a seller’s original design.”&#160; This marks a significant shift for the popular online marketplace, which published [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/3D-printed-dragons-on-Etsy.-Image-via-Etsy-150x100.png",
