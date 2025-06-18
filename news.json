@@ -1,5 +1,242 @@
 [
   {
+    "title": "Proč cena akcií 3D Systems vzrostla o 15 %?",
+    "summary": "U.S. 3D printer manufacturer 3D Systems (NYSE: DDD) has announced plans to issue $92 million in new convertible notes, which will mature in 2030. The company has negotiated private subscription agreements with qualified institutional buyers for the offering. 3D Systems expects to finalize the sale of the new notes on June 23rd, 2025, pending standard [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2021/02/3D-Systems-headquarters-in-Rock-Hill-South-Carolina.-Photo-via-CBRE-Group.-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-18T16:36:01+00:00",
+    "url": "https://3dprintingindustry.com/news/why-did-3d-systems-stock-price-surge-15-240955/?utm_source=rss&utm_medium=rss&utm_campaign=why-did-3d-systems-stock-price-surge-15",
+    "title_en": "Why Did 3D Systems’ Stock Price Surge 15%?",
+    "summary_bullets_en": [
+      "3D Systems plans to issue $92 million in new convertible notes maturing in 2030.",
+      "The company has secured private subscription agreements with qualified institutional buyers.",
+      "The sale of the new notes is expected to be finalized on June 23rd, 2025."
+    ],
+    "summary_bullets_cs": [
+      "3D Systems plánuje vydat nové konvertibilní dluhopisy v hodnotě 92 milionů dolarů, které budou splatné v roce 2030.",
+      "Společnost uzavřela soukromé dohody o odběru s kvalifikovanými institucionálními investory.",
+      "Prodej nových dluhopisů by měl být dokončen 23. června 2025."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Systems",
+      "Convertible Notes",
+      "Stock Market"
+    ]
+  },
+  {
+    "title": "Pittsburghská čtvrť 91 se rozvíjí jako komplexní ekosystém aditivní výroby",
+    "summary": "Neighborhood 91 in Pittsburgh is actively expanding as a comprehensive site that integrates multiple stages of the additive manufacturing (AM) supply chain. Located near Pittsburgh International Airport, the development is overseen by the nonprofit Regional Industrial Development Corporation (RIDC) on land owned by the Allegheny County Airport Authority. Of the 195-acre master plan, one building [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/n91aerialphoto_900x506x6341-3570-0-579-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-18T15:27:43+00:00",
+    "url": "https://3dprintingindustry.com/news/pittsburghs-neighborhood-91-advances-as-a-comprehensive-additive-manufacturing-ecosystem-240943/?utm_source=rss&utm_medium=rss&utm_campaign=pittsburghs-neighborhood-91-advances-as-a-comprehensive-additive-manufacturing-ecosystem",
+    "title_en": "Pittsburgh’s Neighborhood 91 Advances as a Comprehensive Additive Manufacturing Ecosystem",
+    "summary_bullets_en": [
+      "Neighborhood 91 in Pittsburgh is expanding as a comprehensive additive manufacturing ecosystem.",
+      "The site integrates multiple stages of the additive manufacturing supply chain.",
+      "Located near Pittsburgh International Airport, it is managed by the Regional Industrial Development Corporation.",
+      "The development is on land owned by the Allegheny County Airport Authority."
+    ],
+    "summary_bullets_cs": [
+      "Čtvrť 91 v Pittsburghu se rozšiřuje jako komplexní ekosystém aditivní výroby.",
+      "Místo integruje různé fáze dodavatelského řetězce aditivní výroby.",
+      "Nachází se poblíž mezinárodního letiště v Pittsburghu a je spravováno Regionální korporací pro průmyslový rozvoj.",
+      "Rozvoj probíhá na pozemcích vlastněných Letištní správou okresu Allegheny."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "Pittsburgh",
+      "RIDC",
+      "Allegheny County Airport Authority"
+    ]
+  },
+  {
+    "title": "Stanford vyvíjí algoritmus pro 3D tisk k pokroku v návrhu cév pro biotisk orgánů",
+    "summary": "Stanford researchers have taken a major step toward addressing one of the biggest hurdles in organ bioprinting: building realistic vascular networks capable of sustaining lab-grown tissue. Their new platform, published June 12 in Science, accelerates the design of these blood vessel systems and translates them into 3D printable models—bringing the promise of personalized, functional organs [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/20250313Mark-Skylar-Scott-4-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-18T15:17:43+00:00",
+    "url": "https://3dprintingindustry.com/news/stanford-develops-3d-printing-algorithm-to-advance-vascular-design-for-organ-bioprinting-240939/?utm_source=rss&utm_medium=rss&utm_campaign=stanford-develops-3d-printing-algorithm-to-advance-vascular-design-for-organ-bioprinting",
+    "title_en": "Stanford Develops 3D Printing Algorithm to Advance Vascular Design for Organ Bioprinting",
+    "summary_bullets_en": [
+      "Stanford researchers have developed a new algorithm to improve vascular design in organ bioprinting.",
+      "The platform accelerates the creation of realistic blood vessel networks for lab-grown tissues.",
+      "This advancement brings the possibility of personalized, functional organs closer to reality."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci ze Stanfordu vyvinuli nový algoritmus pro zlepšení návrhu cév v biotisku orgánů.",
+      "Platforma urychluje tvorbu realistických cévních sítí pro laboratorně pěstované tkáně.",
+      "Tento pokrok přibližuje možnost personalizovaných, funkčních orgánů realitě."
+    ],
+    "tags": [
+      "Software",
+      "Bioprinting",
+      "Stanford",
+      "Organ Printing",
+      "Vascular Design"
+    ]
+  },
+  {
+    "title": "Jak vlastní kód zabíjí automatizaci aditivní výroby",
+    "summary": "RECODE.AM #3",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F943fd2b0-427f-4248-8951-fda8dacc8e12_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-06-18T15:00:10+00:00",
+    "url": "https://www.3dprintingjournal.com/p/how-custom-code-is-killing-am-automation",
+    "title_en": "How custom code is killing AM automation",
+    "summary_bullets_en": [
+      "Custom code in additive manufacturing (AM) is hindering automation efforts.",
+      "The lack of standardization in software leads to inefficiencies and increased costs.",
+      "Companies are struggling to integrate different systems due to proprietary solutions.",
+      "There is a growing need for open standards to enhance interoperability and streamline processes."
+    ],
+    "summary_bullets_cs": [
+      "Vlastní kód v aditivní výrobě brzdí snahy o automatizaci.",
+      "Nedostatek standardizace v softwaru vede k neefektivnosti a zvýšeným nákladům.",
+      "Firmy mají potíže s integrací různých systémů kvůli proprietárním řešením.",
+      "Roste potřeba otevřených standardů pro zlepšení interoperability a zefektivnění procesů."
+    ],
+    "tags": [
+      "Software",
+      "Automation",
+      "Interoperability",
+      "Standardization",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Výzkumníci používají aditivní výrobu pomocí studeného spreje pro opravy mostů na místě",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/920400839/0/fabbaloo/default~Researchers-Use-Cold-Spray-Additive-Manufacturing-for-OnSite-Bridge-Repairs\" rel=\"nofollow\" title=\"Researchers Use Cold Spray Additive Manufacturing for On-Site Bridge Repairs\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/cold-spray-cover-300x197.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new application for one form of 3D printing has been identified by researchers in Massachusetts.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920400839/0/fabbaloo/default~Researchers-Use-Cold-Spray-Additive-Manufacturing-for-OnSite-Bridge-Repairs\" rel=\"nofollow\">Researchers Use Cold Spray Additive Manufacturing for On-Site Bridge Repairs</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/cold-spray-cover-300x197.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-06-18T14:25:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/920400839/0/fabbaloo/default~Researchers-Use-Cold-Spray-Additive-Manufacturing-for-OnSite-Bridge-Repairs",
+    "title_en": "Researchers Use Cold Spray Additive Manufacturing for On-Site Bridge Repairs",
+    "summary_bullets_en": [
+      "Researchers in Massachusetts have identified a new application for 3D printing technology.",
+      "Cold spray additive manufacturing is being used for on-site bridge repairs.",
+      "This method allows for efficient and effective repair of infrastructure without the need for extensive dismantling."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci v Massachusetts objevili novou aplikaci pro technologii 3D tisku.",
+      "Aditivní výroba pomocí studeného spreje se používá pro opravy mostů na místě.",
+      "Tato metoda umožňuje efektivní a účinné opravy infrastruktury bez nutnosti rozsáhlé demontáže."
+    ],
+    "tags": [
+      "Hardware",
+      "Cold Spray",
+      "Additive Manufacturing",
+      "Infrastructure",
+      "Bridge Repairs"
+    ]
+  },
+  {
+    "title": "MetalWorm prodává WAAM systémy výzkumným institutům v Brazílii a Malajsii",
+    "summary": "Turkish WAAM firm MetalWorm has sold a system in Malaysia and another in Brazil. This is an excellent example of a few emerging trends in additive. Firstly, WAAM was experimented...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/06/MetalWorm-Invar-Dome-Shape-Mold-Part-jpeg-1024x772.webp",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-18T13:30:05+00:00",
+    "url": "https://3dprint.com/318800/metalworm-sells-waam-systems-to-research-institutes-in-brazil-and-malaysia/",
+    "title_en": "MetalWorm Sells WAAM Systems to Research Institutes in Brazil and Malaysia",
+    "summary_bullets_en": [
+      "Turkish WAAM firm MetalWorm has successfully sold its systems to research institutes in Brazil and Malaysia.",
+      "This sale highlights emerging trends in additive manufacturing, particularly in the adoption of WAAM technology.",
+      "WAAM technology is gaining traction in international markets, showcasing its potential in various research applications."
+    ],
+    "summary_bullets_cs": [
+      "Turecká firma MetalWorm úspěšně prodala své WAAM systémy výzkumným institutům v Brazílii a Malajsii.",
+      "Tento prodej zdůrazňuje nové trendy v aditivní výrobě, zejména v oblasti přijetí WAAM technologie."
+    ],
+    "tags": [
+      "Hardware",
+      "MetalWorm",
+      "WAAM",
+      "Additive Manufacturing",
+      "Brazil",
+      "Malaysia"
+    ]
+  },
+  {
+    "title": "Výzkumníci z ASU vylepšují 3D tisk nerezové oceli 316L pomocí AI",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/920397326/0/fabbaloo/default~ASU-Researchers-Enhance-L-Stainless-Steel-D-Printing-with-AI\" rel=\"nofollow\" title=\"ASU Researchers Enhance 316L Stainless Steel 3D Printing with AI\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/asu-316l-cover-300x181.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The new system predicts microstructure formation in real-time, slashing simulation time and boosting print precision.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920397326/0/fabbaloo/default~ASU-Researchers-Enhance-L-Stainless-Steel-D-Printing-with-AI\" rel=\"nofollow\">ASU Researchers Enhance 316L Stainless Steel 3D Printing with AI</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/asu-316l-cover-300x181.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-06-18T13:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/920397326/0/fabbaloo/default~ASU-Researchers-Enhance-L-Stainless-Steel-D-Printing-with-AI",
+    "title_en": "ASU Researchers Enhance 316L Stainless Steel 3D Printing with AI",
+    "summary_bullets_en": [
+      "ASU researchers have developed a new AI system for 3D printing 316L stainless steel.",
+      "The system predicts microstructure formation in real-time.",
+      "This innovation significantly reduces simulation time and increases print precision."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z ASU vyvinuli nový AI systém pro 3D tisk nerezové oceli 316L.",
+      "Systém předpovídá tvorbu mikrostruktury v reálném čase.",
+      "Tato inovace výrazně zkracuje čas simulace a zvyšuje přesnost tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "AI",
+      "3D Printing",
+      "ASU"
+    ]
+  },
+  {
+    "title": "Rocket Lab a Nikon SLM Solutions podepsaly memorandum o porozumění pro nové velké systémy 3D tisku kovů",
+    "summary": "Nikon SLM Solutions has signed a Memorandum of Understanding (MoU) with Rocket Lab. The aerospace manufacturing firm wishes to reserve two new &#8220;ultra-large format metal additive manufacturing platforms.&#8221; This is...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/08/RocketLab-F9-SimonMoffatt-SamToms-LowRes5.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-18T13:00:48+00:00",
+    "url": "https://3dprint.com/318782/rocket-lab-and-nikon-slm-solutions-to-sign-mou-for-new-large-metal-systems/",
+    "title_en": "Rocket Lab and Nikon SLM Solutions Sign MoU for New Large Metal 3D Printing Systems",
+    "summary_bullets_en": [
+      "Nikon SLM Solutions has signed a Memorandum of Understanding with Rocket Lab.",
+      "Rocket Lab aims to reserve two new ultra-large format metal additive manufacturing platforms.",
+      "The collaboration focuses on advancing aerospace manufacturing capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Nikon SLM Solutions podepsala memorandum o porozumění s Rocket Lab.",
+      "Rocket Lab si přeje rezervovat dvě nové ultra-velké platformy pro aditivní výrobu kovů.",
+      "Spolupráce se zaměřuje na pokrok v možnostech výroby v leteckém průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Nikon SLM Solutions",
+      "Rocket Lab",
+      "Aerospace",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "AM Research tvrdí, že 3D tisk by mohl být zodpovědný za polovinu dílů na vypuštěných satelitech do roku 2033",
+    "summary": "The satellite industry has grown significantly in the last decade. In the “new space race” between the more industrialized nations of the world, stiff competition has resulted in new and...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/05/AM_for_Satellites-1-1024x453.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-18T12:00:32+00:00",
+    "url": "https://3dprint.com/318833/am-research-says-3d-printing-could-be-responsible-for-half-the-parts-on-launched-satellites-by-2033/",
+    "title_en": "AM Research Says 3D Printing Could Be Responsible for Half the Parts on Launched Satellites by 2033",
+    "summary_bullets_en": [
+      "The satellite industry has experienced significant growth over the past decade.",
+      "Intense competition in the 'new space race' is driving innovation and advancements.",
+      "3D printing is projected to play a major role in satellite manufacturing by 2033."
+    ],
+    "summary_bullets_cs": [
+      "Satelitní průmysl zaznamenal v posledním desetiletí významný růst.",
+      "Intenzivní konkurence v 'novém vesmírném závodě' pohání inovace a pokroky.",
+      "3D tisk má do roku 2033 hrát klíčovou roli ve výrobě satelitů."
+    ],
+    "tags": [
+      "Hardware",
+      "Satellite Industry",
+      "3D Printing",
+      "Space Race",
+      "Innovation"
+    ]
+  },
+  {
     "title": "Buďte kreativní: Proč Hobby Lobby a Michaels sázejí na aditivní výrobu",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/920394281/0/fabbaloo/default~Get-Crafty-Why-Hobby-Lobby-and-Michaels-Are-Betting-on-Additive-Manufacturing\" rel=\"nofollow\" title=\"Get Crafty: Why Hobby Lobby and Michaels Are Betting on Additive Manufacturing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/05/Hobby1-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi reveal how 3D printing is revolutionizing the crafting industry, reshaping supply chains, customization, and customer engagement at Hobby Lobby and Michaels.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920394281/0/fabbaloo/default~Get-Crafty-Why-Hobby-Lobby-and-Michaels-Are-Betting-on-Additive-Manufacturing\" rel=\"nofollow\">Get Crafty: Why Hobby Lobby and Michaels Are Betting on Additive Manufacturing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/05/Hobby1-300x225.jpg",
