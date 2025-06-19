@@ -1,5 +1,115 @@
 [
   {
+    "title": "Za hranice klíčových aplikací: Proč je přístup k aditivní výrobě důležitější než kdy jindy",
+    "summary": "February&#8217;s Additive Manufacturing Strategies (AMS) 2025 was a whirlwind of innovation. A dominant narrative, championed by industry leaders like Stratasys CEO Yoav Zeif, was AM’s need to prove its value...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/06/1625235489143.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-19T12:00:50+00:00",
+    "url": "https://3dprint.com/318622/beyond-killer-apps-why-additive-manufacturing-access-matters-more-than-ever/",
+    "title_en": "Beyond Killer Apps: Why Additive Manufacturing Access Matters More Than Ever",
+    "summary_bullets_en": [
+      "The Additive Manufacturing Strategies (AMS) 2025 event showcased significant innovations in the industry.",
+      "Industry leaders emphasized the importance of proving the value of additive manufacturing (AM).",
+      "Stratasys CEO Yoav Zeif highlighted the need for broader access to AM technologies.",
+      "The narrative focused on the potential of AM to transform various sectors beyond just creating 'killer apps'."
+    ],
+    "summary_bullets_cs": [
+      "Akce Additive Manufacturing Strategies (AMS) 2025 představila významné inovace v oboru.",
+      "Lídři v průmyslu zdůraznili důležitost prokázání hodnoty aditivní výroby (AM).",
+      "Generální ředitel Stratasys Yoav Zeif zdůraznil potřebu širšího přístupu k technologiím AM.",
+      "Příběh se zaměřil na potenciál AM transformovat různé sektory nad rámec pouhého vytváření 'klíčových aplikací'."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "Additive Manufacturing",
+      "Innovation",
+      "AMS 2025"
+    ]
+  },
+  {
+    "title": "Gabriel Demeneghi z NASA o limitech, selháních a otevřených datech v aditivní výrobě",
+    "summary": "A recent social media post caught my eye, something that could be described as the antithesis of LinkedIn. Instead of the typical self-congratulatory product launch or inflated performance claims, it was a blunt video clip of a combustion chamber tearing apart under pressure. During hot-fire testing, an additively manufactured GRCop-42 combustion chamber failed and with [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/Series-illustrating-how-the-thrust-chamber-assembly-TCA-failed-during-testing.-Photo-via-ScienceDirect-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-19T10:30:00+00:00",
+    "url": "https://3dprintingindustry.com/news/nasas-gabriel-demeneghi-on-additive-manufacturings-limits-failures-and-open-data-240950/?utm_source=rss&utm_medium=rss&utm_campaign=nasas-gabriel-demeneghi-on-additive-manufacturings-limits-failures-and-open-data",
+    "title_en": "NASA’s Gabriel Demeneghi on Additive Manufacturing’s Limits, Failures, and Open Data",
+    "summary_bullets_en": [
+      "A social media post highlighted a combustion chamber failure during hot-fire testing.",
+      "The GRCop-42 combustion chamber, made with additive manufacturing, tore apart under pressure.",
+      "The incident underscores the challenges and limitations of additive manufacturing in aerospace.",
+      "Gabriel Demeneghi from NASA discusses the importance of open data in understanding these failures."
+    ],
+    "summary_bullets_cs": [
+      "Příspěvek na sociálních sítích upozornil na selhání spalovací komory během testování za horka.",
+      "Spalovací komora GRCop-42, vyrobená aditivní výrobou, se roztrhla pod tlakem.",
+      "Incident zdůrazňuje výzvy a omezení aditivní výroby v leteckém průmyslu.",
+      "Gabriel Demeneghi z NASA diskutuje o důležitosti otevřených dat pro pochopení těchto selhání."
+    ],
+    "tags": [
+      "Hardware",
+      "NASA",
+      "Additive Manufacturing",
+      "Aerospace",
+      "GRCop-42"
+    ]
+  },
+  {
+    "title": "19-06-2013: Stratasys získal MakerBot",
+    "summary": "This event forever changed the foundations of the desktop 3D printing market",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff14f453f-081d-4a08-86f4-ee45010355a2_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-06-19T08:23:47+00:00",
+    "url": "https://www.3dprintingjournal.com/p/06-19-2013-stratasys-acquired-makerbot",
+    "title_en": "06-19-2013: Stratasys acquired MakerBot",
+    "summary_bullets_en": [
+      "Stratasys, a leading 3D printing company, acquired MakerBot in 2013.",
+      "The acquisition marked a significant shift in the desktop 3D printing market.",
+      "MakerBot was known for its accessible and affordable 3D printers.",
+      "This move helped Stratasys expand its reach into the consumer market."
+    ],
+    "summary_bullets_cs": [
+      "Stratasys, přední společnost v oblasti 3D tisku, získala v roce 2013 firmu MakerBot.",
+      "Tato akvizice znamenala významný posun na trhu stolního 3D tisku.",
+      "MakerBot byl známý svými dostupnými a cenově přijatelnými 3D tiskárnami.",
+      "Tento krok pomohl Stratasysu rozšířit dosah na spotřebitelský trh."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "MakerBot"
+    ]
+  },
+  {
+    "title": "Jak vyřešit problémy s náhradními díly",
+    "summary": "Novinky z 3D tisku a 3D skenování: Co umí nový UltiMaker S6? • Velkoobjemový 3D tisk • Aditivní výroba v obraně • Rychlost 3D tisku vs. produktivita a další",
+    "image": "https://admasys.cz/wp-content/uploads/2025/05/caracol-show-in-paris-lfam-system-heron-am-768x432.jpg",
+    "source": "ADMASYS CZ",
+    "published": "2025-06-19T06:20:40+00:00",
+    "url": "https://admasys.cz/jak-vyresit-problemy-s-nahradnimi-dily-zpravodaj-3d/",
+    "title_en": "How to Solve Spare Parts Issues",
+    "summary_bullets_en": [
+      "Latest updates in 3D printing and scanning: What can the new UltiMaker S6 do?",
+      "Large-scale 3D printing capabilities.",
+      "Additive manufacturing in defense applications.",
+      "The balance between 3D printing speed and productivity."
+    ],
+    "summary_bullets_cs": [
+      "Novinky z 3D tisku a 3D skenování: Co umí nový UltiMaker S6?",
+      "Velkoobjemový 3D tisk.",
+      "Aditivní výroba v obraně.",
+      "Rychlost 3D tisku vs. produktivita."
+    ],
+    "tags": [
+      "Hardware",
+      "UltiMaker",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Defense"
+    ]
+  },
+  {
     "title": "Proč cena akcií 3D Systems vzrostla o 15 %?",
     "summary": "U.S. 3D printer manufacturer 3D Systems (NYSE: DDD) has announced plans to issue $92 million in new convertible notes, which will mature in 2030. The company has negotiated private subscription agreements with qualified institutional buyers for the offering. 3D Systems expects to finalize the sale of the new notes on June 23rd, 2025, pending standard [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2021/02/3D-Systems-headquarters-in-Rock-Hill-South-Carolina.-Photo-via-CBRE-Group.-150x100.jpg",
