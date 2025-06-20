@@ -1,5 +1,161 @@
 [
   {
+    "title": "Nová technika 3D tisku vytváří dvoumateriálové objekty z jedné pryskyřice",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/new-3d-printing-technique-creates-dual-material-objects-from-single-resin/\" target=\"_blank\">New 3D-Printing Technique Creates Dual-Material Objects from Single Resin</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 20</span></div><div><img alt=\"New 3D-Printing Technique Creates Dual-Material Objects from Single Resin\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"153\" src=\"https://3dprinting.com/wp-content/uploads/8648498084.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"300\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/8648498084.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-06-20T12:00:42+00:00",
+    "url": "https://3dprinting.com/news/new-3d-printing-technique-creates-dual-material-objects-from-single-resin/",
+    "title_en": "New 3D-Printing Technique Creates Dual-Material Objects from Single Resin",
+    "summary_bullets_en": [
+      "A new 3D-printing technique allows the creation of dual-material objects using a single resin.",
+      "This method involves a unique process that can change the properties of the resin during printing.",
+      "The technique could revolutionize the production of complex objects with varying material properties."
+    ],
+    "summary_bullets_cs": [
+      "Nová technika 3D tisku umožňuje vytváření dvoumateriálových objektů pomocí jedné pryskyřice.",
+      "Tato metoda zahrnuje unikátní proces, který může během tisku měnit vlastnosti pryskyřice.",
+      "Technika by mohla revolučně změnit výrobu složitých objektů s různými materiálovými vlastnostmi."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Northumbria získává financování EU pro výzkum udržitelné 3D tištěné výstavby",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/northumbria-receives-eu-funding-for-sustainable-3d-printed-construction-research/\" target=\"_blank\">Northumbria Receives EU Funding for Sustainable 3D-Printed Construction Research</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 20</span></div><div><img alt=\"Northumbria Receives EU Funding for Sustainable 3D-Printed Construction Research\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/86489984-500x500.jpeg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/86489984-500x500.jpeg",
+    "source": "3DPrinting.com",
+    "published": "2025-06-20T11:50:38+00:00",
+    "url": "https://3dprinting.com/news/northumbria-receives-eu-funding-for-sustainable-3d-printed-construction-research/",
+    "title_en": "Northumbria Receives EU Funding for Sustainable 3D-Printed Construction Research",
+    "summary_bullets_en": [
+      "Northumbria University has received EU funding to advance research in sustainable 3D-printed construction.",
+      "The research aims to develop eco-friendly construction methods using 3D printing technology.",
+      "This initiative is part of a broader effort to reduce the environmental impact of the construction industry."
+    ],
+    "summary_bullets_cs": [
+      "Univerzita Northumbria získala financování od EU na pokročilý výzkum udržitelné 3D tištěné výstavby.",
+      "Výzkum se zaměřuje na vývoj ekologických stavebních metod pomocí technologie 3D tisku.",
+      "Tato iniciativa je součástí širšího úsilí o snížení dopadu stavebního průmyslu na životní prostředí."
+    ],
+    "tags": [
+      "Hardware",
+      "Sustainable Construction",
+      "3D Printing",
+      "Northumbria University"
+    ]
+  },
+  {
+    "title": "3D tištěná sportovní podprsenka by mohla pomoci olympijské hvězdě překonat historický atletický rekord",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/3d-printed-sports-bra-could-help-olympic-star-break-historic-athletics-record/\" target=\"_blank\">3D-Printed Sports Bra Could Help Olympic Star Break Historic Athletics Record</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 20</span></div><div><img alt=\"3D-Printed Sports Bra Could Help Olympic Star Break Historic Athletics Record\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/476984784-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/476984784-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2025-06-20T11:45:23+00:00",
+    "url": "https://3dprinting.com/news/3d-printed-sports-bra-could-help-olympic-star-break-historic-athletics-record/",
+    "title_en": "3D-Printed Sports Bra Could Help Olympic Star Break Historic Athletics Record",
+    "summary_bullets_en": [
+      "A new 3D-printed sports bra has been developed to enhance athletic performance.",
+      "The bra is designed to provide better support and comfort for female athletes.",
+      "An Olympic star is set to use this innovative sportswear in an attempt to break a historic athletics record.",
+      "The use of 3D printing technology allows for customization and precise fitting."
+    ],
+    "summary_bullets_cs": [
+      "Byla vyvinuta nová 3D tištěná sportovní podprsenka pro zlepšení sportovního výkonu.",
+      "Podprsenka je navržena tak, aby poskytovala lepší podporu a pohodlí pro sportovkyně.",
+      "Olympijská hvězda se chystá použít toto inovativní sportovní oblečení při pokusu o překonání historického atletického rekordu.",
+      "Použití technologie 3D tisku umožňuje přizpůsobení a přesné padnutí."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Sportswear",
+      "Athletics"
+    ]
+  },
+  {
+    "title": "Ameresco spolupracuje s americkou armádou na 3D tištěném energetickém upgradu v Detroitském arzenálu",
+    "summary": "Ameresco, energy solutions provider,&#160; has partnered with the U.S. Army’s Detroit Arsenal in Warren, Michigan, to launch one of the US Department of Defense’s first large-scale projects employing advanced 3D printing technology. Utilizing the Cellular Fabrication (C-Fab) process by advanced 3D printing platform Branch Technology, the project will design and manufacture customized insulation panels to [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/original-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-20T08:40:10+00:00",
+    "url": "https://3dprintingindustry.com/news/ameresco-partners-with-u-s-army-for-3d-printed-energy-efficiency-upgrade-at-detroit-arsenal-240990/?utm_source=rss&utm_medium=rss&utm_campaign=ameresco-partners-with-u-s-army-for-3d-printed-energy-efficiency-upgrade-at-detroit-arsenal",
+    "title_en": "Ameresco Partners with U.S. Army for 3D Printed Energy Efficiency Upgrade at Detroit Arsenal",
+    "summary_bullets_en": [
+      "Ameresco collaborates with the U.S. Army's Detroit Arsenal to implement a large-scale 3D printing project.",
+      "The project utilizes Branch Technology's Cellular Fabrication (C-Fab) process.",
+      "Customized insulation panels will be designed and manufactured for energy efficiency upgrades."
+    ],
+    "summary_bullets_cs": [
+      "Ameresco spolupracuje s Detroitským arzenálem americké armády na velkém projektu využívajícím 3D tisk.",
+      "Projekt využívá proces Cellular Fabrication (C-Fab) od Branch Technology.",
+      "Budou navrženy a vyrobeny přizpůsobené izolační panely pro energetické upgrady."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Printing",
+      "Ameresco",
+      "U.S. Army",
+      "Branch Technology"
+    ]
+  },
+  {
+    "title": "Personalizované výživové gumové bonbóny vyvinuté týmem UPV, Foggia a Jiangnan",
+    "summary": "A research team from the Spanish Universitat Politècnica de València (UPV), the Italian University of Foggia, and China’s Jiangnan University has developed 3D printed gummy supplements enriched with vitamins and minerals. Published in the Journal of Food Engineering, the study investigates the potential of additive manufacturing (AM) to address nutritional deficiencies through personalized supplementation. “Our [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/7501_crean-con-impresion-3d-gominolas-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-20T08:35:56+00:00",
+    "url": "https://3dprintingindustry.com/news/personalized-nutrient-gummies-developed-by-upv-foggia-and-jiangnan-research-team-240982/?utm_source=rss&utm_medium=rss&utm_campaign=personalized-nutrient-gummies-developed-by-upv-foggia-and-jiangnan-research-team",
+    "title_en": "Personalized Nutrient Gummies Developed by UPV, Foggia, and Jiangnan Research Team",
+    "summary_bullets_en": [
+      "A collaborative research team from UPV, University of Foggia, and Jiangnan University has developed 3D printed gummy supplements.",
+      "These gummies are enriched with vitamins and minerals to address nutritional deficiencies.",
+      "The study explores the potential of additive manufacturing for personalized supplementation.",
+      "The research findings were published in the Journal of Food Engineering."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumný tým z UPV, Univerzity Foggia a Jiangnan University vyvinul 3D tištěné gumové doplňky.",
+      "Tyto bonbóny jsou obohaceny o vitamíny a minerály k řešení výživových nedostatků.",
+      "Studie zkoumá potenciál aditivní výroby pro personalizované doplňování.",
+      "Výsledky výzkumu byly publikovány v časopise Journal of Food Engineering."
+    ],
+    "tags": [
+      "Material",
+      "UPV",
+      "University of Foggia",
+      "Jiangnan University",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Nutritional Supplements"
+    ]
+  },
+  {
+    "title": "20.06.2019: Desktop Metal začal dodávat 3D tiskárny Studio System do Evropy",
+    "summary": "Studio System was advertised as &#8222;the world&#8217;s first office-friendly metal 3D printing system&#8221;",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F190389ab-ab2a-4bf7-8e0f-8cff090f5cbf_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-06-20T08:30:23+00:00",
+    "url": "https://www.3dprintingjournal.com/p/06-20-2019-desktop-metal-started",
+    "title_en": "06-20-2019: Desktop Metal started shipping Studio System 3D printers to Europe",
+    "summary_bullets_en": [
+      "Desktop Metal has begun shipping its Studio System 3D printers to Europe.",
+      "The Studio System is marketed as the first office-friendly metal 3D printing system.",
+      "This move marks an expansion of Desktop Metal's market presence in Europe."
+    ],
+    "summary_bullets_cs": [
+      "Studio System byl inzerován jako „první kancelářský přívětivý systém pro 3D tisk kovů“."
+    ],
+    "tags": [
+      "Hardware",
+      "Desktop Metal",
+      "3D Printing",
+      "Metal Printing"
+    ]
+  },
+  {
     "title": "Nový nástroj brain2print umožňuje 3D tisk vašeho mozku",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/920459132/0/fabbaloo/default~New-brainprint-Tool-Makes-D-Printing-Your-Brain-Possible\" rel=\"nofollow\" title=\"New brain2print Tool Makes 3D Printing Your Brain Possible\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/brain2print-cover2-300x147.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Want to 3D print your brain? You can!</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920459132/0/fabbaloo/default~New-brainprint-Tool-Makes-D-Printing-Your-Brain-Possible\" rel=\"nofollow\">New brain2print Tool Makes 3D Printing Your Brain Possible</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/brain2print-cover2-300x147.jpg",
