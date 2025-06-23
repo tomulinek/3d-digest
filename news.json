@@ -1,5 +1,164 @@
 [
   {
+    "title": "3DPOD 259: AM ve Stratasys s Richem Garritym, hlavním obchodním ředitelem",
+    "summary": "Rich Garrity is the Chief Business Officer of Stratasys. Rich shares Stratasys´ vision and future with us. We talk about machines, applications, clients, and the market in general. What technologies...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-23T12:00:09+00:00",
+    "url": "https://3dprint.com/318574/3dpod-259-am-at-stratasys-with-rich-garrity-chief-business-unit-officer/",
+    "title_en": "3DPOD 259: AM at Stratasys with Rich Garrity, Chief Business Unit Officer",
+    "summary_bullets_en": [
+      "Rich Garrity discusses Stratasys' vision and future plans.",
+      "The conversation covers machines, applications, and market trends.",
+      "Insights into Stratasys' client relationships and technology advancements."
+    ],
+    "summary_bullets_cs": [
+      "Rich Garrity sdílí vizi a budoucí plány Stratasys.",
+      "Rozhovor zahrnuje stroje, aplikace a trendy na trhu.",
+      "Pohledy na vztahy se zákazníky a technologické pokroky Stratasys."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "3D Printing",
+      "Market Trends",
+      "Technology"
+    ]
+  },
+  {
+    "title": "AM Ceramics 2025 zdůrazní průlomy v keramickém 3D tisku ve Vídni",
+    "summary": "Agenda setting ceramics 3D printing event AM Ceramics is returning to Vienna, Austria on 21–22 October 2025 for its 10th edition, bringing together leading voices in ceramic additive manufacturing at the TUthe Sky rooftop venue, at the heart of Technical University of Vienna (TU Wien).&#160; Organized by Lithoz, the conference continues to serve as a [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/AMC24-439-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-23T10:03:47+00:00",
+    "url": "https://3dprintingindustry.com/news/am-ceramics-2025-to-spotlight-ceramic-3d-printing-breakthroughs-in-vienna-240918/?utm_source=rss&utm_medium=rss&utm_campaign=am-ceramics-2025-to-spotlight-ceramic-3d-printing-breakthroughs-in-vienna",
+    "title_en": "AM Ceramics 2025 to Spotlight Ceramic 3D Printing Breakthroughs in Vienna",
+    "summary_bullets_en": [
+      "AM Ceramics 2025 will take place in Vienna, Austria on October 21-22, 2025.",
+      "The event marks its 10th edition and will be held at the TUthe Sky rooftop venue at TU Wien.",
+      "Organized by Lithoz, the conference will gather leading experts in ceramic additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "AM Ceramics 2025 se uskuteční ve Vídni, Rakousko, ve dnech 21.–22. října 2025.",
+      "Akce slaví své 10. výročí a bude se konat na střešním místě TUthe Sky na TU Wien.",
+      "Konferenci organizuje Lithoz a shromáždí přední odborníky na keramickou aditivní výrobu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Lithoz",
+      "Ceramic 3D Printing",
+      "TU Wien"
+    ]
+  },
+  {
+    "title": "Precision Additive cílí na slabé místo v letectví pomocí 3D tisku z hořčíku",
+    "summary": "Precision Additive, a new US-based additive manufacturing company, is betting on an overlooked metal to address critical defense and aerospace challenges: magnesium.&#160; The company is developing a novel metal 3D printing architecture designed to unlock industrial-scale use of magnesium, a material prized for its lightweight and vibration-dampening properties but hindered by processing difficulties and dwindling [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/Bala-Anand-Jeldi-and-Daniel-Braley.-Photo-via-Precision-Additive-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-23T09:39:00+00:00",
+    "url": "https://3dprintingindustry.com/news/precision-additive-targets-aerospace-weak-spot-with-magnesium-3d-printing-241078/?utm_source=rss&utm_medium=rss&utm_campaign=precision-additive-targets-aerospace-weak-spot-with-magnesium-3d-printing",
+    "title_en": "Precision Additive Targets Aerospace Weak Spot With Magnesium 3D Printing",
+    "summary_bullets_en": [
+      "Precision Additive is a new US-based company focusing on additive manufacturing.",
+      "The company aims to address aerospace and defense challenges using magnesium.",
+      "Magnesium is valued for its lightweight and vibration-dampening properties.",
+      "Precision Additive is developing a new 3D printing architecture to enable industrial-scale use of magnesium."
+    ],
+    "summary_bullets_cs": [
+      "Precision Additive je nová americká společnost zaměřená na aditivní výrobu.",
+      "Společnost se snaží řešit výzvy v letectví a obraně pomocí hořčíku.",
+      "Hořčík je ceněn pro svou lehkost a schopnost tlumit vibrace.",
+      "Precision Additive vyvíjí novou architekturu 3D tisku pro průmyslové využití hořčíku."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Precision Additive",
+      "Aerospace",
+      "Defense",
+      "Magnesium"
+    ]
+  },
+  {
+    "title": "3D tištěné motorické neuronové organoidy od výzkumníků z Uppsaly by mohly urychlit vývoj léků na ALS",
+    "summary": "Researchers at Uppsala University in Sweden have developed 3D printed models from patient-derived cells to simulate motor neurons in the lab. These structures, known as motor neuron organoids, are expected to support research into neurodegenerative diseases such as Amyotrophic Lateral Sclerosis (ALS) and help explore treatment strategies without the need for invasive procedures. Understanding ALS [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/Motor-neuron-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-23T08:32:42+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printed-motor-neuron-organoids-by-uppsala-researchers-could-accelerate-als-drug-development-241059/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-motor-neuron-organoids-by-uppsala-researchers-could-accelerate-als-drug-development",
+    "title_en": "3D Printed Motor Neuron Organoids by Uppsala Researchers Could Accelerate ALS Drug Development",
+    "summary_bullets_en": [
+      "Researchers at Uppsala University have developed 3D printed motor neuron organoids using patient-derived cells.",
+      "These organoids simulate motor neurons in the lab, aiding research into neurodegenerative diseases like ALS.",
+      "The technology could help explore treatment strategies without invasive procedures."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Uppsalské univerzity vyvinuli 3D tištěné modely motorických neuronů z buněk odvozených od pacientů.",
+      "Tyto organoidy simulují motorické neurony v laboratoři a podporují výzkum neurodegenerativních onemocnění, jako je ALS.",
+      "Technologie by mohla pomoci prozkoumat léčebné strategie bez nutnosti invazivních postupů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Uppsala University",
+      "ALS",
+      "Neurodegenerative Diseases"
+    ]
+  },
+  {
+    "title": "Jordánsko zahajuje nejnovější úsilí o obnovu korálových útesů pomocí 3D tisku v Akabě",
+    "summary": "Secure your spot now for exclusive AM insights at our&#160;Additive Manufacturing Advantage online conference&#160;covering aerospace, space, and defense! A new coral reef restoration initiative in Aqaba, Jordan, is combining large-scale 3D printing with marine biology in an effort to counter the rapid decline of coral ecosystems. Led by the Hashemite Kingdom of Jordan and the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/Sperra3DPrinting-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-23T08:28:42+00:00",
+    "url": "https://3dprintingindustry.com/news/jordan-begins-latest-3d-printed-coral-reef-restoration-effort-in-aqaba-241066/?utm_source=rss&utm_medium=rss&utm_campaign=jordan-begins-latest-3d-printed-coral-reef-restoration-effort-in-aqaba",
+    "title_en": "Jordan begins latest 3D printed coral reef restoration effort in Aqaba",
+    "summary_bullets_en": [
+      "A new initiative in Aqaba, Jordan, is using large-scale 3D printing to restore coral reefs.",
+      "The project aims to combat the rapid decline of coral ecosystems.",
+      "It is a collaboration between the Hashemite Kingdom of Jordan and marine biologists."
+    ],
+    "summary_bullets_cs": [
+      "Nová iniciativa v Akabě, Jordánsko, využívá velkoformátový 3D tisk k obnově korálových útesů.",
+      "Projekt si klade za cíl bojovat proti rychlému úbytku korálových ekosystémů.",
+      "Jedná se o spolupráci mezi Hašemitským královstvím Jordánska a mořskými biology."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Coral Reef Restoration",
+      "Aqaba",
+      "Jordan"
+    ]
+  },
+  {
+    "title": "23-06-2018: Coper3D debutoval s průlomovým antibakteriálním vláknem PLACTIVE",
+    "summary": "It soon become the leading 3D printing material used in the production of medical applications in FFF technology.",
+    "image": "https://substackcdn.com/image/fetch/$s_!Ruu5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8640a8c4-a9a3-42f1-9cac-01cbdee9ec9f_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-06-23T07:02:35+00:00",
+    "url": "https://www.3dprintingjournal.com/p/06-23-2018-coper3d-debuted-with-its",
+    "title_en": "06-23-2018: Coper3D debuted with its groundbreaking, antibacterial PLACTIVE filament",
+    "summary_bullets_en": [
+      "Coper3D introduced the innovative antibacterial PLACTIVE filament.",
+      "The filament quickly became a leading material for 3D printing in medical applications.",
+      "It is widely used in FFF (Fused Filament Fabrication) technology."
+    ],
+    "summary_bullets_cs": [
+      "Coper3D představil inovativní antibakteriální vlákno PLACTIVE.",
+      "Vlákno se rychle stalo předním materiálem pro 3D tisk v lékařských aplikacích.",
+      "Je široce používáno v technologii FFF (Fused Filament Fabrication)."
+    ],
+    "tags": [
+      "Material",
+      "Coper3D",
+      "PLACTIVE",
+      "Medical Applications",
+      "FFF Technology"
+    ]
+  },
+  {
     "title": "Teenager vyvinul stolní extruder pro 3D tisk",
     "summary": "Inexpensive desktop 3D printing extrusion has always been an impactful potential ally to 3D Printing users. Filabot and 3Devo have been trying to make this a reality for years, with...",
     "image": "https://3dprint.com/wp-content/uploads/2025/06/regeneron4-1024x683.jpg",
