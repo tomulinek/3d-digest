@@ -1,5 +1,291 @@
 [
   {
+    "title": "Northumbria University získala grant EU ve výši 250 000 € na rozvoj udržitelných 3D tištěných stavebních materiálů",
+    "summary": "Northumbria University, based in the UK, has been awarded over €250,000 through the European Union’s Marie Skłodowska-Curie Actions (MSCA) Fellowship to support research into sustainable manufacturing methods for low-carbon, 3D printed construction materials. Under this grant, postdoctoral researcher Dr. Jyotirmoy Mishra will join the Northumbria team to develop geopolymer mortars derived from agricultural and industrial [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/open-graph-3d-printer.avif",
+    "source": "3D Printing Industry",
+    "published": "2025-06-23T17:05:51+00:00",
+    "url": "https://3dprintingindustry.com/news/northumbria-university-awarded-e250000-eu-grant-to-advance-sustainable-3d-printed-construction-materials-241093/?utm_source=rss&utm_medium=rss&utm_campaign=northumbria-university-awarded-e250000-eu-grant-to-advance-sustainable-3d-printed-construction-materials",
+    "title_en": "Northumbria University Awarded €250,000 EU Grant to Advance Sustainable 3D Printed Construction Materials",
+    "summary_bullets_en": [
+      "Northumbria University in the UK has received over €250,000 from the EU's MSCA Fellowship.",
+      "The grant will support research into sustainable, low-carbon 3D printed construction materials.",
+      "Dr. Jyotirmoy Mishra will join the research team to develop geopolymer mortars from agricultural and industrial waste."
+    ],
+    "summary_bullets_cs": [
+      "Northumbria University ve Velké Británii obdržela více než 250 000 € z programu MSCA Evropské unie.",
+      "Grant podpoří výzkum udržitelných, nízkouhlíkových 3D tištěných stavebních materiálů.",
+      "Dr. Jyotirmoy Mishra se připojí k výzkumnému týmu, aby vyvinul geopolymerní malty z odpadů z zemědělství a průmyslu."
+    ],
+    "tags": [
+      "Material",
+      "Northumbria University",
+      "EU Grant",
+      "Sustainability",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Kongres USA podporuje továrny s dvojím využitím poháněné AI a 3D tiskem pro zvýšení válečné produkce",
+    "summary": "A new congressional report accompanying the U.S. House Appropriations Committee’s fiscal 2026 defense budget recommends the creation of a nationwide network of dual-use factories. Under the proposal, the U.S. Department of Defense would establish a Civil Reserve Manufacturing Network (CRMN)—a system of facilities designed to produce commercial goods during peacetime and switch to weapons during [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/1676503898690-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-06-23T17:05:18+00:00",
+    "url": "https://3dprintingindustry.com/news/u-s-congress-advances-dual-use-factories-powered-by-ai-and-3d-printing-to-boost-wartime-production-241090/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-congress-advances-dual-use-factories-powered-by-ai-and-3d-printing-to-boost-wartime-production",
+    "title_en": "U.S. Congress Advances Dual-Use Factories Powered by AI and 3D Printing to Boost Wartime Production",
+    "summary_bullets_en": [
+      "A congressional report recommends creating a nationwide network of dual-use factories.",
+      "These factories would produce commercial goods in peacetime and switch to weapons during wartime.",
+      "The U.S. Department of Defense would establish the Civil Reserve Manufacturing Network (CRMN).",
+      "The initiative aims to enhance wartime production capabilities using AI and 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Kongresová zpráva doporučuje vytvoření celostátní sítě továren s dvojím využitím.",
+      "Tyto továrny by vyráběly komerční zboží v době míru a přepnuly by na zbraně během války.",
+      "Ministerstvo obrany USA by zřídilo Civilní rezervní výrobní síť (CRMN).",
+      "Iniciativa má za cíl posílit schopnosti válečné produkce pomocí AI a 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "AI",
+      "3D Printing",
+      "U.S. Department of Defense",
+      "CRMN"
+    ]
+  },
+  {
+    "title": "Bambu Lab přepracovává bodový systém MakerWorld, aby omezil zneužívání a odměňoval kvalitu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/920635385/0/fabbaloo/default~Bambu-Lab-Overhauls-MakerWorld-Points-System-to-Curb-Abuse-and-Reward-Quality\" rel=\"nofollow\" title=\"Bambu Lab Overhauls MakerWorld Points System to Curb Abuse and Reward Quality\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/makerworld-points-cover-300x225.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Bambu Lab is making significant changes to the points system on their 3D model site, Makerworld.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920635385/0/fabbaloo/default~Bambu-Lab-Overhauls-MakerWorld-Points-System-to-Curb-Abuse-and-Reward-Quality\" rel=\"nofollow\">Bambu Lab Overhauls MakerWorld Points System to Curb Abuse and Reward Quality</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/makerworld-points-cover-300x225.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-06-23T16:33:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/920635385/0/fabbaloo/default~Bambu-Lab-Overhauls-MakerWorld-Points-System-to-Curb-Abuse-and-Reward-Quality",
+    "title_en": "Bambu Lab Overhauls MakerWorld Points System to Curb Abuse and Reward Quality",
+    "summary_bullets_en": [
+      "Bambu Lab is implementing major changes to the points system on MakerWorld.",
+      "The overhaul aims to prevent abuse and better reward quality contributions.",
+      "The new system is designed to enhance the overall user experience on the platform."
+    ],
+    "summary_bullets_cs": [
+      "Bambu Lab provádí významné změny v bodovém systému na MakerWorld.",
+      "Cílem přepracování je zabránit zneužívání a lépe odměňovat kvalitní příspěvky.",
+      "Nový systém je navržen tak, aby zlepšil celkovou uživatelskou zkušenost na platformě."
+    ],
+    "tags": [
+      "Software",
+      "Bambu Lab",
+      "MakerWorld"
+    ]
+  },
+  {
+    "title": "Neobvyklá 2,4mm tryska od Slice Engineering pro vysokoprůtokový 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/920631227/0/fabbaloo/default~Slice-Engineerings-Unusual-mm-Nozzle-for-HighFlow-D-Printing\" rel=\"nofollow\" title=\"Slice Engineering&#8217;s Unusual 2.4mm Nozzle for High-Flow 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/gammamaster-24b-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A 2.4mm FFF 3D printer nozzle? It turns out it’s much more than that.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920631227/0/fabbaloo/default~Slice-Engineerings-Unusual-mm-Nozzle-for-HighFlow-D-Printing\" rel=\"nofollow\">Slice Engineering&#8217;s Unusual 2.4mm Nozzle for High-Flow 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/gammamaster-24b-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-06-23T15:10:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/920631227/0/fabbaloo/default~Slice-Engineerings-Unusual-mm-Nozzle-for-HighFlow-D-Printing",
+    "title_en": "Slice Engineering's Unusual 2.4mm Nozzle for High-Flow 3D Printing",
+    "summary_bullets_en": [
+      "Slice Engineering has developed a unique 2.4mm nozzle for FFF 3D printers.",
+      "The nozzle is designed to enable high-flow 3D printing, allowing for faster print times.",
+      "This innovation is aimed at improving efficiency and performance in 3D printing processes."
+    ],
+    "summary_bullets_cs": [
+      "Slice Engineering vyvinula unikátní 2,4mm trysku pro FFF 3D tiskárny.",
+      "Tryska je navržena pro umožnění vysokoprůtokového 3D tisku, což zkracuje dobu tisku.",
+      "Tato inovace je zaměřena na zlepšení efektivity a výkonu v procesech 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Slice Engineering",
+      "3D Printing",
+      "Nozzle",
+      "High-Flow"
+    ]
+  },
+  {
+    "title": "Inovační laboratoř FRCE vytváří rychlé řešení pro flotilu F-35",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/frce-innovation-lab-creates-rapid-solution-for-f-35-fleet/\" target=\"_blank\">FRCE Innovation Lab Creates Rapid Solution for F-35 Fleet</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 23</span></div><div><img alt=\"FRCE Innovation Lab Creates Rapid Solution for F-35 Fleet\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/6487984-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/6487984-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-06-23T15:01:00+00:00",
+    "url": "https://3dprinting.com/news/frce-innovation-lab-creates-rapid-solution-for-f-35-fleet/",
+    "title_en": "FRCE Innovation Lab Creates Rapid Solution for F-35 Fleet",
+    "summary_bullets_en": [
+      "The FRCE Innovation Lab has developed a quick solution for the F-35 fleet using 3D printing technology.",
+      "This innovation addresses a specific maintenance issue, enhancing the operational readiness of the aircraft.",
+      "The use of 3D printing allows for rapid prototyping and production, reducing downtime for the fleet."
+    ],
+    "summary_bullets_cs": [
+      "Inovační laboratoř FRCE vyvinula rychlé řešení pro flotilu F-35 pomocí technologie 3D tisku.",
+      "Tato inovace řeší specifický problém údržby, čímž zvyšuje provozní připravenost letadel.",
+      "Použití 3D tisku umožňuje rychlou prototypizaci a výrobu, což snižuje prostoje flotily."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "FRCE",
+      "F-35"
+    ]
+  },
+  {
+    "title": "Nová omezení 3D tisku na Etsy: Co potřebují prodejci vědět",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/etsys-new-3d-printing-restrictions-what-sellers-need-to-know/\" target=\"_blank\">Etsy&#8217;s New 3D Printing Restrictions: What Sellers Need to Know</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 23</span></div><div><img alt=\"\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"256\" src=\"https://3dprinting.com/wp-content/uploads/Etsy_logo-1-500x256.png\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/Etsy_logo-1-500x256.png",
+    "source": "3DPrinting.com",
+    "published": "2025-06-23T14:53:22+00:00",
+    "url": "https://3dprinting.com/news/etsys-new-3d-printing-restrictions-what-sellers-need-to-know/",
+    "title_en": "Etsy’s New 3D Printing Restrictions: What Sellers Need to Know",
+    "summary_bullets_en": [
+      "Etsy has introduced new restrictions on 3D printed items sold on its platform.",
+      "Sellers must now provide detailed information about the 3D printing process and materials used.",
+      "The changes aim to ensure transparency and maintain quality standards for buyers."
+    ],
+    "summary_bullets_cs": [
+      "Etsy zavedlo nová omezení pro 3D tištěné předměty prodávané na své platformě.",
+      "Prodejci nyní musí poskytnout podrobné informace o procesu 3D tisku a použitých materiálech.",
+      "Změny mají za cíl zajistit transparentnost a udržet standardy kvality pro kupující."
+    ],
+    "tags": [
+      "Services",
+      "Etsy",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Nahradí giga farmy stolních FFF 3D tiskáren tiskárny na bázi prášku?",
+    "summary": "3DP War Journal #51",
+    "image": "https://substackcdn.com/image/fetch/$s_!OEpa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F653cae2c-a088-445d-a511-a4cf89367578_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-06-23T14:03:21+00:00",
+    "url": "https://www.3dprintingjournal.com/p/will-powder-based-3d-printers-be",
+    "title_en": "Will powder-based 3D printers be replaced by giga farms of desktop FFF 3D printers",
+    "summary_bullets_en": [
+      "The article discusses the potential shift from powder-based 3D printing technology to large-scale farms of desktop FFF (Fused Filament Fabrication) 3D printers.",
+      "It examines the advantages and disadvantages of both technologies, including cost, scalability, and material versatility.",
+      "The article highlights the growing trend of using desktop FFF printers in industrial applications due to their flexibility and lower operational costs.",
+      "Industry experts weigh in on whether desktop FFF printer farms could eventually replace traditional powder-based systems."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá možným přechodem od technologie 3D tisku na bázi prášku k velkým farmám stolních FFF (Fused Filament Fabrication) 3D tiskáren.",
+      "Zkoumá výhody a nevýhody obou technologií, včetně nákladů, škálovatelnosti a všestrannosti materiálů."
+    ],
+    "tags": [
+      "Hardware",
+      "FFF",
+      "Powder-based",
+      "3D Printing",
+      "Industrial Applications"
+    ]
+  },
+  {
+    "title": "Zellerfeld a Sean Wotherspoon představují 3D tištěné tenisky a pantofle",
+    "summary": "In a year already filled with headline-making partnerships, 3D printing startup Zellerfeld has now teamed up with one of the biggest names in sneaker culture: Sean Wotherspoon. Known for his...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/06/Product-SW-Sneaker-Collage-1.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-23T13:30:08+00:00",
+    "url": "https://3dprint.com/318868/zellerfeld-and-sean-wotherspoon-drop-3d-printed-sneaker-and-mule/",
+    "title_en": "Zellerfeld and Sean Wotherspoon Drop 3D Printed Sneaker and Mule",
+    "summary_bullets_en": [
+      "Zellerfeld, a 3D printing startup, collaborates with sneaker culture icon Sean Wotherspoon.",
+      "The partnership introduces a new line of 3D printed sneakers and mules.",
+      "This collaboration is part of a series of high-profile partnerships for Zellerfeld this year."
+    ],
+    "summary_bullets_cs": [
+      "Startup Zellerfeld pro 3D tisk spolupracuje s ikonou sneaker kultury Seanem Wotherspoonem.",
+      "Partnerství představuje novou řadu 3D tištěných tenisek a pantoflí.",
+      "Tato spolupráce je součástí série významných partnerství pro Zellerfeld v tomto roce."
+    ],
+    "tags": [
+      "Hardware",
+      "Zellerfeld",
+      "Sean Wotherspoon",
+      "3D Printing",
+      "Sneakers"
+    ]
+  },
+  {
+    "title": "Nový plugin pro FreeCAD od Rahixe přidává optimalizované funkce pro FFF 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/920625446/0/fabbaloo/default~New-FreeCAD-Plugin-by-Rahix-Adds-Optimized-FFF-D-Printing-Features\" rel=\"nofollow\" title=\"New FreeCAD Plugin by Rahix Adds Optimized FFF 3D Printing Features\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/fusedfilamentaddon-cover-300x142.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Do you use FreeCAD? There’s a plugin you definitely should install.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/920625446/0/fabbaloo/default~New-FreeCAD-Plugin-by-Rahix-Adds-Optimized-FFF-D-Printing-Features\" rel=\"nofollow\">New FreeCAD Plugin by Rahix Adds Optimized FFF 3D Printing Features</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/fusedfilamentaddon-cover-300x142.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-06-23T13:10:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/920625446/0/fabbaloo/default~New-FreeCAD-Plugin-by-Rahix-Adds-Optimized-FFF-D-Printing-Features",
+    "title_en": "New FreeCAD Plugin by Rahix Adds Optimized FFF 3D Printing Features",
+    "summary_bullets_en": [
+      "A new plugin for FreeCAD by Rahix enhances FFF 3D printing capabilities.",
+      "The plugin offers optimized features specifically for FFF 3D printing.",
+      "FreeCAD users are encouraged to install this plugin for improved printing results."
+    ],
+    "summary_bullets_cs": [
+      "Nový plugin pro FreeCAD od Rahixe zlepšuje možnosti FFF 3D tisku.",
+      "Plugin nabízí optimalizované funkce speciálně pro FFF 3D tisk.",
+      "Uživatelé FreeCADu jsou vyzýváni k instalaci tohoto pluginu pro lepší výsledky tisku."
+    ],
+    "tags": [
+      "Software",
+      "FreeCAD",
+      "Rahix",
+      "3D Printing",
+      "FFF"
+    ]
+  },
+  {
+    "title": "Vinmec provádí totální náhradu stehenní kosti u dětí ve Vietnamu pomocí personalizovaného implantátu",
+    "summary": "Vietnamese hospital network Vinmec has completed a Total Femoral Replacement surgery on a pediatric patient. Using a 3D printed personalized implant, the eight-year-old patient&#8217;s osteosarcoma was treated. The modular implant...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/06/Anh-EIN2-1024x536.png",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-23T13:00:49+00:00",
+    "url": "https://3dprint.com/318826/vinmec-does-pediatric-total-femoral-replacement-in-vietnam-using-personalized-implant/",
+    "title_en": "Vinmec Performs Pediatric Total Femoral Replacement in Vietnam Using Personalized Implant",
+    "summary_bullets_en": [
+      "Vinmec hospital network in Vietnam successfully conducted a Total Femoral Replacement surgery on a pediatric patient.",
+      "The surgery involved the use of a 3D printed personalized implant.",
+      "The procedure was performed to treat an eight-year-old patient with osteosarcoma."
+    ],
+    "summary_bullets_cs": [
+      "Síť nemocnic Vinmec ve Vietnamu úspěšně provedla operaci totální náhrady stehenní kosti u dětského pacienta.",
+      "Operace zahrnovala použití 3D tištěného personalizovaného implantátu.",
+      "Zákrok byl proveden k léčbě osmiletého pacienta s osteosarkomem."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Vinmec",
+      "Medical",
+      "Pediatric Surgery",
+      "Personalized Implant"
+    ]
+  },
+  {
+    "title": "CEO PostProcess o tom, proč nelze dále ignorovat „špinavé tajemství“ 3D tisku",
+    "summary": "If you&#8217;ve ever peeked behind the scenes of a 3D printing lab, you might have caught a glimpse of the post-processing room; maybe it&#8217;s messy, maybe hidden behind a mysterious...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/06/Jeff-Mize-PostProcess.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-06-23T12:30:28+00:00",
+    "url": "https://3dprint.com/318731/postprocess-ceo-on-why-the-dirty-little-secret-of-3d-printing-cant-be-ignored-anymore/",
+    "title_en": "PostProcess CEO on Why the “Dirty Little Secret” of 3D Printing Can’t Be Ignored Anymore",
+    "summary_bullets_en": [
+      "Post-processing in 3D printing is often overlooked but is crucial for achieving high-quality results.",
+      "The CEO of PostProcess highlights the importance of addressing the challenges in post-processing to improve efficiency and output.",
+      "Many 3D printing labs have messy or hidden post-processing areas, indicating a need for better solutions.",
+      "Ignoring post-processing can lead to inefficiencies and lower quality in 3D printed products."
+    ],
+    "summary_bullets_cs": [
+      "Post-processing v 3D tisku je často přehlížen, ale je klíčový pro dosažení vysoké kvality výsledků.",
+      "CEO PostProcess zdůrazňuje důležitost řešení výzev v post-processingu pro zlepšení efektivity a výstupu.",
+      "Mnoho laboratoří pro 3D tisk má nepořádné nebo skryté oblasti post-processingu, což naznačuje potřebu lepších řešení.",
+      "Ignorování post-processingu může vést k neefektivnosti a nižší kvalitě 3D tištěných produktů."
+    ],
+    "tags": [
+      "Hardware",
+      "PostProcess",
+      "3D Printing",
+      "Efficiency",
+      "Quality"
+    ]
+  },
+  {
     "title": "3DPOD 259: AM ve Stratasys s Richem Garritym, hlavním obchodním ředitelem",
     "summary": "Rich Garrity is the Chief Business Officer of Stratasys. Rich shares Stratasys´ vision and future with us. We talk about machines, applications, clients, and the market in general. What technologies...",
     "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
