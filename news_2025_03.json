@@ -1,0 +1,78 @@
+[
+  {
+    "title": "3D tisk z oceli: Jak dosáhnout dokonalého 3D tisku z oceli",
+    "summary": "Being able to get a print in real, solid steel is one of the coolest things 3D printing has to offer. However, we get quite a few questions about the look and feel of this material. In this article, we want to explain to you how steel 3D printing works, what color and finishing options you can choose from, and how you need to prepare your 3D design to get a great steel print! The material and technology: it’s all about steel powder The technology behind our 3D-printed steel is known as indirect metal printing. This technique builds the model from a fine steel powder that is glued together — layer by layer, bottom to top. In contrast to this, some other metals, such as Titanium or Aluminum, are printed directly in a process called direct metal laser sintering (DMLS) and don’t use a binding agent. In our steel 3D printers, a razor-sharp layer of steel powder is spread out. The printer head then moves back and forth over this layer and deposits the binding agent at specific points. These locations will later become the solid 3D print. Everything that isn’t touched by the binding agent will remain loose steel powder. Once a layer is finished and has been dried with the powerful overhead heaters, a new layer of powder is spread, and the process begins again. This way, layer by layer, from the bottom to top, a 3D print in steel is created. With this technology, we can produce parts up to a maximum size of 762 x 393 x 393 mm. Once the printing process is done, the steel part is placed in a curing oven where it is sintered. After the removal of excess power, the print is in its “green state” and remains quite fragile. With the help of a flute system, the binding agent is replaced with a bronze infusion. That’s why the chemical composition of the final 3D-printed product is around 60% steel and 40% bronze, with a density of 7.86 g/cm³. After this step, the part finally becomes a solid and strong metal object. The flutes are then removed manually and the print is tumbled and polished for a smooth finish. &#160; The finish: choose from an extensive selection When using our 3D printing service, users can choose from seven different polishing and plating options. Polished Steel is available in Polished Natural (1), Polished Gold-Plated (2), Polished Black (3), and Polished Brown (4) options. When the material is polished, unpolished (unreachable) spots, such as tiny holes, will stay darker than the polished surfaces, while the polished surface will be shinier and smoother. The gold finish is achieved with an electroless plating process. Unpolished Steel is available in Unpolished Natural (5), Unpolished Gold-Plated (6), and Unpolished Black (7). If you need metal parts with a higher accuracy, Titanium and Aluminum, are suitable choices. If you are interested in getting metal prints with very smooth surfaces you should take a look at Brass, Bronze, Silver, Gold, and Copper. Design rules for steel 3D prints Like any 3D printing material, steel also comes with some specific design rules. Taking these rules into account when creating your 3D model will ensure that your design will be perfectly printable, especially when it comes to wall thickness, edges, and transitions. Choosing the right minimum wall thickness In 3D printing, wall thickness refers to the distance between one surface of your model and the opposite sheer surface. The recommended thickness of the walls heavily depends on the size of your model. Minimum wall thickness increases if the overall size of your model increases. You can consult the chart with the minimum requirements for walls with different ranges of X, Y, or Z dimensions. You will see that small models, such as rings, can have a minimum wall thickness of 1 mm if they are well-supported. Medium-sized objects can have walls between 1.5 mm and 2 mm. For larger models, we highly recommend a wall thickness of at least 3 mm. Choosing the right wall thickness will make your model much stronger, but there is still a risk that fragile parts could break off. That’s why overhanging parts and unsupported elements need additional stability and require a thickness of 6 mm. Edges and transitions To make your model printable, it is important that the wall thicknesses and transitions in your design are even — avoiding sharp edges and enabling smooth transitions is key. Areas that have different thicknesses will heat (expand) and cool (contract) at different rates during and after the infusion phase. Therefore, wall thickness needs to be kept as uniform as possible to minimize the chance of cracking. You can fillet or round sharp corners in accordance with the minimum wall thickness chart to accommodate this in the best possible way. Besides these two rules, we always encourage users to read our design guide for steel 3D printing, which includes further information about issues like hollowing your model, engraving text, or accuracy and shrinkage. Examples of 3D-printed steel objects 3D printing in steel and other metals is a great option, and not just for industrial parts. Have a look at these amazing prints in steel. Luckybone Belt Buckle by Kord Averdunk &#124; 3D printed in Polished Natural Steel Polygons Bracelet by Eike Schling &#124; 3D printed in Polished Brown Steel Ready to give it a try yourself? Upload your 3D model here and get a quote for a high-quality 3D print in real steel in seconds!",
+    "image": "https://i.materialise.com/blog/wp-content/uploads/2016/12/3d-printing-steel-finishes-and-polishing.png",
+    "source": "3D Printing Blog | i.materialise",
+    "published": "2025-03-21T10:28:02+00:00",
+    "url": "https://i.materialise.com/blog/en/3d-printing-in-steel/",
+    "title_en": "3D Printing In Steel: How To Get The Perfect Steel 3D Print",
+    "summary_bullets_en": [
+      "Steel 3D printing uses indirect metal printing with a fine steel powder and a binding agent.",
+      "The process involves layering steel powder, applying a binding agent, and sintering to create a solid object.",
+      "Various finishing options are available, including polished and unpolished surfaces in different colors.",
+      "Design rules such as wall thickness and smooth transitions are crucial for successful steel 3D prints."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk z oceli využívá nepřímý kovový tisk s jemným ocelovým práškem a pojivem.",
+      "Proces zahrnuje vrstvení ocelového prášku, aplikaci pojiva a sintrování pro vytvoření pevného objektu.",
+      "K dispozici jsou různé možnosti povrchové úpravy, včetně leštěných a neleštěných povrchů v různých barvách.",
+      "Pro úspěšný 3D tisk z oceli jsou klíčová pravidla návrhu, jako je tloušťka stěn a hladké přechody."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Steel",
+      "Design",
+      "Finishing"
+    ]
+  },
+  {
+    "title": "Legenda 3D tisku se vrací až 4× rychlejší",
+    "summary": "Co umí zbrusu nový UltiMaker S8 • Přichází trojice přesných 3D skenerů řady FreeScan • Zveme vás na čerstvé novinky z 3D tisku a 3D skenování.",
+    "image": "https://admasys.cz/wp-content/uploads/2025/03/ultimaker-s8-dvojice-s-vytiskem-4x3-1-768x576.jpg",
+    "source": "ADMASYS CZ",
+    "published": "2025-03-11T09:55:56+00:00",
+    "url": "https://admasys.cz/zpravodaj-3d-trendy-novinky-3d-tisk-skenovani-2503/",
+    "title_en": "The Legend of 3D Printing Returns Up to 4× Faster",
+    "summary_bullets_en": [
+      "Introducing the brand new UltiMaker S8 with enhanced speed.",
+      "A new trio of precise 3D scanners from the FreeScan series is arriving.",
+      "Stay updated with the latest innovations in 3D printing and scanning."
+    ],
+    "summary_bullets_cs": [
+      "Představujeme zbrusu nový UltiMaker S8 s vyšší rychlostí.",
+      "Přichází trojice přesných 3D skenerů řady FreeScan.",
+      "Sledujte nejnovější inovace v 3D tisku a skenování."
+    ],
+    "tags": [
+      "Hardware",
+      "UltiMaker",
+      "FreeScan"
+    ]
+  },
+  {
+    "title": "Nový UltiMaker S8 přichází s bleskovou rychlostí 3D tisku",
+    "summary": "Volali jste po vyšší rychlosti, tady je! Ale současně v kvalitě a s funkcemi pro vás profesionály. To vše v tiskárně navržené i postavené v Evropě.",
+    "image": "https://admasys.cz/wp-content/uploads/2025/03/ultimaker-s8-farma-s-f4-4x3-1-768x576.jpg",
+    "source": "ADMASYS CZ",
+    "published": "2025-03-11T09:00:05+00:00",
+    "url": "https://admasys.cz/novy-ultimaker-s8-bleskova-rychlost-3d-tisku/",
+    "title_en": "New UltiMaker S8 Arrives with Lightning-Fast 3D Printing",
+    "summary_bullets_en": [
+      "The UltiMaker S8 offers significantly increased printing speed.",
+      "Maintains high-quality output and features for professional use.",
+      "Designed and manufactured in Europe."
+    ],
+    "summary_bullets_cs": [
+      "UltiMaker S8 nabízí výrazně zvýšenou rychlost tisku.",
+      "Zachovává vysokou kvalitu výstupu a funkce pro profesionální použití.",
+      "Navrženo a vyrobeno v Evropě."
+    ],
+    "tags": [
+      "Hardware",
+      "UltiMaker"
+    ]
+  }
+]
