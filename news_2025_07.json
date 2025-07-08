@@ -1,5 +1,132 @@
 [
   {
+    "title": "3DPOD 261: Nástroje a chlazení pro aditivní výrobu s Jasonem Murphym, NXC MFG",
+    "summary": "Jason Murphy´s NXC MFG (Next Chapter Manufacturing) is not a generalist service; instead, the company specializes in making tooling. Using LPBF and binder jet, the company produces some of the...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-07-08T12:00:10+00:00",
+    "url": "https://3dprint.com/318921/3dpod-261-tooling-and-cooling-for-am-with-jason-murphy-nxc-mfg/",
+    "title_en": "3DPOD 261: Tooling and Cooling for AM with Jason Murphy, NXC MFG",
+    "summary_bullets_en": [
+      "NXC MFG specializes in producing tooling using LPBF and binder jet technologies.",
+      "The company focuses on advanced manufacturing techniques rather than generalist services.",
+      "Jason Murphy discusses the importance of cooling in additive manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "NXC MFG se specializuje na výrobu nástrojů pomocí technologií LPBF a binder jet.",
+      "Společnost se zaměřuje na pokročilé výrobní techniky místo obecných služeb.",
+      "Jason Murphy diskutuje o důležitosti chlazení v procesech aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "NXC MFG",
+      "LPBF",
+      "Binder Jet"
+    ]
+  },
+  {
+    "title": "Léčení ve 3D: Jak tiskárny Ricoh nyní zachraňují životy",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/921353468/0/fabbaloo/default~Healing-in-D-How-Ricoh%e2%80%99s-Printers-Are-Now-Saving-Lives\" rel=\"nofollow\" title=\"Healing in 3D: How Ricoh’s Printers Are Now Saving Lives\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/06/Ricoh-1-300x104.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Preeti Sulibhavi and Jacob Nolan spotlight Ricoh’s leap into 3D printing and how it is reshaping healthcare with personalized surgical planning, in-hospital innovation studios, and groundbreaking clinical partnerships.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/921353468/0/fabbaloo/default~Healing-in-D-How-Ricoh%e2%80%99s-Printers-Are-Now-Saving-Lives\" rel=\"nofollow\">Healing in 3D: How Ricoh’s Printers Are Now Saving Lives</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/06/Ricoh-1-300x104.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-08T11:33:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/921353468/0/fabbaloo/default~Healing-in-D-How-Ricoh%e2%80%99s-Printers-Are-Now-Saving-Lives",
+    "title_en": "Healing in 3D: How Ricoh’s Printers Are Now Saving Lives",
+    "summary_bullets_en": [
+      "Ricoh has entered the 3D printing space, focusing on healthcare applications.",
+      "Their technology enables personalized surgical planning and in-hospital innovation studios.",
+      "Ricoh is forming groundbreaking clinical partnerships to advance medical treatments."
+    ],
+    "summary_bullets_cs": [
+      "Ricoh vstoupil do oblasti 3D tisku se zaměřením na zdravotnické aplikace.",
+      "Jejich technologie umožňuje personalizované plánování operací a inovační studia v nemocnicích.",
+      "Ricoh vytváří průlomová klinická partnerství pro pokrok v lékařských ošetřeních."
+    ],
+    "tags": [
+      "Hardware",
+      "Ricoh",
+      "Healthcare",
+      "3D Printing",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Americké námořnictvo načrtává rozšíření aditivní výroby s AML3D v dopise o záměru",
+    "summary": "AML3D, an Australian metal additive manufacturing company, has received a Letter of Intent dated June 27, 2025, from the United States Navy detailing a proposed collaboration to expand 3D printing across the Maritime Industrial Base. The document forecasts procurement of approximately 1,600 additively manufactured components annually by 2030 and plans for the installation of up [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2023/06/Typical-ARCEMY-metal-3D-printing-system.-Image-via-AML3D-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-07-08T10:42:31+00:00",
+    "url": "https://3dprintingindustry.com/news/us-navy-outlines-additive-manufacturing-expansion-with-aml3d-in-letter-of-intent-241563/?utm_source=rss&utm_medium=rss&utm_campaign=us-navy-outlines-additive-manufacturing-expansion-with-aml3d-in-letter-of-intent",
+    "title_en": "US Navy outlines additive manufacturing expansion with AML3D in Letter of Intent",
+    "summary_bullets_en": [
+      "AML3D, an Australian metal additive manufacturing company, has received a Letter of Intent from the US Navy.",
+      "The collaboration aims to expand 3D printing across the Maritime Industrial Base.",
+      "The document forecasts the procurement of approximately 1,600 additively manufactured components annually by 2030."
+    ],
+    "summary_bullets_cs": [
+      "AML3D, australská společnost zabývající se kovovou aditivní výrobou, obdržela dopis o záměru od amerického námořnictva.",
+      "Spolupráce má za cíl rozšířit 3D tisk v rámci námořní průmyslové základny.",
+      "Dokument předpovídá nákup přibližně 1 600 aditivně vyráběných komponentů ročně do roku 2030."
+    ],
+    "tags": [
+      "Hardware",
+      "AML3D",
+      "US Navy",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Turecké společnosti testují 3D tištěné komponenty pro obrněná vozidla",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/turkish-companies-test-3d-printed-component-for-armored-vehicles/\" target=\"_blank\">Turkish Companies Test 3D Printed Component for Armored Vehicles</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 8</span></div><div><img alt=\"Turkish Companies Test 3D Printed Component for Armored Vehicles\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"350\" src=\"https://3dprinting.com/wp-content/uploads/638797497-500x350.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/638797497-500x350.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-08T09:00:21+00:00",
+    "url": "https://3dprinting.com/news/turkish-companies-test-3d-printed-component-for-armored-vehicles/",
+    "title_en": "Turkish Companies Test 3D Printed Component for Armored Vehicles",
+    "summary_bullets_en": [
+      "Turkish companies are experimenting with 3D printed components for use in armored vehicles.",
+      "The initiative aims to enhance the performance and reduce the weight of military vehicles.",
+      "3D printing technology is being explored for its potential to streamline production processes and improve design flexibility."
+    ],
+    "summary_bullets_cs": [
+      "Turecké společnosti experimentují s 3D tištěnými komponenty pro použití v obrněných vozidlech.",
+      "Iniciativa má za cíl zlepšit výkon a snížit hmotnost vojenských vozidel.",
+      "Technologie 3D tisku je zkoumána pro svůj potenciál zjednodušit výrobní procesy a zlepšit flexibilitu designu."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Military Vehicles",
+      "Turkish Companies"
+    ]
+  },
+  {
+    "title": "Spin-off z McGill využívá 3D biotisk k vytváření nádorů pro chytřejší léčbu rakoviny",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/mcgill-spinout-uses-3d-bioprinting-to-create-tumors-for-smarter-cancer-treatments/\" target=\"_blank\">McGill Spinout Uses 3D Bioprinting to Create Tumors for Smarter Cancer Treatments</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 8</span></div><div><img alt=\"McGill Spinout Uses 3D Bioprinting to Create Tumors for Smarter Cancer Treatments\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/6497984-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/6497984-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-08T07:00:18+00:00",
+    "url": "https://3dprinting.com/news/mcgill-spinout-uses-3d-bioprinting-to-create-tumors-for-smarter-cancer-treatments/",
+    "title_en": "McGill Spinout Uses 3D Bioprinting to Create Tumors for Smarter Cancer Treatments",
+    "summary_bullets_en": [
+      "A spinout from McGill University is utilizing 3D bioprinting technology to create realistic tumor models.",
+      "These bioprinted tumors aim to improve the development of cancer treatments by providing more accurate testing environments.",
+      "The technology allows researchers to better understand tumor behavior and test the efficacy of new drugs."
+    ],
+    "summary_bullets_cs": [
+      "Spin-off z McGill University využívá technologii 3D biotisku k vytváření realistických modelů nádorů.",
+      "Tyto biotištěné nádory mají za cíl zlepšit vývoj léčby rakoviny tím, že poskytují přesnější testovací prostředí.",
+      "Technologie umožňuje výzkumníkům lépe porozumět chování nádorů a testovat účinnost nových léků."
+    ],
+    "tags": [
+      "Hardware",
+      "Bioprinting",
+      "Cancer Research",
+      "McGill University"
+    ]
+  },
+  {
     "title": "YouTuber varuje před podvodem s Bambu Lab",
     "summary": "A coordinated online scam is targeting consumers in the 3D printing community by impersonating the 3D printing manufacturer Bambu Lab. The scheme involves fraudulent websites and deceptive social media advertisements designed to replicate the company’s official online presence. These tactics have misled buyers and, in several reported cases, resulted in financial losses. The Nature of [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/03/8-The-Bambu-Lab-H2Ds-digital-cutter.-Image-via-Bambu-Lab-150x100.jpg",
