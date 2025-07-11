@@ -1,5 +1,82 @@
 [
   {
+    "title": "Havaianas spolupracuje se Zellerfeldem na uvedení 3D tištěných žabek",
+    "summary": "The shoe of the summer is undoubtedly the flip-flop. Easy on, easy off, your feet won&#8217;t get sweaty because there&#8217;s not much material, and they&#8217;re available in a veritable rainbow...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/4148914-slim-square-trendy-0555-5.avif",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-07-11T13:30:52+00:00",
+    "url": "https://3dprint.com/319298/havaianas-zellerfeld-3d-printed-flip-flops/",
+    "title_en": "Havaianas Collaborates with Zellerfeld to Launch 3D Printed Flip-Flops",
+    "summary_bullets_en": [
+      "Havaianas partners with Zellerfeld to create 3D printed flip-flops.",
+      "The collaboration aims to revolutionize summer footwear with innovative design.",
+      "3D printing technology allows for customizable and sustainable flip-flops."
+    ],
+    "summary_bullets_cs": [
+      "Havaianas se spojila se Zellerfeldem pro vytvoření 3D tištěných žabek.",
+      "Spolupráce má za cíl revoluci v letní obuvi díky inovativnímu designu.",
+      "Technologie 3D tisku umožňuje přizpůsobitelné a udržitelné žabky."
+    ],
+    "tags": [
+      "Hardware",
+      "Havaianas",
+      "Zellerfeld",
+      "3D Printing",
+      "Footwear"
+    ]
+  },
+  {
+    "title": "Výzkumníci vyvinuli Atomizer: Neplánární metoda řezání pro zlepšení rychlosti a kvality tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/921511283/0/fabbaloo/default~Researchers-Develop-Atomizer-A-Nonplanar-Slicing-Method-to-Improve-Speed-and-Print-Quality\" rel=\"nofollow\" title=\"Researchers Develop Atomizer: A Nonplanar Slicing Method to Improve Speed and Print Quality\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/atomizer-cover-300x179.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new research paper describes a nonplanar hardware and software slicing system.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/921511283/0/fabbaloo/default~Researchers-Develop-Atomizer-A-Nonplanar-Slicing-Method-to-Improve-Speed-and-Print-Quality\" rel=\"nofollow\">Researchers Develop Atomizer: A Nonplanar Slicing Method to Improve Speed and Print Quality</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/atomizer-cover-300x179.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-11T13:15:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/921511283/0/fabbaloo/default~Researchers-Develop-Atomizer-A-Nonplanar-Slicing-Method-to-Improve-Speed-and-Print-Quality",
+    "title_en": "Researchers Develop Atomizer: A Nonplanar Slicing Method to Improve Speed and Print Quality",
+    "summary_bullets_en": [
+      "A new research paper introduces a nonplanar slicing system called Atomizer.",
+      "The Atomizer system includes both hardware and software components.",
+      "This method aims to enhance the speed and quality of 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Nový výzkumný článek představuje neplánární systém řezání nazvaný Atomizer.",
+      "Systém Atomizer zahrnuje jak hardwarové, tak softwarové komponenty.",
+      "Tato metoda má za cíl zlepšit rychlost a kvalitu 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "3D Printing",
+      "Atomizer"
+    ]
+  },
+  {
+    "title": "Datové duny, sny o AI: Investiční hádanka aditivní výroby",
+    "summary": "Remember Villeneuve&#8217;s Dune? The pursuit of rare and powerful spice (&#8220;venture alpha&#8220;) brought heroes into deserts hiding sandworms and shifting dangers (for those unfamiliar, think of a high-stakes quest through...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/twa.png",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-07-11T13:00:20+00:00",
+    "url": "https://3dprint.com/319116/data-dunes-ai-dreams-additive-manufacturings-investment-puzzle/",
+    "title_en": "Data Dunes, AI Dreams: Additive Manufacturing’s Investment Puzzle",
+    "summary_bullets_en": [
+      "The article draws a parallel between the pursuit of venture capital in additive manufacturing and the quest for spice in the movie Dune.",
+      "It discusses the challenges and opportunities in securing investments for AI-driven 3D printing technologies.",
+      "The piece highlights the potential of AI to revolutionize the industry, despite the inherent risks and uncertainties."
+    ],
+    "summary_bullets_cs": [
+      "Článek přirovnává honbu za rizikovým kapitálem v aditivní výrobě k hledání koření ve filmu Duna.",
+      "Diskutuje o výzvách a příležitostech při získávání investic pro technologie 3D tisku řízené umělou inteligencí.",
+      "Text zdůrazňuje potenciál AI k revoluci v průmyslu, navzdory inherentním rizikům a nejistotám."
+    ],
+    "tags": [
+      "Hardware",
+      "AI",
+      "3D Printing",
+      "Investment",
+      "Venture Capital"
+    ]
+  },
+  {
     "title": "Americké námořnictvo signalizuje další rozvoj kovového 3D tisku, oslovuje AML3D v novém LOI",
     "summary": "In the government contracting process, public sector agencies often issue a letter of intent (LOI) in the lead-up to forging formal deals with specific companies for future delivery of goods...",
     "image": "https://3dprint.com/wp-content/uploads/2025/07/IMG_1777.png",
