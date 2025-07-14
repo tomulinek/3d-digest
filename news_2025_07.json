@@ -1,5 +1,267 @@
 [
   {
+    "title": "3DPOD 262: Bio-inspirovaný design pro aditivní výrobu s Dhruvem Bhate, Arizona State University",
+    "summary": "Dhruv Bhate is an associate professor at Arizona State University. There, he looks at structures, materials, and design. Previously, he worked at PADT as well as in the semiconductor and...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-07-14T12:00:08+00:00",
+    "url": "https://3dprint.com/319011/3dpod-262-bio-inspired-design-for-am-with-dhruv-bhate-arizona-state-university/",
+    "title_en": "3DPOD 262: Bio-inspired Design for AM with Dhruv Bhate, Arizona State University",
+    "summary_bullets_en": [
+      "Dhruv Bhate is an associate professor at Arizona State University focusing on structures, materials, and design.",
+      "He has previous experience working at PADT and in the semiconductor industry.",
+      "His work involves bio-inspired design for additive manufacturing (AM).",
+      "The podcast discusses the intersection of biology and engineering in 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Dhruv Bhate je docent na Arizona State University, kde se zaměřuje na struktury, materiály a design.",
+      "Dříve pracoval ve společnosti PADT a v polovodičovém průmyslu.",
+      "Jeho práce zahrnuje bio-inspirovaný design pro aditivní výrobu.",
+      "Podcast se zabývá propojením biologie a inženýrství v 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Arizona State University",
+      "Bio-inspired Design",
+      "Additive Manufacturing",
+      "PADT"
+    ]
+  },
+  {
+    "title": "Design týdne: Ventilátor poháněný setrvačníkem na stlačení",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/921636503/0/fabbaloo/default~Design-of-the-Week-Squeeze-Powered-Flywheel-Fan\" rel=\"nofollow\" title=\"Design of the Week: Squeeze Powered Flywheel Fan\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/squeeze-fan-cover-300x194.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>This week’s selection is the Squeeze Powered Flywheel Fan by Printables contributor MrHegger.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/921636503/0/fabbaloo/default~Design-of-the-Week-Squeeze-Powered-Flywheel-Fan\" rel=\"nofollow\">Design of the Week: Squeeze Powered Flywheel Fan</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/squeeze-fan-cover-300x194.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-07-14T11:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/921636503/0/fabbaloo/default~Design-of-the-Week-Squeeze-Powered-Flywheel-Fan",
+    "title_en": "Design of the Week: Squeeze Powered Flywheel Fan",
+    "summary_bullets_en": [
+      "This week's featured design is the Squeeze Powered Flywheel Fan.",
+      "The design was created by Printables contributor MrHegger.",
+      "The fan operates using a flywheel mechanism powered by squeezing."
+    ],
+    "summary_bullets_cs": [
+      "Tento týden je vybraným designem ventilátor poháněný setrvačníkem na stlačení.",
+      "Design vytvořil přispěvatel Printables, MrHegger.",
+      "Ventilátor funguje pomocí mechanismu setrvačníku poháněného stlačením."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Design",
+      "Printables",
+      "MrHegger"
+    ]
+  },
+  {
+    "title": "14.07.2015: Modernist Cuisine Lab se spojil s 3D Systems, aby vytvořili jedlý model Versailleského paláce pomocí technologie 3D tisku z cukru",
+    "summary": "The project was handled by a division of the company called 3D Systems Culinary",
+    "image": "https://substackcdn.com/image/fetch/$s_!nj8N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a559ef2-91c7-442b-81ba-f5cc7d1c60f6_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-07-14T10:16:12+00:00",
+    "url": "https://www.3dprintingjournal.com/p/07-14-2015-modernist-cuisine-lab",
+    "title_en": "07-14-2015: Modernist Cuisine Lab has teamed up with 3D Systems to create an edible Palace of Versailles using sugar 3D printing technology",
+    "summary_bullets_en": [
+      "Modernist Cuisine Lab collaborated with 3D Systems to create an edible model of the Palace of Versailles.",
+      "The project utilized sugar 3D printing technology.",
+      "3D Systems Culinary, a division of 3D Systems, managed the project."
+    ],
+    "summary_bullets_cs": [
+      "Modernist Cuisine Lab spolupracoval s 3D Systems na vytvoření jedlého modelu Versailleského paláce.",
+      "Projekt využíval technologii 3D tisku z cukru.",
+      "Projekt řídila divize 3D Systems Culinary."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Systems",
+      "Material",
+      "Services",
+      "Modernist Cuisine Lab"
+    ]
+  },
+  {
+    "title": "[ROZHOVOR] 3D tisk vojenského vybavení s flexibilními vlákny od Recreus",
+    "summary": "G-Tac Defense/Industry is harnessing filaments from Spanish materials developer Recreus in its defence and industrial manufacturing operations. The French 3D printing service provider began using Recreus’ Filaflex materials in 2021. Today, it relies on the ultra-flexible thermoplastic feedstocks to fabricate a wide range of goods, from drone parts and specialized military gear to factory safety [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/Recreus-Filaflex-Foamy-and-Filaflex-82A-filament-and-3D-printed-parts.-Photo-by-3D-Printing-Industry-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-14T10:12:43+00:00",
+    "url": "https://3dprintingindustry.com/news/interview-3d-printing-military-equipment-with-recreus-flexible-filaments-241787/?utm_source=rss&utm_medium=rss&utm_campaign=interview-3d-printing-military-equipment-with-recreus-flexible-filaments",
+    "title_en": "[INTERVIEW] 3D Printing Military Equipment with Recreus’ Flexible Filaments",
+    "summary_bullets_en": [
+      "G-Tac Defense/Industry utilizes Recreus' Filaflex materials for defense and industrial manufacturing.",
+      "The French 3D printing service provider started using these flexible filaments in 2021.",
+      "Recreus' ultra-flexible thermoplastic feedstocks are used to produce drone parts, specialized military gear, and factory safety equipment."
+    ],
+    "summary_bullets_cs": [
+      "G-Tac Defense/Industry využívá materiály Filaflex od společnosti Recreus pro obrannou a průmyslovou výrobu.",
+      "Francouzský poskytovatel 3D tisku začal používat tato flexibilní vlákna v roce 2021.",
+      "Ultra-flexibilní termoplastické materiály od Recreus se používají k výrobě dílů pro drony, specializovaného vojenského vybavení a bezpečnostního vybavení pro továrny."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Recreus",
+      "G-Tac Defense",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Novenda Technologies získává 6,1 milionu dolarů na rozšíření vysoce přesných 3D tiskových řešení pro zubní aplikace",
+    "summary": "Novenda Technologies, a Netherlands-based 3D printer manufacturer, has secured $6.1 million in Series A funding to accelerate the development and commercialization of its advanced multi-material 3D printing platform for dental applications. The company aims to transform the dental industry by delivering more affordable, aesthetically refined, and higher-quality solutions through AM manufacturing. The funding round was [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/photo-of-novenda-s-dentures-with-full-color-management-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-07-14T07:19:13+00:00",
+    "url": "https://3dprintingindustry.com/news/novenda-technologies-secures-6-1-million-to-scale-high-precision-dental-3d-printing-solutions-241750/?utm_source=rss&utm_medium=rss&utm_campaign=novenda-technologies-secures-6-1-million-to-scale-high-precision-dental-3d-printing-solutions",
+    "title_en": "Novenda Technologies Secures $6.1 Million to Scale High-Precision Dental 3D Printing Solutions",
+    "summary_bullets_en": [
+      "Novenda Technologies, based in the Netherlands, has raised $6.1 million in Series A funding.",
+      "The funding will accelerate the development of their advanced multi-material 3D printing platform for dental applications.",
+      "The company aims to transform the dental industry with more affordable and higher-quality solutions."
+    ],
+    "summary_bullets_cs": [
+      "Novenda Technologies, výrobce 3D tiskáren z Nizozemska, získal 6,1 milionu dolarů v rámci financování Series A.",
+      "Financování urychlí vývoj jejich pokročilé multimateriálové 3D tiskové platformy pro zubní aplikace.",
+      "Společnost si klade za cíl transformovat zubní průmysl s dostupnějšími a kvalitnějšími řešeními."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Dental",
+      "Novenda Technologies"
+    ]
+  },
+  {
+    "title": "Zpráva CONTEXT: Dodávky základních 3D tiskáren prudce rostou, zatímco průmyslový segment klesá",
+    "summary": "Amid mounting economic pressures and looming trade barriers, the global 3D printing industry is experiencing a shift in demand patterns and investment behavior, according to market intelligence firm CONTEXT.&#160; In the first quarter of 2025, total revenues across all system categories rose 5% year-over-year (YoY), driven by a 22% surge in Entry-level printer shipments. This [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Chart_2-TTM_global_3D_printer_shipments_units_by_price_class_note_different_scales-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-07-14T07:17:04+00:00",
+    "url": "https://3dprintingindustry.com/news/context-report-entry-level-3d-printer-shipments-surge-as-industrial-segment-declines-241811/?utm_source=rss&utm_medium=rss&utm_campaign=context-report-entry-level-3d-printer-shipments-surge-as-industrial-segment-declines",
+    "title_en": "CONTEXT Report: Entry-Level 3D Printer Shipments Surge as Industrial Segment Declines",
+    "summary_bullets_en": [
+      "The global 3D printing industry is facing changing demand patterns due to economic pressures and trade barriers.",
+      "In Q1 2025, total revenues across all 3D printer categories increased by 5% year-over-year.",
+      "Entry-level 3D printer shipments surged by 22%, driving the overall revenue growth.",
+      "The industrial segment of 3D printing is experiencing a decline."
+    ],
+    "summary_bullets_cs": [
+      "Globální průmysl 3D tisku čelí změnám v poptávce kvůli ekonomickým tlakům a obchodním bariérám.",
+      "V prvním čtvrtletí 2025 vzrostly celkové příjmy ve všech kategoriích 3D tiskáren o 5 % meziročně.",
+      "Dodávky základních 3D tiskáren vzrostly o 22 %, což pohání celkový růst příjmů.",
+      "Průmyslový segment 3D tisku zaznamenává pokles."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "CONTEXT"
+    ]
+  },
+  {
+    "title": "Americké námořnictvo udělilo kontrakt SBIR společnosti Synergy Additive Manufacturing na projekt titanového povlaku",
+    "summary": "Synergy Additive Manufacturing, U.S.-based company specializing in high-power laser systems, has been awarded a Phase I Small Business Innovation Research (SBIR) contract by the Naval Air Systems Command (NAVAIR). The project aims to advance Extremely High-Speed Laser Cladding (EHLA) technology to enhance the lifespan and performance of titanium cylinder bores used in helicopter components—part of [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/1751400683565-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-14T07:14:17+00:00",
+    "url": "https://3dprintingindustry.com/news/u-s-navy-awards-sbir-contract-to-synergy-additive-manufacturing-for-titanium-cladding-project-241834/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-navy-awards-sbir-contract-to-synergy-additive-manufacturing-for-titanium-cladding-project",
+    "title_en": "U.S. Navy Awards SBIR Contract to Synergy Additive Manufacturing for Titanium Cladding Project",
+    "summary_bullets_en": [
+      "Synergy Additive Manufacturing has received a Phase I SBIR contract from NAVAIR.",
+      "The project focuses on advancing EHLA technology for titanium cylinder bores.",
+      "The goal is to enhance the lifespan and performance of helicopter components."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Synergy Additive Manufacturing získala kontrakt SBIR fáze I od NAVAIR.",
+      "Projekt se zaměřuje na pokrok v technologii EHLA pro titanové válcové vývrty.",
+      "Cílem je zlepšit životnost a výkon součástí vrtulníků."
+    ],
+    "tags": [
+      "Hardware",
+      "Synergy Additive Manufacturing",
+      "NAVAIR",
+      "EHLA",
+      "Titanium"
+    ]
+  },
+  {
+    "title": "Program One-to-One pro vlastní sedla od Fizik získal zlato na EUROBIKE 2025, ukazuje škálovatelnou personalizaci",
+    "summary": "Cycling brand Fizik’s One-to-One custom saddle program—developed in collaboration with bike-fitting experts gebioMized and powered by OEM manufacturer Carbon’s 3D printing technology—secured the Gold Award in the Components category at the 2025 EUROBIKE Awards. By seamlessly integrating dynamic rider data, automated design, and additive manufacturing, the program exemplifies scalable personalization in performance cycling. “It’s clear [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/fizik-enhanced-resolution-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-14T07:11:56+00:00",
+    "url": "https://3dprintingindustry.com/news/fiziks-one-to-one-custom-saddle-program-wins-gold-at-eurobike-2025-demonstrating-scalable-personalization-241819/?utm_source=rss&utm_medium=rss&utm_campaign=fiziks-one-to-one-custom-saddle-program-wins-gold-at-eurobike-2025-demonstrating-scalable-personalization",
+    "title_en": "Fizik’s One-to-One Custom Saddle Program Wins Gold at EUROBIKE 2025, Demonstrating Scalable Personalization",
+    "summary_bullets_en": [
+      "Fizik's One-to-One custom saddle program won the Gold Award in the Components category at the 2025 EUROBIKE Awards.",
+      "The program was developed in collaboration with gebioMized and uses Carbon’s 3D printing technology.",
+      "It integrates dynamic rider data, automated design, and additive manufacturing for scalable personalization in cycling."
+    ],
+    "summary_bullets_cs": [
+      "Program One-to-One pro vlastní sedla od Fizik získal zlatou cenu v kategorii Komponenty na EUROBIKE Awards 2025.",
+      "Program byl vyvinut ve spolupráci s gebioMized a využívá technologii 3D tisku od společnosti Carbon.",
+      "Integruje dynamická data jezdců, automatizovaný design a aditivní výrobu pro škálovatelnou personalizaci v cyklistice."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Fizik",
+      "gebioMized",
+      "Carbon",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Elegoo uvádí Elegoo Matrix: Mobilní aplikaci pro monitorování a ovládání 3D tiskáren",
+    "summary": "Shenzhen-based 3D printer manufacturer Elegoo has released its first-ever remote management tool, Elegoo Matrix, a mobile application aimed at improving how users monitor and control their 3D printers. Available for download on iOS and Android, the app marks the company’s first move into multi-device remote management. Currently, there is no desktop or browser-based version. At [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/soft-graft-intro-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-07-14T07:06:45+00:00",
+    "url": "https://3dprintingindustry.com/news/elegoo-launches-elegoo-matrix-a-mobile-app-for-3d-printer-monitoring-and-control-241828/?utm_source=rss&utm_medium=rss&utm_campaign=elegoo-launches-elegoo-matrix-a-mobile-app-for-3d-printer-monitoring-and-control",
+    "title_en": "Elegoo Launches Elegoo Matrix: A Mobile App for 3D Printer Monitoring and Control",
+    "summary_bullets_en": [
+      "Elegoo, a 3D printer manufacturer from Shenzhen, has launched its first remote management tool called Elegoo Matrix.",
+      "The mobile app is designed to enhance the monitoring and control of 3D printers.",
+      "Elegoo Matrix is available for download on iOS and Android platforms.",
+      "Currently, there is no desktop or browser-based version of the app."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce 3D tiskáren Elegoo ze Shenzhenu uvedl svůj první nástroj pro vzdálenou správu s názvem Elegoo Matrix.",
+      "Mobilní aplikace je navržena pro zlepšení monitorování a ovládání 3D tiskáren.",
+      "Elegoo Matrix je k dispozici ke stažení na platformách iOS a Android.",
+      "V současné době neexistuje žádná verze aplikace pro stolní počítače nebo prohlížeče."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Elegoo"
+    ]
+  },
+  {
+    "title": "Čínská laboratoř pro průzkum hlubokého vesmíru pokročila v in-situ lunární konstrukci s 3D tiskem na bázi regolitu",
+    "summary": "Researchers at the national-level Deep Space Exploration Laboratory in Hefei, Anhui Province, have created a 3D printing system that uses lunar soil sourced directly from the Moon to construct habitats. This research aims to enable on-site building of lunar research stations, reducing reliance on materials transported from Earth. &#8220;This printing breakthrough has validated the feasibility [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/58dd44c20dfc4097a0449458251c49ae-780x470.jpg-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-14T07:01:07+00:00",
+    "url": "https://3dprintingindustry.com/news/chinese-deep-space-exploration-laboratory-advances-in-situ-lunar-construction-with-regolith-based-3d-printing-241803/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-deep-space-exploration-laboratory-advances-in-situ-lunar-construction-with-regolith-based-3d-printing",
+    "title_en": "Chinese Deep Space Exploration Laboratory Advances In-Situ Lunar Construction with Regolith-Based 3D Printing",
+    "summary_bullets_en": [
+      "Researchers in China have developed a 3D printing system using lunar soil for construction on the Moon.",
+      "The technology aims to build lunar habitats directly on the Moon, minimizing the need for Earth-sourced materials.",
+      "This breakthrough demonstrates the feasibility of using in-situ resources for lunar construction."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci v Číně vyvinuli 3D tiskový systém využívající lunární půdu pro stavbu na Měsíci.",
+      "Technologie má za cíl stavět lunární obydlí přímo na Měsíci, čímž se minimalizuje potřeba materiálů z Země.",
+      "Tento průlom demonstruje proveditelnost využití místních zdrojů pro lunární konstrukci."
+    ],
+    "tags": [
+      "Hardware",
+      "Deep Space Exploration Laboratory",
+      "3D Printing",
+      "Lunar Construction",
+      "Regolith"
+    ]
+  },
+  {
     "title": "3D tisk od Creality se objevuje na přehlídkovém molu s AMISS na WINGS Independent Fashion Festival",
     "summary": "From accessories and shoes to dresses and more, we&#8217;ve seen 3D printed fashion hit the runway numerous times over the years. The latest example is by Sydney-based fashion label AMISS,...",
     "image": "https://3dprint.com/wp-content/uploads/2025/07/AMISS-co-founders.png",
