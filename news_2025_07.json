@@ -1,5 +1,61 @@
 [
   {
+    "title": "Pokrok v designu větrné energie: lekce z projektu MADE3D od NREL",
+    "summary": "The U.S. Department of Energy&#8217;s National Renewable Energy Laboratory (NREL) has concluded its five-year MADE3D project, short for Manufacturing and Additive Design of Electric Machines by 3D Printing. This initiative explored new approaches to wind turbine generator design and manufacturing, using additive technologies to reduce rare-earth material dependency and improve the performance and scalability of [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/made3d-parts-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-15T05:53:57+00:00",
+    "url": "https://3dprintingindustry.com/news/advancing-wind-energy-design-lessons-from-nrels-made3d-project-241850/?utm_source=rss&utm_medium=rss&utm_campaign=advancing-wind-energy-design-lessons-from-nrels-made3d-project",
+    "title_en": "Advancing wind energy design: lessons from NREL’s MADE3D project",
+    "summary_bullets_en": [
+      "The NREL's MADE3D project focused on innovative wind turbine generator design using 3D printing.",
+      "The initiative aimed to reduce dependency on rare-earth materials.",
+      "It sought to enhance the performance and scalability of wind energy systems."
+    ],
+    "summary_bullets_cs": [
+      "Projekt MADE3D od NREL se zaměřil na inovativní design generátorů větrných turbín pomocí 3D tisku.",
+      "Iniciativa měla za cíl snížit závislost na vzácných zeminách.",
+      "Usilovala o zlepšení výkonu a škálovatelnosti systémů větrné energie."
+    ],
+    "tags": [
+      "Hardware",
+      "NREL",
+      "3D Printing",
+      "Wind Energy",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Stratasys aktualizuje 3D tiskárnu Fortus 450mc pro tovární výrobu po 10 letech průmyslového nasazení",
+    "summary": "Stratasys, a developer of polymer-based additive manufacturing systems, has launched an updated version of its Fortus 450mc printer, commemorating a decade since the system’s original release in 2014. Designed for industrial use, the Fortus 450mc has remained in widespread operation, with 92 percent of installed units still active across aerospace, automotive, and manufacturing sectors. The [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/STRP029_Image-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-07-15T05:49:56+00:00",
+    "url": "https://3dprintingindustry.com/news/stratasys-updates-fortus-450mc-3d-printer-for-factory-floor-production-after-10-years-of-industrial-deployment-241863/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-updates-fortus-450mc-3d-printer-for-factory-floor-production-after-10-years-of-industrial-deployment",
+    "title_en": "Stratasys Updates Fortus 450mc 3D Printer for Factory-Floor Production After 10 Years of Industrial Deployment",
+    "summary_bullets_en": [
+      "Stratasys has launched an updated version of its Fortus 450mc 3D printer.",
+      "The update marks the 10th anniversary of the printer's original release in 2014.",
+      "The Fortus 450mc is widely used in aerospace, automotive, and manufacturing sectors.",
+      "92 percent of the installed units are still active in industrial operations."
+    ],
+    "summary_bullets_cs": [
+      "Stratasys uvedl aktualizovanou verzi své 3D tiskárny Fortus 450mc.",
+      "Aktualizace připomíná 10. výročí původního uvedení tiskárny v roce 2014.",
+      "Fortus 450mc je široce používán v leteckém, automobilovém a výrobním sektoru.",
+      "92 procent instalovaných jednotek je stále aktivních v průmyslovém provozu."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "3D Printing",
+      "Fortus 450mc",
+      "Aerospace",
+      "Automotive",
+      "Manufacturing"
+    ]
+  },
+  {
     "title": "Spravujte své zásoby filamentu s open-source SpoolEase",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/921648803/0/fabbaloo/default~Manage-Your-Filament-Inventory-With-Open-Source-SpoolEase\" rel=\"nofollow\" title=\"Manage Your Filament Inventory With Open Source SpoolEase\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/SpoolEaseConsole-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Want to manage your ever-increasing collection of 3D printer filament spools? Try SpoolEase. SpoolEase is an open-source project that provides hardware and software to automatically manage filament spools. It comes in two products: SpoolEase Console and SpoolEase Scale. SpoolEase Scale, as you might suspect, is used to weigh spools and determine an accurate amount of&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/921648803/0/fabbaloo/default~Manage-Your-Filament-Inventory-With-Open-Source-SpoolEase\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">Manage Your Filament Inventory With Open Source SpoolEase</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/921648803/0/fabbaloo/default~Manage-Your-Filament-Inventory-With-Open-Source-SpoolEase\" rel=\"nofollow\">Manage Your Filament Inventory With Open Source SpoolEase</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/SpoolEaseConsole-300x225.jpg",
