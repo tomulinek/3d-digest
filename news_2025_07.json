@@ -1,5 +1,162 @@
 [
   {
+    "title": "Jeph Ruppert z Fortius Metals o tom, proč je aditivní výroba na bázi drátu připravena na vzlet",
+    "summary": "Jeph Ruppert may have only been at Fortius Metals for a couple of months, but he knows the intricacies of additive manufacturing (AM) like someone who&#8217;s been steering the company...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/1626475497041.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-07-18T12:00:43+00:00",
+    "url": "https://3dprint.com/318742/fortius-metals-jeph-ruppert-on-why-wire-based-am-is-ready-for-takeoff/",
+    "title_en": "Fortius Metals’ Jeph Ruppert on Why Wire-Based AM is Ready for Takeoff",
+    "summary_bullets_en": [
+      "Jeph Ruppert has recently joined Fortius Metals, bringing extensive knowledge in additive manufacturing.",
+      "Wire-based additive manufacturing (AM) is gaining traction and is seen as ready for significant growth.",
+      "Ruppert emphasizes the potential of wire-based AM to revolutionize the industry with its efficiency and cost-effectiveness."
+    ],
+    "summary_bullets_cs": [
+      "Jeph Ruppert nedávno nastoupil do Fortius Metals a přináší rozsáhlé znalosti v oblasti aditivní výroby.",
+      "Aditivní výroba na bázi drátu získává na popularitě a je považována za připravenou na významný růst.",
+      "Ruppert zdůrazňuje potenciál aditivní výroby na bázi drátu k revoluci v průmyslu díky její efektivitě a nákladové efektivnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Fortius Metals",
+      "Additive Manufacturing",
+      "Wire-Based AM"
+    ]
+  },
+  {
+    "title": "Vzestup farem 3D tiskáren",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/921842225/0/fabbaloo/default~The-Rise-of-D-Printer-Farms\" rel=\"nofollow\" title=\"The Rise of 3D Printer Farms\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/print-farms-cover-300x181.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Explore ten facilities that target serial and mass production using hundreds of networked 3D printers.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/921842225/0/fabbaloo/default~The-Rise-of-D-Printer-Farms\" rel=\"nofollow\">The Rise of 3D Printer Farms</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/print-farms-cover-300x181.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-18T11:54:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/921842225/0/fabbaloo/default~The-Rise-of-D-Printer-Farms",
+    "title_en": "The Rise of 3D Printer Farms",
+    "summary_bullets_en": [
+      "The article explores ten facilities focused on serial and mass production using hundreds of networked 3D printers.",
+      "These 3D printer farms are designed to enhance production efficiency and scalability.",
+      "The facilities utilize advanced networking and automation technologies to manage large-scale 3D printing operations."
+    ],
+    "summary_bullets_cs": [
+      "Článek zkoumá deset zařízení zaměřených na sériovou a hromadnou výrobu pomocí stovek propojených 3D tiskáren.",
+      "Tyto farmy 3D tiskáren jsou navrženy pro zvýšení efektivity a škálovatelnosti výroby.",
+      "Zařízení využívají pokročilé technologie síťování a automatizace pro řízení rozsáhlých operací 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Automation",
+      "Mass Production",
+      "Networking"
+    ]
+  },
+  {
+    "title": "HeyGears představuje více materiálové 3D tištěné zubní protézy",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/heygears-introduces-multi-material-3d-printed-dentures/\" target=\"_blank\">HeyGears Introduces Multi-Material 3D Printed Dentures</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 18</span></div><div><img alt=\"HeyGears Introduces Multi-Material 3D Printed Dentures at Chicago Lab Event\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/86487474-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/86487474-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-18T09:00:38+00:00",
+    "url": "https://3dprinting.com/news/heygears-introduces-multi-material-3d-printed-dentures/",
+    "title_en": "HeyGears Introduces Multi-Material 3D Printed Dentures",
+    "summary_bullets_en": [
+      "HeyGears has launched a new line of multi-material 3D printed dentures.",
+      "The dentures were showcased at a Chicago lab event.",
+      "This innovation allows for more realistic and functional dental prosthetics."
+    ],
+    "summary_bullets_cs": [
+      "HeyGears uvedl na trh novou řadu více materiálových 3D tištěných zubních protéz.",
+      "Protézy byly představeny na akci v laboratoři v Chicagu.",
+      "Tato inovace umožňuje realističtější a funkčnější zubní protézy."
+    ],
+    "tags": [
+      "Hardware",
+      "HeyGears",
+      "Dental",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Průlom ve volumetrické aditivní výrobě umožňuje produkci kompozitů pomocí infuze hydrogelu",
+    "summary": "Researchers at EPFL and Uppsala University have developed a novel technique that enables the fabrication of composite materials via volumetric additive manufacturing (VAM), overcoming long-standing limitations in the field. Published in ACS Materials Letters, the study demonstrates how post-printing hydrogel infusion can convert transparent VAM-printed parts into functional composites with high filler content. Overcoming transparency [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/images_large_tz5c00407_0006-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-18T08:52:13+00:00",
+    "url": "https://3dprintingindustry.com/news/volumetric-additive-manufacturing-breakthrough-enables-composite-production-via-hydrogel-infusion-241984/?utm_source=rss&utm_medium=rss&utm_campaign=volumetric-additive-manufacturing-breakthrough-enables-composite-production-via-hydrogel-infusion",
+    "title_en": "Volumetric additive manufacturing breakthrough enables composite production via hydrogel infusion",
+    "summary_bullets_en": [
+      "Researchers at EPFL and Uppsala University have developed a new technique for creating composite materials using volumetric additive manufacturing (VAM).",
+      "The technique involves post-printing hydrogel infusion to transform transparent VAM-printed parts into functional composites.",
+      "This method allows for high filler content in the composites, overcoming previous limitations in the field."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z EPFL a Uppsalské univerzity vyvinuli novou techniku pro tvorbu kompozitních materiálů pomocí volumetrické aditivní výroby (VAM).",
+      "Technika zahrnuje infuzi hydrogelu po tisku, která přeměňuje průhledné části vytištěné pomocí VAM na funkční kompozity.",
+      "Tato metoda umožňuje vysoký obsah plniva v kompozitech, čímž překonává dřívější omezení v oboru."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "EPFL",
+      "Uppsala University",
+      "Volumetric Additive Manufacturing",
+      "Hydrogel Infusion"
+    ]
+  },
+  {
+    "title": "Univerzita v Pensylvánii vyvíjí 3D tisknutelný beton pro zlepšení zachycování CO₂ a pevnosti",
+    "summary": "Researchers at the University of Pennsylvania have developed a 3D printable concrete incorporating diatomaceous earth (DE), a fossil-based material derived from ancient microscopic algae. This mixture aims to improve structural performance and increase carbon dioxide (CO₂) uptake, addressing environmental concerns associated with conventional concrete. From Algae to Architecture: A Smart Mix for CO₂ Capture Concrete [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/P-101972-Master-V1-008-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-18T08:40:19+00:00",
+    "url": "https://3dprintingindustry.com/news/university-of-pennsylvania-develops-3d-printable-concrete-to-enhance-co%e2%82%82-capture-and-strength-241977/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-pennsylvania-develops-3d-printable-concrete-to-enhance-co%25e2%2582%2582-capture-and-strength",
+    "title_en": "University of Pennsylvania Develops 3D Printable Concrete to Enhance CO₂ Capture and Strength",
+    "summary_bullets_en": [
+      "Researchers at the University of Pennsylvania have created a 3D printable concrete using diatomaceous earth.",
+      "The concrete aims to improve structural performance and increase CO₂ uptake.",
+      "This innovation addresses environmental concerns associated with traditional concrete."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Univerzity v Pensylvánii vytvořili 3D tisknutelný beton s použitím křemeliny.",
+      "Tento beton má za cíl zlepšit strukturální výkon a zvýšit zachycování CO₂.",
+      "Inovace řeší environmentální problémy spojené s tradičním betonem."
+    ],
+    "tags": [
+      "Material",
+      "University of Pennsylvania",
+      "3D Printing",
+      "Concrete",
+      "Environmental Technology"
+    ]
+  },
+  {
+    "title": "SLICED: Nejnovější zprávy z průmyslu 3D tisku",
+    "summary": "In this edition of SLICED, the 3D Printing Industry news digest, we compile the latest developments across the additive manufacturing (AM) sector, including collaborations in Japan and large-format materials testing, significant 3D platform installations, and a landmark machine-tool merger.&#160; Read on for updates from Formlabs, DMG MORI, Interfacial, CEAD, Laempe Mössner Sinto, Herborner Pumpentechnik, and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/sliced-cover-july-3-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-07-18T08:32:10+00:00",
+    "url": "https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-14-241998/?utm_source=rss&utm_medium=rss&utm_campaign=sliced-latest-news-from-the-3d-printing-industry-14",
+    "title_en": "SLICED: Latest news from the 3D Printing Industry",
+    "summary_bullets_en": [
+      "The latest edition of SLICED covers new collaborations in Japan and advancements in large-format materials testing.",
+      "Significant installations of 3D platforms are highlighted, showcasing the growth in the additive manufacturing sector.",
+      "A major merger in the machine-tool industry marks a significant development in the field."
+    ],
+    "summary_bullets_cs": [
+      "Nejnovější vydání SLICED pokrývá nové spolupráce v Japonsku a pokroky v testování materiálů ve velkém formátu.",
+      "Významné instalace 3D platforem ukazují růst v sektoru aditivní výroby.",
+      "Významná fúze v průmyslu obráběcích strojů představuje důležitý vývoj v oboru."
+    ],
+    "tags": [
+      "Hardware",
+      "Formlabs",
+      "DMG MORI",
+      "Interfacial",
+      "CEAD",
+      "Laempe Mössner Sinto",
+      "Herborner Pumpentechnik"
+    ]
+  },
+  {
     "title": "Výzkumníci z UTA vytvářejí chytrou 3D tištěnou náplast pro regeneraci srdečního svalu",
     "summary": "A 3D printed patch designed to promote heart muscle regeneration is being developed by a bioengineering professor at the University of Texas at Arlington (UTA). This project aims to address a critical medical challenge by offering a potential new treatment option for heart attack survivors, whose damaged heart tissue currently lacks the ability to repair [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/yi-hong-grant-main-150x100.jpg",
