@@ -1,5 +1,53 @@
 [
   {
+    "title": "Novinky ze světa 3D tisku, 19. července 2025: Topologická optimalizace, sedlo na kolo a další",
+    "summary": "In this weekend&#8217;s 3D Printing News Briefs, Farsoon Technologies has reached a milestone of 150 large-format metal 3D printing systems being sold globally. Snapmaker unveiled a new 3D printer, and...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/Figure-1-Farsoon-meter-scale-metal-machines-1024x497.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-07-19T12:30:59+00:00",
+    "url": "https://3dprint.com/319423/3d-printing-news-briefs-7-19-2025/",
+    "title_en": "3D Printing News Briefs, July 19, 2025: Topology Optimization, Bike Saddle, & More",
+    "summary_bullets_en": [
+      "Farsoon Technologies has sold 150 large-format metal 3D printing systems worldwide.",
+      "Snapmaker introduced a new 3D printer model."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Farsoon Technologies prodala 150 velkoformátových kovových 3D tiskových systémů po celém světě.",
+      "Snapmaker představil nový model 3D tiskárny."
+    ],
+    "tags": [
+      "Hardware",
+      "Farsoon Technologies",
+      "Snapmaker"
+    ]
+  },
+  {
+    "title": "Sklo, kov a polymery se střetávají na pokročilé výrobní akci RIT",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/921889868/0/fabbaloo/default~Glass-Metal-and-Polymers-Collide-at-RIT%e2%80%99s-Advanced-Manufacturing-Event\" rel=\"nofollow\" title=\"Glass, Metal, and Polymers Collide at RIT’s Advanced Manufacturing Event\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/FuzeRIT-1-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi spotlight RIT’s July 2025 additive manufacturing symposium, where cutting-edge 3D printing, interdisciplinary collaboration, and manufacturing legacy converge to shape the future.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/921889868/0/fabbaloo/default~Glass-Metal-and-Polymers-Collide-at-RIT%e2%80%99s-Advanced-Manufacturing-Event\" rel=\"nofollow\">Glass, Metal, and Polymers Collide at RIT’s Advanced Manufacturing Event</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/FuzeRIT-1-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-19T12:24:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/921889868/0/fabbaloo/default~Glass-Metal-and-Polymers-Collide-at-RIT%e2%80%99s-Advanced-Manufacturing-Event",
+    "title_en": "Glass, Metal, and Polymers Collide at RIT’s Advanced Manufacturing Event",
+    "summary_bullets_en": [
+      "RIT hosted an advanced manufacturing symposium in July 2025, focusing on cutting-edge 3D printing technologies.",
+      "The event highlighted interdisciplinary collaboration and the convergence of different materials like glass, metal, and polymers.",
+      "Experts Charles R. Goulding and Preeti Sulibhavi emphasized the role of additive manufacturing in shaping the future."
+    ],
+    "summary_bullets_cs": [
+      "RIT uspořádal v červenci 2025 sympozium o pokročilé výrobě, zaměřené na nejmodernější technologie 3D tisku.",
+      "Akce zdůraznila interdisciplinární spolupráci a spojení různých materiálů, jako je sklo, kov a polymery.",
+      "Odborníci Charles R. Goulding a Preeti Sulibhavi zdůraznili roli aditivní výroby při formování budoucnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "RIT",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Nová technika zmrazeného nanášení umožňuje 3D tisk vodivých polymerů",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/921855941/0/fabbaloo/default~New-Frozen-Deposition-Technique-Allows-D-Printing-of-Conductive-Polymers\" rel=\"nofollow\" title=\"New Frozen Deposition Technique Allows 3D Printing of Conductive Polymers\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/frozen-electric-cover-300x217.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have found a way to 3D print a biocompatible conductive material.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/921855941/0/fabbaloo/default~New-Frozen-Deposition-Technique-Allows-D-Printing-of-Conductive-Polymers\" rel=\"nofollow\">New Frozen Deposition Technique Allows 3D Printing of Conductive Polymers</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/frozen-electric-cover-300x217.jpg",
