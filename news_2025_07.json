@@ -1,5 +1,196 @@
 [
   {
+    "title": "3DPOD 263: Kovové AM prášky s generálním ředitelem Continuum Robem Higbym",
+    "summary": "Continuum was previously known as Molyworks, and we loved their crazy startup story with founder Chris Eonta. Now Rob Higby is the firm&#8217;s CEO. With him, we discuss a more...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | The Voice of 3D Printing / Additive Manufacturing",
+    "published": "2025-07-21T12:00:02+00:00",
+    "url": "https://3dprint.com/319307/3dpod-263-metal-am-powders-with-continuum-ceo-rob-higby/",
+    "title_en": "3DPOD 263: Metal AM Powders with Continuum CEO Rob Higby",
+    "summary_bullets_en": [
+      "Continuum, formerly known as Molyworks, has undergone leadership changes with Rob Higby as the new CEO.",
+      "The podcast discusses the company's evolution and its focus on metal additive manufacturing powders.",
+      "Rob Higby shares insights into the company's strategies and future plans in the metal AM industry."
+    ],
+    "summary_bullets_cs": [
+      "Continuum, dříve známé jako Molyworks, prošlo změnami ve vedení s Robem Higbym jako novým generálním ředitelem.",
+      "Podcast se zabývá vývojem společnosti a jejím zaměřením na kovové prášky pro aditivní výrobu.",
+      "Rob Higby sdílí poznatky o strategiích a budoucích plánech společnosti v oblasti kovového AM průmyslu."
+    ],
+    "tags": [
+      "Material",
+      "Continuum",
+      "Molyworks",
+      "Metal AM",
+      "Rob Higby"
+    ]
+  },
+  {
+    "title": "3D tištěná mikroturbína Argive pohání dron SkyShark od MGI",
+    "summary": "Argive, a UK-based microturbine and propulsion company owned by materials engineering firm Alloyed Ltd, has announced that its newly developed A300 microturbine will be used in MGI Engineering’s SkyShark drone. The drone, which is entirely UK-developed, is designed for ISR (intelligence, surveillance, reconnaissance), strike, and decoy missions in GPS-denied or contested environments. Argive’s propulsion unit [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/IMG_5042-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-21T10:10:23+00:00",
+    "url": "https://3dprintingindustry.com/news/argives-3d-printed-microturbine-to-power-mgis-skyshark-drone-242048/?utm_source=rss&utm_medium=rss&utm_campaign=argives-3d-printed-microturbine-to-power-mgis-skyshark-drone",
+    "title_en": "Argive’s 3D Printed Microturbine to Power MGI’s SkyShark Drone",
+    "summary_bullets_en": [
+      "Argive, a UK-based microturbine and propulsion company, has developed the A300 microturbine.",
+      "The A300 microturbine will be used in MGI Engineering’s SkyShark drone.",
+      "The SkyShark drone is designed for ISR, strike, and decoy missions in GPS-denied or contested environments.",
+      "Both the microturbine and the drone are entirely UK-developed."
+    ],
+    "summary_bullets_cs": [
+      "Argive, britská společnost specializující se na mikroturbíny a pohonné systémy, vyvinula mikroturbínu A300.",
+      "Mikroturbína A300 bude použita v dronu SkyShark od MGI Engineering.",
+      "Dron SkyShark je navržen pro mise ISR, údery a klamné operace v prostředích bez GPS nebo v konfliktních oblastech.",
+      "Jak mikroturbína, tak dron jsou kompletně vyvinuty ve Velké Británii."
+    ],
+    "tags": [
+      "Hardware",
+      "Argive",
+      "MGI Engineering",
+      "SkyShark",
+      "Alloyed Ltd"
+    ]
+  },
+  {
+    "title": "Co se stane, když 3D tisknete uvnitř živé buňky? Vědci to zjistili",
+    "summary": "Want to speak at AMA: Energy 2025 or AMA: Automotive &#38; Mobility 2025? Submit your application now! Researchers from J. Stefan Institute and the University of Ljubljana in Slovenia have achieved a scientific first by 3D printing tiny functional structures directly inside living cells. Using a high-precision laser technique called two-photon polymerization (2PP), they created custom polymer microstructures [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/image-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-07-21T10:06:50+00:00",
+    "url": "https://3dprintingindustry.com/news/what-happens-when-you-3d-print-inside-a-living-cell-scientists-found-out-242045/?utm_source=rss&utm_medium=rss&utm_campaign=what-happens-when-you-3d-print-inside-a-living-cell-scientists-found-out",
+    "title_en": "What happens when you 3D print inside a living cell? Scientists found out",
+    "summary_bullets_en": [
+      "Researchers from J. Stefan Institute and the University of Ljubljana have successfully 3D printed tiny functional structures inside living cells.",
+      "They used a high-precision laser technique known as two-photon polymerization (2PP) to create custom polymer microstructures.",
+      "This breakthrough represents a significant advancement in the field of bioengineering and could have implications for future medical applications."
+    ],
+    "summary_bullets_cs": [
+      "Vědci z Institutu J. Stefana a Univerzity v Lublani úspěšně 3D tiskli malé funkční struktury uvnitř živých buněk.",
+      "Použili vysoce přesnou laserovou techniku známou jako dvoufotonová polymerizace (2PP) k vytvoření vlastních polymerních mikrostruktur.",
+      "Tento průlom představuje významný pokrok v oblasti bioinženýrství a může mít dopady na budoucí lékařské aplikace."
+    ],
+    "tags": [
+      "Hardware",
+      "Bioengineering",
+      "3D Printing",
+      "J. Stefan Institute",
+      "University of Ljubljana"
+    ]
+  },
+  {
+    "title": "Irové odhalili nový elektricky aktivní implantát pro opravu páteře",
+    "summary": "Want to speak at&#160;AMA: Energy 2025&#160;or&#160;AMA: Automotive &#38; Mobility 2025? Submit your application now! Researchers from the Royal College of Surgeons in Ireland (RCSI) University of Medicine and Health Sciences and Trinity College Dublin have developed a 3D printed implant that may support the repair of spinal cord injuries by delivering electrical stimulation to damaged [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/advs70440-fig-0006-m-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-21T09:14:37+00:00",
+    "url": "https://3dprintingindustry.com/news/irish-researchers-reveal-new-electrically-active-implant-for-spinal-repair-242035/?utm_source=rss&utm_medium=rss&utm_campaign=irish-researchers-reveal-new-electrically-active-implant-for-spinal-repair",
+    "title_en": "Irish researchers reveal new electrically active implant for spinal repair",
+    "summary_bullets_en": [
+      "Researchers from RCSI University of Medicine and Health Sciences and Trinity College Dublin have developed a 3D printed implant.",
+      "The implant is designed to support the repair of spinal cord injuries.",
+      "It delivers electrical stimulation to damaged areas to aid in recovery."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z RCSI University of Medicine and Health Sciences a Trinity College Dublin vyvinuli 3D tištěný implantát.",
+      "Implantát je navržen tak, aby podporoval opravu poranění míchy.",
+      "Dodává elektrickou stimulaci poškozeným oblastem, aby pomohl při zotavení."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Medical Devices",
+      "RCSI",
+      "Trinity College Dublin"
+    ]
+  },
+  {
+    "title": "Tvarově přizpůsobivé baterie: Jak 3D tisk umožňuje bezproblémovou integraci v kompaktních zařízeních",
+    "summary": "Researchers from Shenzhen University and Tsinghua University have published a comprehensive review of conformal 3D printing for shape-conformal batteries, highlighting its potential to revolutionize energy storage in flexible electronics, wearables, and compact embedded systems. Published in Virtual and Physical Prototyping in February 2025, the paper identifies key strategies, technological developments, and challenges in fabricating batteries [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Conformal-3D-printing-towards-shape-conformal-batteries-a-topical-review-4-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-21T09:00:29+00:00",
+    "url": "https://3dprintingindustry.com/news/shape-conformal-batteries-how-3d-printing-enables-seamless-integration-in-compact-devices-242034/?utm_source=rss&utm_medium=rss&utm_campaign=shape-conformal-batteries-how-3d-printing-enables-seamless-integration-in-compact-devices",
+    "title_en": "Shape-Conformal Batteries: How 3D Printing Enables Seamless Integration in Compact Devices",
+    "summary_bullets_en": [
+      "Researchers from Shenzhen University and Tsinghua University have reviewed the use of conformal 3D printing for shape-conformal batteries.",
+      "The study highlights the potential of this technology to transform energy storage in flexible electronics, wearables, and compact systems.",
+      "Key strategies, technological advancements, and challenges in fabricating these batteries are identified in the paper.",
+      "The review was published in the journal Virtual and Physical Prototyping in February 2025."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z univerzit v Shenzhenu a Tsinghua publikovali přehled o využití tvarově přizpůsobivého 3D tisku pro baterie.",
+      "Studie zdůrazňuje potenciál této technologie pro transformaci ukládání energie ve flexibilní elektronice, nositelných zařízeních a kompaktních systémech.",
+      "V článku jsou identifikovány klíčové strategie, technologické pokroky a výzvy při výrobě těchto baterií.",
+      "Přehled byl publikován v časopise Virtual and Physical Prototyping v únoru 2025."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Shape-Conformal Batteries",
+      "Flexible Electronics",
+      "Wearables",
+      "Shenzhen University",
+      "Tsinghua University"
+    ]
+  },
+  {
+    "title": "Pět společností bylo jmenováno finalisty v soutěži ASTRO America’s Actionable In-Situ Awareness Challenge",
+    "summary": "US-based think tank ASTRO America together with ASTM International’s Additive Manufacturing Center of Excellence and Florida State University’s InSPIRE program, has named five finalists for its inaugural Actionable In-Situ Awareness Challenge. The initiative seeks to identify advanced sensor and monitoring technologies that enhance quality assurance in aerospace and defense manufacturing. The finalists, eddy current array [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2023/04/Real-time-inspection-with-Phase3D-Project-Fringe.-Photo-via-Phase3D.-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-21T08:09:19+00:00",
+    "url": "https://3dprintingindustry.com/news/five-companies-named-finalists-in-astro-americas-actionable-in-situ-awareness-challenge-242019/?utm_source=rss&utm_medium=rss&utm_campaign=five-companies-named-finalists-in-astro-americas-actionable-in-situ-awareness-challenge",
+    "title_en": "Five Companies Named Finalists in ASTRO America’s Actionable In-Situ Awareness Challenge",
+    "summary_bullets_en": [
+      "ASTRO America, in collaboration with ASTM International and Florida State University, announced five finalists for the Actionable In-Situ Awareness Challenge.",
+      "The challenge aims to identify advanced sensor and monitoring technologies for quality assurance in aerospace and defense manufacturing.",
+      "The initiative is part of efforts to enhance manufacturing processes in critical industries."
+    ],
+    "summary_bullets_cs": [
+      "ASTRO America ve spolupráci s ASTM International a Florida State University oznámila pět finalistů soutěže Actionable In-Situ Awareness Challenge.",
+      "Cílem soutěže je identifikovat pokročilé senzorové a monitorovací technologie pro zajištění kvality ve výrobě pro letecký a obranný průmysl.",
+      "Iniciativa je součástí snah o zlepšení výrobních procesů v klíčových průmyslových odvětvích."
+    ],
+    "tags": [
+      "Hardware",
+      "ASTRO America",
+      "ASTM International",
+      "Florida State University",
+      "Aerospace",
+      "Defense",
+      "Sensors",
+      "Quality Assurance"
+    ]
+  },
+  {
+    "title": "BMW Group přeměňuje odpad na nové výrobní komponenty",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/bmw-group-converts-waste-into-new-manufacturing-components/\" target=\"_blank\">BMW Group Converts Waste Into New Manufacturing Components</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 21</span></div><div><img alt=\"BMW Group Converts Waste Into New Manufacturing Components\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/P90610930-3d-print-bmw-group-amc-2250px-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/P90610930-3d-print-bmw-group-amc-2250px-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-21T07:00:46+00:00",
+    "url": "https://3dprinting.com/news/bmw-group-converts-waste-into-new-manufacturing-components/",
+    "title_en": "BMW Group Converts Waste Into New Manufacturing Components",
+    "summary_bullets_en": [
+      "BMW Group is using 3D printing technology to transform waste materials into new manufacturing components.",
+      "The initiative aims to enhance sustainability by reducing waste and promoting circular economy practices.",
+      "This approach not only minimizes environmental impact but also optimizes production efficiency."
+    ],
+    "summary_bullets_cs": [
+      "BMW Group využívá technologii 3D tisku k přeměně odpadních materiálů na nové výrobní komponenty.",
+      "Iniciativa si klade za cíl zvýšit udržitelnost snížením odpadu a podporou praktik cirkulární ekonomiky.",
+      "Tento přístup nejen minimalizuje dopad na životní prostředí, ale také optimalizuje efektivitu výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "BMW",
+      "Sustainability",
+      "3D Printing",
+      "Circular Economy"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 20. července 2025",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/921928499/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-July\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, July 20, 2025\"><img alt=\"Who&#039;s The Biggest In 3D Printing\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg\" style=\"height: auto !important; float: left; margin-right: 5px;\" width=\"1\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/921928499/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-July\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, July 20, 2025</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg",
