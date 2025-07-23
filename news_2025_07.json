@@ -1,5 +1,165 @@
 [
   {
+    "title": "Rozpustit nebo nerozpustit: Síla rozpustných podpor v FDM tisku",
+    "summary": "Disclosure: The PrusaXL used for this review was provided to me by Prusa free of charge, and I have not received any other compensation. All opinions expressed are my own,...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/20250712_053234-150x150.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-23T12:00:59+00:00",
+    "url": "https://3dprint.com/319231/to-dissolve-or-not-to-dissolve-the-power-of-soluble-supports-in-fdm-printing/",
+    "title_en": "To Dissolve or Not to Dissolve: The Power of Soluble Supports in FDM Printing",
+    "summary_bullets_en": [
+      "The article reviews the use of soluble supports in FDM 3D printing, highlighting their advantages in creating complex geometries.",
+      "The PrusaXL printer was used for testing, provided by Prusa without any additional compensation.",
+      "Soluble supports can significantly improve the surface finish and reduce post-processing time."
+    ],
+    "summary_bullets_cs": [
+      "Článek recenzuje použití rozpustných podpor v FDM 3D tisku a zdůrazňuje jejich výhody při vytváření složitých geometrických tvarů.",
+      "Pro testování byla použita tiskárna PrusaXL, poskytnutá společností Prusa bez jakékoli další kompenzace.",
+      "Rozpustné podpory mohou výrazně zlepšit povrchovou úpravu a snížit čas potřebný na následné zpracování."
+    ],
+    "tags": [
+      "Hardware",
+      "Prusa",
+      "FDM",
+      "3D Printing",
+      "Soluble Supports"
+    ]
+  },
+  {
+    "title": "Kované v clech: Jak 3D tisk znovuobjevuje průmysl spotřebičů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922064114/0/fabbaloo/default~Forged-in-Tariffs-How-D-Printing-Is-Reinventing-the-Appliance-Industry\" rel=\"nofollow\" title=\"Forged in Tariffs: How 3D Printing Is Reinventing the Appliance Industry\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/50Tariff-1-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>In this article, Charles Goulding and Anthony Palumbo examine the Trump administration’s 2025 steel tariffs on imported appliance components, their effect on manufacturers and retailers, and how housing market trends are reshaping appliance demand, all while emphasizing additive manufacturing as a key to domestic supply resilience.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922064114/0/fabbaloo/default~Forged-in-Tariffs-How-D-Printing-Is-Reinventing-the-Appliance-Industry\" rel=\"nofollow\">Forged in Tariffs: How 3D Printing Is Reinventing the Appliance Industry</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/50Tariff-1-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-23T11:17:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922064114/0/fabbaloo/default~Forged-in-Tariffs-How-D-Printing-Is-Reinventing-the-Appliance-Industry",
+    "title_en": "Forged in Tariffs: How 3D Printing Is Reinventing the Appliance Industry",
+    "summary_bullets_en": [
+      "The article discusses the impact of the Trump administration's 2025 steel tariffs on imported appliance components.",
+      "It explores how these tariffs affect manufacturers and retailers in the appliance industry.",
+      "The article highlights the role of 3D printing in enhancing domestic supply resilience.",
+      "It also examines how housing market trends are influencing appliance demand."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá dopadem ocelových cel z roku 2025 zavedených Trumpovou administrativou na dovážené komponenty spotřebičů.",
+      "Zkoumá, jak tato cla ovlivňují výrobce a prodejce v průmyslu spotřebičů.",
+      "Článek zdůrazňuje roli 3D tisku při posilování domácí odolnosti dodavatelského řetězce.",
+      "Také se zabývá tím, jak trendy na trhu s bydlením ovlivňují poptávku po spotřebičích."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Steel Tariffs",
+      "Appliance Industry",
+      "Domestic Supply",
+      "Trump Administration"
+    ]
+  },
+  {
+    "title": "Nové 3D tištěné kapsle ORNL odolávají podmínkám reaktoru",
+    "summary": "Want to speak at AMA: Energy 2025 or AMA: Automotive &#38; Mobility 2025? Submit your application now! The US Department of Energy (DoE)’s Oak Ridge National Laboratory (ORNL) has completed successful testing of two 3D printed stainless steel capsules in the High Flux Isotope Reactor (HFIR). Supported by the DoE’s Office of Nuclear Energy’s Advanced Materials and Manufacturing [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/3D-printed-stainless-steel-capsules.-Image-via-ORNL-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-23T10:19:45+00:00",
+    "url": "https://3dprintingindustry.com/news/ornls-new-3d-printed-capsules-withstand-reactor-conditions-242245/?utm_source=rss&utm_medium=rss&utm_campaign=ornls-new-3d-printed-capsules-withstand-reactor-conditions",
+    "title_en": "ORNL’s new 3D printed capsules withstand reactor conditions",
+    "summary_bullets_en": [
+      "Oak Ridge National Laboratory (ORNL) has successfully tested 3D printed stainless steel capsules.",
+      "The tests were conducted in the High Flux Isotope Reactor (HFIR).",
+      "The project is supported by the US Department of Energy’s Office of Nuclear Energy’s Advanced Materials and Manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Oak Ridge National Laboratory (ORNL) úspěšně otestovala 3D tištěné kapsle z nerezové oceli.",
+      "Testy byly provedeny v reaktoru High Flux Isotope Reactor (HFIR).",
+      "Projekt je podporován Úřadem pro jadernou energii Ministerstva energetiky USA v rámci programu Pokročilé materiály a výroba."
+    ],
+    "tags": [
+      "Hardware",
+      "ORNL",
+      "3D Printing",
+      "Nuclear Energy",
+      "Advanced Materials"
+    ]
+  },
+  {
+    "title": "Výzkumníci z EPFL vyvinuli programovatelnou mřížkovou strukturu pro robotiku s použitím jednoho pěnového materiálu",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/epfl-researchers-develop-programmable-lattice-structure-for-robotics-using-single-foam-material/\" target=\"_blank\">EPFL Researchers Develop Programmable Lattice Structure for Robotics Using Single Foam Material</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 23</span></div><div><img alt=\"EPFL Researchers Develop Programmable Lattice Structure for Robotics Using Single Foam Material\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/1108x622-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/1108x622-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-23T10:11:04+00:00",
+    "url": "https://3dprinting.com/news/epfl-researchers-develop-programmable-lattice-structure-for-robotics-using-single-foam-material/",
+    "title_en": "EPFL Researchers Develop Programmable Lattice Structure for Robotics Using Single Foam Material",
+    "summary_bullets_en": [
+      "Researchers at EPFL have created a programmable lattice structure using a single type of foam material.",
+      "The structure is designed for use in robotics, offering flexibility and adaptability.",
+      "This innovation could lead to more efficient and versatile robotic systems."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z EPFL vytvořili programovatelnou mřížkovou strukturu s použitím jednoho typu pěnového materiálu.",
+      "Struktura je navržena pro použití v robotice, nabízí flexibilitu a přizpůsobivost.",
+      "Tato inovace by mohla vést k efektivnějším a všestrannějším robotickým systémům."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "EPFL",
+      "Robotics"
+    ]
+  },
+  {
+    "title": "Signify uvádí na trh kancelářské osvětlení vyrobené 3D tiskem ze 75% recyklovaných materiálů",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/signify-launches-3d-printed-office-lighting-made-from-75-recycled-materials/\" target=\"_blank\">Signify Launches 3D-Printed Office Lighting Made from 75% Recycled Materials</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 23</span></div><div><img alt=\"Signify Launches 3D-Printed Office Lighting Made from 75% Recycled Materials\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"452\" src=\"https://3dprinting.com/wp-content/uploads/puzzle-image-500x452.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/puzzle-image-500x452.webp",
+    "source": "3DPrinting.com",
+    "published": "2025-07-23T10:04:47+00:00",
+    "url": "https://3dprinting.com/news/signify-launches-3d-printed-office-lighting-made-from-75-recycled-materials/",
+    "title_en": "Signify Launches 3D-Printed Office Lighting Made from 75% Recycled Materials",
+    "summary_bullets_en": [
+      "Signify has introduced a new line of office lighting that is 3D-printed.",
+      "The lighting products are made from 75% recycled materials.",
+      "This initiative is part of Signify's commitment to sustainability and reducing environmental impact."
+    ],
+    "summary_bullets_cs": [
+      "Signify představila novou řadu kancelářského osvětlení vyrobeného 3D tiskem.",
+      "Osvětlovací produkty jsou vyrobeny ze 75% recyklovaných materiálů.",
+      "Tato iniciativa je součástí závazku Signify k udržitelnosti a snižování dopadu na životní prostředí."
+    ],
+    "tags": [
+      "Hardware",
+      "Signify",
+      "Sustainability",
+      "Recycled Materials",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Bentley představuje koncept EXP 15, který spojuje klasický design s 3D tiskem",
+    "summary": "Luxury carmaker Bentley Motors has unveiled the EXP 15, a concept car showcased at its new design studio that blends the brand’s early Grand Tourer heritage with advanced technologies like 3D printing and virtual reality. The EXP 15, though not slated for production, previews the design and technology of Bentley’s all-electric model launching in 2026, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/42-EXP-15-Sketch-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-23T09:47:18+00:00",
+    "url": "https://3dprintingindustry.com/news/bentley-unveils-exp-15-concept-blending-classic-design-with-3d-printing-242232/?utm_source=rss&utm_medium=rss&utm_campaign=bentley-unveils-exp-15-concept-blending-classic-design-with-3d-printing",
+    "title_en": "Bentley Unveils EXP 15 Concept, Blending Classic Design with 3D Printing",
+    "summary_bullets_en": [
+      "Bentley Motors has introduced the EXP 15, a concept car that combines classic Grand Tourer design with modern technologies.",
+      "The concept car was showcased at Bentley's new design studio.",
+      "EXP 15 incorporates advanced technologies like 3D printing and virtual reality.",
+      "The design and technology of the EXP 15 preview Bentley's all-electric model set to launch in 2026."
+    ],
+    "summary_bullets_cs": [
+      "Bentley Motors představila EXP 15, koncept vozu, který kombinuje klasický design Grand Tourer s moderními technologiemi.",
+      "Koncept byl představen v novém designovém studiu Bentley.",
+      "EXP 15 zahrnuje pokročilé technologie jako 3D tisk a virtuální realitu.",
+      "Design a technologie EXP 15 předznamenávají plně elektrický model Bentley, který bude uveden na trh v roce 2026."
+    ],
+    "tags": [
+      "Hardware",
+      "Bentley",
+      "3D Printing",
+      "Electric Vehicles",
+      "Concept Cars"
+    ]
+  },
+  {
     "title": "Nová technika FFF 3D tisku umožňuje tisknout textilie mimo tiskovou plochu",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/922028990/0/fabbaloo/default~New-FFF-D-Printing-Technique-Enables-Fabric-Printing-Beyond-the-Build-Plate\" rel=\"nofollow\" title=\"New FFF 3D Printing Technique Enables Fabric Printing Beyond the Build Plate\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/interlinked-print-cover-300x255.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new 3D printing technique allows printing of fabric far larger than the 3D printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922028990/0/fabbaloo/default~New-FFF-D-Printing-Technique-Enables-Fabric-Printing-Beyond-the-Build-Plate\" rel=\"nofollow\">New FFF 3D Printing Technique Enables Fabric Printing Beyond the Build Plate</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/interlinked-print-cover-300x255.jpeg",
