@@ -1,5 +1,191 @@
 [
   {
+    "title": "Skuld prodává první Lightning Metal stroj Univerzitě v Tennessee",
+    "summary": "Skuld LLC has sold a Lightning Metal machine to the University of Tennessee at Knoxville. Skuld´s Additive Manufacturing Evaporative Casting (AMEC) technique is potentially a super low-cost method for making...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/sarah-3.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-24T12:00:45+00:00",
+    "url": "https://3dprint.com/319427/skuld-sells-first-lightning-metal-machine-to-university-of-tennessee/",
+    "title_en": "Skuld Sells First Lightning Metal Machine to University of Tennessee",
+    "summary_bullets_en": [
+      "Skuld LLC has sold its first Lightning Metal machine to the University of Tennessee at Knoxville.",
+      "The machine utilizes Skuld's Additive Manufacturing Evaporative Casting (AMEC) technique.",
+      "AMEC is potentially a super low-cost method for metal manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Skuld LLC prodala svůj první Lightning Metal stroj Univerzitě v Tennessee v Knoxville.",
+      "Stroj využívá techniku Skuld's Additive Manufacturing Evaporative Casting (AMEC).",
+      "AMEC je potenciálně velmi levná metoda pro výrobu kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "Skuld",
+      "University of Tennessee",
+      "AMEC"
+    ]
+  },
+  {
+    "title": "Ursa Major si vybírá Dyndrite pro 3D tisk raketových motorů pomocí LPBF",
+    "summary": "Dyndrite, a software company specializing in GPU-accelerated digital manufacturing tools, has signed a multi-year licensing agreement with aerospace propulsion firm Ursa Major. The agreement follows a six-month technical evaluation in which Dyndrite’s LPBF Pro software surpassed Ursa Major’s existing toolchain. The software will now support Ursa Major’s metal additive manufacturing operations, including material development, part [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/03/653fc84a347cc03428184a60_M-P-main-1000px-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-24T09:32:00+00:00",
+    "url": "https://3dprintingindustry.com/news/ursa-major-selects-dyndrite-for-lpbf-rocket-engine-3d-printing-242298/?utm_source=rss&utm_medium=rss&utm_campaign=ursa-major-selects-dyndrite-for-lpbf-rocket-engine-3d-printing",
+    "title_en": "Ursa Major Selects Dyndrite for LPBF Rocket Engine 3D Printing",
+    "summary_bullets_en": [
+      "Dyndrite has signed a multi-year licensing agreement with Ursa Major.",
+      "The agreement follows a successful six-month technical evaluation.",
+      "Dyndrite’s LPBF Pro software will support Ursa Major’s metal additive manufacturing operations."
+    ],
+    "summary_bullets_cs": [
+      "Dyndrite podepsal víceletou licenční smlouvu s Ursa Major.",
+      "Smlouva následuje po úspěšném šestiměsíčním technickém hodnocení.",
+      "Software LPBF Pro od Dyndrite bude podporovat kovové aditivní výrobní operace Ursa Major."
+    ],
+    "tags": [
+      "Software",
+      "Aerospace",
+      "Dyndrite",
+      "Ursa Major",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "TANIOBIS vyvíjí slitiny niobu pro NewSpace",
+    "summary": "TANIOBIS GmbH, a specialist in niobium alloy powders, is targeting Europe’s accelerating NewSpace sector with materials engineered for high thermal loads in aerospace propulsion and structural hardware. The company says its niobium-based AMtrinsic powders are intended to meet rising demand for components that must maintain mechanical integrity when exposed to temperatures above 1000 °C—conditions that [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Image-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-24T09:25:24+00:00",
+    "url": "https://3dprintingindustry.com/news/taniobis-develops-niobium-alloys-for-newspace-242293/?utm_source=rss&utm_medium=rss&utm_campaign=taniobis-develops-niobium-alloys-for-newspace",
+    "title_en": "TANIOBIS develops niobium alloys for NewSpace",
+    "summary_bullets_en": [
+      "TANIOBIS GmbH specializes in niobium alloy powders for the NewSpace sector.",
+      "The company targets aerospace propulsion and structural hardware with materials designed for high thermal loads.",
+      "Their niobium-based AMtrinsic powders are engineered to withstand temperatures above 1000 °C."
+    ],
+    "summary_bullets_cs": [
+      "TANIOBIS GmbH se specializuje na prášky ze slitin niobu pro sektor NewSpace.",
+      "Společnost cílí na pohonné systémy a konstrukční hardware v letectví s materiály navrženými pro vysoké tepelné zatížení.",
+      "Jejich prášky AMtrinsic na bázi niobu jsou navrženy tak, aby odolaly teplotám nad 1000 °C."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "TANIOBIS",
+      "NewSpace",
+      "Aerospace"
+    ]
+  },
+  {
+    "title": "UKAEA pokročila ve výrobě pro fúzi s dvojicí 3D tiskových systémů",
+    "summary": "The United Kingdom Atomic Energy Authority (UKAEA) has commissioned two 3D printing systems—an electron beam machine from Swedish manufacturer Freemelt, and a laser-based system from metal 3D printer manufacturer Nikon SLM Solutions—at its newly launched Central Support Facility (CSF) to produce advanced components for future fusion power plants. “Fusion represents the future of energy – [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/1753177153238-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-24T09:04:14+00:00",
+    "url": "https://3dprintingindustry.com/news/ukaea-advances-fusion-manufacturing-with-dual-3d-printing-systems-242277/?utm_source=rss&utm_medium=rss&utm_campaign=ukaea-advances-fusion-manufacturing-with-dual-3d-printing-systems",
+    "title_en": "UKAEA Advances Fusion Manufacturing with Dual 3D Printing Systems",
+    "summary_bullets_en": [
+      "The UK Atomic Energy Authority (UKAEA) has commissioned two 3D printing systems for fusion power plant components.",
+      "The systems include an electron beam machine from Freemelt and a laser-based system from Nikon SLM Solutions.",
+      "These systems are part of the newly launched Central Support Facility (CSF).",
+      "The initiative aims to advance the production of components for future fusion energy solutions."
+    ],
+    "summary_bullets_cs": [
+      "Britský úřad pro atomovou energii (UKAEA) uvedl do provozu dva 3D tiskové systémy pro komponenty fúzních elektráren.",
+      "Systémy zahrnují elektronový paprskový stroj od Freemelt a laserový systém od Nikon SLM Solutions.",
+      "Tyto systémy jsou součástí nově spuštěného Centrálního podpůrného zařízení (CSF).",
+      "Iniciativa má za cíl pokročit ve výrobě komponent pro budoucí řešení fúzní energie."
+    ],
+    "tags": [
+      "Hardware",
+      "Freemelt",
+      "Nikon SLM Solutions",
+      "UKAEA",
+      "3D Printing",
+      "Fusion Energy"
+    ]
+  },
+  {
+    "title": "BMW přeměňuje odpad z 3D tisku na výrobní zdroje, pokročilá cirkulární výroba",
+    "summary": "Global automotive manufacturer BMW Group is advancing its circular economy goals by repurposing waste from its additive manufacturing processes. At the Additive Manufacturing Campus in Oberschleißheim, Germany, and other sites worldwide, used 3D printing powder and components are recycled into filament for the Fused Filament Fabrication (FFF) process and granulate for Fused Granulate Fabrication (FGF), [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Screenshot-2025-07-23-at-13.16.34-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-07-24T07:41:38+00:00",
+    "url": "https://3dprintingindustry.com/news/bmw-transforms-3d-printing-waste-into-production-assets-advancing-circular-manufacturing-242255/?utm_source=rss&utm_medium=rss&utm_campaign=bmw-transforms-3d-printing-waste-into-production-assets-advancing-circular-manufacturing",
+    "title_en": "BMW Transforms 3D Printing Waste into Production Assets, Advancing Circular Manufacturing",
+    "summary_bullets_en": [
+      "BMW Group is repurposing waste from its additive manufacturing processes to support circular economy goals.",
+      "Used 3D printing powder and components are recycled into filament for FFF and granulate for FGF.",
+      "The initiative is being implemented at the Additive Manufacturing Campus in Oberschleißheim, Germany, and other sites worldwide."
+    ],
+    "summary_bullets_cs": [
+      "BMW Group přetváří odpad z aditivních výrobních procesů k podpoře cílů cirkulární ekonomiky.",
+      "Použitý prášek a komponenty z 3D tisku jsou recyklovány na filament pro FFF a granulát pro FGF.",
+      "Iniciativa je realizována v Additive Manufacturing Campus v Oberschleißheimu v Německu a na dalších místech po celém světě."
+    ],
+    "tags": [
+      "Hardware",
+      "BMW",
+      "Additive Manufacturing",
+      "Circular Economy"
+    ]
+  },
+  {
+    "title": "Trinckle’s fixturemate se integruje s GrabCAD Print Pro pro zjednodušení návrhu přípravků",
+    "summary": "Berlin based design automation company trinckle, has officially launched its fixturemate software within Stratasys’ GrabCAD Print Pro platform. Following the announcement of their strategic partnership earlier this year, the release marks the first live milestone in their effort to simplify additive manufacturing (AM) workflows by integrating design automation tools directly into the production environments. Integrating [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Fixture-image_CNC-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-24T07:36:13+00:00",
+    "url": "https://3dprintingindustry.com/news/trinckles-fixturemate-integrates-with-grabcad-print-pro-to-streamline-fixture-design-242269/?utm_source=rss&utm_medium=rss&utm_campaign=trinckles-fixturemate-integrates-with-grabcad-print-pro-to-streamline-fixture-design",
+    "title_en": "trinckle’s fixturemate integrates with GrabCAD Print Pro to streamline fixture design",
+    "summary_bullets_en": [
+      "Trinckle has launched its fixturemate software within the GrabCAD Print Pro platform.",
+      "This integration is part of a strategic partnership with Stratasys announced earlier this year.",
+      "The goal is to simplify additive manufacturing workflows by embedding design automation tools into production environments."
+    ],
+    "summary_bullets_cs": [
+      "Trinckle spustilo svůj software fixturemate v rámci platformy GrabCAD Print Pro.",
+      "Tato integrace je součástí strategického partnerství se společností Stratasys oznámeného začátkem tohoto roku.",
+      "Cílem je zjednodušit pracovní postupy aditivní výroby integrací nástrojů pro automatizaci návrhu přímo do výrobního prostředí."
+    ],
+    "tags": [
+      "Software",
+      "Stratasys",
+      "trinckle",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Meltio představuje úspěchy průmyslového 3D tisku v první polovině roku 2025",
+    "summary": "Meltio, Meltio, a Spain-based manufacturer of wire-laser metal 3D printing systems, has reported a surge in real-world industrial applications across automotive, aerospace, defense, mining, and energy sectors during the first half of 2025. The company reports its Directed Energy Deposition (DED) technology is being used globally to manufacture and repair metal components on demand, helping [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/closed_impeller-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-24T07:31:49+00:00",
+    "url": "https://3dprintingindustry.com/news/meltio-showcases-real-world-industrial-3d-printing-success-in-h1-2025-242252/?utm_source=rss&utm_medium=rss&utm_campaign=meltio-showcases-real-world-industrial-3d-printing-success-in-h1-2025",
+    "title_en": "Meltio showcases real-world industrial 3D printing success in H1 2025",
+    "summary_bullets_en": [
+      "Meltio, a Spanish manufacturer, reports increased industrial applications of its wire-laser metal 3D printing systems.",
+      "The company's Directed Energy Deposition (DED) technology is being used in sectors like automotive, aerospace, defense, mining, and energy.",
+      "Meltio's technology is utilized globally for on-demand manufacturing and repair of metal components."
+    ],
+    "summary_bullets_cs": [
+      "Španělský výrobce Meltio hlásí nárůst průmyslových aplikací svých systémů pro 3D tisk kovů pomocí drátového laseru.",
+      "Technologie Directed Energy Deposition (DED) společnosti je využívána v oblastech jako automobilový průmysl, letectví, obrana, těžba a energetika.",
+      "Technologie Meltio je globálně využívána pro výrobu a opravy kovových komponent na vyžádání."
+    ],
+    "tags": [
+      "Hardware",
+      "Meltio",
+      "3D Printing",
+      "Directed Energy Deposition",
+      "Automotive",
+      "Aerospace",
+      "Defense",
+      "Mining",
+      "Energy"
+    ]
+  },
+  {
     "title": "Návrh cívky od Bambu Lab se tiše stává de facto standardem v odvětví 3D tisku",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/922083059/0/fabbaloo/default~Bambu-Lab%e2%80%99s-Spool-Design-Quietly-Becomes-De-Facto-Standard-in-D-Printing-Industry\" rel=\"nofollow\" title=\"Bambu Lab’s Spool Design Quietly Becomes De Facto Standard in 3D Printing Industry\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/bambu-lab-spool-standard-here-cover-1-300x169.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Has Bambu Lab won the filament spool format war?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922083059/0/fabbaloo/default~Bambu-Lab%e2%80%99s-Spool-Design-Quietly-Becomes-De-Facto-Standard-in-D-Printing-Industry\" rel=\"nofollow\">Bambu Lab’s Spool Design Quietly Becomes De Facto Standard in 3D Printing Industry</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/bambu-lab-spool-standard-here-cover-1-300x169.jpeg",
