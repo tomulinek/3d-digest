@@ -1,5 +1,217 @@
 [
   {
+    "title": "AMAA 2025: 90% úspora nákladů a času u Northrop Grumman díky 3D tisku",
+    "summary": "Northrop Grumman is integrating additive manufacturing across its space systems to reduce lead times, lower costs, and enhance the design flexibility of certified parts. At the recent Additive Manufacturing Advantage Aerospace (AMAA) 2025 conference, Andrew Thompson revealed that Northrop 3D prints hundreds of thousands of parts annually. The global aerospace, space, and defense manufacturer is [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/AMAA-2025-Andrew-Thompson-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-07-24T17:14:16+00:00",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/?utm_source=rss&utm_medium=rss&utm_campaign=amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing",
+    "title_en": "AMAA 2025: 90% Cost and Time Savings at Northrop Grumman Enabled by 3D Printing",
+    "summary_bullets_en": [
+      "Northrop Grumman is utilizing additive manufacturing to significantly reduce lead times and costs in its space systems.",
+      "The company 3D prints hundreds of thousands of parts annually, enhancing design flexibility and part certification.",
+      "Andrew Thompson highlighted these advancements at the AMAA 2025 conference."
+    ],
+    "summary_bullets_cs": [
+      "Northrop Grumman využívá aditivní výrobu ke značnému zkrácení dodacích lhůt a snížení nákladů ve svých vesmírných systémech.",
+      "Společnost ročně 3D tiskne stovky tisíc dílů, čímž zvyšuje flexibilitu designu a certifikaci dílů.",
+      "Andrew Thompson zdůraznil tyto pokroky na konferenci AMAA 2025."
+    ],
+    "tags": [
+      "Hardware",
+      "Northrop Grumman",
+      "Additive Manufacturing",
+      "Aerospace",
+      "Space Systems"
+    ]
+  },
+  {
+    "title": "Aibuild a Massive Dimension představují škálovatelný MD Software pro průmyslový 3D tisk",
+    "summary": "Aibuild, a UK software company specializing in large-format additive manufacturing (LFAM), has expanded its partnership with Massive Dimension, known for its robotic 3D printing extruders, by launching MD Software. This offering merges Massive Dimension’s extrusion hardware with Aibuild’s reliable, industry-tested software platform. MD Software incorporates Aibuild’s features—including parametric slicing methods, analytical tools, and automated design [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/MDSoftwareThumbnail-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-07-24T17:12:38+00:00",
+    "url": "https://3dprintingindustry.com/news/aibuild-and-massive-dimension-deliver-scalable-md-software-for-industrial-3d-printing-242319/?utm_source=rss&utm_medium=rss&utm_campaign=aibuild-and-massive-dimension-deliver-scalable-md-software-for-industrial-3d-printing",
+    "title_en": "Aibuild and Massive Dimension Deliver Scalable MD Software for Industrial 3D Printing",
+    "summary_bullets_en": [
+      "Aibuild, a UK-based software company, has expanded its partnership with Massive Dimension.",
+      "They have launched MD Software, combining Massive Dimension's extrusion hardware with Aibuild's software.",
+      "MD Software includes features like parametric slicing methods and analytical tools."
+    ],
+    "summary_bullets_cs": [
+      "Aibuild, britská softwarová společnost, rozšířila partnerství s Massive Dimension.",
+      "Společně uvedli na trh MD Software, který spojuje extruzní hardware Massive Dimension se softwarem Aibuild.",
+      "MD Software zahrnuje funkce jako parametrické metody řezání a analytické nástroje."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Aibuild",
+      "Massive Dimension",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Jedinečný robot inspirovaný přírodou z EPFL napodobuje mechaniku svalů a kostí, zvedne 4 kg",
+    "summary": "Want to speak at AMA: Energy 2025 or AMA: Automotive &#38; Mobility 2025? Submit your application now! Researchers at Ecole Polytechnique Federale de Lausanne (EPFL) have developed a 3D printed robot that mimics the mechanical complexity of muscles and bones using just one material.&#160; Inspired by elephants, the robot combines soft, flexible components with rigid, load-bearing structures without [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/sciadv.adu9856-f1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-24T17:10:51+00:00",
+    "url": "https://3dprintingindustry.com/news/epfls-unique-bio-inspired-robot-mimics-muscle-bone-mechanics-lifts-4-kg-242303/?utm_source=rss&utm_medium=rss&utm_campaign=epfls-unique-bio-inspired-robot-mimics-muscle-bone-mechanics-lifts-4-kg",
+    "title_en": "EPFL’s unique bio-inspired robot mimics muscle-bone mechanics, lifts 4 kg",
+    "summary_bullets_en": [
+      "Researchers at EPFL have developed a 3D printed robot inspired by elephants.",
+      "The robot mimics the mechanical complexity of muscles and bones using a single material.",
+      "It combines soft, flexible components with rigid, load-bearing structures.",
+      "The robot is capable of lifting up to 4 kg."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z EPFL vyvinuli 3D tištěného robota inspirovaného slony.",
+      "Robot napodobuje mechanickou složitost svalů a kostí pomocí jednoho materiálu.",
+      "Kombinuje měkké, flexibilní komponenty s pevnými, nosnými strukturami.",
+      "Robot je schopen zvednout až 4 kg."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "EPFL",
+      "Robotics",
+      "Bio-inspired Design"
+    ]
+  },
+  {
+    "title": "Stratasys a trinckle spolupracují na exkluzivním přidání fixtureMate do GrabCAD Pro",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922133288/0/fabbaloo/default~Stratasys-and-trinckle-Partner-to-Bring-fixtureMate-Exclusively-to-GrabCAD-Pro\" rel=\"nofollow\" title=\"Stratasys and trinckle Partner to Bring fixtureMate Exclusively to GrabCAD Pro\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/trinckle-grabcad-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Big news from trinckle: they’ve signed an exclusive agreement with Stratasys to include the tool in GrabCAD Pro.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922133288/0/fabbaloo/default~Stratasys-and-trinckle-Partner-to-Bring-fixtureMate-Exclusively-to-GrabCAD-Pro\" rel=\"nofollow\">Stratasys and trinckle Partner to Bring fixtureMate Exclusively to GrabCAD Pro</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/trinckle-grabcad-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-24T15:41:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922133288/0/fabbaloo/default~Stratasys-and-trinckle-Partner-to-Bring-fixtureMate-Exclusively-to-GrabCAD-Pro",
+    "title_en": "Stratasys and trinckle Partner to Bring fixtureMate Exclusively to GrabCAD Pro",
+    "summary_bullets_en": [
+      "trinckle has signed an exclusive agreement with Stratasys.",
+      "The agreement involves including the fixtureMate tool in GrabCAD Pro.",
+      "This partnership aims to enhance the capabilities of GrabCAD Pro users."
+    ],
+    "summary_bullets_cs": [
+      "trinckle podepsalo exkluzivní dohodu se Stratasys.",
+      "Dohoda zahrnuje přidání nástroje fixtureMate do GrabCAD Pro.",
+      "Tato spolupráce má za cíl zlepšit možnosti uživatelů GrabCAD Pro."
+    ],
+    "tags": [
+      "Software",
+      "Stratasys",
+      "trinckle",
+      "GrabCAD Pro"
+    ]
+  },
+  {
+    "title": "Systemic Bio končí, ale mise zakladatelky Taci Pereiry pokračuje",
+    "summary": "Systemic Bio, the 3D Systems subsidiary working to transform drug development with bioprinted tissue models, has officially closed. The news came in an emotional, personal, and powerful blog post by...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/93b8748e-a368-48d0-96d3-ab7b75dd7a85_12062144.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-24T13:30:24+00:00",
+    "url": "https://3dprint.com/319542/systemic-bio-closes-but-founder-taci-pereiras-mission-continues/",
+    "title_en": "Systemic Bio Closes, but Founder Taci Pereira’s Mission Continues",
+    "summary_bullets_en": [
+      "Systemic Bio, a subsidiary of 3D Systems, has officially shut down.",
+      "The company aimed to revolutionize drug development using bioprinted tissue models.",
+      "The closure was announced in an emotional blog post by founder Taci Pereira.",
+      "Despite the closure, Pereira remains committed to her mission."
+    ],
+    "summary_bullets_cs": [
+      "Systemic Bio, dceřiná společnost 3D Systems, byla oficiálně uzavřena.",
+      "Společnost se snažila revolučně změnit vývoj léků pomocí biotištěných tkáňových modelů.",
+      "Uzavření bylo oznámeno v emotivním blogovém příspěvku zakladatelky Taci Pereiry.",
+      "Navzdory uzavření zůstává Pereira oddaná své misi."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Systems",
+      "Bioprinting",
+      "Drug Development"
+    ]
+  },
+  {
+    "title": "Akvizice PodoPrinteru zdůrazňuje rostoucí poptávku po aplikacích specifickém 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922124444/0/fabbaloo/default~PodoPrinter-Acquisition-Highlights-Growing-Demand-for-ApplicationSpecific-D-Printing\" rel=\"nofollow\" title=\"PodoPrinter Acquisition Highlights Growing Demand for Application-Specific 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/podoprinter-acquired-cover-300x230.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>PodoPrinter has been acquired.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922124444/0/fabbaloo/default~PodoPrinter-Acquisition-Highlights-Growing-Demand-for-ApplicationSpecific-D-Printing\" rel=\"nofollow\">PodoPrinter Acquisition Highlights Growing Demand for Application-Specific 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/podoprinter-acquired-cover-300x230.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-24T13:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922124444/0/fabbaloo/default~PodoPrinter-Acquisition-Highlights-Growing-Demand-for-ApplicationSpecific-D-Printing",
+    "title_en": "PodoPrinter Acquisition Highlights Growing Demand for Application-Specific 3D Printing",
+    "summary_bullets_en": [
+      "PodoPrinter has been acquired, indicating a growing interest in specialized 3D printing solutions.",
+      "The acquisition reflects the increasing demand for application-specific 3D printing technologies.",
+      "This trend highlights the importance of tailored 3D printing solutions in various industries."
+    ],
+    "summary_bullets_cs": [
+      "PodoPrinter byl akvírován, což naznačuje rostoucí zájem o specializovaná řešení 3D tisku.",
+      "Akvizice odráží rostoucí poptávku po technologiích 3D tisku specifických pro aplikace.",
+      "Tento trend zdůrazňuje důležitost přizpůsobených řešení 3D tisku v různých průmyslových odvětvích."
+    ],
+    "tags": [
+      "Hardware",
+      "PodoPrinter",
+      "3D Printing",
+      "Acquisition",
+      "Application-Specific"
+    ]
+  },
+  {
+    "title": "Srini Kaza diskutuje o strategickém rozšiřování „úsměv měnících“ 3D tištěných rovnátek Align",
+    "summary": "Align Technology&#8216;s Invisalign is a revolutionary method to get you the smile you want through 3D printing. It is also a hugely popular process to go through, a $4 billion...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/Untitled-3.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-24T13:00:53+00:00",
+    "url": "https://3dprint.com/319526/srini-kaza-on-scaling-aligns-3d-printed-aligners/",
+    "title_en": "Srini Kaza Discusses Strategically Scaling Align’s “Smile-Changing” 3D Printed Aligners",
+    "summary_bullets_en": [
+      "Align Technology's Invisalign uses 3D printing to create custom dental aligners.",
+      "The process is highly popular and contributes to a $4 billion market.",
+      "Srini Kaza discusses strategies for scaling production to meet growing demand.",
+      "The technology offers a revolutionary approach to achieving desired dental aesthetics."
+    ],
+    "summary_bullets_cs": [
+      "Invisalign od Align Technology využívá 3D tisk k výrobě zakázkových zubních rovnátek.",
+      "Proces je velmi populární a přispívá k trhu v hodnotě 4 miliard dolarů.",
+      "Srini Kaza diskutuje o strategiích pro rozšíření výroby, aby vyhověla rostoucí poptávce.",
+      "Technologie nabízí revoluční přístup k dosažení požadované estetické úpravy zubů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Align Technology",
+      "Invisalign",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Poskytovatel AM softwaru Dyndrite uzavírá víceletou spolupráci se specialistou na 3D tištěné pohonné systémy Ursa Major",
+    "summary": "The right partnerships enable all parties involved to accentuate their strengths more effectively than would be possible if each partner was working alone. Digital manufacturing software provider Dyndrite, which specializes...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/IMG_1802-1024x797.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-24T12:30:12+00:00",
+    "url": "https://3dprint.com/319556/am-software-provider-dyndrite-forms-multi-year-partnership-w-3d-printed-propulsion-specialist-ursa-major/",
+    "title_en": "AM Software Provider Dyndrite Forms Multi-Year Partnership with 3D Printed Propulsion Specialist Ursa Major",
+    "summary_bullets_en": [
+      "Dyndrite, a digital manufacturing software provider, has entered a multi-year partnership with Ursa Major.",
+      "Ursa Major specializes in 3D printed propulsion systems.",
+      "The partnership aims to leverage the strengths of both companies to enhance their capabilities.",
+      "Collaborations like this can lead to more effective outcomes than working independently."
+    ],
+    "summary_bullets_cs": [
+      "Dyndrite, poskytovatel softwaru pro digitální výrobu, uzavřel víceletou spolupráci s Ursa Major.",
+      "Ursa Major se specializuje na 3D tištěné pohonné systémy.",
+      "Cílem spolupráce je využít silné stránky obou společností k posílení jejich schopností.",
+      "Takové spolupráce mohou vést k efektivnějším výsledkům než samostatná práce."
+    ],
+    "tags": [
+      "Software",
+      "Dyndrite",
+      "Ursa Major"
+    ]
+  },
+  {
     "title": "Skuld prodává první Lightning Metal stroj Univerzitě v Tennessee",
     "summary": "Skuld LLC has sold a Lightning Metal machine to the University of Tennessee at Knoxville. Skuld´s Additive Manufacturing Evaporative Casting (AMEC) technique is potentially a super low-cost method for making...",
     "image": "https://3dprint.com/wp-content/uploads/2025/07/sarah-3.jpg",
@@ -22,6 +234,32 @@
       "Skuld",
       "University of Tennessee",
       "AMEC"
+    ]
+  },
+  {
+    "title": "Přímé poselství Jamieho Dimona Evropě a výzva k probuzení pro 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922121789/0/fabbaloo/default~Jamie-Dimons-Blunt-Message-to-Europe-and-the-WakeUp-Call-for-D-Printing\" rel=\"nofollow\" title=\"Jamie Dimon&#8217;s Blunt Message to Europe and the Wake-Up Call for 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/Dimon1-227x300.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"227\" /></a><p>Charles R. Goulding and Preeti Sulibhavi analyze Jamie Dimon’s stark warning about Europe’s economic slide and connect it to a critical inflection point in the continent’s 3D printing industry, marked by Trumpf’s exit and a call for renewed industrial strategy.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922121789/0/fabbaloo/default~Jamie-Dimons-Blunt-Message-to-Europe-and-the-WakeUp-Call-for-D-Printing\" rel=\"nofollow\">Jamie Dimon&#8217;s Blunt Message to Europe and the Wake-Up Call for 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/Dimon1-227x300.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-24T11:58:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922121789/0/fabbaloo/default~Jamie-Dimons-Blunt-Message-to-Europe-and-the-WakeUp-Call-for-D-Printing",
+    "title_en": "Jamie Dimon’s Blunt Message to Europe and the Wake-Up Call for 3D Printing",
+    "summary_bullets_en": [
+      "Jamie Dimon has issued a stark warning about Europe's economic decline.",
+      "The warning is linked to a critical point in Europe's 3D printing industry.",
+      "Trumpf's exit from the market highlights the need for a renewed industrial strategy."
+    ],
+    "summary_bullets_cs": [
+      "Jamie Dimon vydal přímé varování ohledně ekonomického úpadku Evropy.",
+      "Varování je spojeno s kritickým bodem v evropském průmyslu 3D tisku.",
+      "Odchod společnosti Trumpf z trhu zdůrazňuje potřebu obnovené průmyslové strategie."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Europe",
+      "Trumpf",
+      "Industrial Strategy"
     ]
   },
   {
