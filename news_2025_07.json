@@ -1,5 +1,239 @@
 [
   {
+    "title": "3DPOD 264: 3D tisk v námořní pěchotě USA s Mattem Pinem, důstojníkem pro inovace",
+    "summary": "Matt Pine is training Marines to use 3D printing in the field and helping deploy the technology globally for the United States Marine Corps. Working primarily with desktop machines, he...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-28T12:00:06+00:00",
+    "url": "https://3dprint.com/319458/3dpod-264-3d-printing-in-us-marine-corps-with-matt-pine-innovation-officer/",
+    "title_en": "3DPOD 264: 3D Printing in US Marine Corps with Matt Pine, Innovation Officer",
+    "summary_bullets_en": [
+      "Matt Pine is responsible for training US Marines in the use of 3D printing technology.",
+      "He focuses on deploying desktop 3D printing machines for field operations.",
+      "The initiative aims to enhance operational capabilities and global deployment of 3D printing within the Marine Corps."
+    ],
+    "summary_bullets_cs": [
+      "Matt Pine školí příslušníky námořní pěchoty USA v používání technologie 3D tisku.",
+      "Zaměřuje se na nasazení stolních 3D tiskáren pro operace v terénu.",
+      "Iniciativa má za cíl zlepšit operační schopnosti a globální nasazení 3D tisku v rámci námořní pěchoty."
+    ],
+    "tags": [
+      "Hardware",
+      "US Marine Corps",
+      "3D Printing",
+      "Innovation",
+      "Desktop Machines"
+    ]
+  },
+  {
+    "title": "Design týdne: Sada podtácků ve tvaru gramofonu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922312091/0/fabbaloo/default~Design-of-the-Week-Record-Player-Coaster-Set\" rel=\"nofollow\" title=\"Design of the Week: Record Player Coaster Set\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/3dp-coaster-cover-300x237.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>This week’s selection is the Record Player Coaster Set by Cults contributor flapjack3dcreations.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922312091/0/fabbaloo/default~Design-of-the-Week-Record-Player-Coaster-Set\" rel=\"nofollow\">Design of the Week: Record Player Coaster Set</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/3dp-coaster-cover-300x237.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-28T11:09:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922312091/0/fabbaloo/default~Design-of-the-Week-Record-Player-Coaster-Set",
+    "title_en": "Design of the Week: Record Player Coaster Set",
+    "summary_bullets_en": [
+      "This week's featured design is the Record Player Coaster Set.",
+      "The design is created by Cults contributor flapjack3dcreations.",
+      "The coaster set is inspired by a record player theme."
+    ],
+    "summary_bullets_cs": [
+      "Tento týden je vybrán design sady podtácků ve tvaru gramofonu.",
+      "Design vytvořil přispěvatel Cults s přezdívkou flapjack3dcreations.",
+      "Sada podtácků je inspirována tématem gramofonu."
+    ],
+    "tags": [
+      "Design",
+      "3D Printing",
+      "Cults",
+      "flapjack3dcreations",
+      "Home Decor"
+    ]
+  },
+  {
+    "title": "Filamentive představuje profily udržitelnosti pro materiály 3D tisku",
+    "summary": "UK 3D printing filament brand Filamentive&#160; has introduced Material Sustainability Profiles (MSP), a new initiative to boost transparency in additive manufacturing. The profiles aim to help users make more environmentally conscious purchasing decisions by offering clear, accessible data about the sustainability credentials of each material. Transparency boost in 3D printing Each MSP offers a structured [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Sustainable-3D-Printing-Measurement-Recycled-CO2-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-07-28T09:53:05+00:00",
+    "url": "https://3dprintingindustry.com/news/filamentive-debuts-sustainability-profiles-for-3d-printing-materials-242417/?utm_source=rss&utm_medium=rss&utm_campaign=filamentive-debuts-sustainability-profiles-for-3d-printing-materials",
+    "title_en": "Filamentive debuts sustainability profiles for 3D printing materials",
+    "summary_bullets_en": [
+      "Filamentive, a UK-based 3D printing filament brand, has launched Material Sustainability Profiles (MSP).",
+      "The initiative aims to enhance transparency in additive manufacturing.",
+      "MSPs provide clear and accessible data on the sustainability credentials of each material.",
+      "The goal is to help users make more environmentally conscious purchasing decisions."
+    ],
+    "summary_bullets_cs": [
+      "Britská značka filamentů pro 3D tisk Filamentive představila profily udržitelnosti materiálů (MSP).",
+      "Iniciativa má za cíl zvýšit transparentnost v aditivní výrobě.",
+      "MSP poskytují jasná a přístupná data o udržitelnosti každého materiálu.",
+      "Cílem je pomoci uživatelům činit ekologicky uvědomělé nákupní rozhodnutí."
+    ],
+    "tags": [
+      "Material",
+      "Filamentive",
+      "Sustainability",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Ověřeno pro vesmír: Povlakované 3D tištěné díly Horizon splňují standard ECSS pro odplyňování",
+    "summary": "Horizon Microtechnologies, a German company specializing in high-precision microfabrication, has successfully passed the ECSS-Q-ST-70-02C outgassing standard with its coated 3D printed components. This certification confirms the reliability of their proprietary metallisation process for precision and micro-scale additive manufacturing (AM) polymer parts in demanding space conditions. “At Horizon Microtechnologies our mission is to establish 3D printed, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Horizon-Outgassing-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-28T09:52:46+00:00",
+    "url": "https://3dprintingindustry.com/news/validated-for-space-horizons-coated-3d-printed-parts-meet-ecss-outgassing-standard-242403/?utm_source=rss&utm_medium=rss&utm_campaign=validated-for-space-horizons-coated-3d-printed-parts-meet-ecss-outgassing-standard",
+    "title_en": "Validated for Space: Horizon’s Coated 3D Printed Parts Meet ECSS Outgassing Standard",
+    "summary_bullets_en": [
+      "Horizon Microtechnologies, a German company, has achieved ECSS-Q-ST-70-02C outgassing standard certification.",
+      "The certification validates their metallisation process for 3D printed polymer parts in space conditions.",
+      "This advancement highlights the reliability of Horizon's precision and micro-scale additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Německá společnost Horizon Microtechnologies získala certifikaci ECSS-Q-ST-70-02C pro odplyňování.",
+      "Certifikace potvrzuje spolehlivost jejich procesu metalizace pro 3D tištěné polymerové díly ve vesmírných podmínkách.",
+      "Tento pokrok zdůrazňuje spolehlivost precizní a mikroměřítkové aditivní výroby Horizon."
+    ],
+    "tags": [
+      "Hardware",
+      "Horizon Microtechnologies",
+      "3D Printing",
+      "Space",
+      "Certification"
+    ]
+  },
+  {
+    "title": "Nová studie z Brightonu odhaluje, jak vzory elektrod zvyšují depozici zlata",
+    "summary": "Want to speak at&#160;AMA: Energy 2025&#160;or&#160;AMA: Automotive &#38; Mobility 2025? Submit your application now! Researchers from the University of Brighton have found that changing the surface pattern and scale of 3D printed electrodes can significantly influence how well gold nanoparticles deposit on them. Led by Dr. Bhavik Anil Patel, the study also explores how effectively [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/BR-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-07-28T09:51:20+00:00",
+    "url": "https://3dprintingindustry.com/news/brightons-new-study-reveals-how-electrode-patterns-boost-gold-deposition-242408/?utm_source=rss&utm_medium=rss&utm_campaign=brightons-new-study-reveals-how-electrode-patterns-boost-gold-deposition",
+    "title_en": "Brighton’s new study reveals how electrode patterns boost gold deposition",
+    "summary_bullets_en": [
+      "Researchers at the University of Brighton discovered that altering the surface pattern and scale of 3D printed electrodes enhances gold nanoparticle deposition.",
+      "The study was led by Dr. Bhavik Anil Patel.",
+      "The research explores the effectiveness of different electrode designs in improving gold deposition."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University of Brighton zjistili, že změna povrchového vzoru a měřítka 3D tištěných elektrod zlepšuje depozici zlatých nanočástic.",
+      "Studii vedl Dr. Bhavik Anil Patel.",
+      "Výzkum zkoumá účinnost různých návrhů elektrod při zlepšování depozice zlata."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "University of Brighton",
+      "Gold Nanoparticles",
+      "Electrodes"
+    ]
+  },
+  {
+    "title": "Fraunhofer IAMHH podporuje projekty zaměřené na AI v aditivní výrobě částkou 100 000 €",
+    "summary": "The German research initiative Fraunhofer High-Performance Center for Innovation in Additive Manufacturing Hamburg (IAMHH) has awarded €50,000 in funding to each of two research initiatives led by the Fraunhofer Institute for Additive Production Technologies IAPT and the Institute for Industrialization of Smart Materials (ISM) at Hamburg University of Technology. Both projects focus on advancing additive [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/newsimage409919-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-28T09:50:59+00:00",
+    "url": "https://3dprintingindustry.com/news/fraunhofer-iamhh-backs-ai-focused-additive-manufacturing-projects-with-e100k-242396/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-iamhh-backs-ai-focused-additive-manufacturing-projects-with-e100k",
+    "title_en": "Fraunhofer IAMHH Backs AI-Focused Additive Manufacturing Projects with €100K",
+    "summary_bullets_en": [
+      "Fraunhofer IAMHH has allocated €100,000 to support AI-focused additive manufacturing projects.",
+      "The funding is split between two research initiatives led by Fraunhofer IAPT and ISM at Hamburg University of Technology.",
+      "Both projects aim to advance the field of additive manufacturing through innovative research."
+    ],
+    "summary_bullets_cs": [
+      "Fraunhofer IAMHH přidělil 100 000 € na podporu projektů zaměřených na AI v aditivní výrobě.",
+      "Financování je rozděleno mezi dvě výzkumné iniciativy vedené Fraunhofer IAPT a ISM na Technické univerzitě v Hamburku.",
+      "Oba projekty se zaměřují na pokrok v oblasti aditivní výroby prostřednictvím inovativního výzkumu."
+    ],
+    "tags": [
+      "Hardware",
+      "Fraunhofer IAMHH",
+      "Fraunhofer IAPT",
+      "Hamburg University of Technology",
+      "Additive Manufacturing",
+      "AI"
+    ]
+  },
+  {
+    "title": "Formnext 2025 se zaměří na reálné průmyslové aplikace aditivní výroby",
+    "summary": "Formnext 2025, the leading international exhibition for additive manufacturing (AM), will return to Frankfurt from 18–21 November with a renewed focus on commercially viable AM applications across industrial sectors. Organized by Mesago Messe Frankfurt, the event aims to support the industrialization of AM by showcasing how innovative production methods are being successfully implemented in industries [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/©-Krause-DiMaTec-GmbH-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-28T09:46:27+00:00",
+    "url": "https://3dprintingindustry.com/news/formnext-2025-to-spotlight-real-world-industrial-applications-of-additive-manufacturing-242394/?utm_source=rss&utm_medium=rss&utm_campaign=formnext-2025-to-spotlight-real-world-industrial-applications-of-additive-manufacturing",
+    "title_en": "Formnext 2025 to spotlight real-world industrial applications of additive manufacturing",
+    "summary_bullets_en": [
+      "Formnext 2025 will take place in Frankfurt from 18–21 November.",
+      "The event will focus on commercially viable applications of additive manufacturing across various industrial sectors.",
+      "Organized by Mesago Messe Frankfurt, the exhibition aims to support the industrialization of additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Formnext 2025 se bude konat ve Frankfurtu od 18. do 21. listopadu.",
+      "Akce se zaměří na komerčně životaschopné aplikace aditivní výroby v různých průmyslových odvětvích.",
+      "Výstava, organizovaná společností Mesago Messe Frankfurt, si klade za cíl podpořit industrializaci aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "Formnext",
+      "Mesago Messe Frankfurt"
+    ]
+  },
+  {
+    "title": "Zhejiangská univerzita vyvinula nekonečně recyklovatelnou pryskyřici pro 3D tisk",
+    "summary": "A research team from China’s Zhejiang University has developed an infinitely recyclable 3D printing resin based on a thermally reversible photo-click reaction. Led by PhD student YANG Bo and Professors XIE Tao and ZHENG Ning from the College of Chemical and Biological Engineering, the innovation supports ongoing efforts to advance a circular economy within additive [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/8654c041-b67c-47ae-800a-6452e57c50c5-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-28T09:42:48+00:00",
+    "url": "https://3dprintingindustry.com/news/zhejiang-university-develops-infinitely-recyclable-resin-for-3d-printing-242373/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-university-develops-infinitely-recyclable-resin-for-3d-printing",
+    "title_en": "Zhejiang University Develops Infinitely Recyclable Resin for 3D Printing",
+    "summary_bullets_en": [
+      "Researchers at Zhejiang University have created a 3D printing resin that can be recycled infinitely.",
+      "The resin is based on a thermally reversible photo-click reaction.",
+      "The development is part of efforts to promote a circular economy in additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Zhejiangské univerzity vytvořili pryskyřici pro 3D tisk, kterou lze nekonečně recyklovat.",
+      "Pryskyřice je založena na tepelně reverzibilní foto-click reakci.",
+      "Tento vývoj je součástí snah o podporu cirkulární ekonomiky v aditivní výrobě."
+    ],
+    "tags": [
+      "Material",
+      "Zhejiang University",
+      "3D Printing",
+      "Circular Economy"
+    ]
+  },
+  {
+    "title": "Projekt EU kombinuje AI a materiály na biologické bázi pro 3D tisk komponent větrných turbín",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/eu-project-combines-ai-and-bio-based-materials-for-3d-printing-wind-turbine-components/\" target=\"_blank\">EU Project Combines AI and Bio-Based Materials for 3D Printing Wind Turbine Components</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 28</span></div><div><img alt=\"EU Project Combines AI and Bio-Based Materials for 3D Printing Wind Turbine Components\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"480\" src=\"https://3dprinting.com/wp-content/uploads/0725-cw-news-organic-project-kickoff-min-500x480.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/0725-cw-news-organic-project-kickoff-min-500x480.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-28T08:35:52+00:00",
+    "url": "https://3dprinting.com/news/eu-project-combines-ai-and-bio-based-materials-for-3d-printing-wind-turbine-components/",
+    "title_en": "EU Project Combines AI and Bio-Based Materials for 3D Printing Wind Turbine Components",
+    "summary_bullets_en": [
+      "The EU project aims to integrate AI with bio-based materials for 3D printing wind turbine components.",
+      "This initiative seeks to enhance the sustainability and efficiency of wind energy production.",
+      "The project focuses on reducing the environmental impact of wind turbine manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Projekt EU si klade za cíl integrovat AI s materiály na biologické bázi pro 3D tisk komponent větrných turbín.",
+      "Tato iniciativa usiluje o zvýšení udržitelnosti a efektivity výroby větrné energie.",
+      "Projekt se zaměřuje na snížení dopadu výroby větrných turbín na životní prostředí."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "AI",
+      "3D Printing",
+      "Wind Turbines"
+    ]
+  },
+  {
     "title": "Univerzitní student pomáhá stavět 3D tiskárny COBOD po celém světě během stáže",
     "summary": "Recently, Denmark-based additive construction (AC) company COBOD International announced that it had installed its BODXL system in Doha, Qatar. The massive 50 x 30 x 15m machine—about the size of...",
     "image": "https://3dprint.com/wp-content/uploads/2025/07/COBOD_004-682x1024.webp",
