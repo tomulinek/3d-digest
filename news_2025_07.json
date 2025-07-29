@@ -1,5 +1,213 @@
 [
   {
+    "title": "Obnova jaderného průmyslu Westinghouse a 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922367462/0/fabbaloo/default~The-Westinghouse-Nuclear-Resurgence-and-D-Printing\" rel=\"nofollow\" title=\"The Westinghouse Nuclear Resurgence and 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/Westinghouse1-300x183.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>In this article, Charles R. Goulding and Anthony Palumbo underscore Westinghouse Electric Company's nuclear industry resurgence, highlighting their strategic global reactor projects and pioneering use of additive manufacturing technologies.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922367462/0/fabbaloo/default~The-Westinghouse-Nuclear-Resurgence-and-D-Printing\" rel=\"nofollow\">The Westinghouse Nuclear Resurgence and 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/Westinghouse1-300x183.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-29T11:44:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922367462/0/fabbaloo/default~The-Westinghouse-Nuclear-Resurgence-and-D-Printing",
+    "title_en": "The Westinghouse Nuclear Resurgence and 3D Printing",
+    "summary_bullets_en": [
+      "Westinghouse Electric Company is experiencing a resurgence in the nuclear industry.",
+      "The company is focusing on strategic global reactor projects.",
+      "Westinghouse is pioneering the use of additive manufacturing technologies in their operations."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Westinghouse Electric Company zažívá obnovu v jaderném průmyslu.",
+      "Firma se zaměřuje na strategické globální projekty reaktorů.",
+      "Westinghouse je průkopníkem v používání aditivních výrobních technologií ve svých operacích."
+    ],
+    "tags": [
+      "Hardware",
+      "Westinghouse",
+      "Additive Manufacturing",
+      "Nuclear Industry"
+    ]
+  },
+  {
+    "title": "Nová strategie projekce zrychluje objemový 3D tisk desetinásobně",
+    "summary": "Want to speak at AMA: Energy 2025 or AMA: Automotive &#38; Mobility 2025? Submit your application now! Researchers from Beihang University and The Hong Kong Polytechnic University have introduced a new 3D printing technique that significantly reduces the time and number of light projections needed to manufacture complex objects. Led by Dr. Huiyuan Wang, the team developed a [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/image-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-29T09:34:54+00:00",
+    "url": "https://3dprintingindustry.com/news/new-projection-strategy-accelerates-volumetric-3d-printing-tenfold-242524/?utm_source=rss&utm_medium=rss&utm_campaign=new-projection-strategy-accelerates-volumetric-3d-printing-tenfold",
+    "title_en": "New projection strategy accelerates volumetric 3D printing tenfold",
+    "summary_bullets_en": [
+      "Researchers from Beihang University and The Hong Kong Polytechnic University have developed a new 3D printing technique.",
+      "The technique significantly reduces the time and number of light projections needed for manufacturing complex objects.",
+      "The research team was led by Dr. Huiyuan Wang."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Beihang University a The Hong Kong Polytechnic University vyvinuli novou techniku 3D tisku.",
+      "Tato technika výrazně snižuje čas a počet světelných projekcí potřebných pro výrobu složitých objektů.",
+      "Výzkumný tým vedl Dr. Huiyuan Wang."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Beihang University",
+      "The Hong Kong Polytechnic University"
+    ]
+  },
+  {
+    "title": "3D Systems uzavírá Systemic Bio v rámci strategické změny; Taci Pereira odstupuje",
+    "summary": "Taci Pereira, who led Systemic Bio, a subsidiary of U.S.-based 3D printer manufacturer&#160; 3D Systems, has announced her departure following the parent company’s decision to close the unit. Founded in 2022, Systemic Bio aimed to advance drug discovery through scalable bioprinted human tissue models. The closure reflects 3D Systems’ broader strategic realignment in response to [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/1744343713206-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-29T08:50:46+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-systems-shuts-down-systemic-bio-amid-strategic-shift-taci-pereira-steps-down-242517/?utm_source=rss&utm_medium=rss&utm_campaign=3d-systems-shuts-down-systemic-bio-amid-strategic-shift-taci-pereira-steps-down",
+    "title_en": "3D Systems Shuts Down Systemic Bio Amid Strategic Shift; Taci Pereira Steps Down",
+    "summary_bullets_en": [
+      "Taci Pereira, leader of Systemic Bio, has announced her departure.",
+      "3D Systems decided to close Systemic Bio, a subsidiary focused on bioprinted human tissue models.",
+      "The closure is part of 3D Systems' strategic realignment."
+    ],
+    "summary_bullets_cs": [
+      "Taci Pereira, vedoucí Systemic Bio, oznámila svůj odchod.",
+      "3D Systems se rozhodla uzavřít Systemic Bio, dceřinou společnost zaměřenou na biotištěné lidské tkáňové modely.",
+      "Uzavření je součástí strategického přeskupení 3D Systems."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Systems",
+      "Systemic Bio"
+    ]
+  },
+  {
+    "title": "Výzkumníci 3D tisknou vysoce výkonné termoelektrické materiály pomocí inkoustů optimalizovaných strojovým učením",
+    "summary": "A team from the University of Notre Dame has demonstrated a machine learning-assisted 3D printing process to fabricate thermoelectric materials with unprecedented performance. By combining extrusion-based printing with Bayesian optimization, they produced bismuth antimony telluride (BiSbTe) structures exhibiting a room-temperature zT of 1.3, the highest value reported for printed thermoelectrics. Published in the Journal of [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/d4ta03062a-4-e1753735590342-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-29T08:41:37+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-3d-print-high-performance-thermoelectrics-using-machine-learning-optimized-inks-242502/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-3d-print-high-performance-thermoelectrics-using-machine-learning-optimized-inks",
+    "title_en": "Researchers 3D print high-performance thermoelectrics using machine learning-optimized inks",
+    "summary_bullets_en": [
+      "A team from the University of Notre Dame has developed a 3D printing process for thermoelectric materials using machine learning.",
+      "The process combines extrusion-based printing with Bayesian optimization.",
+      "They successfully produced bismuth antimony telluride (BiSbTe) structures with a room-temperature zT of 1.3.",
+      "This is the highest performance reported for printed thermoelectrics."
+    ],
+    "summary_bullets_cs": [
+      "Tým z University of Notre Dame vyvinul proces 3D tisku termoelektrických materiálů využívající strojové učení.",
+      "Proces kombinuje tisk na bázi extruze s Bayesovskou optimalizací.",
+      "Úspěšně vyrobili struktury z bismut antimon telluridu (BiSbTe) s hodnotou zT při pokojové teplotě 1,3.",
+      "Jedná se o nejvyšší výkon zaznamenaný pro tištěné termoelektrické materiály."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Machine Learning",
+      "University of Notre Dame",
+      "Thermoelectrics"
+    ]
+  },
+  {
+    "title": "Integrace Materialise Magics SDK s AI platformou Synera zjednodušuje pracovní postupy AM",
+    "summary": "Low-code engineering platform Synera has partnered with Belgian software and 3D printing services provider Materialise to integrate the Magics SDK into Synera’s AI-driven automation platform. The collaboration targets one of the most persistent challenges in additive manufacturing (AM): manual build preparation—a time-consuming step that can slow production and raise operational costs. By embedding Materialise’s trusted [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/687e2b9ac5358c6b8d59cd8a_Press-Release-Synera-Materialize-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-29T08:37:28+00:00",
+    "url": "https://3dprintingindustry.com/news/integration-of-materialise-magics-sdk-with-syneras-ai-platform-streamlines-am-workflows-242492/?utm_source=rss&utm_medium=rss&utm_campaign=integration-of-materialise-magics-sdk-with-syneras-ai-platform-streamlines-am-workflows",
+    "title_en": "Integration of Materialise Magics SDK with Synera’s AI Platform Streamlines AM Workflows",
+    "summary_bullets_en": [
+      "Synera has partnered with Materialise to integrate the Magics SDK into its AI-driven platform.",
+      "The integration aims to address manual build preparation challenges in additive manufacturing.",
+      "This collaboration seeks to reduce production time and operational costs in AM."
+    ],
+    "summary_bullets_cs": [
+      "Synera se spojila s Materialise pro integraci Magics SDK do své AI platformy.",
+      "Integrace cílí na řešení problémů s manuální přípravou stavby v aditivní výrobě.",
+      "Tato spolupráce usiluje o snížení doby výroby a provozních nákladů v AM."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Materialise",
+      "Synera",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Výzkumníci porovnávají aditivní a tradiční výrobní metody pro odolnost proti korozi bioabsorbovatelných implantátů",
+    "summary": "Researchers at IMDEA Materials Institute have conducted the first electrochemical comparison of how fabrication method and surface treatment affect corrosion in bioabsorbable metals, with implications for designing safer, longer-lasting biodegradable implants. Published in Surface and Coatings Technology, the study could inform the design of safer, longer-lasting implants by revealing how additive manufacturing and extrusion affect [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Image-2-SEM-images-of-the-degraded-PEO-treated-surfaces-in-the-PDP-tests-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-29T08:36:37+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-compare-additive-and-traditional-manufacturing-methods-for-bioabsorbable-implant-corrosion-resistance-242491/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-compare-additive-and-traditional-manufacturing-methods-for-bioabsorbable-implant-corrosion-resistance",
+    "title_en": "Researchers compare additive and traditional manufacturing methods for bioabsorbable implant corrosion resistance",
+    "summary_bullets_en": [
+      "IMDEA Materials Institute conducted the first electrochemical comparison of fabrication methods on bioabsorbable metals.",
+      "The study focuses on how additive manufacturing and extrusion impact corrosion resistance in biodegradable implants.",
+      "Findings could lead to the design of safer and longer-lasting bioabsorbable implants."
+    ],
+    "summary_bullets_cs": [
+      "Institut IMDEA Materials provedl první elektrochemické srovnání výrobních metod na bioabsorbovatelných kovech.",
+      "Studie se zaměřuje na to, jak aditivní výroba a extruze ovlivňují odolnost proti korozi u biologicky odbouratelných implantátů.",
+      "Zjištění by mohla vést k návrhu bezpečnějších a trvanlivějších bioabsorbovatelných implantátů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "IMDEA Materials Institute",
+      "Additive Manufacturing",
+      "Extrusion",
+      "Bioabsorbable Implants"
+    ]
+  },
+  {
+    "title": "Ministerstvo obrany USA spouští program JAMA IV za 10 milionů dolarů na vybudování nové sítě dodavatelů pro aditivní výrobu",
+    "summary": "The U.S. Department of Defense has launched a $10 million program to build a reliable supply base for 3D printed parts. America’s Defense Logistics Agency (DLA), the Pentagon’s largest provider of combat logistics support, is leading the effort, known as the JAMA IV IDIQ Pilot Parts Program. This marks the fourth phase of the Joint [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/A-U.S.-Marine-firing-an-M320-grenade-launcher.-Photo-via-the-U.S.-Marine-Corps-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-29T08:33:03+00:00",
+    "url": "https://3dprintingindustry.com/news/u-s-dod-launches-10m-jama-iv-program-to-build-new-am-supply-network-242483/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-dod-launches-10m-jama-iv-program-to-build-new-am-supply-network",
+    "title_en": "U.S. DOD Launches $10M JAMA IV Program to Build New AM Supply Network",
+    "summary_bullets_en": [
+      "The U.S. Department of Defense has initiated a $10 million program to establish a reliable supply chain for 3D printed parts.",
+      "The Defense Logistics Agency (DLA) is spearheading the JAMA IV IDIQ Pilot Parts Program.",
+      "This initiative represents the fourth phase of the Joint Additive Manufacturing efforts."
+    ],
+    "summary_bullets_cs": [
+      "Ministerstvo obrany USA zahájilo program za 10 milionů dolarů na vytvoření spolehlivého dodavatelského řetězce pro 3D tištěné díly.",
+      "Agentura pro obrannou logistiku (DLA) vede program JAMA IV IDIQ Pilot Parts.",
+      "Tato iniciativa představuje čtvrtou fázi společného úsilí v oblasti aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Defense Logistics Agency",
+      "3D Printing",
+      "Additive Manufacturing",
+      "U.S. Department of Defense"
+    ]
+  },
+  {
+    "title": "Binghamtonská univerzita získala grant NSF ve výši 550 000 USD na integraci biobaterií s 3D tiskem",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/binghamton-university-receives-550000-nsf-grant-to-integrate-biobatteries-with-3d-printing/\" target=\"_blank\">Binghamton University Receives $550,000 NSF Grant to Integrate Biobatteries with 3D Printing</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 29</span></div><div><img alt=\"Binghamton University Receives $550,000 NSF Grant to Integrate Biobatteries with 3D Printing\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/863878749-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/863878749-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-29T08:00:03+00:00",
+    "url": "https://3dprinting.com/news/binghamton-university-receives-550000-nsf-grant-to-integrate-biobatteries-with-3d-printing/",
+    "title_en": "Binghamton University Receives $550,000 NSF Grant to Integrate Biobatteries with 3D Printing",
+    "summary_bullets_en": [
+      "Binghamton University has been awarded a $550,000 grant from the National Science Foundation (NSF).",
+      "The grant aims to support the integration of biobatteries with 3D printing technology.",
+      "This project could lead to advancements in sustainable energy solutions and innovative manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "Binghamtonská univerzita obdržela grant ve výši 550 000 USD od Národní vědecké nadace (NSF).",
+      "Cílem grantu je podpořit integraci biobaterií s technologií 3D tisku.",
+      "Tento projekt by mohl vést k pokrokům v oblasti udržitelných energetických řešení a inovativních výrobních procesů."
+    ],
+    "tags": [
+      "Hardware",
+      "Binghamton University",
+      "NSF",
+      "Biobatteries",
+      "3D Printing"
+    ]
+  },
+  {
     "title": "Ankermake M5C zmizel z webu, což signalizuje konec Ankerova 3D tiskového podniku",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/922327445/0/fabbaloo/default~Ankermake-MC-Disappears-from-Website-Signaling-End-of-Anker%e2%80%99s-D-Printing-Venture\" rel=\"nofollow\" title=\"Ankermake M5C Disappears from Website, Signaling End of Anker’s 3D Printing Venture\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/ankermake-gone-cover-300x187.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Another 3D printer manufacturer seems to have exited the business.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922327445/0/fabbaloo/default~Ankermake-MC-Disappears-from-Website-Signaling-End-of-Anker%e2%80%99s-D-Printing-Venture\" rel=\"nofollow\">Ankermake M5C Disappears from Website, Signaling End of Anker’s 3D Printing Venture</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/ankermake-gone-cover-300x187.jpg",
