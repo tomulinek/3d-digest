@@ -1,5 +1,244 @@
 [
   {
+    "title": "Fiasko s kovovým binder jettingem – může to lepší software napravit?",
+    "summary": "RECODE.AM #9",
+    "image": "https://substackcdn.com/image/fetch/$s_!XFSl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd429d840-1bf3-4219-9acf-a571db237b70_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-07-30T17:59:10+00:00",
+    "url": "https://www.3dprintingjournal.com/p/the-metal-binder-jetting-fiasco-and",
+    "title_en": "The metal binder jetting fiasco – and can better software fix it?",
+    "summary_bullets_en": [
+      "The article discusses the challenges faced by the metal binder jetting technology in 3D printing.",
+      "It highlights the limitations of current software in optimizing the metal binder jetting process.",
+      "Experts suggest that advancements in software could potentially address these issues and improve the technology's efficiency."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá problémy, kterým čelí technologie kovového binder jettingu v 3D tisku.",
+      "Zdůrazňuje omezení současného softwaru při optimalizaci procesu kovového binder jettingu.",
+      "Odborníci naznačují, že pokroky v softwaru by mohly potenciálně tyto problémy řešit a zlepšit efektivitu technologie."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "3D Printing",
+      "Metal Binder Jetting",
+      "UltiMaker",
+      "Nikon SLM Solutions",
+      "HP"
+    ]
+  },
+  {
+    "title": "Výzkumníci vyvinuli levný optický vlnovod pro AR pomocí 3D tisku",
+    "summary": "A team of researchers at the University of Melbourne has developed a low-cost prototype of a liquid-based geometric waveguide combiner for augmented reality (AR) applications. The device replaces complex fabrication steps used in conventional optical combiners by integrating silicone oil and PolyJet 3D printing in a simplified production method. The work was published in a [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Optical-performance-of-the-fabricated-waveguide-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T17:41:26+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-develop-low-cost-optical-waveguide-for-ar-using-3d-printing-242599/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-develop-low-cost-optical-waveguide-for-ar-using-3d-printing",
+    "title_en": "Researchers develop low-cost optical waveguide for AR using 3D printing",
+    "summary_bullets_en": [
+      "A team at the University of Melbourne has created a low-cost prototype of a liquid-based geometric waveguide combiner for AR.",
+      "The device simplifies production by using silicone oil and PolyJet 3D printing, replacing complex fabrication steps.",
+      "This innovation could significantly reduce costs in the production of optical combiners for augmented reality applications."
+    ],
+    "summary_bullets_cs": [
+      "Tým z Univerzity v Melbourne vytvořil levný prototyp kapalného geometrického vlnovodného kombinátoru pro AR.",
+      "Zařízení zjednodušuje výrobu použitím silikonového oleje a PolyJet 3D tisku, čímž nahrazuje složité výrobní kroky.",
+      "Tato inovace by mohla výrazně snížit náklady na výrobu optických kombinátorů pro aplikace rozšířené reality."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Augmented Reality",
+      "University of Melbourne",
+      "Optical Waveguide"
+    ]
+  },
+  {
+    "title": "Mantle odemyká ultra-jemné vlastnosti forem s aktualizací Top Definition uprostřed rostoucího přijetí v průmyslu",
+    "summary": "Mantle, a U.S.-based developer of automated toolmaking systems, has launched its latest software update, Top Definition, enabling the direct 3D printing of mold features as thin as 0.2 mm. The update, released over the air to all customers on July 29, 2025, marks an 80% reduction in minimum feature size and comes as the company [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/TD-Process-2-scaled-1-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T17:07:02+00:00",
+    "url": "https://3dprintingindustry.com/news/mantle-unlocks-ultra-fine-mold-features-with-top-definition-update-amid-rising-industry-adoption-242632/?utm_source=rss&utm_medium=rss&utm_campaign=mantle-unlocks-ultra-fine-mold-features-with-top-definition-update-amid-rising-industry-adoption",
+    "title_en": "Mantle unlocks ultra-fine mold features with Top Definition update amid rising industry adoption",
+    "summary_bullets_en": [
+      "Mantle has released a new software update called Top Definition.",
+      "The update allows for 3D printing of mold features as thin as 0.2 mm.",
+      "This marks an 80% reduction in the minimum feature size.",
+      "The update was made available to all customers on July 29, 2025."
+    ],
+    "summary_bullets_cs": [
+      "Mantle vydal novou softwarovou aktualizaci nazvanou Top Definition.",
+      "Aktualizace umožňuje 3D tisk vlastností forem tenkých až 0,2 mm.",
+      "To znamená 80% snížení minimální velikosti vlastností.",
+      "Aktualizace byla zpřístupněna všem zákazníkům 29. července 2025."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Mantle",
+      "3D Printing",
+      "Toolmaking"
+    ]
+  },
+  {
+    "title": "Lib Work opouští beton pro svůj dům z půdy v Japonsku",
+    "summary": "Help choose the 2025 3D Printing Industry Awards winners – sign up for the Expert Committee now! Japanese architecture studio Lib Work has introduced a 3D printed home that departs from the concrete-based approach used in most additive construction projects.&#160; Built in Yamaga, Kumamoto Prefecture, the 100 sq m (1,076 sq ft) single-story residence, known [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/download-2-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T17:00:33+00:00",
+    "url": "https://3dprintingindustry.com/news/lib-work-ditches-concrete-for-its-soil-based-home-in-japan-242649/?utm_source=rss&utm_medium=rss&utm_campaign=lib-work-ditches-concrete-for-its-soil-based-home-in-japan",
+    "title_en": "Lib Work ditches concrete for its soil-based home in Japan",
+    "summary_bullets_en": [
+      "Japanese architecture studio Lib Work has developed a 3D printed home using soil instead of concrete.",
+      "The residence is located in Yamaga, Kumamoto Prefecture, and spans 100 sq m (1,076 sq ft).",
+      "This project marks a departure from the traditional concrete-based methods in additive construction."
+    ],
+    "summary_bullets_cs": [
+      "Japonské architektonické studio Lib Work vyvinulo 3D tištěný dům využívající půdu místo betonu.",
+      "Rezidence se nachází v Yamaga, prefektura Kumamoto, a má rozlohu 100 m² (1 076 čtverečních stop).",
+      "Tento projekt představuje odklon od tradičních metod aditivní výstavby založených na betonu."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Architecture",
+      "Lib Work",
+      "Construction"
+    ]
+  },
+  {
+    "title": "Elmet Technologies získala americký patent na prášky z wolframové slitiny pro aditivní výrobu",
+    "summary": "Elmet Technologies, the U.S.-owned tungsten and molybdenum manufacturer, has been granted U.S. Patent No. 12,359,290 for a method of producing tungsten heavy metal alloy powders. The patented process enhances additive manufacturing and powder metallurgy applications by improving powder morphology, flowability, and densification. This innovation marks Elmet’s fifth U.S. patent in the field and enables the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Tungsten-Cubes-Fragmentation-Capabilities-scaled-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T16:59:30+00:00",
+    "url": "https://3dprintingindustry.com/news/elmet-technologies-awarded-u-s-patent-for-tungsten-alloy-powders-for-am-242656/?utm_source=rss&utm_medium=rss&utm_campaign=elmet-technologies-awarded-u-s-patent-for-tungsten-alloy-powders-for-am",
+    "title_en": "Elmet Technologies awarded U.S. patent for tungsten alloy powders for AM",
+    "summary_bullets_en": [
+      "Elmet Technologies has received a U.S. patent for a method of producing tungsten heavy metal alloy powders.",
+      "The patented process improves additive manufacturing and powder metallurgy by enhancing powder morphology, flowability, and densification.",
+      "This is Elmet's fifth U.S. patent in the field."
+    ],
+    "summary_bullets_cs": [
+      "Elmet Technologies získala americký patent na metodu výroby prášků z těžkých kovových slitin wolframu.",
+      "Patentovaný proces zlepšuje aditivní výrobu a práškovou metalurgii díky vylepšení morfologie, tekutosti a zhušťování prášku.",
+      "Jedná se o pátý americký patent společnosti Elmet v této oblasti."
+    ],
+    "tags": [
+      "Material",
+      "Elmet Technologies",
+      "Additive Manufacturing",
+      "Tungsten Alloy"
+    ]
+  },
+  {
+    "title": "Snapmaker U1 uvádí na trh za 679 dolarů, přináší cenově dostupný 3D tisk s výměnou nástrojů pro nadšence",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922438685/0/fabbaloo/default~Snapmaker-U-Launches-at-Bringing-Affordable-Toolchanging-D-Printing-to-Hobbyists\" rel=\"nofollow\" title=\"Snapmaker U1 Launches at $679, Bringing Affordable Toolchanging 3D Printing to Hobbyists\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/u1-price-cover-300x220.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>After only a couple of weeks, Snapmaker has set the pricing for their low-cost toolchanging 3D printer, the U1.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922438685/0/fabbaloo/default~Snapmaker-U-Launches-at-Bringing-Affordable-Toolchanging-D-Printing-to-Hobbyists\" rel=\"nofollow\">Snapmaker U1 Launches at $679, Bringing Affordable Toolchanging 3D Printing to Hobbyists</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/u1-price-cover-300x220.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-30T16:25:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922438685/0/fabbaloo/default~Snapmaker-U-Launches-at-Bringing-Affordable-Toolchanging-D-Printing-to-Hobbyists",
+    "title_en": "Snapmaker U1 Launches at $679, Bringing Affordable Toolchanging 3D Printing to Hobbyists",
+    "summary_bullets_en": [
+      "Snapmaker has announced the pricing for their new toolchanging 3D printer, the U1.",
+      "The U1 is priced at $679, making it an affordable option for hobbyists.",
+      "The printer offers toolchanging capabilities, enhancing its versatility for various projects."
+    ],
+    "summary_bullets_cs": [
+      "Snapmaker oznámil cenu svého nového 3D tiskárny s výměnou nástrojů, modelu U1.",
+      "U1 je oceněn na 679 dolarů, což z něj činí cenově dostupnou volbu pro nadšence.",
+      "Tiskárna nabízí schopnosti výměny nástrojů, což zvyšuje její všestrannost pro různé projekty."
+    ],
+    "tags": [
+      "Hardware",
+      "Snapmaker",
+      "3D Printing",
+      "Toolchanging"
+    ]
+  },
+  {
+    "title": "Nová metoda pro kutily kombinuje TPU a hliníkový drát pro flexibilní a polohovatelné 3D výtisky",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922435388/0/fabbaloo/default~New-DIY-Method-Combines-TPU-and-Aluminum-Wire-for-Flexible-Poseable-D-Prints\" rel=\"nofollow\" title=\"New DIY Method Combines TPU and Aluminum Wire for Flexible, Poseable 3D Prints\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/aluminum-wire-tpu-cover-300x242.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A very interesting 3D printing technique using aluminum wire can be used by any 3D printer operator.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922435388/0/fabbaloo/default~New-DIY-Method-Combines-TPU-and-Aluminum-Wire-for-Flexible-Poseable-D-Prints\" rel=\"nofollow\">New DIY Method Combines TPU and Aluminum Wire for Flexible, Poseable 3D Prints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/aluminum-wire-tpu-cover-300x242.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-07-30T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922435388/0/fabbaloo/default~New-DIY-Method-Combines-TPU-and-Aluminum-Wire-for-Flexible-Poseable-D-Prints",
+    "title_en": "New DIY Method Combines TPU and Aluminum Wire for Flexible, Poseable 3D Prints",
+    "summary_bullets_en": [
+      "A novel 3D printing technique integrates aluminum wire with TPU to create flexible and poseable prints.",
+      "This method can be utilized by any 3D printer operator, expanding the possibilities of 3D printed objects.",
+      "The combination of materials allows for enhanced flexibility and durability in printed models."
+    ],
+    "summary_bullets_cs": [
+      "Nová technika 3D tisku integruje hliníkový drát s TPU pro vytvoření flexibilních a polohovatelných výtisků.",
+      "Tuto metodu může využít každý operátor 3D tiskárny, což rozšiřuje možnosti 3D tištěných objektů.",
+      "Kombinace materiálů umožňuje zvýšenou flexibilitu a odolnost tištěných modelů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "TPU",
+      "Aluminum Wire"
+    ]
+  },
+  {
+    "title": "Může být LAHB budoucností udržitelného 3D tiskového filamentu?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922424270/0/fabbaloo/default~Could-LAHB-Be-the-Future-of-Sustainable-D-Print-Filament\" rel=\"nofollow\" title=\"Could LAHB Be the Future of Sustainable 3D Print Filament?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/lahb-cover-300x213.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have investigated the biodegradability of LAHB, a material that has properties of PLA and PHB.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922424270/0/fabbaloo/default~Could-LAHB-Be-the-Future-of-Sustainable-D-Print-Filament\" rel=\"nofollow\">Could LAHB Be the Future of Sustainable 3D Print Filament?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/lahb-cover-300x213.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-30T12:56:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922424270/0/fabbaloo/default~Could-LAHB-Be-the-Future-of-Sustainable-D-Print-Filament",
+    "title_en": "Could LAHB Be the Future of Sustainable 3D Print Filament?",
+    "summary_bullets_en": [
+      "Researchers are exploring the biodegradability of LAHB, a material combining properties of PLA and PHB.",
+      "LAHB could potentially offer a more sustainable option for 3D printing filaments.",
+      "The study aims to assess the environmental impact and practical applications of LAHB in 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci zkoumají biologickou rozložitelnost LAHB, materiálu kombinujícího vlastnosti PLA a PHB.",
+      "LAHB by mohl potenciálně nabídnout udržitelnější možnost pro 3D tiskové filamenty.",
+      "Studie si klade za cíl posoudit environmentální dopad a praktické aplikace LAHB v 3D tisku."
+    ],
+    "tags": [
+      "Material",
+      "Sustainability",
+      "3D Printing",
+      "PLA",
+      "PHB",
+      "LAHB"
+    ]
+  },
+  {
+    "title": "ORNL MDF 3D tiskne bednění reaktoru uprostřed obnoveného zájmu o jadernou energii",
+    "summary": "Having just 3D printed specimen containers using additive, ORNL is moving further. At the ORNL Manufacturing Demonstration Facility (MDF), they&#8217;ve worked with Kairos Power and Barnard Construction to use 3D...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/Janus-Group-Photo-sm.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-30T12:30:25+00:00",
+    "url": "https://3dprint.com/319566/ornl-mdf-3d-prints-reactor-formwork-amid-renewed-interest-in-nuclear-energy/",
+    "title_en": "ORNL MDF 3D Prints Reactor Formwork Amid Renewed Interest in Nuclear Energy",
+    "summary_bullets_en": [
+      "ORNL's Manufacturing Demonstration Facility collaborates with Kairos Power and Barnard Construction.",
+      "They are using 3D printing technology to create formwork for nuclear reactors.",
+      "This initiative is part of a broader interest in advancing nuclear energy technologies."
+    ],
+    "summary_bullets_cs": [
+      "Výrobní demonstrační zařízení ORNL spolupracuje s Kairos Power a Barnard Construction.",
+      "Používají technologii 3D tisku k vytvoření bednění pro jaderné reaktory.",
+      "Tato iniciativa je součástí širšího zájmu o pokrok v technologiích jaderné energie."
+    ],
+    "tags": [
+      "Hardware",
+      "ORNL",
+      "Kairos Power",
+      "Barnard Construction",
+      "3D Printing",
+      "Nuclear Energy"
+    ]
+  },
+  {
     "title": "Bostonská aditivní výhoda: Uvnitř revoluce RLP bez gravitace",
     "summary": "Nestled in the historic neighborhood of Charlestown, one of Boston&#8217;s oldest waterfront enclaves, Rapid Liquid Print (RLP) is doing something extraordinary: rewriting the rules of 3D printing — without gravity....",
     "image": "https://s.w.org/images/core/emoji/15.1.0/72x72/2122.png",
