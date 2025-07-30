@@ -1,5 +1,269 @@
 [
   {
+    "title": "Bostonská aditivní výhoda: Uvnitř revoluce RLP bez gravitace",
+    "summary": "Nestled in the historic neighborhood of Charlestown, one of Boston&#8217;s oldest waterfront enclaves, Rapid Liquid Print (RLP) is doing something extraordinary: rewriting the rules of 3D printing — without gravity....",
+    "image": "https://s.w.org/images/core/emoji/15.1.0/72x72/2122.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-30T12:00:12+00:00",
+    "url": "https://3dprint.com/319223/bostons-additive-edge-inside-rlps-gravity-free-revolution/",
+    "title_en": "Boston’s Additive Edge: Inside RLP’s Gravity Free Revolution",
+    "summary_bullets_en": [
+      "Rapid Liquid Print (RLP) in Charlestown, Boston, is pioneering a new approach to 3D printing that defies gravity.",
+      "The company is developing a unique method that allows for the creation of large-scale, complex structures without the constraints of traditional 3D printing.",
+      "RLP's technology utilizes a gel-based medium to support the printed material, enabling intricate designs and faster production times.",
+      "This innovation is set to revolutionize industries by offering new possibilities in design and manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Rapid Liquid Print (RLP) v Charlestownu, Boston, přináší nový přístup k 3D tisku, který popírá gravitaci.",
+      "Společnost vyvíjí unikátní metodu umožňující tvorbu velkých a složitých struktur bez omezení tradičního 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Rapid Liquid Print",
+      "3D Printing",
+      "Innovation",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "Výzkumnice z University of Maine vyvíjí rychlý simulační model pro tepelné napětí v 3D tisku",
+    "summary": "Irja Hepler, a Ph.D. student in structural engineering at the University of Maine (UMaine), is developing a simulation model to predict thermal stresses that arise during 3D printing. Her research addresses a persistent problem in additive manufacturing: when printed materials cool unevenly, they can warp or lose structural integrity. By simulating this behavior in advance, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/irja-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T11:44:08+00:00",
+    "url": "https://3dprintingindustry.com/news/university-of-maine-researcher-develops-fast-simulation-model-for-thermal-stress-in-3d-printing-242619/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-maine-researcher-develops-fast-simulation-model-for-thermal-stress-in-3d-printing",
+    "title_en": "University of Maine Researcher Develops Fast Simulation Model for Thermal Stress in 3D Printing",
+    "summary_bullets_en": [
+      "Irja Hepler, a Ph.D. student at the University of Maine, is working on a simulation model for predicting thermal stresses in 3D printing.",
+      "The research aims to address issues of warping and structural integrity loss due to uneven cooling in additive manufacturing.",
+      "By simulating thermal behavior in advance, the model seeks to improve the reliability and quality of 3D printed materials."
+    ],
+    "summary_bullets_cs": [
+      "Irja Hepler, doktorandka na University of Maine, pracuje na simulačním modelu pro předpověď tepelných napětí v 3D tisku.",
+      "Výzkum se zaměřuje na řešení problémů s deformací a ztrátou strukturální integrity způsobených nerovnoměrným chlazením v aditivní výrobě.",
+      "Model se snaží zlepšit spolehlivost a kvalitu 3D tištěných materiálů simulací tepelného chování předem."
+    ],
+    "tags": [
+      "Software",
+      "University of Maine",
+      "3D Printing",
+      "Thermal Stress",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "NextDent zubní protézy od 3D Systems jsou nyní komerčně dostupné v USA",
+    "summary": "U.S. 3D printer manufacturer 3D Systems has announced the commercial release of its NextDent 3D printed denture solution for the U.S. market.&#160; Introduced in February 2024, the jetted, multi-material, monolithic (one-piece) dentures combine NextDent Jet Denture Teeth and NextDent Jet Denture Base materials into a single prosthetic, delivering enhanced break resistance and highly realistic aesthetics. [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/3D-Systems-jetted-denture.-Photo-via-3D-Systems-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T10:36:33+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-systems-nextdent-dentures-now-commercially-available-in-the-u-s-242635/?utm_source=rss&utm_medium=rss&utm_campaign=3d-systems-nextdent-dentures-now-commercially-available-in-the-u-s",
+    "title_en": "3D Systems’ NextDent Dentures Now Commercially Available in the U.S.",
+    "summary_bullets_en": [
+      "3D Systems has launched its NextDent 3D printed denture solution in the U.S. market.",
+      "The dentures are made using a jetted, multi-material, monolithic design.",
+      "NextDent Jet Denture Teeth and Base materials are combined into a single prosthetic.",
+      "The product offers enhanced break resistance and realistic aesthetics."
+    ],
+    "summary_bullets_cs": [
+      "3D Systems uvedla na trh v USA své řešení 3D tištěných zubních protéz NextDent.",
+      "Protézy jsou vyrobeny pomocí tryskového, vícevrstvého, monolitického designu.",
+      "Materiály NextDent Jet Denture Teeth a Base jsou kombinovány do jedné protézy.",
+      "Produkt nabízí zvýšenou odolnost proti zlomení a realistický vzhled."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Systems",
+      "NextDent",
+      "Dentures"
+    ]
+  },
+  {
+    "title": "Nová metoda optimalizace topologie zohledňující slinování zvyšuje přesnost kovového binder jettingu",
+    "summary": "Researchers at Aalborg University have developed a computational topology optimization framework that accounts for sintering-induced deformation in metal binder jetting (MBJ) manufacturing. The method, designed to reinforce structures during the design phase, addresses distortion caused by gravity and material shrinkage during sintering. The study, titled a topology optimization framework considering sintering in design for metal [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/A-sketch-of-a-simplified-microstructural-evolution-during-sintering-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T10:30:29+00:00",
+    "url": "https://3dprintingindustry.com/news/new-sintering-aware-topology-optimization-method-enhances-metal-binder-jetting-accuracy-242609/?utm_source=rss&utm_medium=rss&utm_campaign=new-sintering-aware-topology-optimization-method-enhances-metal-binder-jetting-accuracy",
+    "title_en": "New Sintering-Aware Topology Optimization Method Enhances Metal Binder Jetting Accuracy",
+    "summary_bullets_en": [
+      "Researchers at Aalborg University have developed a computational framework for topology optimization in metal binder jetting.",
+      "The method addresses sintering-induced deformation, including distortion from gravity and material shrinkage.",
+      "This approach aims to reinforce structures during the design phase to improve manufacturing accuracy."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Aalborg University vyvinuli výpočetní rámec pro optimalizaci topologie v kovovém binder jettingu.",
+      "Metoda řeší deformace způsobené slinováním, včetně zkreslení vlivem gravitace a smrštění materiálu.",
+      "Tento přístup má za cíl posílit struktury během fáze návrhu pro zlepšení přesnosti výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Aalborg University",
+      "Metal Binder Jetting",
+      "Topology Optimization"
+    ]
+  },
+  {
+    "title": "Aditivní výroba rozšiřuje funkční schopnosti kompozitních materiálů",
+    "summary": "A review published in Nature Communications by researchers at the University of Colorado and Georgia Tech outlines how additive manufacturing (AM) and computational design are enabling a new generation of high-performance composite materials. The paper surveys developments in 3D printing techniques for composites enhanced with nanoparticles, short fibers, and continuous fibers, alongside optimization methods for [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/4D-printing-of-shape-changing-composites-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T10:28:57+00:00",
+    "url": "https://3dprintingindustry.com/news/additive-manufacturing-expands-functional-capabilities-in-composite-materials-242592/?utm_source=rss&utm_medium=rss&utm_campaign=additive-manufacturing-expands-functional-capabilities-in-composite-materials",
+    "title_en": "Additive Manufacturing Expands Functional Capabilities in Composite Materials",
+    "summary_bullets_en": [
+      "Researchers at the University of Colorado and Georgia Tech have published a review in Nature Communications.",
+      "The study highlights how additive manufacturing and computational design are advancing high-performance composite materials.",
+      "Developments in 3D printing techniques for composites include enhancements with nanoparticles, short fibers, and continuous fibers.",
+      "Optimization methods are being explored to improve the functionality and performance of these materials."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University of Colorado a Georgia Tech publikovali přehled v časopise Nature Communications.",
+      "Studie zdůrazňuje, jak aditivní výroba a výpočetní design posouvají výkonnost kompozitních materiálů.",
+      "Vývoj technik 3D tisku pro kompozity zahrnuje vylepšení pomocí nanočástic, krátkých vláken a kontinuálních vláken.",
+      "Jsou zkoumány optimalizační metody pro zlepšení funkčnosti a výkonu těchto materiálů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "University of Colorado",
+      "Georgia Tech",
+      "Nature Communications"
+    ]
+  },
+  {
+    "title": "Formnext Asia Shenzhen 2025 cílí na růst AM v oblasti Velkého zálivu",
+    "summary": "Formnext Asia Shenzhen is set to return to the Shenzhen World Exhibition and Convention Center from 26–28 August 2025, with organizers and industry partners announcing a renewed focus on building a more collaborative additive manufacturing (AM) ecosystem in China’s Greater Bay Area (GBA). At a recent press conference, Messe Frankfurt and partners including the Hong [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Fairground_1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T10:25:18+00:00",
+    "url": "https://3dprintingindustry.com/news/formnext-asia-shenzhen-2025-targets-am-growth-across-greater-bay-area-242585/?utm_source=rss&utm_medium=rss&utm_campaign=formnext-asia-shenzhen-2025-targets-am-growth-across-greater-bay-area",
+    "title_en": "Formnext Asia Shenzhen 2025 targets AM growth across Greater Bay Area",
+    "summary_bullets_en": [
+      "Formnext Asia Shenzhen will take place from 26–28 August 2025 at the Shenzhen World Exhibition and Convention Center.",
+      "The event aims to enhance the additive manufacturing ecosystem in China's Greater Bay Area.",
+      "Organizers and industry partners are focusing on fostering collaboration within the AM sector."
+    ],
+    "summary_bullets_cs": [
+      "Formnext Asia Shenzhen se uskuteční od 26. do 28. srpna 2025 v Shenzhen World Exhibition and Convention Center.",
+      "Akce si klade za cíl posílit ekosystém aditivní výroby v oblasti Velkého zálivu v Číně.",
+      "Organizátoři a průmysloví partneři se zaměřují na podporu spolupráce v sektoru AM."
+    ],
+    "tags": [
+      "Hardware",
+      "Formnext",
+      "Additive Manufacturing",
+      "Greater Bay Area",
+      "Messe Frankfurt"
+    ]
+  },
+  {
+    "title": "Phase3D rozšiřuje Fringe Inspection pro podporu série Renishaw 500 pro pokročilou kontrolu kvality AM",
+    "summary": "Phase3D, a Chicago-based developer of quality assurance software for 3D printing, has expanded its Fringe Inspection system to support Renishaw’s 500 series—including the 500Q, 500D, and 500Flex. The newly launched Fringe Inspection 500 Kit, developed in collaboration with research institution HRL Laboratories, supports the goals of the DARPA SURGE initiative, a U.S. Department of Defense [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/1753433041170-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T10:24:26+00:00",
+    "url": "https://3dprintingindustry.com/news/phase3d-expands-fringe-inspection-to-support-renishaw-500-series-for-advanced-am-quality-control-242582/?utm_source=rss&utm_medium=rss&utm_campaign=phase3d-expands-fringe-inspection-to-support-renishaw-500-series-for-advanced-am-quality-control",
+    "title_en": "Phase3D Expands Fringe Inspection to Support Renishaw 500 Series for Advanced AM Quality Control",
+    "summary_bullets_en": [
+      "Phase3D has expanded its Fringe Inspection system to include support for Renishaw's 500 series.",
+      "The expansion includes models such as the 500Q, 500D, and 500Flex.",
+      "The Fringe Inspection 500 Kit was developed in collaboration with HRL Laboratories.",
+      "This development supports the DARPA SURGE initiative by the U.S. Department of Defense."
+    ],
+    "summary_bullets_cs": [
+      "Phase3D rozšířila svůj systém Fringe Inspection o podporu série Renishaw 500.",
+      "Rozšíření zahrnuje modely jako 500Q, 500D a 500Flex.",
+      "Fringe Inspection 500 Kit byl vyvinut ve spolupráci s výzkumnou institucí HRL Laboratories.",
+      "Tento vývoj podporuje iniciativu DARPA SURGE Ministerstva obrany USA."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Phase3D",
+      "Renishaw",
+      "HRL Laboratories",
+      "DARPA"
+    ]
+  },
+  {
+    "title": "Park + Associates dokončili QR3D, první vícepatrový 3D tištěný dům v Singapuru",
+    "summary": "Singaporean architecture firm Park + Associates, in collaboration with CES_InnovFab—a developer specializing in large-scale 3D printed construction—has completed QR3D, the country’s first multi-storey 3D printed residential building. Conceived as the personal residence of Park + Associates’ founder, Lim Koon Park, the project serves as a full-scale prototype to evaluate the potential of additive manufacturing (AM) [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/park-associates-3d-printed-house-singapore-qr3d-architecture_dezeen_1704_col_0-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T10:24:03+00:00",
+    "url": "https://3dprintingindustry.com/news/park-associates-completes-qr3d-singapores-first-multi-storey-3d-printed-home-242577/?utm_source=rss&utm_medium=rss&utm_campaign=park-associates-completes-qr3d-singapores-first-multi-storey-3d-printed-home",
+    "title_en": "Park + Associates Completes QR3D, Singapore’s First Multi-Storey 3D Printed Home",
+    "summary_bullets_en": [
+      "Park + Associates, in collaboration with CES_InnovFab, has completed QR3D, Singapore's first multi-storey 3D printed residential building.",
+      "The project is the personal residence of Park + Associates’ founder, Lim Koon Park.",
+      "QR3D serves as a full-scale prototype to evaluate the potential of additive manufacturing in construction."
+    ],
+    "summary_bullets_cs": [
+      "Park + Associates ve spolupráci s CES_InnovFab dokončili QR3D, první vícepatrovou 3D tištěnou rezidenční budovu v Singapuru.",
+      "Projekt slouží jako osobní rezidence zakladatele Park + Associates, Lim Koon Parka.",
+      "QR3D je plnohodnotný prototyp pro hodnocení potenciálu aditivní výroby ve stavebnictví."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Construction",
+      "Park + Associates",
+      "CES_InnovFab"
+    ]
+  },
+  {
+    "title": "Japonská společnost 3D tiskne dům pomocí materiálů na bázi půdy",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/japanese-company-3d-prints-house-using-soil-based-materials/\" target=\"_blank\">Japanese Company 3D Prints House Using Soil-Based Materials</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 30</span></div><div><img alt=\"Japanese Company 3D Prints House Using Soil-Based Materials\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/8640879785-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/8640879785-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2025-07-30T09:00:24+00:00",
+    "url": "https://3dprinting.com/news/japanese-company-3d-prints-house-using-soil-based-materials/",
+    "title_en": "Japanese Company 3D Prints House Using Soil-Based Materials",
+    "summary_bullets_en": [
+      "A Japanese company has successfully 3D printed a house using soil-based materials.",
+      "The project aims to promote sustainable construction practices by utilizing locally sourced materials.",
+      "The use of soil-based materials reduces the environmental impact compared to traditional construction methods."
+    ],
+    "summary_bullets_cs": [
+      "Japonská společnost úspěšně vytiskla dům pomocí materiálů na bázi půdy.",
+      "Projekt si klade za cíl podporovat udržitelné stavební postupy využitím lokálně dostupných materiálů.",
+      "Použití materiálů na bázi půdy snižuje dopad na životní prostředí ve srovnání s tradičními stavebními metodami."
+    ],
+    "tags": [
+      "Hardware",
+      "Sustainable Construction",
+      "3D Printing",
+      "Japan"
+    ]
+  },
+  {
+    "title": "Spolupráce v oblasti softwaru: Synera a Materialise natírají plot",
+    "summary": "Materialise has inked a collaboration agreement with Synera. Recently, Materialise has been working on an aerospace competence center in the Netherlands, partnered with companies to print aircraft interiors, and managed...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/ssd-materialise-magics-net-generation-workflow-automation.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-30T07:00:26+00:00",
+    "url": "https://3dprint.com/319550/synera-and-materialise-paint-fence/",
+    "title_en": "Software Collaboration: Synera and Materialise Paint the Fence",
+    "summary_bullets_en": [
+      "Materialise has entered into a collaboration agreement with Synera.",
+      "Materialise is developing an aerospace competence center in the Netherlands.",
+      "The company is partnering with others to print aircraft interiors."
+    ],
+    "summary_bullets_cs": [
+      "Materialise uzavřela dohodu o spolupráci se společností Synera.",
+      "Materialise pracuje na vytvoření centra kompetencí pro letectví v Nizozemsku.",
+      "Společnost spolupracuje s dalšími firmami na tisku interiérů letadel."
+    ],
+    "tags": [
+      "Software",
+      "Materialise",
+      "Synera",
+      "Aerospace"
+    ]
+  },
+  {
     "title": "Nano Dimension potvrzuje bankrot Desktop Metal, ukončení bojujícího 3D tiskového podniku",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/922382909/0/fabbaloo/default~Nano-Dimension-Confirms-Desktop-Metal-Bankruptcy-Ending-Struggling-D-Printing-Venture\" rel=\"nofollow\" title=\"Nano Dimension Confirms Desktop Metal Bankruptcy, Ending Struggling 3D Printing Venture\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/desktop-metal-gray-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Nano Dimension announced its subsidiary, Desktop Metal, has filed for bankruptcy under chapter 11 of the US bankruptcy code.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922382909/0/fabbaloo/default~Nano-Dimension-Confirms-Desktop-Metal-Bankruptcy-Ending-Struggling-D-Printing-Venture\" rel=\"nofollow\">Nano Dimension Confirms Desktop Metal Bankruptcy, Ending Struggling 3D Printing Venture</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/desktop-metal-gray-300x169.jpg",
