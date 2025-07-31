@@ -1,5 +1,236 @@
 [
   {
+    "title": "Cenově dostupná DIY biotiskárna umožňuje koaxiální 3D tisk měkkých hydrogelů s buňkami",
+    "summary": "A team at the Bioengineering Institute of Technology, Universitat Internacional de Catalunya, has developed a DIY coaxial 3D bioprinter by modifying a Creality Ender 3 Pro desktop 3D printer. The open-source system costs under €600 and enables simultaneous extrusion of two hydrogel bioinks through a coaxial nozzle. The device was validated by printing mesenchymal stem [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Schematic-of-3D-extrusion-bioprinter-and-coaxial-nozzle-assembly-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-07-31T16:03:32+00:00",
+    "url": "https://3dprintingindustry.com/news/affordable-diy-bioprinter-enables-coaxial-3d-printing-of-soft-cell-laden-hydrogels-242675/?utm_source=rss&utm_medium=rss&utm_campaign=affordable-diy-bioprinter-enables-coaxial-3d-printing-of-soft-cell-laden-hydrogels",
+    "title_en": "Affordable DIY Bioprinter Enables Coaxial 3D Printing of Soft Cell-Laden Hydrogels",
+    "summary_bullets_en": [
+      "Researchers at the Bioengineering Institute of Technology have modified a Creality Ender 3 Pro to create a DIY coaxial 3D bioprinter.",
+      "The open-source bioprinter costs under €600 and allows for the simultaneous extrusion of two hydrogel bioinks.",
+      "The system was validated by successfully printing mesenchymal stem cells."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Bioengineering Institute of Technology upravili Creality Ender 3 Pro pro vytvoření DIY koaxiální 3D biotiskárny.",
+      "Open-source biotiskárna stojí méně než 600 € a umožňuje současnou extruzi dvou hydrogelových bioinkoustů.",
+      "Systém byl ověřen úspěšným tiskem mezenchymálních kmenových buněk."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "3D Bioprinting",
+      "Hydrogels",
+      "Stem Cells"
+    ]
+  },
+  {
+    "title": "3D tištěné nanoklastry a AI umožňují detekci rakoviny štítné žlázy ze séra",
+    "summary": "Researchers at Pusan National University in South Korea have developed a 3D printing-based diagnostic method that detects thyroid cancer using surface-enhanced Raman spectroscopy (SERS) on human serum. The technique bypasses the need for traditional biomarkers by analyzing spectral patterns with a convolutional neural network (CNN), achieving 93.1% sensitivity and 84.0% specificity. Results were published in [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Nanoparticle-cluster-for-the-SERS-platform-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-07-31T15:50:54+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printed-nanoclusters-and-ai-enable-serum-based-thyroid-cancer-detection-242684/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-nanoclusters-and-ai-enable-serum-based-thyroid-cancer-detection",
+    "title_en": "3D Printed Nanoclusters and AI Enable Serum-Based Thyroid Cancer Detection",
+    "summary_bullets_en": [
+      "Researchers at Pusan National University have developed a diagnostic method using 3D printing and surface-enhanced Raman spectroscopy (SERS) to detect thyroid cancer.",
+      "The method analyzes human serum without traditional biomarkers, utilizing a convolutional neural network (CNN) for spectral pattern analysis.",
+      "The technique achieved 93.1% sensitivity and 84.0% specificity in detecting thyroid cancer."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Pusanské národní univerzity vyvinuli diagnostickou metodu využívající 3D tisk a povrchově zesílenou Ramanovu spektroskopii (SERS) k detekci rakoviny štítné žlázy.",
+      "Metoda analyzuje lidské sérum bez tradičních biomarkerů, využívá konvoluční neuronovou síť (CNN) pro analýzu spektrálních vzorů.",
+      "Technika dosáhla 93,1% citlivosti a 84,0% specificity při detekci rakoviny štítné žlázy."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "3D Printing",
+      "AI",
+      "Pusan National University",
+      "SERS",
+      "Thyroid Cancer Detection"
+    ]
+  },
+  {
+    "title": "Praktická zkušenost s 3D tiskárnou Creality Hi, část 4",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922495052/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\" title=\"Hands on with the Creality Hi 3D Printer, Part 4\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover-final-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Our test of the new Creality Hi Combo multicolor 3D printer concludes with final thoughts. This is part four of a four-part series, please read parts one, two and three. Creality Hi Combo Final Thoughts The Creality Hi Combo was packaged very well for shipping, and the QR code on an inner box flap was&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/922495052/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">Hands on with the Creality Hi 3D Printer, Part 4</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922495052/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Hands on with the Creality Hi 3D Printer, Part 4</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover-final-300x225.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-31T15:15:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922495052/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part",
+    "title_en": "Hands on with the Creality Hi 3D Printer, Part 4",
+    "summary_bullets_en": [
+      "The final part of the Creality Hi Combo multicolor 3D printer review.",
+      "The printer was well-packaged for shipping.",
+      "A QR code on the inner box flap provides additional information."
+    ],
+    "summary_bullets_cs": [
+      "Závěrečná část recenze na multibarevnou 3D tiskárnu Creality Hi Combo.",
+      "Tiskárna byla dobře zabalena pro přepravu.",
+      "QR kód na vnitřní klapce krabice poskytuje další informace."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Praktické zkušenosti s 3D tiskárnou Creality Hi, část 3",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922494896/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\" title=\"Hands on with the Creality Hi 3D Printer, Part 3\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover5-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Our review of the new Creality Hi Combo multicolor 3D printer continues with print results. This is part three of a four-part series, please read parts one, two and four. Creality Hi Combo Print Results We finished off the sample coil of hyper filament by going through some typical test prints at a 0.2mm layer&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/922494896/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">Hands on with the Creality Hi 3D Printer, Part 3</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922494896/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Hands on with the Creality Hi 3D Printer, Part 3</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover5-300x225.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-31T15:10:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922494896/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part",
+    "title_en": "Hands on with the Creality Hi 3D Printer, Part 3",
+    "summary_bullets_en": [
+      "The review of the Creality Hi Combo multicolor 3D printer continues with a focus on print results.",
+      "This is the third part of a four-part series, with previous parts covering other aspects of the printer.",
+      "The review includes tests using a sample coil of hyper filament at a 0.2mm layer height."
+    ],
+    "summary_bullets_cs": [
+      "Recenze 3D tiskárny Creality Hi Combo s více barvami pokračuje se zaměřením na výsledky tisku.",
+      "Toto je třetí část čtyřdílné série, předchozí části pokrývají další aspekty tiskárny.",
+      "Recenze zahrnuje testy s použitím vzorové cívky hyper filamentu při výšce vrstvy 0,2 mm."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "3D Printing",
+      "Multicolor Printing"
+    ]
+  },
+  {
+    "title": "Praktické zkušenosti s 3D tiskárnou Creality Hi, část 2",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922494560/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\" title=\"Hands on with the Creality Hi 3D Printer, Part 2\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover3-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Our review of the new Creality Hi Combo multicolor 3D printer continues with setup, calibration, operations and software. This is part two of a four-part series, please read parts one, three and four. Creality Hi Combo Setup and Calibration Initial setup of the printer was very easy, and the touchscreen walked us through all the&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/922494560/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">Hands on with the Creality Hi 3D Printer, Part 2</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922494560/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Hands on with the Creality Hi 3D Printer, Part 2</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover3-300x225.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-31T15:05:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922494560/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part",
+    "title_en": "Hands on with the Creality Hi 3D Printer, Part 2",
+    "summary_bullets_en": [
+      "The review continues with the setup, calibration, operations, and software of the Creality Hi Combo multicolor 3D printer.",
+      "Initial setup of the printer was straightforward, with a touchscreen guiding the process.",
+      "This is the second part of a four-part series on the Creality Hi Combo printer."
+    ],
+    "summary_bullets_cs": [
+      "Recenze pokračuje nastavením, kalibrací, provozem a softwarem multibarevné 3D tiskárny Creality Hi Combo.",
+      "Počáteční nastavení tiskárny bylo jednoduché, s dotykovou obrazovkou, která procesem prováděla.",
+      "Toto je druhá část čtyřdílné série o tiskárně Creality Hi Combo."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "3D Printing",
+      "Multicolor Printing"
+    ]
+  },
+  {
+    "title": "Praktické zkušenosti s 3D tiskárnou Creality Hi, část 1",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922494563/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\" title=\"Hands on with the Creality Hi 3D Printer, Part 1\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover1-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>We’re testing the new Creality Hi Combo multicolor 3D printer. This is part one of a four-part series, please read parts two, three and four. Creality Hi Combo Background Shenzhen Creality 3D Technology Co., Ltd., better known as Creality, is one of the leading brands of desktop 3D printers, established in 2014. Creality is known&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/922494563/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">Hands on with the Creality Hi 3D Printer, Part 1</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922494563/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Hands on with the Creality Hi 3D Printer, Part 1</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover1-300x225.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-31T15:00:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922494563/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part",
+    "title_en": "Hands on with the Creality Hi 3D Printer, Part 1",
+    "summary_bullets_en": [
+      "The article is the first part of a four-part series reviewing the Creality Hi Combo multicolor 3D printer.",
+      "Creality Hi Combo is a product of Shenzhen Creality 3D Technology Co., Ltd., a leading brand in desktop 3D printers.",
+      "Creality was established in 2014 and is known for its innovative 3D printing solutions."
+    ],
+    "summary_bullets_cs": [
+      "Článek je první částí čtyřdílné série recenzí na multibarevnou 3D tiskárnu Creality Hi Combo.",
+      "Creality Hi Combo je produktem společnosti Shenzhen Creality 3D Technology Co., Ltd., přední značky v oblasti stolních 3D tiskáren.",
+      "Creality byla založena v roce 2014 a je známá svými inovativními řešeními pro 3D tisk."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 31. července 2025: Uvedení Falcon A1 Pro, 3D tiskárna na Kickstarteru a další",
+    "summary": "Today&#8217;s 3D Printing News Briefs is all about new products! We&#8217;ll tell you about some new components and machines related to additive, as well as a new 3D printer on...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/invision_PR_DLP9000_DLP991U.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-31T13:30:20+00:00",
+    "url": "https://3dprint.com/319621/3d-printing-news-briefs-7-31-2025/",
+    "title_en": "3D Printing News Briefs, July 31, 2025: Falcon A1 Pro Launch, Kickstarter 3D Printer, & More",
+    "summary_bullets_en": [
+      "The Falcon A1 Pro 3D printer has been launched, offering advanced features for professional use.",
+      "A new 3D printer project has been introduced on Kickstarter, aiming to bring innovative technology to a wider audience.",
+      "Several new components and machines related to additive manufacturing have been announced."
+    ],
+    "summary_bullets_cs": [
+      "Byla uvedena 3D tiskárna Falcon A1 Pro, která nabízí pokročilé funkce pro profesionální použití.",
+      "Na Kickstarteru byl představen nový projekt 3D tiskárny, který si klade za cíl přinést inovativní technologii širšímu publiku.",
+      "Bylo oznámeno několik nových komponentů a strojů souvisejících s aditivní výrobou."
+    ],
+    "tags": [
+      "Hardware",
+      "Falcon A1 Pro",
+      "Kickstarter",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Disney Accelerator podporuje velkoformátovou robotickou 3D tiskovou službu Haddy",
+    "summary": "A few months ago, Haddy, a contract manufacturer based in Florida that leverages robotic arm additive manufacturing (AM) systems to produce furniture, announced that it had opened what it was...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/Screenshot-2025-07-30-at-10.01.46 PM.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-31T13:00:37+00:00",
+    "url": "https://3dprint.com/319697/disney-accelerator-backs-large-format-robotic-3d-printing-service-haddy/",
+    "title_en": "Disney Accelerator Backs Large-Format Robotic 3D Printing Service Haddy",
+    "summary_bullets_en": [
+      "Haddy, a Florida-based contract manufacturer, utilizes robotic arm additive manufacturing systems.",
+      "The company focuses on producing large-format 3D printed furniture.",
+      "Haddy has recently opened a new facility to expand its production capabilities.",
+      "Disney Accelerator has shown support for Haddy's innovative approach to 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Haddy, výrobce na zakázku se sídlem na Floridě, využívá systémy aditivní výroby s robotickými rameny.",
+      "Společnost se zaměřuje na výrobu velkoformátového 3D tištěného nábytku.",
+      "Haddy nedávno otevřela nové zařízení pro rozšíření svých výrobních kapacit.",
+      "Disney Accelerator vyjádřil podporu inovativnímu přístupu Haddy k 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Disney",
+      "Haddy",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Pozoruhodné výsledky 3D tištěných flexibilních vláknem vyztužených biokompozitů",
+    "summary": "A new paper shows some remarkable results for flexible bio-composites: continuous flax fiber-reinforced and bamboo charcoal composites were made through 3D printing. The new material shows a 1,571% increase in...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/tpu2-1-1024x655.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-31T12:30:45+00:00",
+    "url": "https://3dprint.com/319627/remarkable-results-for-3d-printed-flexible-fiber-reinforced-bio-composites/",
+    "title_en": "Remarkable Results for 3D Printed Flexible Fiber Reinforced Bio-Composites",
+    "summary_bullets_en": [
+      "A new study highlights significant advancements in 3D printed flexible bio-composites.",
+      "The research focuses on continuous flax fiber-reinforced and bamboo charcoal composites.",
+      "These new materials demonstrate a remarkable 1,571% increase in performance."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie zdůrazňuje významné pokroky v 3D tištěných flexibilních biokompozitech.",
+      "Výzkum se zaměřuje na kontinuální lněné vlákno vyztužené a bambusové uhlíkové kompozity.",
+      "Tyto nové materiály vykazují pozoruhodné zvýšení výkonu o 1 571%."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Bio-Composites",
+      "Flax Fiber",
+      "Bamboo Charcoal"
+    ]
+  },
+  {
     "title": "Přidaná hodnota: Role společnosti Howmet v přetváření výroby v leteckém průmyslu",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/922478540/0/fabbaloo/default~The-Additive-Edge-Howmet%e2%80%99s-Role-in-Reinventing-Aerospace-Manufacturing\" rel=\"nofollow\" title=\"The Additive Edge: Howmet’s Role in Reinventing Aerospace Manufacturing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/image-209x300.gif\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"209\" /></a><p>Charles R. Goulding and Andressa Bonafe explore how Howmet Aerospace is using additive manufacturing and strategic innovation to cement its dominance in the high-stakes world of aerospace engineering.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922478540/0/fabbaloo/default~The-Additive-Edge-Howmet%e2%80%99s-Role-in-Reinventing-Aerospace-Manufacturing\" rel=\"nofollow\">The Additive Edge: Howmet’s Role in Reinventing Aerospace Manufacturing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/image-209x300.gif",
