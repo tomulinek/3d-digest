@@ -1,0 +1,1291 @@
+[
+  {
+    "title": "Cenově dostupná DIY biotiskárna umožňuje koaxiální 3D tisk měkkých hydrogelů s buňkami",
+    "summary": "A team at the Bioengineering Institute of Technology, Universitat Internacional de Catalunya, has developed a DIY coaxial 3D bioprinter by modifying a Creality Ender 3 Pro desktop 3D printer. The open-source system costs under €600 and enables simultaneous extrusion of two hydrogel bioinks through a coaxial nozzle. The device was validated by printing mesenchymal stem [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Schematic-of-3D-extrusion-bioprinter-and-coaxial-nozzle-assembly-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-07-31T16:03:32+00:00",
+    "url": "https://3dprintingindustry.com/news/affordable-diy-bioprinter-enables-coaxial-3d-printing-of-soft-cell-laden-hydrogels-242675/?utm_source=rss&utm_medium=rss&utm_campaign=affordable-diy-bioprinter-enables-coaxial-3d-printing-of-soft-cell-laden-hydrogels",
+    "title_en": "Affordable DIY Bioprinter Enables Coaxial 3D Printing of Soft Cell-Laden Hydrogels",
+    "summary_bullets_en": [
+      "Researchers at the Bioengineering Institute of Technology have created a DIY coaxial 3D bioprinter by modifying a Creality Ender 3 Pro.",
+      "The open-source bioprinter costs under €600 and allows for the simultaneous extrusion of two hydrogel bioinks.",
+      "The system was validated by successfully printing mesenchymal stem cells."
+    ],
+    "summary_bullets_cs": [
+      "Tým z Bioengineering Institute of Technology vytvořil DIY koaxiální 3D biotiskárnu úpravou Creality Ender 3 Pro.",
+      "Open-source biotiskárna stojí méně než 600 € a umožňuje současnou extruzi dvou hydrogelových bioinkoustů.",
+      "Systém byl ověřen úspěšným tiskem mezenchymálních kmenových buněk."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "3D Bioprinting",
+      "Hydrogels",
+      "Open Source"
+    ]
+  },
+  {
+    "title": "3D tištěné nanoklastry a AI umožňují detekci rakoviny štítné žlázy ze séra",
+    "summary": "Researchers at Pusan National University in South Korea have developed a 3D printing-based diagnostic method that detects thyroid cancer using surface-enhanced Raman spectroscopy (SERS) on human serum. The technique bypasses the need for traditional biomarkers by analyzing spectral patterns with a convolutional neural network (CNN), achieving 93.1% sensitivity and 84.0% specificity. Results were published in [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Nanoparticle-cluster-for-the-SERS-platform-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-07-31T15:50:54+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printed-nanoclusters-and-ai-enable-serum-based-thyroid-cancer-detection-242684/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-nanoclusters-and-ai-enable-serum-based-thyroid-cancer-detection",
+    "title_en": "3D Printed Nanoclusters and AI Enable Serum-Based Thyroid Cancer Detection",
+    "summary_bullets_en": [
+      "Researchers at Pusan National University have developed a 3D printing-based method for detecting thyroid cancer.",
+      "The technique uses surface-enhanced Raman spectroscopy (SERS) on human serum.",
+      "A convolutional neural network (CNN) analyzes spectral patterns, achieving 93.1% sensitivity and 84.0% specificity.",
+      "This method eliminates the need for traditional biomarkers."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Pusanské národní univerzity vyvinuli metodu detekce rakoviny štítné žlázy založenou na 3D tisku.",
+      "Technika využívá povrchově zesílenou Ramanovu spektroskopii (SERS) na lidském séru.",
+      "Konvoluční neuronová síť (CNN) analyzuje spektrální vzory, dosahuje 93,1% citlivosti a 84,0% specificity.",
+      "Tato metoda eliminuje potřebu tradičních biomarkerů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "3D Printing",
+      "AI",
+      "Pusan National University",
+      "SERS",
+      "Thyroid Cancer Detection"
+    ]
+  },
+  {
+    "title": "Praktické zkušenosti s 3D tiskárnou Creality Hi, část 4",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922495052/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\" title=\"Hands on with the Creality Hi 3D Printer, Part 4\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover-final-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Our test of the new Creality Hi Combo multicolor 3D printer concludes with final thoughts. This is part four of a four-part series, please read parts one, two and three. Creality Hi Combo Final Thoughts The Creality Hi Combo was packaged very well for shipping, and the QR code on an inner box flap was&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/922495052/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">Hands on with the Creality Hi 3D Printer, Part 4</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922495052/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Hands on with the Creality Hi 3D Printer, Part 4</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover-final-300x225.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-31T15:15:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922495052/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part",
+    "title_en": "Hands on with the Creality Hi 3D Printer, Part 4",
+    "summary_bullets_en": [
+      "The review concludes the four-part series on the Creality Hi Combo multicolor 3D printer.",
+      "The printer was well-packaged for shipping, ensuring safe delivery.",
+      "A QR code on the inner box flap provides additional information or resources."
+    ],
+    "summary_bullets_cs": [
+      "Recenze uzavírá čtyřdílnou sérii o multibarevné 3D tiskárně Creality Hi Combo.",
+      "Tiskárna byla dobře zabalena pro přepravu, což zajišťuje bezpečné doručení.",
+      "QR kód na vnitřní klapce krabice poskytuje další informace nebo zdroje."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Praktické zkušenosti s 3D tiskárnou Creality Hi, část 3",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922494896/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\" title=\"Hands on with the Creality Hi 3D Printer, Part 3\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover5-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Our review of the new Creality Hi Combo multicolor 3D printer continues with print results. This is part three of a four-part series, please read parts one, two and four. Creality Hi Combo Print Results We finished off the sample coil of hyper filament by going through some typical test prints at a 0.2mm layer&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/922494896/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">Hands on with the Creality Hi 3D Printer, Part 3</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922494896/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Hands on with the Creality Hi 3D Printer, Part 3</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover5-300x225.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-31T15:10:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922494896/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part",
+    "title_en": "Hands on with the Creality Hi 3D Printer, Part 3",
+    "summary_bullets_en": [
+      "The review of the Creality Hi Combo multicolor 3D printer continues with a focus on print results.",
+      "This is the third part of a four-part series, with recommendations to read parts one, two, and four.",
+      "The review includes testing with a sample coil of hyper filament at a 0.2mm layer height."
+    ],
+    "summary_bullets_cs": [
+      "Recenze 3D tiskárny Creality Hi Combo s více barvami pokračuje se zaměřením na výsledky tisku.",
+      "Jedná se o třetí část čtyřdílné série, doporučuje se přečíst části jedna, dvě a čtyři.",
+      "Recenze zahrnuje testování se vzorkem hyper filamentu při výšce vrstvy 0,2 mm."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "3D Printing",
+      "Multicolor Printing"
+    ]
+  },
+  {
+    "title": "Praktické zkušenosti s 3D tiskárnou Creality Hi, část 2",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922494560/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\" title=\"Hands on with the Creality Hi 3D Printer, Part 2\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover3-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Our review of the new Creality Hi Combo multicolor 3D printer continues with setup, calibration, operations and software. This is part two of a four-part series, please read parts one, three and four. Creality Hi Combo Setup and Calibration Initial setup of the printer was very easy, and the touchscreen walked us through all the&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/922494560/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">Hands on with the Creality Hi 3D Printer, Part 2</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922494560/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Hands on with the Creality Hi 3D Printer, Part 2</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover3-300x225.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-31T15:05:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922494560/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part",
+    "title_en": "Hands on with the Creality Hi 3D Printer, Part 2",
+    "summary_bullets_en": [
+      "The review continues with the setup, calibration, operations, and software of the Creality Hi Combo multicolor 3D printer.",
+      "Initial setup of the printer was straightforward, guided by an intuitive touchscreen interface.",
+      "This is the second part of a four-part series reviewing the Creality Hi Combo printer."
+    ],
+    "summary_bullets_cs": [
+      "Recenze pokračuje nastavením, kalibrací, provozem a softwarem multibarevné 3D tiskárny Creality Hi Combo.",
+      "Počáteční nastavení tiskárny bylo jednoduché, vedené intuitivním dotykovým rozhraním.",
+      "Toto je druhá část čtyřdílné série recenzí tiskárny Creality Hi Combo."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "3D Printing",
+      "Multicolor Printing"
+    ]
+  },
+  {
+    "title": "Praktická zkušenost s 3D tiskárnou Creality Hi, část 1",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922494563/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\" title=\"Hands on with the Creality Hi 3D Printer, Part 1\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover1-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>We’re testing the new Creality Hi Combo multicolor 3D printer. This is part one of a four-part series, please read parts two, three and four. Creality Hi Combo Background Shenzhen Creality 3D Technology Co., Ltd., better known as Creality, is one of the leading brands of desktop 3D printers, established in 2014. Creality is known&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/922494563/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">Hands on with the Creality Hi 3D Printer, Part 1</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922494563/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part\" rel=\"nofollow\">Hands on with the Creality Hi 3D Printer, Part 1</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/00-creality-hi-combo-cover1-300x225.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-31T15:00:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922494563/0/fabbaloo/default~Hands-on-with-the-Creality-Hi-D-Printer-Part",
+    "title_en": "Hands on with the Creality Hi 3D Printer, Part 1",
+    "summary_bullets_en": [
+      "The article is the first part of a four-part series reviewing the Creality Hi Combo multicolor 3D printer.",
+      "Creality Hi Combo is a new product from Shenzhen Creality 3D Technology Co., Ltd., a leading brand in desktop 3D printers.",
+      "Creality was established in 2014 and is known for its innovative 3D printing solutions."
+    ],
+    "summary_bullets_cs": [
+      "Článek je první částí čtyřdílné série recenzí na multibarevnou 3D tiskárnu Creality Hi Combo.",
+      "Creality Hi Combo je nový produkt od společnosti Shenzhen Creality 3D Technology Co., Ltd., přední značky v oblasti stolních 3D tiskáren.",
+      "Creality byla založena v roce 2014 a je známá svými inovativními řešeními pro 3D tisk."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 31. července 2025: Uvedení Falcon A1 Pro, 3D tiskárna na Kickstarteru a další",
+    "summary": "Today&#8217;s 3D Printing News Briefs is all about new products! We&#8217;ll tell you about some new components and machines related to additive, as well as a new 3D printer on...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/invision_PR_DLP9000_DLP991U.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-31T13:30:20+00:00",
+    "url": "https://3dprint.com/319621/3d-printing-news-briefs-7-31-2025/",
+    "title_en": "3D Printing News Briefs, July 31, 2025: Falcon A1 Pro Launch, Kickstarter 3D Printer, & More",
+    "summary_bullets_en": [
+      "The Falcon A1 Pro 3D printer has been launched, offering advanced features for professional use.",
+      "A new 3D printer project has been introduced on Kickstarter, aiming to bring innovative capabilities to the market.",
+      "Several new components and machines related to additive manufacturing have been announced."
+    ],
+    "summary_bullets_cs": [
+      "Byla uvedena 3D tiskárna Falcon A1 Pro, která nabízí pokročilé funkce pro profesionální použití.",
+      "Na Kickstarteru byl představen nový projekt 3D tiskárny, který má přinést inovativní schopnosti na trh.",
+      "Bylo oznámeno několik nových komponentů a strojů souvisejících s aditivní výrobou."
+    ],
+    "tags": [
+      "Hardware",
+      "Falcon A1 Pro",
+      "Kickstarter",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Disney Accelerator podporuje velkoformátovou robotickou 3D tiskovou službu Haddy",
+    "summary": "A few months ago, Haddy, a contract manufacturer based in Florida that leverages robotic arm additive manufacturing (AM) systems to produce furniture, announced that it had opened what it was...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/Screenshot-2025-07-30-at-10.01.46 PM.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-31T13:00:37+00:00",
+    "url": "https://3dprint.com/319697/disney-accelerator-backs-large-format-robotic-3d-printing-service-haddy/",
+    "title_en": "Disney Accelerator Backs Large-Format Robotic 3D Printing Service Haddy",
+    "summary_bullets_en": [
+      "Haddy, a Florida-based contract manufacturer, uses robotic arm additive manufacturing systems.",
+      "The company specializes in producing large-format 3D printed furniture.",
+      "Haddy has recently opened a new facility to expand its production capabilities.",
+      "Disney Accelerator has shown support for Haddy's innovative approach to 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Haddy, výrobce na zakázku se sídlem na Floridě, využívá systémy aditivní výroby s robotickými rameny.",
+      "Společnost se specializuje na výrobu velkoformátového 3D tištěného nábytku.",
+      "Haddy nedávno otevřel nové zařízení pro rozšíření svých výrobních kapacit.",
+      "Disney Accelerator vyjádřil podporu inovativnímu přístupu Haddy k 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Disney",
+      "Haddy",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Pozoruhodné výsledky 3D tištěných flexibilních vláknem vyztužených biokompozitů",
+    "summary": "A new paper shows some remarkable results for flexible bio-composites: continuous flax fiber-reinforced and bamboo charcoal composites were made through 3D printing. The new material shows a 1,571% increase in...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/tpu2-1-1024x655.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-31T12:30:45+00:00",
+    "url": "https://3dprint.com/319627/remarkable-results-for-3d-printed-flexible-fiber-reinforced-bio-composites/",
+    "title_en": "Remarkable Results for 3D Printed Flexible Fiber Reinforced Bio-Composites",
+    "summary_bullets_en": [
+      "A new study demonstrates significant advancements in 3D printed flexible bio-composites.",
+      "The research focuses on continuous flax fiber-reinforced and bamboo charcoal composites.",
+      "These new materials exhibit a remarkable 1,571% increase in performance metrics."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie ukazuje významné pokroky v 3D tištěných flexibilních biokompozitech.",
+      "Výzkum se zaměřuje na kompozity vyztužené kontinuálním lněným vláknem a bambusovým uhlím.",
+      "Tyto nové materiály vykazují pozoruhodný nárůst výkonových parametrů o 1 571 %."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Bio-Composites",
+      "Flax Fiber",
+      "Bamboo Charcoal"
+    ]
+  },
+  {
+    "title": "Přidaná hodnota: Role společnosti Howmet v přetváření výroby v leteckém průmyslu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922478540/0/fabbaloo/default~The-Additive-Edge-Howmet%e2%80%99s-Role-in-Reinventing-Aerospace-Manufacturing\" rel=\"nofollow\" title=\"The Additive Edge: Howmet’s Role in Reinventing Aerospace Manufacturing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/image-209x300.gif\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"209\" /></a><p>Charles R. Goulding and Andressa Bonafe explore how Howmet Aerospace is using additive manufacturing and strategic innovation to cement its dominance in the high-stakes world of aerospace engineering.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922478540/0/fabbaloo/default~The-Additive-Edge-Howmet%e2%80%99s-Role-in-Reinventing-Aerospace-Manufacturing\" rel=\"nofollow\">The Additive Edge: Howmet’s Role in Reinventing Aerospace Manufacturing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/image-209x300.gif",
+    "source": "Fabbaloo",
+    "published": "2025-07-31T11:17:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922478540/0/fabbaloo/default~The-Additive-Edge-Howmet%e2%80%99s-Role-in-Reinventing-Aerospace-Manufacturing",
+    "title_en": "The Additive Edge: Howmet’s Role in Reinventing Aerospace Manufacturing",
+    "summary_bullets_en": [
+      "Howmet Aerospace is leveraging additive manufacturing to enhance its position in aerospace engineering.",
+      "The company focuses on strategic innovation to maintain its competitive edge in the industry.",
+      "Additive manufacturing allows for more efficient production processes and advanced design capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Howmet Aerospace využívá aditivní výrobu k posílení své pozice v leteckém inženýrství.",
+      "Firma se zaměřuje na strategické inovace, aby si udržela konkurenční výhodu v oboru.",
+      "Aditivní výroba umožňuje efektivnější výrobní procesy a pokročilé konstrukční možnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "Aerospace",
+      "Howmet Aerospace"
+    ]
+  },
+  {
+    "title": "Britská armáda nasazuje 3D tiskárnu Bambu Lab k výrobě útočných dronů",
+    "summary": "The British Army 3D printed first-person view (FPV) attack drones on the front lines during a recent military exercise. Major Stephen Watts, Officer Commanding F Company, 3rd Battalion, The Rifles Regiment, led a team that built the drones during Exercise Bull Storm in Kenya. The effort tested whether soldiers can successfully fabricate and deploy FPV [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/A-3D-printed-drones-with-Bambu-Lab-3D-printer-in-the-background.-Photo-via-the-British-Army-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-31T10:30:07+00:00",
+    "url": "https://3dprintingindustry.com/news/british-army-deploys-bambu-lab-3d-printer-to-manufacture-attack-drones-242725/?utm_source=rss&utm_medium=rss&utm_campaign=british-army-deploys-bambu-lab-3d-printer-to-manufacture-attack-drones",
+    "title_en": "British Army Deploys Bambu Lab 3D Printer to Manufacture Attack Drones",
+    "summary_bullets_en": [
+      "The British Army used 3D printing to create FPV attack drones during a military exercise.",
+      "Major Stephen Watts led the team that built the drones in Kenya during Exercise Bull Storm.",
+      "The exercise aimed to test the feasibility of soldiers fabricating and deploying FPV drones on the front lines."
+    ],
+    "summary_bullets_cs": [
+      "Britská armáda použila 3D tisk k výrobě FPV útočných dronů během vojenského cvičení.",
+      "Major Stephen Watts vedl tým, který drony postavil v Keni během cvičení Bull Storm.",
+      "Cvičení mělo za cíl otestovat, zda vojáci mohou úspěšně vyrábět a nasazovat FPV drony na frontové linii."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "British Army",
+      "3D Printing",
+      "Drones"
+    ]
+  },
+  {
+    "title": "AML3D expanduje na evropský trh prostřednictvím distribuční dohody ve Spojeném království",
+    "summary": "AML3D, an Australian metal 3D printing company, has signed a two-year, non-exclusive distribution agreement with Arc Additive, a Scotland-based supplier of large-scale wire arc additive manufacturing (WAAM) systems. The agreement appoints Arc as AML3D’s distribution partner across the UK and Europe. It follows AML3D’s late-2024 capital raise and AU$5 million investment to establish a European [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Arc-Additive-Team-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-07-31T09:47:41+00:00",
+    "url": "https://3dprintingindustry.com/news/aml3d-expands-into-european-market-with-uk-based-distribution-deal-242662/?utm_source=rss&utm_medium=rss&utm_campaign=aml3d-expands-into-european-market-with-uk-based-distribution-deal",
+    "title_en": "AML3D Expands into European Market with UK-Based Distribution Deal",
+    "summary_bullets_en": [
+      "AML3D, an Australian metal 3D printing company, has signed a distribution agreement with Arc Additive.",
+      "Arc Additive, based in Scotland, will distribute AML3D's WAAM systems across the UK and Europe.",
+      "The agreement is non-exclusive and lasts for two years.",
+      "This move follows AML3D's capital raise and AU$5 million investment to establish a European presence."
+    ],
+    "summary_bullets_cs": [
+      "AML3D, australská společnost zabývající se 3D tiskem kovů, podepsala distribuční dohodu s Arc Additive.",
+      "Arc Additive, se sídlem ve Skotsku, bude distribuovat WAAM systémy AML3D po celém Spojeném království a Evropě.",
+      "Dohoda je neexkluzivní a trvá dva roky.",
+      "Tento krok následuje po navýšení kapitálu AML3D a investici ve výši 5 milionů AUD na vytvoření evropské přítomnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "AML3D",
+      "Arc Additive",
+      "WAAM",
+      "3D Printing",
+      "Distribution"
+    ]
+  },
+  {
+    "title": "Výzkumný projekt financovaný EU dosáhl šestinásobného zvýšení produktivity v kovovém 3D tisku",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/eu-funded-research-project-achieves-sixfold-productivity-increase-in-metal-3d-printing/\" target=\"_blank\">EU-Funded Research Project Achieves Sixfold Productivity Increase in Metal 3D Printing</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 31</span></div><div><img alt=\"Industrial gas turbine part\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/BayFOR-inshape-gas-turbine-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/BayFOR-inshape-gas-turbine-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-31T07:00:10+00:00",
+    "url": "https://3dprinting.com/news/eu-funded-research-project-achieves-sixfold-productivity-increase-in-metal-3d-printing/",
+    "title_en": "EU-Funded Research Project Achieves Sixfold Productivity Increase in Metal 3D Printing",
+    "summary_bullets_en": [
+      "A research project funded by the EU has significantly increased productivity in metal 3D printing.",
+      "The project achieved a sixfold increase in productivity for metal additive manufacturing.",
+      "This breakthrough could lead to more efficient production processes in industries using metal 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumný projekt financovaný EU výrazně zvýšil produktivitu v kovovém 3D tisku.",
+      "Projekt dosáhl šestinásobného zvýšení produktivity pro aditivní výrobu kovů.",
+      "Tento průlom by mohl vést k efektivnějším výrobním procesům v průmyslech využívajících kovový 3D tisk."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "EU-Funded Project",
+      "Productivity Increase"
+    ]
+  },
+  {
+    "title": "Důležité zprávy: i.materialise a Materialise OnSite se spojují tento říjen",
+    "summary": "As of October 2025, Materialise will merge its two online ordering platforms into one: Materialise OnSite. Below, you’ll find some helpful info about what’s next, what to expect, and what it all means for now.  Merging our two platforms under one banner is the logical next step in a journey that we’re incredibly proud of. It’s also an important one; by consolidating our efforts, we can continue to provide quality 3D-printed parts and prototypes you’ve come to expect from Materialise.  What this means for i.materialise Starting October 31, 2025, you’ll no longer be able to place orders or use the shop feature on i.materialise, but you’ll still be able to log in to view your account information. You can continue to use the platform as usual until then, after which we hope you’ll continue to choose us as your 3D printing partner via Materialise OnSite. Test it out with an exclusive discount! Want to try OnSite before the big day? Create an account and use code hsqnmogr to get 10% off every OnSite order between August 1st and 31st inclusive — use it as many times as you like!   What to look for on Materialise OnSite   As OnSite has always specialized in producing industrial parts and products, it has a few interesting features that you won’t have seen on i.materialise.   Performance-grade materials: Access specialist polymers suitable for demanding industrial applications. Fast Lane: Get your parts shipped within 48 hours when you work with select materials — look for the &#x26a1;symbol. Precious metals: Expect to see brass, bronze, copper, gold, and silver on OnSite in October OnSite is constantly evolving, so new features are just around the corner. Create an account, and we’ll keep you in the loop with detailed email updates on all the latest enhancements. It’s the easiest way to get the most out of your online 3D printing experience. If you’re looking for a particular material while exploring OnSite, one aspect you may need to consider is the differences in how they’re named — this article has all the information you’ll need about those changes. You can also get answers to all your technical questions via our support center. Thank you for everything  To everyone who has made this platform a part of their 3D printing journey, we want to end by saying thank you. i.materialise was a trailblazer. A hub of ingenuity, creativity, and exploration — a spirit we hope you’ll bring with you when we make the move this October! After all, this isn’t goodbye. It’s see you over there.  Join us on Materialise OnSite  Ready to continue the journey with us? Create your account on the new platform.",
+    "image": "https://i.materialise.com/blog/wp-content/uploads/2025/07/onsite-merger-header-1024x575.png",
+    "source": "3D Printing Blog | i.materialise",
+    "published": "2025-07-31T06:55:12+00:00",
+    "url": "https://i.materialise.com/blog/en/merging-onsite/",
+    "title_en": "Important News: i.materialise And Materialise OnSite Are Merging This October",
+    "summary_bullets_en": [
+      "Materialise is merging its two online platforms, i.materialise and Materialise OnSite, into one by October 2025.",
+      "i.materialise will cease order placements from October 31, 2025, but users can still access their accounts.",
+      "Materialise OnSite offers features like performance-grade materials, fast shipping, and precious metals.",
+      "Users can try Materialise OnSite with a 10% discount code available for use in August 2025."
+    ],
+    "summary_bullets_cs": [
+      "Materialise spojuje své dvě online platformy, i.materialise a Materialise OnSite, do jedné do října 2025.",
+      "i.materialise přestane přijímat objednávky od 31. října 2025, ale uživatelé budou mít stále přístup ke svým účtům.",
+      "Materialise OnSite nabízí funkce jako materiály pro náročné aplikace, rychlé dodání a drahé kovy.",
+      "Uživatelé mohou vyzkoušet Materialise OnSite s 10% slevovým kódem dostupným k použití v srpnu 2025."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Materialise",
+      "3D Printing",
+      "i.materialise",
+      "Materialise OnSite"
+    ]
+  },
+  {
+    "title": "Fiasko s kovovým binder jettingem – může to lepší software napravit?",
+    "summary": "RECODE.AM #9",
+    "image": "https://substackcdn.com/image/fetch/$s_!XFSl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd429d840-1bf3-4219-9acf-a571db237b70_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-07-30T17:59:10+00:00",
+    "url": "https://www.3dprintingjournal.com/p/the-metal-binder-jetting-fiasco-and",
+    "title_en": "The metal binder jetting fiasco – and can better software fix it?",
+    "summary_bullets_en": [
+      "The article discusses the challenges faced by the metal binder jetting technology in 3D printing.",
+      "It highlights the limitations of current software in optimizing the metal binder jetting process.",
+      "Experts suggest that advancements in software could potentially address these issues and improve the technology's efficiency."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá problémy, kterým čelí technologie kovového binder jettingu v 3D tisku.",
+      "Zdůrazňuje omezení současného softwaru při optimalizaci procesu kovového binder jettingu.",
+      "Odborníci naznačují, že pokroky v softwaru by mohly potenciálně tyto problémy řešit a zlepšit efektivitu technologie."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "3D Printing",
+      "Metal Binder Jetting"
+    ]
+  },
+  {
+    "title": "Výzkumníci vyvinuli levný optický vlnovod pro AR pomocí 3D tisku",
+    "summary": "A team of researchers at the University of Melbourne has developed a low-cost prototype of a liquid-based geometric waveguide combiner for augmented reality (AR) applications. The device replaces complex fabrication steps used in conventional optical combiners by integrating silicone oil and PolyJet 3D printing in a simplified production method. The work was published in a [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Optical-performance-of-the-fabricated-waveguide-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T17:41:26+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-develop-low-cost-optical-waveguide-for-ar-using-3d-printing-242599/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-develop-low-cost-optical-waveguide-for-ar-using-3d-printing",
+    "title_en": "Researchers develop low-cost optical waveguide for AR using 3D printing",
+    "summary_bullets_en": [
+      "A team at the University of Melbourne has created a low-cost prototype of a liquid-based geometric waveguide combiner for AR.",
+      "The device simplifies production by integrating silicone oil and PolyJet 3D printing.",
+      "This method replaces complex fabrication steps used in conventional optical combiners."
+    ],
+    "summary_bullets_cs": [
+      "Tým na Univerzitě v Melbourne vytvořil levný prototyp kapalného geometrického vlnovodného kombinátoru pro AR.",
+      "Zařízení zjednodušuje výrobu integrací silikonového oleje a PolyJet 3D tisku.",
+      "Tato metoda nahrazuje složité výrobní kroky používané v konvenčních optických kombinátorech."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Augmented Reality",
+      "University of Melbourne",
+      "PolyJet"
+    ]
+  },
+  {
+    "title": "Mantle odemyká ultra jemné vlastnosti forem s aktualizací Top Definition uprostřed rostoucího přijetí v průmyslu",
+    "summary": "Mantle, a U.S.-based developer of automated toolmaking systems, has launched its latest software update, Top Definition, enabling the direct 3D printing of mold features as thin as 0.2 mm. The update, released over the air to all customers on July 29, 2025, marks an 80% reduction in minimum feature size and comes as the company [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/TD-Process-2-scaled-1-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T17:07:02+00:00",
+    "url": "https://3dprintingindustry.com/news/mantle-unlocks-ultra-fine-mold-features-with-top-definition-update-amid-rising-industry-adoption-242632/?utm_source=rss&utm_medium=rss&utm_campaign=mantle-unlocks-ultra-fine-mold-features-with-top-definition-update-amid-rising-industry-adoption",
+    "title_en": "Mantle unlocks ultra-fine mold features with Top Definition update amid rising industry adoption",
+    "summary_bullets_en": [
+      "Mantle has released a new software update called Top Definition.",
+      "The update allows for 3D printing of mold features as thin as 0.2 mm.",
+      "This marks an 80% reduction in the minimum feature size.",
+      "The update was made available to all customers on July 29, 2025."
+    ],
+    "summary_bullets_cs": [
+      "Mantle vydal novou softwarovou aktualizaci nazvanou Top Definition.",
+      "Aktualizace umožňuje 3D tisk vlastností forem tenkých až 0,2 mm.",
+      "To znamená 80% snížení minimální velikosti vlastností.",
+      "Aktualizace byla zpřístupněna všem zákazníkům 29. července 2025."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Mantle",
+      "3D Printing",
+      "Toolmaking"
+    ]
+  },
+  {
+    "title": "Lib Work opouští beton pro svůj dům z půdy v Japonsku",
+    "summary": "Help choose the 2025 3D Printing Industry Awards winners – sign up for the Expert Committee now! Japanese architecture studio Lib Work has introduced a 3D printed home that departs from the concrete-based approach used in most additive construction projects.&#160; Built in Yamaga, Kumamoto Prefecture, the 100 sq m (1,076 sq ft) single-story residence, known [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/download-2-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T17:00:33+00:00",
+    "url": "https://3dprintingindustry.com/news/lib-work-ditches-concrete-for-its-soil-based-home-in-japan-242649/?utm_source=rss&utm_medium=rss&utm_campaign=lib-work-ditches-concrete-for-its-soil-based-home-in-japan",
+    "title_en": "Lib Work ditches concrete for its soil-based home in Japan",
+    "summary_bullets_en": [
+      "Japanese architecture studio Lib Work has developed a 3D printed home using soil instead of concrete.",
+      "The residence is located in Yamaga, Kumamoto Prefecture, and covers an area of 100 sq m (1,076 sq ft).",
+      "This project marks a departure from the traditional concrete-based approach in additive construction."
+    ],
+    "summary_bullets_cs": [
+      "Japonské architektonické studio Lib Work vyvinulo 3D tištěný dům využívající půdu místo betonu.",
+      "Rezidence se nachází v Yamaga, prefektura Kumamoto, a má rozlohu 100 m².",
+      "Tento projekt představuje odklon od tradičního přístupu k aditivní konstrukci založeného na betonu."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Lib Work",
+      "Construction",
+      "Architecture",
+      "Japan"
+    ]
+  },
+  {
+    "title": "Elmet Technologies získala americký patent na prášky z wolframové slitiny pro aditivní výrobu",
+    "summary": "Elmet Technologies, the U.S.-owned tungsten and molybdenum manufacturer, has been granted U.S. Patent No. 12,359,290 for a method of producing tungsten heavy metal alloy powders. The patented process enhances additive manufacturing and powder metallurgy applications by improving powder morphology, flowability, and densification. This innovation marks Elmet’s fifth U.S. patent in the field and enables the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Tungsten-Cubes-Fragmentation-Capabilities-scaled-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T16:59:30+00:00",
+    "url": "https://3dprintingindustry.com/news/elmet-technologies-awarded-u-s-patent-for-tungsten-alloy-powders-for-am-242656/?utm_source=rss&utm_medium=rss&utm_campaign=elmet-technologies-awarded-u-s-patent-for-tungsten-alloy-powders-for-am",
+    "title_en": "Elmet Technologies awarded U.S. patent for tungsten alloy powders for AM",
+    "summary_bullets_en": [
+      "Elmet Technologies has received a U.S. patent for a method of producing tungsten heavy metal alloy powders.",
+      "The patented process improves additive manufacturing and powder metallurgy by enhancing powder morphology, flowability, and densification.",
+      "This is Elmet’s fifth U.S. patent in the field."
+    ],
+    "summary_bullets_cs": [
+      "Elmet Technologies obdržela americký patent na metodu výroby prášků z těžkých kovových slitin wolframu.",
+      "Patentovaný proces zlepšuje aditivní výrobu a práškovou metalurgii tím, že vylepšuje morfologii, tekutost a zhušťování prášků.",
+      "Jedná se o pátý americký patent společnosti Elmet v této oblasti."
+    ],
+    "tags": [
+      "Material",
+      "Elmet Technologies",
+      "Additive Manufacturing",
+      "Patent"
+    ]
+  },
+  {
+    "title": "Snapmaker U1 se uvádí na trh za 679 dolarů, přináší cenově dostupný 3D tisk s výměnou nástrojů pro nadšence",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922438685/0/fabbaloo/default~Snapmaker-U-Launches-at-Bringing-Affordable-Toolchanging-D-Printing-to-Hobbyists\" rel=\"nofollow\" title=\"Snapmaker U1 Launches at $679, Bringing Affordable Toolchanging 3D Printing to Hobbyists\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/u1-price-cover-300x220.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>After only a couple of weeks, Snapmaker has set the pricing for their low-cost toolchanging 3D printer, the U1.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922438685/0/fabbaloo/default~Snapmaker-U-Launches-at-Bringing-Affordable-Toolchanging-D-Printing-to-Hobbyists\" rel=\"nofollow\">Snapmaker U1 Launches at $679, Bringing Affordable Toolchanging 3D Printing to Hobbyists</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/u1-price-cover-300x220.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-30T16:25:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922438685/0/fabbaloo/default~Snapmaker-U-Launches-at-Bringing-Affordable-Toolchanging-D-Printing-to-Hobbyists",
+    "title_en": "Snapmaker U1 Launches at $679, Bringing Affordable Toolchanging 3D Printing to Hobbyists",
+    "summary_bullets_en": [
+      "Snapmaker has announced the pricing for their new U1 toolchanging 3D printer.",
+      "The U1 is priced at $679, making it an affordable option for hobbyists.",
+      "The printer offers toolchanging capabilities, enhancing its versatility for various projects."
+    ],
+    "summary_bullets_cs": [
+      "Snapmaker oznámil cenu svého nového 3D tiskárny U1 s výměnou nástrojů.",
+      "U1 je oceněna na 679 dolarů, což z ní dělá cenově dostupnou volbu pro nadšence.",
+      "Tiskárna nabízí schopnosti výměny nástrojů, což zvyšuje její všestrannost pro různé projekty."
+    ],
+    "tags": [
+      "Hardware",
+      "Snapmaker",
+      "3D Printing",
+      "Toolchanging"
+    ]
+  },
+  {
+    "title": "Nová metoda pro kutily kombinuje TPU a hliníkový drát pro flexibilní a polohovatelné 3D tisky",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922435388/0/fabbaloo/default~New-DIY-Method-Combines-TPU-and-Aluminum-Wire-for-Flexible-Poseable-D-Prints\" rel=\"nofollow\" title=\"New DIY Method Combines TPU and Aluminum Wire for Flexible, Poseable 3D Prints\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/aluminum-wire-tpu-cover-300x242.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A very interesting 3D printing technique using aluminum wire can be used by any 3D printer operator.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922435388/0/fabbaloo/default~New-DIY-Method-Combines-TPU-and-Aluminum-Wire-for-Flexible-Poseable-D-Prints\" rel=\"nofollow\">New DIY Method Combines TPU and Aluminum Wire for Flexible, Poseable 3D Prints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/aluminum-wire-tpu-cover-300x242.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-07-30T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922435388/0/fabbaloo/default~New-DIY-Method-Combines-TPU-and-Aluminum-Wire-for-Flexible-Poseable-D-Prints",
+    "title_en": "New DIY Method Combines TPU and Aluminum Wire for Flexible, Poseable 3D Prints",
+    "summary_bullets_en": [
+      "A new 3D printing technique uses aluminum wire to create flexible and poseable prints.",
+      "This method is accessible to any 3D printer operator.",
+      "Combining TPU with aluminum wire enhances the flexibility and durability of 3D printed objects."
+    ],
+    "summary_bullets_cs": [
+      "Nová technika 3D tisku využívá hliníkový drát k vytvoření flexibilních a polohovatelných tisků.",
+      "Tato metoda je dostupná pro každého operátora 3D tiskárny.",
+      "Kombinace TPU s hliníkovým drátem zvyšuje flexibilitu a odolnost 3D tištěných objektů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "TPU",
+      "Aluminum Wire"
+    ]
+  },
+  {
+    "title": "Může být LAHB budoucností udržitelného 3D tiskového filamentu?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922424270/0/fabbaloo/default~Could-LAHB-Be-the-Future-of-Sustainable-D-Print-Filament\" rel=\"nofollow\" title=\"Could LAHB Be the Future of Sustainable 3D Print Filament?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/lahb-cover-300x213.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have investigated the biodegradability of LAHB, a material that has properties of PLA and PHB.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922424270/0/fabbaloo/default~Could-LAHB-Be-the-Future-of-Sustainable-D-Print-Filament\" rel=\"nofollow\">Could LAHB Be the Future of Sustainable 3D Print Filament?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/lahb-cover-300x213.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-30T12:56:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922424270/0/fabbaloo/default~Could-LAHB-Be-the-Future-of-Sustainable-D-Print-Filament",
+    "title_en": "Could LAHB Be the Future of Sustainable 3D Print Filament?",
+    "summary_bullets_en": [
+      "Researchers are exploring the biodegradability of LAHB, a new material.",
+      "LAHB combines properties of PLA and PHB.",
+      "The material could offer a sustainable alternative for 3D printing filaments."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci zkoumají biologickou rozložitelnost materiálu LAHB.",
+      "LAHB kombinuje vlastnosti PLA a PHB.",
+      "Materiál by mohl nabídnout udržitelnou alternativu pro 3D tiskové filamenty."
+    ],
+    "tags": [
+      "Material",
+      "Sustainability",
+      "3D Printing",
+      "PLA",
+      "PHB",
+      "Biodegradable"
+    ]
+  },
+  {
+    "title": "ORNL MDF 3D tiskne bednění reaktoru uprostřed obnoveného zájmu o jadernou energii",
+    "summary": "Having just 3D printed specimen containers using additive, ORNL is moving further. At the ORNL Manufacturing Demonstration Facility (MDF), they&#8217;ve worked with Kairos Power and Barnard Construction to use 3D...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/Janus-Group-Photo-sm.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-30T12:30:25+00:00",
+    "url": "https://3dprint.com/319566/ornl-mdf-3d-prints-reactor-formwork-amid-renewed-interest-in-nuclear-energy/",
+    "title_en": "ORNL MDF 3D Prints Reactor Formwork Amid Renewed Interest in Nuclear Energy",
+    "summary_bullets_en": [
+      "ORNL's Manufacturing Demonstration Facility collaborates with Kairos Power and Barnard Construction.",
+      "They are using 3D printing technology to create formwork for nuclear reactors.",
+      "This initiative comes amid a resurgence of interest in nuclear energy.",
+      "The project follows ORNL's recent success in 3D printing specimen containers."
+    ],
+    "summary_bullets_cs": [
+      "Výrobní demonstrační zařízení ORNL spolupracuje s Kairos Power a Barnard Construction.",
+      "Používají technologii 3D tisku k vytvoření bednění pro jaderné reaktory.",
+      "Tato iniciativa přichází uprostřed obnoveného zájmu o jadernou energii.",
+      "Projekt navazuje na nedávný úspěch ORNL v 3D tisku kontejnerů na vzorky."
+    ],
+    "tags": [
+      "Hardware",
+      "ORNL",
+      "Kairos Power",
+      "Barnard Construction",
+      "Nuclear Energy"
+    ]
+  },
+  {
+    "title": "Bostonská aditivní výhoda: Uvnitř revoluce RLP bez gravitace",
+    "summary": "Nestled in the historic neighborhood of Charlestown, one of Boston&#8217;s oldest waterfront enclaves, Rapid Liquid Print (RLP) is doing something extraordinary: rewriting the rules of 3D printing — without gravity....",
+    "image": "https://s.w.org/images/core/emoji/15.1.0/72x72/2122.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-30T12:00:12+00:00",
+    "url": "https://3dprint.com/319223/bostons-additive-edge-inside-rlps-gravity-free-revolution/",
+    "title_en": "Boston’s Additive Edge: Inside RLP’s Gravity Free Revolution",
+    "summary_bullets_en": [
+      "Rapid Liquid Print (RLP) is revolutionizing 3D printing by eliminating the constraints of gravity.",
+      "Located in Charlestown, Boston, RLP is pioneering a new approach to additive manufacturing.",
+      "Their innovative technique allows for the creation of complex structures without the need for support materials."
+    ],
+    "summary_bullets_cs": [
+      "Rapid Liquid Print (RLP) revolucionalizuje 3D tisk odstraněním omezení gravitace.",
+      "RLP, sídlící v Charlestownu v Bostonu, je průkopníkem nového přístupu k aditivní výrobě.",
+      "Jejich inovativní technika umožňuje vytváření složitých struktur bez potřeby podpůrných materiálů."
+    ],
+    "tags": [
+      "Hardware",
+      "Rapid Liquid Print",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Výzkumnice z University of Maine vyvíjí rychlý simulační model pro tepelné napětí v 3D tisku",
+    "summary": "Irja Hepler, a Ph.D. student in structural engineering at the University of Maine (UMaine), is developing a simulation model to predict thermal stresses that arise during 3D printing. Her research addresses a persistent problem in additive manufacturing: when printed materials cool unevenly, they can warp or lose structural integrity. By simulating this behavior in advance, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/irja-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-07-30T11:44:08+00:00",
+    "url": "https://3dprintingindustry.com/news/university-of-maine-researcher-develops-fast-simulation-model-for-thermal-stress-in-3d-printing-242619/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-maine-researcher-develops-fast-simulation-model-for-thermal-stress-in-3d-printing",
+    "title_en": "University of Maine Researcher Develops Fast Simulation Model for Thermal Stress in 3D Printing",
+    "summary_bullets_en": [
+      "Irja Hepler, a Ph.D. student at UMaine, is working on a simulation model for predicting thermal stresses in 3D printing.",
+      "The research aims to address issues of warping and structural integrity loss due to uneven cooling in additive manufacturing.",
+      "The simulation model allows for preemptive analysis of thermal behavior, potentially improving the quality of 3D printed materials."
+    ],
+    "summary_bullets_cs": [
+      "Irja Hepler, doktorandka na UMaine, pracuje na simulačním modelu pro předpověď tepelných napětí v 3D tisku.",
+      "Výzkum se zaměřuje na řešení problémů s deformacemi a ztrátou strukturální integrity způsobených nerovnoměrným ochlazováním v aditivní výrobě.",
+      "Simulační model umožňuje předběžnou analýzu tepelného chování, což může zlepšit kvalitu 3D tištěných materiálů."
+    ],
+    "tags": [
+      "Software",
+      "University of Maine",
+      "3D Printing",
+      "Thermal Stress",
+      "Simulation Model"
+    ]
+  },
+  {
+    "title": "Japonská společnost 3D tiskne dům pomocí materiálů na bázi půdy",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/japanese-company-3d-prints-house-using-soil-based-materials/\" target=\"_blank\">Japanese Company 3D Prints House Using Soil-Based Materials</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 30</span></div><div><img alt=\"Japanese Company 3D Prints House Using Soil-Based Materials\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/8640879785-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/8640879785-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2025-07-30T09:00:24+00:00",
+    "url": "https://3dprinting.com/news/japanese-company-3d-prints-house-using-soil-based-materials/",
+    "title_en": "Japanese Company 3D Prints House Using Soil-Based Materials",
+    "summary_bullets_en": [
+      "A Japanese company has successfully 3D printed a house using soil-based materials.",
+      "The project aims to promote sustainable construction practices by utilizing locally sourced materials.",
+      "The use of soil-based materials reduces the environmental impact compared to traditional construction methods.",
+      "This innovation could pave the way for more eco-friendly housing solutions in the future."
+    ],
+    "summary_bullets_cs": [
+      "Japonská společnost úspěšně vytiskla dům pomocí materiálů na bázi půdy.",
+      "Projekt si klade za cíl podporovat udržitelné stavební postupy využitím lokálně dostupných materiálů.",
+      "Použití materiálů na bázi půdy snižuje dopad na životní prostředí ve srovnání s tradičními stavebními metodami.",
+      "Tato inovace by mohla otevřít cestu k ekologičtějším řešením bydlení v budoucnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Sustainability",
+      "3D Printing",
+      "Construction"
+    ]
+  },
+  {
+    "title": "Nano Dimension potvrzuje bankrot Desktop Metal, ukončení bojujícího 3D tiskového podniku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922382909/0/fabbaloo/default~Nano-Dimension-Confirms-Desktop-Metal-Bankruptcy-Ending-Struggling-D-Printing-Venture\" rel=\"nofollow\" title=\"Nano Dimension Confirms Desktop Metal Bankruptcy, Ending Struggling 3D Printing Venture\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/desktop-metal-gray-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Nano Dimension announced its subsidiary, Desktop Metal, has filed for bankruptcy under chapter 11 of the US bankruptcy code.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922382909/0/fabbaloo/default~Nano-Dimension-Confirms-Desktop-Metal-Bankruptcy-Ending-Struggling-D-Printing-Venture\" rel=\"nofollow\">Nano Dimension Confirms Desktop Metal Bankruptcy, Ending Struggling 3D Printing Venture</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/desktop-metal-gray-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-29T16:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922382909/0/fabbaloo/default~Nano-Dimension-Confirms-Desktop-Metal-Bankruptcy-Ending-Struggling-D-Printing-Venture",
+    "title_en": "Nano Dimension Confirms Desktop Metal Bankruptcy, Ending Struggling 3D Printing Venture",
+    "summary_bullets_en": [
+      "Nano Dimension announced that its subsidiary, Desktop Metal, has filed for bankruptcy.",
+      "The bankruptcy filing is under chapter 11 of the US bankruptcy code.",
+      "This marks the end of Desktop Metal's struggling 3D printing venture."
+    ],
+    "summary_bullets_cs": [
+      "Nano Dimension oznámila, že její dceřiná společnost Desktop Metal podala návrh na bankrot.",
+      "Podání bankrotu je podle kapitoly 11 amerického zákoníku o bankrotu.",
+      "Toto znamená konec bojujícího 3D tiskového podniku Desktop Metal."
+    ],
+    "tags": [
+      "Hardware",
+      "Nano Dimension",
+      "Desktop Metal"
+    ]
+  },
+  {
+    "title": "Výzkumníci identifikovali optimální design 3D tištěné kopule pro lunární kráterové habitaty",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922379678/0/fabbaloo/default~Researchers-Identify-Optimal-DPrinted-Dome-Design-for-Lunar-Crater-Habitats\" rel=\"nofollow\" title=\"Researchers Identify Optimal 3D-Printed Dome Design for Lunar Crater Habitats\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/regolith-dome-cover-300x176.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have figured out the correct way to 3D print domes over lunar craters.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922379678/0/fabbaloo/default~Researchers-Identify-Optimal-DPrinted-Dome-Design-for-Lunar-Crater-Habitats\" rel=\"nofollow\">Researchers Identify Optimal 3D-Printed Dome Design for Lunar Crater Habitats</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/regolith-dome-cover-300x176.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-29T15:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922379678/0/fabbaloo/default~Researchers-Identify-Optimal-DPrinted-Dome-Design-for-Lunar-Crater-Habitats",
+    "title_en": "Researchers Identify Optimal 3D-Printed Dome Design for Lunar Crater Habitats",
+    "summary_bullets_en": [
+      "Researchers have developed a method to 3D print domes over lunar craters.",
+      "The design aims to create sustainable habitats on the Moon.",
+      "The domes are constructed using lunar regolith as the primary material.",
+      "This innovation could support future lunar missions and colonization efforts."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli metodu pro 3D tisk kopulí nad lunárními krátery.",
+      "Design má za cíl vytvořit udržitelné habitaty na Měsíci.",
+      "Kopule jsou konstruovány s použitím lunárního regolitu jako hlavního materiálu.",
+      "Tato inovace by mohla podpořit budoucí lunární mise a kolonizační úsilí."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Lunar Habitat",
+      "Space Exploration"
+    ]
+  },
+  {
+    "title": "Anker ukončuje prodej FDM 3D tiskáren, zaměřuje se na UV model po rekordní kampani na Kickstarteru",
+    "summary": "Anker, the popular electronics company behind brands like AnkerMake and EufyMake, has stopped selling its traditional 3D printers. The company confirmed to The Verge that it is no longer offering...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/80b09e074e19407425b8aab2090b6dd6.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-07-29T13:00:30+00:00",
+    "url": "https://3dprint.com/319651/anker-discontinues-fdm-3d-printers-focuses-on-uv-model-after-record-kickstarter/",
+    "title_en": "Anker Discontinues FDM 3D Printers, Focuses on UV Model After Record Kickstarter",
+    "summary_bullets_en": [
+      "Anker has stopped selling its traditional FDM 3D printers.",
+      "The company is shifting its focus to UV 3D printing technology.",
+      "This decision follows a successful Kickstarter campaign for their UV model."
+    ],
+    "summary_bullets_cs": [
+      "Anker přestal prodávat své tradiční FDM 3D tiskárny.",
+      "Společnost se zaměřuje na technologii UV 3D tisku.",
+      "Toto rozhodnutí následuje po úspěšné kampani na Kickstarteru pro jejich UV model."
+    ],
+    "tags": [
+      "Hardware",
+      "Anker",
+      "3D Printing",
+      "Kickstarter"
+    ]
+  },
+  {
+    "title": "Obnova jaderného průmyslu Westinghouse a 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922367462/0/fabbaloo/default~The-Westinghouse-Nuclear-Resurgence-and-D-Printing\" rel=\"nofollow\" title=\"The Westinghouse Nuclear Resurgence and 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/Westinghouse1-300x183.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>In this article, Charles R. Goulding and Anthony Palumbo underscore Westinghouse Electric Company's nuclear industry resurgence, highlighting their strategic global reactor projects and pioneering use of additive manufacturing technologies.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922367462/0/fabbaloo/default~The-Westinghouse-Nuclear-Resurgence-and-D-Printing\" rel=\"nofollow\">The Westinghouse Nuclear Resurgence and 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/Westinghouse1-300x183.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-29T11:44:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922367462/0/fabbaloo/default~The-Westinghouse-Nuclear-Resurgence-and-D-Printing",
+    "title_en": "The Westinghouse Nuclear Resurgence and 3D Printing",
+    "summary_bullets_en": [
+      "Westinghouse Electric Company is experiencing a resurgence in the nuclear industry.",
+      "The company is focusing on strategic global reactor projects.",
+      "They are pioneering the use of additive manufacturing technologies in their operations."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Westinghouse Electric Company zažívá obnovu v jaderném průmyslu.",
+      "Firma se zaměřuje na strategické globální projekty reaktorů.",
+      "Pionýrem využívání aditivních výrobních technologií ve svých operacích."
+    ],
+    "tags": [
+      "Hardware",
+      "Westinghouse",
+      "Additive Manufacturing",
+      "Nuclear Industry"
+    ]
+  },
+  {
+    "title": "Binghamtonská univerzita získala grant NSF ve výši 550 000 USD na integraci biobaterií s 3D tiskem",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/binghamton-university-receives-550000-nsf-grant-to-integrate-biobatteries-with-3d-printing/\" target=\"_blank\">Binghamton University Receives $550,000 NSF Grant to Integrate Biobatteries with 3D Printing</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 29</span></div><div><img alt=\"Binghamton University Receives $550,000 NSF Grant to Integrate Biobatteries with 3D Printing\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/863878749-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/863878749-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-29T08:00:03+00:00",
+    "url": "https://3dprinting.com/news/binghamton-university-receives-550000-nsf-grant-to-integrate-biobatteries-with-3d-printing/",
+    "title_en": "Binghamton University Receives $550,000 NSF Grant to Integrate Biobatteries with 3D Printing",
+    "summary_bullets_en": [
+      "Binghamton University has been awarded a $550,000 grant from the National Science Foundation (NSF).",
+      "The grant aims to support the integration of biobatteries with 3D printing technology.",
+      "This project could lead to advancements in sustainable energy solutions and innovative manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "Binghamtonská univerzita obdržela grant ve výši 550 000 USD od Národní vědecké nadace (NSF).",
+      "Cílem grantu je podpořit integraci biobaterií s technologií 3D tisku.",
+      "Tento projekt by mohl vést k pokrokům v oblasti udržitelných energetických řešení a inovativních výrobních procesů."
+    ],
+    "tags": [
+      "Hardware",
+      "Binghamton University",
+      "NSF",
+      "Biobatteries",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Ankermake M5C zmizel z webu, což signalizuje konec Ankerova 3D tiskového podniku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922327445/0/fabbaloo/default~Ankermake-MC-Disappears-from-Website-Signaling-End-of-Anker%e2%80%99s-D-Printing-Venture\" rel=\"nofollow\" title=\"Ankermake M5C Disappears from Website, Signaling End of Anker’s 3D Printing Venture\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/ankermake-gone-cover-300x187.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Another 3D printer manufacturer seems to have exited the business.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922327445/0/fabbaloo/default~Ankermake-MC-Disappears-from-Website-Signaling-End-of-Anker%e2%80%99s-D-Printing-Venture\" rel=\"nofollow\">Ankermake M5C Disappears from Website, Signaling End of Anker’s 3D Printing Venture</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/ankermake-gone-cover-300x187.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-28T16:33:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922327445/0/fabbaloo/default~Ankermake-MC-Disappears-from-Website-Signaling-End-of-Anker%e2%80%99s-D-Printing-Venture",
+    "title_en": "Ankermake M5C Disappears from Website, Signaling End of Anker’s 3D Printing Venture",
+    "summary_bullets_en": [
+      "Anker's 3D printer model, Ankermake M5C, has been removed from their website.",
+      "This removal suggests that Anker may be exiting the 3D printing market.",
+      "The disappearance of the Ankermake M5C indicates a potential end to Anker's involvement in 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "3D tiskárna Ankermake M5C od společnosti Anker byla odstraněna z jejich webových stránek.",
+      "Toto odstranění naznačuje, že Anker možná opouští trh s 3D tiskem.",
+      "Zmizení Ankermake M5C naznačuje možný konec Ankerova zapojení do 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Anker",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Fusion 360 přidává funkci Mesh Texture Extrude pro pokročilé detailování povrchů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922323506/0/fabbaloo/default~Fusion-Adds-Mesh-Texture-Extrude-Feature-for-Advanced-Surface-Detailing\" rel=\"nofollow\" title=\"Fusion 360 Adds Mesh Texture Extrude Feature for Advanced Surface Detailing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/fusion-jul25-cover-300x138.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Autodesk provided their usual monthly update to Fusion 360, and there were a couple of new features of interest.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922323506/0/fabbaloo/default~Fusion-Adds-Mesh-Texture-Extrude-Feature-for-Advanced-Surface-Detailing\" rel=\"nofollow\">Fusion 360 Adds Mesh Texture Extrude Feature for Advanced Surface Detailing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/fusion-jul25-cover-300x138.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-28T15:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922323506/0/fabbaloo/default~Fusion-Adds-Mesh-Texture-Extrude-Feature-for-Advanced-Surface-Detailing",
+    "title_en": "Fusion 360 Adds Mesh Texture Extrude Feature for Advanced Surface Detailing",
+    "summary_bullets_en": [
+      "Autodesk released their monthly update for Fusion 360.",
+      "The update includes a new Mesh Texture Extrude feature.",
+      "This feature allows for advanced surface detailing in 3D models."
+    ],
+    "summary_bullets_cs": [
+      "Autodesk vydal měsíční aktualizaci pro Fusion 360.",
+      "Aktualizace zahrnuje novou funkci Mesh Texture Extrude.",
+      "Tato funkce umožňuje pokročilé detailování povrchů ve 3D modelech."
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Fusion 360"
+    ]
+  },
+  {
+    "title": "I ty, Brute? Anker „pozastavuje“ výrobu a prodej 3D tiskáren",
+    "summary": "3DP War Journal #56",
+    "image": "https://substackcdn.com/image/fetch/$s_!mkjS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F035e172c-94eb-4868-b033-856d9ca11878_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-07-28T14:02:48+00:00",
+    "url": "https://www.3dprintingjournal.com/p/et-tu-brute-anker-is-pausing-the",
+    "title_en": "Et tu, Brute? Anker is 'pausing' the production and sale of 3D printers",
+    "summary_bullets_en": [
+      "Anker has announced a temporary halt in the production and sale of its 3D printers.",
+      "The decision comes amid challenges in the competitive 3D printing market.",
+      "Anker aims to reassess its strategy and product offerings in the 3D printing sector."
+    ],
+    "summary_bullets_cs": [
+      "Anker oznámil dočasné zastavení výroby a prodeje svých 3D tiskáren.",
+      "Rozhodnutí přichází uprostřed výzev na konkurenčním trhu 3D tisku.",
+      "Anker si klade za cíl přehodnotit svou strategii a nabídku produktů v sektoru 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Anker",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Nový enzym cílí na PET plasty, otevírá cestu k udržitelným materiálům pro 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922316381/0/fabbaloo/default~New-Enzyme-Targets-PET-Plastics-Opening-Path-to-Sustainable-D-Printing-Materials\" rel=\"nofollow\" title=\"New Enzyme Targets PET Plastics, Opening Path to Sustainable 3D Printing Materials\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/pet-enzyme-cover-300x174.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have developed a unique enzyme that can decompose PET material.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922316381/0/fabbaloo/default~New-Enzyme-Targets-PET-Plastics-Opening-Path-to-Sustainable-D-Printing-Materials\" rel=\"nofollow\">New Enzyme Targets PET Plastics, Opening Path to Sustainable 3D Printing Materials</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/pet-enzyme-cover-300x174.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-28T13:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922316381/0/fabbaloo/default~New-Enzyme-Targets-PET-Plastics-Opening-Path-to-Sustainable-D-Printing-Materials",
+    "title_en": "New Enzyme Targets PET Plastics, Opening Path to Sustainable 3D Printing Materials",
+    "summary_bullets_en": [
+      "Researchers have developed a unique enzyme capable of decomposing PET plastics.",
+      "This breakthrough could lead to more sustainable materials for 3D printing.",
+      "The enzyme offers a potential solution to the environmental issues posed by PET waste."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli unikátní enzym schopný rozkládat PET plasty.",
+      "Tento průlom by mohl vést k udržitelnějším materiálům pro 3D tisk.",
+      "Enzym nabízí potenciální řešení environmentálních problémů způsobených odpadem z PET."
+    ],
+    "tags": [
+      "Material",
+      "Sustainability",
+      "3D Printing",
+      "PET Plastics"
+    ]
+  },
+  {
+    "title": "Design týdne: Sada podtácků ve tvaru gramofonu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922312091/0/fabbaloo/default~Design-of-the-Week-Record-Player-Coaster-Set\" rel=\"nofollow\" title=\"Design of the Week: Record Player Coaster Set\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/3dp-coaster-cover-300x237.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>This week’s selection is the Record Player Coaster Set by Cults contributor flapjack3dcreations.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922312091/0/fabbaloo/default~Design-of-the-Week-Record-Player-Coaster-Set\" rel=\"nofollow\">Design of the Week: Record Player Coaster Set</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/3dp-coaster-cover-300x237.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-28T11:09:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922312091/0/fabbaloo/default~Design-of-the-Week-Record-Player-Coaster-Set",
+    "title_en": "Design of the Week: Record Player Coaster Set",
+    "summary_bullets_en": [
+      "This week's featured design is the Record Player Coaster Set.",
+      "The design is created by Cults contributor flapjack3dcreations.",
+      "The set is highlighted on the Fabbaloo platform."
+    ],
+    "summary_bullets_cs": [
+      "Tento týden je vyzdvižen design sady podtácků ve tvaru gramofonu.",
+      "Design vytvořil přispěvatel Cults, flapjack3dcreations.",
+      "Sada je prezentována na platformě Fabbaloo."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Cults",
+      "Fabbaloo"
+    ]
+  },
+  {
+    "title": "Projekt EU kombinuje AI a bio-založené materiály pro 3D tisk komponent větrných turbín",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/eu-project-combines-ai-and-bio-based-materials-for-3d-printing-wind-turbine-components/\" target=\"_blank\">EU Project Combines AI and Bio-Based Materials for 3D Printing Wind Turbine Components</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 28</span></div><div><img alt=\"EU Project Combines AI and Bio-Based Materials for 3D Printing Wind Turbine Components\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"480\" src=\"https://3dprinting.com/wp-content/uploads/0725-cw-news-organic-project-kickoff-min-500x480.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/0725-cw-news-organic-project-kickoff-min-500x480.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-28T08:35:52+00:00",
+    "url": "https://3dprinting.com/news/eu-project-combines-ai-and-bio-based-materials-for-3d-printing-wind-turbine-components/",
+    "title_en": "EU Project Combines AI and Bio-Based Materials for 3D Printing Wind Turbine Components",
+    "summary_bullets_en": [
+      "An EU project is integrating AI with bio-based materials to 3D print components for wind turbines.",
+      "The initiative aims to enhance the sustainability and efficiency of wind turbine production.",
+      "The project focuses on reducing the carbon footprint and improving the recyclability of turbine components."
+    ],
+    "summary_bullets_cs": [
+      "Projekt EU integruje AI s bio-založenými materiály pro 3D tisk komponent větrných turbín.",
+      "Iniciativa si klade za cíl zvýšit udržitelnost a efektivitu výroby větrných turbín.",
+      "Projekt se zaměřuje na snížení uhlíkové stopy a zlepšení recyklovatelnosti komponent turbín."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "AI",
+      "Sustainability",
+      "Wind Turbines"
+    ]
+  },
+  {
+    "title": "Nové materiály pro 3D tisk jsou levné a zatraceně zábavné!",
+    "summary": "Na český trh vstoupila značka Kexcelled, která přináší kvalitní struny za ceny, které vás příjemně překvapí. Od PLA a PETG přes ABS, ASA a TPU až po PC a PAHT.",
+    "image": "https://admasys.cz/wp-content/uploads/2025/07/kexcelled-pla-k5m-768x499.jpg",
+    "source": "ADMASYS CZ",
+    "published": "2025-07-28T06:00:28+00:00",
+    "url": "https://admasys.cz/material-3d-tisk-kexcelled-filamenty-pla/",
+    "title_en": "New 3D Printing Materials are Cheap and Incredibly Fun!",
+    "summary_bullets_en": [
+      "The brand Kexcelled has entered the Czech market, offering high-quality filaments at pleasantly surprising prices.",
+      "Their range includes materials such as PLA, PETG, ABS, ASA, TPU, PC, and PAHT."
+    ],
+    "summary_bullets_cs": [
+      "Na český trh vstoupila značka Kexcelled, která přináší kvalitní struny za ceny, které vás příjemně překvapí.",
+      "Nabídka zahrnuje materiály jako PLA, PETG, ABS, ASA, TPU, PC a PAHT."
+    ],
+    "tags": [
+      "Material",
+      "Kexcelled"
+    ]
+  },
+  {
+    "title": "Kdo je největší v 3D tisku, 27. července 2025",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922270199/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-July\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, July 27, 2025\"><img alt=\"Who&#039;s The Biggest In 3D Printing\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg\" style=\"height: auto !important; float: left; margin-right: 5px;\" width=\"1\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922270199/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-July\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, July 27, 2025</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-27T12:24:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922270199/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-July",
+    "title_en": "Who's The Biggest In 3D Printing, July 27, 2025",
+    "summary_bullets_en": [
+      "The article reviews the valuations of major 3D printing companies over the past week.",
+      "It provides insights into the current market leaders in the 3D printing industry.",
+      "The analysis highlights trends and shifts in company rankings."
+    ],
+    "summary_bullets_cs": [
+      "Článek přezkoumává ocenění hlavních společností v oblasti 3D tisku za uplynulý týden.",
+      "Poskytuje přehled o současných lídrech na trhu v odvětví 3D tisku.",
+      "Analýza zdůrazňuje trendy a změny v pořadí společností."
+    ],
+    "tags": [
+      "Hardware",
+      "Market Analysis",
+      "3D Printing Industry",
+      "Company Valuation"
+    ]
+  },
+  {
+    "title": "Ochranné přilby a humanoidi: Nečekané spojení mezi Nasdaq a Plainview, NY",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922225886/0/fabbaloo/default~Hard-Hats-Humanoids-The-Unexpected-Link-Between-Nasdaq-and-Plainview-NY\" rel=\"nofollow\" title=\"Hard Hats &amp; Humanoids: The Unexpected Link Between Nasdaq and Plainview, NY\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/RoboDefender1-300x173.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi spotlight how a humanoid robot’s Nasdaq debut connects to a Long Island innovator blending robotics, 3D printing, and safety gear.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922225886/0/fabbaloo/default~Hard-Hats-Humanoids-The-Unexpected-Link-Between-Nasdaq-and-Plainview-NY\" rel=\"nofollow\">Hard Hats &amp; Humanoids: The Unexpected Link Between Nasdaq and Plainview, NY</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/RoboDefender1-300x173.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-26T12:26:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922225886/0/fabbaloo/default~Hard-Hats-Humanoids-The-Unexpected-Link-Between-Nasdaq-and-Plainview-NY",
+    "title_en": "Hard Hats & Humanoids: The Unexpected Link Between Nasdaq and Plainview, NY",
+    "summary_bullets_en": [
+      "A humanoid robot made its debut on Nasdaq, highlighting the intersection of technology and finance.",
+      "The robot's development involves a Long Island innovator who integrates robotics, 3D printing, and safety gear.",
+      "This collaboration showcases the potential of combining advanced manufacturing techniques with traditional industries."
+    ],
+    "summary_bullets_cs": [
+      "Humanoidní robot debutoval na Nasdaq, což zdůrazňuje propojení technologie a financí.",
+      "Vývoj robota zahrnuje inovátora z Long Islandu, který integruje robotiku, 3D tisk a ochranné pomůcky.",
+      "Tato spolupráce ukazuje potenciál kombinace pokročilých výrobních technik s tradičními průmysly."
+    ],
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "3D Printing",
+      "Nasdaq",
+      "Safety Gear"
+    ]
+  },
+  {
+    "title": "Polymaker představuje filament PPS-GF20, cenově výhodnou alternativu k PEEK a PEI",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922187882/0/fabbaloo/default~Polymaker-Introduces-PPSGF-Filament-a-CostEffective-Alternative-to-PEEK-and-PEI\" rel=\"nofollow\" title=\"Polymaker Introduces PPS-GF20 Filament, a Cost-Effective Alternative to PEEK and PEI\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/polymaker-ppsgf20-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Polymaker has released a new material that could shake up manufacturing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922187882/0/fabbaloo/default~Polymaker-Introduces-PPSGF-Filament-a-CostEffective-Alternative-to-PEEK-and-PEI\" rel=\"nofollow\">Polymaker Introduces PPS-GF20 Filament, a Cost-Effective Alternative to PEEK and PEI</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/polymaker-ppsgf20-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-07-25T16:33:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922187882/0/fabbaloo/default~Polymaker-Introduces-PPSGF-Filament-a-CostEffective-Alternative-to-PEEK-and-PEI",
+    "title_en": "Polymaker Introduces PPS-GF20 Filament, a Cost-Effective Alternative to PEEK and PEI",
+    "summary_bullets_en": [
+      "Polymaker has launched a new filament called PPS-GF20.",
+      "The material is positioned as a cost-effective alternative to high-performance polymers like PEEK and PEI.",
+      "PPS-GF20 is expected to impact manufacturing processes due to its affordability and performance."
+    ],
+    "summary_bullets_cs": [
+      "Polymaker uvedl na trh nový filament s názvem PPS-GF20.",
+      "Materiál je prezentován jako cenově výhodná alternativa k vysoce výkonným polymerům jako PEEK a PEI.",
+      "PPS-GF20 by mohl ovlivnit výrobní procesy díky své dostupnosti a výkonu."
+    ],
+    "tags": [
+      "Material",
+      "Polymaker",
+      "PPS-GF20",
+      "PEEK",
+      "PEI"
+    ]
+  },
+  {
+    "title": "Scrona se spojuje s K1 Solution pro distribuci EHD tiskové technologie v Jižní Koreji",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/scrona-partners-with-k1-solution-to-distribute-ehd-printing-technology-in-south-korea/\" target=\"_blank\">Scrona Partners with K1 Solution to Distribute EHD Printing Technology in South Korea</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 25</span></div><div><img alt=\"\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"73\" src=\"https://3dprinting.com/wp-content/uploads/Scrona_AG.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"400\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/Scrona_AG.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-25T10:16:12+00:00",
+    "url": "https://3dprinting.com/news/scrona-partners-with-k1-solution-to-distribute-ehd-printing-technology-in-south-korea/",
+    "title_en": "Scrona Partners with K1 Solution to Distribute EHD Printing Technology in South Korea",
+    "summary_bullets_en": [
+      "Scrona has partnered with K1 Solution to distribute its Electrohydrodynamic (EHD) printing technology in South Korea.",
+      "The partnership aims to expand the reach of Scrona's advanced printing solutions in the Asian market.",
+      "EHD printing technology is known for its precision and ability to print at a nanoscale level."
+    ],
+    "summary_bullets_cs": [
+      "Scrona se spojila s K1 Solution pro distribuci své elektrohydrodynamické (EHD) tiskové technologie v Jižní Koreji.",
+      "Partnerství má za cíl rozšířit dosah pokročilých tiskových řešení společnosti Scrona na asijském trhu.",
+      "EHD tisková technologie je známá svou přesností a schopností tisknout na nanoskopické úrovni."
+    ],
+    "tags": [
+      "Hardware",
+      "Scrona",
+      "K1 Solution",
+      "EHD Printing"
+    ]
+  },
+  {
+    "title": "Kariéra: Specialista či specialistka na obsah a správu webu",
+    "summary": "Hledáme nadšence, který/á se nebojí vzít zodpovědnost za náš web a e-shop, miluje tvorbu obsahu a má cit pro detail. Máš praxi a dobré nápady? Čti dál a ozvi se.",
+    "image": "https://admasys.cz/wp-content/uploads/2022/10/asistentka-tabule-4x3-1-768x576.jpg",
+    "source": "ADMASYS CZ",
+    "published": "2025-07-23T13:20:06+00:00",
+    "url": "https://admasys.cz/specialista-obsah-sprava-web-eshop/",
+    "title_en": "Career: Web Content and Management Specialist",
+    "summary_bullets_en": [
+      "We are looking for an enthusiast to take responsibility for our website and e-shop.",
+      "The ideal candidate loves content creation and has an eye for detail.",
+      "Experience and good ideas are a must."
+    ],
+    "summary_bullets_cs": [
+      "Hledáme nadšence, který/á se nebojí vzít zodpovědnost za náš web a e-shop.",
+      "Ideální kandidát/ka miluje tvorbu obsahu a má cit pro detail.",
+      "Praxe a dobré nápady jsou nutností."
+    ],
+    "tags": [
+      "Services",
+      "Web Management",
+      "Content Creation"
+    ]
+  },
+  {
+    "title": "Výzkumníci z EPFL vyvinuli programovatelnou mřížkovou strukturu pro robotiku pomocí jednoho pěnového materiálu",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/epfl-researchers-develop-programmable-lattice-structure-for-robotics-using-single-foam-material/\" target=\"_blank\">EPFL Researchers Develop Programmable Lattice Structure for Robotics Using Single Foam Material</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 23</span></div><div><img alt=\"EPFL Researchers Develop Programmable Lattice Structure for Robotics Using Single Foam Material\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/1108x622-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/1108x622-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-23T10:11:04+00:00",
+    "url": "https://3dprinting.com/news/epfl-researchers-develop-programmable-lattice-structure-for-robotics-using-single-foam-material/",
+    "title_en": "EPFL Researchers Develop Programmable Lattice Structure for Robotics Using Single Foam Material",
+    "summary_bullets_en": [
+      "Researchers at EPFL have created a programmable lattice structure using a single type of foam material.",
+      "This innovation is aimed at enhancing the capabilities of robotics by providing adaptable and lightweight structures.",
+      "The foam material allows for the creation of complex shapes that can be programmed for specific tasks.",
+      "The development could lead to more efficient and versatile robotic systems."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z EPFL vytvořili programovatelnou mřížkovou strukturu pomocí jednoho typu pěnového materiálu.",
+      "Tato inovace je zaměřena na zlepšení schopností robotiky poskytováním přizpůsobitelných a lehkých struktur.",
+      "Pěnový materiál umožňuje vytváření složitých tvarů, které lze naprogramovat pro specifické úkoly.",
+      "Vývoj by mohl vést k efektivnějším a všestrannějším robotickým systémům."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "EPFL",
+      "Robotics",
+      "Foam"
+    ]
+  },
+  {
+    "title": "Signify uvádí na trh kancelářské osvětlení vytištěné 3D tiskem z 75% recyklovaných materiálů",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/signify-launches-3d-printed-office-lighting-made-from-75-recycled-materials/\" target=\"_blank\">Signify Launches 3D-Printed Office Lighting Made from 75% Recycled Materials</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 23</span></div><div><img alt=\"Signify Launches 3D-Printed Office Lighting Made from 75% Recycled Materials\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"452\" src=\"https://3dprinting.com/wp-content/uploads/puzzle-image-500x452.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/puzzle-image-500x452.webp",
+    "source": "3DPrinting.com",
+    "published": "2025-07-23T10:04:47+00:00",
+    "url": "https://3dprinting.com/news/signify-launches-3d-printed-office-lighting-made-from-75-recycled-materials/",
+    "title_en": "Signify Launches 3D-Printed Office Lighting Made from 75% Recycled Materials",
+    "summary_bullets_en": [
+      "Signify has introduced a new line of 3D-printed office lighting.",
+      "The lighting is made from 75% recycled materials.",
+      "This initiative is part of Signify's commitment to sustainability and innovation in lighting solutions."
+    ],
+    "summary_bullets_cs": [
+      "Signify představila novou řadu kancelářského osvětlení vytištěného 3D tiskem.",
+      "Osvětlení je vyrobeno ze 75% recyklovaných materiálů.",
+      "Tato iniciativa je součástí závazku Signify k udržitelnosti a inovacím v oblasti osvětlovacích řešení."
+    ],
+    "tags": [
+      "Hardware",
+      "Signify",
+      "Sustainability",
+      "3D Printing",
+      "Recycled Materials"
+    ]
+  },
+  {
+    "title": "Decibel představuje velkoformátový 3D tisk na Milan Design Week s výstavou PORTAL",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/decibel-showcases-large-scale-3d-printing-at-milan-design-week-with-portal-exhibition/\" target=\"_blank\">Decibel Showcases Large-Scale 3D Printing at Milan Design Week with PORTAL Exhibition</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 22</span></div><div><img alt=\"Decibel Showcases Large-Scale 3D Printing at Milan Design Week with PORTAL Exhibition\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/Portal-Decibel-Vizcom-Caracol-14-810x540-1-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/Portal-Decibel-Vizcom-Caracol-14-810x540-1-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-22T09:00:06+00:00",
+    "url": "https://3dprinting.com/news/decibel-showcases-large-scale-3d-printing-at-milan-design-week-with-portal-exhibition/",
+    "title_en": "Decibel Showcases Large-Scale 3D Printing at Milan Design Week with PORTAL Exhibition",
+    "summary_bullets_en": [
+      "Decibel presented its large-scale 3D printing capabilities at the Milan Design Week.",
+      "The exhibition, named PORTAL, highlighted innovative design and technology.",
+      "The event showcased collaborations with companies like Vizcom and Caracol."
+    ],
+    "summary_bullets_cs": [
+      "Decibel představil své schopnosti velkoformátového 3D tisku na Milan Design Week.",
+      "Výstava s názvem PORTAL zdůraznila inovativní design a technologie.",
+      "Akce představila spolupráce s firmami jako Vizcom a Caracol."
+    ],
+    "tags": [
+      "Hardware",
+      "Decibel",
+      "Vizcom",
+      "Caracol",
+      "3D Printing",
+      "Design"
+    ]
+  },
+  {
+    "title": "Kariéra: Obchodně-technický zástupce",
+    "summary": "Nacházejte se zákazníky optimální uplatnění moderních 3D tiskáren a 3D skenerů v pozici obchodně-technického zástupce či zástupkyně.",
+    "image": "https://admasys.cz/wp-content/uploads/2025/07/sales-guys-768x576.jpg",
+    "source": "ADMASYS CZ",
+    "published": "2025-07-22T06:01:58+00:00",
+    "url": "https://admasys.cz/kariera-obchodne-technicky-zastupce-3d-tisk/",
+    "title_en": "Career: Sales-Technical Representative",
+    "summary_bullets_en": [
+      "Identify optimal applications of modern 3D printers and 3D scanners for customers.",
+      "Work as a sales-technical representative to bridge technology and client needs.",
+      "Promote the benefits of 3D printing technology in various industries."
+    ],
+    "summary_bullets_cs": [
+      "Nacházejte se zákazníky optimální uplatnění moderních 3D tiskáren a 3D skenerů.",
+      "Pracujte jako obchodně-technický zástupce a propojujte technologie s potřebami klientů.",
+      "Propagujte výhody technologie 3D tisku v různých odvětvích."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "3D Scanners",
+      "Sales",
+      "Technology"
+    ]
+  },
+  {
+    "title": "Co jsem si uvědomil po dvou týdnech v Šen-čenu",
+    "summary": "3DP War Journal #55",
+    "image": "https://substackcdn.com/image/fetch/$s_!jTj7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44978c6e-1e5a-49ca-88db-f77735712dae_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-07-21T14:02:54+00:00",
+    "url": "https://www.3dprintingjournal.com/p/what-i-realised-after-spending-two",
+    "title_en": "What I realised after spending two weeks in Shenzhen",
+    "summary_bullets_en": [
+      "The author shares insights gained from a two-week stay in Shenzhen, a major hub for 3D printing technology.",
+      "Observations include the rapid pace of innovation and the competitive nature of the 3D printing industry in the region.",
+      "The article highlights the importance of Shenzhen as a global center for hardware development and manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Autor sdílí poznatky získané během dvoutýdenního pobytu v Šen-čenu, významném centru technologie 3D tisku.",
+      "Pozorování zahrnují rychlé tempo inovací a konkurenční povahu průmyslu 3D tisku v regionu.",
+      "Článek zdůrazňuje důležitost Šen-čenu jako globálního centra pro vývoj a výrobu hardwaru."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Shenzhen",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "BMW Group přeměňuje odpad na nové výrobní komponenty",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/bmw-group-converts-waste-into-new-manufacturing-components/\" target=\"_blank\">BMW Group Converts Waste Into New Manufacturing Components</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 21</span></div><div><img alt=\"BMW Group Converts Waste Into New Manufacturing Components\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/P90610930-3d-print-bmw-group-amc-2250px-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/P90610930-3d-print-bmw-group-amc-2250px-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-21T07:00:46+00:00",
+    "url": "https://3dprinting.com/news/bmw-group-converts-waste-into-new-manufacturing-components/",
+    "title_en": "BMW Group Converts Waste Into New Manufacturing Components",
+    "summary_bullets_en": [
+      "BMW Group is using 3D printing technology to transform waste materials into new manufacturing components.",
+      "The initiative aims to enhance sustainability and reduce waste in the automotive production process.",
+      "This approach not only minimizes environmental impact but also optimizes resource efficiency."
+    ],
+    "summary_bullets_cs": [
+      "BMW Group využívá technologii 3D tisku k přeměně odpadních materiálů na nové výrobní komponenty.",
+      "Iniciativa má za cíl zvýšit udržitelnost a snížit odpad v procesu výroby automobilů.",
+      "Tento přístup nejen minimalizuje dopad na životní prostředí, ale také optimalizuje efektivitu využívání zdrojů."
+    ],
+    "tags": [
+      "Hardware",
+      "BMW",
+      "Sustainability",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "HeyGears představuje více materiálové 3D tištěné zubní protézy",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/heygears-introduces-multi-material-3d-printed-dentures/\" target=\"_blank\">HeyGears Introduces Multi-Material 3D Printed Dentures</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 18</span></div><div><img alt=\"HeyGears Introduces Multi-Material 3D Printed Dentures at Chicago Lab Event\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/86487474-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/86487474-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-07-18T09:00:38+00:00",
+    "url": "https://3dprinting.com/news/heygears-introduces-multi-material-3d-printed-dentures/",
+    "title_en": "HeyGears Introduces Multi-Material 3D Printed Dentures",
+    "summary_bullets_en": [
+      "HeyGears has launched a new line of multi-material 3D printed dentures.",
+      "The dentures were introduced at a special event in a Chicago lab.",
+      "This innovation allows for more realistic and functional dental prosthetics."
+    ],
+    "summary_bullets_cs": [
+      "HeyGears uvedl na trh novou řadu více materiálových 3D tištěných zubních protéz.",
+      "Protézy byly představeny na speciální akci v laboratoři v Chicagu.",
+      "Tato inovace umožňuje realističtější a funkčnější zubní protézy."
+    ],
+    "tags": [
+      "Hardware",
+      "HeyGears",
+      "Dental",
+      "3D Printing"
+    ]
+  }
+]
