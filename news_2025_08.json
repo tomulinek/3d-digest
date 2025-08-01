@@ -1,5 +1,62 @@
 [
   {
+    "title": "Optimalizační rámec propojuje udržitelnost a design ve velkoplošném 3D tisku",
+    "summary": "A recent study published on Springer Nature introduces a computational framework that links structural optimization and environmental sustainability in large-area additive manufacturing (LAAM). Researchers from Tampere University, Cranfield University, the University of Jaffna, and the Technical University of Denmark applied this methodology to wind turbine rotor blade mold fabrication, using fiber-reinforced thermoplastics. The system evaluates [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/CAD-CAE-and-CAM-for-the-mold-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-08-01T06:01:31+00:00",
+    "url": "https://3dprintingindustry.com/news/optimization-framework-connects-sustainability-and-design-in-large-area-3d-printing-242667/?utm_source=rss&utm_medium=rss&utm_campaign=optimization-framework-connects-sustainability-and-design-in-large-area-3d-printing",
+    "title_en": "Optimization Framework Connects Sustainability and Design in Large-Area 3D Printing",
+    "summary_bullets_en": [
+      "A new computational framework links structural optimization with environmental sustainability in large-area additive manufacturing.",
+      "The study was conducted by researchers from Tampere University, Cranfield University, the University of Jaffna, and the Technical University of Denmark.",
+      "The framework was applied to the fabrication of wind turbine rotor blade molds using fiber-reinforced thermoplastics."
+    ],
+    "summary_bullets_cs": [
+      "Nový výpočetní rámec propojuje strukturální optimalizaci s environmentální udržitelností ve velkoplošné aditivní výrobě.",
+      "Studii provedli výzkumníci z Tampere University, Cranfield University, University of Jaffna a Technické univerzity Dánska.",
+      "Rámec byl aplikován na výrobu forem pro rotorové listy větrných turbín s použitím vláknem vyztužených termoplastů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Sustainability",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Tampere University",
+      "Cranfield University",
+      "University of Jaffna",
+      "Technical University of Denmark"
+    ]
+  },
+  {
+    "title": "INNOSPACE používá kovové tiskárny Eplus3D k urychlení vesmírných startů",
+    "summary": "INNOSPACE, a space company from South Korea, is now using metal 3D printing to make rocket parts faster, cheaper, and more efficiently, entirely in-house for the first time. After purchasing...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/1738802215662.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-01T04:05:13+00:00",
+    "url": "https://3dprint.com/319712/innospace-using-eplus3d-metal-printers-to-speed-up-space-launches/",
+    "title_en": "INNOSPACE Is Using Eplus3D Metal Printers to Speed Up Space Launches",
+    "summary_bullets_en": [
+      "INNOSPACE, a South Korean space company, is leveraging metal 3D printing technology to enhance the production of rocket parts.",
+      "The company aims to produce these components faster, more cost-effectively, and with greater efficiency.",
+      "This marks the first time INNOSPACE is manufacturing rocket parts entirely in-house using 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "INNOSPACE, jihokorejská vesmírná společnost, využívá technologii kovového 3D tisku ke zlepšení výroby raketových dílů.",
+      "Společnost si klade za cíl vyrábět tyto komponenty rychleji, nákladově efektivněji a s větší účinností.",
+      "Toto je poprvé, co INNOSPACE vyrábí raketové díly zcela interně pomocí 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "INNOSPACE",
+      "Eplus3D",
+      "3D Printing",
+      "Space Technology"
+    ]
+  },
+  {
     "title": "Cenově dostupná DIY biotiskárna umožňuje koaxiální 3D tisk měkkých hydrogelů s buňkami",
     "summary": "A team at the Bioengineering Institute of Technology, Universitat Internacional de Catalunya, has developed a DIY coaxial 3D bioprinter by modifying a Creality Ender 3 Pro desktop 3D printer. The open-source system costs under €600 and enables simultaneous extrusion of two hydrogel bioinks through a coaxial nozzle. The device was validated by printing mesenchymal stem [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/Schematic-of-3D-extrusion-bioprinter-and-coaxial-nozzle-assembly-150x100.webp",
