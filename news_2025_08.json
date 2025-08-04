@@ -1,5 +1,135 @@
 [
   {
+    "title": "3DPOD 265: Tvarování paprsku a mnohem více s Alexem Kingsburym, nLIGHT",
+    "summary": "Alex Kingsbury worked at the Australian research institute CSIRO (Commonwealth Scientific and Industrial Research Organisation) on Additive before working for The Barnes Global Advisors, RMIT University, and now nLight. Alex...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-04T12:00:34+00:00",
+    "url": "https://3dprint.com/319571/3dpod-265-beam-shaping-and-plenty-more-with-alex-kingsbury-nlight/",
+    "title_en": "3DPOD 265: Beam Shaping and Plenty More with Alex Kingsbury, nLIGHT",
+    "summary_bullets_en": [
+      "Alex Kingsbury discusses his experience working with additive manufacturing at CSIRO and his current role at nLight.",
+      "The podcast explores the concept of beam shaping and its applications in 3D printing.",
+      "Alex shares insights from his time at The Barnes Global Advisors and RMIT University."
+    ],
+    "summary_bullets_cs": [
+      "Alex Kingsbury hovoří o své zkušenosti s aditivní výrobou v CSIRO a své současné roli v nLight.",
+      "Podcast zkoumá koncept tvarování paprsku a jeho aplikace v 3D tisku.",
+      "Alex sdílí poznatky ze svého působení v The Barnes Global Advisors a na RMIT University."
+    ],
+    "tags": [
+      "Hardware",
+      "nLight",
+      "CSIRO",
+      "The Barnes Global Advisors",
+      "RMIT University"
+    ]
+  },
+  {
+    "title": "Design týdne: Busta Ozzyho",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922676495/0/fabbaloo/default~Design-of-the-Week-Ozzy-Bust\" rel=\"nofollow\" title=\"Design of the Week: Ozzy Bust\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/ozzy-cover-300x213.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>This week’s selection is the Ozzy Bust by MakerWorld contributor _JkJk_.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922676495/0/fabbaloo/default~Design-of-the-Week-Ozzy-Bust\" rel=\"nofollow\">Design of the Week: Ozzy Bust</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/ozzy-cover-300x213.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-08-04T11:04:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922676495/0/fabbaloo/default~Design-of-the-Week-Ozzy-Bust",
+    "title_en": "Design of the Week: Ozzy Bust",
+    "summary_bullets_en": [
+      "This week's featured design is the Ozzy Bust.",
+      "The design was created by MakerWorld contributor _JkJk_.",
+      "The article was published on Fabbaloo."
+    ],
+    "summary_bullets_cs": [
+      "Tento týden je vybraným designem busta Ozzyho.",
+      "Design vytvořil přispěvatel MakerWorld _JkJk_.",
+      "Článek byl publikován na Fabbaloo."
+    ],
+    "tags": [
+      "Design",
+      "3D Printing",
+      "MakerWorld",
+      "Fabbaloo"
+    ]
+  },
+  {
+    "title": "Carlsmedův IPO ve výši 100,5 milionu dolarů podporuje růst 3D tištěných páteřních implantátů",
+    "summary": "Help choose the&#160;2025 3D Printing Industry Awards&#160;winners – sign up for the Expert Committee now! California-based medtech company Carlsmed Inc. has completed its initial public offering (IPO), raising approximately $100.5 million in gross proceeds. These proceeds are aimed at supporting manufacturing scale-up, commercial expansion, and growth of its aprevo platform for 3D printed personalized spine [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/Carlsmed1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-04T10:03:32+00:00",
+    "url": "https://3dprintingindustry.com/news/carlsmeds-100-5m-ipo-fuels-3d-printed-spinal-implants-growth-242776/?utm_source=rss&utm_medium=rss&utm_campaign=carlsmeds-100-5m-ipo-fuels-3d-printed-spinal-implants-growth",
+    "title_en": "Carlsmed’s $100.5M IPO fuels 3D printed spinal implants growth",
+    "summary_bullets_en": [
+      "Carlsmed Inc., a medtech company based in California, has raised approximately $100.5 million through its IPO.",
+      "The funds will be used to support the manufacturing scale-up and commercial expansion of Carlsmed's 3D printed personalized spine platform, aprevo.",
+      "The IPO aims to drive growth in the 3D printed spinal implants sector."
+    ],
+    "summary_bullets_cs": [
+      "Kalifornská medtech společnost Carlsmed Inc. získala přibližně 100,5 milionu dolarů prostřednictvím svého IPO.",
+      "Tyto prostředky budou použity na podporu rozšíření výroby a komerční expanze platformy Carlsmed pro 3D tištěné personalizované páteřní implantáty, aprevo.",
+      "IPO má za cíl podpořit růst v sektoru 3D tištěných páteřních implantátů."
+    ],
+    "tags": [
+      "Hardware",
+      "Carlsmed",
+      "3D Printing",
+      "Medical Devices",
+      "Spinal Implants"
+    ]
+  },
+  {
+    "title": "AMCM dosáhla milníku 150 dodaných systémů, plánuje spuštění M 8K",
+    "summary": "AMCM, a specialized metal 3D printer manufacturer within the EOS group, has reached a major milestone with the delivery of its 150th machine. The system—an AMCM M 4K equipped with four 1 kW lasers—is set to be deployed in California’s aerospace industry, where it will be used to produce CuCr1Zr combustion chambers, critical components in [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/1752675044599-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-04T09:53:20+00:00",
+    "url": "https://3dprintingindustry.com/news/amcm-reaches-150-system-delivery-milestone-eyes-m-8k-launch-242757/?utm_source=rss&utm_medium=rss&utm_campaign=amcm-reaches-150-system-delivery-milestone-eyes-m-8k-launch",
+    "title_en": "AMCM Reaches 150-System Delivery Milestone, Eyes M 8K Launch",
+    "summary_bullets_en": [
+      "AMCM, part of the EOS group, has delivered its 150th metal 3D printer.",
+      "The AMCM M 4K system features four 1 kW lasers.",
+      "The machine will be used in California's aerospace industry.",
+      "It will produce CuCr1Zr combustion chambers, essential components in aerospace."
+    ],
+    "summary_bullets_cs": [
+      "AMCM, specializovaný výrobce kovových 3D tiskáren v rámci skupiny EOS, dodal svůj 150. stroj.",
+      "Systém AMCM M 4K je vybaven čtyřmi lasery o výkonu 1 kW.",
+      "Stroj bude použit v kalifornském leteckém průmyslu.",
+      "Bude vyrábět spalovací komory CuCr1Zr, klíčové komponenty v letectví."
+    ],
+    "tags": [
+      "Hardware",
+      "AMCM",
+      "EOS",
+      "3D Printing",
+      "Aerospace"
+    ]
+  },
+  {
+    "title": "Stratasys obnovuje roli oficiálního partnera 3D tisku pro Andretti INDYCAR",
+    "summary": "Motorsports company Andretti Global, part of the TWG Motorsports umbrella, has extended its collaboration with 3D printer OEM Stratasys, reaffirming its position as the Official 3D Printing Partner of Andretti INDYCAR. “The expansion of our partnership with Stratasys will significantly enhance our additive capacity and capabilities at Andretti Global. Armed with their latest industry-leading technologies, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/dddd-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-04T09:36:57+00:00",
+    "url": "https://3dprintingindustry.com/news/stratasys-renews-role-as-official-3d-printing-partner-of-andretti-indycar-242752/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-renews-role-as-official-3d-printing-partner-of-andretti-indycar",
+    "title_en": "Stratasys Renews Role as Official 3D Printing Partner of Andretti INDYCAR",
+    "summary_bullets_en": [
+      "Andretti Global has extended its partnership with Stratasys.",
+      "Stratasys remains the Official 3D Printing Partner of Andretti INDYCAR.",
+      "The collaboration aims to enhance additive manufacturing capabilities at Andretti Global."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Andretti Global prodloužila spolupráci se Stratasys.",
+      "Stratasys zůstává oficiálním partnerem 3D tisku pro Andretti INDYCAR.",
+      "Cílem spolupráce je zlepšit kapacity aditivní výroby v Andretti Global."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "Andretti INDYCAR",
+      "Motorsports"
+    ]
+  },
+  {
     "title": "Tato švýcarská zmrzlinárna byla vytištěna 3D tiskem z recyklovaného plastu—a vypadá úžasně",
     "summary": "In the Alpine village of Mulegns, Switzerland, a new experimental ice cream shop looks like something out of a dream. From the outside, it resembles a classic wooden barn. But...",
     "image": "https://3dprint.com/wp-content/uploads/2025/08/image.imageformat.1286.792614362.jpg",
