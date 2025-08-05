@@ -1,5 +1,57 @@
 [
   {
+    "title": "Beehive Industries představuje Rampart, 3D tištěný motor pro bezpilotní bojová letadla",
+    "summary": "US-based propulsion system manufacturer Beehive Industries has unveiled the Rampart engine, a fully 3D printed propulsion system developed for use within the Collaborative Combat Aircraft (CCA) framework. Nicknamed “The Force Multiplier,” the engine is specifically designed for uncrewed aerial vehicles (UAVs) intended to operate alongside manned fighter aircraft in high-threat environments. It supports a broad [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/images-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-04T19:39:46+00:00",
+    "url": "https://3dprintingindustry.com/news/beehive-industries-unveils-rampart-a-3d-printed-engine-for-uncrewed-combat-aircraft-242787/?utm_source=rss&utm_medium=rss&utm_campaign=beehive-industries-unveils-rampart-a-3d-printed-engine-for-uncrewed-combat-aircraft",
+    "title_en": "Beehive Industries Unveils Rampart, a 3D Printed Engine for Uncrewed Combat Aircraft",
+    "summary_bullets_en": [
+      "Beehive Industries has introduced the Rampart engine, a fully 3D printed propulsion system.",
+      "The engine is designed for use in the Collaborative Combat Aircraft framework.",
+      "It is intended for uncrewed aerial vehicles operating alongside manned fighter aircraft in high-threat environments."
+    ],
+    "summary_bullets_cs": [
+      "Beehive Industries představila motor Rampart, plně 3D tištěný pohonný systém.",
+      "Motor je navržen pro použití v rámci Collaborative Combat Aircraft.",
+      "Je určen pro bezpilotní letouny, které operují vedle pilotovaných stíhacích letounů v prostředí s vysokou hrozbou."
+    ],
+    "tags": [
+      "Hardware",
+      "Beehive Industries",
+      "3D Printing",
+      "UAV",
+      "Collaborative Combat Aircraft"
+    ]
+  },
+  {
+    "title": "New York obnovuje 10leté financování pro AMPrint Center na RIT",
+    "summary": "Private university Rochester Institute of Technology’s (RIT) AMPrint Center has received a 10-year contract renewal from New York state to continue research and development in additive manufacturing. The funding—structured in two five-year phases with an initial $5 million allocation—will support work on 3D printing processes, materials, and applications, as well as industry partnerships and workforce [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/MainBanner_1920-800-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-04T19:39:33+00:00",
+    "url": "https://3dprintingindustry.com/news/new-york-renews-10-year-funding-for-rits-amprint-center-242782/?utm_source=rss&utm_medium=rss&utm_campaign=new-york-renews-10-year-funding-for-rits-amprint-center",
+    "title_en": "New York Renews 10-Year Funding for RIT’s AMPrint Center",
+    "summary_bullets_en": [
+      "Rochester Institute of Technology's AMPrint Center has secured a 10-year contract renewal from New York state.",
+      "The funding is structured in two five-year phases with an initial $5 million allocation.",
+      "The support will focus on 3D printing processes, materials, applications, industry partnerships, and workforce development."
+    ],
+    "summary_bullets_cs": [
+      "AMPrint Center na Rochester Institute of Technology získalo 10leté obnovení smlouvy od státu New York.",
+      "Financování je strukturováno do dvou pětiletých fází s počáteční alokací 5 milionů dolarů.",
+      "Podpora se zaměří na procesy 3D tisku, materiály, aplikace, průmyslová partnerství a rozvoj pracovních sil."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "RIT",
+      "AMPrint Center",
+      "New York"
+    ]
+  },
+  {
     "title": "Specializované filamenty pro 3D tisk bezvzduchových basketbalových míčů",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/922690835/0/fabbaloo/default~Specialized-Filaments-Emerge-for-D-Printing-Airless-Basketballs\" rel=\"nofollow\" title=\"Specialized Filaments Emerge for 3D Printing Airless Basketballs\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/biqu-basketball-pla-hr-cover-300x208.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There are now 3D printer filaments designed for specific applications.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922690835/0/fabbaloo/default~Specialized-Filaments-Emerge-for-D-Printing-Airless-Basketballs\" rel=\"nofollow\">Specialized Filaments Emerge for 3D Printing Airless Basketballs</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/biqu-basketball-pla-hr-cover-300x208.jpg",
@@ -121,6 +173,33 @@
       "UltiMaker",
       "Nikon SLM Solutions",
       "HP"
+    ]
+  },
+  {
+    "title": "Mantle zvyšuje pevnost prvků a rozlišení tisku pro nástrojařské aplikace",
+    "summary": "San Francisco-based Mantle reports an improvement in feature size and part strength. This should let its customers reduce EDM (electrical discharge machining) time, make more molds possible, and reduce sintering...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/TD-Ribs-Web.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-04T13:30:53+00:00",
+    "url": "https://3dprint.com/319686/mantle-boosts-feature-strength-and-print-resolution-for-tooling-applications/",
+    "title_en": "Mantle Boosts Feature Strength and Print Resolution for Tooling Applications",
+    "summary_bullets_en": [
+      "Mantle, based in San Francisco, has improved feature size and part strength in its 3D printing technology.",
+      "These advancements are expected to reduce EDM time and expand the range of possible molds.",
+      "The improvements also aim to decrease the time required for sintering processes."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Mantle se sídlem v San Franciscu zlepšila velikost prvků a pevnost dílů ve své technologii 3D tisku.",
+      "Tato vylepšení by měla zkrátit čas EDM a rozšířit možnosti výroby forem.",
+      "Vylepšení také cílí na snížení času potřebného pro procesy slinování."
+    ],
+    "tags": [
+      "Hardware",
+      "Mantle",
+      "3D Printing",
+      "Tooling",
+      "EDM",
+      "Sintering"
     ]
   },
   {
