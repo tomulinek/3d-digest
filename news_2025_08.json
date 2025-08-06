@@ -1,5 +1,186 @@
 [
   {
+    "title": "Co musí software pro FFF 3D tiskárny nabídnout, aby podpořil masové přijetí do roku 2028?",
+    "summary": "RECODE.AM #10",
+    "image": "https://substackcdn.com/image/fetch/$s_!soxj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9af2d42b-3b79-4c02-8acb-64a0d03856e9_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-08-06T17:54:33+00:00",
+    "url": "https://www.3dprintingjournal.com/p/what-must-fff-3d-printer-software",
+    "title_en": "What must FFF 3D printer software deliver to drive mass adoption by 2028?",
+    "summary_bullets_en": [
+      "The article discusses the essential features that FFF 3D printer software must have to encourage widespread use by 2028.",
+      "Key areas of focus include user-friendly interfaces, enhanced reliability, and improved integration with other technologies.",
+      "The importance of software updates and support for a variety of materials is emphasized to meet diverse user needs."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá klíčovými funkcemi, které musí software pro FFF 3D tiskárny mít, aby podpořil široké využití do roku 2028.",
+      "Hlavní oblasti zaměření zahrnují uživatelsky přívětivá rozhraní, zvýšenou spolehlivost a lepší integraci s jinými technologiemi.",
+      "Zdůrazňuje se důležitost aktualizací softwaru a podpory pro různé materiály, aby byly splněny rozmanité potřeby uživatelů."
+    ],
+    "tags": [
+      "Software",
+      "UltiMaker",
+      "Nikon SLM Solutions",
+      "HP"
+    ]
+  },
+  {
+    "title": "Elegoo uvádí Nexprint, platformu pro sdílení 3D modelů pro svůj ekosystém tiskáren",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922809236/0/fabbaloo/default~Elegoo-Launches-Nexprint-a-D-Model-Sharing-Platform-for-Its-Printer-Ecosystem\" rel=\"nofollow\" title=\"Elegoo Launches Nexprint, a 3D Model Sharing Platform for Its Printer Ecosystem\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/nexprint-cover-300x155.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Elegoo has launched Nexprint, their online 3D model repository.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922809236/0/fabbaloo/default~Elegoo-Launches-Nexprint-a-D-Model-Sharing-Platform-for-Its-Printer-Ecosystem\" rel=\"nofollow\">Elegoo Launches Nexprint, a 3D Model Sharing Platform for Its Printer Ecosystem</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/nexprint-cover-300x155.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-08-06T16:45:55+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922809236/0/fabbaloo/default~Elegoo-Launches-Nexprint-a-D-Model-Sharing-Platform-for-Its-Printer-Ecosystem",
+    "title_en": "Elegoo Launches Nexprint, a 3D Model Sharing Platform for Its Printer Ecosystem",
+    "summary_bullets_en": [
+      "Elegoo has introduced Nexprint, an online platform for sharing 3D models.",
+      "Nexprint is designed to enhance the ecosystem of Elegoo's 3D printers.",
+      "The platform aims to provide a repository for users to access and share 3D models."
+    ],
+    "summary_bullets_cs": [
+      "Elegoo představilo Nexprint, online platformu pro sdílení 3D modelů.",
+      "Nexprint je navržen tak, aby posílil ekosystém 3D tiskáren Elegoo.",
+      "Platforma má sloužit jako úložiště pro uživatele k přístupu a sdílení 3D modelů."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Elegoo",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "SALTGATOR nabízí rychlou výrobu dílů pomocí 3D tištěných forem a měkkých gelových materiálů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922803041/0/fabbaloo/default~SALTGATOR-Offers-Fast-Part-Production-Using-D-Printed-Molds-and-Soft-Gel-Materials\" rel=\"nofollow\" title=\"SALTGATOR Offers Fast Part Production Using 3D Printed Molds and Soft Gel Materials\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/saltgator-cover-300x189.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The SALTGATOR is not a 3D printer, but it’s something 3D printer operators might consider.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922803041/0/fabbaloo/default~SALTGATOR-Offers-Fast-Part-Production-Using-D-Printed-Molds-and-Soft-Gel-Materials\" rel=\"nofollow\">SALTGATOR Offers Fast Part Production Using 3D Printed Molds and Soft Gel Materials</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/saltgator-cover-300x189.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-08-06T15:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922803041/0/fabbaloo/default~SALTGATOR-Offers-Fast-Part-Production-Using-D-Printed-Molds-and-Soft-Gel-Materials",
+    "title_en": "SALTGATOR Offers Fast Part Production Using 3D Printed Molds and Soft Gel Materials",
+    "summary_bullets_en": [
+      "SALTGATOR is a tool designed for fast part production using 3D printed molds.",
+      "It utilizes soft gel materials to create parts quickly and efficiently.",
+      "The system is not a 3D printer itself but complements 3D printing operations.",
+      "SALTGATOR is ideal for operators looking to enhance their production capabilities."
+    ],
+    "summary_bullets_cs": [
+      "SALTGATOR je nástroj navržený pro rychlou výrobu dílů pomocí 3D tištěných forem.",
+      "Využívá měkké gelové materiály k rychlé a efektivní výrobě dílů.",
+      "Systém sám o sobě není 3D tiskárna, ale doplňuje operace 3D tisku.",
+      "SALTGATOR je ideální pro operátory, kteří chtějí zlepšit své výrobní schopnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "SALTGATOR",
+      "Manufacturing",
+      "Materials"
+    ]
+  },
+  {
+    "title": "Nový pracovní postup 3D tisku umožňuje neziskovým organizacím vytvářet vlastní předměty vděčnosti",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/922795706/0/fabbaloo/default~New-D-Printing-Workflow-Enables-NonProfits-to-Create-Custom-Gratitude-Items\" rel=\"nofollow\" title=\"New 3D Printing Workflow Enables Non-Profits to Create Custom Gratitude Items\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/recognize-good-cover-300x292.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There’s a new and interesting 3D print application deployed by Recognize Good.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922795706/0/fabbaloo/default~New-D-Printing-Workflow-Enables-NonProfits-to-Create-Custom-Gratitude-Items\" rel=\"nofollow\">New 3D Printing Workflow Enables Non-Profits to Create Custom Gratitude Items</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/recognize-good-cover-300x292.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-08-06T13:47:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/922795706/0/fabbaloo/default~New-D-Printing-Workflow-Enables-NonProfits-to-Create-Custom-Gratitude-Items",
+    "title_en": "New 3D Printing Workflow Enables Non-Profits to Create Custom Gratitude Items",
+    "summary_bullets_en": [
+      "Recognize Good has implemented a new 3D printing application.",
+      "The workflow allows non-profits to create custom gratitude items.",
+      "This initiative aims to support non-profits in expressing appreciation."
+    ],
+    "summary_bullets_cs": [
+      "Recognize Good zavedl novou aplikaci pro 3D tisk.",
+      "Pracovní postup umožňuje neziskovým organizacím vytvářet vlastní předměty vděčnosti.",
+      "Tato iniciativa má za cíl podpořit neziskové organizace ve vyjadřování vděčnosti."
+    ],
+    "tags": [
+      "Services",
+      "Recognize Good",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Novinky o 3D tisku, 6. srpna 2025: Americké námořnictvo, rostlinné ryby, potravinový odpad a další",
+    "summary": "In today&#8217;s 3D Printing News Briefs, Austal USA ordered a second AML3D system for the US Navy Centre of Excellence. Filamentive is working to improve material transparency in 3D printing....",
+    "image": "https://3dprint.com/wp-content/uploads/2025/05/IMG_1658.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-06T13:30:06+00:00",
+    "url": "https://3dprint.com/319766/3d-printing-news-briefs-8-6-2025/",
+    "title_en": "3D Printing News Briefs, August 6, 2025: US Navy, Plant-Based Fish, Food Waste, & More",
+    "summary_bullets_en": [
+      "Austal USA has ordered a second AML3D system for the US Navy Centre of Excellence.",
+      "Filamentive is working to improve material transparency in 3D printing.",
+      "Innovations in plant-based fish and reducing food waste are being explored through 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Austal USA objednala druhý systém AML3D pro Centrum excelence amerického námořnictva.",
+      "Filamentive pracuje na zlepšení transparentnosti materiálů v 3D tisku.",
+      "Inovace v oblasti rostlinných ryb a snižování potravinového odpadu jsou zkoumány prostřednictvím 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "US Navy",
+      "AML3D",
+      "Filamentive"
+    ]
+  },
+  {
+    "title": "3MF se stává ISO standardem",
+    "summary": "The 3MF file format has become an ISO Standard, becoming part of ISO/IEC 25422:2025. The file format is still open source, and it is hoped that this move will build...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/08/ntopology-3MF-file-size-768246-1.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-06T13:00:37+00:00",
+    "url": "https://3dprint.com/319794/3mf-becomes-iso-standard/",
+    "title_en": "3MF Becomes ISO Standard",
+    "summary_bullets_en": [
+      "The 3MF file format has been recognized as an ISO Standard.",
+      "It is now part of ISO/IEC 25422:2025.",
+      "The format remains open source.",
+      "This move is expected to enhance its adoption and interoperability in the 3D printing industry."
+    ],
+    "summary_bullets_cs": [
+      "Formát souboru 3MF byl uznán jako ISO standard.",
+      "Stal se součástí ISO/IEC 25422:2025.",
+      "Formát zůstává open source.",
+      "Očekává se, že tento krok zvýší jeho přijetí a interoperabilitu v odvětví 3D tisku."
+    ],
+    "tags": [
+      "Software",
+      "3MF",
+      "ISO",
+      "Open Source",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Škálování dopadu prostřednictvím inovací: Jak 3D tisk mění dětské protézy",
+    "summary": "Around the world, thousands of children live with limb loss and limited access to proper prosthetic care. In many low-resource settings, these children go without the mobility they deserve, constrained...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/08/18747a2c-b788-49ee-b1f8-4c5abdf45668_1.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-06T12:30:33+00:00",
+    "url": "https://3dprint.com/319801/scaling-impact-through-innovation-how-3d-printing-is-transforming-pediatric-prosthetics/",
+    "title_en": "Scaling Impact Through Innovation: How 3D Printing Is Transforming Pediatric Prosthetics",
+    "summary_bullets_en": [
+      "Thousands of children worldwide live with limb loss and lack access to proper prosthetic care.",
+      "In low-resource settings, many children are deprived of the mobility they deserve.",
+      "3D printing is revolutionizing pediatric prosthetics by making them more accessible and affordable."
+    ],
+    "summary_bullets_cs": [
+      "Tisíce dětí po celém světě žijí bez končetin a nemají přístup k odpovídající protetické péči.",
+      "V prostředích s nízkými zdroji jsou mnohé děti ochuzeny o mobilitu, kterou si zaslouží.",
+      "3D tisk revolučně mění dětské protézy tím, že je činí dostupnějšími a cenově přijatelnějšími."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Pediatric Prosthetics",
+      "Innovation"
+    ]
+  },
+  {
     "title": "Nové energeticky úsporné technologie pro stěny budov jsou 3D tištěné",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/922785881/0/fabbaloo/default~New-EnergyEfficient-Building-Wall-Technologies-Are-D-Printed\" rel=\"nofollow\" title=\"New Energy-Efficient Building Wall Technologies Are 3D Printed\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/BuildEnv1-300x293.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Kate Esposito showcase how groundbreaking 3D printing technologies like ORNL’s SkyBAAM and EMPOWER wall are redefining building energy efficiency and reshaping the future of sustainable construction.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/922785881/0/fabbaloo/default~New-EnergyEfficient-Building-Wall-Technologies-Are-D-Printed\" rel=\"nofollow\">New Energy-Efficient Building Wall Technologies Are 3D Printed</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/BuildEnv1-300x293.jpg",
