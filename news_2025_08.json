@@ -1,5 +1,108 @@
 [
   {
+    "title": "Americká armáda staví 3D tištěné drony v terénu",
+    "summary": "Troops from the U.S. Army’s 173rd Airborne Brigade are building and deploying 3D printed first-person-view (FPV) drones to gain a tactical edge on the battlefield.   At the center of this initiative is Hawkeye Platoon, a unit within the Headquarters and Headquarters Troop, 1st Squadron, 91st Cavalry Regiment.&#160; Specialising in reconnaissance, surveillance, and target acquisition [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/Army-Sgt.-Tucker-Smith-solders-internal-wiring-on-a-3D-printed-FPV-drone.-Photo-via-Army-National-Guard-Sgt.-1st-Class-Brittany-Conley-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-07T10:51:08+00:00",
+    "url": "https://3dprintingindustry.com/news/u-s-army-builds-3d-printed-drones-in-the-field-242871/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-army-builds-3d-printed-drones-in-the-field",
+    "title_en": "U.S. Army Builds 3D Printed Drones in the Field",
+    "summary_bullets_en": [
+      "The U.S. Army's 173rd Airborne Brigade is using 3D printing technology to build FPV drones on the battlefield.",
+      "Hawkeye Platoon, part of the 1st Squadron, 91st Cavalry Regiment, leads this initiative.",
+      "These drones are used for reconnaissance, surveillance, and target acquisition."
+    ],
+    "summary_bullets_cs": [
+      "173. výsadková brigáda americké armády využívá technologii 3D tisku k výrobě FPV dronů na bojišti.",
+      "Iniciativu vede jednotka Hawkeye Platoon, která je součástí 1. eskadrony, 91. jezdeckého pluku.",
+      "Tyto drony jsou využívány pro průzkum, sledování a získávání cílů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "U.S. Army",
+      "Drones",
+      "Reconnaissance"
+    ]
+  },
+  {
+    "title": "Výzkumníci z University of Maine vyvinuli metodu pro předpověď pevnosti lehkých 3D tištěných komponent",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/university-of-maine-researchers-develop-method-to-predict-strength-of-3d-printed-lightweight-components/\" target=\"_blank\">University of Maine Researchers Develop Method to Predict Strength of 3D-Printed Lightweight Components</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">August 7</span></div><div><img alt=\"University of Maine Researchers Develop Method to Predict Strength of 3D-Printed Lightweight Components\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/8764984980-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/8764984980-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-08-07T09:00:38+00:00",
+    "url": "https://3dprinting.com/news/university-of-maine-researchers-develop-method-to-predict-strength-of-3d-printed-lightweight-components/",
+    "title_en": "University of Maine Researchers Develop Method to Predict Strength of 3D-Printed Lightweight Components",
+    "summary_bullets_en": [
+      "Researchers at the University of Maine have developed a new method to predict the strength of 3D-printed lightweight components.",
+      "The method aims to enhance the reliability and performance of 3D-printed parts by accurately predicting their mechanical properties.",
+      "This advancement could lead to more efficient and cost-effective production processes in industries utilizing 3D printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University of Maine vyvinuli novou metodu pro předpověď pevnosti lehkých 3D tištěných komponent.",
+      "Metoda má za cíl zvýšit spolehlivost a výkon 3D tištěných dílů přesným předpovídáním jejich mechanických vlastností.",
+      "Tento pokrok by mohl vést k efektivnějším a nákladově efektivnějším výrobním procesům v průmyslech využívajících technologii 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "University of Maine",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "DissolvPCB umožňuje plně recyklovatelné 3D tištěné obvodové desky s vodiči z kapalného kovu",
+    "summary": "Researchers from the University of Maryland, Georgia Tech and the University of Notre Dame, have introduced DissolvPCB, a novel 3D printing-based method to fabricate fully recyclable electronic circuits. Presented at UIST 2025, the technique combines polyvinyl alcohol (PVA) substrates and eutectic gallium–indium (EGaIn) liquid metal to create printed circuit board assemblies (PCBAs) that can be [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/disslv-1-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-07T08:00:15+00:00",
+    "url": "https://3dprintingindustry.com/news/dissolvpcb-enables-fully-recyclable-3d-printed-circuit-boards-with-liquid-metal-conductors-242857/?utm_source=rss&utm_medium=rss&utm_campaign=dissolvpcb-enables-fully-recyclable-3d-printed-circuit-boards-with-liquid-metal-conductors",
+    "title_en": "DissolvPCB enables fully recyclable 3D-printed circuit boards with liquid metal conductors",
+    "summary_bullets_en": [
+      "Researchers from the University of Maryland, Georgia Tech, and the University of Notre Dame have developed DissolvPCB, a new 3D printing method for recyclable electronic circuits.",
+      "The technique uses polyvinyl alcohol (PVA) substrates and eutectic gallium–indium (EGaIn) liquid metal to create printed circuit board assemblies (PCBAs).",
+      "DissolvPCB was presented at UIST 2025, highlighting its potential for sustainable electronics manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University of Maryland, Georgia Tech a University of Notre Dame vyvinuli DissolvPCB, novou metodu 3D tisku pro recyklovatelné elektronické obvody.",
+      "Tato technika využívá substráty z polyvinylalkoholu (PVA) a kapalný kov eutektické slitiny gallia a india (EGaIn) k vytvoření sestav tištěných obvodových desek (PCBA).",
+      "DissolvPCB bylo představeno na UIST 2025, kde bylo zdůrazněno jeho potenciál pro udržitelnou výrobu elektroniky."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "University of Maryland",
+      "Georgia Tech",
+      "University of Notre Dame",
+      "UIST 2025"
+    ]
+  },
+  {
+    "title": "Haddy se připojuje k Disney Accelerator 2025, aby podpořil velkoformátový 3D tisk v zábavním průmyslu",
+    "summary": "Haddy, a startup specializing in large-format 3D printing, has been selected—alongside three other companies—to participate in the 2025 Disney Accelerator. This program connects growth-stage businesses with The Walt Disney Company to explore how emerging technologies can enhance media, entertainment, and immersive experience design. Joining Haddy in the 2025 cohort are Animaj, a company utilizing an [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/1738675971771-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-07T07:44:55+00:00",
+    "url": "https://3dprintingindustry.com/news/haddy-joins-2025-disney-accelerator-to-drive-large-format-3d-printing-in-entertainment-242863/?utm_source=rss&utm_medium=rss&utm_campaign=haddy-joins-2025-disney-accelerator-to-drive-large-format-3d-printing-in-entertainment",
+    "title_en": "Haddy Joins 2025 Disney Accelerator to Drive Large-Format 3D Printing in Entertainment",
+    "summary_bullets_en": [
+      "Haddy, a startup focused on large-format 3D printing, has been selected for the 2025 Disney Accelerator.",
+      "The program connects growth-stage businesses with The Walt Disney Company.",
+      "The aim is to explore how emerging technologies can enhance media, entertainment, and immersive experience design."
+    ],
+    "summary_bullets_cs": [
+      "Haddy, startup specializující se na velkoformátový 3D tisk, byl vybrán pro účast v Disney Accelerator 2025.",
+      "Program spojuje rostoucí podniky se společností The Walt Disney Company.",
+      "Cílem je prozkoumat, jak mohou nové technologie zlepšit média, zábavu a návrh imerzivních zážitků."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Disney",
+      "Entertainment",
+      "Haddy"
+    ]
+  },
+  {
     "title": "Co musí software pro FFF 3D tiskárny nabídnout, aby podpořil masové přijetí do roku 2028?",
     "summary": "RECODE.AM #10",
     "image": "https://substackcdn.com/image/fetch/$s_!soxj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9af2d42b-3b79-4c02-8acb-64a0d03856e9_1536x1024.jpeg",
