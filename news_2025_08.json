@@ -1,5 +1,288 @@
 [
   {
+    "title": "Bambu Lab uvádí na trh H2D Pro s novými funkcemi síťové bezpečnosti: Technické specifikace a ceny",
+    "summary": "Chinese 3D printer manufacturer Bambu Lab has officially launched the new H2D Pro 3D printer. Priced at $3,799, including the AMS 2 Pro and AMS HT, this system is billed as an “enterprise-grade” version of the Bambu Lab H2D, which was released in March.&#160; The new offering retains all the 3D printing capabilities of the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/Bambu-Lab-H2D-Pro-Image-via-Bambu-Lab-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-11T17:06:24+00:00",
+    "url": "https://3dprintingindustry.com/news/bambu-lab-launches-the-h2d-pro-with-new-network-security-features-technical-specifications-and-pricing-242974/?utm_source=rss&utm_medium=rss&utm_campaign=bambu-lab-launches-the-h2d-pro-with-new-network-security-features-technical-specifications-and-pricing",
+    "title_en": "Bambu Lab Launches the H2D Pro with New Network Security Features: Technical Specifications and Pricing",
+    "summary_bullets_en": [
+      "Bambu Lab has launched the H2D Pro 3D printer, an enterprise-grade version of the H2D.",
+      "The printer is priced at $3,799 and includes the AMS 2 Pro and AMS HT.",
+      "The H2D Pro retains all 3D printing capabilities of its predecessor."
+    ],
+    "summary_bullets_cs": [
+      "Bambu Lab uvedl na trh 3D tiskárnu H2D Pro, která je podnikové verze modelu H2D.",
+      "Tiskárna stojí 3 799 dolarů a zahrnuje AMS 2 Pro a AMS HT.",
+      "H2D Pro si zachovává všechny 3D tiskové schopnosti svého předchůdce."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab"
+    ]
+  },
+  {
+    "title": "Bambu Lab uvádí H2D Pro s rozšířenou podporou materiálů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/923071739/0/fabbaloo/default~Bambu-Lab-Launches-HD-Pro-with-Expanded-Material-Support\" rel=\"nofollow\" title=\"Bambu Lab Launches H2D Pro with Expanded Material Support\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/h2d-pro-cover-300x170.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Surprise! Bambu Lab announced a new 3D printer today, the H2D Pro.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/923071739/0/fabbaloo/default~Bambu-Lab-Launches-HD-Pro-with-Expanded-Material-Support\" rel=\"nofollow\">Bambu Lab Launches H2D Pro with Expanded Material Support</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/h2d-pro-cover-300x170.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-08-11T16:29:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/923071739/0/fabbaloo/default~Bambu-Lab-Launches-HD-Pro-with-Expanded-Material-Support",
+    "title_en": "Bambu Lab Launches H2D Pro with Expanded Material Support",
+    "summary_bullets_en": [
+      "Bambu Lab has announced the release of a new 3D printer, the H2D Pro.",
+      "The H2D Pro features expanded material support, allowing for more versatile printing options.",
+      "This new model aims to enhance the capabilities of users by supporting a wider range of materials."
+    ],
+    "summary_bullets_cs": [
+      "Bambu Lab oznámila uvedení nového 3D tiskárny, H2D Pro.",
+      "H2D Pro nabízí rozšířenou podporu materiálů, což umožňuje všestrannější možnosti tisku.",
+      "Tento nový model má za cíl zlepšit schopnosti uživatelů podporou širšího spektra materiálů."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing",
+      "Material Support"
+    ]
+  },
+  {
+    "title": "Výzkumníci vyvinuli nový nástroj pro kontrolu vlastností superslitin v LPBF",
+    "summary": "Researchers from the IMDEA Materials Institute have developed a new process to predict and control the microstructure of nickel-based superalloys during metal 3D printing.&#160; The team created a tool that allows manufacturers to control metal powder grain structure by adjusting parameters such as laser power, scan speed, hatch distance, and scan track length. In particular, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/IMDEA-Materials-Institute-researcher-Ignacio-Rodriguez-Barber-pictured-with-multiple-LPBF-printed-IN939-structures-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-11T16:21:27+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-develop-new-tool-to-control-superalloy-properties-in-lpbf-242966/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-develop-new-tool-to-control-superalloy-properties-in-lpbf",
+    "title_en": "Researchers Develop New Tool to Control Superalloy Properties in LPBF",
+    "summary_bullets_en": [
+      "IMDEA Materials Institute researchers have developed a process to predict and control the microstructure of nickel-based superalloys during 3D printing.",
+      "The new tool allows manufacturers to adjust metal powder grain structure by modifying laser power, scan speed, hatch distance, and scan track length.",
+      "This advancement enhances the precision and quality of metal 3D printing, particularly for nickel-based superalloys."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z IMDEA Materials Institute vyvinuli proces pro předpověď a kontrolu mikrostruktury superslitin na bázi niklu během 3D tisku.",
+      "Nový nástroj umožňuje výrobcům upravovat strukturu zrn kovového prášku změnou parametrů jako je výkon laseru, rychlost skenování, vzdálenost mezi dráhami a délka skenovací dráhy.",
+      "Tento pokrok zlepšuje přesnost a kvalitu 3D tisku kovů, zejména pro superslitiny na bázi niklu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "IMDEA Materials Institute",
+      "3D Printing",
+      "Nickel-based Superalloys"
+    ]
+  },
+  {
+    "title": "Síla gyroidního výplňového vzoru prokázána: Výzkumníci vyvinuli vzorec pro výkon založený na hustotě",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/923067794/0/fabbaloo/default~Gyroid-Infill-Strength-Proven-Researchers-Develop-Formula-for-DensityBased-Performance\" rel=\"nofollow\" title=\"Gyroid Infill Strength Proven: Researchers Develop Formula for Density-Based Performance\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/gyroid-battery-cover-300x208.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The gyroid infill pattern turns out to be the best infill pattern of them all.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/923067794/0/fabbaloo/default~Gyroid-Infill-Strength-Proven-Researchers-Develop-Formula-for-DensityBased-Performance\" rel=\"nofollow\">Gyroid Infill Strength Proven: Researchers Develop Formula for Density-Based Performance</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/gyroid-battery-cover-300x208.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-08-11T15:00:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/923067794/0/fabbaloo/default~Gyroid-Infill-Strength-Proven-Researchers-Develop-Formula-for-DensityBased-Performance",
+    "title_en": "Gyroid Infill Strength Proven: Researchers Develop Formula for Density-Based Performance",
+    "summary_bullets_en": [
+      "Researchers have proven that the gyroid infill pattern is the most effective among various infill patterns.",
+      "A new formula has been developed to evaluate the performance of infill patterns based on density.",
+      "The study highlights the superior strength and efficiency of the gyroid pattern in 3D printing applications."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci prokázali, že gyroidní výplňový vzor je nejúčinnější mezi různými výplňovými vzory.",
+      "Byl vyvinut nový vzorec pro hodnocení výkonu výplňových vzorů na základě hustoty.",
+      "Studie zdůrazňuje vynikající pevnost a efektivitu gyroidního vzoru v aplikacích 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Gyroid",
+      "Infill Pattern",
+      "Research"
+    ]
+  },
+  {
+    "title": "3D tištěný modulární most vystavený na výstavě v Benátkách má demontovatelný design",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/3d-printed-modular-bridge-displayed-at-venice-exhibition-features-demountable-design/\" target=\"_blank\">3D Printed Modular Bridge Displayed at Venice Exhibition Features Demountable Design</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">August 11</span></div><div><img alt=\"3D Printed Modular Bridge Displayed at Venice Exhibition Features Demountable Design\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"460\" src=\"https://3dprinting.com/wp-content/uploads/low-carbon-3d-printed-diamanti-bridge-modular-concrete-system-venice-time-space-existence-ecc-masoud-akbarzadeh-university-pennsylvania-designboom-04-500x460.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/low-carbon-3d-printed-diamanti-bridge-modular-concrete-system-venice-time-space-existence-ecc-masoud-akbarzadeh-university-pennsylvania-designboom-04-500x460.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-08-11T14:44:55+00:00",
+    "url": "https://3dprinting.com/news/3d-printed-modular-bridge-displayed-at-venice-exhibition-features-demountable-design/",
+    "title_en": "3D Printed Modular Bridge Displayed at Venice Exhibition Features Demountable Design",
+    "summary_bullets_en": [
+      "A 3D printed modular bridge is showcased at the Venice Exhibition.",
+      "The bridge features a demountable design, allowing for easy assembly and disassembly.",
+      "It is part of a low-carbon initiative, highlighting sustainable construction methods.",
+      "The project is a collaboration involving the University of Pennsylvania."
+    ],
+    "summary_bullets_cs": [
+      "Na výstavě v Benátkách je představen 3D tištěný modulární most.",
+      "Most má demontovatelný design, což umožňuje snadnou montáž a demontáž.",
+      "Je součástí iniciativy s nízkou uhlíkovou stopou, zdůrazňující udržitelné stavební metody.",
+      "Projekt je výsledkem spolupráce zahrnující Pensylvánskou univerzitu."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Venice Exhibition",
+      "University of Pennsylvania",
+      "Sustainable Construction"
+    ]
+  },
+  {
+    "title": "America Makes otevírá výzvu k projektu pro kvalifikaci dodavatelů 3D tisku pro DoD",
+    "summary": "America Makes, the national accelerator for additive manufacturing (AM) and 3D printing headquartered in Youngstown, Ohio, and the National Center for Defense Manufacturing and Machining (NCDMM), opened a $1.7 million funding call to expand the pool of U.S. Department of Defense (DoD)–qualified AM suppliers. Backed by the Office of the Under Secretary of Defense, Manufacturing [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/DOD-mantech-logo-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-08-11T14:42:57+00:00",
+    "url": "https://3dprintingindustry.com/news/america-makes-opens-project-call-to-qualify-3d-printing-suppliers-for-the-dod-242906/?utm_source=rss&utm_medium=rss&utm_campaign=america-makes-opens-project-call-to-qualify-3d-printing-suppliers-for-the-dod",
+    "title_en": "America Makes Opens Project Call to Qualify 3D Printing Suppliers for the DoD",
+    "summary_bullets_en": [
+      "America Makes and NCDMM have launched a $1.7 million funding call.",
+      "The initiative aims to expand the pool of DoD-qualified additive manufacturing suppliers.",
+      "The project is supported by the Office of the Under Secretary of Defense."
+    ],
+    "summary_bullets_cs": [
+      "America Makes a NCDMM zahájily výzvu k financování ve výši 1,7 milionu dolarů.",
+      "Iniciativa má za cíl rozšířit počet dodavatelů aditivní výroby kvalifikovaných pro DoD.",
+      "Projekt je podporován Úřadem náměstka ministra obrany."
+    ],
+    "tags": [
+      "Hardware",
+      "America Makes",
+      "NCDMM",
+      "DoD",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Bude mít každá domácnost 3D tiskárnu? Kritická analýza",
+    "summary": "3DP War Journal #58",
+    "image": "https://substackcdn.com/image/fetch/$s_!gTCC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd6e63a6-7234-4712-9787-300658f97c14_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-08-11T14:01:03+00:00",
+    "url": "https://www.3dprintingjournal.com/p/will-every-home-have-a-3d-printer",
+    "title_en": "Will every home have a 3D printer? A critical analysis",
+    "summary_bullets_en": [
+      "The article explores the potential for widespread adoption of 3D printers in households.",
+      "It discusses the current barriers to entry, including cost and technical expertise.",
+      "The piece examines the potential benefits of home 3D printing, such as customization and local manufacturing.",
+      "It also considers the environmental impact and sustainability of increased 3D printer usage."
+    ],
+    "summary_bullets_cs": [
+      "Článek zkoumá potenciál pro široké přijetí 3D tiskáren v domácnostech.",
+      "Diskutuje současné překážky vstupu, včetně nákladů a technické odbornosti.",
+      "Text zkoumá potenciální výhody domácího 3D tisku, jako je přizpůsobení a místní výroba.",
+      "Zvažuje také dopad na životní prostředí a udržitelnost zvýšeného používání 3D tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Home Use",
+      "Sustainability",
+      "Customization"
+    ]
+  },
+  {
+    "title": "Odvážná AM: Měnící se krajina pro 3D tištěné zbraně",
+    "summary": "3D printed guns continue to draw attention from lawmakers, tech platforms, and law enforcement. Difficult to trace, these ghost guns can be made at home with a 3D printer and...",
+    "image": "https://3dprint.com/wp-content/uploads/2024/06/Guerrero_Statement-of-Facts-2-1024768.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-11T13:30:21+00:00",
+    "url": "https://3dprint.com/319902/daring-am-changing-landscape-for-3d-printed-guns/",
+    "title_en": "Daring AM: Changing Landscape for 3D Printed Guns",
+    "summary_bullets_en": [
+      "3D printed guns are gaining attention from lawmakers, tech platforms, and law enforcement.",
+      "These ghost guns are difficult to trace and can be manufactured at home using a 3D printer.",
+      "The rise of 3D printed firearms poses challenges for regulation and public safety."
+    ],
+    "summary_bullets_cs": [
+      "3D tištěné zbraně přitahují pozornost zákonodárců, technologických platforem a orgánů činných v trestním řízení.",
+      "Tyto duchové zbraně je obtížné vystopovat a mohou být vyrobeny doma pomocí 3D tiskárny."
+    ],
+    "tags": [
+      "Hardware",
+      "Law Enforcement",
+      "3D Printing",
+      "Public Safety"
+    ]
+  },
+  {
+    "title": "Výzkumníci využívají kovový 3D tisk k vývoji stabilní baterie poháněné bakteriemi",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/923060378/0/fabbaloo/default~Researchers-Use-Metal-D-Printing-to-Develop-ShelfStable-BacteriaPowered-Battery\" rel=\"nofollow\" title=\"Researchers Use Metal 3D Printing to Develop Shelf-Stable Bacteria-Powered Battery\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/bacteria-battery-cover-300x249.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have used metal 3D printing to unlock a new method to create and store energy in a “bacteria battery”.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/923060378/0/fabbaloo/default~Researchers-Use-Metal-D-Printing-to-Develop-ShelfStable-BacteriaPowered-Battery\" rel=\"nofollow\">Researchers Use Metal 3D Printing to Develop Shelf-Stable Bacteria-Powered Battery</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/bacteria-battery-cover-300x249.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-08-11T13:04:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/923060378/0/fabbaloo/default~Researchers-Use-Metal-D-Printing-to-Develop-ShelfStable-BacteriaPowered-Battery",
+    "title_en": "Researchers Use Metal 3D Printing to Develop Shelf-Stable Bacteria-Powered Battery",
+    "summary_bullets_en": [
+      "Researchers have developed a new method to create energy using a bacteria-powered battery.",
+      "Metal 3D printing technology was utilized to enhance the battery's stability and storage capabilities.",
+      "The innovation represents a significant advancement in sustainable energy solutions."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli novou metodu pro tvorbu energie pomocí baterie poháněné bakteriemi.",
+      "Technologie kovového 3D tisku byla využita ke zlepšení stability a skladovacích schopností baterie.",
+      "Tato inovace představuje významný pokrok v oblasti udržitelných energetických řešení."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Energy Storage",
+      "Sustainable Energy"
+    ]
+  },
+  {
+    "title": "Od prototypu k pacientovi za týdny, ne roky: Uvnitř rychlé cesty Latinské Ameriky pro 3D tištěné implantáty",
+    "summary": "While the global 3D printing industry continues to push the boundaries of what&#8217;s possible in healthcare, a critical bottleneck threatens to stall the sector&#8217;s momentum: the clinical validation gap. International...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/08/unnamed.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-11T13:00:47+00:00",
+    "url": "https://3dprint.com/319830/from-prototype-to-patient-in-weeks-not-years-inside-latin-americas-fast-track-for-3d-printed-implants/",
+    "title_en": "From Prototype to Patient in Weeks, Not Years: Inside Latin America’s Fast-Track for 3D Printed Implants",
+    "summary_bullets_en": [
+      "The global 3D printing industry is advancing rapidly in healthcare, but faces a significant challenge in clinical validation.",
+      "Latin America is implementing a fast-track process to reduce the time from prototype to patient for 3D printed implants.",
+      "This approach aims to bridge the clinical validation gap and accelerate the adoption of 3D printed medical solutions."
+    ],
+    "summary_bullets_cs": [
+      "Globální průmysl 3D tisku rychle postupuje ve zdravotnictví, ale čelí významné výzvě v klinické validaci.",
+      "Latinská Amerika zavádí rychlou cestu ke zkrácení doby od prototypu k pacientovi pro 3D tištěné implantáty.",
+      "Tento přístup má za cíl překlenout mezeru v klinické validaci a urychlit přijetí 3D tištěných lékařských řešení."
+    ],
+    "tags": [
+      "Healthcare",
+      "3D Printing",
+      "Clinical Validation",
+      "Latin America",
+      "Medical Solutions"
+    ]
+  },
+  {
+    "title": "RMIT University vytváří levnější a silnější titan pro 3D tisk",
+    "summary": "Titanium is a favorite of aerospace, medical, and high-performance engineering, mainly because it’s strong, light, and resists corrosion, making it perfect for aircraft components, implants, and other demanding applications. But...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/08/TitaniumEdited.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-11T12:30:33+00:00",
+    "url": "https://3dprint.com/319897/rmit-university-creates-cheaper-stronger-titanium-for-3d-printing/",
+    "title_en": "RMIT University Creates Cheaper, Stronger Titanium for 3D Printing",
+    "summary_bullets_en": [
+      "RMIT University has developed a new method to produce titanium that is both cheaper and stronger.",
+      "This advancement is particularly beneficial for industries like aerospace and medical, where titanium's properties are highly valued.",
+      "The new titanium formulation could lead to more cost-effective production of aircraft components and medical implants."
+    ],
+    "summary_bullets_cs": [
+      "RMIT University vyvinula novou metodu pro výrobu titanu, který je levnější a silnější.",
+      "Tento pokrok je obzvláště přínosný pro odvětví jako letectví a medicína, kde jsou vlastnosti titanu velmi ceněny.",
+      "Nová formulace titanu by mohla vést k nákladově efektivnější výrobě leteckých komponentů a lékařských implantátů."
+    ],
+    "tags": [
+      "Material",
+      "RMIT University",
+      "3D Printing",
+      "Aerospace",
+      "Medical"
+    ]
+  },
+  {
     "title": "3DPOD 266: Kompozitní AM a konvergentní výroba s Habibem Dagherem, University of Maine",
     "summary": "Dr. Habib Dagher founded the University of Maine&#8216;s Advanced Structures and Composites Center, which, with 400 researchers, is one of the leading composites research centers in the world. In 3D...",
     "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
