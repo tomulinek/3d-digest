@@ -1,5 +1,189 @@
 [
   {
+    "title": "3DPOD 267: 3D tisk pro ukrajinské válečné úsilí s Jakem Volnovem, DrukArmy",
+    "summary": "Jake Volnov started DrukArmy to help the Ukrainian war effort. DrukArmy lets individual service members request parts, describe a use case or need, design parts, or order parts. These parts,...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-18T12:00:23+00:00",
+    "url": "https://3dprint.com/319870/3dpod-267-3d-printing-the-ukraine-war-effort-with-jake-volnov-drukarmy/",
+    "title_en": "3DPOD 267: 3D Printing the Ukraine War Effort with Jake Volnov, DrukArmy",
+    "summary_bullets_en": [
+      "Jake Volnov founded DrukArmy to support the Ukrainian war effort through 3D printing.",
+      "DrukArmy allows service members to request, design, or order specific parts needed for their operations.",
+      "The initiative focuses on providing customized solutions for military needs using 3D printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Jake Volnov založil DrukArmy na podporu ukrajinského válečného úsilí prostřednictvím 3D tisku.",
+      "DrukArmy umožňuje členům služby požadovat, navrhovat nebo objednávat specifické díly potřebné pro jejich operace.",
+      "Iniciativa se zaměřuje na poskytování přizpůsobených řešení pro vojenské potřeby pomocí technologie 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Printing",
+      "DrukArmy",
+      "Ukraine"
+    ]
+  },
+  {
+    "title": "Výzkumníci vyvinuli systém pro řízení v reálném čase pro 3D tisk termosetových polymerů",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/researchers-develop-real-time-control-system-for-3d-printing-of-thermosetting-polymers/\" target=\"_blank\">Researchers Develop Real-Time Control System for 3D Printing of Thermosetting Polymers</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">August 18</span></div><div><img alt=\"Researchers Develop Real-Time Control System for 3D Printing of Thermosetting Polymers\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/6387847874-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/6387847874-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2025-08-18T11:29:07+00:00",
+    "url": "https://3dprinting.com/news/researchers-develop-real-time-control-system-for-3d-printing-of-thermosetting-polymers/",
+    "title_en": "Researchers Develop Real-Time Control System for 3D Printing of Thermosetting Polymers",
+    "summary_bullets_en": [
+      "Researchers have created a real-time control system for 3D printing thermosetting polymers.",
+      "The system enhances precision and efficiency in the 3D printing process.",
+      "This advancement could lead to improved applications in industries requiring high-performance materials."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vytvořili systém pro řízení v reálném čase pro 3D tisk termosetových polymerů.",
+      "Systém zvyšuje přesnost a efektivitu procesu 3D tisku.",
+      "Tento pokrok by mohl vést ke zlepšení aplikací v průmyslech vyžadujících vysoce výkonné materiály."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Thermosetting Polymers"
+    ]
+  },
+  {
+    "title": "Nový 3D tištěný implantát od MIT by mohl zabránit nebezpečným poklesům hladiny cukru v krvi",
+    "summary": "Your seat at the Additive Manufacturing Advantage awaits! Register free for&#160;AMA: Energy&#160;and&#160;AMA: Automotive &#38; Mobility. Researchers from Massachusetts Institute of Technology (MIT) have developed a small implant that can be triggered to release glucagon, a hormone used to raise blood sugar. Published in Nature Biomedical Engineering, the device is intended to provide backup protection for [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/MIT-Emergency-Drug-Delivery-01-press_0-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-18T10:18:26+00:00",
+    "url": "https://3dprintingindustry.com/news/mits-new-3d-printed-implant-could-prevent-dangerous-blood-sugar-crashes-243200/?utm_source=rss&utm_medium=rss&utm_campaign=mits-new-3d-printed-implant-could-prevent-dangerous-blood-sugar-crashes",
+    "title_en": "MIT’s new 3D printed implant could prevent dangerous blood sugar crashes",
+    "summary_bullets_en": [
+      "MIT researchers have developed a 3D printed implant that can release glucagon to raise blood sugar levels.",
+      "The device is designed to provide backup protection against hypoglycemia.",
+      "The research has been published in Nature Biomedical Engineering."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z MIT vyvinuli 3D tištěný implantát, který může uvolňovat glukagon ke zvýšení hladiny cukru v krvi.",
+      "Zařízení je navrženo jako záložní ochrana proti hypoglykémii.",
+      "Výzkum byl publikován v časopise Nature Biomedical Engineering."
+    ],
+    "tags": [
+      "Hardware",
+      "MIT",
+      "3D Printing",
+      "Biomedical Engineering"
+    ]
+  },
+  {
+    "title": "Komunita Mueller vidí nové 3D tištěné domy ICON za méně než 200 000 USD",
+    "summary": "Your seat at the Additive Manufacturing Advantage awaits! Register free for&#160;AMA: Energy&#160;and&#160;AMA: Automotive &#38; Mobility. Texas-based construction 3D printing company ICON has released three one-bedroom homes for sale in Austin’s Mueller community through the Mueller Affordable Homes Program.&#160; Each 650 to 651 square-foot residence forms part of a larger development that will also bring nearly [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/ICON_Homes_Mueller_AffordableHomesProgram_July31_c-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-18T09:06:33+00:00",
+    "url": "https://3dprintingindustry.com/news/mueller-community-sees-new-icon-3d-printed-homes-priced-under-200k-243185/?utm_source=rss&utm_medium=rss&utm_campaign=mueller-community-sees-new-icon-3d-printed-homes-priced-under-200k",
+    "title_en": "Mueller community sees new ICON 3D printed homes priced under $200K",
+    "summary_bullets_en": [
+      "ICON, a Texas-based construction 3D printing company, has launched three one-bedroom homes in Austin's Mueller community.",
+      "These homes are part of the Mueller Affordable Homes Program and are priced under $200,000.",
+      "Each home measures between 650 to 651 square feet.",
+      "The development is part of a larger project aimed at providing affordable housing."
+    ],
+    "summary_bullets_cs": [
+      "Texaská stavební společnost ICON představila tři jednopokojové domy v komunitě Mueller v Austinu.",
+      "Tyto domy jsou součástí programu dostupného bydlení Mueller a jejich cena je pod 200 000 USD.",
+      "Každý dům má rozlohu mezi 650 až 651 čtverečními stopami.",
+      "Výstavba je součástí většího projektu zaměřeného na poskytování dostupného bydlení."
+    ],
+    "tags": [
+      "Hardware",
+      "ICON",
+      "3D Printing",
+      "Affordable Housing",
+      "Construction"
+    ]
+  },
+  {
+    "title": "America Makes pořádá dosud největší MMX, podporuje inovace AM pro obranu a průmysl",
+    "summary": "The 13th Annual Members Meeting and Exchange (MMX), hosted by America Makes—the National Additive Manufacturing Innovation Institute—took place August 5–6 in Canfield, OH. Nearly 420 participants from the Department of Defense (DoD), academia, and industry attended, making it the largest MMX to date. The program focused on advancing additive manufacturing (AM) through collaboration and knowledge [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/MMX-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-18T09:06:15+00:00",
+    "url": "https://3dprintingindustry.com/news/america-makes-hosts-largest-mmx-yet-driving-am-innovation-for-defense-and-industry-243171/?utm_source=rss&utm_medium=rss&utm_campaign=america-makes-hosts-largest-mmx-yet-driving-am-innovation-for-defense-and-industry",
+    "title_en": "America Makes Hosts Largest MMX Yet, Driving AM Innovation for Defense and Industry",
+    "summary_bullets_en": [
+      "The 13th Annual Members Meeting and Exchange (MMX) was hosted by America Makes in Canfield, OH.",
+      "Nearly 420 participants from the Department of Defense, academia, and industry attended.",
+      "The event focused on advancing additive manufacturing through collaboration and knowledge sharing."
+    ],
+    "summary_bullets_cs": [
+      "13. výroční setkání a výměna členů (MMX) se konala pod záštitou America Makes v Canfield, OH.",
+      "Zúčastnilo se téměř 420 účastníků z Ministerstva obrany, akademické sféry a průmyslu.",
+      "Program se zaměřil na pokrok v aditivní výrobě prostřednictvím spolupráce a sdílení znalostí."
+    ],
+    "tags": [
+      "Hardware",
+      "America Makes",
+      "Additive Manufacturing",
+      "Defense",
+      "Industry"
+    ]
+  },
+  {
+    "title": "Univerzita ve Waterloo získala 10,9 milionu dolarů na spuštění iniciativy HI-AM 2.0 v oblasti aditivní výroby",
+    "summary": "The Canadian public research university, University of Waterloo, has secured $10.9 million in grants from the Natural Sciences and Engineering Research Council of Canada (NSERC) and Mitacs,&#160; along with additional support from industry partners in aerospace, automotive, and energy,&#160; to launch the Holistic Innovation in Additive Manufacturing (HI-AM 2.0) project.&#160; The initiative is designed to [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/DSC07104-1200x800-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-18T09:05:10+00:00",
+    "url": "https://3dprintingindustry.com/news/university-of-waterloo-secures-10-9m-to-launch-hi-am-2-0-additive-manufacturing-initiative-243179/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-waterloo-secures-10-9m-to-launch-hi-am-2-0-additive-manufacturing-initiative",
+    "title_en": "University of Waterloo Secures $10.9M to Launch HI-AM 2.0 Additive Manufacturing Initiative",
+    "summary_bullets_en": [
+      "The University of Waterloo has received $10.9 million in grants for the HI-AM 2.0 project.",
+      "Funding comes from NSERC, Mitacs, and industry partners in aerospace, automotive, and energy.",
+      "The HI-AM 2.0 initiative focuses on advancing additive manufacturing technologies."
+    ],
+    "summary_bullets_cs": [
+      "Univerzita ve Waterloo obdržela 10,9 milionu dolarů na projekt HI-AM 2.0.",
+      "Financování pochází od NSERC, Mitacs a průmyslových partnerů v letectví, automobilovém a energetickém sektoru.",
+      "Iniciativa HI-AM 2.0 se zaměřuje na pokrok v technologiích aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "University of Waterloo",
+      "NSERC",
+      "Mitacs",
+      "Aerospace",
+      "Automotive",
+      "Energy"
+    ]
+  },
+  {
+    "title": "Continuous Composites získává kontrakt od letectva na pokrok v simulaci CF3D",
+    "summary": "Continuous Composites (CCI), a developer of composite 3D printing technologies, has received a $1.9 million Tactical Funding Increase (TACFI) contract from the U.S. Air Force to create a Finite Element Analysis (FEA) tool for Continuous Fiber 3D Printing (CF3D). The project, which began in November 2024 and will run through August 2026, is designed to [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/FEA-Heat-Map-1024x622-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-18T09:04:14+00:00",
+    "url": "https://3dprintingindustry.com/news/continuous-composites-wins-air-force-contract-to-advance-cf3d-simulation-243175/?utm_source=rss&utm_medium=rss&utm_campaign=continuous-composites-wins-air-force-contract-to-advance-cf3d-simulation",
+    "title_en": "Continuous Composites Wins Air Force Contract to Advance CF3D Simulation",
+    "summary_bullets_en": [
+      "Continuous Composites (CCI) has secured a $1.9 million contract from the U.S. Air Force.",
+      "The contract aims to develop a Finite Element Analysis (FEA) tool for Continuous Fiber 3D Printing (CF3D).",
+      "The project will run from November 2024 to August 2026."
+    ],
+    "summary_bullets_cs": [
+      "Continuous Composites (CCI) získala kontrakt ve výši 1,9 milionu dolarů od amerického letectva.",
+      "Cílem kontraktu je vyvinout nástroj pro analýzu metodou konečných prvků (FEA) pro 3D tisk s kontinuálními vlákny (CF3D).",
+      "Projekt bude probíhat od listopadu 2024 do srpna 2026."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Continuous Composites",
+      "U.S. Air Force",
+      "CF3D"
+    ]
+  },
+  {
     "title": "Tisk s účelem: Saber Data spolupracuje s 3DPrinterOS na bezplatné pomoci neziskovým organizacím",
     "summary": "Nothing warms my heart more than the 3D printing community coming together to help others. Technology and IT services firm Saber Data, a division of the TyRex Group of advanced...",
     "image": "https://3dprint.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-at-8.31.50 PM-300x174.png",
