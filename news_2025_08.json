@@ -1,5 +1,32 @@
 [
   {
+    "title": "Proč „globální nastavení“ nefunguje v kovovém aditivním výrobě",
+    "summary": "RECODE.AM #12",
+    "image": "https://substackcdn.com/image/fetch/$s_!ss4v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d76195e-8cda-4f4c-ba14-0f345fd8c204_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-08-20T19:01:45+00:00",
+    "url": "https://www.3dprintingjournal.com/p/why-global-settings-dont-work-in",
+    "title_en": "Why 'global settings' don’t work in metal AM",
+    "summary_bullets_en": [
+      "Global settings in metal additive manufacturing (AM) often fail due to the complexity and variability of metal materials.",
+      "Each metal AM process requires specific parameters tailored to the material and desired outcome.",
+      "Standardized settings can lead to suboptimal results and increased costs in metal AM."
+    ],
+    "summary_bullets_cs": [
+      "Globální nastavení v kovové aditivní výrobě často selhává kvůli složitosti a variabilitě kovových materiálů.",
+      "Každý proces kovové aditivní výroby vyžaduje specifické parametry přizpůsobené materiálu a požadovanému výsledku.",
+      "Standardizovaná nastavení mohou vést k neoptimálním výsledkům a zvýšeným nákladům v kovové aditivní výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Metal AM",
+      "UltiMaker",
+      "Nikon SLM Solutions",
+      "HP"
+    ]
+  },
+  {
     "title": "Nové 3D tiskárny Yumi C Series nabízejí nízkonákladový vícebarevný tisk s omezením odpadu",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/923547068/0/fabbaloo/default~New-Yumi-C-Series-D-Printers-Offer-LowCost-Multicolor-Printing-with-Reduced-Waste\" rel=\"nofollow\" title=\"New Yumi C Series 3D Printers Offer Low-Cost Multicolor Printing with Reduced Waste\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/lumi-c-series-cover-300x160.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new 3D printer has appeared on Kickstarter: the Yumi C series.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/923547068/0/fabbaloo/default~New-Yumi-C-Series-D-Printers-Offer-LowCost-Multicolor-Printing-with-Reduced-Waste\" rel=\"nofollow\">New Yumi C Series 3D Printers Offer Low-Cost Multicolor Printing with Reduced Waste</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/lumi-c-series-cover-300x160.jpg",
