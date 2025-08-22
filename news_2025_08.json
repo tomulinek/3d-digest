@@ -29,6 +29,84 @@
     ]
   },
   {
+    "title": "RECENZE: Podnikové 3D tisk s více materiály s Bambu Lab H2D Pro",
+    "summary": "In this article, we review the  Bambu Lab H2D Pro, the company’s latest professional entry into high-temperature, multi-material FFF 3D printing. At the heart of this new machine is the Bambu Vision Encoder, an optical feedback system that delivers closed-loop motion correction for improved dimensional accuracy at speed, a feature rarely seen in desktop FFF [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/Featured-image-shows-the-Bambu-Lab-H2D-Pro.-Photo-by-3D-Printing-Industry-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-08-21T16:17:06+00:00",
+    "url": "https://3dprintingindustry.com/news/review-multi-material-enterprise-ready-3d-printing-with-the-bambu-lab-h2d-pro-243423/?utm_source=rss&utm_medium=rss&utm_campaign=review-multi-material-enterprise-ready-3d-printing-with-the-bambu-lab-h2d-pro",
+    "title_en": "REVIEW: Multi-Material Enterprise-Ready 3D Printing With the Bambu Lab H2D Pro",
+    "summary_bullets_en": [
+      "The Bambu Lab H2D Pro is a professional-grade 3D printer designed for high-temperature, multi-material FFF printing.",
+      "It features the Bambu Vision Encoder, an optical feedback system for closed-loop motion correction, enhancing dimensional accuracy.",
+      "This technology is uncommon in desktop FFF printers, setting the H2D Pro apart in terms of precision and speed."
+    ],
+    "summary_bullets_cs": [
+      "Bambu Lab H2D Pro je profesionální 3D tiskárna navržená pro vysokoteplotní tisk s více materiály metodou FFF.",
+      "Obsahuje Bambu Vision Encoder, optický zpětnovazební systém pro korekci pohybu v uzavřené smyčce, který zlepšuje rozměrovou přesnost.",
+      "Tato technologie je u stolních FFF tiskáren vzácná, což odlišuje H2D Pro z hlediska přesnosti a rychlosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing",
+      "Multi-Material",
+      "High-Temperature"
+    ]
+  },
+  {
+    "title": "AgniKul získává americký patent na nový jednodílný 3D tištěný motor z Inconelu",
+    "summary": "Your seat at the Additive Manufacturing Advantage awaits! Register free for AMA: Energy and AMA: Automotive &#38; Mobility. Chennai-based private space startup AgniKul Cosmos has 3D printed what it claims to be the world’s largest single-piece 3D printed Inconel rocket engine, which has also received a US patent.&#160; Measuring about one meter in length, the engine is printed [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/1754538142106-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-21T14:21:46+00:00",
+    "url": "https://3dprintingindustry.com/news/agnikul-wins-us-patent-for-its-new-single-piece-3d-printed-inconel-engine-243417/?utm_source=rss&utm_medium=rss&utm_campaign=agnikul-wins-us-patent-for-its-new-single-piece-3d-printed-inconel-engine",
+    "title_en": "AgniKul wins US patent for its new single-piece 3D printed Inconel engine",
+    "summary_bullets_en": [
+      "AgniKul Cosmos, a private space startup based in Chennai, has developed a 3D printed Inconel rocket engine.",
+      "The engine is claimed to be the world's largest single-piece 3D printed Inconel engine.",
+      "The engine measures about one meter in length and has received a US patent."
+    ],
+    "summary_bullets_cs": [
+      "AgniKul Cosmos, soukromý vesmírný startup se sídlem v Chennai, vyvinul 3D tištěný raketový motor z Inconelu.",
+      "Motor je označován jako největší jednodílný 3D tištěný motor z Inconelu na světě.",
+      "Motor měří přibližně jeden metr na délku a získal americký patent."
+    ],
+    "tags": [
+      "Hardware",
+      "AgniKul Cosmos",
+      "3D Printing",
+      "Inconel",
+      "Space Technology"
+    ]
+  },
+  {
+    "title": "Soud schválil prodej německých a japonských jednotek ExOne přidružené společnosti Anzu Partners",
+    "summary": "Your seat at the Additive Manufacturing Advantage awaits! Register free for&#160;AMA: Energy&#160;and&#160;AMA: Automotive &#38; Mobility. US-based industrial technology investor Anzu Partners’ affiliate has received court approval to acquire ExOne GmbH in Germany and ExOne KK in Japan. The ruling was issued without objection and is not expected to face any appeals. For customers, suppliers, and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/Exone-HQ-Europe-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-08-21T14:21:18+00:00",
+    "url": "https://3dprintingindustry.com/news/court-approves-sale-of-exones-german-and-japanese-units-to-anzu-partners-affiliate-243410/?utm_source=rss&utm_medium=rss&utm_campaign=court-approves-sale-of-exones-german-and-japanese-units-to-anzu-partners-affiliate",
+    "title_en": "Court Approves Sale of ExOne’s German and Japanese Units to Anzu Partners’ Affiliate",
+    "summary_bullets_en": [
+      "Anzu Partners' affiliate has received court approval to acquire ExOne GmbH in Germany and ExOne KK in Japan.",
+      "The court ruling was issued without objection and is not expected to face any appeals.",
+      "The acquisition involves ExOne's operations in Germany and Japan."
+    ],
+    "summary_bullets_cs": [
+      "Přidružená společnost Anzu Partners získala soudní schválení k akvizici ExOne GmbH v Německu a ExOne KK v Japonsku.",
+      "Soudní rozhodnutí bylo vydáno bez námitek a neočekává se, že by bylo napadeno odvoláním.",
+      "Akvizice zahrnuje operace ExOne v Německu a Japonsku."
+    ],
+    "tags": [
+      "Hardware",
+      "ExOne",
+      "Anzu Partners",
+      "Germany",
+      "Japan"
+    ]
+  },
+  {
     "title": "Mintion Heat Insert Press Kit zjednodušuje vkládání kovových komponentů do 3D tisků",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/923592779/0/fabbaloo/default~Mintion-Heat-Insert-Press-Kit-Simplifies-Embedding-Metal-Components-in-D-Prints\" rel=\"nofollow\" title=\"Mintion Heat Insert Press Kit Simplifies Embedding Metal Components in 3D Prints\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/mintion-press-cover-300x236.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Mintion has developed a unique 3D printer accessory that I haven’t seen before.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/923592779/0/fabbaloo/default~Mintion-Heat-Insert-Press-Kit-Simplifies-Embedding-Metal-Components-in-D-Prints\" rel=\"nofollow\">Mintion Heat Insert Press Kit Simplifies Embedding Metal Components in 3D Prints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/mintion-press-cover-300x236.jpg",
@@ -267,6 +345,32 @@
       "Hypersonics",
       "University of Arizona",
       "U.S. Army"
+    ]
+  },
+  {
+    "title": "Převrat v britském vesmíru: Co znamená reforma UKSA pro 3D tisk ve vesmíru",
+    "summary": "The UK government has announced that the UK Space Agency (UKSA) will be absorbed into the Department for Science, Innovation and Technology (DSIT) by April 2026. The decision is framed...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/08/s300_UKSA-merger_govuk.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-21T07:00:30+00:00",
+    "url": "https://3dprint.com/320160/uk-space-shake-up-what-the-uksa-reform-means-for-3d-printing-in-space/",
+    "title_en": "UK Space Shake-Up: What the UKSA Reform Means for 3D Printing in Space",
+    "summary_bullets_en": [
+      "The UK government plans to integrate the UK Space Agency into the Department for Science, Innovation and Technology by April 2026.",
+      "This reform aims to streamline space-related activities and enhance the UK's capabilities in space technology.",
+      "The integration could have significant implications for 3D printing technology used in space exploration and development."
+    ],
+    "summary_bullets_cs": [
+      "Britská vláda plánuje do dubna 2026 začlenit UK Space Agency do Ministerstva pro vědu, inovace a technologie.",
+      "Tato reforma má za cíl zefektivnit aktivity spojené s vesmírem a posílit schopnosti Spojeného království v oblasti vesmírné technologie.",
+      "Integrace by mohla mít významné dopady na technologii 3D tisku používanou při průzkumu a rozvoji vesmíru."
+    ],
+    "tags": [
+      "Hardware",
+      "UK Space Agency",
+      "3D Printing",
+      "Space Technology",
+      "Department for Science Innovation and Technology"
     ]
   },
   {
