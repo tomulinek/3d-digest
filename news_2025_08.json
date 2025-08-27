@@ -1,5 +1,348 @@
 [
   {
+    "title": "Nový biotištěný model mozkových cév napodobuje aterosklerotický tok pro testování léků",
+    "summary": "Pusan National University (PNU) has unveiled a 3D bioprinted brain vessel model that replicates stenosis and pathological flow, enabling lab studies of atherosclerosis-linked inflammation. The work, led by Prof. Byoung Soo Kim with collaborators at POSTECH, uses an embedded coaxial bioprinting method and a reinforced ECM-based bioink to create perfusable conduits with controlled narrowing. The [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/Adv-Funct-Materials-2025-Park-Embedded-3D‐Coaxial-Bioprinting-of-Stenotic-Brain-Vessels-with-a-Mechanically-Enhanced-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-27T18:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/new-bioprinted-brain-vessel-model-replicates-atherosclerotic-flow-for-drug-testing-243665/?utm_source=rss&utm_medium=rss&utm_campaign=new-bioprinted-brain-vessel-model-replicates-atherosclerotic-flow-for-drug-testing",
+    "title_en": "New bioprinted brain vessel model replicates atherosclerotic flow for drug testing",
+    "summary_bullets_en": [
+      "Pusan National University has developed a 3D bioprinted brain vessel model that mimics stenosis and pathological flow.",
+      "The model allows for laboratory studies of atherosclerosis-linked inflammation.",
+      "The project was led by Prof. Byoung Soo Kim in collaboration with POSTECH.",
+      "An embedded coaxial bioprinting method and reinforced ECM-based bioink were used to create perfusable conduits with controlled narrowing."
+    ],
+    "summary_bullets_cs": [
+      "Pusanská národní univerzita představila 3D biotištěný model mozkových cév, který napodobuje stenózu a patologický tok.",
+      "Model umožňuje laboratorní studie zánětů spojených s aterosklerózou.",
+      "Práce byla vedena profesorem Byoung Soo Kimem ve spolupráci s POSTECH.",
+      "Použitá metoda zahrnuje vložený koaxiální biotisk a zesílený bioinkoust na bázi ECM pro vytvoření průchodných kanálků s kontrolovaným zúžením."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Bioprinting",
+      "Pusan National University",
+      "POSTECH",
+      "Atherosclerosis",
+      "Biomedical Research"
+    ]
+  },
+  {
+    "title": "Swiss Steel Group představuje drát UGIWAM pro aditivní výrobu",
+    "summary": "Swiss Steel Group, a global producer of special long steel products headquartered in Emmenbrücke, Switzerland, has presented UGIWAM, a wire designed for wire arc additive manufacturing (WAAM). Developed by its French subsidiary Ugitech, the product is intended to deliver customized alloys with precise control over composition and performance for applications across aerospace, energy, defense, and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/250804_Welding_additive_manufacturing_in_progress-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-08-27T17:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/swiss-steel-group-introduces-ugiwam-wire-for-additive-manufacturing-243640/?utm_source=rss&utm_medium=rss&utm_campaign=swiss-steel-group-introduces-ugiwam-wire-for-additive-manufacturing",
+    "title_en": "Swiss Steel Group introduces UGIWAM wire for additive manufacturing",
+    "summary_bullets_en": [
+      "Swiss Steel Group has launched UGIWAM, a wire designed for wire arc additive manufacturing (WAAM).",
+      "The wire is developed by Ugitech, a French subsidiary of Swiss Steel Group.",
+      "UGIWAM aims to provide customized alloys with precise control over composition and performance.",
+      "The product targets applications in aerospace, energy, and defense industries."
+    ],
+    "summary_bullets_cs": [
+      "Swiss Steel Group uvedla na trh UGIWAM, drát navržený pro aditivní výrobu pomocí obloukového tisku (WAAM).",
+      "Drát byl vyvinut francouzskou dceřinou společností Ugitech.",
+      "UGIWAM má za cíl poskytovat přizpůsobené slitiny s přesnou kontrolou složení a výkonu.",
+      "Produkt je zaměřen na aplikace v leteckém, energetickém a obranném průmyslu."
+    ],
+    "tags": [
+      "Material",
+      "Swiss Steel Group",
+      "Ugitech",
+      "Aerospace",
+      "Energy",
+      "Defense"
+    ]
+  },
+  {
+    "title": "Bambu Lab náhle představuje Vortek, indukční extruzní systém bez odpadu z čištění",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/923916380/0/fabbaloo/default~Bambu-Lab-Suddenly-Unveils-Vortek-an-Induction-Extrusion-System-with-No-Purge-Waste\" rel=\"nofollow\" title=\"Bambu Lab Suddenly Unveils Vortek, an Induction Extrusion System with No Purge Waste\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/vortek-cover-300x220.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Surprise! Bambu Lab suddenly announced an entirely new extrusion system, Vortek, that does not poop!</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/923916380/0/fabbaloo/default~Bambu-Lab-Suddenly-Unveils-Vortek-an-Induction-Extrusion-System-with-No-Purge-Waste\" rel=\"nofollow\">Bambu Lab Suddenly Unveils Vortek, an Induction Extrusion System with No Purge Waste</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/vortek-cover-300x220.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-08-27T16:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/923916380/0/fabbaloo/default~Bambu-Lab-Suddenly-Unveils-Vortek-an-Induction-Extrusion-System-with-No-Purge-Waste",
+    "title_en": "Bambu Lab Suddenly Unveils Vortek, an Induction Extrusion System with No Purge Waste",
+    "summary_bullets_en": [
+      "Bambu Lab has announced a new extrusion system called Vortek.",
+      "The Vortek system uses induction technology.",
+      "It eliminates purge waste during the extrusion process."
+    ],
+    "summary_bullets_cs": [
+      "Bambu Lab oznámil nový extruzní systém nazvaný Vortek.",
+      "Systém Vortek využívá indukční technologii.",
+      "Eliminuje odpad z čištění během procesu extruze."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "Extrusion",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Velo3D se připojuje k iniciativě americké armády pro pokročilou aditivní výrobu hliníku",
+    "summary": "Velo3D, an AM technology company specializing in mission-critical metal parts, has announced its participation in the U.S. Army Combat Capabilities Development Command Aviation &#38; Missile Center (DEVCOM AvMC) and Manufacturing &#38; Sustainment (M&#38;S) initiative. The program aims to develop high-throughput, cost-efficient AM methods for Aluminum CP1 to support defense applications. Partnership Establishes Scalable AM Processes [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2021/01/1_Rendering-of-a-Sapphire®-factory_Courtesy-of-VELO3D-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-27T16:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/velo3d-joins-u-s-army-initiative-to-advance-aluminum-additive-manufacturing-243632/?utm_source=rss&utm_medium=rss&utm_campaign=velo3d-joins-u-s-army-initiative-to-advance-aluminum-additive-manufacturing",
+    "title_en": "Velo3D Joins U.S. Army Initiative to Advance Aluminum Additive Manufacturing",
+    "summary_bullets_en": [
+      "Velo3D is collaborating with the U.S. Army's DEVCOM AvMC and M&S initiative.",
+      "The program focuses on developing high-throughput, cost-efficient AM methods for Aluminum CP1.",
+      "The partnership aims to support defense applications with scalable AM processes."
+    ],
+    "summary_bullets_cs": [
+      "Velo3D spolupracuje s iniciativou DEVCOM AvMC a M&S americké armády.",
+      "Program se zaměřuje na vývoj vysoce výkonných a nákladově efektivních metod aditivní výroby pro hliník CP1.",
+      "Partnerství má za cíl podpořit obranné aplikace škálovatelnými procesy aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Velo3D",
+      "U.S. Army",
+      "Additive Manufacturing",
+      "Aluminum"
+    ]
+  },
+  {
+    "title": "Nike Air Max 1000 od Zellerfeldu dokazuje tržní poptávku po plně 3D tištěných botách",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/923912924/0/fabbaloo/default~Nike-Air-Max-by-Zellerfeld-Proves-Market-Demand-for-Fully-D-Printed-Shoes\" rel=\"nofollow\" title=\"Nike Air Max 1000 by Zellerfeld Proves Market Demand for Fully 3D Printed Shoes\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/zellerfeld-nike-cover-300x135.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Zellerfeld’s new Nike shoe has sold out, and that tells us something about the future of 3D-printed footwear.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/923912924/0/fabbaloo/default~Nike-Air-Max-by-Zellerfeld-Proves-Market-Demand-for-Fully-D-Printed-Shoes\" rel=\"nofollow\">Nike Air Max 1000 by Zellerfeld Proves Market Demand for Fully 3D Printed Shoes</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/zellerfeld-nike-cover-300x135.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-08-27T15:01:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/923912924/0/fabbaloo/default~Nike-Air-Max-by-Zellerfeld-Proves-Market-Demand-for-Fully-D-Printed-Shoes",
+    "title_en": "Nike Air Max 1000 by Zellerfeld Proves Market Demand for Fully 3D Printed Shoes",
+    "summary_bullets_en": [
+      "Zellerfeld's new Nike Air Max 1000 shoes have sold out quickly.",
+      "The success indicates a strong market demand for fully 3D-printed footwear.",
+      "This development suggests a promising future for 3D printing technology in the footwear industry."
+    ],
+    "summary_bullets_cs": [
+      "Nové boty Nike Air Max 1000 od Zellerfeldu se rychle vyprodaly.",
+      "Úspěch naznačuje silnou tržní poptávku po plně 3D tištěné obuvi.",
+      "Tento vývoj naznačuje slibnou budoucnost technologie 3D tisku v obuvnickém průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Nike",
+      "Zellerfeld",
+      "3D Printing",
+      "Footwear"
+    ]
+  },
+  {
+    "title": "DLA zvyšuje bezpečnost testování rukavic na letecké palivo pomocí nové 3D tištěné „náhradní ruky“",
+    "summary": "Your seat at the Additive Manufacturing Advantage awaits! Register free for AMA: Energy and AMA: Automotive &#38; Mobility. The Defense Logistics Agency (DLA) Troop Support’s Product Test Center (PTC) Analytical has turned to 3D printing to make glove testing safer for its staff.&#160; Engineers at the center have developed a printed model hand that mimics the movements of [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/image-3-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-27T13:59:25+00:00",
+    "url": "https://3dprintingindustry.com/news/dla-makes-jet-fuel-glove-testing-safer-with-new-3d-printed-surrogate-hand-243586/?utm_source=rss&utm_medium=rss&utm_campaign=dla-makes-jet-fuel-glove-testing-safer-with-new-3d-printed-surrogate-hand",
+    "title_en": "DLA makes jet fuel glove testing safer with new 3D printed “surrogate hand”",
+    "summary_bullets_en": [
+      "The Defense Logistics Agency (DLA) Troop Support’s Product Test Center (PTC) Analytical has adopted 3D printing technology.",
+      "Engineers have developed a 3D printed model hand to improve safety during glove testing.",
+      "The surrogate hand mimics human hand movements to provide more accurate testing results."
+    ],
+    "summary_bullets_cs": [
+      "Agentura pro obrannou logistiku (DLA) Troop Support’s Product Test Center (PTC) Analytical využila technologii 3D tisku.",
+      "Inženýři vyvinuli 3D tištěný model ruky pro zvýšení bezpečnosti při testování rukavic.",
+      "Náhradní ruka napodobuje pohyby lidské ruky pro přesnější výsledky testování."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Defense Logistics Agency",
+      "Safety",
+      "Glove Testing"
+    ]
+  },
+  {
+    "title": "Jak by Creality mohlo zprovoznit Nexbie a zvýšit hodnotu IPO",
+    "summary": "Our recent analysis of the Creality IPO and valuation of the 3D printing company highlights Nexbie as a potential pivot opportunity, which may alleviate the challenge of razor/blade economics. As noted in that previous article, legacy deskop 3D printer users are often shrewd when it comes to shopping for value, on materials, machines and the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/How-Nexbie-fits-in-the-Creality-ecosystem.-Image-via-Creality-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-08-27T13:35:52+00:00",
+    "url": "https://3dprintingindustry.com/news/how-creality-could-make-nexbie-work-and-increase-ipo-valuation-243691/?utm_source=rss&utm_medium=rss&utm_campaign=how-creality-could-make-nexbie-work-and-increase-ipo-valuation",
+    "title_en": "How Creality Could Make Nexbie Work and Increase IPO Valuation",
+    "summary_bullets_en": [
+      "Creality's IPO valuation could benefit from leveraging Nexbie as a strategic pivot.",
+      "Nexbie may help address the challenges of the razor/blade economic model in 3D printing.",
+      "Legacy desktop 3D printer users are often savvy in seeking value for materials and machines."
+    ],
+    "summary_bullets_cs": [
+      "Hodnota IPO společnosti Creality by mohla těžit z využití Nexbie jako strategického obratu.",
+      "Nexbie může pomoci řešit výzvy ekonomického modelu břitva/žiletka v 3D tisku.",
+      "Uživatelé starších stolních 3D tiskáren často hledají hodnotu v materiálech a strojích."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "3D Printing",
+      "IPO",
+      "Nexbie"
+    ]
+  },
+  {
+    "title": "Novinky z 3D tisku, 27. srpna 2025: Vedoucí pracovníci, chlazení mikroelektroniky a další",
+    "summary": "We&#8217;ll focus on business in today&#8217;s 3D Printing News Briefs, starting with 3D Systems&#8217; new Chief Financial Officer and the expansions to Carbon&#8217;s global leadership team. Titomic sold a D623...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/08/phyllis-nordstrom_.avif",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-27T13:30:37+00:00",
+    "url": "https://3dprint.com/320257/3d-printing-news-briefs-8-27-2025/",
+    "title_en": "3D Printing News Briefs, August 27, 2025: Executives, Microelectronic Cooling, & More",
+    "summary_bullets_en": [
+      "3D Systems has appointed a new Chief Financial Officer.",
+      "Carbon has expanded its global leadership team.",
+      "Titomic has sold a D623 system."
+    ],
+    "summary_bullets_cs": [
+      "3D Systems jmenovala nového finančního ředitele.",
+      "Carbon rozšířil svůj globální vedoucí tým.",
+      "Titomic prodal systém D623."
+    ],
+    "tags": [
+      "Business",
+      "3D Systems",
+      "Carbon",
+      "Titomic",
+      "Executives"
+    ]
+  },
+  {
+    "title": "Hyperion Systems získává federální grant na rozšíření průmyslové platformy pro 3D tisk",
+    "summary": "Hyperion Systems, a Western Australian start-up founded by 27-year-old robotics engineer Josh Wigley, has secured a $385,000 matched-funding grant through the Australian Government’s Innovation Growth Program. The award is intended to help commercialise what the company calls Australia’s first turnkey industrial 3D printing platform, a modular system capable of manufacturing large-scale parts for marine, construction, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/9364661b985f9f6fc1d993c07e75d63b-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-27T13:11:49+00:00",
+    "url": "https://3dprintingindustry.com/news/hyperion-systems-secures-federal-grant-to-scale-industrial-3d-printing-platform-243656/?utm_source=rss&utm_medium=rss&utm_campaign=hyperion-systems-secures-federal-grant-to-scale-industrial-3d-printing-platform",
+    "title_en": "Hyperion Systems secures federal grant to scale industrial 3D printing platform",
+    "summary_bullets_en": [
+      "Hyperion Systems, a start-up from Western Australia, has received a $385,000 grant from the Australian Government.",
+      "The grant is part of the Innovation Growth Program and requires matched funding.",
+      "The funding will help commercialise Australia's first turnkey industrial 3D printing platform.",
+      "The platform is designed to manufacture large-scale parts for industries like marine and construction."
+    ],
+    "summary_bullets_cs": [
+      "Hyperion Systems, start-up ze Západní Austrálie, získal grant ve výši 385 000 dolarů od australské vlády.",
+      "Grant je součástí programu Innovation Growth Program a vyžaduje spolufinancování.",
+      "Financování pomůže komercializovat první australskou průmyslovou platformu pro 3D tisk na klíč.",
+      "Platforma je navržena pro výrobu velkorozměrových dílů pro odvětví jako je námořní a stavební průmysl."
+    ],
+    "tags": [
+      "Hardware",
+      "Hyperion Systems",
+      "3D Printing",
+      "Innovation Growth Program",
+      "Australia"
+    ]
+  },
+  {
+    "title": "Výzkumníci zkoumají 3D tištěné mřížkové struktury pro termoelektrická zařízení",
+    "summary": "Spyridon N. Katsantonis of the National Technical University of Athens and Christos Tsamis of NCSR “Demokritos” have published a review in the Journal of Materials Chemistry A on the use of 3D printed lattice structures in thermoelectric devices. Published on July 25, 2025, the paper highlights how additive manufacturing (AM) can unlock new designs for [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/d5ta01722j-1-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-27T13:10:41+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-review-3d-printed-lattice-structures-for-thermoelectric-devices-243677/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-review-3d-printed-lattice-structures-for-thermoelectric-devices",
+    "title_en": "Researchers review 3D printed lattice structures for thermoelectric devices",
+    "summary_bullets_en": [
+      "The review by Spyridon N. Katsantonis and Christos Tsamis explores the potential of 3D printed lattice structures in thermoelectric devices.",
+      "Published in the Journal of Materials Chemistry A, the paper discusses how additive manufacturing can enable innovative designs.",
+      "The study emphasizes the role of 3D printing in enhancing the efficiency and performance of thermoelectric devices."
+    ],
+    "summary_bullets_cs": [
+      "Recenze od Spyridona N. Katsantonise a Christose Tsamise se zabývá potenciálem 3D tištěných mřížkových struktur v termoelektrických zařízeních.",
+      "Publikováno v časopise Journal of Materials Chemistry A, článek diskutuje, jak aditivní výroba může umožnit inovativní návrhy.",
+      "Studie zdůrazňuje roli 3D tisku při zvyšování účinnosti a výkonu termoelektrických zařízení."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Thermoelectric Devices",
+      "National Technical University of Athens",
+      "NCSR Demokritos"
+    ]
+  },
+  {
+    "title": "Creality a Tencent oznamují nové partnerství v oblasti AI",
+    "summary": "Shenzhen-based 3D printer manufacturer Creality has formed a new strategic partnership with Tencent (00700.HK), the Chinese tech giant behind WeChat and some of the world’s most popular video games. Through the collaboration, Creality will integrate its AI modeling platform, MakeNow, with Tencent’s large foundation model, Hunyuan.&#160; By leveraging Hunyuan 3D V2.5, the model’s latest version, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/The-Creality-Logo-on-a-building.-Image-via-Creality-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-27T13:09:38+00:00",
+    "url": "https://3dprintingindustry.com/news/creality-and-tencent-announce-new-ai-partnership-243692/?utm_source=rss&utm_medium=rss&utm_campaign=creality-and-tencent-announce-new-ai-partnership",
+    "title_en": "Creality and Tencent Announce New AI Partnership",
+    "summary_bullets_en": [
+      "Creality, a 3D printer manufacturer, has partnered with Tencent, a major Chinese tech company.",
+      "The collaboration will integrate Creality's AI modeling platform, MakeNow, with Tencent's Hunyuan model.",
+      "Hunyuan 3D V2.5, the latest version of Tencent's model, will be leveraged in this partnership."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce 3D tiskáren Creality uzavřel partnerství s čínskou technologickou společností Tencent.",
+      "Spolupráce zahrnuje integraci AI modelovací platformy MakeNow od Creality s modelem Hunyuan od Tencentu.",
+      "V rámci tohoto partnerství bude využita nejnovější verze modelu Hunyuan 3D V2.5 od Tencentu."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Creality",
+      "Tencent"
+    ]
+  },
+  {
+    "title": "Korejský vývojář materiálů pro 3D tisk Graphy vstupuje na burzu",
+    "summary": "Korean vat polymerization materials developer Graphy, founded in 2017, has gone public. Graphy develops innovative resins for OEMs and offers products such as shape memory resins and directly 3D printed...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/08/graphy2-1024x683.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-27T13:00:03+00:00",
+    "url": "https://3dprint.com/320309/korean-graphy-goes-public/",
+    "title_en": "Korean 3D Printing Materials Developer Graphy Goes Public",
+    "summary_bullets_en": [
+      "Graphy, a Korean company specializing in vat polymerization materials, has gone public.",
+      "Founded in 2017, Graphy is known for developing innovative resins for OEMs.",
+      "The company offers products such as shape memory resins and directly 3D printed materials."
+    ],
+    "summary_bullets_cs": [
+      "Graphy, korejská společnost specializující se na materiály pro polymerizaci ve vaně, vstoupila na burzu.",
+      "Společnost byla založena v roce 2017 a je známá vývojem inovativních pryskyřic pro OEM.",
+      "Nabízí produkty jako pryskyřice s pamětí tvaru a materiály pro přímý 3D tisk."
+    ],
+    "tags": [
+      "Material",
+      "Graphy",
+      "3D Printing",
+      "Resins"
+    ]
+  },
+  {
+    "title": "Stává se „ohniodolnost“ novým marketingovým úhlem pro 3DCP?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/923902217/0/fabbaloo/default~Is-%e2%80%9cFire-Rated%e2%80%9d-Becoming-a-New-Marketing-Angle-for-DCP\" rel=\"nofollow\" title=\"Is “Fire Rated” Becoming a New Marketing Angle for 3DCP?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/fire-rated-cover-300x187.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>I’ve noticed something interesting appearing in some stories and promotions for 3DCP applications.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/923902217/0/fabbaloo/default~Is-%e2%80%9cFire-Rated%e2%80%9d-Becoming-a-New-Marketing-Angle-for-DCP\" rel=\"nofollow\">Is “Fire Rated” Becoming a New Marketing Angle for 3DCP?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/fire-rated-cover-300x187.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-08-27T12:54:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/923902217/0/fabbaloo/default~Is-%e2%80%9cFire-Rated%e2%80%9d-Becoming-a-New-Marketing-Angle-for-DCP",
+    "title_en": "Is “Fire Rated” Becoming a New Marketing Angle for 3DCP?",
+    "summary_bullets_en": [
+      "The concept of 'fire rated' is emerging in marketing for 3D concrete printing (3DCP) applications.",
+      "This trend suggests a focus on safety and durability in 3DCP projects.",
+      "The term 'fire rated' could become a significant selling point in the industry."
+    ],
+    "summary_bullets_cs": [
+      "Koncept 'ohniodolnosti' se objevuje v marketingu aplikací pro 3D tisk betonu (3DCP).",
+      "Tento trend naznačuje zaměření na bezpečnost a odolnost v projektech 3DCP.",
+      "Termín 'ohniodolnost' by se mohl stát významným prodejním argumentem v tomto odvětví."
+    ],
+    "tags": [
+      "Hardware",
+      "3DCP",
+      "Marketing",
+      "Fire Rated"
+    ]
+  },
+  {
     "title": "Dopady a scénáře IPO společnosti Creality",
     "summary": "Creality is slated to go public on the Hong Kong stock exchange. The value-engineered desktop Material Extrusion maker has branched out. It now makes sophisticated K1 and K2 desktop systems,...",
     "image": "https://3dprint.com/wp-content/uploads/2023/08/creality-Ender-3-V3-SE-3D-printer-front-angle-scaled.jpg",
