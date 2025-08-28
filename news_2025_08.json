@@ -1,5 +1,110 @@
 [
   {
+    "title": "Farsoon a Stark Future ověřují sériovou výrobu titanu s projektem Klinga",
+    "summary": "Chinese 3D printer manufacturer Farsoon Technologies has partnered with Spanish electric motorcycle company Stark Future to validate the series production of titanium components through additive manufacturing. Announced as the Klinga Project, the collaboration aims to industrialize lightweight, high-strength parts for Stark’s electric motorcycles, including the flagship Stark VARG model. The project demonstrates how titanium 3D [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/KLINGA-Sabre-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-28T12:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/farsoon-and-stark-future-validate-titanium-series-production-with-klinga-project-243579/?utm_source=rss&utm_medium=rss&utm_campaign=farsoon-and-stark-future-validate-titanium-series-production-with-klinga-project",
+    "title_en": "Farsoon and Stark Future validate titanium series production with Klinga Project",
+    "summary_bullets_en": [
+      "Farsoon Technologies partners with Stark Future to validate titanium component production via 3D printing.",
+      "The Klinga Project focuses on industrializing lightweight, high-strength parts for electric motorcycles.",
+      "The collaboration aims to enhance the production of components for Stark's flagship model, the Stark VARG."
+    ],
+    "summary_bullets_cs": [
+      "Farsoon Technologies spolupracuje se Stark Future na ověření výroby titanových komponentů pomocí 3D tisku.",
+      "Projekt Klinga se zaměřuje na industrializaci lehkých a vysoce pevných dílů pro elektrické motocykly.",
+      "Spolupráce má za cíl zlepšit výrobu komponentů pro vlajkový model Stark, Stark VARG."
+    ],
+    "tags": [
+      "Hardware",
+      "Farsoon Technologies",
+      "Stark Future",
+      "3D Printing",
+      "Titanium",
+      "Electric Motorcycles"
+    ]
+  },
+  {
+    "title": "Renesance reaktorů: Francie spojuje jadernou odbornost s inovací 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/923957624/0/fabbaloo/default~Reactor-Renaissance-France-Blends-Nuclear-Expertise-with-D-Printing-Innovation\" rel=\"nofollow\" title=\"Reactor Renaissance: France Blends Nuclear Expertise with 3D Printing Innovation\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/FranNuc1-300x300.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi spotlight how France’s world-leading nuclear sector is harnessing 3D printing to modernize aging infrastructure, accelerate reactor development, and drive global energy innovation.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/923957624/0/fabbaloo/default~Reactor-Renaissance-France-Blends-Nuclear-Expertise-with-D-Printing-Innovation\" rel=\"nofollow\">Reactor Renaissance: France Blends Nuclear Expertise with 3D Printing Innovation</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/FranNuc1-300x300.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-08-28T11:16:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/923957624/0/fabbaloo/default~Reactor-Renaissance-France-Blends-Nuclear-Expertise-with-D-Printing-Innovation",
+    "title_en": "Reactor Renaissance: France Blends Nuclear Expertise with 3D Printing Innovation",
+    "summary_bullets_en": [
+      "France is leveraging its leading nuclear sector to integrate 3D printing technology.",
+      "3D printing is being used to modernize aging nuclear infrastructure.",
+      "The technology accelerates reactor development and enhances global energy innovation."
+    ],
+    "summary_bullets_cs": [
+      "Francie využívá své přední postavení v jaderném sektoru k integraci technologie 3D tisku.",
+      "3D tisk se používá k modernizaci stárnoucí jaderné infrastruktury.",
+      "Technologie urychluje vývoj reaktorů a posiluje globální energetické inovace."
+    ],
+    "tags": [
+      "Hardware",
+      "Nuclear",
+      "3D Printing",
+      "Innovation",
+      "France"
+    ]
+  },
+  {
+    "title": "Oak Ridge National Laboratory spouští „nejpokročilejší“ datovou sadu pro monitorování 3D tisku",
+    "summary": "The US Department of Energy (DoE)’s Oak Ridge National Laboratory (ORNL) has unveiled its “most advanced dataset to date,” designed to improve quality control in laser powder bed fusion (L-PBF) additive manufacturing. Named the Peregrine dataset, it links real-time printing observations with final part performance, offering insight into defect formation and process outcomes.  Produced at [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/image-3-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-28T09:58:04+00:00",
+    "url": "https://3dprintingindustry.com/news/oak-ridge-national-laboratory-launches-most-advanced-dataset-for-3d-printing-monitoring-243726/?utm_source=rss&utm_medium=rss&utm_campaign=oak-ridge-national-laboratory-launches-most-advanced-dataset-for-3d-printing-monitoring",
+    "title_en": "Oak Ridge National Laboratory Launches “Most Advanced” Dataset for 3D Printing Monitoring",
+    "summary_bullets_en": [
+      "Oak Ridge National Laboratory (ORNL) has released its most advanced dataset for improving quality control in laser powder bed fusion (L-PBF) additive manufacturing.",
+      "The dataset, named Peregrine, connects real-time printing observations with the final performance of parts.",
+      "Peregrine provides insights into defect formation and process outcomes in 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Oak Ridge National Laboratory (ORNL) zveřejnila svou nejpokročilejší datovou sadu pro zlepšení kontroly kvality v aditivní výrobě pomocí laserového tavení práškového lože (L-PBF).",
+      "Datová sada, nazvaná Peregrine, propojuje pozorování tisku v reálném čase s konečným výkonem dílů.",
+      "Peregrine poskytuje vhled do tvorby defektů a výsledků procesů v 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Oak Ridge National Laboratory",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Laser Powder Bed Fusion"
+    ]
+  },
+  {
+    "title": "Creality podává prospekt IPO pro zařazení na hongkongskou burzu",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/creality-submits-ipo-prospectus-for-hong-kong-stock-exchange-listing/\" target=\"_blank\">Creality Submits IPO Prospectus for Hong Kong Stock Exchange Listing</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">August 28</span></div><div><img alt=\"Creality Submits IPO Prospectus for Hong Kong Stock Exchange Listing\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"480\" src=\"https://3dprinting.com/wp-content/uploads/64879884-500x480.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/64879884-500x480.webp",
+    "source": "3DPrinting.com",
+    "published": "2025-08-28T09:00:26+00:00",
+    "url": "https://3dprinting.com/news/creality-submits-ipo-prospectus-for-hong-kong-stock-exchange-listing/",
+    "title_en": "Creality Submits IPO Prospectus for Hong Kong Stock Exchange Listing",
+    "summary_bullets_en": [
+      "Creality has submitted an IPO prospectus to be listed on the Hong Kong Stock Exchange.",
+      "The company is a well-known manufacturer in the 3D printing industry.",
+      "This move is expected to help Creality expand its market presence and raise capital."
+    ],
+    "summary_bullets_cs": [
+      "Creality podala prospekt IPO pro zařazení na hongkongskou burzu.",
+      "Společnost je známým výrobcem v odvětví 3D tisku.",
+      "Tento krok by měl pomoci Creality rozšířit její tržní přítomnost a získat kapitál."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "3D Printing",
+      "IPO",
+      "Hong Kong Stock Exchange"
+    ]
+  },
+  {
     "title": "Nový biotištěný model mozkových cév napodobuje aterosklerotický tok pro testování léků",
     "summary": "Pusan National University (PNU) has unveiled a 3D bioprinted brain vessel model that replicates stenosis and pathological flow, enabling lab studies of atherosclerosis-linked inflammation. The work, led by Prof. Byoung Soo Kim with collaborators at POSTECH, uses an embedded coaxial bioprinting method and a reinforced ECM-based bioink to create perfusable conduits with controlled narrowing. The [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/Adv-Funct-Materials-2025-Park-Embedded-3D‐Coaxial-Bioprinting-of-Stenotic-Brain-Vessels-with-a-Mechanically-Enhanced-150x100.jpeg",
