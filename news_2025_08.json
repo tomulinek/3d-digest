@@ -1,5 +1,351 @@
 [
   {
+    "title": "Leibnizova univerzita v Hannoveru vyvíjí metodu 3D tisku pro mikrogravitaci",
+    "summary": "A research team at Leibniz University Hannover in Germany has developed what is described as the world’s first flexible 3D printing process that uses metal powder to manufacture and repair components under microgravity conditions. Producing and repairing metal components efficiently in microgravity has historically been challenging due to the complexity of handling metal powders, but [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/csm_8b512e442d8ddc2a1c0a5dd54f5cd648cf805bee-fp-16-9-0-0_581fb2377a-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-28T18:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/leibniz-university-hannover-develops-3d-printing-method-for-microgravity-243709/?utm_source=rss&utm_medium=rss&utm_campaign=leibniz-university-hannover-develops-3d-printing-method-for-microgravity",
+    "title_en": "Leibniz University Hannover Develops 3D Printing Method for Microgravity",
+    "summary_bullets_en": [
+      "Researchers at Leibniz University Hannover have created a flexible 3D printing process for microgravity.",
+      "The method uses metal powder to manufacture and repair components in space.",
+      "Handling metal powders in microgravity has been historically challenging."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Leibnizovy univerzity v Hannoveru vytvořili flexibilní proces 3D tisku pro mikrogravitaci.",
+      "Metoda využívá kovový prášek k výrobě a opravě komponentů ve vesmíru.",
+      "Manipulace s kovovými prášky v mikrogravitaci byla historicky náročná."
+    ],
+    "tags": [
+      "Hardware",
+      "Leibniz University Hannover",
+      "3D Printing",
+      "Microgravity",
+      "Metal Powder"
+    ]
+  },
+  {
+    "title": "Pokroky v 3D tisku posouvají vývoj svalové tkáně na čipu",
+    "summary": "Researchers at Chongqing Medical University in China and the Chinese University of Hong Kong have published a comprehensive review on the use of 3D printing in skeletal muscle-on-a-chip (SMoC) systems. The paper, appearing in ScienceDirect, highlights how printing methods are being applied to fabricate microfluidic devices, arrange muscle fibers, and create biomimetic scaffolds for studying [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/Construction-of-SMoC-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-28T17:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printing-advances-skeletal-muscle-on-a-chip-development-243755/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printing-advances-skeletal-muscle-on-a-chip-development",
+    "title_en": "3D printing advances skeletal muscle-on-a-chip development",
+    "summary_bullets_en": [
+      "Researchers from Chongqing Medical University and the Chinese University of Hong Kong reviewed the use of 3D printing in skeletal muscle-on-a-chip systems.",
+      "The study highlights the application of 3D printing methods to fabricate microfluidic devices and arrange muscle fibers.",
+      "3D printing is also used to create biomimetic scaffolds for advanced study of muscle tissue."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Chongqing Medical University a Čínské univerzity v Hongkongu publikovali přehled o využití 3D tisku v systémech svalové tkáně na čipu.",
+      "Studie zdůrazňuje aplikaci metod 3D tisku pro výrobu mikrofluidních zařízení a uspořádání svalových vláken.",
+      "3D tisk je také využíván k vytváření biomimetických scaffoldů pro pokročilé studium svalové tkáně."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Skeletal Muscle-on-a-Chip",
+      "Biomimetic Scaffolds",
+      "Microfluidic Devices"
+    ]
+  },
+  {
+    "title": "Od AMS k Vortek: Proč mohou být výměníky filamentů na konci své cesty",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/923977871/0/fabbaloo/default~From-AMS-to-Vortek-Why-Filament-Swappers-May-Be-Reaching-the-End-of-the-Line\" rel=\"nofollow\" title=\"From AMS to Vortek: Why Filament Swappers May Be Reaching the End of the Line\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/swapper-over-cover-1-300x169.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Recent surprises from 3D printer manufacturers are tipping over established machine designs.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/923977871/0/fabbaloo/default~From-AMS-to-Vortek-Why-Filament-Swappers-May-Be-Reaching-the-End-of-the-Line\" rel=\"nofollow\">From AMS to Vortek: Why Filament Swappers May Be Reaching the End of the Line</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/swapper-over-cover-1-300x169.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-08-28T16:47:16+00:00",
+    "url": "https://feeds.fabbaloo.com/~/923977871/0/fabbaloo/default~From-AMS-to-Vortek-Why-Filament-Swappers-May-Be-Reaching-the-End-of-the-Line",
+    "title_en": "From AMS to Vortek: Why Filament Swappers May Be Reaching the End of the Line",
+    "summary_bullets_en": [
+      "Recent innovations in 3D printing are challenging traditional filament swapping mechanisms.",
+      "New technologies are emerging that could replace the need for filament swappers.",
+      "Manufacturers are introducing advanced systems that streamline the printing process."
+    ],
+    "summary_bullets_cs": [
+      "Nedávné inovace v 3D tisku zpochybňují tradiční mechanismy výměny filamentů.",
+      "Objevují se nové technologie, které by mohly nahradit potřebu výměníků filamentů.",
+      "Výrobci představují pokročilé systémy, které zjednodušují proces tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "AMS",
+      "Vortek"
+    ]
+  },
+  {
+    "title": "Americké letectvo udělilo společnosti 3D Systems 7,65 milionu dolarů na pokročilý demonstrátor kovového 3D tisku",
+    "summary": "U.S. 3D printer manufacturer 3D Systems has been awarded a $7.65 million contract by the U.S. Air Force to advance its Large-format Metal 3D Printer Advanced Technology Demonstrator (GEN-IIDMP-1000). The two-year contract continues an existing program that began in 2023, aimed at developing AM capabilities for producing large, high-temperature metal structures suited to high-speed flight [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2023/12/3D-Systems-SLS-300-ecosystem.-Photo-by-Michael-Petch-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-28T16:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/u-s-air-force-awards-3d-systems-7-65-million-for-advanced-metal-am-demonstrator-243718/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-air-force-awards-3d-systems-7-65-million-for-advanced-metal-am-demonstrator",
+    "title_en": "U.S. Air Force Awards 3D Systems $7.65 Million for Advanced Metal AM Demonstrator",
+    "summary_bullets_en": [
+      "3D Systems has received a $7.65 million contract from the U.S. Air Force.",
+      "The contract is for the development of the Large-format Metal 3D Printer Advanced Technology Demonstrator.",
+      "The project aims to enhance additive manufacturing capabilities for large, high-temperature metal structures.",
+      "This initiative is part of an ongoing program that started in 2023."
+    ],
+    "summary_bullets_cs": [
+      "Společnost 3D Systems získala od amerického letectva kontrakt ve výši 7,65 milionu dolarů.",
+      "Kontrakt je určen na vývoj pokročilého technologického demonstrátoru velkoformátového kovového 3D tiskárny.",
+      "Projekt má za cíl zlepšit schopnosti aditivní výroby pro velké kovové struktury odolné vůči vysokým teplotám.",
+      "Tato iniciativa je součástí probíhajícího programu, který začal v roce 2023."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Systems",
+      "U.S. Air Force",
+      "Additive Manufacturing",
+      "Metal 3D Printing"
+    ]
+  },
+  {
+    "title": "3DQue řeší správu cívek AMS pro tiskové farmy Bambu Lab",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/923972939/0/fabbaloo/default~DQue-Solves-AMS-Spool-Management-for-Bambu-Lab-Print-Farms\" rel=\"nofollow\" title=\"3DQue Solves AMS Spool Management for Bambu Lab Print Farms\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/3dque-auto-mapping-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>3DQue just solved a growing issue on large 3D print farms.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/923972939/0/fabbaloo/default~DQue-Solves-AMS-Spool-Management-for-Bambu-Lab-Print-Farms\" rel=\"nofollow\">3DQue Solves AMS Spool Management for Bambu Lab Print Farms</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/3dque-auto-mapping-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-08-28T15:02:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/923972939/0/fabbaloo/default~DQue-Solves-AMS-Spool-Management-for-Bambu-Lab-Print-Farms",
+    "title_en": "3DQue Solves AMS Spool Management for Bambu Lab Print Farms",
+    "summary_bullets_en": [
+      "3DQue has addressed a significant issue in large 3D print farms.",
+      "The solution focuses on improving AMS spool management for Bambu Lab printers.",
+      "This advancement is expected to enhance efficiency and reduce downtime in print operations."
+    ],
+    "summary_bullets_cs": [
+      "3DQue vyřešilo významný problém ve velkých 3D tiskových farmách.",
+      "Řešení se zaměřuje na zlepšení správy cívek AMS pro tiskárny Bambu Lab.",
+      "Tento pokrok by měl zvýšit efektivitu a snížit prostoje v tiskových operacích."
+    ],
+    "tags": [
+      "Hardware",
+      "3DQue",
+      "Bambu Lab",
+      "Print Farms"
+    ]
+  },
+  {
+    "title": "3D tištěné BioShelters: Inženýři z UNSW obnovují ústřicové habitaty v přístavu Sydney",
+    "summary": "A team of computational designers at UNSW Sydney’s School of Built Environment is creating 3D printed reef structures called BioShelters to support the recovery of oyster populations in Blackwattle Bay and surrounding areas of Sydney Harbour. Funded by the government-owned corporation Landcom and the NSW Government the project applies advanced computational methods from architecture to [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/2025-05-28-3d-bio-shelters-sh01-0293-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-28T15:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printed-bioshelters-unsw-engineers-restore-oyster-habitats-in-sydney-harbour-243721/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-bioshelters-unsw-engineers-restore-oyster-habitats-in-sydney-harbour",
+    "title_en": "3D Printed BioShelters: UNSW Engineers Restore Oyster Habitats in Sydney Harbour",
+    "summary_bullets_en": [
+      "UNSW Sydney's School of Built Environment is developing 3D printed reef structures called BioShelters.",
+      "The project aims to support the recovery of oyster populations in Blackwattle Bay and surrounding areas of Sydney Harbour.",
+      "The initiative is funded by Landcom and the NSW Government.",
+      "Advanced computational methods from architecture are applied in the project."
+    ],
+    "summary_bullets_cs": [
+      "Škola pro stavěné prostředí UNSW Sydney vyvíjí 3D tištěné útesové struktury nazvané BioShelters.",
+      "Projekt má za cíl podpořit obnovu populací ústřic v Blackwattle Bay a okolních oblastech přístavu Sydney.",
+      "Iniciativa je financována společností Landcom a vládou NSW.",
+      "V projektu jsou aplikovány pokročilé výpočetní metody z architektury."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "UNSW Sydney",
+      "BioShelters",
+      "Oyster Habitats",
+      "Sydney Harbour"
+    ]
+  },
+  {
+    "title": "Univerzita Duisburg-Essen dokončila studii LPBF, vytvořila novou otevřenou datovou sadu",
+    "summary": "Over the past six years, researchers at the German University of Duisburg-Essen (UDE) have focused on refining both the printing processes and the powders used in laser powder bed fusion (LPBF). The German Research Foundation (DFG)-funded priority program Materials for Additive Manufacturing (SPP 2122) has now successfully concluded, providing a comprehensive reference for both academic [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/2025-08-19-goldkolloid-c-anna-ziefuss-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-08-28T14:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/university-of-duisburg-essen-concludes-lpbf-study-producing-new-open-dataset-243555/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-duisburg-essen-concludes-lpbf-study-producing-new-open-dataset",
+    "title_en": "University of Duisburg-Essen Concludes LPBF Study, Producing New Open Dataset",
+    "summary_bullets_en": [
+      "Researchers at the University of Duisburg-Essen have completed a six-year study on laser powder bed fusion (LPBF).",
+      "The study focused on improving printing processes and powders used in LPBF.",
+      "The project was funded by the German Research Foundation under the Materials for Additive Manufacturing program.",
+      "The study has resulted in a comprehensive open dataset for academic and industrial use."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Univerzity Duisburg-Essen dokončili šestiletou studii o laserovém tavení práškového lože (LPBF).",
+      "Studie se zaměřila na zlepšení tiskových procesů a prášků používaných v LPBF.",
+      "Projekt byl financován Německou výzkumnou nadací v rámci programu Materiály pro aditivní výrobu.",
+      "Studie vedla k vytvoření komplexní otevřené datové sady pro akademické a průmyslové využití."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "University of Duisburg-Essen",
+      "LPBF",
+      "German Research Foundation"
+    ]
+  },
+  {
+    "title": "Letectvo udělilo 3D Systems kontrakt za 7,65 milionu dolarů na pokračování práce na velkoformátové kovové 3D tiskárně",
+    "summary": "Back in September 2023, the U.S. Air Force Research Laboratory (AFRL) awarded 3D Systems a contract worth nearly $11 million to develop a large-format metal additive manufacturing (AM) demonstrator, a...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/08/IMG_1845.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-28T13:30:20+00:00",
+    "url": "https://3dprint.com/320347/air-force-awards-3d-systems-7-65m-contract-to-continue-work-on-large-format-metal-3d-printer/",
+    "title_en": "Air Force Awards 3D Systems $7.65M Contract to Continue Work on Large Format Metal 3D Printer",
+    "summary_bullets_en": [
+      "The U.S. Air Force Research Laboratory awarded 3D Systems a $7.65 million contract.",
+      "The contract is for the continued development of a large-format metal additive manufacturing demonstrator.",
+      "This follows a previous contract worth nearly $11 million awarded in September 2023."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumná laboratoř amerického letectva udělila 3D Systems kontrakt ve výši 7,65 milionu dolarů.",
+      "Kontrakt je určen na pokračování vývoje velkoformátového demonstrátoru kovového aditivního výrobního procesu.",
+      "Tento kontrakt navazuje na předchozí kontrakt v hodnotě téměř 11 milionů dolarů udělený v září 2023."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Systems",
+      "U.S. Air Force",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Obchodní případ pro Binder Jet v nejistém světě: Foxconn v kurníku, část 5",
+    "summary": "In this series, we&#8217;ve looked at how we came to be deluded and how binder jet technology could grow. We&#8217;ve explored the players in the industry and where binder jet...",
+    "image": "https://3dprint.com/wp-content/uploads/2016/03/3dp_geomagic_lattice.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-28T13:00:03+00:00",
+    "url": "https://3dprint.com/319907/the-business-case-for-binder-jet-in-an-uncertain-world-a-foxconn-in-the-henhouse-part-5/",
+    "title_en": "The Business Case for Binder Jet in an Uncertain World: A Foxconn in the Henhouse, Part 5",
+    "summary_bullets_en": [
+      "The article examines the potential growth of binder jet technology in the current uncertain economic climate.",
+      "It discusses the industry's key players and their roles in the development of binder jet technology.",
+      "The series highlights how misconceptions about the technology have evolved and what the future might hold."
+    ],
+    "summary_bullets_cs": [
+      "Článek zkoumá potenciální růst technologie binder jet v současném nejistém ekonomickém prostředí.",
+      "Diskutuje o klíčových hráčích v průmyslu a jejich rolích ve vývoji technologie binder jet.",
+      "Série zdůrazňuje, jak se vyvinuly mylné představy o technologii a co by mohla přinést budoucnost."
+    ],
+    "tags": [
+      "Hardware",
+      "Binder Jet",
+      "Foxconn",
+      "Industry Growth",
+      "Economic Climate"
+    ]
+  },
+  {
+    "title": "V Coloradu debutují ohnivzdorné 3D tištěné domy",
+    "summary": "Two fire-resistant houses have been built in Buena Vista, Colorado, using 3D printed concrete walls rated at the highest level of fire safety. Each 1,100-square-foot property was developed by VeroTouch, a construction technology company founded in Colorado in 2023, in collaboration with COBOD International, a Danish supplier of industrial-scale 3D printers for construction. The concrete [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/Each-of-the-two-3D-printed-homes-covers-1100-sq.-ft.-102-m²-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-08-28T13:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/fire-resistant-3d-printed-homes-debut-in-colorado-243567/?utm_source=rss&utm_medium=rss&utm_campaign=fire-resistant-3d-printed-homes-debut-in-colorado",
+    "title_en": "Fire-Resistant 3D Printed Homes Debut in Colorado",
+    "summary_bullets_en": [
+      "Two fire-resistant houses have been constructed in Buena Vista, Colorado.",
+      "The homes feature 3D printed concrete walls with the highest fire safety rating.",
+      "Developed by VeroTouch in collaboration with COBOD International.",
+      "Each property is 1,100 square feet in size."
+    ],
+    "summary_bullets_cs": [
+      "V Buena Vista v Coloradu byly postaveny dva ohnivzdorné domy.",
+      "Domy mají 3D tištěné betonové stěny s nejvyšším hodnocením požární bezpečnosti.",
+      "Vyvinuto společností VeroTouch ve spolupráci s COBOD International.",
+      "Každá nemovitost má rozlohu 1 100 čtverečních stop."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Construction",
+      "VeroTouch",
+      "COBOD International"
+    ]
+  },
+  {
+    "title": "PHA ECO GOODS poskytuje cenově dostupný biologicky rozložitelný PHA filament",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/923961701/0/fabbaloo/default~PHA-ECO-GOODS-Provides-Affordable-Biodegradable-PHA-Filament\" rel=\"nofollow\" title=\"PHA ECO GOODS Provides Affordable Biodegradable PHA Filament\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/pha-eco-goods-cover-300x227.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There’s another source for PHA 3D printer filament.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/923961701/0/fabbaloo/default~PHA-ECO-GOODS-Provides-Affordable-Biodegradable-PHA-Filament\" rel=\"nofollow\">PHA ECO GOODS Provides Affordable Biodegradable PHA Filament</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/pha-eco-goods-cover-300x227.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-08-28T13:00:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/923961701/0/fabbaloo/default~PHA-ECO-GOODS-Provides-Affordable-Biodegradable-PHA-Filament",
+    "title_en": "PHA ECO GOODS Provides Affordable Biodegradable PHA Filament",
+    "summary_bullets_en": [
+      "PHA ECO GOODS introduces a new source of biodegradable PHA filament for 3D printing.",
+      "The filament is designed to be affordable, making sustainable 3D printing more accessible.",
+      "PHA filaments are known for their eco-friendly properties, breaking down naturally over time."
+    ],
+    "summary_bullets_cs": [
+      "PHA ECO GOODS představuje nový zdroj biologicky rozložitelného PHA filamentu pro 3D tisk.",
+      "Filament je navržen tak, aby byl cenově dostupný, což zpřístupňuje udržitelný 3D tisk.",
+      "PHA filamenty jsou známé svými ekologickými vlastnostmi, přirozeně se časem rozkládají."
+    ],
+    "tags": [
+      "Material",
+      "PHA ECO GOODS",
+      "Biodegradable",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Od nápadu k otisku: HILOS a 3D tištěné boty",
+    "summary": "The world of 3D printed footwear is moving beyond experiments. What was once a niche hub of design and prototyping is beginning to show signs of becoming a real market,...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/08/250518_HILOS_ANCUTA_GRID_01162-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-28T12:33:49+00:00",
+    "url": "https://3dprint.com/320258/from-idea-to-footprint-hilos-and-3d-printed-shoes/",
+    "title_en": "From Idea to Footprint: HILOS and 3D Printed Shoes",
+    "summary_bullets_en": [
+      "3D printed footwear is transitioning from experimental designs to a viable market.",
+      "HILOS is at the forefront of this shift, showcasing the potential of 3D printing in the shoe industry.",
+      "The technology allows for customizable, sustainable, and efficient shoe production.",
+      "This innovation could redefine how shoes are designed, manufactured, and consumed."
+    ],
+    "summary_bullets_cs": [
+      "3D tištěná obuv se posouvá od experimentálních návrhů k reálnému trhu.",
+      "HILOS je v čele tohoto posunu a ukazuje potenciál 3D tisku v obuvnickém průmyslu.",
+      "Technologie umožňuje přizpůsobitelnou, udržitelnou a efektivní výrobu obuvi.",
+      "Tato inovace by mohla redefinovat, jak jsou boty navrhovány, vyráběny a spotřebovávány."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Footwear",
+      "HILOS",
+      "Sustainability"
+    ]
+  },
+  {
+    "title": "Vaše kariéra, vaše data: Role transparentnosti platů v aditivní výrobě",
+    "summary": "For engineers, technicians, salespeople, and business leaders in additive manufacturing, compensation transparency has never been more important. In an industry that continues to evolve at a breakneck pace, understanding your...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/08/Image-2.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-08-28T12:05:13+00:00",
+    "url": "https://3dprint.com/320215/your-career-your-data-the-role-of-salary-transparency-in-am/",
+    "title_en": "Your Career, Your Data: The Role of Salary Transparency in AM",
+    "summary_bullets_en": [
+      "Salary transparency is crucial for professionals in additive manufacturing to understand their market value.",
+      "The rapidly evolving industry demands clear compensation structures to attract and retain talent.",
+      "Transparency helps in bridging the gender pay gap and promotes fairness in the workplace.",
+      "Understanding compensation trends can guide career decisions and negotiations."
+    ],
+    "summary_bullets_cs": [
+      "Transparentnost platů je klíčová pro profesionály v aditivní výrobě, aby pochopili svou tržní hodnotu.",
+      "Rychle se vyvíjející odvětví vyžaduje jasné struktury odměňování k přilákání a udržení talentů.",
+      "Transparentnost pomáhá překlenout rozdíly v odměňování mezi pohlavími a podporuje spravedlnost na pracovišti.",
+      "Pochopení trendů v odměňování může vést kariérní rozhodování a vyjednávání."
+    ],
+    "tags": [
+      "Services",
+      "Additive Manufacturing",
+      "Salary Transparency",
+      "Career Development"
+    ]
+  },
+  {
     "title": "Farsoon a Stark Future ověřují sériovou výrobu titanu s projektem Klinga",
     "summary": "Chinese 3D printer manufacturer Farsoon Technologies has partnered with Spanish electric motorcycle company Stark Future to validate the series production of titanium components through additive manufacturing. Announced as the Klinga Project, the collaboration aims to industrialize lightweight, high-strength parts for Stark’s electric motorcycles, including the flagship Stark VARG model. The project demonstrates how titanium 3D [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/KLINGA-Sabre-150x100.jpg",
