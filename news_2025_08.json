@@ -1002,6 +1002,32 @@
     ]
   },
   {
+    "title": "Proč STEP-AM není kompletním řešením?",
+    "summary": "RECODE.AM #13",
+    "image": "https://substackcdn.com/image/fetch/$s_!9aGs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd353143-3d1a-4aca-aeaf-edee71eeda7e_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-08-27T14:02:34+00:00",
+    "url": "https://www.3dprintingjournal.com/p/why-is-step-am-not-the-complete-solution",
+    "title_en": "Why is STEP-AM not the complete solution?",
+    "summary_bullets_en": [
+      "STEP-AM is a promising technology but faces challenges in standardization and interoperability.",
+      "The technology requires further development to fully integrate with existing manufacturing systems.",
+      "Industry experts highlight the need for collaboration among stakeholders to address current limitations."
+    ],
+    "summary_bullets_cs": [
+      "STEP-AM je slibná technologie, ale čelí výzvám v oblasti standardizace a interoperability.",
+      "Technologie vyžaduje další vývoj pro plnou integraci se stávajícími výrobními systémy.",
+      "Odborníci z průmyslu zdůrazňují potřebu spolupráce mezi zainteresovanými stranami k řešení současných omezení."
+    ],
+    "tags": [
+      "Software",
+      "Standardization",
+      "Interoperability",
+      "Manufacturing",
+      "STEP-AM"
+    ]
+  },
+  {
     "title": "DLA zvyšuje bezpečnost testování rukavic na letecké palivo pomocí nové 3D tištěné „náhradní ruky“",
     "summary": "Your seat at the Additive Manufacturing Advantage awaits! Register free for AMA: Energy and AMA: Automotive &#38; Mobility. The Defense Logistics Agency (DLA) Troop Support’s Product Test Center (PTC) Analytical has turned to 3D printing to make glove testing safer for its staff.&#160; Engineers at the center have developed a printed model hand that mimics the movements of [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/image-3-150x100.jpg",
