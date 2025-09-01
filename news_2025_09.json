@@ -1,5 +1,60 @@
 [
   {
+    "title": "3DPOD 269: AM v Japonsku, software pro AM a více s Peterem Rogersem, Layered Ltd.",
+    "summary": "Peter Rogers is Australian but has worked in Japan since 2009. He has held roles at a Japanese 3D Printing firm, at Velo3D, and at Autodesk. Today, he consults for...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-09-01T12:00:23+00:00",
+    "url": "https://3dprint.com/319989/3dpod-269-am-in-japan-software-for-am-and-more-with-peter-rogers-layered-ltd/",
+    "title_en": "3DPOD 269: AM in Japan, Software for AM, and more with Peter Rogers, Layered Ltd.",
+    "summary_bullets_en": [
+      "Peter Rogers, an Australian expert, has been working in Japan since 2009 in various roles related to 3D printing.",
+      "He has experience with a Japanese 3D printing firm, Velo3D, and Autodesk.",
+      "Currently, he provides consultancy services for 3D printing and additive manufacturing.",
+      "The discussion covers the state of additive manufacturing in Japan and the importance of software in the industry."
+    ],
+    "summary_bullets_cs": [
+      "Peter Rogers, australský odborník, pracuje v Japonsku od roku 2009 na různých pozicích souvisejících s 3D tiskem.",
+      "Má zkušenosti s japonskou firmou na 3D tisk, Velo3D a Autodesk.",
+      "V současnosti poskytuje poradenské služby v oblasti 3D tisku a aditivní výroby.",
+      "Diskuse se zaměřuje na stav aditivní výroby v Japonsku a důležitost softwaru v tomto odvětví."
+    ],
+    "tags": [
+      "Software",
+      "Consulting",
+      "3D Printing",
+      "Velo3D",
+      "Autodesk",
+      "Japan"
+    ]
+  },
+  {
+    "title": "Výzkumníci přezkoumávají pokroky v 3D tisku pro vodní zinkové iontové baterie",
+    "summary": "Researchers from Shenzhen Technology University have published a review highlighting how 3D printing could accelerate the development of aqueous zinc-ion batteries (AZIBs), a promising alternative to lithium-ion systems. The paper, Recent Progress on the Research of 3D Printing in Aqueous Zinc-Ion Batteries, was published in Polymers on August 4, 2025. Join AM leaders and vertical [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/image-3-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-09-01T12:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-review-advances-in-3d-printing-for-aqueous-zinc-ion-batteries-243843/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-review-advances-in-3d-printing-for-aqueous-zinc-ion-batteries",
+    "title_en": "Researchers review advances in 3D printing for aqueous zinc-ion batteries",
+    "summary_bullets_en": [
+      "Researchers from Shenzhen Technology University have reviewed the role of 3D printing in advancing aqueous zinc-ion batteries (AZIBs).",
+      "The study suggests that 3D printing could significantly accelerate the development of AZIBs, offering a promising alternative to lithium-ion batteries.",
+      "The review was published in the journal Polymers on August 4, 2025."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Shenzhen Technology University přezkoumali roli 3D tisku v pokroku vodních zinkových iontových baterií (AZIBs).",
+      "Studie naznačuje, že 3D tisk by mohl významně urychlit vývoj AZIBs, což nabízí slibnou alternativu k lithiovým bateriím.",
+      "Přehled byl publikován v časopise Polymers dne 4. srpna 2025."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Aqueous Zinc-Ion Batteries",
+      "Shenzhen Technology University",
+      "Polymers"
+    ]
+  },
+  {
     "title": "Aktualizace soudního sporu Stratasys vs Bambu Lab: Uvnitř tiché právní bitvy AM",
     "summary": "There has been a new twist in the Stratasys vs Bambu Lab lawsuit. Bambu Lab, a leading manufacturer of desktop FFF 3D printers, has challenged the validity of Stratasys’ patents before the US Patent and Trademark Office’s (USPTO) Patent Trial and Appeal Board (PTAB), opening a new front in the ongoing legal battle. Shenzhen Tuozhu, [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/The-Bambu-Lab-X1E-and-Stratasys-Fortus-450mc.-Image-via-3D--150x100.png",
@@ -934,6 +989,31 @@
       "Zellerfeld",
       "3D Printing",
       "Footwear"
+    ]
+  },
+  {
+    "title": "Proč STEP-AM není kompletním řešením?",
+    "summary": "RECODE.AM #13",
+    "image": "https://substackcdn.com/image/fetch/$s_!9aGs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd353143-3d1a-4aca-aeaf-edee71eeda7e_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-08-27T14:02:34+00:00",
+    "url": "https://www.3dprintingjournal.com/p/why-is-step-am-not-the-complete-solution",
+    "title_en": "Why is STEP-AM not the complete solution?",
+    "summary_bullets_en": [
+      "STEP-AM is a promising technology but faces limitations in scalability and material compatibility.",
+      "The integration of STEP-AM with existing manufacturing processes is challenging.",
+      "There is a need for further research and development to address current technological gaps."
+    ],
+    "summary_bullets_cs": [
+      "STEP-AM je slibná technologie, ale čelí omezením v oblasti škálovatelnosti a kompatibility materiálů.",
+      "Integrace STEP-AM s existujícími výrobními procesy je náročná.",
+      "Je potřeba dalšího výzkumu a vývoje k řešení současných technologických mezer."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "STEP-AM",
+      "Manufacturing"
     ]
   },
   {
