@@ -1,5 +1,140 @@
 [
   {
+    "title": "Aktualizace soudního sporu Stratasys vs Bambu Lab: Uvnitř tiché právní bitvy AM",
+    "summary": "There has been a new twist in the Stratasys vs Bambu Lab lawsuit. Bambu Lab, a leading manufacturer of desktop FFF 3D printers, has challenged the validity of Stratasys’ patents before the US Patent and Trademark Office’s (USPTO) Patent Trial and Appeal Board (PTAB), opening a new front in the ongoing legal battle. Shenzhen Tuozhu, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/The-Bambu-Lab-X1E-and-Stratasys-Fortus-450mc.-Image-via-3D--150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-09-01T09:31:24+00:00",
+    "url": "https://3dprintingindustry.com/news/stratasys-vs-bambu-lab-lawsuit-update-inside-ams-silent-legal-showdown-243862/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-vs-bambu-lab-lawsuit-update-inside-ams-silent-legal-showdown",
+    "title_en": "Stratasys vs Bambu Lab Lawsuit Update: Inside AM’s Silent Legal Showdown",
+    "summary_bullets_en": [
+      "Bambu Lab has challenged the validity of Stratasys' patents at the USPTO's PTAB.",
+      "This move opens a new front in the ongoing legal battle between the two companies.",
+      "The case involves key players in the desktop FFF 3D printer market."
+    ],
+    "summary_bullets_cs": [
+      "Bambu Lab zpochybnil platnost patentů společnosti Stratasys u PTAB USPTO.",
+      "Tento krok otevírá novou frontu v probíhajícím právním sporu mezi oběma společnostmi.",
+      "Případ zahrnuje klíčové hráče na trhu stolních FFF 3D tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "Bambu Lab",
+      "3D Printing",
+      "Legal"
+    ]
+  },
+  {
+    "title": "Údržbové centrum námořnictva používá 3D tisk k nahrazení součástky čerpadla torpédoborce za zlomek běžných nákladů",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/navy-maintenance-center-uses-3d-printing-to-replace-destroyer-pump-component-at-fraction-of-conventional-cost/\" target=\"_blank\">Navy Maintenance Center Uses 3D Printing to Replace Destroyer Pump Component at Fraction of Conventional Cost</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">September 1</span></div><div><img alt=\"Navy Maintenance Center Uses 3D Printing to Replace Destroyer Pump Component at Fraction of Conventional Cost\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/638677974-500x500.jpeg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/638677974-500x500.jpeg",
+    "source": "3DPrinting.com",
+    "published": "2025-09-01T09:20:10+00:00",
+    "url": "https://3dprinting.com/news/navy-maintenance-center-uses-3d-printing-to-replace-destroyer-pump-component-at-fraction-of-conventional-cost/",
+    "title_en": "Navy Maintenance Center Uses 3D Printing to Replace Destroyer Pump Component at Fraction of Conventional Cost",
+    "summary_bullets_en": [
+      "The Navy Maintenance Center has successfully used 3D printing to replace a component of a destroyer's pump.",
+      "This approach significantly reduced the cost compared to traditional manufacturing methods.",
+      "The use of 3D printing also shortened the time required for the replacement process."
+    ],
+    "summary_bullets_cs": [
+      "Údržbové centrum námořnictva úspěšně použilo 3D tisk k nahrazení součástky čerpadla torpédoborce.",
+      "Tento přístup výrazně snížil náklady ve srovnání s tradičními výrobními metodami.",
+      "Použití 3D tisku také zkrátilo dobu potřebnou pro proces výměny."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Navy",
+      "Maintenance"
+    ]
+  },
+  {
+    "title": "Výzkumníci pokročili ve vývoji termolelektrických zařízení pro flexibilní získávání energie pomocí sítotisku",
+    "summary": "Researchers from the Technical University of Darmstadt and the Karlsruhe Institute of Technology (KIT) have achieved a significant breakthrough in flexible energy harvesting by developing fully screen-printed 3D thermoelectric generators (TEGs) with a 3D multi-layer architecture, capable of milliwatt-scale power output. Their work, published in Energy &#38; Environmental Science, demonstrates a scalable additive manufacturing process [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/d5ee01151e-2-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-09-01T09:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-advance-screen-printed-thermoelectric-devices-for-flexible-energy-harvesting-243824/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-advance-screen-printed-thermoelectric-devices-for-flexible-energy-harvesting",
+    "title_en": "Researchers advance screen-printed thermoelectric devices for flexible energy harvesting",
+    "summary_bullets_en": [
+      "Researchers from the Technical University of Darmstadt and KIT have developed fully screen-printed 3D thermoelectric generators.",
+      "These generators feature a 3D multi-layer architecture.",
+      "The devices are capable of producing milliwatt-scale power output.",
+      "The work demonstrates a scalable additive manufacturing process."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Technické univerzity v Darmstadtu a Karlsruhe Institute of Technology vyvinuli plně sítotiskem vyrobené 3D termolelektrické generátory.",
+      "Tyto generátory mají 3D vícevrstvou architekturu.",
+      "Zařízení jsou schopna produkovat výkon v řádu miliwattů.",
+      "Práce demonstruje škálovatelný proces aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Technical University of Darmstadt",
+      "Karlsruhe Institute of Technology",
+      "Energy Harvesting",
+      "3D Printing",
+      "Thermoelectric Generators"
+    ]
+  },
+  {
+    "title": "Energeticky úsporný 3D tisk kovů s pomocí rezonance",
+    "summary": "A new method for metal 3D printing that avoids melting and sharply reduces power consumption has been demonstrated by Reverb Industrial, a California-based developer of advanced manufacturing technologies, in collaboration with Arizona State University. The research, published in MDPI, shows that Resonance-Assisted Deposition (RAD) can fabricate dense aluminum alloy components at machine power levels of [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/The-tool-pathing-strategy-used-for-printing-the-components-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-09-01T08:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/energy-efficient-metal-3d-printing-with-resonance-assisted-deposition-243811/?utm_source=rss&utm_medium=rss&utm_campaign=energy-efficient-metal-3d-printing-with-resonance-assisted-deposition",
+    "title_en": "Energy-Efficient Metal 3D Printing with Resonance-Assisted Deposition",
+    "summary_bullets_en": [
+      "Reverb Industrial and Arizona State University have developed a new metal 3D printing method called Resonance-Assisted Deposition (RAD).",
+      "RAD avoids the need for melting metal, significantly reducing power consumption.",
+      "The method successfully fabricates dense aluminum alloy components.",
+      "The research has been published in MDPI."
+    ],
+    "summary_bullets_cs": [
+      "Reverb Industrial a Arizona State University vyvinuli novou metodu 3D tisku kovů nazvanou Resonance-Assisted Deposition (RAD).",
+      "RAD se vyhýbá potřebě tavení kovu, což výrazně snižuje spotřebu energie.",
+      "Metoda úspěšně vyrábí husté komponenty z hliníkové slitiny.",
+      "Výzkum byl publikován v MDPI."
+    ],
+    "tags": [
+      "Hardware",
+      "Reverb Industrial",
+      "Arizona State University",
+      "3D Printing",
+      "Metal",
+      "Energy Efficiency"
+    ]
+  },
+  {
+    "title": "Firehawk Aerospace dokončila první letový test 3D tištěné hybridní rakety",
+    "summary": "Firehawk Aerospace, a manufacturer of advanced energetics systems for defense, has successfully completed the first flight test of its AM GMLRS-class Firehawk Analog (GFA), a 3D printed hybrid rocket engine system. This demonstration highlights the company’s capability to produce hybrid propulsion systems additively, as part of its ongoing Phase III SBIR contract with the Army [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-2.10.08-PM-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-09-01T07:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/firehawk-aerospace-completes-first-flight-test-of-3d-printed-hybrid-rocket-243800/?utm_source=rss&utm_medium=rss&utm_campaign=firehawk-aerospace-completes-first-flight-test-of-3d-printed-hybrid-rocket",
+    "title_en": "Firehawk Aerospace Completes First Flight Test of 3D Printed Hybrid Rocket",
+    "summary_bullets_en": [
+      "Firehawk Aerospace has successfully conducted the first flight test of its 3D printed hybrid rocket engine system.",
+      "The rocket, named AM GMLRS-class Firehawk Analog (GFA), demonstrates the company's additive manufacturing capabilities.",
+      "This achievement is part of Firehawk's ongoing Phase III SBIR contract with the Army."
+    ],
+    "summary_bullets_cs": [
+      "Firehawk Aerospace úspěšně provedla první letový test svého 3D tištěného hybridního raketového motoru.",
+      "Raketa, nazvaná AM GMLRS-class Firehawk Analog (GFA), ukazuje schopnosti společnosti v oblasti aditivní výroby.",
+      "Tento úspěch je součástí probíhajícího kontraktu Firehawk v rámci fáze III SBIR s armádou."
+    ],
+    "tags": [
+      "Hardware",
+      "Firehawk Aerospace",
+      "3D Printing",
+      "Hybrid Rocket",
+      "Defense"
+    ]
+  },
+  {
     "title": "America Makes a NCDMM zahajují projektovou výzvu AACAMS pro pokrok v CFAM pro obranu",
     "summary": "National additive manufacturing accelerator America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have announced a new open project call, funded by the Air Force Research Laboratory’s Materials and Manufacturing Directorate, with total funding of $450,000.  The initiative, Affordable and Agile Composite Additive Manufactured Structures (AACAMS), is intended to develop comprehensive roadmaps [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2018/11/PHOTO-2018-11-19-14-03-25-150x100.jpg",
@@ -1077,6 +1212,31 @@
     "tags": [
       "Hardware",
       "Creality"
+    ]
+  },
+  {
+    "title": "Sázka na aditivní výrobu",
+    "summary": "AM Survivor #12",
+    "image": "https://substackcdn.com/image/fetch/$s_!rhe0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90eac0ba-4675-4a15-bc95-e9c61d11707c_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-08-22T14:02:51+00:00",
+    "url": "https://www.3dprintingjournal.com/p/the-am-gamble",
+    "title_en": "The AM gamble",
+    "summary_bullets_en": [
+      "The article discusses the challenges and opportunities in the additive manufacturing (AM) industry.",
+      "It highlights the strategies companies are using to survive and thrive in a competitive market.",
+      "The focus is on the latest trends and innovations that are shaping the future of AM."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá výzvami a příležitostmi v odvětví aditivní výroby.",
+      "Zdůrazňuje strategie, které společnosti používají k přežití a prosperitě na konkurenčním trhu.",
+      "Zaměřuje se na nejnovější trendy a inovace, které formují budoucnost aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "AM Survivor",
+      "Innovation",
+      "Trends"
     ]
   },
   {
