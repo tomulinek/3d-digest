@@ -50,6 +50,87 @@
     ]
   },
   {
+    "title": "Rosotics vstupuje do fáze výroby a testování pro projekt námořní ocelové aditivní výroby",
+    "summary": "Rosotics, a company specializing in large-scale metal additive manufacturing, has entered the fabrication and testing phase of a federal contract awarded by Fluor Marine Propulsion, LLC, a naval nuclear propulsion contractor, at the Bettis Atomic Power Laboratory under the U.S. Department of Energy. The contract carries an E2 priority rating for National Defense under the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2023/03/The-Mantis-printer.-Photo-via-Rosotics-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-09-08T14:11:29+00:00",
+    "url": "https://3dprintingindustry.com/news/rosotics-enters-fabrication-and-testing-phase-for-naval-steel-am-project-244102/?utm_source=rss&utm_medium=rss&utm_campaign=rosotics-enters-fabrication-and-testing-phase-for-naval-steel-am-project",
+    "title_en": "Rosotics Enters Fabrication and Testing Phase for Naval Steel AM Project",
+    "summary_bullets_en": [
+      "Rosotics is advancing to the fabrication and testing phase of a federal contract.",
+      "The project is in collaboration with Fluor Marine Propulsion, LLC.",
+      "The work is being conducted at the Bettis Atomic Power Laboratory under the U.S. Department of Energy.",
+      "The contract has an E2 priority rating for National Defense."
+    ],
+    "summary_bullets_cs": [
+      "Rosotics postupuje do fáze výroby a testování federální zakázky.",
+      "Projekt je ve spolupráci s Fluor Marine Propulsion, LLC.",
+      "Práce probíhá v Bettis Atomic Power Laboratory pod Ministerstvem energetiky USA.",
+      "Zakázka má prioritu E2 pro národní obranu."
+    ],
+    "tags": [
+      "Hardware",
+      "Rosotics",
+      "Fluor Marine Propulsion",
+      "Additive Manufacturing",
+      "U.S. Department of Energy"
+    ]
+  },
+  {
+    "title": "SurfacePrep bude distribuovat systémy AMT PostPro pro vyhlazování parou po celé Severní Americe",
+    "summary": "Additive Manufacturing Technologies (AMT) PostPro, a provider of automated post-processing solutions, has established a strategic reseller partnership with SurfacePrep, a North American distributor of surface preparation and finishing products.&#160; Under the agreement, SurfacePrep will distribute AMT’s automated vapor smoothing and finishing systems to manufacturers across North America. These systems are designed for both AM and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/1755530142207-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-09-08T14:05:51+00:00",
+    "url": "https://3dprintingindustry.com/news/surfaceprep-to-distribute-amt-postpro-vapor-smoothing-systems-across-north-america-244097/?utm_source=rss&utm_medium=rss&utm_campaign=surfaceprep-to-distribute-amt-postpro-vapor-smoothing-systems-across-north-america",
+    "title_en": "SurfacePrep to Distribute AMT PostPro Vapor Smoothing Systems Across North America",
+    "summary_bullets_en": [
+      "Additive Manufacturing Technologies (AMT) PostPro has partnered with SurfacePrep for distribution.",
+      "SurfacePrep will distribute AMT's vapor smoothing and finishing systems in North America.",
+      "These systems are designed for additive manufacturing and surface finishing."
+    ],
+    "summary_bullets_cs": [
+      "Additive Manufacturing Technologies (AMT) PostPro navázala strategické partnerství s firmou SurfacePrep pro distribuci.",
+      "SurfacePrep bude distribuovat systémy AMT pro vyhlazování parou a dokončování povrchů v Severní Americe.",
+      "Tyto systémy jsou navrženy pro aditivní výrobu a povrchovou úpravu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "AMT",
+      "SurfacePrep"
+    ]
+  },
+  {
+    "title": "Studenti z ETH Zurich vyvinuli vysokorychlostní 3D tiskárnu pro více materiálů",
+    "summary": "At ETH Zurich, a team of students has developed a high-speed, multi-material metal 3D printer: a laser powder bed fusion system that rotates both the powder deposition and gas flow nozzles during printing. This allows the machine to process multiple metals simultaneously, without downtime, potentially transforming metal additive manufacturing by cutting production time and costs.&#160; [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/image.imageformat.carousel.1037497565-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-09-08T14:02:57+00:00",
+    "url": "https://3dprintingindustry.com/news/eth-zurich-students-develop-high-speed-multi-material-3d-printer-244106/?utm_source=rss&utm_medium=rss&utm_campaign=eth-zurich-students-develop-high-speed-multi-material-3d-printer",
+    "title_en": "ETH Zurich Students Develop High-Speed Multi-Material 3D Printer",
+    "summary_bullets_en": [
+      "A team of students at ETH Zurich has created a high-speed, multi-material metal 3D printer.",
+      "The printer uses a laser powder bed fusion system with rotating powder deposition and gas flow nozzles.",
+      "This innovation allows simultaneous processing of multiple metals without downtime.",
+      "The development could significantly reduce production time and costs in metal additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Tým studentů z ETH Zurich vytvořil vysokorychlostní 3D tiskárnu pro více materiálů.",
+      "Tiskárna využívá systém laserového spékání práškového lože s rotujícími tryskami pro nanášení prášku a proudění plynu.",
+      "Tato inovace umožňuje současné zpracování více kovů bez prostojů.",
+      "Vývoj by mohl výrazně snížit výrobní čas a náklady v oblasti aditivní výroby kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "ETH Zurich",
+      "3D Printing",
+      "Metal Additive Manufacturing",
+      "Laser Powder Bed Fusion"
+    ]
+  },
+  {
     "title": "Dentální pomsta SprintRay",
     "summary": "3DP War Journal #62",
     "image": "https://substackcdn.com/image/fetch/$s_!VRq_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd04ed49f-6659-45a7-91d6-ed5a02b9ddc8_1536x1024.jpeg",
