@@ -1,5 +1,139 @@
 [
   {
+    "title": "Odvážná AM: 3D tištěný supravodič z Cornellovy univerzity láme rekordy",
+    "summary": "Superconductors carry electricity without resistance, a rare and useful property that makes them important for things like MRI machines and quantum computers. Normally, they’re made from heavy, fragile materials using...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/09/41467_2025_62794_Fig3_HTML.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-09-09T12:00:07+00:00",
+    "url": "https://3dprint.com/320532/daring-am-cornell-3d-printed-superconductor-smashes-records/",
+    "title_en": "Daring AM: Cornell’s 3D Printed Superconductor Smashes Records",
+    "summary_bullets_en": [
+      "Cornell University has developed a 3D printed superconductor.",
+      "This superconductor can carry electricity without resistance.",
+      "It is made from lighter and less fragile materials compared to traditional superconductors.",
+      "The innovation could impact technologies like MRI machines and quantum computers."
+    ],
+    "summary_bullets_cs": [
+      "Cornellova univerzita vyvinula 3D tištěný supravodič.",
+      "Tento supravodič může přenášet elektřinu bez odporu.",
+      "Je vyroben z lehčích a méně křehkých materiálů ve srovnání s tradičními supravodiči.",
+      "Inovace by mohla ovlivnit technologie jako MRI stroje a kvantové počítače."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Cornell University",
+      "3D Printing",
+      "Superconductors"
+    ]
+  },
+  {
+    "title": "Nová 3D tiskárna Raise3D E3 IDEX: Technické specifikace a ceny",
+    "summary": "Raise3D, a manufacturer of professional 3D printing systems with offices in the United States, the Netherlands, Portugal, and China, has launched the E3 IDEX 3D printer at FABTECH 2025 in Chicago. A successor to the E2 and E2CF models, the E3 is engineered to extend TPU and composite printing capabilities with higher speeds and expanded [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/E3-Scene-Image-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-09-09T09:10:59+00:00",
+    "url": "https://3dprintingindustry.com/news/raise3d-new-e3-idex-3d-printer-technical-specifications-and-pricing-244192/?utm_source=rss&utm_medium=rss&utm_campaign=raise3d-new-e3-idex-3d-printer-technical-specifications-and-pricing",
+    "title_en": "Raise3D new E3 IDEX 3D Printer: Technical Specifications and Pricing",
+    "summary_bullets_en": [
+      "Raise3D has launched the E3 IDEX 3D printer at FABTECH 2025 in Chicago.",
+      "The E3 is a successor to the E2 and E2CF models, designed to enhance TPU and composite printing.",
+      "It offers higher printing speeds and expanded capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Raise3D uvedla na trh 3D tiskárnu E3 IDEX na veletrhu FABTECH 2025 v Chicagu.",
+      "E3 je nástupcem modelů E2 a E2CF, navržená pro vylepšení tisku TPU a kompozitů.",
+      "Nabízí vyšší rychlosti tisku a rozšířené schopnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Raise3D",
+      "3D Printing",
+      "FABTECH 2025"
+    ]
+  },
+  {
+    "title": "Fringe Inspection od Phase3D nyní dostupný pro tiskárny M2 Series 5",
+    "summary": "Your seat at the Additive Manufacturing Advantage awaits! Register free for&#160;AMA: Energy&#160;and&#160;AMA: Automotive &#38; Mobility. Chicago-based 3D printing quality assurance software developer Phase3D has released the Fringe Inspection M2 Series 5 Kit for Colibrium Additive’s M2 Series 5 platform with orders opening on September 16. The new kit allows manufacturers to measure each layer of [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/image-2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-09-09T09:07:00+00:00",
+    "url": "https://3dprintingindustry.com/news/phase3ds-fringe-inspection-now-available-for-m2-series-5-printers-244205/?utm_source=rss&utm_medium=rss&utm_campaign=phase3ds-fringe-inspection-now-available-for-m2-series-5-printers",
+    "title_en": "Phase3D’s Fringe Inspection now available for M2 Series 5 printers",
+    "summary_bullets_en": [
+      "Phase3D has released the Fringe Inspection M2 Series 5 Kit for Colibrium Additive’s M2 Series 5 platform.",
+      "The kit allows manufacturers to measure each layer of the 3D printing process.",
+      "Orders for the new kit opened on September 16.",
+      "Phase3D is a Chicago-based 3D printing quality assurance software developer."
+    ],
+    "summary_bullets_cs": [
+      "Phase3D vydala Fringe Inspection M2 Series 5 Kit pro platformu M2 Series 5 od Colibrium Additive.",
+      "Nový kit umožňuje výrobcům měřit každou vrstvu procesu 3D tisku.",
+      "Objednávky na nový kit byly zahájeny 16. září.",
+      "Phase3D je chicagský vývojář softwaru pro zajištění kvality 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Phase3D",
+      "Colibrium Additive"
+    ]
+  },
+  {
+    "title": "Výzkumníci z Penn State zkoumají 3D biotisk pro obnovení průtoku krve v rekonstrukční chirurgii",
+    "summary": "Restoring blood flow to damaged tissue is a major challenge in reconstructive surgery. Researchers at Penn State are testing a combination of 3D bioprinting and a surgical technique called micropuncture to address this problem, supported by a $3 million grant from the National Institutes of Health. The research is led by Ibrahim Ozbolat, Dorothy Foehr [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2021/06/3D-bioprinted-soft-tissue-scaffold-with-vascularization-channels-perfused-with-red-ink-designed-and-produced-using-3D-Systems-and-CollPlants-expertise-and-solutions-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-09-09T09:02:34+00:00",
+    "url": "https://3dprintingindustry.com/news/penn-state-researchers-explore-3d-bioprinting-to-restore-blood-flow-in-reconstructive-surgery-244179/?utm_source=rss&utm_medium=rss&utm_campaign=penn-state-researchers-explore-3d-bioprinting-to-restore-blood-flow-in-reconstructive-surgery",
+    "title_en": "Penn State Researchers Explore 3D Bioprinting to Restore Blood Flow in Reconstructive Surgery",
+    "summary_bullets_en": [
+      "Restoring blood flow to damaged tissue is a significant challenge in reconstructive surgery.",
+      "Penn State researchers are testing 3D bioprinting combined with micropuncture to address this issue.",
+      "The project is supported by a $3 million grant from the National Institutes of Health.",
+      "The research is led by Ibrahim Ozbolat and Dorothy Foehr."
+    ],
+    "summary_bullets_cs": [
+      "Obnovení průtoku krve do poškozené tkáně je významnou výzvou v rekonstrukční chirurgii.",
+      "Výzkumníci z Penn State testují kombinaci 3D biotisku a chirurgické techniky zvané mikropunkce k řešení tohoto problému.",
+      "Projekt je podporován grantem ve výši 3 milionů dolarů od Národního institutu zdraví.",
+      "Výzkum vedou Ibrahim Ozbolat a Dorothy Foehr."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Bioprinting",
+      "Penn State",
+      "Reconstructive Surgery",
+      "National Institutes of Health"
+    ]
+  },
+  {
+    "title": "Tisk s klidem: UltiMaker uvádí bezpečnou řadu 3D tiskáren",
+    "summary": "As the defense sector continues to adopt additive manufacturing (AM) amidst a backdrop of continuing supply chain pressure and global conflicts, it&#8217;s more critical than ever to ensure cybersecure production...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/09/Jim-Franz-headshot-300x300.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-09-09T07:00:48+00:00",
+    "url": "https://3dprint.com/320495/ultimaker-secure-line-of-3d-printers/",
+    "title_en": "Printing with Peace of Mind: UltiMaker Launches Secure Line of 3D Printers",
+    "summary_bullets_en": [
+      "UltiMaker introduces a new line of 3D printers focused on cybersecurity.",
+      "The launch comes as the defense sector increasingly adopts additive manufacturing.",
+      "Ensuring secure production is crucial amidst global conflicts and supply chain pressures."
+    ],
+    "summary_bullets_cs": [
+      "UltiMaker představuje novou řadu 3D tiskáren zaměřenou na kybernetickou bezpečnost.",
+      "Uvedení na trh přichází v době, kdy obranný sektor stále více přijímá aditivní výrobu.",
+      "Zajištění bezpečné výroby je klíčové uprostřed globálních konfliktů a tlaků na dodavatelské řetězce."
+    ],
+    "tags": [
+      "Hardware",
+      "UltiMaker",
+      "Additive Manufacturing",
+      "Cybersecurity",
+      "Defense Sector"
+    ]
+  },
+  {
     "title": "Nad rámec snižování odpadu: 3D tiskárny s výměnou nástrojů mohou přinést skryté výhody",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/924536006/0/fabbaloo/default~Beyond-Waste-Reduction-ToolChanging-D-Printers-Could-Enable-Hidden-Advantages\" rel=\"nofollow\" title=\"Beyond Waste Reduction: Tool-Changing 3D Printers Could Enable Hidden Advantages\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/09/multicolor-advantages-cover-300x211.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Everyone’s excited about waste-free 3D printing, but there’s another advantage that’s even better.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/924536006/0/fabbaloo/default~Beyond-Waste-Reduction-ToolChanging-D-Printers-Could-Enable-Hidden-Advantages\" rel=\"nofollow\">Beyond Waste Reduction: Tool-Changing 3D Printers Could Enable Hidden Advantages</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/09/multicolor-advantages-cover-300x211.jpg",
