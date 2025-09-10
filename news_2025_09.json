@@ -1,5 +1,162 @@
 [
   {
+    "title": "Závod o bezodpadový vícebarevný 3D tisk: Kde stojí hlavní hráči",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/924635090/0/fabbaloo/default~The-Race-for-WasteFree-Multicolor-D-Printing-Where-Major-Players-Stand\" rel=\"nofollow\" title=\"The Race for Waste-Free Multicolor 3D Printing: Where Major Players Stand\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/09/race-prusa-bondtech-300x225.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Where are we at with tool-changing 3D printers?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/924635090/0/fabbaloo/default~The-Race-for-WasteFree-Multicolor-D-Printing-Where-Major-Players-Stand\" rel=\"nofollow\">The Race for Waste-Free Multicolor 3D Printing: Where Major Players Stand</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/09/race-prusa-bondtech-300x225.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-09-10T16:23:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/924635090/0/fabbaloo/default~The-Race-for-WasteFree-Multicolor-D-Printing-Where-Major-Players-Stand",
+    "title_en": "The Race for Waste-Free Multicolor 3D Printing: Where Major Players Stand",
+    "summary_bullets_en": [
+      "The article explores the current state of tool-changing 3D printers and their role in achieving waste-free multicolor printing.",
+      "It highlights the efforts of major companies in the 3D printing industry to develop efficient multicolor printing solutions.",
+      "The focus is on reducing material waste and improving the quality of multicolor prints."
+    ],
+    "summary_bullets_cs": [
+      "Článek zkoumá současný stav 3D tiskáren s výměnou nástrojů a jejich roli v dosažení bezodpadového vícebarevného tisku.",
+      "Zdůrazňuje úsilí hlavních společností v odvětví 3D tisku o vývoj efektivních řešení pro vícebarevný tisk.",
+      "Zaměřuje se na snížení materiálového odpadu a zlepšení kvality vícebarevných tisků."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Multicolor Printing",
+      "Waste Reduction",
+      "Prusa",
+      "Bondtech"
+    ]
+  },
+  {
+    "title": "UltiMaker uvádí na trh bezpečné 3D tiskárny S6 a S8 pro vysoce zabezpečená prostředí",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/924631421/0/fabbaloo/default~UltiMaker-Launches-S-and-S-Secure-D-Printers-for-HighSecurity-Environments\" rel=\"nofollow\" title=\"UltiMaker Launches S6 and S8 Secure 3D Printers for High-Security Environments\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/09/Secure-S-series-hero-edit-2-300x254.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>UltiMaker finally introduced the secure version of their flagship 3D printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/924631421/0/fabbaloo/default~UltiMaker-Launches-S-and-S-Secure-D-Printers-for-HighSecurity-Environments\" rel=\"nofollow\">UltiMaker Launches S6 and S8 Secure 3D Printers for High-Security Environments</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/09/Secure-S-series-hero-edit-2-300x254.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-09-10T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/924631421/0/fabbaloo/default~UltiMaker-Launches-S-and-S-Secure-D-Printers-for-HighSecurity-Environments",
+    "title_en": "UltiMaker Launches S6 and S8 Secure 3D Printers for High-Security Environments",
+    "summary_bullets_en": [
+      "UltiMaker has introduced secure versions of their flagship 3D printers, the S6 and S8.",
+      "These printers are designed for high-security environments, ensuring data protection and integrity.",
+      "The launch marks a significant step in providing secure 3D printing solutions for sensitive applications."
+    ],
+    "summary_bullets_cs": [
+      "UltiMaker představil bezpečné verze svých vlajkových 3D tiskáren, modely S6 a S8.",
+      "Tyto tiskárny jsou navrženy pro vysoce zabezpečená prostředí, zajišťují ochranu a integritu dat.",
+      "Tento krok představuje významný posun v poskytování bezpečných řešení 3D tisku pro citlivé aplikace."
+    ],
+    "tags": [
+      "Hardware",
+      "UltiMaker",
+      "3D Printing",
+      "Security"
+    ]
+  },
+  {
+    "title": "Split3r – super chytré řešení pro velkoformátový 3D tisk",
+    "summary": "RECODE.AM #15",
+    "image": "https://substackcdn.com/image/fetch/$s_!TsGF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd67068e0-1d9f-49ac-96d3-d6f3fb56df0e_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-09-10T14:02:34+00:00",
+    "url": "https://www.3dprintingjournal.com/p/split3r-a-super-smart-solution-for",
+    "title_en": "Split3r – a super smart solution for large-scale 3D printing",
+    "summary_bullets_en": [
+      "Split3r is a new software tool designed to optimize large-scale 3D printing processes.",
+      "The software intelligently divides large models into smaller, more manageable parts.",
+      "This approach reduces printing time and material waste, enhancing overall efficiency.",
+      "Split3r is compatible with various 3D printing technologies and platforms."
+    ],
+    "summary_bullets_cs": [
+      "Split3r je nový softwarový nástroj navržený pro optimalizaci procesů velkoformátového 3D tisku.",
+      "Software inteligentně rozděluje velké modely na menší, lépe zvládnutelné části."
+    ],
+    "tags": [
+      "Software",
+      "3D Printing",
+      "Split3r",
+      "Efficiency"
+    ]
+  },
+  {
+    "title": "Meltio získává důvěryhodnost a efektivitu: Skutečné průmyslové díly posilují jeho AM řešení",
+    "summary": "Meltio&#8216;s metal AM solutions are helping industries around the world to efficiently manufacture and repair metal parts in 3D, consolidating their credibility in the market. Compared to conventional manufacturing methods,...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/09/robot_v4_1-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-09-10T14:00:29+00:00",
+    "url": "https://3dprint.com/320573/meltio-gains-credibility-and-efficiency-real-industrial-parts-reinforce-its-am-solutions/",
+    "title_en": "Meltio Gains Credibility and Efficiency: Real Industrial Parts Reinforce its AM Solutions",
+    "summary_bullets_en": [
+      "Meltio's metal additive manufacturing solutions are enhancing efficiency in producing and repairing metal parts.",
+      "The company's technology is gaining credibility in the global market.",
+      "Meltio's solutions offer a competitive edge over traditional manufacturing methods."
+    ],
+    "summary_bullets_cs": [
+      "Kovová aditivní výrobní řešení Meltio zvyšují efektivitu při výrobě a opravách kovových dílů.",
+      "Technologie společnosti získává důvěryhodnost na globálním trhu.",
+      "Řešení Meltio nabízejí konkurenční výhodu oproti tradičním výrobním metodám."
+    ],
+    "tags": [
+      "Hardware",
+      "Meltio",
+      "Additive Manufacturing",
+      "Metal 3D Printing",
+      "Industrial Applications"
+    ]
+  },
+  {
+    "title": "Výzkumníci 3D tisknou senzory z auxetických metamateriálů pro detekci tlaku a pohybu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/924625019/0/fabbaloo/default~Researchers-D-Print-Auxetic-Metamaterial-Sensors-for-Pressure-and-Motion-Detection\" rel=\"nofollow\" title=\"Researchers 3D Print Auxetic Metamaterial Sensors for Pressure and Motion Detection\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/09/auxetic-cover-300x171.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have developed a new type of tactile sensor using additive manufacturing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/924625019/0/fabbaloo/default~Researchers-D-Print-Auxetic-Metamaterial-Sensors-for-Pressure-and-Motion-Detection\" rel=\"nofollow\">Researchers 3D Print Auxetic Metamaterial Sensors for Pressure and Motion Detection</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/09/auxetic-cover-300x171.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-09-10T13:46:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/924625019/0/fabbaloo/default~Researchers-D-Print-Auxetic-Metamaterial-Sensors-for-Pressure-and-Motion-Detection",
+    "title_en": "Researchers 3D Print Auxetic Metamaterial Sensors for Pressure and Motion Detection",
+    "summary_bullets_en": [
+      "Researchers have developed a new type of tactile sensor using 3D printing.",
+      "The sensors are made from auxetic metamaterials, which expand when stretched.",
+      "These sensors are designed for detecting pressure and motion.",
+      "The development showcases the potential of additive manufacturing in creating advanced sensor technologies."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli nový typ dotykového senzoru pomocí 3D tisku.",
+      "Senzory jsou vyrobeny z auxetických metamateriálů, které se při natažení rozšiřují.",
+      "Tyto senzory jsou navrženy pro detekci tlaku a pohybu.",
+      "Vývoj ukazuje potenciál aditivní výroby při vytváření pokročilých senzorových technologií."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Sensors",
+      "Metamaterials",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "ETH Zurich vyvíjí rotační LPBF systém, který zpracovává více kovů",
+    "summary": "ETH Zurich researchers have come up with a rotary LPBF system, the RAPTURE, that can process multiple metal materials simultaneously. In their published paper, they explain that the system may...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/09/3D_Printer_credit_Michael_Tucker_ETH_Zurich-1024x576.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-09-10T12:30:42+00:00",
+    "url": "https://3dprint.com/320550/eth-zurich-develops-rotary-multimaterial-lpbf/",
+    "title_en": "ETH Zurich Develops Rotary LPBF System that Processes Multiple Metals",
+    "summary_bullets_en": [
+      "ETH Zurich researchers have developed a new rotary LPBF system called RAPTURE.",
+      "The system is capable of processing multiple metal materials simultaneously.",
+      "Their research paper details the potential applications and benefits of this technology."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z ETH Zurich vyvinuli nový rotační LPBF systém nazvaný RAPTURE.",
+      "Systém je schopen současně zpracovávat více kovových materiálů.",
+      "Jejich výzkumná práce podrobně popisuje potenciální aplikace a výhody této technologie."
+    ],
+    "tags": [
+      "Hardware",
+      "ETH Zurich",
+      "LPBF",
+      "RAPTURE",
+      "Metal Processing"
+    ]
+  },
+  {
     "title": "Specialista na 3D tištěné výměníky tepla Conflux se připojuje ke konsorciu vedenému Honeywellem pro letecký průmysl",
     "summary": "The additive manufacturing (AM) industry has increased its technical maturity at an accelerated pace in recent years. One way that the industry can continue this positive momentum is by centering...",
     "image": "https://3dprint.com/wp-content/uploads/2025/09/IMG_1865.webp",
