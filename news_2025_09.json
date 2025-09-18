@@ -1,5 +1,164 @@
 [
   {
+    "title": "Open-Source Berkeley Humanoid Lite demokratizuje přístup k 3D tištěným humanoidním robotům",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/925026110/0/fabbaloo/default~OpenSource-Berkeley-Humanoid-Lite-Democratizes-Access-to-D-Printed-Humanoid-Robots\" rel=\"nofollow\" title=\"Open-Source Berkeley Humanoid Lite Democratizes Access to 3D Printed Humanoid Robots\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/09/berkeley-humanoid-cover-300x221.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have developed a low-cost, 3D printable humanoid robot design.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/925026110/0/fabbaloo/default~OpenSource-Berkeley-Humanoid-Lite-Democratizes-Access-to-D-Printed-Humanoid-Robots\" rel=\"nofollow\">Open-Source Berkeley Humanoid Lite Democratizes Access to 3D Printed Humanoid Robots</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/09/berkeley-humanoid-cover-300x221.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-09-18T15:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/925026110/0/fabbaloo/default~OpenSource-Berkeley-Humanoid-Lite-Democratizes-Access-to-D-Printed-Humanoid-Robots",
+    "title_en": "Open-Source Berkeley Humanoid Lite Democratizes Access to 3D Printed Humanoid Robots",
+    "summary_bullets_en": [
+      "Researchers have developed a low-cost, 3D printable humanoid robot design.",
+      "The design is open-source, allowing widespread access and customization.",
+      "This innovation aims to make humanoid robotics more accessible to educators and hobbyists."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli nízkonákladový design humanoidního robota, který lze vytisknout na 3D tiskárně.",
+      "Design je open-source, což umožňuje široký přístup a přizpůsobení.",
+      "Tato inovace má za cíl zpřístupnit humanoidní robotiku pedagogům a nadšencům."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Open-Source",
+      "Robotics",
+      "Berkeley"
+    ]
+  },
+  {
+    "title": "Carnegie Mellon představuje LLM-Drone pro leteckou aditivní výrobu",
+    "summary": "Carnegie Mellon University has presented LLM-Drone, a system that combines large language models (LLMs) with drones to expand additive manufacturing into settings where conventional 3D printing cannot operate. Published in Springer Nature, the study shows how drones equipped with magnetically interlocking blocks can assemble structures described through text prompts, achieving 90 percent build accuracy in [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/c-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-09-18T14:52:42+00:00",
+    "url": "https://3dprintingindustry.com/news/carnegie-mellon-presents-llm-drone-for-aerial-additive-manufacturing-244519/?utm_source=rss&utm_medium=rss&utm_campaign=carnegie-mellon-presents-llm-drone-for-aerial-additive-manufacturing",
+    "title_en": "Carnegie Mellon presents LLM-Drone for aerial additive manufacturing",
+    "summary_bullets_en": [
+      "Carnegie Mellon University has developed LLM-Drone, integrating large language models with drones for additive manufacturing.",
+      "The system allows drones to assemble structures in environments unsuitable for traditional 3D printing.",
+      "Drones use magnetically interlocking blocks to construct structures based on text prompts.",
+      "The study, published in Springer Nature, reports a 90 percent build accuracy."
+    ],
+    "summary_bullets_cs": [
+      "Carnegie Mellon University vyvinula LLM-Drone, který kombinuje velké jazykové modely s drony pro aditivní výrobu.",
+      "Systém umožňuje dronům sestavovat struktury v prostředích nevhodných pro tradiční 3D tisk.",
+      "Drony používají magneticky propojitelné bloky k vytváření struktur na základě textových pokynů.",
+      "Studie publikovaná ve Springer Nature uvádí 90procentní přesnost stavby."
+    ],
+    "tags": [
+      "Hardware",
+      "Carnegie Mellon University",
+      "Drones",
+      "Additive Manufacturing",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Strojové učení urychluje výzkum přímého nanášení energie",
+    "summary": "A review published on ResearchGate by researchers at the University of Windsor analyzes how machine learning (ML) is being applied to direct energy deposition (DED) and wire arc additive manufacturing (WAAM). Covering studies published between 2010 and mid-2025, the review shows that research activity expanded rapidly after 2020, with methods such as deep learning, fuzzy [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/Trend-in-the-number-of-published-papers—the-orange-bar-predicts-the-number-of-papers-to-be-published-from-July-2025-until-the-end-of-the-year-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-09-18T14:51:12+00:00",
+    "url": "https://3dprintingindustry.com/news/machine-learning-accelerates-direct-energy-deposition-research-244505/?utm_source=rss&utm_medium=rss&utm_campaign=machine-learning-accelerates-direct-energy-deposition-research",
+    "title_en": "Machine Learning Accelerates Direct Energy Deposition Research",
+    "summary_bullets_en": [
+      "Researchers at the University of Windsor have published a review on ResearchGate analyzing the application of machine learning to direct energy deposition and wire arc additive manufacturing.",
+      "The review covers studies from 2010 to mid-2025, highlighting a significant increase in research activity post-2020.",
+      "Methods such as deep learning and fuzzy logic are being utilized in these studies."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University of Windsor publikovali na ResearchGate přehled, který analyzuje aplikaci strojového učení na přímé nanášení energie a aditivní výrobu pomocí obloukového svařování drátem.",
+      "Přehled zahrnuje studie od roku 2010 do poloviny roku 2025 a zdůrazňuje významný nárůst výzkumné aktivity po roce 2020.",
+      "V těchto studiích jsou využívány metody jako hluboké učení a fuzzy logika."
+    ],
+    "tags": [
+      "Software",
+      "Machine Learning",
+      "Direct Energy Deposition",
+      "Wire Arc Additive Manufacturing",
+      "Deep Learning",
+      "Fuzzy Logic"
+    ]
+  },
+  {
+    "title": "Vysoce přesné monitorování posiluje aditivní výrobu na Univerzitě v Aalenu",
+    "summary": "Researchers at Aalen University’s LaserApplicationCentre (LAZ) are refining process monitoring for powder bed-based laser melting of metals (PBF-LB/M), a central additive manufacturing technology for producing complex, high-performance metal parts. The team uses high-speed and high-resolution cameras from IDS Imaging Development Systems to analyze dynamic and static aspects of the melting process, enabling early detection of [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/ids-case-study-laz-laboratory-setup-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-09-18T14:49:19+00:00",
+    "url": "https://3dprintingindustry.com/news/high-precision-monitoring-boost-additive-manufacturing-at-aalen-university-244491/?utm_source=rss&utm_medium=rss&utm_campaign=high-precision-monitoring-boost-additive-manufacturing-at-aalen-university",
+    "title_en": "High-precision monitoring boost additive manufacturing at Aalen University",
+    "summary_bullets_en": [
+      "Researchers at Aalen University's LaserApplicationCentre are enhancing process monitoring for PBF-LB/M technology.",
+      "They utilize high-speed and high-resolution cameras from IDS Imaging Development Systems.",
+      "The technology allows for the analysis of dynamic and static aspects of the metal melting process.",
+      "This advancement enables early detection of potential issues in additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z LaserApplicationCentre na Univerzitě v Aalenu zdokonalují monitorování procesů pro technologii PBF-LB/M.",
+      "Používají vysokorychlostní a vysokorozlišovací kamery od IDS Imaging Development Systems.",
+      "Technologie umožňuje analýzu dynamických a statických aspektů procesu tavení kovů.",
+      "Tento pokrok umožňuje včasnou detekci potenciálních problémů v aditivní výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Aalen University",
+      "IDS Imaging Development Systems",
+      "Additive Manufacturing",
+      "PBF-LB/M"
+    ]
+  },
+  {
+    "title": "Arašídy přidané do PLA vytvářejí udržitelný, antimikrobiální materiál pro 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/925020284/0/fabbaloo/default~Peanut-Shells-Added-to-PLA-Yield-Sustainable-Antimicrobial-D-Printing-Material\" rel=\"nofollow\" title=\"Peanut Shells Added to PLA Yield Sustainable, Antimicrobial 3D Printing Material\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/08/peanut-shell-cover-300x191.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have developed an antimicrobial 3D printer filament using peanut shells.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/925020284/0/fabbaloo/default~Peanut-Shells-Added-to-PLA-Yield-Sustainable-Antimicrobial-D-Printing-Material\" rel=\"nofollow\">Peanut Shells Added to PLA Yield Sustainable, Antimicrobial 3D Printing Material</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/08/peanut-shell-cover-300x191.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-09-18T13:46:09+00:00",
+    "url": "https://feeds.fabbaloo.com/~/925020284/0/fabbaloo/default~Peanut-Shells-Added-to-PLA-Yield-Sustainable-Antimicrobial-D-Printing-Material",
+    "title_en": "Peanut Shells Added to PLA Yield Sustainable, Antimicrobial 3D Printing Material",
+    "summary_bullets_en": [
+      "Researchers have developed a new 3D printer filament by incorporating peanut shells into PLA.",
+      "The new material is both sustainable and antimicrobial.",
+      "This innovation could lead to more environmentally friendly and hygienic 3D printed products."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli nový filament pro 3D tisk přidáním arašídových skořápek do PLA.",
+      "Nový materiál je jak udržitelný, tak antimikrobiální.",
+      "Tato inovace by mohla vést k ekologičtějším a hygieničtějším 3D tištěným produktům."
+    ],
+    "tags": [
+      "Material",
+      "Sustainability",
+      "Antimicrobial",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Výzkumníci z SEOULTECH vyvinuli auxetické 3D tištěné tlakové senzory pro nositelnou elektroniku",
+    "summary": "In a recent paper, Seoul National University of Science and Technology (SEOULTECH) researchers look at &#8220;Additively Manufactured 3D Auxetic Metamaterials for Structurally Guided Capacitive and Resistive Tactile Sensing.&#8221; Mingyu Kang, Hong-Gap...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/09/adfm70344-fig-0001-m-996x1024.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-09-18T13:00:20+00:00",
+    "url": "https://3dprint.com/320792/seoultech-make-additive-pressure-sensors-for-wearables/",
+    "title_en": "SEOULTECH Researchers Make Auxetic 3D Printed Pressure Sensors for Wearables",
+    "summary_bullets_en": [
+      "SEOULTECH researchers have developed 3D printed auxetic metamaterials for tactile sensing.",
+      "The study focuses on capacitive and resistive tactile sensors for wearable technology.",
+      "These sensors are designed to improve structural guidance and sensitivity in wearable devices."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z SEOULTECH vyvinuli 3D tištěné auxetické metamateriály pro hmatové senzory.",
+      "Studie se zaměřuje na kapacitní a rezistivní hmatové senzory pro nositelnou technologii.",
+      "Tyto senzory jsou navrženy pro zlepšení strukturálního vedení a citlivosti v nositelných zařízeních."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Wearable Technology",
+      "SEOULTECH"
+    ]
+  },
+  {
     "title": "Deutsche Bahn bude spolupracovat s 3D Spark na měření uhlíkové stopy 3D tištěných náhradních dílů",
     "summary": "Sustainability in some places is a detail, something for the PR people and occasional campaigns. In other companies, countries, and industries however, there is a remarkable awakening going on. Companies...",
     "image": "https://3dprint.com/wp-content/uploads/2023/06/Deutsche-Bahn-transmission-housing.png",
