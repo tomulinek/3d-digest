@@ -1,5 +1,191 @@
 [
   {
+    "title": "Americká armáda se zaměřila na roli 3D tisku v ekosystému dronů",
+    "summary": "In a speech he gave at the U.S. Army&#8217;s Global Force Symposium back in March, General James Rainey, the head of U.S. Army Futures Command, said the branch was in...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/09/IMG_1892.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-09-19T12:00:44+00:00",
+    "url": "https://3dprint.com/320813/the-u-s-army-has-zeroed-in-on-3d-printings-drone-ecosystem-role/",
+    "title_en": "The U.S. Army Has Zeroed in on 3D Printing’s Drone Ecosystem Role",
+    "summary_bullets_en": [
+      "General James Rainey highlighted the importance of 3D printing in the development of the U.S. Army's drone ecosystem.",
+      "3D printing is seen as a crucial technology for rapid prototyping and manufacturing of drone components.",
+      "The U.S. Army Futures Command is actively exploring how 3D printing can enhance operational capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Generál James Rainey zdůraznil význam 3D tisku pro rozvoj ekosystému dronů americké armády.",
+      "3D tisk je považován za klíčovou technologii pro rychlé prototypování a výrobu komponentů dronů.",
+      "Velitelství pro budoucnost armády USA aktivně zkoumá, jak může 3D tisk zlepšit operační schopnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "U.S. Army",
+      "Drones",
+      "U.S. Army Futures Command"
+    ]
+  },
+  {
+    "title": "Výzkumník z UTA získal grant 500 000 dolarů na 3D tisk metamateriálů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/925060691/0/fabbaloo/default~UTA-Researcher-Awarded-Grant-to-D-Print-Metamaterials\" rel=\"nofollow\" title=\"UTA Researcher Awarded $500,000 Grant to 3D Print Metamaterials\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/09/uta-research-grant-cover-300x181.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Chen Kan's work will integrate advanced sensing and AI to monitor and optimize the AM process.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/925060691/0/fabbaloo/default~UTA-Researcher-Awarded-Grant-to-D-Print-Metamaterials\" rel=\"nofollow\">UTA Researcher Awarded $500,000 Grant to 3D Print Metamaterials</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/09/uta-research-grant-cover-300x181.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-09-19T11:07:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/925060691/0/fabbaloo/default~UTA-Researcher-Awarded-Grant-to-D-Print-Metamaterials",
+    "title_en": "UTA Researcher Awarded $500,000 Grant to 3D Print Metamaterials",
+    "summary_bullets_en": [
+      "Chen Kan has been awarded a $500,000 grant for his research on 3D printing metamaterials.",
+      "The project will integrate advanced sensing and AI to monitor and optimize the additive manufacturing process.",
+      "The research aims to enhance the efficiency and capabilities of 3D printing technologies."
+    ],
+    "summary_bullets_cs": [
+      "Chen Kan získal grant ve výši 500 000 dolarů na výzkum 3D tisku metamateriálů.",
+      "Projekt bude integrovat pokročilé senzory a umělou inteligenci pro monitorování a optimalizaci procesu aditivní výroby.",
+      "Cílem výzkumu je zlepšit efektivitu a schopnosti technologií 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Research",
+      "3D Printing",
+      "Metamaterials",
+      "AI",
+      "UTA"
+    ]
+  },
+  {
+    "title": "Caracol rozšiřuje svou přítomnost v USA novým zařízením v Austinu pro polymerní a kovové LFAM",
+    "summary": "Caracol AM, the Italian developer of large-format additive manufacturing (LFAM) solutions, has officially opened its U.S. headquarters and production facility in Austin, Texas. The new 6,000 sq. ft. site will function as a hub for assembling, testing, and delivering the company’s robotic AM platforms to the North American market. It also includes a production and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-09-19T10:14:47+00:00",
+    "url": "https://3dprintingindustry.com/news/caracol-expands-us-footprint-with-new-austin-facility-for-polymer-and-metal-lfam-244540/?utm_source=rss&utm_medium=rss&utm_campaign=caracol-expands-us-footprint-with-new-austin-facility-for-polymer-and-metal-lfam",
+    "title_en": "Caracol expands US footprint with new Austin facility for polymer and metal LFAM",
+    "summary_bullets_en": [
+      "Caracol AM has opened its U.S. headquarters and production facility in Austin, Texas.",
+      "The 6,000 sq. ft. site will serve as a hub for assembling, testing, and delivering robotic AM platforms.",
+      "The facility aims to cater to the North American market with large-format additive manufacturing solutions."
+    ],
+    "summary_bullets_cs": [
+      "Caracol AM otevřel své americké ústředí a výrobní zařízení v Austinu, Texas.",
+      "Nové zařízení o rozloze 6 000 čtverečních stop bude sloužit jako centrum pro montáž, testování a dodávky robotických AM platforem.",
+      "Zařízení má za cíl obsluhovat severoamerický trh s řešeními pro velkoformátový aditivní tisk."
+    ],
+    "tags": [
+      "Hardware",
+      "Caracol AM",
+      "Additive Manufacturing",
+      "LFAM",
+      "Austin",
+      "Polymer",
+      "Metal"
+    ]
+  },
+  {
+    "title": "Boeing vyvíjí 3D tištěný substrát pro solární panely, který zkracuje dobu výroby o šest měsíců",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/boeing-develops-3d-printed-solar-array-substrate-to-cut-production-time-by-six-months/\" target=\"_blank\">Boeing Develops 3D Printed Solar Array Substrate to Cut Production Time by Six Months</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">September 19</span></div><div><img alt=\"Boeing Develops 3D Printed Solar Array Substrate to Cut Production Time by Six Months\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/8648797845-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/8648797845-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-09-19T09:20:41+00:00",
+    "url": "https://3dprinting.com/news/boeing-develops-3d-printed-solar-array-substrate-to-cut-production-time-by-six-months/",
+    "title_en": "Boeing Develops 3D Printed Solar Array Substrate to Cut Production Time by Six Months",
+    "summary_bullets_en": [
+      "Boeing has introduced a 3D printed solar array substrate.",
+      "The new technology reduces production time by six months.",
+      "This innovation is expected to enhance efficiency in solar array manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Boeing představil 3D tištěný substrát pro solární panely.",
+      "Nová technologie zkracuje dobu výroby o šest měsíců.",
+      "Tato inovace by měla zvýšit efektivitu výroby solárních panelů."
+    ],
+    "tags": [
+      "Hardware",
+      "Boeing",
+      "3D Printing",
+      "Solar Technology"
+    ]
+  },
+  {
+    "title": "Výzkumník z Texas A&M pokročil ve 3D tisku léků pro děti",
+    "summary": "Dr. Mansoor Khan, researcher of Texas A&#38;M University is advancing the use of 3D printing to produce medications tailored for children, addressing long-standing challenges in pediatric dosing. By creating dose-flexible tablets, his approach ensures that children receive the exact amount of medication required for their age and weight, eliminating the need for pharmacists to manipulate [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/khan-3d-printed-medicine-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-09-19T08:16:29+00:00",
+    "url": "https://3dprintingindustry.com/news/texas-am-researcher-advances-3d-printed-medications-for-children-244592/?utm_source=rss&utm_medium=rss&utm_campaign=texas-am-researcher-advances-3d-printed-medications-for-children",
+    "title_en": "Texas A&M Researcher Advances 3D Printed Medications for Children",
+    "summary_bullets_en": [
+      "Dr. Mansoor Khan from Texas A&M University is developing 3D printed medications specifically for children.",
+      "The research focuses on creating dose-flexible tablets to ensure precise dosing based on a child's age and weight.",
+      "This innovation aims to eliminate the need for pharmacists to manually adjust medication doses for pediatric patients."
+    ],
+    "summary_bullets_cs": [
+      "Dr. Mansoor Khan z Texas A&M University vyvíjí 3D tištěné léky speciálně pro děti.",
+      "Výzkum se zaměřuje na tvorbu tablet s flexibilním dávkováním, aby bylo zajištěno přesné dávkování podle věku a váhy dítěte.",
+      "Tato inovace má za cíl eliminovat potřebu farmaceutů ručně upravovat dávky léků pro pediatrické pacienty."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Texas A&M University",
+      "Pediatric Medications",
+      "Dr. Mansoor Khan"
+    ]
+  },
+  {
+    "title": "Ultrazvuk zlepšuje rafinaci zrn v kovovém 3D tisku",
+    "summary": "Northwestern Polytechnical University in Xi’an, working with Wuhan University of Science and Technology, the National University of Singapore, and Trinity College Dublin, has demonstrated a non-contact ultrasound method for laser additive manufacturing. Published in Nature Communications, the work shows that transmitting ultrasound below 20 W·cm² through a gas medium refines grains and enhances mechanical performance [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/Effect-of-ultrasound-on-grain-structure-of-Inconel-718-single-tracks.-Image-via-Nature-Communications-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-09-19T08:11:01+00:00",
+    "url": "https://3dprintingindustry.com/news/ultrasound-improves-grain-refinement-in-metal-3d-printing-244586/?utm_source=rss&utm_medium=rss&utm_campaign=ultrasound-improves-grain-refinement-in-metal-3d-printing",
+    "title_en": "Ultrasound improves grain refinement in metal 3D printing",
+    "summary_bullets_en": [
+      "Researchers from Northwestern Polytechnical University and collaborators have developed a non-contact ultrasound method for laser additive manufacturing.",
+      "The method involves transmitting ultrasound below 20 W·cm² through a gas medium.",
+      "This technique refines grains and enhances the mechanical performance of the printed metal.",
+      "The findings were published in Nature Communications."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Northwestern Polytechnical University a jejich spolupracovníci vyvinuli bezkontaktní ultrazvukovou metodu pro laserovou aditivní výrobu.",
+      "Metoda zahrnuje přenos ultrazvuku pod 20 W·cm² skrze plynové médium.",
+      "Tato technika zjemňuje zrna a zlepšuje mechanické vlastnosti tištěného kovu.",
+      "Výsledky byly publikovány v časopise Nature Communications."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Ultrasound",
+      "Northwestern Polytechnical University",
+      "Nature Communications"
+    ]
+  },
+  {
+    "title": "Ministerstvo války investuje do domácí výroby SRM, uděluje 39,6 milionu dolarů třem společnostem",
+    "summary": "The U.S. Department of War has awarded $39.6 million to three companies to strengthen the nation’s solid rocket motor (SRM) production base. The funds, granted under Title III of the Defense Production Act (DPA), go to additive manufacturing specialist Materials Resources LLC (MRL) of Ohio; materials processing specialist ICF Mercantile LLC (ICF) of New Jersey; [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2024/12/An-Ursa-Major-SRM-being-tested.-Photo-via-Ursa-Major-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-09-19T08:07:20+00:00",
+    "url": "https://3dprintingindustry.com/news/department-of-war-invests-in-domestic-srm-production-awards-39-6m-to-three-companies-244566/?utm_source=rss&utm_medium=rss&utm_campaign=department-of-war-invests-in-domestic-srm-production-awards-39-6m-to-three-companies",
+    "title_en": "Department of War Invests in Domestic SRM Production, Awards $39.6M to Three Companies",
+    "summary_bullets_en": [
+      "The U.S. Department of War has allocated $39.6 million to boost domestic solid rocket motor production.",
+      "Three companies have been awarded funds under Title III of the Defense Production Act.",
+      "Recipients include Materials Resources LLC (MRL) and ICF Mercantile LLC (ICF)."
+    ],
+    "summary_bullets_cs": [
+      "Ministerstvo války USA přidělilo 39,6 milionu dolarů na posílení domácí výroby pevných raketových motorů.",
+      "Tři společnosti obdržely finanční prostředky podle hlavy III zákona o obranné výrobě.",
+      "Mezi příjemce patří Materials Resources LLC (MRL) a ICF Mercantile LLC (ICF)."
+    ],
+    "tags": [
+      "Hardware",
+      "Materials Resources LLC",
+      "ICF Mercantile LLC",
+      "Defense Production Act",
+      "Solid Rocket Motor"
+    ]
+  },
+  {
     "title": "Open-Source Berkeley Humanoid Lite demokratizuje přístup k 3D tištěným humanoidním robotům",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/925026110/0/fabbaloo/default~OpenSource-Berkeley-Humanoid-Lite-Democratizes-Access-to-D-Printed-Humanoid-Robots\" rel=\"nofollow\" title=\"Open-Source Berkeley Humanoid Lite Democratizes Access to 3D Printed Humanoid Robots\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/09/berkeley-humanoid-cover-300x221.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have developed a low-cost, 3D printable humanoid robot design.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/925026110/0/fabbaloo/default~OpenSource-Berkeley-Humanoid-Lite-Democratizes-Access-to-D-Printed-Humanoid-Robots\" rel=\"nofollow\">Open-Source Berkeley Humanoid Lite Democratizes Access to 3D Printed Humanoid Robots</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/09/berkeley-humanoid-cover-300x221.jpg",
