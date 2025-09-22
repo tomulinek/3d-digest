@@ -1,5 +1,189 @@
 [
   {
+    "title": "3DPOD 272: Kevin Kassekert, generální ředitel VulcanForms",
+    "summary": "Kevin Kassekert has deep experience building factories for Tesla and has worked in the semiconductor industry. He now helms VulcanForms and is looking to scale their high-yield Laser Powder Bed...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-09-22T12:00:35+00:00",
+    "url": "https://3dprint.com/320476/3dpod-272-kevin-kassekert-vulcanforms-ceo/",
+    "title_en": "3DPOD 272: Kevin Kassekert, VulcanForms CEO",
+    "summary_bullets_en": [
+      "Kevin Kassekert has extensive experience in building factories for Tesla.",
+      "He has also worked in the semiconductor industry.",
+      "Kassekert is now leading VulcanForms, focusing on scaling their Laser Powder Bed technology."
+    ],
+    "summary_bullets_cs": [
+      "Kevin Kassekert má bohaté zkušenosti s budováním továren pro Teslu.",
+      "Pracoval také v polovodičovém průmyslu.",
+      "Nyní vede společnost VulcanForms a zaměřuje se na rozšíření jejich technologie Laser Powder Bed."
+    ],
+    "tags": [
+      "Hardware",
+      "VulcanForms",
+      "Tesla",
+      "Semiconductor"
+    ]
+  },
+  {
+    "title": "Deutsche Bahn využívá každý 3D tisk pro klima s novým nástrojem pro hlášení CO₂",
+    "summary": "Your seat at the Additive Manufacturing Advantage awaits! Register free for AMA: Automotive &#38; Mobility. German rail operator Deutsche Bahn (DB) has approved 3D Spark’s CO₂ reporting tool for spare parts production, integrating it into AM workflows after validating its accuracy. The decision reflects a broader shift in industry, where manufacturers are under mounting pressure to [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/X-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-09-22T09:32:35+00:00",
+    "url": "https://3dprintingindustry.com/news/deutsche-bahn-makes-every-3d-print-count-for-the-climate-with-new-co%e2%82%82-reporting-tool-244651/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bahn-makes-every-3d-print-count-for-the-climate-with-new-co%25e2%2582%2582-reporting-tool",
+    "title_en": "Deutsche Bahn makes every 3D print count for the climate with new CO₂ reporting tool",
+    "summary_bullets_en": [
+      "Deutsche Bahn has approved 3D Spark's CO₂ reporting tool for spare parts production.",
+      "The tool is integrated into DB's additive manufacturing workflows after validation.",
+      "This move reflects a broader industry trend towards sustainability and climate accountability."
+    ],
+    "summary_bullets_cs": [
+      "Deutsche Bahn schválila nástroj 3D Spark pro hlášení CO₂ při výrobě náhradních dílů.",
+      "Nástroj je integrován do pracovních postupů aditivní výroby DB po ověření jeho přesnosti.",
+      "Tento krok odráží širší trend v průmyslu směrem k udržitelnosti a odpovědnosti za klima."
+    ],
+    "tags": [
+      "Software",
+      "Deutsche Bahn",
+      "3D Spark",
+      "Sustainability",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Lunia 3D investuje do Multi Jet Fusion, když velšská firma slaví pět let",
+    "summary": "Lunia 3D, a Cardiff-based 3D printing company, has marked its fifth anniversary with a major investment in Multi Jet Fusion (MJF) technology. The move positions the Welsh firm for its next stage of growth, bringing high-volume powder-based production in-house for the first time. Founded in 2020 by childhood friends Ken Pearce and Yousef Ahmed, Lunia [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/Ken_Pearce_and_Yousef_Ahmed-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-09-22T09:32:05+00:00",
+    "url": "https://3dprintingindustry.com/news/lunia-3d-invests-in-multi-jet-fusion-as-welsh-3d-printing-firm-marks-five-years-244642/?utm_source=rss&utm_medium=rss&utm_campaign=lunia-3d-invests-in-multi-jet-fusion-as-welsh-3d-printing-firm-marks-five-years",
+    "title_en": "Lunia 3D invests in Multi Jet Fusion as Welsh 3D printing firm marks five years",
+    "summary_bullets_en": [
+      "Lunia 3D, a 3D printing company based in Cardiff, celebrates its fifth anniversary.",
+      "The company has made a significant investment in Multi Jet Fusion (MJF) technology.",
+      "This investment allows Lunia 3D to bring high-volume powder-based production in-house.",
+      "Lunia 3D was founded in 2020 by childhood friends Ken Pearce and Yousef Ahmed."
+    ],
+    "summary_bullets_cs": [
+      "Lunia 3D, firma zabývající se 3D tiskem se sídlem v Cardiffu, slaví páté výročí.",
+      "Společnost významně investovala do technologie Multi Jet Fusion (MJF).",
+      "Tato investice umožňuje Lunia 3D přinést vysokokapacitní práškovou výrobu do vlastních prostor.",
+      "Lunia 3D byla založena v roce 2020 dětskými přáteli Kenem Pearcem a Yousefem Ahmedem."
+    ],
+    "tags": [
+      "Hardware",
+      "Multi Jet Fusion",
+      "Lunia 3D"
+    ]
+  },
+  {
+    "title": "Sinterit získává velkou zakázku a financování od FIT navzdory náročnému trhu AM",
+    "summary": "Polish compact selective laser sintering (SLS) 3D printer specialist Sinterit has announced that FIT Additive Manufacturing Group in Germany, one of its key shareholders, has placed an order for more than thirty Lisa X and Suzy 3D printers. In addition, FIT has provided a working capital loan to support Sinterit’s next growth phase. Carl Fruth, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/lisa-x-sls-3d-printer.png-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-09-22T09:31:20+00:00",
+    "url": "https://3dprintingindustry.com/news/sinterit-secures-major-order-and-financing-from-fit-amid-challenging-am-market-244618/?utm_source=rss&utm_medium=rss&utm_campaign=sinterit-secures-major-order-and-financing-from-fit-amid-challenging-am-market",
+    "title_en": "Sinterit Secures Major Order and Financing from FIT Amid Challenging AM Market",
+    "summary_bullets_en": [
+      "Sinterit, a Polish SLS 3D printer specialist, received a significant order from FIT Additive Manufacturing Group.",
+      "FIT, a key shareholder, ordered over thirty Lisa X and Suzy 3D printers.",
+      "FIT also provided a working capital loan to support Sinterit's growth phase."
+    ],
+    "summary_bullets_cs": [
+      "Polský specialista na SLS 3D tiskárny, Sinterit, obdržel významnou zakázku od FIT Additive Manufacturing Group.",
+      "FIT, klíčový akcionář, objednal více než třicet 3D tiskáren Lisa X a Suzy.",
+      "FIT také poskytl provozní úvěr na podporu růstové fáze Sinteritu."
+    ],
+    "tags": [
+      "Hardware",
+      "Sinterit",
+      "FIT Additive Manufacturing Group",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Form Now: Formlabs přináší profesionální 3D tisk bez vlastnictví tiskárny",
+    "summary": "3D printer manufacturer Formlabs is preparing to launch Form Now, an on-demand 3D printing service that enables users to upload designs, select from a range of professional-grade materials, and receive finished parts without owning a 3D printer. Turnaround times are expected within five days, making 3D printing more accessible for individuals and businesses looking to [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/Screenshot-2025-09-19-at-14.10.50-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-09-22T09:29:15+00:00",
+    "url": "https://3dprintingindustry.com/news/form-now-formlabs-brings-professional-3d-printing-without-owning-a-printer-244622/?utm_source=rss&utm_medium=rss&utm_campaign=form-now-formlabs-brings-professional-3d-printing-without-owning-a-printer",
+    "title_en": "Form Now: Formlabs Brings Professional 3D Printing Without Owning a Printer",
+    "summary_bullets_en": [
+      "Formlabs is launching Form Now, an on-demand 3D printing service.",
+      "Users can upload designs and choose from professional-grade materials.",
+      "Finished parts are delivered within five days.",
+      "The service makes 3D printing more accessible for individuals and businesses."
+    ],
+    "summary_bullets_cs": [
+      "Formlabs spouští Form Now, službu 3D tisku na vyžádání.",
+      "Uživatelé mohou nahrát návrhy a vybrat si z profesionálních materiálů.",
+      "Hotové díly jsou doručeny do pěti dnů.",
+      "Služba zpřístupňuje 3D tisk jednotlivcům a firmám."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Formlabs",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Biofuse od Croom Medical: Technologie 3D tisku mřížkových struktur pro pokročilé ortopedické implantáty",
+    "summary": "Irish orthopedic manufacturing specialist Croom Medical has introduced Biofuse, a 3D printed porous ingrowth technology for orthopedic implants. Developed using laser powder bed fusion additive manufacturing, the platform allows OEMs to integrate lattice structures directly into implant geometries, in line with ASTM F1854 standards. “By combining dense and targeted porous regions in a single manufacturing [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/1757600273691-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-09-22T09:27:59+00:00",
+    "url": "https://3dprintingindustry.com/news/croom-medicals-biofuse-3d-printed-lattice-technology-for-advanced-orthopedic-implants-244611/?utm_source=rss&utm_medium=rss&utm_campaign=croom-medicals-biofuse-3d-printed-lattice-technology-for-advanced-orthopedic-implants",
+    "title_en": "Croom Medical’s Biofuse: 3D Printed Lattice Technology for Advanced Orthopedic Implants",
+    "summary_bullets_en": [
+      "Croom Medical has launched Biofuse, a 3D printed porous ingrowth technology for orthopedic implants.",
+      "The technology is developed using laser powder bed fusion additive manufacturing.",
+      "Biofuse allows OEMs to integrate lattice structures directly into implant geometries.",
+      "The platform complies with ASTM F1854 standards."
+    ],
+    "summary_bullets_cs": [
+      "Irská společnost Croom Medical představila Biofuse, technologii 3D tisku porézních struktur pro ortopedické implantáty.",
+      "Technologie je vyvinuta pomocí aditivní výroby s použitím laserového práškového lože.",
+      "Biofuse umožňuje OEM integrovat mřížkové struktury přímo do geometrie implantátů.",
+      "Platforma je v souladu s normami ASTM F1854."
+    ],
+    "tags": [
+      "Hardware",
+      "Croom Medical",
+      "3D Printing",
+      "Orthopedic Implants",
+      "Laser Powder Bed Fusion"
+    ]
+  },
+  {
+    "title": "Ackuretta se připojuje k Pac-Dent pro vytvoření globálního, propojeného ekosystému digitální stomatologie",
+    "summary": "Pac-Dent, a manufacturer of preventive care, has acquired Ackuretta Technologies, a Taiwan-based developer of dental laboratory and chairside 3D printing hardware. This acquisition supports Pac-Dent’s goal of creating an open, interoperable ecosystem that integrates materials, software, and hardware—including printers, companion devices, and workflow tools—to streamline 3D printing for clinicians and labs globally. “The most important [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/1752141649137-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-09-22T09:23:21+00:00",
+    "url": "https://3dprintingindustry.com/news/ackuretta-joins-pac-dent-to-create-global-connected-digital-dentistry-ecosystem-244053/?utm_source=rss&utm_medium=rss&utm_campaign=ackuretta-joins-pac-dent-to-create-global-connected-digital-dentistry-ecosystem",
+    "title_en": "Ackuretta Joins Pac-Dent to Create Global, Connected Digital Dentistry Ecosystem",
+    "summary_bullets_en": [
+      "Pac-Dent has acquired Ackuretta Technologies to enhance its digital dentistry ecosystem.",
+      "The acquisition aims to create an open, interoperable system integrating materials, software, and hardware.",
+      "This integration will streamline 3D printing processes for clinicians and labs worldwide."
+    ],
+    "summary_bullets_cs": [
+      "Pac-Dent získal Ackuretta Technologies pro posílení svého ekosystému digitální stomatologie.",
+      "Cílem akvizice je vytvořit otevřený, interoperabilní systém integrující materiály, software a hardware.",
+      "Tato integrace zjednoduší procesy 3D tisku pro kliniky a laboratoře po celém světě."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Pac-Dent",
+      "Ackuretta Technologies"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 21. září 2025",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/925152710/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-September\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, September 21, 2025\"><img alt=\"Who&#039;s The Biggest In 3D Printing\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg\" style=\"height: auto !important; float: left; margin-right: 5px;\" width=\"1\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/925152710/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-September\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, September 21, 2025</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg",
