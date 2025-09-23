@@ -1,5 +1,87 @@
 [
   {
+    "title": "Výměna nástrojů vs. výměna hot-endů: Bitva o bezodpadový vícebarevný 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/925256015/0/fabbaloo/default~Tool-Changing-vs-HotEnd-Swapping-The-Battle-for-WasteFree-Multicolor-D-Printing\" rel=\"nofollow\" title=\"Tool Changing vs. Hot-End Swapping: The Battle for Waste-Free Multicolor 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/09/race-prusa-bondtech-300x225.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The desktop 3D print world seems to be converging on two technology approaches. Which will win?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/925256015/0/fabbaloo/default~Tool-Changing-vs-HotEnd-Swapping-The-Battle-for-WasteFree-Multicolor-D-Printing\" rel=\"nofollow\">Tool Changing vs. Hot-End Swapping: The Battle for Waste-Free Multicolor 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/09/race-prusa-bondtech-300x225.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-09-23T16:10:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/925256015/0/fabbaloo/default~Tool-Changing-vs-HotEnd-Swapping-The-Battle-for-WasteFree-Multicolor-D-Printing",
+    "title_en": "Tool Changing vs. Hot-End Swapping: The Battle for Waste-Free Multicolor 3D Printing",
+    "summary_bullets_en": [
+      "The desktop 3D printing industry is focusing on two main technologies for multicolor printing: tool changing and hot-end swapping.",
+      "Tool changing involves switching entire print heads, allowing for precise multicolor prints without waste.",
+      "Hot-end swapping focuses on changing only the hot-end, which can be more efficient but may involve some material waste.",
+      "The competition between these technologies aims to achieve waste-free multicolor 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Průmysl stolního 3D tisku se zaměřuje na dvě hlavní technologie pro vícebarevný tisk: výměnu nástrojů a výměnu hot-endů.",
+      "Výměna nástrojů zahrnuje výměnu celých tiskových hlav, což umožňuje přesné vícebarevné tisky bez odpadu.",
+      "Výměna hot-endů se zaměřuje pouze na výměnu hot-endu, což může být efektivnější, ale může zahrnovat určité materiálové ztráty.",
+      "Soutěž mezi těmito technologiemi si klade za cíl dosáhnout bezodpadového vícebarevného 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Multicolor Printing",
+      "Tool Changing",
+      "Hot-End Swapping",
+      "Prusa",
+      "Bondtech"
+    ]
+  },
+  {
+    "title": "IT3D Group nabízí hybridní extruzi pelet a filamentů v rámci průmyslové řady 3D tiskáren",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/925253852/0/fabbaloo/default~ITD-Group-Offers-Hybrid-Pellet-and-Filament-Extrusion-Across-Industrial-D-Printer-Line\" rel=\"nofollow\" title=\"IT3D Group Offers Hybrid Pellet and Filament Extrusion Across Industrial 3D Printer Line\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/09/it3d-fff-fgf-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>IT3D Group produces a flexible line of industrial FFF and FGF 3D printers.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/925253852/0/fabbaloo/default~ITD-Group-Offers-Hybrid-Pellet-and-Filament-Extrusion-Across-Industrial-D-Printer-Line\" rel=\"nofollow\">IT3D Group Offers Hybrid Pellet and Filament Extrusion Across Industrial 3D Printer Line</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/09/it3d-fff-fgf-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-09-23T15:16:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/925253852/0/fabbaloo/default~ITD-Group-Offers-Hybrid-Pellet-and-Filament-Extrusion-Across-Industrial-D-Printer-Line",
+    "title_en": "IT3D Group Offers Hybrid Pellet and Filament Extrusion Across Industrial 3D Printer Line",
+    "summary_bullets_en": [
+      "IT3D Group has developed a versatile line of industrial 3D printers.",
+      "These printers support both FFF (Fused Filament Fabrication) and FGF (Fused Granular Fabrication) technologies.",
+      "The hybrid extrusion capability allows for the use of both pellets and filaments in the printing process."
+    ],
+    "summary_bullets_cs": [
+      "IT3D Group vyvinula flexibilní řadu průmyslových 3D tiskáren.",
+      "Tyto tiskárny podporují technologie FFF (Fused Filament Fabrication) a FGF (Fused Granular Fabrication).",
+      "Hybridní schopnost extruze umožňuje použití jak pelet, tak filamentů v procesu tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "IT3D Group",
+      "FFF",
+      "FGF",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "První podnikatelský oceánský inženýr v Mississippi využívá 3D tisk pro modrou ekonomiku",
+    "summary": "On the Mississippi Gulf Coast, where ocean industries drive the local economy, an engineer is turning 3D printing into a tool for marine innovation. Glenn Anglada has launched a startup...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/09/footer-mississippi.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-09-23T12:30:58+00:00",
+    "url": "https://3dprint.com/320526/mississippi-first-entrepreneurial-ocean-engineer-is-3d-printing-for-the-blue-economy/",
+    "title_en": "Mississippi’s First Entrepreneurial Ocean Engineer is 3D Printing for the Blue Economy",
+    "summary_bullets_en": [
+      "An ocean engineer on the Mississippi Gulf Coast is using 3D printing to innovate in marine industries.",
+      "Glenn Anglada has started a new venture focused on leveraging 3D printing for the blue economy.",
+      "The startup aims to enhance local ocean industries by developing new technologies and solutions."
+    ],
+    "summary_bullets_cs": [
+      "Oceánský inženýr na pobřeží Mississippi využívá 3D tisk k inovacím v námořních odvětvích.",
+      "Glenn Anglada zahájil nový podnik zaměřený na využití 3D tisku pro modrou ekonomiku.",
+      "Startup si klade za cíl zlepšit místní oceánská odvětví vývojem nových technologií a řešení."
+    ],
+    "tags": [
+      "Hardware",
+      "Marine Innovation",
+      "Blue Economy",
+      "3D Printing",
+      "Startup"
+    ]
+  },
+  {
     "title": "Tisk peněz, epizoda 32: Analýza obchodů s 3D tiskem s Tali Rosman",
     "summary": "Welcome to Printing Money Episode 32! Also known as “The one with the 61x Multiple.” Danny’s guest for this episode is Tali Rosman (RHH Advisory). Tali last joined as a...",
     "image": "https://3dprint.com/wp-content/uploads/2023/12/img_7425-1.jpg",
