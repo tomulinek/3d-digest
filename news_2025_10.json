@@ -1,5 +1,111 @@
 [
   {
+    "title": "3DPOD 274: Open Source řízení strojů s Alexanderem Osterem, Autodesk",
+    "summary": "Alexander Oster has done an episode with us before, five years ago. There, we learned about his early start in 3D printing and his work thus far. Now we talk...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-10-06T12:00:10+00:00",
+    "url": "https://3dprint.com/320961/3dpod-274-episode-open-source-machine-control-with-alexander-oster-autodesk/",
+    "title_en": "3DPOD 274: Open Source Machine Control with Alexander Oster, Autodesk",
+    "summary_bullets_en": [
+      "Alexander Oster returns to discuss advancements in open source machine control.",
+      "The conversation explores the evolution of 3D printing technology over the past five years.",
+      "Oster shares insights into Autodesk's role in the development of open source solutions."
+    ],
+    "summary_bullets_cs": [
+      "Alexander Oster se vrací, aby diskutoval o pokrocích v open source řízení strojů.",
+      "Rozhovor zkoumá vývoj technologie 3D tisku za posledních pět let.",
+      "Oster sdílí poznatky o roli Autodesku ve vývoji open source řešení."
+    ],
+    "tags": [
+      "Software",
+      "Autodesk",
+      "Open Source",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Ford Mustang GTD dosáhl času pod sedm minut na Nürburgringu díky 3D tištěnému inženýrství",
+    "summary": "American multinational automaker Ford’s 2025 Mustang GTD has become the first U.S. car to complete a sub-seven-minute lap at the Nürburgring, recording a time of 6:57.685. The achievement was enabled by real-time engineering adjustments and the integration of 3D printed components during testing. Chief Program Engineer Greg Goodall told The Drive that the team developed [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/1733819376363-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-10-06T10:54:44+00:00",
+    "url": "https://3dprintingindustry.com/news/ford-mustang-gtd-achieves-sub-7-minute-nurburgring-lap-with-3d-printed-engineering-245011/?utm_source=rss&utm_medium=rss&utm_campaign=ford-mustang-gtd-achieves-sub-7-minute-nurburgring-lap-with-3d-printed-engineering",
+    "title_en": "Ford Mustang GTD Achieves Sub-7-Minute Nürburgring Lap with 3D Printed Engineering",
+    "summary_bullets_en": [
+      "The 2025 Ford Mustang GTD became the first U.S. car to complete a sub-seven-minute lap at the Nürburgring.",
+      "The car recorded a lap time of 6:57.685.",
+      "Real-time engineering adjustments and 3D printed components were crucial to this achievement.",
+      "Chief Program Engineer Greg Goodall highlighted the role of 3D printing in the testing process."
+    ],
+    "summary_bullets_cs": [
+      "Ford Mustang GTD z roku 2025 se stal prvním americkým vozem, který dokončil kolo na Nürburgringu pod sedm minut.",
+      "Vůz zaznamenal čas kola 6:57.685.",
+      "Klíčovou roli v tomto úspěchu hrály úpravy inženýrství v reálném čase a 3D tištěné komponenty.",
+      "Hlavní programový inženýr Greg Goodall zdůraznil roli 3D tisku v testovacím procesu."
+    ],
+    "tags": [
+      "Hardware",
+      "Ford",
+      "3D Printing",
+      "Automotive",
+      "Nürburgring"
+    ]
+  },
+  {
+    "title": "Presq a Bambu Lab spouštějí open-source platformu pro 3D tištěnou obuv",
+    "summary": "Presq, a design-tech studio focused on creator-driven manufacturing, has announced a footwear partnership with Bambu Lab, a provider of desktop 3D printing systems. The collaboration combines Bambu Lab’s printers with Presq’s design assets, print profiles, and workflows to make it easier for creators and communities to design, print, and produce wearable products. As part of [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/Fig.0_Presq_Bambu_Launch_MakerWorld_5-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-10-06T10:45:11+00:00",
+    "url": "https://3dprintingindustry.com/news/presq-and-bambu-lab-launch-open-source-3d-printed-footwear-platform-245016/?utm_source=rss&utm_medium=rss&utm_campaign=presq-and-bambu-lab-launch-open-source-3d-printed-footwear-platform",
+    "title_en": "Presq and Bambu Lab Launch Open-Source 3D Printed Footwear Platform",
+    "summary_bullets_en": [
+      "Presq partners with Bambu Lab to create an open-source platform for 3D printed footwear.",
+      "The collaboration integrates Bambu Lab's 3D printers with Presq's design assets and workflows.",
+      "The platform aims to simplify the design, printing, and production of wearable products for creators and communities."
+    ],
+    "summary_bullets_cs": [
+      "Presq uzavírá partnerství s Bambu Lab pro vytvoření open-source platformy pro 3D tištěnou obuv.",
+      "Spolupráce integruje 3D tiskárny Bambu Lab s designovými prostředky a pracovními postupy Presq.",
+      "Platforma má za cíl zjednodušit návrh, tisk a výrobu nositelných produktů pro tvůrce a komunity."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Presq",
+      "Bambu Lab",
+      "Footwear",
+      "Open-Source"
+    ]
+  },
+  {
+    "title": "Conflux spolupracuje s Airbusem na termálním managementu vodíkových palivových článků pro vodíková letadla ZEROe",
+    "summary": "Conflux Technology, the Australian specialist in AM heat-exchanger design and manufacture, says it is developing an additively manufactured heat exchanger for Airbus’ ZEROe program. The component is designed to meet the cooling demands of hydrogen-electric, megawatt-class fuel-cell propulsion systems and is currently undergoing a technology-readiness maturity assessment as part of Airbus’s broader hydrogen fuel cell [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/ZEROe-fully-electric-hydrogen-powered-four-pod-aircraft_ZeroE_Turboprop_AIB_VCITY2_Re-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-10-06T10:24:56+00:00",
+    "url": "https://3dprintingindustry.com/news/conflux-partners-with-airbus-on-hydrogen-fuel-cell-thermal-management-for-zeroe-hydrogen-aircraft-245006/?utm_source=rss&utm_medium=rss&utm_campaign=conflux-partners-with-airbus-on-hydrogen-fuel-cell-thermal-management-for-zeroe-hydrogen-aircraft",
+    "title_en": "Conflux partners with Airbus on hydrogen fuel-cell thermal management for ZEROe hydrogen aircraft",
+    "summary_bullets_en": [
+      "Conflux Technology is collaborating with Airbus to develop a heat exchanger for the ZEROe hydrogen aircraft program.",
+      "The heat exchanger is designed to meet the cooling needs of hydrogen-electric, megawatt-class fuel-cell propulsion systems.",
+      "The component is currently undergoing a technology-readiness maturity assessment as part of Airbus's hydrogen fuel cell initiatives."
+    ],
+    "summary_bullets_cs": [
+      "Conflux Technology spolupracuje s Airbusem na vývoji výměníku tepla pro program vodíkových letadel ZEROe.",
+      "Výměník tepla je navržen tak, aby splňoval chladicí potřeby vodíkově-elektrických pohonných systémů třídy megawatt.",
+      "Komponenta prochází hodnocením technologické připravenosti v rámci iniciativ Airbusu pro vodíkové palivové články."
+    ],
+    "tags": [
+      "Hardware",
+      "Conflux Technology",
+      "Airbus",
+      "Hydrogen Fuel Cell",
+      "ZEROe"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 5. října 2025",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/925802567/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-October\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, October 5, 2025\"><img alt=\"Who&#039;s The Biggest In 3D Printing\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg\" style=\"height: auto !important; float: left; margin-right: 5px;\" width=\"1\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/925802567/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-October\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, October 5, 2025</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg",
