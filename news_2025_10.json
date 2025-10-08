@@ -1,5 +1,89 @@
 [
   {
+    "title": "Pavoukovitý robot kombinuje 3D tisk a stavebnictví pro pozemské a lunární aplikace",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/spider-like-robot-combines-3d-printing-and-construction-for-earth-and-lunar-applications/\" target=\"_blank\">Spider-Like Robot Combines 3D Printing and Construction for Earth and Lunar Applications</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">October 8</span></div><div><img alt=\"Spider-Like Robot Combines 3D Printing and Construction for Earth and Lunar Applications\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/e28f9eb65c6dbcb1d6d91e4501071af4-500x500.jpeg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/e28f9eb65c6dbcb1d6d91e4501071af4-500x500.jpeg",
+    "source": "3DPrinting.com",
+    "published": "2025-10-08T11:14:19+00:00",
+    "url": "https://3dprinting.com/news/spider-like-robot-combines-3d-printing-and-construction-for-earth-and-lunar-applications/",
+    "title_en": "Spider-Like Robot Combines 3D Printing and Construction for Earth and Lunar Applications",
+    "summary_bullets_en": [
+      "A spider-like robot integrates 3D printing technology with construction capabilities.",
+      "The robot is designed for both terrestrial and lunar construction projects.",
+      "It aims to revolutionize building processes by offering flexibility and efficiency.",
+      "The technology could be pivotal for future space exploration and habitation."
+    ],
+    "summary_bullets_cs": [
+      "Pavoukovitý robot integruje technologii 3D tisku se stavebními schopnostmi.",
+      "Robot je navržen pro pozemské i lunární stavební projekty.",
+      "Cílem je revoluce ve stavebních procesech díky flexibilitě a efektivitě.",
+      "Technologie by mohla být klíčová pro budoucí průzkum vesmíru a osídlení."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Construction",
+      "Space Exploration",
+      "Lunar Applications"
+    ]
+  },
+  {
+    "title": "Muž z Tulsu obviněn z pokusu o dodání 3D tištěných zbraní kontaktu al-Káidy",
+    "summary": "A Tulsa, Oklahoma, man has been charged after allegedly attempting to supply 3D printed firearm components to an individual he believed was acting on behalf of al-Qaida, according to a criminal complaint unsealed on September 24. Andrew Scott Hastings, 25, faces federal charges for attempting to provide material support to a designated foreign terrorist organization [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/Ghost-gun-copy-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-10-08T08:22:04+00:00",
+    "url": "https://3dprintingindustry.com/news/tulsa-man-charged-with-attempting-to-supply-3d-printed-weapons-to-al-qaida-contact-245090/?utm_source=rss&utm_medium=rss&utm_campaign=tulsa-man-charged-with-attempting-to-supply-3d-printed-weapons-to-al-qaida-contact",
+    "title_en": "Tulsa Man Charged with Attempting to Supply 3D Printed Weapons to al-Qaida Contact",
+    "summary_bullets_en": [
+      "A man from Tulsa, Oklahoma, has been charged with attempting to supply 3D printed firearm components.",
+      "He allegedly believed he was providing these components to an al-Qaida contact.",
+      "The charges include attempting to provide material support to a designated foreign terrorist organization."
+    ],
+    "summary_bullets_cs": [
+      "Muž z Tulsu v Oklahomě byl obviněn z pokusu o dodání komponentů 3D tištěných zbraní.",
+      "Údajně věřil, že tyto komponenty poskytuje kontaktu al-Káidy.",
+      "Obvinění zahrnují pokus o poskytnutí materiální podpory určené zahraniční teroristické organizaci."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Firearms",
+      "Terrorism",
+      "al-Qaida"
+    ]
+  },
+  {
+    "title": "Výzkumníci z Northwesternu pokročili v rámci digitálního dvojčete pro řízení procesu laserového DED",
+    "summary": "Researchers at Northwestern University and Case Western Reserve University have unveiled a digital twin framework designed to optimize laser-directed energy deposition (DED) using machine learning and Bayesian optimization. The system integrates a Bayesian Long Short-Term Memory (LSTM) neural network for predictive thermal modeling with a new algorithm for process optimization, establishing one of the most [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/image-4-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-10-08T08:19:46+00:00",
+    "url": "https://3dprintingindustry.com/news/northwestern-researchers-advance-digital-twin-framework-for-laser-ded-process-control-245052/?utm_source=rss&utm_medium=rss&utm_campaign=northwestern-researchers-advance-digital-twin-framework-for-laser-ded-process-control",
+    "title_en": "Northwestern researchers advance digital twin framework for laser DED process control",
+    "summary_bullets_en": [
+      "Researchers at Northwestern University and Case Western Reserve University have developed a digital twin framework for optimizing laser-directed energy deposition (DED).",
+      "The framework utilizes machine learning and Bayesian optimization to enhance the DED process.",
+      "A Bayesian Long Short-Term Memory (LSTM) neural network is integrated for predictive thermal modeling.",
+      "A new algorithm for process optimization is part of the system, aiming to improve efficiency and precision."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Northwestern University a Case Western Reserve University vyvinuli rámec digitálního dvojčete pro optimalizaci laserového řízeného nanášení energie (DED).",
+      "Rámec využívá strojové učení a Bayesovskou optimalizaci ke zlepšení procesu DED.",
+      "Do systému je integrována Bayesovská neuronová síť LSTM pro prediktivní tepelné modelování.",
+      "Součástí systému je nový algoritmus pro optimalizaci procesu, který má za cíl zlepšit efektivitu a přesnost."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Machine Learning",
+      "Bayesian Optimization",
+      "Northwestern University",
+      "Case Western Reserve University",
+      "Laser DED"
+    ]
+  },
+  {
     "title": "Spotřeba energie se stává klíčovou výzvou pro uzavřené CoreXY 3D tiskárny",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/925910285/0/fabbaloo/default~Energy-Use-Emerges-as-Key-Challenge-for-Enclosed-CoreXY-D-Printers\" rel=\"nofollow\" title=\"Energy Use Emerges as Key Challenge for Enclosed CoreXY 3D Printers\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/ibw-additive-insulation-cover-300x250.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The latest desktop 3D printer form factor has introduced a new challenge: power consumption.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/925910285/0/fabbaloo/default~Energy-Use-Emerges-as-Key-Challenge-for-Enclosed-CoreXY-D-Printers\" rel=\"nofollow\">Energy Use Emerges as Key Challenge for Enclosed CoreXY 3D Printers</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/ibw-additive-insulation-cover-300x250.jpeg",
