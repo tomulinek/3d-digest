@@ -1,5 +1,58 @@
 [
   {
+    "title": "Novinky z 3D tisku, 11. října 2025: Kovový prášek, texturování, spánková apnoe a další",
+    "summary": "We&#8217;re starting with material news in this weekend&#8217;s 3D Printing News Briefs, as Continuum Powders has announced availability of its Cobalt-Chrome F75 powder. Moving on, Dyndrite LPBF Pro now supports...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/10/Continuum-datasheet-1024x341.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-10-11T12:30:46+00:00",
+    "url": "https://3dprint.com/321336/3d-printing-news-briefs-10-11-2025/",
+    "title_en": "3D Printing News Briefs, October 11, 2025: Metal Powder, Texturizing, Sleep Apnea, & More",
+    "summary_bullets_en": [
+      "Continuum Powders has released its Cobalt-Chrome F75 powder for 3D printing.",
+      "Dyndrite LPBF Pro now includes support for new texturizing features.",
+      "Innovations in 3D printing are being applied to address sleep apnea.",
+      "The industry continues to expand with new materials and applications."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Continuum Powders uvedla na trh svůj prášek Cobalt-Chrome F75 pro 3D tisk.",
+      "Dyndrite LPBF Pro nyní podporuje nové funkce texturování.",
+      "Inovace v 3D tisku se využívají k řešení spánkové apnoe.",
+      "Průmysl se nadále rozšiřuje o nové materiály a aplikace."
+    ],
+    "tags": [
+      "Material",
+      "Software",
+      "Continuum Powders",
+      "Dyndrite"
+    ]
+  },
+  {
+    "title": "Reardonův kov, znovuobjevený: 3D tištěný hliník od MIT dosahuje pětinásobné pevnosti",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/926110916/0/fabbaloo/default~Reardon-Metal-Reimagined-MIT%e2%80%99s-D-Printed-Aluminum-Hits-FiveFold-Strength\" rel=\"nofollow\" title=\"Reardon Metal, Reimagined: MIT’s 3D Printed Aluminum Hits Five-Fold Strength\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/MIT-1-183x300.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"183\" /></a><p>Charles R. Goulding and Preeti Sulibhavi lead the charge into a new age of metals by reporting on how MIT engineers are leveraging machine learning and 3D printing to transform ordinary aluminum into a super-strong structural alloy.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/926110916/0/fabbaloo/default~Reardon-Metal-Reimagined-MIT%e2%80%99s-D-Printed-Aluminum-Hits-FiveFold-Strength\" rel=\"nofollow\">Reardon Metal, Reimagined: MIT’s 3D Printed Aluminum Hits Five-Fold Strength</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/MIT-1-183x300.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-10-11T12:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/926110916/0/fabbaloo/default~Reardon-Metal-Reimagined-MIT%e2%80%99s-D-Printed-Aluminum-Hits-FiveFold-Strength",
+    "title_en": "Reardon Metal, Reimagined: MIT’s 3D Printed Aluminum Hits Five-Fold Strength",
+    "summary_bullets_en": [
+      "MIT engineers have developed a new method to enhance the strength of aluminum using 3D printing and machine learning.",
+      "The resulting aluminum alloy is five times stronger than conventional aluminum.",
+      "This breakthrough could lead to significant advancements in structural applications and materials science."
+    ],
+    "summary_bullets_cs": [
+      "Inženýři z MIT vyvinuli novou metodu pro zvýšení pevnosti hliníku pomocí 3D tisku a strojového učení.",
+      "Výsledná hliníková slitina je pětkrát pevnější než běžný hliník.",
+      "Tento průlom by mohl vést k významným pokrokům ve strukturálních aplikacích a materiálové vědě."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "MIT",
+      "3D Printing",
+      "Machine Learning"
+    ]
+  },
+  {
     "title": "Bambu Lab spouští Trust Center pro zvýšení transparentnosti v oblasti bezpečnosti a soukromí 3D tiskáren",
     "summary": "Shenzhen-based Bambu Lab has launched its new Trust Center, a public resource providing users with complete documentation on the company’s security and privacy practices. The launch coincides with the release of Bambu Lab’s first Security White Paper and its achievement of three major international certifications: ISO/IEC 27001, ISO/IEC 27701, and TRUSTe Enterprise Privacy. According to [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/Bambu-Lab-H2S-3D-printer.-Image-via-Bambu-Lab-150x100.jpg",
