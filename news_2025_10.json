@@ -1,5 +1,165 @@
 [
   {
+    "title": "Výzkumníci vyvinuli metodu pro „programování“ tuhosti voxelů v 3D tisku z pryskyřice",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/926201504/0/fabbaloo/default~Researchers-Develop-Method-to-%e2%80%9cProgram%e2%80%9d-Voxel-Stiffness-in-Resin-D-Printing\" rel=\"nofollow\" title=\"Researchers Develop Method to “Program” Voxel Stiffness in Resin 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/grayscale-printing-cover-300x286.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have found a way to “program” voxels in resin 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/926201504/0/fabbaloo/default~Researchers-Develop-Method-to-%e2%80%9cProgram%e2%80%9d-Voxel-Stiffness-in-Resin-D-Printing\" rel=\"nofollow\">Researchers Develop Method to “Program” Voxel Stiffness in Resin 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/grayscale-printing-cover-300x286.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-10-13T16:33:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/926201504/0/fabbaloo/default~Researchers-Develop-Method-to-%e2%80%9cProgram%e2%80%9d-Voxel-Stiffness-in-Resin-D-Printing",
+    "title_en": "Researchers Develop Method to “Program” Voxel Stiffness in Resin 3D Printing",
+    "summary_bullets_en": [
+      "Researchers have discovered a technique to control voxel stiffness in resin 3D printing.",
+      "This method allows for precise manipulation of material properties at a voxel level.",
+      "The innovation could lead to more versatile and functional 3D printed objects."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci objevili techniku pro řízení tuhosti voxelů v 3D tisku z pryskyřice.",
+      "Tato metoda umožňuje přesnou manipulaci s vlastnostmi materiálu na úrovni voxelů.",
+      "Inovace by mohla vést k všestrannějším a funkčnějším 3D tištěným objektům."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Voxel",
+      "Resin"
+    ]
+  },
+  {
+    "title": "Smart Plant Foundations využívá 3D tisk k optimalizaci růstu sazenic",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/926198168/0/fabbaloo/default~Smart-Plant-Foundations%e2%80%99-Uses-D-Printing-to-Optimize-Seedling-Growth\" rel=\"nofollow\" title=\"Smart Plant Foundations’ Uses 3D Printing to Optimize Seedling Growth\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/smart-plant-foundations-cover-300x197.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new application for 3D printing has been developed for smart farming.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/926198168/0/fabbaloo/default~Smart-Plant-Foundations%e2%80%99-Uses-D-Printing-to-Optimize-Seedling-Growth\" rel=\"nofollow\">Smart Plant Foundations’ Uses 3D Printing to Optimize Seedling Growth</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/smart-plant-foundations-cover-300x197.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-10-13T15:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/926198168/0/fabbaloo/default~Smart-Plant-Foundations%e2%80%99-Uses-D-Printing-to-Optimize-Seedling-Growth",
+    "title_en": "Smart Plant Foundations’ Uses 3D Printing to Optimize Seedling Growth",
+    "summary_bullets_en": [
+      "Smart Plant Foundations has developed a new application for 3D printing in smart farming.",
+      "The technology is used to optimize the growth of seedlings.",
+      "3D printing allows for precise customization of plant growth environments."
+    ],
+    "summary_bullets_cs": [
+      "Smart Plant Foundations vyvinula novou aplikaci pro 3D tisk ve smart farmářství.",
+      "Technologie se používá k optimalizaci růstu sazenic.",
+      "3D tisk umožňuje přesné přizpůsobení prostředí pro růst rostlin."
+    ],
+    "tags": [
+      "Hardware",
+      "Smart Plant Foundations",
+      "3D Printing",
+      "Agriculture",
+      "Seedling Growth"
+    ]
+  },
+  {
+    "title": "Software je revoluce v aditivní výrobě, na kterou stále čekáme",
+    "summary": "3DP War Journal #67",
+    "image": "https://substackcdn.com/image/fetch/$s_!65V8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3a6c619-532a-4fbd-b6ac-340900516d39_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-10-13T14:03:21+00:00",
+    "url": "https://www.3dprintingjournal.com/p/software-is-the-am-revolution-were",
+    "title_en": "Software is the AM revolution we’re still waiting for",
+    "summary_bullets_en": [
+      "The article discusses the crucial role of software in advancing additive manufacturing (AM) technologies.",
+      "Despite hardware advancements, the software side of AM has not kept pace, limiting the full potential of 3D printing.",
+      "There is a call for more sophisticated software solutions to enhance design, simulation, and production processes in AM."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá klíčovou rolí softwaru v pokroku technologií aditivní výroby (AM).",
+      "Navzdory pokrokům v hardwaru softwarová stránka AM nedrží krok, což omezuje plný potenciál 3D tisku.",
+      "Je zde výzva k vývoji sofistikovanějších softwarových řešení pro zlepšení návrhu, simulace a výrobních procesů v AM."
+    ],
+    "tags": [
+      "Software",
+      "Additive Manufacturing",
+      "3D Printing",
+      "Design",
+      "Simulation",
+      "Production"
+    ]
+  },
+  {
+    "title": "Výzkumníci z EPFL vyvinuli metodu „infúze hydrogelu“ pro 3D tisk hustých kovů a keramiky",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/926189213/0/fabbaloo/default~EPFL-Researchers-Develop-%e2%80%9cHydrogel-Infusion%e2%80%9d-Method-for-D-Printing-Dense-Metals-and-Ceramics\" rel=\"nofollow\" title=\"EPFL Researchers Develop “Hydrogel Infusion” Method for 3D Printing Dense Metals and Ceramics\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/metal-ceramic-method-cover-300x238.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers at EPFL have discovered an entirely new method of 3D printing metals and ceramics.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/926189213/0/fabbaloo/default~EPFL-Researchers-Develop-%e2%80%9cHydrogel-Infusion%e2%80%9d-Method-for-D-Printing-Dense-Metals-and-Ceramics\" rel=\"nofollow\">EPFL Researchers Develop “Hydrogel Infusion” Method for 3D Printing Dense Metals and Ceramics</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/metal-ceramic-method-cover-300x238.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-10-13T13:39:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/926189213/0/fabbaloo/default~EPFL-Researchers-Develop-%e2%80%9cHydrogel-Infusion%e2%80%9d-Method-for-D-Printing-Dense-Metals-and-Ceramics",
+    "title_en": "EPFL Researchers Develop “Hydrogel Infusion” Method for 3D Printing Dense Metals and Ceramics",
+    "summary_bullets_en": [
+      "EPFL researchers have developed a new method for 3D printing metals and ceramics using hydrogel infusion.",
+      "This innovative technique allows for the creation of dense metal and ceramic structures.",
+      "The method could potentially revolutionize the way dense materials are printed, offering new possibilities in manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z EPFL vyvinuli novou metodu 3D tisku kovů a keramiky pomocí infúze hydrogelu.",
+      "Tato inovativní technika umožňuje vytváření hustých kovových a keramických struktur.",
+      "Metoda by mohla potenciálně revolucionalizovat způsob tisku hustých materiálů a nabídnout nové možnosti ve výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "EPFL",
+      "3D Printing",
+      "Hydrogel Infusion"
+    ]
+  },
+  {
+    "title": "Uvnitř seznamu vynálezů TIME 2025: Významné a překvapivé objevy v 3D tisku (a ty, které chyběly)",
+    "summary": "When TIME Magazine unveiled its list of the 300 Best Inventions of 2025, it offered a snapshot of what the future might look like, from smart health tech to clever...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/10/eufymake-UV-printer-E1-TIME-best-inventions-2025.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-10-13T13:30:59+00:00",
+    "url": "https://3dprint.com/321315/inside-times-2025-inventions-list-3d-printings-standouts-and-surprises-and-the-ones-they-missed/",
+    "title_en": "Inside TIME’s 2025 Inventions List: 3D Printing’s Standouts and Surprises (and the Ones They Missed)",
+    "summary_bullets_en": [
+      "TIME Magazine's 2025 list highlights the most innovative inventions, including advancements in 3D printing.",
+      "The list showcases a range of 3D printing technologies, from medical applications to sustainable materials.",
+      "Some notable 3D printing innovations were surprisingly omitted from the list, sparking discussions in the tech community.",
+      "The article explores both the recognized and overlooked contributions of 3D printing to future technology."
+    ],
+    "summary_bullets_cs": [
+      "Seznam časopisu TIME pro rok 2025 zdůrazňuje nejinovativnější vynálezy, včetně pokroků v 3D tisku.",
+      "Seznam představuje škálu technologií 3D tisku, od lékařských aplikací po udržitelné materiály.",
+      "Některé významné inovace v 3D tisku byly překvapivě vynechány, což vyvolalo diskuse v technologické komunitě.",
+      "Článek zkoumá jak uznané, tak přehlížené příspěvky 3D tisku k budoucí technologii."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Innovation",
+      "TIME Magazine",
+      "Medical Applications",
+      "Sustainable Materials"
+    ]
+  },
+  {
+    "title": "Atlanta VA jako první v systému zdravotní péče pro veterány v USA nabízí 3D tištěné sádry a dlahy",
+    "summary": "The potential for additive manufacturing (AM) in the military is by no means limited to applications like propulsion hardware, drones, and explosives. 3D printed medical devices, for instance, have attracted...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/10/IMG_1938.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-10-13T12:30:17+00:00",
+    "url": "https://3dprint.com/321325/atlanta-va-first-in-u-s-veterans-health-care-system-to-offer-3d-printed-casts-splints/",
+    "title_en": "Atlanta VA First in U.S. Veterans Health Care System to Offer 3D Printed Casts & Splints",
+    "summary_bullets_en": [
+      "The Atlanta VA is pioneering the use of 3D printed medical devices in the U.S. Veterans Health Care System.",
+      "3D printed casts and splints are being introduced to improve patient care and comfort.",
+      "Additive manufacturing is expanding beyond traditional military applications to include medical innovations."
+    ],
+    "summary_bullets_cs": [
+      "Atlanta VA je průkopníkem v používání 3D tištěných zdravotnických zařízení v systému zdravotní péče pro veterány v USA.",
+      "3D tištěné sádry a dlahy jsou zaváděny ke zlepšení péče o pacienty a jejich pohodlí.",
+      "Aditivní výroba se rozšiřuje za tradiční vojenské aplikace a zahrnuje i lékařské inovace."
+    ],
+    "tags": [
+      "Hardware",
+      "Medical Devices",
+      "Additive Manufacturing",
+      "Veterans Health Care",
+      "3D Printing"
+    ]
+  },
+  {
     "title": "3DPOD 275: AM ve Španělsku s Naiarou Zubizarretou, ADDIMAT",
     "summary": "Naiara Zubizarreta heads up ADDIMAT, Spain&#8217;s 3D printing federation. Representing Spanish Additive Manufacturing users, OEMs, materials firms, and research institutes, she&#8217;s come to tell us about 3D printing in Spain....",
     "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
