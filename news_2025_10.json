@@ -1,5 +1,133 @@
 [
   {
+    "title": "Výzkumníci z MIT vyvinuli generativní CAD systém optimalizovaný pro omezení 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/926351516/0/fabbaloo/default~MIT-Researchers-Develop-Generative-CAD-System-Optimized-for-D-Printing-Constraints\" rel=\"nofollow\" title=\"MIT Researchers Develop Generative CAD System Optimized for 3D Printing Constraints\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/ncto-cover-300x156.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have developed a generative CAD system specifically for 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/926351516/0/fabbaloo/default~MIT-Researchers-Develop-Generative-CAD-System-Optimized-for-D-Printing-Constraints\" rel=\"nofollow\">MIT Researchers Develop Generative CAD System Optimized for 3D Printing Constraints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/ncto-cover-300x156.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-10-16T16:26:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/926351516/0/fabbaloo/default~MIT-Researchers-Develop-Generative-CAD-System-Optimized-for-D-Printing-Constraints",
+    "title_en": "MIT Researchers Develop Generative CAD System Optimized for 3D Printing Constraints",
+    "summary_bullets_en": [
+      "MIT researchers have created a new generative CAD system.",
+      "The system is specifically optimized for the constraints of 3D printing.",
+      "This development aims to enhance the design process for 3D printed objects."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z MIT vytvořili nový generativní CAD systém.",
+      "Systém je speciálně optimalizován pro omezení 3D tisku.",
+      "Tento vývoj má za cíl zlepšit proces návrhu pro objekty tištěné ve 3D."
+    ],
+    "tags": [
+      "Software",
+      "3D Printing",
+      "MIT",
+      "CAD"
+    ]
+  },
+  {
+    "title": "Výzkum ve Stuttgartu pokročil v 3D tisku uvnitř těla díky novému grantu ve výši 1,8 milionu eur",
+    "summary": "A new research group at the University of Stuttgart is working on a study that involves 3D printing tissue directly inside the human body. Led by Dr. Andrea Toulouse from the Institute of Applied Optics, the project has received €1.8 million in funding from the Carl-Zeiss-Stiftung (CZS) through its CZS Nexus program. This funding has [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/pm-33-25-3DDruck-2-toulouse-Labor-universitaet-stuttgart-ito-ur-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-10-16T16:07:55+00:00",
+    "url": "https://3dprintingindustry.com/news/stuttgart-research-advances-in-body-3d-printing-with-new-e1-8m-grant-245344/?utm_source=rss&utm_medium=rss&utm_campaign=stuttgart-research-advances-in-body-3d-printing-with-new-e1-8m-grant",
+    "title_en": "Stuttgart Research Advances In-Body 3D Printing with New €1.8M Grant",
+    "summary_bullets_en": [
+      "A research group at the University of Stuttgart is exploring 3D printing tissue directly inside the human body.",
+      "The project is led by Dr. Andrea Toulouse from the Institute of Applied Optics.",
+      "The research has received €1.8 million in funding from the Carl-Zeiss-Stiftung through its CZS Nexus program."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumná skupina na Univerzitě ve Stuttgartu zkoumá 3D tisk tkání přímo uvnitř lidského těla.",
+      "Projekt vede Dr. Andrea Toulouse z Institutu aplikované optiky.",
+      "Výzkum získal financování ve výši 1,8 milionu eur od Carl-Zeiss-Stiftung prostřednictvím programu CZS Nexus."
+    ],
+    "tags": [
+      "Hardware",
+      "University of Stuttgart",
+      "Carl-Zeiss-Stiftung",
+      "3D Printing",
+      "Medical Research"
+    ]
+  },
+  {
+    "title": "Bezpečnost v cloudových službách 3D tisku: Kdo může legálně přistupovat k vašim datům?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/926347370/0/fabbaloo/default~Security-in-D-Printing-Clouds-Who-Can-Legally-Access-Your-Data\" rel=\"nofollow\" title=\"Security in 3D Printing Clouds: Who Can Legally Access Your Data?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/cloud-security-cover-300x170.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>I’ve been thinking about 3D print cloud security.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/926347370/0/fabbaloo/default~Security-in-D-Printing-Clouds-Who-Can-Legally-Access-Your-Data\" rel=\"nofollow\">Security in 3D Printing Clouds: Who Can Legally Access Your Data?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/cloud-security-cover-300x170.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-10-16T15:04:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/926347370/0/fabbaloo/default~Security-in-D-Printing-Clouds-Who-Can-Legally-Access-Your-Data",
+    "title_en": "Security in 3D Printing Clouds: Who Can Legally Access Your Data?",
+    "summary_bullets_en": [
+      "The article explores the security concerns related to cloud-based 3D printing services.",
+      "It discusses who may have legal access to data stored in 3D printing clouds.",
+      "The importance of understanding data privacy and protection in the context of 3D printing is emphasized."
+    ],
+    "summary_bullets_cs": [
+      "Článek zkoumá bezpečnostní obavy spojené s cloudovými službami 3D tisku.",
+      "Diskutuje o tom, kdo může mít legální přístup k datům uloženým v cloudech pro 3D tisk.",
+      "Zdůrazňuje se důležitost porozumění ochraně a soukromí dat v kontextu 3D tisku."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "3D Printing",
+      "Cloud Security",
+      "Data Privacy"
+    ]
+  },
+  {
+    "title": "Robot Hadrian od FBR rozmazává hranici mezi 3D tiskem a automatizovaným zděním",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/926340140/0/fabbaloo/default~FBR%e2%80%99s-Hadrian-Robot-Blurs-the-Line-Between-D-Printing-and-Automated-Bricklaying\" rel=\"nofollow\" title=\"FBR’s Hadrian Robot Blurs the Line Between 3D Printing and Automated Bricklaying\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/hadrian-cover-300x167.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>I’m reading about an unusual robotic construction system and comparing it to 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/926340140/0/fabbaloo/default~FBR%e2%80%99s-Hadrian-Robot-Blurs-the-Line-Between-D-Printing-and-Automated-Bricklaying\" rel=\"nofollow\">FBR’s Hadrian Robot Blurs the Line Between 3D Printing and Automated Bricklaying</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/hadrian-cover-300x167.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-10-16T13:02:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/926340140/0/fabbaloo/default~FBR%e2%80%99s-Hadrian-Robot-Blurs-the-Line-Between-D-Printing-and-Automated-Bricklaying",
+    "title_en": "FBR’s Hadrian Robot Blurs the Line Between 3D Printing and Automated Bricklaying",
+    "summary_bullets_en": [
+      "The Hadrian robot by FBR is an innovative construction system that combines elements of 3D printing and automated bricklaying.",
+      "This technology aims to revolutionize the construction industry by increasing efficiency and reducing labor costs.",
+      "The Hadrian robot can lay bricks with high precision, potentially transforming traditional building methods."
+    ],
+    "summary_bullets_cs": [
+      "Robot Hadrian od FBR je inovativní stavební systém, který kombinuje prvky 3D tisku a automatizovaného zdění.",
+      "Tato technologie má za cíl revoluci ve stavebnictví zvýšením efektivity a snížením nákladů na práci.",
+      "Robot Hadrian dokáže pokládat cihly s vysokou přesností, což může transformovat tradiční stavební metody."
+    ],
+    "tags": [
+      "Hardware",
+      "FBR",
+      "Construction",
+      "3D Printing",
+      "Automation"
+    ]
+  },
+  {
+    "title": "Snapmaker U1 se stává nejvíce financovaným projektem 3D tiskárny na Kickstarteru",
+    "summary": "Shenzhen, China-based Snapmaker has done it again. The desktop 3D printer OEM launched its U1 3D printer on Kickstarter a few months ago, and as of September 30, 2025, the...",
+    "image": "https://s.w.org/images/core/emoji/15.1.0/72x72/1f680.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-10-16T12:30:39+00:00",
+    "url": "https://3dprint.com/321431/snapmaker-u1-becomes-kickstarters-most-funded-3d-printer-project/",
+    "title_en": "Snapmaker’s U1 Becomes Kickstarter’s Most Funded 3D Printer Project",
+    "summary_bullets_en": [
+      "Snapmaker, based in Shenzhen, China, has launched its U1 3D printer on Kickstarter.",
+      "The U1 3D printer has become the most funded 3D printer project on Kickstarter as of September 30, 2025.",
+      "Snapmaker continues to innovate in the desktop 3D printing market."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Snapmaker se sídlem v čínském Shenzhenu spustila svou 3D tiskárnu U1 na Kickstarteru.",
+      "3D tiskárna U1 se stala nejvíce financovaným projektem 3D tiskárny na Kickstarteru k 30. září 2025.",
+      "Snapmaker nadále inovuje na trhu stolních 3D tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "Snapmaker",
+      "3D Printing",
+      "Kickstarter"
+    ]
+  },
+  {
     "title": "Stratasys a jeho zaměření na letectví: Jak 3D tisk pohání drony, vesmír a obrannou připravenost",
     "summary": "When Foster Ferguson joined Stratasys after a long career in the U.S. Marine Corps, he brought with him a logistics mindset: every mission succeeds or fails on readiness. That same...",
     "image": "https://3dprint.com/wp-content/uploads/2025/10/1743044355900.jpg",
