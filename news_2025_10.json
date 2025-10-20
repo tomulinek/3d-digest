@@ -1,5 +1,55 @@
 [
   {
+    "title": "3DPOD 276: 3D tisk s PEKK se Scottem De Felicem, Oxford Performance Materials",
+    "summary": "Scott De Felice has been on a 25 year journey with Oxford Performance Materials. His company is a pioneer in PEKK, a very high-performance polymer with many properties that make...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-10-20T12:00:25+00:00",
+    "url": "https://3dprint.com/321150/3dpod-276-pekk-3d-printing-with-scott-de-felice-oxford-performance-materials/",
+    "title_en": "3DPOD 276: PEKK 3D Printing with Scott De Felice, Oxford Performance Materials",
+    "summary_bullets_en": [
+      "Scott De Felice has been involved with Oxford Performance Materials for 25 years, focusing on high-performance polymers.",
+      "The company is a pioneer in the development and application of PEKK, a high-performance polymer.",
+      "PEKK offers unique properties that make it suitable for various demanding applications."
+    ],
+    "summary_bullets_cs": [
+      "Scott De Felice je již 25 let spojen s Oxford Performance Materials, zaměřuje se na vysoce výkonné polymery.",
+      "Společnost je průkopníkem ve vývoji a aplikaci PEKK, vysoce výkonného polymeru.",
+      "PEKK nabízí jedinečné vlastnosti, které ho činí vhodným pro různé náročné aplikace."
+    ],
+    "tags": [
+      "Material",
+      "Oxford Performance Materials",
+      "PEKK",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "PCBWay snižuje ceny 3D tisku z PLA a TPU až o 40%",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/pcbway-drops-pla-and-tpu-3d-printing-prices/\" target=\"_blank\">PCBWay Drops PLA and TPU 3D Printing Prices by Up to 40%</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">October 20</span></div><div><img alt=\"PCBWay PLA and TPU Price drop announced\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/TPU16-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/TPU16-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-10-20T09:30:23+00:00",
+    "url": "https://3dprinting.com/news/pcbway-drops-pla-and-tpu-3d-printing-prices/",
+    "title_en": "PCBWay Drops PLA and TPU 3D Printing Prices by Up to 40%",
+    "summary_bullets_en": [
+      "PCBWay has announced a significant price reduction for PLA and TPU 3D printing materials.",
+      "The price drop is up to 40%, making these materials more accessible to consumers.",
+      "This move is expected to attract more customers to PCBWay's 3D printing services."
+    ],
+    "summary_bullets_cs": [
+      "PCBWay oznámila výrazné snížení cen materiálů pro 3D tisk z PLA a TPU.",
+      "Snížení cen dosahuje až 40 %, což činí tyto materiály dostupnějšími pro spotřebitele.",
+      "Tento krok má přilákat více zákazníků k 3D tiskovým službám PCBWay."
+    ],
+    "tags": [
+      "Material",
+      "PCBWay",
+      "PLA",
+      "TPU"
+    ]
+  },
+  {
     "title": "Hellhound S3 od Cummings Aerospace dosáhl 30 km v testu letu, ukazuje na dosah přes 60 km",
     "summary": "Aerospace engineering company Cummings Aerospace recently conducted a flight test of its Hellhound S3 at the Pendleton UAS Range in Oregon. The test supports the Department of War’s goal of asserting U.S. military drone superiority by leveraging 3D printing for faster, more cost-effective production. During the test, the man-portable loitering munition, equipped with an inert [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/Cummings_Aerospace_HELLHOUND_S3-150x100.jpg",
