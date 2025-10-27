@@ -1,5 +1,35 @@
 [
   {
+    "title": "Nový výzkum ukazuje, jak AI předpovídá teplotu v kovovém AM",
+    "summary": "Researchers at Nanjing Tech University have created an AI model that predicts metal temperatures in real time during 3D printing, offering a way to improve the consistency and quality of 3D printed parts. Led by Mingxuan Tian of the School of Mechanical and Power Engineering, the study introduces a physics-informed machine learning system capable of [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/44172_2025_501_Fig3_HTML-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-10-27T04:11:00+00:00",
+    "url": "https://3dprintingindustry.com/news/new-research-shows-how-ai-predicts-temperature-in-metal-am-245616/?utm_source=rss&utm_medium=rss&utm_campaign=new-research-shows-how-ai-predicts-temperature-in-metal-am",
+    "title_en": "New research shows how AI predicts temperature in metal AM",
+    "summary_bullets_en": [
+      "Researchers at Nanjing Tech University have developed an AI model for real-time temperature prediction in metal 3D printing.",
+      "The AI system aims to enhance the consistency and quality of 3D printed metal parts.",
+      "The study is led by Mingxuan Tian from the School of Mechanical and Power Engineering.",
+      "The model is a physics-informed machine learning system."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Nanjing Tech University vyvinuli AI model pro předpověď teploty v reálném čase při 3D tisku kovů.",
+      "AI systém má za cíl zlepšit konzistenci a kvalitu 3D tištěných kovových dílů.",
+      "Studii vede Mingxuan Tian z Fakulty strojního a energetického inženýrství.",
+      "Model je fyzikálně informovaný systém strojového učení."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "3D Printing",
+      "Nanjing Tech University",
+      "AI",
+      "Metal Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 26. října 2025",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/926782358/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-October\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, October 26, 2025\"><img alt=\"Who&#039;s The Biggest In 3D Printing\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg\" style=\"height: auto !important; float: left; margin-right: 5px;\" width=\"1\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week. Publicly traded companies are required to post their financial reports, as well as appear on stock markets. From there we can calculate the total value of their company by multiplying the current stock price by the&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/926782358/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-October\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">Who&#8217;s The Biggest In 3D Printing, October 26, 2025</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/926782358/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-October\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, October 26, 2025</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg",
