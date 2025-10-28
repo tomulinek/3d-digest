@@ -1,5 +1,59 @@
 [
   {
+    "title": "Jednokrokové reduktivní slinování umožňuje udržitelnou aditivní výrobu oceli",
+    "summary": "Researchers from the University of Waterloo’s Multi-Scale Additive Manufacturing Laboratory and the Fraunhofer Institute for Manufacturing Technology and Advanced Materials (IFAM) have developed a single-step reductive sintering process that allows binder jet additive manufacturing (BJAM) of steel using as-water-atomized powders. The method eliminates the conventional annealing stage used to refine powders before printing, achieving in-situ [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/1-s2.0-S0924013625003139-ga1_lrg-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-10-28T05:44:56+00:00",
+    "url": "https://3dprintingindustry.com/news/single-step-reductive-sintering-enables-sustainable-steel-additive-manufacturing-245588/?utm_source=rss&utm_medium=rss&utm_campaign=single-step-reductive-sintering-enables-sustainable-steel-additive-manufacturing",
+    "title_en": "Single-step reductive sintering enables sustainable steel additive manufacturing",
+    "summary_bullets_en": [
+      "Researchers have developed a single-step reductive sintering process for steel additive manufacturing.",
+      "The method uses binder jet additive manufacturing (BJAM) with as-water-atomized powders.",
+      "This process eliminates the need for the conventional annealing stage before printing."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli jednokrokový proces reduktivního slinování pro aditivní výrobu oceli.",
+      "Metoda využívá aditivní výrobu pomocí tryskového pojiva (BJAM) s prášky atomizovanými vodou.",
+      "Tento proces eliminuje potřebu konvenčního žíhání před tiskem."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "University of Waterloo",
+      "Fraunhofer Institute",
+      "Additive Manufacturing",
+      "Steel",
+      "Binder Jetting"
+    ]
+  },
+  {
+    "title": "Inženýři z Columbie používají lasery k 3D tisku tříchodového jídla",
+    "summary": "Engineers in the U.S.-based Columbia University have developed a new technique to 3D print a three-course meal using multi-wavelength laser cooking. The approach tackles one of the field’s main challenges—replicating realistic textures—since most 3D printed meals are made from pastes, gels, or powders, which limit their resemblance to traditionally cooked food. In a study published [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/ff1fe0c281055dd978016a852d038691-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-10-28T05:02:49+00:00",
+    "url": "https://3dprintingindustry.com/news/columbia-engineers-use-lasers-to-3d-print-a-three-course-meal-245557/?utm_source=rss&utm_medium=rss&utm_campaign=columbia-engineers-use-lasers-to-3d-print-a-three-course-meal",
+    "title_en": "Columbia Engineers Use Lasers to 3D Print a Three-Course Meal",
+    "summary_bullets_en": [
+      "Columbia University engineers have developed a technique to 3D print a three-course meal using multi-wavelength laser cooking.",
+      "The new method addresses the challenge of replicating realistic textures in 3D printed food.",
+      "Traditional 3D printed meals often use pastes, gels, or powders, which limit their resemblance to conventionally cooked dishes."
+    ],
+    "summary_bullets_cs": [
+      "Inženýři z Kolumbijské univerzity vyvinuli techniku pro 3D tisk tříchodového jídla pomocí vaření s vícevlnovými lasery.",
+      "Nová metoda řeší problém replikace realistických textur v 3D tištěném jídle.",
+      "Tradiční 3D tištěná jídla často používají pasty, gely nebo prášky, což omezuje jejich podobnost s konvenčně vařenými pokrmy."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Columbia University",
+      "Laser Cooking",
+      "Food Technology"
+    ]
+  },
+  {
     "title": "Mango3D se rozšiřuje za hranice slicingu s Lychee Gen, platformou pro tvorbu 3D modelů poháněnou AI",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/926828129/0/fabbaloo/default~MangoD-Expands-Beyond-Slicing-with-Lychee-Gen-an-AIPowered-D-Model-Creation-Platform\" rel=\"nofollow\" title=\"Mango3D Expands Beyond Slicing with Lychee Gen, an AI-Powered 3D Model Creation Platform\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/lychee-gen-cover-300x160.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Mango3D announced a new service: Lychee Gen.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/926828129/0/fabbaloo/default~MangoD-Expands-Beyond-Slicing-with-Lychee-Gen-an-AIPowered-D-Model-Creation-Platform\" rel=\"nofollow\">Mango3D Expands Beyond Slicing with Lychee Gen, an AI-Powered 3D Model Creation Platform</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/lychee-gen-cover-300x160.jpg",
