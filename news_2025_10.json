@@ -1,5 +1,56 @@
 [
   {
+    "title": "RAF Coningsby využívá aditivní výrobu k udržení bojové připravenosti letadel",
+    "summary": "At The United Kingdom’s Royal Air Force (RAF) Coningsby in Lincolnshire, engineers have used additive manufacturing (AM) to produce a temporary pylon assembly part, enabling a Typhoon jet to return to service while a permanent replacement is developed. The process began with precision-scanning the damaged component and sharing the data with the original manufacturer and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/CON-20250805-497-3D_Printed_Yaw_Spiggot-027_1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-10-30T04:54:37+00:00",
+    "url": "https://3dprintingindustry.com/news/raf-coningsby-leverages-additive-manufacturing-to-keep-jets-combat-ready-245753/?utm_source=rss&utm_medium=rss&utm_campaign=raf-coningsby-leverages-additive-manufacturing-to-keep-jets-combat-ready",
+    "title_en": "RAF Coningsby Leverages Additive Manufacturing to Keep Jets Combat-Ready",
+    "summary_bullets_en": [
+      "Engineers at RAF Coningsby used additive manufacturing to produce a temporary pylon assembly part.",
+      "This allowed a Typhoon jet to return to service while a permanent replacement is developed.",
+      "The process involved precision-scanning the damaged component and sharing data with the original manufacturer."
+    ],
+    "summary_bullets_cs": [
+      "Inženýři na RAF Coningsby použili aditivní výrobu k vytvoření dočasné části pylonu.",
+      "To umožnilo návrat letounu Typhoon do služby, zatímco se vyvíjí trvalá náhrada.",
+      "Proces zahrnoval přesné skenování poškozené součásti a sdílení dat s původním výrobcem."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "RAF Coningsby",
+      "Typhoon Jet"
+    ]
+  },
+  {
+    "title": "Boston Micro Fabrication získala americký patent na technologii 3D tisku s dvojím rozlišením v mikro měřítku",
+    "summary": "US-based 3D printer manufacturer Boston Micro Fabrication (BMF) has been granted U.S. Patent No. 12,420,486 B2 for its “Multi-Scale System for Projection Micro Stereolithography.” Issued by the United States Patent and Trademark Office (USPTO) on September 23, 2025, the patent protects a dual-resolution optical system that underpins the company’s microArch D1025 3D printer. The development [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/D1025-scaled-e1714166087448-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-10-30T04:23:46+00:00",
+    "url": "https://3dprintingindustry.com/news/boston-micro-fabrication-awarded-u-s-patent-for-dual-resolution-micro-scale-3d-printing-technology-245774/?utm_source=rss&utm_medium=rss&utm_campaign=boston-micro-fabrication-awarded-u-s-patent-for-dual-resolution-micro-scale-3d-printing-technology",
+    "title_en": "Boston Micro Fabrication Awarded U.S. Patent for Dual-Resolution Micro-Scale 3D Printing Technology",
+    "summary_bullets_en": [
+      "Boston Micro Fabrication (BMF) has received a U.S. patent for its dual-resolution micro-scale 3D printing technology.",
+      "The patent, numbered 12,420,486 B2, was issued by the USPTO on September 23, 2025.",
+      "This patent protects the optical system used in BMF's microArch D1025 3D printer."
+    ],
+    "summary_bullets_cs": [
+      "Boston Micro Fabrication (BMF) získala americký patent na technologii 3D tisku s dvojím rozlišením v mikro měřítku.",
+      "Patent číslo 12,420,486 B2 byl vydán USPTO dne 23. září 2025.",
+      "Tento patent chrání optický systém používaný v 3D tiskárně microArch D1025 od BMF."
+    ],
+    "tags": [
+      "Hardware",
+      "Boston Micro Fabrication",
+      "3D Printing",
+      "Patent",
+      "microArch D1025"
+    ]
+  },
+  {
     "title": "Finanční výsledky 3D tisku: Další silné čtvrtletí pro lékařský segment společnosti Materialise",
     "summary": "Materialise (Nasdaq: MTLS) reported its third-quarter 2025 results, remaining profitable with positive cash flow despite weaker performance in its manufacturing division. For the third time this year, the company’s Medical...",
     "image": "https://3dprint.com/wp-content/uploads/2024/10/og-mimics-enlight-cmf-orthognathic-skull.jpg",
