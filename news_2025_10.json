@@ -1,5 +1,321 @@
 [
   {
+    "title": "Výzkumníci z TU Wien vkládají skryté kódy do 3D tištěných materiálů",
+    "summary": "Researchers at the Vienna University of Technology (TU Wien) have developed a 3D printing process that allows hidden codes and symbols to be built directly into printed materials. The new method gives scientists control over the structure and properties of the material at every point, enabling objects that can change appearance depending on temperature. Published [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/csm_QR-CodePrinzip_mit_Text_d5a4e8c9df-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-10-31T17:41:19+00:00",
+    "url": "https://3dprintingindustry.com/news/tu-wien-researchers-embed-hidden-codes-in-3d-printed-materials-245569/?utm_source=rss&utm_medium=rss&utm_campaign=tu-wien-researchers-embed-hidden-codes-in-3d-printed-materials",
+    "title_en": "TU Wien Researchers Embed Hidden Codes in 3D Printed Materials",
+    "summary_bullets_en": [
+      "Researchers at TU Wien have developed a 3D printing process to embed hidden codes in materials.",
+      "The method allows control over the material's structure and properties at every point.",
+      "Objects can change appearance based on temperature due to this innovative process."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z TU Wien vyvinuli proces 3D tisku umožňující vkládání skrytých kódů do materiálů.",
+      "Metoda umožňuje kontrolu nad strukturou a vlastnostmi materiálu v každém bodě.",
+      "Díky tomuto inovativnímu procesu mohou objekty měnit vzhled v závislosti na teplotě."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "TU Wien",
+      "Materials Science",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Tanbium: Projekt vysoce výkonné slitiny společnosti Skyrora získává podporu ESA",
+    "summary": "UK-based rocket and space technology company Skyrora has been selected as a prime contractor in the European Space Agency’s (ESA) General Support Technology Programme (GSTP). The project focuses on additive manufacturing (AM) of Tanbium, a high-temperature alloy developed in collaboration with UK specialist in custom metal powders Metalysis and Thermo-Calc Solutions, a provider in Integrated [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/1761634867371-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-10-31T17:12:12+00:00",
+    "url": "https://3dprintingindustry.com/news/tanbium-skyroras-high-performance-alloy-project-gains-esa-support-245819/?utm_source=rss&utm_medium=rss&utm_campaign=tanbium-skyroras-high-performance-alloy-project-gains-esa-support",
+    "title_en": "Tanbium: Skyrora’s High-Performance Alloy Project Gains ESA Support",
+    "summary_bullets_en": [
+      "Skyrora, a UK-based rocket and space technology company, has been chosen as a prime contractor in ESA's General Support Technology Programme.",
+      "The project focuses on the additive manufacturing of Tanbium, a high-temperature alloy.",
+      "Tanbium is developed in collaboration with Metalysis, a UK specialist in custom metal powders, and Thermo-Calc Solutions."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Skyrora, britská firma zabývající se raketovou a kosmickou technologií, byla vybrána jako hlavní dodavatel v programu ESA General Support Technology Programme.",
+      "Projekt se zaměřuje na aditivní výrobu Tanbia, slitiny odolné vůči vysokým teplotám.",
+      "Tanbium je vyvíjeno ve spolupráci s Metalysis, britským specialistou na zakázkové kovové prášky, a Thermo-Calc Solutions."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Skyrora",
+      "ESA",
+      "Metalysis",
+      "Thermo-Calc Solutions"
+    ]
+  },
+  {
+    "title": "Miniaturní biotiskárna zaměřená na zlepšení hojení hlasivek, vyvinutá výzkumníky z McGill",
+    "summary": "Researchers at the McGill University, supported by funding from the National Institutes of Health (NIH), have created what is being called the smallest bioprinter reported to date—just 2.7 mm wide—that can accurately deliver hydrogels to vocal cords during surgery, helping prevent post-operative stiffness and improve patients’ ability to speak. The study was published in Cell [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/fx1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-10-31T16:40:53+00:00",
+    "url": "https://3dprintingindustry.com/news/miniature-bioprinter-aims-to-improve-vocal-cord-healing-developed-by-mcgill-researchers-245826/?utm_source=rss&utm_medium=rss&utm_campaign=miniature-bioprinter-aims-to-improve-vocal-cord-healing-developed-by-mcgill-researchers",
+    "title_en": "Miniature Bioprinter Aims to Improve Vocal Cord Healing, Developed by McGill Researchers",
+    "summary_bullets_en": [
+      "McGill University researchers have developed the smallest bioprinter to date, measuring just 2.7 mm in width.",
+      "The bioprinter is designed to deliver hydrogels to vocal cords during surgery.",
+      "This innovation aims to prevent post-operative stiffness and enhance patients' ability to speak.",
+      "The study detailing this development was published in the journal Cell."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z McGill University vyvinuli nejmenší biotiskárnu, která má šířku pouze 2,7 mm.",
+      "Biotiskárna je navržena pro dodávání hydrogelů do hlasivek během operace.",
+      "Tato inovace má za cíl zabránit pooperační ztuhlosti a zlepšit schopnost pacientů mluvit.",
+      "Studie popisující tento vývoj byla publikována v časopise Cell."
+    ],
+    "tags": [
+      "Hardware",
+      "Bioprinter",
+      "McGill University",
+      "NIH",
+      "Medical Technology"
+    ]
+  },
+  {
+    "title": "Finanční výsledky 3D tisku: Protolabs dosáhl silného Q3 navzdory slabým prodejům 3D tisku",
+    "summary": "Protolabs (NYSE: PRLB) had another strong quarter, setting a new revenue record and keeping profits steady. The digital manufacturing company said demand was solid across its key markets, with more...",
+    "image": "https://3dprint.com/wp-content/uploads/2024/08/dmls-parts-in-3d-printing-machine-570308.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-10-31T16:24:23+00:00",
+    "url": "https://3dprint.com/321778/3d-printing-financials-protolabs-hits-strong-q3-despite-weak-3d-printing-sales/",
+    "title_en": "3D Printing Financials: Protolabs Hits Strong Q3 Despite Weak 3D Printing Sales",
+    "summary_bullets_en": [
+      "Protolabs achieved a new revenue record in Q3.",
+      "The company maintained steady profits despite weak 3D printing sales.",
+      "Demand remained solid across Protolabs' key markets."
+    ],
+    "summary_bullets_cs": [
+      "Protolabs dosáhl nového rekordního příjmu ve třetím čtvrtletí.",
+      "Společnost udržela stabilní zisky navzdory slabým prodejům 3D tisku.",
+      "Poptávka zůstala silná napříč klíčovými trhy Protolabs."
+    ],
+    "tags": [
+      "Services",
+      "Protolabs"
+    ]
+  },
+  {
+    "title": "Prusa uvádí na trh větší 3D tiskárnu CORE One L",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/927022991/0/fabbaloo/default~Prusa-Launches-Larger-CORE-One-L-D-Printer\" rel=\"nofollow\" title=\"Prusa Launches Larger CORE One L 3D Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/core-one-l-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prusa Research suddenly announced the CORE One L 3D printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927022991/0/fabbaloo/default~Prusa-Launches-Larger-CORE-One-L-D-Printer\" rel=\"nofollow\">Prusa Launches Larger CORE One L 3D Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/core-one-l-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-10-31T16:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/927022991/0/fabbaloo/default~Prusa-Launches-Larger-CORE-One-L-D-Printer",
+    "title_en": "Prusa Launches Larger CORE One L 3D Printer",
+    "summary_bullets_en": [
+      "Prusa Research has announced the new CORE One L 3D printer.",
+      "The CORE One L is a larger version of their existing 3D printer models.",
+      "This launch marks a significant expansion in Prusa's product lineup."
+    ],
+    "summary_bullets_cs": [
+      "Prusa Research oznámila novou 3D tiskárnu CORE One L.",
+      "CORE One L je větší verzí stávajících modelů 3D tiskáren.",
+      "Toto uvedení na trh představuje významné rozšíření produktové řady Prusa."
+    ],
+    "tags": [
+      "Hardware",
+      "Prusa",
+      "3D Printer"
+    ]
+  },
+  {
+    "title": "Polymaker uvádí PET-GF15 s výjimečnou přilnavostí vrstev",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/927021047/0/fabbaloo/default~Polymaker-Launches-PETGF-with-Exceptional-Layer-Adhesion\" rel=\"nofollow\" title=\"Polymaker Launches PET-GF15 with Exceptional Layer Adhesion\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/fiberon-gf15-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Polymaker has made an interesting addition to their Fiberon line.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927021047/0/fabbaloo/default~Polymaker-Launches-PETGF-with-Exceptional-Layer-Adhesion\" rel=\"nofollow\">Polymaker Launches PET-GF15 with Exceptional Layer Adhesion</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/fiberon-gf15-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-10-31T15:32:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/927021047/0/fabbaloo/default~Polymaker-Launches-PETGF-with-Exceptional-Layer-Adhesion",
+    "title_en": "Polymaker Launches PET-GF15 with Exceptional Layer Adhesion",
+    "summary_bullets_en": [
+      "Polymaker has introduced a new material, PET-GF15, to their Fiberon line.",
+      "The material is noted for its exceptional layer adhesion properties.",
+      "PET-GF15 is designed to enhance the performance of 3D printed parts."
+    ],
+    "summary_bullets_cs": [
+      "Polymaker představil nový materiál PET-GF15 ve své řadě Fiberon.",
+      "Materiál je známý pro své výjimečné vlastnosti přilnavosti vrstev.",
+      "PET-GF15 je navržen tak, aby zlepšil výkon 3D tištěných dílů."
+    ],
+    "tags": [
+      "Material",
+      "Polymaker",
+      "Fiberon"
+    ]
+  },
+  {
+    "title": "Nové produkty na Formnext 2025: UnionTech představuje průmyslové SLA 3D tiskárny RSPro800 X a RA900",
+    "summary": "UnionTech is set to unveil two new stereolithography (SLA) systems at Formnext 2025: the RSPro800 X and the RA900. These launches strengthen UnionTech’s position as a full-solution provider covering 3D printers, software, materials, and services for sectors including automotive prototyping, investment casting, and tyre-mould manufacturing. “The RSPro800X and RA900 printers reflect UnionTech’s spirit of Innovation, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/image-28-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-10-31T15:22:48+00:00",
+    "url": "https://3dprintingindustry.com/news/new-product-launch-at-formnext-2025-uniontech-debuts-rspro800-x-and-ra900-industrial-sla-3d-printing-solutions-245811/?utm_source=rss&utm_medium=rss&utm_campaign=new-product-launch-at-formnext-2025-uniontech-debuts-rspro800-x-and-ra900-industrial-sla-3d-printing-solutions",
+    "title_en": "New Product Launch at Formnext 2025: UnionTech Debuts RSPro800 X and RA900 Industrial SLA 3D Printing Solutions",
+    "summary_bullets_en": [
+      "UnionTech will unveil the RSPro800 X and RA900 SLA 3D printers at Formnext 2025.",
+      "These new systems enhance UnionTech's comprehensive offerings in 3D printing solutions.",
+      "The printers are designed for industries such as automotive prototyping, investment casting, and tyre-mould manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "UnionTech představí na Formnext 2025 SLA 3D tiskárny RSPro800 X a RA900.",
+      "Tyto nové systémy posilují komplexní nabídku UnionTech v oblasti 3D tiskových řešení.",
+      "Tiskárny jsou navrženy pro odvětví jako je automobilový prototyp, investiční lití a výroba forem na pneumatiky."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "UnionTech",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "Uvnitř Prusa Day 2025: Představení CoreOneL, OpenPrintTag a Silikonu na XL",
+    "summary": "The Prusa Day was an event on the 24th of October to showcase the new innovations coming out of Prusa. We can now reveal to you what the company showed...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/10/dome2-667x1024.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-10-31T14:00:47+00:00",
+    "url": "https://3dprint.com/321651/prusa-unveils-coreonel-openprinttag-silicone-on-the-xl/",
+    "title_en": "Inside Prusa Day 2025: CoreOneL, OpenPrintTag & Silicone on the XL Unveiled",
+    "summary_bullets_en": [
+      "Prusa Day 2025 showcased the latest innovations from Prusa, including new hardware and software developments.",
+      "The CoreOneL is a new 3D printer model introduced by Prusa, featuring advanced capabilities.",
+      "OpenPrintTag is a new software tool designed to enhance the user experience and streamline the printing process.",
+      "Prusa also unveiled the use of silicone material on the XL model, expanding the range of printable materials."
+    ],
+    "summary_bullets_cs": [
+      "Prusa Day byl událostí 24. října, kde byly představeny nové inovace od Prusa, včetně nového hardwaru a softwaru.",
+      "CoreOneL je nový model 3D tiskárny představený Prusou, který nabízí pokročilé schopnosti.",
+      "OpenPrintTag je nový softwarový nástroj navržený pro zlepšení uživatelského zážitku a zjednodušení procesu tisku.",
+      "Prusa také představila použití silikonového materiálu na modelu XL, čímž rozšířila škálu tisknutelných materiálů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Prusa",
+      "CoreOneL",
+      "OpenPrintTag",
+      "Silicone"
+    ]
+  },
+  {
+    "title": "Zredukování 2 048 experimentů na 12: Jak štíhlé myšlení dělá 3D tisk chytřejším",
+    "summary": "Experimenting in industrial 3D printing can quickly become intense. Every small change, such as a new material, a slightly higher temperature, or a different surface finish, adds one more variable...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/10/enr7I2PTuR-1024.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-10-31T13:30:43+00:00",
+    "url": "https://3dprint.com/321571/cutting-2048-experiments-down-to-12-how-lean-thinking-is-making-3d-printing-smarter/",
+    "title_en": "Cutting 2,048 Experiments Down to 12: How Lean Thinking Is Making 3D Printing Smarter",
+    "summary_bullets_en": [
+      "Industrial 3D printing involves numerous variables, making experimentation complex.",
+      "Lean thinking helps reduce the number of necessary experiments by focusing on key variables.",
+      "This approach saves time and resources while improving the efficiency of 3D printing processes.",
+      "Adopting lean methodologies can lead to smarter and more effective 3D printing strategies."
+    ],
+    "summary_bullets_cs": [
+      "Experimentování v průmyslovém 3D tisku zahrnuje mnoho proměnných, což činí proces složitým.",
+      "Štíhlé myšlení pomáhá snížit počet potřebných experimentů zaměřením na klíčové proměnné.",
+      "Tento přístup šetří čas a zdroje a zlepšuje efektivitu procesů 3D tisku.",
+      "Přijetí štíhlých metodologií může vést k chytřejším a efektivnějším strategiím 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "3D Printing",
+      "Lean Thinking"
+    ]
+  },
+  {
+    "title": "Projekt Diamanti: 3D tištěný betonový most v Benátkách ukazuje design snižující spotřebu energie a emise",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/927011678/0/fabbaloo/default~Project-Diamanti-D-Printed-Concrete-Bridge-in-Venice-Showcases-Energy-and-EmissionReducing-Design\" rel=\"nofollow\" title=\"Project Diamanti: 3D Printed Concrete Bridge in Venice Showcases Energy- and Emission-Reducing Design\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/diamanti-bridge-cover-300x167.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have developed what some call a “sustainable” 3D printable construction technique.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927011678/0/fabbaloo/default~Project-Diamanti-D-Printed-Concrete-Bridge-in-Venice-Showcases-Energy-and-EmissionReducing-Design\" rel=\"nofollow\">Project Diamanti: 3D Printed Concrete Bridge in Venice Showcases Energy- and Emission-Reducing Design</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/diamanti-bridge-cover-300x167.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-10-31T13:29:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/927011678/0/fabbaloo/default~Project-Diamanti-D-Printed-Concrete-Bridge-in-Venice-Showcases-Energy-and-EmissionReducing-Design",
+    "title_en": "Project Diamanti: 3D Printed Concrete Bridge in Venice Showcases Energy- and Emission-Reducing Design",
+    "summary_bullets_en": [
+      "Researchers have developed a sustainable 3D printable construction technique.",
+      "The 3D printed concrete bridge in Venice demonstrates energy and emission reduction.",
+      "Project Diamanti highlights innovative design in 3D printed infrastructure."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli udržitelnou techniku 3D tisku pro stavebnictví.",
+      "3D tištěný betonový most v Benátkách demonstruje snížení spotřeby energie a emisí.",
+      "Projekt Diamanti zdůrazňuje inovativní design v 3D tištěné infrastruktuře."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Sustainability",
+      "Construction",
+      "Project Diamanti"
+    ]
+  },
+  {
+    "title": "Učebnicový příklad využití AM: Materialise a Vocus spolupracují na 3D tisku tlumiče pro kluzák",
+    "summary": "Quick wins are nice, but slow wins usually mean more. Patience doesn’t always pay off in the additive manufacturing (AM) industry, though when it does, the rewards equal the wait....",
+    "image": "https://3dprint.com/wp-content/uploads/2025/10/IMG_1970-1024x341.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-10-31T13:00:06+00:00",
+    "url": "https://3dprint.com/321725/textbook-am-use-case-materialise-vocus-partner-to-3d-print-a-glider-muffler/",
+    "title_en": "A Textbook AM Use-Case: Materialise & Vocus Partner to 3D Print a Glider Muffler",
+    "summary_bullets_en": [
+      "Materialise and Vocus have collaborated to 3D print a muffler for a glider.",
+      "The project highlights the benefits of patience in the additive manufacturing industry.",
+      "The partnership aims to demonstrate the long-term advantages of 3D printing in aerospace applications.",
+      "The collaboration is seen as a model example of successful AM use in the industry."
+    ],
+    "summary_bullets_cs": [
+      "Materialise a Vocus spolupracovali na 3D tisku tlumiče pro kluzák.",
+      "Projekt zdůrazňuje výhody trpělivosti v průmyslu aditivní výroby.",
+      "Partnerství si klade za cíl ukázat dlouhodobé výhody 3D tisku v leteckých aplikacích.",
+      "Spolupráce je považována za modelový příklad úspěšného využití AM v průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Materialise",
+      "Vocus",
+      "Aerospace",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Hledání úspěchu v aditivní výrobě: Buďte Wooj",
+    "summary": "Remember when we used to talk a lot about democratizing design and manufacturing? We did do that to a certain extent; you can upload files to Shapeways, Endeavor3D, Protolabs, and...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/10/michael27_1_b507de0a-72e9-4498-8f7b-9cc2ae46bd70-1.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-10-31T12:30:05+00:00",
+    "url": "https://3dprint.com/321308/seeking-success-in-additive-be-wooj/",
+    "title_en": "Seeking Success in Additive: Be Wooj",
+    "summary_bullets_en": [
+      "The article discusses the democratization of design and manufacturing through additive technologies.",
+      "Platforms like Shapeways, Endeavor3D, and Protolabs have made it easier to upload and print 3D files.",
+      "The focus is on how these platforms contribute to making 3D printing more accessible to a wider audience."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá demokratizací designu a výroby prostřednictvím aditivních technologií.",
+      "Platformy jako Shapeways, Endeavor3D a Protolabs usnadnily nahrávání a tisk 3D souborů.",
+      "Zaměřuje se na to, jak tyto platformy přispívají k větší dostupnosti 3D tisku pro širší publikum."
+    ],
+    "tags": [
+      "Services",
+      "Shapeways",
+      "Endeavor3D",
+      "Protolabs"
+    ]
+  },
+  {
     "title": "Aibuild spolupracuje s Generative Machine Company",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/927008594/0/fabbaloo/default~Aibuild-Partners-with-Generative-Machine-Company\" rel=\"nofollow\" title=\"Aibuild Partners with Generative Machine Company\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/ai-build-generative-cover-300x181.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>To bring AI-driven 5-axis desktop additive manufacturing to market.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927008594/0/fabbaloo/default~Aibuild-Partners-with-Generative-Machine-Company\" rel=\"nofollow\">Aibuild Partners with Generative Machine Company</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/ai-build-generative-cover-300x181.jpeg",
