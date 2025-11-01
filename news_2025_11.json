@@ -1,5 +1,60 @@
 [
   {
+    "title": "Novinky o 3D tisku, 1. listopadu 2025: Hydraulika, Odolnost vůči záření, Analýza potu a další",
+    "summary": "We&#8217;re starting with European business news in this weekend&#8217;s News Briefs, as ASTM International and CECIMO are collaborating to drive additive manufacturing in Europe, and Farsoon Europe has opened a...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/10/ICAM2025_Wednesday_MoUSigning-11-685x1024.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-01T12:30:43+00:00",
+    "url": "https://3dprint.com/320964/3d-printing-news-briefs-11-1-2025/",
+    "title_en": "3D Printing News Briefs, November 1, 2025: Hydraulics, Radiation Resistance, Sweat Analysis, & More",
+    "summary_bullets_en": [
+      "ASTM International and CECIMO are collaborating to advance additive manufacturing in Europe.",
+      "Farsoon Europe has inaugurated a new facility to enhance its 3D printing capabilities.",
+      "Innovations in 3D printing include developments in hydraulic systems and radiation-resistant materials.",
+      "Research is being conducted on using 3D printing for sweat analysis applications."
+    ],
+    "summary_bullets_cs": [
+      "ASTM International a CECIMO spolupracují na rozvoji aditivní výroby v Evropě.",
+      "Farsoon Europe otevřel nové zařízení pro posílení svých schopností v oblasti 3D tisku.",
+      "Inovace v 3D tisku zahrnují vývoj v hydraulických systémech a materiálech odolných vůči záření.",
+      "Probíhá výzkum využití 3D tisku pro aplikace analýzy potu."
+    ],
+    "tags": [
+      "Hardware",
+      "ASTM International",
+      "CECIMO",
+      "Farsoon Europe",
+      "Material",
+      "Research"
+    ]
+  },
+  {
+    "title": "SALEHE: Vyrábím boty — Designová cesta poháněná kreativitou a 3D tiskem",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/927055634/0/fabbaloo/default~SALEHE-I-Make-Shoes-%e2%80%94-A-Design-Journey-Powered-by-Creativity-and-D-Printing\" rel=\"nofollow\" title=\"SALEHE: I Make Shoes — A Design Journey Powered by Creativity and 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/MakeShoes1-210x300.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"210\" /></a><p>Charles R. Goulding provides commentary on the 3D printing relevance of Salehe Bembury’s new book, “I Make Shoes.”</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927055634/0/fabbaloo/default~SALEHE-I-Make-Shoes-%e2%80%94-A-Design-Journey-Powered-by-Creativity-and-D-Printing\" rel=\"nofollow\">SALEHE: I Make Shoes — A Design Journey Powered by Creativity and 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/MakeShoes1-210x300.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-11-01T12:08:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/927055634/0/fabbaloo/default~SALEHE-I-Make-Shoes-%e2%80%94-A-Design-Journey-Powered-by-Creativity-and-D-Printing",
+    "title_en": "SALEHE: I Make Shoes — A Design Journey Powered by Creativity and 3D Printing",
+    "summary_bullets_en": [
+      "Charles R. Goulding discusses the impact of 3D printing on Salehe Bembury's new book, 'I Make Shoes.'",
+      "The book explores the intersection of creativity and technology in modern shoe design.",
+      "3D printing plays a significant role in the innovative design processes described in the book."
+    ],
+    "summary_bullets_cs": [
+      "Charles R. Goulding se zabývá vlivem 3D tisku na novou knihu Salehe Bemburyho 'Vyrábím boty.'",
+      "Kniha zkoumá propojení kreativity a technologie v moderním designu obuvi.",
+      "3D tisk hraje významnou roli v inovativních designových procesech popsaných v knize."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Design",
+      "Salehe Bembury",
+      "Creativity"
+    ]
+  },
+  {
     "title": "Výzkumníci z TU Wien vkládají skryté kódy do 3D tištěných materiálů",
     "summary": "Researchers at the Vienna University of Technology (TU Wien) have developed a 3D printing process that allows hidden codes and symbols to be built directly into printed materials. The new method gives scientists control over the structure and properties of the material at every point, enabling objects that can change appearance depending on temperature. Published [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/csm_QR-CodePrinzip_mit_Text_d5a4e8c9df-150x100.webp",
