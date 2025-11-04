@@ -1,5 +1,139 @@
 [
   {
+    "title": "Industrializace keramiky: jak nitridy a automatizace přetvářejí aditivní výrobu",
+    "summary": "Satellites, defense systems, and next-generation semiconductors all push materials to their limits. Metals falter under extreme heat and stress, which is why engineers turn to advanced ceramics. Yet producing them at scale has remained the challenge. With automation, AI-driven process control, and integrated recycling, ceramics 3D printing OEM and process provider 3DCeram Sinto’s C1000 FLEXMATIC [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/e-chuck-by-3DCeram-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-04T11:23:28+00:00",
+    "url": "https://3dprintingindustry.com/news/industrializing-ceramics-how-nitrides-and-automation-redefine-additive-manufacturing-245863/?utm_source=rss&utm_medium=rss&utm_campaign=industrializing-ceramics-how-nitrides-and-automation-redefine-additive-manufacturing",
+    "title_en": "Industrializing ceramics: how nitrides and automation redefine additive manufacturing",
+    "summary_bullets_en": [
+      "Advanced ceramics are crucial for applications like satellites, defense systems, and semiconductors due to their ability to withstand extreme conditions.",
+      "Traditional production of ceramics at scale has been challenging, but automation and AI-driven process control are changing the landscape.",
+      "3DCeram Sinto's C1000 FLEXMATIC integrates recycling and advanced manufacturing techniques to enhance ceramics 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Pokročilá keramika je klíčová pro aplikace jako satelity, obranné systémy a polovodiče díky své schopnosti odolávat extrémním podmínkám.",
+      "Tradiční výroba keramiky ve velkém měřítku byla náročná, ale automatizace a řízení procesů pomocí AI mění situaci.",
+      "C1000 FLEXMATIC od 3DCeram Sinto integruje recyklaci a pokročilé výrobní techniky pro zlepšení 3D tisku keramiky."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3DCeram Sinto",
+      "Automation",
+      "AI",
+      "Recycling"
+    ]
+  },
+  {
+    "title": "Výzkumníci 3D tisknou hybridní auxetické metamateriály s trojnásobnou absorpcí energie oproti pevnému PLA",
+    "summary": "Researchers at the Iran University of Science and Technology have developed four hybrid auxetic metamaterial structures using PLA, achieving up to 6,024 J/kg specific energy absorption (SEA) under compression. The study, published in Scientific Reports on October 30, 2025, combines honeycomb, cubic, and tetrachiral unit cells to enhance energy absorption for lightweight applications such as [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/image-30-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-04T09:37:05+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-3d-print-hybrid-auxetic-metamaterials-with-triple-the-energy-absorption-than-solid-pla-245845/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-3d-print-hybrid-auxetic-metamaterials-with-triple-the-energy-absorption-than-solid-pla",
+    "title_en": "Researchers 3D print hybrid auxetic metamaterials with triple the energy absorption than solid PLA",
+    "summary_bullets_en": [
+      "Researchers at the Iran University of Science and Technology have developed four hybrid auxetic metamaterial structures using PLA.",
+      "The new structures achieve up to 6,024 J/kg specific energy absorption (SEA) under compression.",
+      "The study combines honeycomb, cubic, and tetrachiral unit cells to enhance energy absorption.",
+      "These advancements are aimed at lightweight applications."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Íránské univerzity vědy a technologie vyvinuli čtyři hybridní auxetické metamateriálové struktury pomocí PLA.",
+      "Nové struktury dosahují až 6 024 J/kg specifické absorpce energie (SEA) při kompresi.",
+      "Studie kombinuje voštinové, kubické a tetrachirální jednotkové buňky pro zvýšení absorpce energie.",
+      "Tyto pokroky jsou zaměřeny na lehké aplikace."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Iran University of Science and Technology",
+      "PLA",
+      "Metamaterials"
+    ]
+  },
+  {
+    "title": "3D tištěné kostní struktury z UNSW Canberra nabízejí realističtější přístup k regeneraci kostí",
+    "summary": "Researchers at University of New South Wales Canberra, a campus of the University of New South Wales (UNSW Sydney), have developed a new type of 3D printed, biodegradable bone implant that closely mimics the internal structure of natural bone. The innovation could improve recovery for patients with fractures or bone injuries by enabling customized implants [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/dsc00933-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-04T09:35:20+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printed-bone-scaffolds-from-unsw-canberra-offer-a-more-realistic-approach-to-bone-regeneration-245856/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-bone-scaffolds-from-unsw-canberra-offer-a-more-realistic-approach-to-bone-regeneration",
+    "title_en": "3D Printed Bone Scaffolds from UNSW Canberra Offer a More Realistic Approach to Bone Regeneration",
+    "summary_bullets_en": [
+      "Researchers at UNSW Canberra have developed a new type of 3D printed bone implant.",
+      "The implants are biodegradable and mimic the internal structure of natural bone.",
+      "This innovation could enhance recovery for patients with fractures or bone injuries.",
+      "The technology allows for the creation of customized implants tailored to individual needs."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z UNSW Canberra vyvinuli nový typ 3D tištěného kostního implantátu.",
+      "Implantáty jsou biologicky odbouratelné a napodobují vnitřní strukturu přirozené kosti.",
+      "Tato inovace by mohla zlepšit zotavení pacientů se zlomeninami nebo poraněními kostí.",
+      "Technologie umožňuje vytváření přizpůsobených implantátů šitých na míru individuálním potřebám."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "UNSW Canberra",
+      "Bone Regeneration",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "OneClickMetal zvyšuje teplotu s 500W LPBF strojem za 120 000 €",
+    "summary": "OneClickMetal has been making affordable metal LPBF systems in Germany for several years. Started by Trumpf, the company is now owned by innovative machine tool manufacturer Index. OneClickMetal&#8217;s machines are...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/10/20251012_OCM_Render1_1_MPUREpro_4-scaled-1.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-04T08:00:55+00:00",
+    "url": "https://3dprint.com/321763/oneclickmetal-turns-up-the-heat-with-500w-lpbf-machine-for-e120000/",
+    "title_en": "OneClickMetal Turns Up the Heat With 500W LPBF Machine for €120,000",
+    "summary_bullets_en": [
+      "OneClickMetal has been producing affordable metal LPBF systems in Germany.",
+      "The company was initially started by Trumpf and is now owned by Index.",
+      "OneClickMetal's new machine features a 500W laser and is priced at €120,000."
+    ],
+    "summary_bullets_cs": [
+      "OneClickMetal vyrábí cenově dostupné kovové LPBF systémy v Německu.",
+      "Společnost byla původně založena firmou Trumpf a nyní ji vlastní Index.",
+      "Nový stroj OneClickMetal má 500W laser a stojí 120 000 €."
+    ],
+    "tags": [
+      "Hardware",
+      "OneClickMetal",
+      "Trumpf",
+      "Index"
+    ]
+  },
+  {
+    "title": "Korejský výzkumný tým vyvinul metodu 3D tisku při pokojové teplotě pro miniaturní infračervené senzory",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/korean-research-team-develops-room-temperature-3d-printing-method-for-miniature-infrared-sensors/\" target=\"_blank\">Korean Research Team Develops Room-Temperature 3D Printing Method for Miniature Infrared Sensors</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">November 4</span></div><div><img alt=\"Korean Research Team Develops Room-Temperature 3D Printing Method for Miniature Infrared Sensors\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"323\" src=\"https://3dprinting.com/wp-content/uploads/76487879487-500x323.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/76487879487-500x323.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-11-04T07:00:04+00:00",
+    "url": "https://3dprinting.com/news/korean-research-team-develops-room-temperature-3d-printing-method-for-miniature-infrared-sensors/",
+    "title_en": "Korean Research Team Develops Room-Temperature 3D Printing Method for Miniature Infrared Sensors",
+    "summary_bullets_en": [
+      "A Korean research team has developed a new 3D printing method for creating miniature infrared sensors.",
+      "The method allows for printing at room temperature, which is a significant advancement in the field.",
+      "This innovation could lead to more efficient and cost-effective production of infrared sensors."
+    ],
+    "summary_bullets_cs": [
+      "Korejský výzkumný tým vyvinul novou metodu 3D tisku pro výrobu miniaturních infračervených senzorů.",
+      "Metoda umožňuje tisk při pokojové teplotě, což je významný pokrok v oboru.",
+      "Tato inovace by mohla vést k efektivnější a nákladově efektivnější výrobě infračervených senzorů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Infrared Sensors",
+      "Korean Research"
+    ]
+  },
+  {
     "title": "Elegoo potvrzuje uvedení Centauri Carbon 2 s vestavěným vícebarevným systémem",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/927143057/0/fabbaloo/default~Elegoo-Confirms-Centauri-Carbon-Launch-with-BuiltIn-Multicolor-System\" rel=\"nofollow\" title=\"Elegoo Confirms Centauri Carbon 2 Launch with Built-In Multicolor System\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/centauri-carbon-2-taobaocover-300x300.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Elegoo has officially mentioned the new Centauri Carbon 2 3D printer, suggesting a release soon.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927143057/0/fabbaloo/default~Elegoo-Confirms-Centauri-Carbon-Launch-with-BuiltIn-Multicolor-System\" rel=\"nofollow\">Elegoo Confirms Centauri Carbon 2 Launch with Built-In Multicolor System</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/centauri-carbon-2-taobaocover-300x300.jpg",
