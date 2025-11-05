@@ -1,5 +1,56 @@
 [
   {
+    "title": "Nová metoda tisku při pokojové teplotě od KAIST redefinuje výrobu infračervených senzorů",
+    "summary": "A research team from the Korea Advanced Institute of Science and Technology (KAIST), together with collaborators from Korea University and the University of Hong Kong, has developed what they describe as the world’s first room-temperature 3D printing method capable of fabricating miniature infrared sensors in customizable shapes and sizes. These sensors—used in applications such as [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/images_000112__images_000112_002_10-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-05T11:56:44+00:00",
+    "url": "https://3dprintingindustry.com/news/kaists-new-room-temperature-printing-method-redefines-infrared-fabrication-245903/?utm_source=rss&utm_medium=rss&utm_campaign=kaists-new-room-temperature-printing-method-redefines-infrared-fabrication",
+    "title_en": "KAIST’s New Room-Temperature Printing Method Redefines Infrared Fabrication",
+    "summary_bullets_en": [
+      "KAIST, in collaboration with Korea University and the University of Hong Kong, has developed a room-temperature 3D printing method.",
+      "This method is capable of fabricating miniature infrared sensors in customizable shapes and sizes.",
+      "The innovation is described as the world's first of its kind for infrared sensor fabrication."
+    ],
+    "summary_bullets_cs": [
+      "KAIST ve spolupráci s Korejskou univerzitou a Hongkongskou univerzitou vyvinul metodu 3D tisku při pokojové teplotě.",
+      "Tato metoda je schopna vyrábět miniaturní infračervené senzory v přizpůsobitelných tvarech a velikostech.",
+      "Inovace je popisována jako první svého druhu na světě pro výrobu infračervených senzorů."
+    ],
+    "tags": [
+      "Hardware",
+      "KAIST",
+      "Infrared Sensors",
+      "3D Printing",
+      "Room-Temperature Printing"
+    ]
+  },
+  {
+    "title": "DOE zahajuje Geothermal Manufacturing Prize pro propojení 3D tisku s geotermální energií",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/doe-launches-geothermal-manufacturing-prize-to-connect-3d-printing-with-geothermal-energy/\" target=\"_blank\">DOE Launches Geothermal Manufacturing Prize to Connect 3D Printing with Geothermal Energy</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">November 5</span></div><div><img alt=\"DOE Launches Geothermal Manufacturing Prize to Connect 3D Printing with Geothermal Energy\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"493\" src=\"https://3dprinting.com/wp-content/uploads/64878745-500x493.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/64878745-500x493.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-11-05T07:00:12+00:00",
+    "url": "https://3dprinting.com/news/doe-launches-geothermal-manufacturing-prize-to-connect-3d-printing-with-geothermal-energy/",
+    "title_en": "DOE Launches Geothermal Manufacturing Prize to Connect 3D Printing with Geothermal Energy",
+    "summary_bullets_en": [
+      "The U.S. Department of Energy (DOE) has introduced a new Geothermal Manufacturing Prize.",
+      "The initiative aims to integrate 3D printing technology with geothermal energy solutions.",
+      "The prize encourages innovation in manufacturing processes to enhance geothermal energy systems."
+    ],
+    "summary_bullets_cs": [
+      "Ministerstvo energetiky USA (DOE) představilo novou cenu Geothermal Manufacturing Prize.",
+      "Iniciativa si klade za cíl integrovat technologii 3D tisku s řešeními pro geotermální energii.",
+      "Cena podporuje inovace ve výrobních procesech pro zlepšení systémů geotermální energie."
+    ],
+    "tags": [
+      "Hardware",
+      "DOE",
+      "Geothermal Energy",
+      "3D Printing"
+    ]
+  },
+  {
     "title": "Opdo a Luximprint oznamují partnerství pro propojení návrhu optiky řízeného AI s digitální výrobou",
     "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/opdo-and-luximprint-announce-partnership-to-connect-ai-driven-optics-design-with-digital-manufacturing/\" target=\"_blank\">Opdo and Luximprint announce partnership to connect AI-driven optics design with digital manufacturing</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">November 5</span></div><div><img alt=\"3D printed Luximprint lens\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"461\" src=\"https://3dprinting.com/wp-content/uploads/Luximprint2-500x461.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
     "image": "https://3dprinting.com/wp-content/uploads/Luximprint2-500x461.jpg",
