@@ -1,5 +1,165 @@
 [
   {
+    "title": "Authentise se připojuje k programu DECSAM za 38 milionů liber",
+    "summary": "Authentise, a UK-based digital manufacturing software company, has joined the £38 million DECSAM (Digitally Enabled Competitive &#38; Sustainable Additive Manufacturing) program led by Airbus. The four-year initiative, running from June 2024 to June 2028 under the Aerospace Technology Institute (ATI) Programme and supported by Innovate UK and the UK Department for Business &#38; Trade, aims [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/1762161508911-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-06T11:14:47+00:00",
+    "url": "https://3dprintingindustry.com/news/authentise-joins-38-million-decsam-program-245960/?utm_source=rss&utm_medium=rss&utm_campaign=authentise-joins-38-million-decsam-program",
+    "title_en": "Authentise joins £38 million DECSAM program",
+    "summary_bullets_en": [
+      "Authentise, a UK-based digital manufacturing software company, has joined the DECSAM program.",
+      "The DECSAM program is a £38 million initiative led by Airbus.",
+      "The program runs from June 2024 to June 2028 under the Aerospace Technology Institute Programme.",
+      "It is supported by Innovate UK and the UK Department for Business & Trade."
+    ],
+    "summary_bullets_cs": [
+      "Authentise, britská společnost zabývající se softwarem pro digitální výrobu, se připojila k programu DECSAM.",
+      "Program DECSAM je iniciativa za 38 milionů liber vedená společností Airbus.",
+      "Program probíhá od června 2024 do června 2028 v rámci programu Aerospace Technology Institute.",
+      "Je podporován Innovate UK a britským Ministerstvem obchodu a průmyslu."
+    ],
+    "tags": [
+      "Software",
+      "Authentise",
+      "Airbus",
+      "Aerospace Technology Institute",
+      "Innovate UK",
+      "UK Department for Business & Trade"
+    ]
+  },
+  {
+    "title": "Additive Industries MetalFab 420K: Technický přehled a specifikace",
+    "summary": "Additive Industries, a Dutch manufacturer of industrial metal 3D printing systems, has introduced the MetalFab 420K, a four-laser powder bed fusion (PBF) platform engineered for large-scale metal additive manufacturing in aerospace, space, automotive, and high-technology production. Each of the four 1 kW fiber lasers can access the full 420 × 420 × 400 mm build [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Niels-Cruts-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-06T11:11:48+00:00",
+    "url": "https://3dprintingindustry.com/news/additive-industries-metalfab-420k-technical-overview-and-specifications-245964/?utm_source=rss&utm_medium=rss&utm_campaign=additive-industries-metalfab-420k-technical-overview-and-specifications",
+    "title_en": "Additive Industries MetalFab 420K: Technical Overview and Specifications",
+    "summary_bullets_en": [
+      "Additive Industries has launched the MetalFab 420K, a new metal 3D printing system.",
+      "The system features a four-laser powder bed fusion (PBF) platform.",
+      "Each of the four 1 kW fiber lasers can cover the entire build area of 420 × 420 × 400 mm.",
+      "The MetalFab 420K is designed for large-scale metal additive manufacturing in industries like aerospace, space, automotive, and high-tech production."
+    ],
+    "summary_bullets_cs": [
+      "Additive Industries představila nový systém pro 3D tisk kovů MetalFab 420K.",
+      "Systém je vybaven platformou pro fúzi práškového lože se čtyřmi lasery.",
+      "Každý ze čtyř 1 kW vláknových laserů může pokrýt celou stavební plochu 420 × 420 × 400 mm.",
+      "MetalFab 420K je navržen pro velkoobjemovou aditivní výrobu kovů v odvětvích jako letectví, kosmonautika, automobilový průmysl a vysoce technologická výroba."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Industries",
+      "3D Printing",
+      "MetalFab 420K",
+      "Aerospace",
+      "Automotive",
+      "High-Tech Production"
+    ]
+  },
+  {
+    "title": "Thought3D nový Drywise v1.5: Technické specifikace a ceny",
+    "summary": "Thought3D, a Malta-based materials reliability company known for its Magigoo adhesives, has launched Drywise v1.5, a new version of its in-line filament drying system for Fused Filament Fabrication (FFF) 3D printing. The latest update introduces three major improvements: a motorized Autoloader, an Ultimaker Cura plug-in, and upgraded internal mechanics with firmware updates for enhanced reliability [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/drywise-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-06T11:08:32+00:00",
+    "url": "https://3dprintingindustry.com/news/thought3d-new-drywise-v1-5-technical-specifications-and-pricing-245953/?utm_source=rss&utm_medium=rss&utm_campaign=thought3d-new-drywise-v1-5-technical-specifications-and-pricing",
+    "title_en": "Thought3D new Drywise v1.5: Technical Specifications and Pricing",
+    "summary_bullets_en": [
+      "Thought3D has launched Drywise v1.5, an updated in-line filament drying system for FFF 3D printing.",
+      "The new version includes a motorized Autoloader, an Ultimaker Cura plug-in, and upgraded internal mechanics.",
+      "Firmware updates have been implemented to enhance the system's reliability."
+    ],
+    "summary_bullets_cs": [
+      "Thought3D uvedla na trh Drywise v1.5, aktualizovaný systém pro sušení filamentů pro FFF 3D tisk.",
+      "Nová verze zahrnuje motorizovaný Autoloader, plug-in pro Ultimaker Cura a vylepšenou vnitřní mechaniku.",
+      "Byly implementovány aktualizace firmwaru pro zvýšení spolehlivosti systému."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "UltiMaker",
+      "Thought3D"
+    ]
+  },
+  {
+    "title": "Sakuu demonstruje výkon 4 000 cyklů u suchotiskových lithium-iontových bateriových článků",
+    "summary": "Silicon Valley-based developer of battery printing equipment and technologies Sakuu has reported new performance results for lithium-ion battery electrodes manufactured on its Kavian Manufacturing Platform. Test data shows that a nickel cobalt manganese (NCM) cell produced using Kavian retained 83% of its capacity after 4,000 charge–discharge cycles. The company states that this level of durability [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/Sakuu-2025-Video-Screenshot-2-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-06T11:05:42+00:00",
+    "url": "https://3dprintingindustry.com/news/sakuu-demonstrates-4000-cycle-performance-in-dry-printed-lithium-ion-battery-cells-245949/?utm_source=rss&utm_medium=rss&utm_campaign=sakuu-demonstrates-4000-cycle-performance-in-dry-printed-lithium-ion-battery-cells",
+    "title_en": "Sakuu Demonstrates 4,000-Cycle Performance in Dry-Printed Lithium-Ion Battery Cells",
+    "summary_bullets_en": [
+      "Sakuu, a Silicon Valley-based company, has showcased new performance results for lithium-ion battery electrodes.",
+      "The electrodes were manufactured using Sakuu's Kavian Manufacturing Platform.",
+      "A nickel cobalt manganese (NCM) cell produced with this technology retained 83% capacity after 4,000 charge-discharge cycles."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Sakuu ze Silicon Valley představila nové výsledky výkonu elektrod lithium-iontových baterií.",
+      "Elektrody byly vyrobeny pomocí výrobní platformy Kavian od společnosti Sakuu.",
+      "Článek z nikl-kobalt-manganu (NCM) vyrobený touto technologií si po 4 000 nabíjecích a vybíjecích cyklech udržel 83 % kapacity."
+    ],
+    "tags": [
+      "Hardware",
+      "Sakuu",
+      "Lithium-Ion Batteries",
+      "Kavian Manufacturing Platform"
+    ]
+  },
+  {
+    "title": "Výzkumníci z RIT vyvinuli samoléčivé materiály pro aplikace 3D tisku",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/rit-researchers-develop-self-healing-materials-for-3d-printing-applications/\" target=\"_blank\">RIT Researchers Develop Self-Healing Materials for 3D Printing Applications</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">November 6</span></div><div><img alt=\"RIT Researchers Develop Self-Healing Materials for 3D Printing Applications\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/6848789794-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/6848789794-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-11-06T10:59:07+00:00",
+    "url": "https://3dprinting.com/news/rit-researchers-develop-self-healing-materials-for-3d-printing-applications/",
+    "title_en": "RIT Researchers Develop Self-Healing Materials for 3D Printing Applications",
+    "summary_bullets_en": [
+      "Researchers at Rochester Institute of Technology (RIT) have developed new self-healing materials for 3D printing.",
+      "These materials can repair themselves after being damaged, potentially increasing the lifespan of 3D printed objects.",
+      "The innovation could lead to more sustainable and cost-effective 3D printing solutions."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Rochester Institute of Technology (RIT) vyvinuli nové samoléčivé materiály pro 3D tisk.",
+      "Tyto materiály se mohou po poškození samy opravit, což by mohlo prodloužit životnost 3D tištěných objektů.",
+      "Inovace by mohla vést k udržitelnějším a nákladově efektivnějším řešením 3D tisku."
+    ],
+    "tags": [
+      "Material",
+      "RIT",
+      "3D Printing",
+      "Sustainability"
+    ]
+  },
+  {
+    "title": "XJet pokračuje ve snižování bariér vstupu s 3D tiskárnou Carmel Pro",
+    "summary": "Over the summer, Israeli metal and ceramic additive manufacturing (AM) original equipment manufacturer (OEM) XJet announced the sale of a Carmel 1400M metal 3D printer to Youngstown Business Incubator (YBI),...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/11/IMG_1987-e1762286479962.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-06T08:00:10+00:00",
+    "url": "https://3dprint.com/321918/xjet-continues-its-push-to-lower-barrier-to-entry-with-carmel-pro-3d-printer/",
+    "title_en": "XJet Continues Its Push to Lower Barrier-to-Entry with Carmel Pro 3D Printer",
+    "summary_bullets_en": [
+      "XJet, an Israeli OEM, is focusing on reducing entry barriers in metal and ceramic additive manufacturing.",
+      "The company announced the sale of its Carmel 1400M metal 3D printer to Youngstown Business Incubator (YBI).",
+      "This move is part of XJet's strategy to expand its market presence and make advanced 3D printing technology more accessible."
+    ],
+    "summary_bullets_cs": [
+      "Izraelský výrobce XJet se zaměřuje na snižování bariér vstupu v oblasti aditivní výroby kovů a keramiky.",
+      "Společnost oznámila prodej své kovové 3D tiskárny Carmel 1400M do Youngstown Business Incubator (YBI).",
+      "Tento krok je součástí strategie XJet na rozšíření tržní přítomnosti a zpřístupnění pokročilé technologie 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "XJet",
+      "Additive Manufacturing",
+      "Carmel 1400M",
+      "Youngstown Business Incubator"
+    ]
+  },
+  {
     "title": "Úvahy o OpenPrintTag od Prusa Research: Konec uzamčení na proprietární filamenty",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/927243944/0/fabbaloo/default~Thoughts-on-Prusa-Research%e2%80%99s-OpenPrintTag-Ending-Proprietary-Filament-LockIns\" rel=\"nofollow\" title=\"Thoughts on Prusa Research’s OpenPrintTag Ending Proprietary Filament Lock-Ins\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/openprinttag-cover2-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Late last week Prusa Research announced something that could be the most important development in desktop 3D printing in 2025.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927243944/0/fabbaloo/default~Thoughts-on-Prusa-Research%e2%80%99s-OpenPrintTag-Ending-Proprietary-Filament-LockIns\" rel=\"nofollow\">Thoughts on Prusa Research’s OpenPrintTag Ending Proprietary Filament Lock-Ins</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/openprinttag-cover2-300x200.jpg",
