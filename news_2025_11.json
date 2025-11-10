@@ -1,5 +1,393 @@
 [
   {
+    "title": "Spherene posiluje ekosystém ADMS pro aditivní výrobu novými softwarovými integracemi a znovuspuštěním webu",
+    "summary": "Spherene, a company developing Adaptive Density Minimal Surfaces (ADMS) for advanced design in additive manufacturing, has introduced new software integrations and a redesigned website to expand access to its computational geometry tools. The updates include enhanced integrations for Autodesk Fusion and Rhino/Grasshopper, as well as a new connector for nTop, extending the reach of ADMS [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/4-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T17:35:58+00:00",
+    "url": "https://3dprintingindustry.com/news/spherene-strengthens-adms-ecosystem-for-additive-manufacturing-with-new-software-integrations-and-website-relaunch-246112/?utm_source=rss&utm_medium=rss&utm_campaign=spherene-strengthens-adms-ecosystem-for-additive-manufacturing-with-new-software-integrations-and-website-relaunch",
+    "title_en": "Spherene strengthens ADMS ecosystem for additive manufacturing with new software integrations and website relaunch",
+    "summary_bullets_en": [
+      "Spherene has introduced new software integrations to enhance its ADMS tools for additive manufacturing.",
+      "The updates include enhanced integrations for Autodesk Fusion and Rhino/Grasshopper.",
+      "A new connector for nTop has been added to extend the reach of ADMS.",
+      "Spherene has also relaunched its website to improve access to its computational geometry tools."
+    ],
+    "summary_bullets_cs": [
+      "Spherene představila nové softwarové integrace pro vylepšení svých nástrojů ADMS pro aditivní výrobu.",
+      "Aktualizace zahrnují vylepšené integrace pro Autodesk Fusion a Rhino/Grasshopper.",
+      "Byl přidán nový konektor pro nTop, který rozšiřuje dosah ADMS.",
+      "Spherene také znovu spustila svůj web, aby zlepšila přístup ke svým nástrojům pro výpočetní geometrie."
+    ],
+    "tags": [
+      "Software",
+      "Spherene",
+      "Autodesk Fusion",
+      "Rhino",
+      "Grasshopper",
+      "nTop"
+    ]
+  },
+  {
+    "title": "Maximilian Eils jmenován generálním ředitelem Spectroplast, zaměřen na průmyslové přijetí silikonového AM",
+    "summary": "Spectroplast AG,a specialist in industrial silicone 3D printing solutions, has named Maximilian Eils as its new Chief Executive Officer. With broad experience in additive manufacturing (AM) and strategic transformation, Eils has held senior positions in major global 3D printing companies. His leadership signals a new phase for Spectroplast, aimed at speeding up the industrial use [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Maximilian-Eils-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T17:35:36+00:00",
+    "url": "https://3dprintingindustry.com/news/maximilian-eils-named-ceo-of-spectroplast-focused-on-industrial-adoption-of-silicone-am-246169/?utm_source=rss&utm_medium=rss&utm_campaign=maximilian-eils-named-ceo-of-spectroplast-focused-on-industrial-adoption-of-silicone-am",
+    "title_en": "Maximilian Eils Named CEO of Spectroplast, Focused on Industrial Adoption of Silicone AM",
+    "summary_bullets_en": [
+      "Spectroplast AG appoints Maximilian Eils as the new CEO.",
+      "Eils brings extensive experience in additive manufacturing and strategic transformation.",
+      "His leadership aims to accelerate the industrial adoption of silicone 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Spectroplast AG jmenoval Maximiliana Eilse novým generálním ředitelem.",
+      "Eils přináší rozsáhlé zkušenosti v oblasti aditivní výroby a strategické transformace.",
+      "Jeho vedení má za cíl urychlit průmyslové přijetí silikonového 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Spectroplast",
+      "Additive Manufacturing",
+      "Silicone 3D Printing"
+    ]
+  },
+  {
+    "title": "Větší flexibilita systémů v průmyslovém 3D tisku s KraussMaffei",
+    "summary": "KraussMaffei, a German manufacturer specializing in injection molding, extrusion, and reaction process machinery, will present its powerPrint Flex platform at Formnext 2025 in Frankfurt am Main from November 18 to 21. The system introduces modular, robot-based large-format 3D printing for industrial-scale component and tooling production. It extends the capabilities of KraussMaffei’s earlier powerPrint Plus closed [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/powerPrint-Flex-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T17:25:42+00:00",
+    "url": "https://3dprintingindustry.com/news/greater-system-flexibility-in-industrial-3d-printing-with-kraussmaffei-246100/?utm_source=rss&utm_medium=rss&utm_campaign=greater-system-flexibility-in-industrial-3d-printing-with-kraussmaffei",
+    "title_en": "Greater system flexibility in industrial 3D printing with KraussMaffei",
+    "summary_bullets_en": [
+      "KraussMaffei will showcase its powerPrint Flex platform at Formnext 2025 in Frankfurt.",
+      "The platform offers modular, robot-based large-format 3D printing for industrial-scale production.",
+      "It enhances the capabilities of the previous powerPrint Plus system."
+    ],
+    "summary_bullets_cs": [
+      "KraussMaffei představí svou platformu powerPrint Flex na Formnext 2025 ve Frankfurtu.",
+      "Platforma nabízí modulární, robotický velkoformátový 3D tisk pro průmyslovou výrobu.",
+      "Rozšiřuje schopnosti předchozího systému powerPrint Plus."
+    ],
+    "tags": [
+      "Hardware",
+      "KraussMaffei",
+      "Formnext",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Meteor Inkjet a Quantica spolupracují na rozvoji schopností aditivní výroby",
+    "summary": "Meteor Inkjet Ltd, a UK-based developer of industrial inkjet printhead driving solutions, has announced a collaboration with Berlin-based additive manufacturing company Quantica. Under this partnership, Meteor will supply its drive electronics to power Quantica’s NovoJet printhead, a system engineered to jet high-viscosity functional materials beyond the limits of conventional inkjet technology. Electronics already trusted across [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/NovoJet™-printhead-in-industrial-system-Print-Engine-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T17:24:55+00:00",
+    "url": "https://3dprintingindustry.com/news/meteor-inkjet-and-quantica-partner-to-advance-additive-manufacturing-capabilities-246107/?utm_source=rss&utm_medium=rss&utm_campaign=meteor-inkjet-and-quantica-partner-to-advance-additive-manufacturing-capabilities",
+    "title_en": "Meteor Inkjet and Quantica partner to advance additive manufacturing capabilities",
+    "summary_bullets_en": [
+      "Meteor Inkjet Ltd collaborates with Quantica to enhance additive manufacturing.",
+      "Meteor will provide drive electronics for Quantica's NovoJet printhead.",
+      "NovoJet is designed to jet high-viscosity materials beyond conventional inkjet limits."
+    ],
+    "summary_bullets_cs": [
+      "Meteor Inkjet Ltd spolupracuje s Quantica na zlepšení aditivní výroby.",
+      "Meteor dodá elektroniku pro pohon tiskové hlavy NovoJet od Quantica.",
+      "NovoJet je navržen pro tisk vysoce viskózních materiálů nad rámec konvenčních inkoustových technologií."
+    ],
+    "tags": [
+      "Hardware",
+      "Meteor Inkjet",
+      "Quantica",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Angstrom Group kupuje Mantle pro rozšíření automatizované výroby nástrojů",
+    "summary": "Angstrom Group, a global supplier serving automotive and industrial OEMs, has acquired Mantle, a San Francisco–based company specializing in metal AM for tooling applications. The move is intended to broaden Mantle’s market presence and speed up the adoption of its automated toolmaking platform across international production environments. “With Mantle now part of the Angstrom family, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Mantle-Machine-banner-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T17:21:29+00:00",
+    "url": "https://3dprintingindustry.com/news/angstrom-group-purchases-mantle-to-scale-automated-toolmaking-246135/?utm_source=rss&utm_medium=rss&utm_campaign=angstrom-group-purchases-mantle-to-scale-automated-toolmaking",
+    "title_en": "Angstrom Group Purchases Mantle to Scale Automated Toolmaking",
+    "summary_bullets_en": [
+      "Angstrom Group has acquired Mantle, a company specializing in metal additive manufacturing for tooling applications.",
+      "The acquisition aims to expand Mantle's market presence and accelerate the adoption of its automated toolmaking platform.",
+      "Angstrom Group serves automotive and industrial OEMs globally, enhancing its capabilities with Mantle's technology."
+    ],
+    "summary_bullets_cs": [
+      "Angstrom Group získala společnost Mantle, která se specializuje na kovový aditivní tisk pro aplikace ve výrobě nástrojů.",
+      "Cílem akvizice je rozšířit tržní přítomnost Mantle a urychlit přijetí její platformy pro automatizovanou výrobu nástrojů.",
+      "Angstrom Group, která globálně slouží automobilovým a průmyslovým OEM, posiluje své schopnosti díky technologii Mantle."
+    ],
+    "tags": [
+      "Hardware",
+      "Angstrom Group",
+      "Mantle",
+      "Automotive",
+      "Industrial",
+      "Toolmaking"
+    ]
+  },
+  {
+    "title": "Caracol představuje nejnovější vylepšení platformy Eidos na Formnext 2025",
+    "summary": "Caracol, a provider of large-format robotic additive manufacturing (AM) systems, will introduce the latest version of its Eidos Manufacturing Software Suite at Formnext 2025 (Booth C101 – Hall 12.1). The software is central to the company’s production platform and now incorporates AI, additional AM-related processes, and expanded sensing capabilities to support more autonomous and adaptive [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/HA-Printing-Close-Up-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T17:18:40+00:00",
+    "url": "https://3dprintingindustry.com/news/caracol-presents-latest-eidos-platform-advancements-at-formnext-2025-246161/?utm_source=rss&utm_medium=rss&utm_campaign=caracol-presents-latest-eidos-platform-advancements-at-formnext-2025",
+    "title_en": "Caracol Presents Latest Eidos Platform Advancements at Formnext 2025",
+    "summary_bullets_en": [
+      "Caracol will showcase the latest version of its Eidos Manufacturing Software Suite at Formnext 2025.",
+      "The updated software includes AI integration, additional AM processes, and enhanced sensing capabilities.",
+      "These advancements aim to support more autonomous and adaptive manufacturing operations."
+    ],
+    "summary_bullets_cs": [
+      "Caracol představí nejnovější verzi svého softwarového balíčku Eidos Manufacturing na Formnext 2025.",
+      "Aktualizovaný software zahrnuje integraci AI, další procesy aditivní výroby a rozšířené senzorické schopnosti.",
+      "Tato vylepšení mají za cíl podpořit autonomnější a adaptivnější výrobní operace."
+    ],
+    "tags": [
+      "Software",
+      "Caracol",
+      "Formnext",
+      "AI",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Opdo spolupracuje s Luximprint na vytvoření plně digitálního optického pracovního postupu",
+    "summary": "Opdo, described as the first AI-based optics platform, has entered a partnership with Luximprint, 3D printed optics company. The aim is to establish a smooth transition from intelligent optical design to fully digital manufacturing. The collaboration is shifting the standard process for optical system development, making it possible to accelerate cycles and support greater customization [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/LUXIMPRINT_opdo.ai-images-press-release_composition-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T17:13:19+00:00",
+    "url": "https://3dprintingindustry.com/news/opdo-partners-with-luximprint-to-create-a-fully-digital-optics-workflow-246129/?utm_source=rss&utm_medium=rss&utm_campaign=opdo-partners-with-luximprint-to-create-a-fully-digital-optics-workflow",
+    "title_en": "Opdo Partners with Luximprint to Create a Fully Digital Optics Workflow",
+    "summary_bullets_en": [
+      "Opdo, an AI-based optics platform, partners with Luximprint, a 3D printed optics company.",
+      "The collaboration aims to create a seamless transition from intelligent optical design to digital manufacturing.",
+      "This partnership is set to transform the standard process for optical system development.",
+      "The new workflow will accelerate development cycles and enhance customization capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Opdo, popisovaná jako první platforma pro optiku založená na AI, uzavřela partnerství s Luximprint, společností pro 3D tisk optiky.",
+      "Cílem spolupráce je vytvořit plynulý přechod od inteligentního optického návrhu k plně digitální výrobě.",
+      "Tato spolupráce mění standardní proces vývoje optických systémů.",
+      "Nový pracovní postup urychlí vývojové cykly a podpoří větší možnosti přizpůsobení."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Opdo",
+      "Luximprint"
+    ]
+  },
+  {
+    "title": "3D tiskárna Lumin od PERFI vytváří objekty během minut",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/927467594/0/fabbaloo/default~PERFIs-Lumin-D-Printer-Builds-Objects-in-Minutes\" rel=\"nofollow\" title=\"PERFI&#8217;s Lumin 3D Printer Builds Objects in Minutes\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/perfi-cover-300x185.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A Danish company offers a high speed volumetric 3D printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927467594/0/fabbaloo/default~PERFIs-Lumin-D-Printer-Builds-Objects-in-Minutes\" rel=\"nofollow\">PERFI&#8217;s Lumin 3D Printer Builds Objects in Minutes</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/perfi-cover-300x185.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-11-10T17:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/927467594/0/fabbaloo/default~PERFIs-Lumin-D-Printer-Builds-Objects-in-Minutes",
+    "title_en": "PERFI's Lumin 3D Printer Builds Objects in Minutes",
+    "summary_bullets_en": [
+      "A Danish company has developed a high-speed volumetric 3D printer.",
+      "The Lumin 3D printer can build objects in a matter of minutes.",
+      "This technology represents a significant advancement in 3D printing speed."
+    ],
+    "summary_bullets_cs": [
+      "Dánská společnost vyvinula vysokorychlostní objemovou 3D tiskárnu.",
+      "Tiskárna Lumin dokáže vytvářet objekty během několika minut.",
+      "Tato technologie představuje významný pokrok v rychlosti 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "PERFI",
+      "3D Printing",
+      "Lumin"
+    ]
+  },
+  {
+    "title": "Když 87letý mistr odešel do důchodu, nahradila ho AI",
+    "summary": "When a master engraver in Bavaria finally put away his tools after nearly seven decades, a jeweler and her sixteen-year-old son stepped in with AI, Blender, and a few 3D printers.&#160; A disappearing craft meets a new workflow&#160; In Rieden, a small village in Bavaria, jewelry maker Andrea Patzner is helping to keep a regional [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/sample2-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T16:09:03+00:00",
+    "url": "https://3dprintingindustry.com/news/when-an-87-year-old-master-retired-ai-took-his-place-246147/?utm_source=rss&utm_medium=rss&utm_campaign=when-an-87-year-old-master-retired-ai-took-his-place",
+    "title_en": "When an 87-Year-Old Master Retired, AI Took His Place",
+    "summary_bullets_en": [
+      "An 87-year-old master engraver in Bavaria retired after nearly seven decades.",
+      "A jeweler and her sixteen-year-old son are using AI, Blender, and 3D printers to continue the craft.",
+      "The transition represents a blend of traditional craftsmanship with modern technology."
+    ],
+    "summary_bullets_cs": [
+      "87letý mistr rytec v Bavorsku odešel do důchodu po téměř sedmi desetiletích.",
+      "Zlatnice a její šestnáctiletý syn používají AI, Blender a 3D tiskárny k pokračování řemesla.",
+      "Tato změna představuje spojení tradičního řemesla s moderní technologií."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "3D Printing",
+      "AI",
+      "Blender"
+    ]
+  },
+  {
+    "title": "REMUS od Valcun umožňuje velkoformátový 3D tisk hliníku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/927464903/0/fabbaloo/default~Valcuns-REMUS-Enables-LargeScale-Aluminum-D-Printing\" rel=\"nofollow\" title=\"Valcun&#8217;s REMUS Enables Large-Scale Aluminum 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/remus-valcun-cover-300x177.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Valcun took an interesting step into a new market with their new REMUS toolhead.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927464903/0/fabbaloo/default~Valcuns-REMUS-Enables-LargeScale-Aluminum-D-Printing\" rel=\"nofollow\">Valcun&#8217;s REMUS Enables Large-Scale Aluminum 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/remus-valcun-cover-300x177.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-11-10T16:02:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/927464903/0/fabbaloo/default~Valcuns-REMUS-Enables-LargeScale-Aluminum-D-Printing",
+    "title_en": "Valcun's REMUS Enables Large-Scale Aluminum 3D Printing",
+    "summary_bullets_en": [
+      "Valcun introduces the REMUS toolhead for large-scale aluminum 3D printing.",
+      "The REMUS toolhead marks Valcun's entry into a new market segment.",
+      "This development could expand the possibilities for aluminum 3D printing applications."
+    ],
+    "summary_bullets_cs": [
+      "Valcun představuje nástrojovou hlavu REMUS pro velkoformátový 3D tisk hliníku.",
+      "REMUS znamená vstup Valcun do nového tržního segmentu.",
+      "Tento vývoj by mohl rozšířit možnosti aplikací 3D tisku hliníku."
+    ],
+    "tags": [
+      "Hardware",
+      "Valcun",
+      "3D Printing",
+      "Aluminum"
+    ]
+  },
+  {
+    "title": "Zdá se, že aditivní výroba je zpět na správné cestě",
+    "summary": "3DP War Journal #71",
+    "image": "https://substackcdn.com/image/fetch/$s_!Vqli!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a40345d-ca5b-4745-b5e5-cbfeee73b6a4_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-11-10T15:00:40+00:00",
+    "url": "https://www.3dprintingjournal.com/p/seems-like-am-is-back-in-line",
+    "title_en": "Seems like AM is back in line",
+    "summary_bullets_en": [
+      "The additive manufacturing (AM) industry is showing signs of recovery after recent challenges.",
+      "Key players in the 3D printing sector are reporting increased demand and production capabilities.",
+      "Technological advancements and strategic partnerships are driving growth in the AM market."
+    ],
+    "summary_bullets_cs": [
+      "Průmysl aditivní výroby vykazuje známky zotavení po nedávných výzvách.",
+      "Klíčoví hráči v sektoru 3D tisku hlásí zvýšenou poptávku a výrobní kapacity.",
+      "Technologické pokroky a strategická partnerství pohánějí růst na trhu aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "UltiMaker",
+      "Nikon SLM Solutions",
+      "HP"
+    ]
+  },
+  {
+    "title": "Stratasys vyrábí díly pro námořnictvo pro Trident Warrior 25",
+    "summary": "The US Navy&#8217;s Trident Warrior 25 is a live fire manufacturing exercise hosted by FLEETWERX, an organization that wants to bring together companies and academia to drive Navy innovation, along...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/11/STRP037-Image-1_Fleewer-Drone-1024x683.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-10T14:00:40+00:00",
+    "url": "https://3dprint.com/321958/stratasys-makes-navy-parts-for-trident-warrior-25/",
+    "title_en": "Stratasys Makes Navy Parts for Trident Warrior 25",
+    "summary_bullets_en": [
+      "Stratasys is producing parts for the US Navy's Trident Warrior 25 exercise.",
+      "Trident Warrior 25 is a live fire manufacturing exercise aimed at driving Navy innovation.",
+      "The exercise is hosted by FLEETWERX, which collaborates with companies and academia."
+    ],
+    "summary_bullets_cs": [
+      "Stratasys vyrábí díly pro cvičení Trident Warrior 25 amerického námořnictva.",
+      "Trident Warrior 25 je cvičení zaměřené na inovace v námořnictvu.",
+      "Cvičení pořádá FLEETWERX, který spolupracuje s firmami a akademickou sférou."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "US Navy",
+      "FLEETWERX"
+    ]
+  },
+  {
+    "title": "XJet uvádí Carmel Pro, kompaktní a cenově dostupnou NPJ 3D tiskárnu pro kovy a keramiku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/927456143/0/fabbaloo/default~XJet-Launches-Carmel-Pro-a-Compact-and-Affordable-NPJ-D-Printer-for-Metals-and-Ceramics\" rel=\"nofollow\" title=\"XJet Launches Carmel Pro, a Compact and Affordable NPJ 3D Printer for Metals and Ceramics\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/xjet-carmel-pro-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>XJet announced a new, compact 3D printer using their NPJ technology.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927456143/0/fabbaloo/default~XJet-Launches-Carmel-Pro-a-Compact-and-Affordable-NPJ-D-Printer-for-Metals-and-Ceramics\" rel=\"nofollow\">XJet Launches Carmel Pro, a Compact and Affordable NPJ 3D Printer for Metals and Ceramics</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/xjet-carmel-pro-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-11-10T14:00:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/927456143/0/fabbaloo/default~XJet-Launches-Carmel-Pro-a-Compact-and-Affordable-NPJ-D-Printer-for-Metals-and-Ceramics",
+    "title_en": "XJet Launches Carmel Pro, a Compact and Affordable NPJ 3D Printer for Metals and Ceramics",
+    "summary_bullets_en": [
+      "XJet has introduced the Carmel Pro, a new compact 3D printer.",
+      "The printer utilizes XJet's NPJ technology.",
+      "It is designed for printing with metals and ceramics.",
+      "The Carmel Pro is positioned as an affordable option in the market."
+    ],
+    "summary_bullets_cs": [
+      "XJet představila novou kompaktní 3D tiskárnu Carmel Pro.",
+      "Tiskárna využívá technologii NPJ od XJet.",
+      "Je určena pro tisk kovů a keramiky.",
+      "Carmel Pro je na trhu prezentována jako cenově dostupná volba."
+    ],
+    "tags": [
+      "Hardware",
+      "XJet",
+      "3D Printing",
+      "Metals",
+      "Ceramics"
+    ]
+  },
+  {
+    "title": "Připojte se k nám tento týden na bezplatné strategie investic do AM 2025",
+    "summary": "Additive Manufacturing Research (AM Research) recently reported that the global additive manufacturing (AM) market reached $3.9 billion in Q2 of 2025: an 8.8% year-over-year increase. There&#8217;s a lot to unpack,...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/11/amis_nov13_1200630_jensen-1024x538.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-10T13:30:17+00:00",
+    "url": "https://3dprint.com/322041/join-us-am-investment-strategies-2025/",
+    "title_en": "Join Us This Week for Our Free AM Investment Strategies 2025",
+    "summary_bullets_en": [
+      "Additive Manufacturing Research reported a global AM market value of $3.9 billion in Q2 2025.",
+      "This represents an 8.8% increase compared to the previous year.",
+      "The report highlights significant growth and investment opportunities in the AM sector."
+    ],
+    "summary_bullets_cs": [
+      "Additive Manufacturing Research oznámil, že globální trh s aditivní výrobou dosáhl ve 2. čtvrtletí 2025 hodnoty 3,9 miliardy dolarů.",
+      "To představuje meziroční nárůst o 8,8 %."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "Investment",
+      "Market Growth"
+    ]
+  },
+  {
+    "title": "3DPOD 279: AJ Strandquist, Würth Additive Group",
+    "summary": "AJ Strandquist is the CEO of the Würth Additive Group. From that pedestal he&#8217;s helping a $20 billion revenue 87,000 employee distrubution company make its way in Additive. Würth&#8217;s 3D...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-10T13:00:50+00:00",
+    "url": "https://3dprint.com/321722/3dpod-279-aj-strandquist-wurth-additive-group/",
+    "title_en": "3DPOD 279: AJ Strandquist, Würth Additive Group",
+    "summary_bullets_en": [
+      "AJ Strandquist is the CEO of Würth Additive Group.",
+      "He is leading a $20 billion revenue company with 87,000 employees in the additive manufacturing sector.",
+      "Würth is integrating 3D printing into its distribution operations."
+    ],
+    "summary_bullets_cs": [
+      "AJ Strandquist je generálním ředitelem Würth Additive Group.",
+      "Z této pozice pomáhá společnosti s obratem 20 miliard dolarů a 87 000 zaměstnanci prosadit se v oblasti aditivní výroby.",
+      "Würth integruje 3D tisk do svých distribučních operací."
+    ],
+    "tags": [
+      "Hardware",
+      "Würth Additive Group",
+      "3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Co vidět na Formnext 2025",
     "summary": "This year marks the 10th edition of Formnext, the Frankfurt-based trade show that has become the definitive event for additive manufacturing. As the doors open on Tuesday, thousands from across the global AM ecosystem will once again converge on Germany’s Messe Frankfurt to see what’s next in 3D printing. With more than 800 exhibitors spread [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2022/01/PXL_20211119_083158770-01-150x100.jpeg",
