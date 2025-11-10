@@ -1,5 +1,220 @@
 [
   {
+    "title": "Co vidět na Formnext 2025",
+    "summary": "This year marks the 10th edition of Formnext, the Frankfurt-based trade show that has become the definitive event for additive manufacturing. As the doors open on Tuesday, thousands from across the global AM ecosystem will once again converge on Germany’s Messe Frankfurt to see what’s next in 3D printing. With more than 800 exhibitors spread [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2022/01/PXL_20211119_083158770-01-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T11:57:18+00:00",
+    "url": "https://3dprintingindustry.com/news/what-to-see-at-formnext-2025-246118/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-see-at-formnext-2025",
+    "title_en": "What to see at Formnext 2025",
+    "summary_bullets_en": [
+      "Formnext 2025 marks the 10th edition of the leading trade show for additive manufacturing.",
+      "The event takes place in Frankfurt and attracts thousands from the global AM ecosystem.",
+      "Over 800 exhibitors will showcase the latest advancements in 3D printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Formnext 2025 je 10. ročníkem přední veletrhu pro aditivní výrobu.",
+      "Akce se koná ve Frankfurtu a přitahuje tisíce účastníků z celosvětového ekosystému AM.",
+      "Více než 800 vystavovatelů představí nejnovější pokroky v technologii 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Trade Show",
+      "Additive Manufacturing",
+      "3D Printing",
+      "Formnext",
+      "Frankfurt"
+    ]
+  },
+  {
+    "title": "Průmyslová kvalita SLS od začátku do konce, nyní dostupná se SLS4All",
+    "summary": "European open-source SLS 3D printing company SLS4All has expanded its offering with a full ecosystem built around its Inova MK1 3D printer, post-processing equipment, and a new optional Assembly Service. Founded by engineers Tomas Starek and Pavel Dyntera, the Czech-based company aims to make industrial-quality selective laser sintering (SLS) more accessible while maintaining the precision [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/SLS4All-Combo-2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T08:49:07+00:00",
+    "url": "https://3dprintingindustry.com/news/industrial-grade-sls-from-start-to-finish-now-within-reach-with-sls4all-245874/?utm_source=rss&utm_medium=rss&utm_campaign=industrial-grade-sls-from-start-to-finish-now-within-reach-with-sls4all",
+    "title_en": "Industrial-Grade SLS from Start to Finish, Now Within Reach with SLS4All",
+    "summary_bullets_en": [
+      "SLS4All, a European open-source SLS 3D printing company, has expanded its offerings.",
+      "The company now provides a full ecosystem including the Inova MK1 3D printer and post-processing equipment.",
+      "A new optional Assembly Service is available to enhance accessibility to industrial-quality SLS.",
+      "Founded by Czech engineers Tomas Starek and Pavel Dyntera, SLS4All aims to maintain precision while making SLS more accessible."
+    ],
+    "summary_bullets_cs": [
+      "Evropská open-source společnost pro SLS 3D tisk SLS4All rozšířila svou nabídku.",
+      "Společnost nyní poskytuje kompletní ekosystém včetně 3D tiskárny Inova MK1 a zařízení pro post-processing.",
+      "Nová volitelná služba montáže je k dispozici pro zvýšení dostupnosti průmyslové kvality SLS.",
+      "Společnost SLS4All, založená českými inženýry Tomášem Staříkem a Pavlem Dynterou, si klade za cíl udržet přesnost a zároveň zpřístupnit SLS."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "SLS4All",
+      "3D Printing",
+      "Inova MK1"
+    ]
+  },
+  {
+    "title": "amace uvádí na trh kompaktní kovovou LPBF 3D tiskárnu STLR 120 pro výzkum a nástroje",
+    "summary": "amace solutions Pvt Ltd, an Indian metal additive manufacturing system developer, has introduced the STLR 120, a compact Laser Powder Bed Fusion (LPBF) 3D printer designed for research institutions, startups, and medical technology developers. The machine offers a Ø120 × 200 mm build volume and operates with a 400 W fiber laser, targeting users who [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/amace-launches-STLR-120-Final-PP-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T08:44:46+00:00",
+    "url": "https://3dprintingindustry.com/news/amace-launches-stlr-120-compact-metal-lpbf-3d-printer-for-research-and-tooling-246080/?utm_source=rss&utm_medium=rss&utm_campaign=amace-launches-stlr-120-compact-metal-lpbf-3d-printer-for-research-and-tooling",
+    "title_en": "amace launches STLR 120 compact metal LPBF 3D printer for research and tooling",
+    "summary_bullets_en": [
+      "amace solutions Pvt Ltd has unveiled the STLR 120, a compact LPBF 3D printer.",
+      "The printer is designed for research institutions, startups, and medical technology developers.",
+      "It features a build volume of Ø120 × 200 mm and a 400 W fiber laser."
+    ],
+    "summary_bullets_cs": [
+      "amace solutions Pvt Ltd představila STLR 120, kompaktní LPBF 3D tiskárnu.",
+      "Tiskárna je určena pro výzkumné instituce, startupy a vývojáře lékařských technologií.",
+      "Nabízí objem tisku Ø120 × 200 mm a pracuje s 400 W vláknovým laserem."
+    ],
+    "tags": [
+      "Hardware",
+      "amace",
+      "3D Printing",
+      "LPBF",
+      "Research",
+      "Medical Technology"
+    ]
+  },
+  {
+    "title": "‘Oživte nápady’ s novou vícebarevnou FDM 3D tiskárnou ARCO od Phrozen",
+    "summary": "Resin-based 3D printer manufacturer Phrozen has launched its new ARCO multi-color FDM 3D printer, enabling users to produce large, high-speed, and multi-material prints with greater precision and control. Having built its reputation in high-resolution resin printing, Phrozen is now applying that expertise to the FDM segment, an area valued for its scalability and broad material [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/ARCO_Banner-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T08:40:14+00:00",
+    "url": "https://3dprintingindustry.com/news/bring-ideas-to-life-with-phrozens-new-arco-multicolor-fdm-3d-printer-246092/?utm_source=rss&utm_medium=rss&utm_campaign=bring-ideas-to-life-with-phrozens-new-arco-multicolor-fdm-3d-printer",
+    "title_en": "'Bring Ideas to Life' with Phrozen’s new ARCO multicolor FDM 3D printer",
+    "summary_bullets_en": [
+      "Phrozen has launched the ARCO multi-color FDM 3D printer.",
+      "The printer allows for large, high-speed, and multi-material prints.",
+      "Phrozen is leveraging its expertise in high-resolution resin printing for the FDM segment."
+    ],
+    "summary_bullets_cs": [
+      "Phrozen uvedl na trh vícebarevnou FDM 3D tiskárnu ARCO.",
+      "Tiskárna umožňuje velkoformátový, vysokorychlostní a více materiálový tisk.",
+      "Phrozen využívá své zkušenosti s vysokorozlišovacím resinovým tiskem v segmentu FDM."
+    ],
+    "tags": [
+      "Hardware",
+      "Phrozen",
+      "3D Printing",
+      "FDM",
+      "Multicolor"
+    ]
+  },
+  {
+    "title": "ASTM vyvíjí nový test pro hodnocení mezivrstvových svarů v polymerním 3D tisku",
+    "summary": "ASTM International’s additive manufacturing technologies committee (F42) is developing a new standard to improve the strength and quality of polymer parts produced through extrusion-based 3D printing. The proposed standard, designated WK81710, aims to measure the inter-layer weld in shear using a method proven to produce repeatable results. According to Rick Cole, research officer at the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/astm-international-vector-logo-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T08:37:00+00:00",
+    "url": "https://3dprintingindustry.com/news/astm-developing-new-test-for-assessing-inter-layer-welds-in-polymer-3d-printing-246077/?utm_source=rss&utm_medium=rss&utm_campaign=astm-developing-new-test-for-assessing-inter-layer-welds-in-polymer-3d-printing",
+    "title_en": "ASTM developing new test for assessing inter-layer welds in polymer 3D printing",
+    "summary_bullets_en": [
+      "ASTM International's F42 committee is working on a new standard to enhance the strength and quality of polymer 3D printed parts.",
+      "The proposed standard, WK81710, focuses on measuring inter-layer welds in shear.",
+      "The method aims to provide repeatable results for extrusion-based 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Komise F42 organizace ASTM International pracuje na novém standardu pro zlepšení pevnosti a kvality polymerních dílů vyrobených 3D tiskem.",
+      "Navrhovaný standard WK81710 se zaměřuje na měření mezivrstvových svarů ve smyku.",
+      "Metoda má za cíl poskytovat opakovatelné výsledky pro 3D tisk založený na extruzi."
+    ],
+    "tags": [
+      "Hardware",
+      "ASTM",
+      "3D Printing",
+      "Polymer",
+      "Standard"
+    ]
+  },
+  {
+    "title": "Projekt studentského bydlení tištěného 3D tiskem dosahuje nové úrovně v Dánsku",
+    "summary": "Europe’s largest 3D printed housing project has completed its 3D printing phase in Holstebro, Denmark, where 36 student apartments are being built using large-scale 3D printing. Named Skovsporet, the development was built by 3DCP Group for Danish non-profit housing association NordVestBo. Located near VIA University College’s Holstebro campus, the project forms a small student community [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/conc1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T08:36:06+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printed-student-housing-project-reaches-new-scale-in-denmark-246072/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-student-housing-project-reaches-new-scale-in-denmark",
+    "title_en": "3D printed student housing project reaches new scale in Denmark",
+    "summary_bullets_en": [
+      "Europe's largest 3D printed housing project has been completed in Holstebro, Denmark.",
+      "The project consists of 36 student apartments built using large-scale 3D printing technology.",
+      "Named Skovsporet, it was developed by 3DCP Group for the Danish non-profit housing association NordVestBo.",
+      "The housing is located near VIA University College’s Holstebro campus, forming a small student community."
+    ],
+    "summary_bullets_cs": [
+      "Největší evropský projekt bydlení tištěného 3D tiskem byl dokončen v Holstebro, Dánsko.",
+      "Projekt zahrnuje 36 studentských bytů postavených pomocí technologie velkoformátového 3D tisku.",
+      "Nazvaný Skovsporet, byl vyvinut skupinou 3DCP pro dánskou neziskovou bytovou asociaci NordVestBo.",
+      "Bydlení se nachází poblíž kampusu VIA University College v Holstebro, tvořící malou studentskou komunitu."
+    ],
+    "tags": [
+      "Hardware",
+      "3DCP Group",
+      "NordVestBo",
+      "3D printing",
+      "Student Housing",
+      "Denmark"
+    ]
+  },
+  {
+    "title": "Formnext zdůrazňuje pokroky v keramickém AM prostřednictvím výrobní přehlídky Lithoz",
+    "summary": "Ceramic 3D printing specialist Lithoz is using this year’s formnext to demonstrate that ceramic 3D printing has firmly entered industrial-scale production. The company’s Booth 11.1 C35 centers on real-world applications manufactured with its LCM technology across aerospace, semiconductors, medical devices and high-end consumer goods, underscoring how ceramic additive manufacturing (AM) is now being adopted in [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Gas_Injector_62_Channels_Bosch_Adv._Ceramics_-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T08:32:47+00:00",
+    "url": "https://3dprintingindustry.com/news/formnext-highlights-advances-in-ceramic-am-through-lithozs-production-showcase-246002/?utm_source=rss&utm_medium=rss&utm_campaign=formnext-highlights-advances-in-ceramic-am-through-lithozs-production-showcase",
+    "title_en": "Formnext Highlights Advances in Ceramic AM Through Lithoz’s Production Showcase",
+    "summary_bullets_en": [
+      "Lithoz is showcasing the industrial-scale production capabilities of ceramic 3D printing at Formnext.",
+      "The company's booth features real-world applications of its LCM technology.",
+      "Industries such as aerospace, semiconductors, medical devices, and high-end consumer goods are adopting ceramic additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Lithoz na Formnextu předvádí schopnosti keramického 3D tisku v průmyslovém měřítku.",
+      "Stánek společnosti představuje reálné aplikace její LCM technologie.",
+      "Keramickou aditivní výrobu přijímají odvětví jako letectví, polovodiče, zdravotnické přístroje a luxusní spotřební zboží."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Lithoz",
+      "Ceramic 3D Printing",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "Babcock a Plastometrex podporují projekt TAMPA ministerstva obrany pro hodnocení aditivní výroby",
+    "summary": "British multinational company Babcock International Group and UK-based materials testing and characterization company Plastometrex are taking part in Project TAMPA, a Ministry of Defence initiative focused on evaluating the use of additive manufacturing (AM) within the defence supply chain. The project is intended to address situations where key components may be difficult to source due [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/PLX-Benchtop-In-Use-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-10T08:31:03+00:00",
+    "url": "https://3dprintingindustry.com/news/babcock-and-plastometrex-support-mods-project-tampa-to-evaluate-additive-manufacturing-246009/?utm_source=rss&utm_medium=rss&utm_campaign=babcock-and-plastometrex-support-mods-project-tampa-to-evaluate-additive-manufacturing",
+    "title_en": "Babcock and Plastometrex Support MOD’s Project TAMPA to Evaluate Additive Manufacturing",
+    "summary_bullets_en": [
+      "Babcock International Group and Plastometrex are collaborating on Project TAMPA.",
+      "The initiative is led by the UK Ministry of Defence to assess additive manufacturing in the defence supply chain.",
+      "Project TAMPA aims to address challenges in sourcing key components through additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Babcock International Group a Plastometrex spolupracují na projektu TAMPA.",
+      "Iniciativa je vedena britským ministerstvem obrany za účelem hodnocení aditivní výroby v obranném dodavatelském řetězci.",
+      "Projekt TAMPA si klade za cíl řešit problémy s dodávkami klíčových komponentů prostřednictvím aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Babcock International Group",
+      "Plastometrex",
+      "Ministry of Defence",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "3D tištěné vzájemně propojené hliněné cihly vytvářejí mikroklima na podporu růstu stromů",
     "summary": "In some places, especially arid landscapes, tree saplings and crops need a little protection from the elements in order to grow. An interesting new project called TreeSoil was designed to...",
     "image": "https://3dprint.com/wp-content/uploads/2025/11/DSCF7820-1024x820.jpg",
