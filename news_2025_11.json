@@ -1,5 +1,426 @@
 [
   {
+    "title": "Elegoo zřejmě ukončuje vývoj vícebarevného tisku pro původní Centauri Carbon",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/927563804/0/fabbaloo/default~Elegoo-Appears-to-End-Multicolor-Development-for-Original-Centauri-Carbon\" rel=\"nofollow\" title=\"Elegoo Appears to End Multicolor Development for Original Centauri Carbon\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/elegoo-cancels-multicolor-cover-300x169.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Elegoo has apparently given up on multicolor desktop 3D printing, at least on their original Centauri Carbon system.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927563804/0/fabbaloo/default~Elegoo-Appears-to-End-Multicolor-Development-for-Original-Centauri-Carbon\" rel=\"nofollow\">Elegoo Appears to End Multicolor Development for Original Centauri Carbon</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/elegoo-cancels-multicolor-cover-300x169.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-11-12T17:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/927563804/0/fabbaloo/default~Elegoo-Appears-to-End-Multicolor-Development-for-Original-Centauri-Carbon",
+    "title_en": "Elegoo Appears to End Multicolor Development for Original Centauri Carbon",
+    "summary_bullets_en": [
+      "Elegoo has seemingly halted multicolor 3D printing development for their original Centauri Carbon system.",
+      "The decision indicates a shift in focus away from multicolor capabilities on this particular model.",
+      "This move may affect users who were anticipating multicolor functionality on the Centauri Carbon."
+    ],
+    "summary_bullets_cs": [
+      "Elegoo zřejmě zastavilo vývoj vícebarevného 3D tisku pro jejich původní systém Centauri Carbon.",
+      "Rozhodnutí naznačuje změnu zaměření od vícebarevných schopností na tomto konkrétním modelu.",
+      "Tento krok může ovlivnit uživatele, kteří očekávali vícebarevnou funkčnost na Centauri Carbon."
+    ],
+    "tags": [
+      "Hardware",
+      "Elegoo",
+      "3D Printing",
+      "Centauri Carbon"
+    ]
+  },
+  {
+    "title": "Řada Bambu Lab H je nyní kompatibilní s 3DPrinterOS",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/927560816/0/fabbaloo/default~Bambu-Lab-H-Series-Now-Compatible-with-DPrinterOS\" rel=\"nofollow\" title=\"Bambu Lab H Series Now Compatible with 3DPrinterOS\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/3dprinteros-bambu-h-cover-1-300x169.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>3DPrinterOS announced support for Bambu Lab’s H Series.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927560816/0/fabbaloo/default~Bambu-Lab-H-Series-Now-Compatible-with-DPrinterOS\" rel=\"nofollow\">Bambu Lab H Series Now Compatible with 3DPrinterOS</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/3dprinteros-bambu-h-cover-1-300x169.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-11-12T16:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/927560816/0/fabbaloo/default~Bambu-Lab-H-Series-Now-Compatible-with-DPrinterOS",
+    "title_en": "Bambu Lab H Series Now Compatible with 3DPrinterOS",
+    "summary_bullets_en": [
+      "3DPrinterOS has announced support for Bambu Lab's H Series.",
+      "This compatibility allows users to integrate Bambu Lab H Series printers with 3DPrinterOS platform.",
+      "The integration aims to enhance the user experience by providing more control and management options."
+    ],
+    "summary_bullets_cs": [
+      "3DPrinterOS oznámil podporu pro řadu H od Bambu Lab.",
+      "Tato kompatibilita umožňuje uživatelům integrovat tiskárny řady H od Bambu Lab s platformou 3DPrinterOS."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Bambu Lab",
+      "3DPrinterOS"
+    ]
+  },
+  {
+    "title": "Dyndrite se integruje s EOS Open Architecture, umožňuje plnou kontrolu nad dráhou nástroje a 3x vyšší produktivitu",
+    "summary": "RECODE.AM #24",
+    "image": "https://substackcdn.com/image/fetch/$s_!ZQdj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ebe8f57-6640-4381-9e91-e479c3c32ecd_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-11-12T15:02:54+00:00",
+    "url": "https://www.3dprintingjournal.com/p/dyndrite-integrates-with-eos-open",
+    "title_en": "Dyndrite integrates with EOS Open Architecture, enabling full toolpath control and 3x higher productivity",
+    "summary_bullets_en": [
+      "Dyndrite has integrated its software with EOS Open Architecture, allowing users to have complete control over toolpaths.",
+      "This integration is expected to significantly boost productivity, potentially tripling it.",
+      "The collaboration aims to enhance the capabilities of additive manufacturing by providing more flexibility and efficiency."
+    ],
+    "summary_bullets_cs": [
+      "Dyndrite integroval svůj software s EOS Open Architecture, což uživatelům umožňuje plnou kontrolu nad dráhami nástrojů.",
+      "Tato integrace by měla výrazně zvýšit produktivitu, potenciálně až trojnásobně.",
+      "Cílem spolupráce je zlepšit schopnosti aditivní výroby poskytnutím větší flexibility a efektivity."
+    ],
+    "tags": [
+      "Software",
+      "Dyndrite",
+      "EOS",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Angstrom Group rozšiřuje vertikální integraci akvizicí společnosti Mantle",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/927551555/0/fabbaloo/default~Angstrom-Group-Expands-Vertical-Integration-with-Acquisition-of-Mantle\" rel=\"nofollow\" title=\"Angstrom Group Expands Vertical Integration with Acquisition of Mantle\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/mantle-acquisition-cover-300x199.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Another 3D printer company has undergone a corporate acquisition: Mantle was acquired by Angstrom Group.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927551555/0/fabbaloo/default~Angstrom-Group-Expands-Vertical-Integration-with-Acquisition-of-Mantle\" rel=\"nofollow\">Angstrom Group Expands Vertical Integration with Acquisition of Mantle</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/mantle-acquisition-cover-300x199.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-11-12T14:43:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/927551555/0/fabbaloo/default~Angstrom-Group-Expands-Vertical-Integration-with-Acquisition-of-Mantle",
+    "title_en": "Angstrom Group Expands Vertical Integration with Acquisition of Mantle",
+    "summary_bullets_en": [
+      "Angstrom Group has acquired Mantle, a company specializing in 3D printing technology.",
+      "This acquisition is part of Angstrom Group's strategy to expand its vertical integration.",
+      "The acquisition aims to enhance Angstrom Group's capabilities in the 3D printing sector."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Angstrom Group získala firmu Mantle, která se specializuje na technologii 3D tisku.",
+      "Tato akvizice je součástí strategie Angstrom Group na rozšíření vertikální integrace.",
+      "Cílem akvizice je posílit schopnosti Angstrom Group v sektoru 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Angstrom Group",
+      "Mantle"
+    ]
+  },
+  {
+    "title": "Otevřeny nominace na Start-Up roku 2026 v rámci 3D Printing Industry Awards",
+    "summary": "The 3D Printing Industry Awards return for 2026, celebrating excellence, innovation, and real-world impact across additive manufacturing. Now in their ninth year, the Awards remain the only fully open, publicly nominated and voted celebration of the people, companies, and technologies shaping the future of 3D printing. Among the most anticipated categories each year is Start-Up [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/3DPI-Awards-Banner-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-12T14:13:16+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printing-industry-awards-2026-start-up-of-the-year-nominations-open-246285/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printing-industry-awards-2026-start-up-of-the-year-nominations-open",
+    "title_en": "3D Printing Industry Awards 2026 Start-Up of the Year, Nominations Open",
+    "summary_bullets_en": [
+      "The 3D Printing Industry Awards are returning for 2026, celebrating excellence in additive manufacturing.",
+      "These awards are the only fully open, publicly nominated and voted event in the 3D printing sector.",
+      "The awards highlight the people, companies, and technologies shaping the future of 3D printing.",
+      "The Start-Up of the Year category is one of the most anticipated each year."
+    ],
+    "summary_bullets_cs": [
+      "3D Printing Industry Awards se vrací v roce 2026, aby oslavily excelenci v aditivní výrobě.",
+      "Tyto ocenění jsou jedinou plně otevřenou, veřejně nominovanou a hlasovanou událostí v sektoru 3D tisku.",
+      "Ocenění zdůrazňují lidi, společnosti a technologie, které formují budoucnost 3D tisku.",
+      "Kategorie Start-Up roku je každoročně jednou z nejočekávanějších."
+    ],
+    "tags": [
+      "Awards",
+      "Start-Up",
+      "3D Printing",
+      "Innovation",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "AON3D tvrdí, že díky optimalizaci G-kódu založené na fyzice zrychlí tisk až o 54 %",
+    "summary": "Montreal-based AON3D has unveiled a physics-based G-code post-processing feature that it says cuts material extrusion print times by up to 54% without sacrificing part quality. The software analyzes each polymer’s rheological and thermal properties to predict heat buildup and dissipation within a part, then dynamically adjusts deposition rates, accelerating in safe regions and slowing before [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/image-50-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-12T14:07:57+00:00",
+    "url": "https://3dprintingindustry.com/news/aon3d-claims-up-to-54-faster-prints-with-physics-based-g-code-optimization-246265/?utm_source=rss&utm_medium=rss&utm_campaign=aon3d-claims-up-to-54-faster-prints-with-physics-based-g-code-optimization",
+    "title_en": "AON3D claims up to 54% faster prints with physics-based G-code optimization",
+    "summary_bullets_en": [
+      "AON3D has introduced a new G-code post-processing feature that optimizes print times by up to 54%.",
+      "The software uses a physics-based approach to analyze polymer properties and predict heat behavior.",
+      "It dynamically adjusts deposition rates to maintain part quality while speeding up the printing process."
+    ],
+    "summary_bullets_cs": [
+      "AON3D představila novou funkci post-processingu G-kódu, která optimalizuje časy tisku až o 54 %.",
+      "Software využívá fyzikální přístup k analýze vlastností polymerů a předpovídání tepelného chování.",
+      "Dynamicky upravuje rychlosti nanášení, aby udržel kvalitu dílů a zároveň zrychlil proces tisku."
+    ],
+    "tags": [
+      "Software",
+      "AON3D",
+      "3D Printing",
+      "Optimization"
+    ]
+  },
+  {
+    "title": "Novinky z 3D tisku, 12. listopadu 2025: Standardy, tisková hlava, UV tisk a další",
+    "summary": "We&#8217;re starting with standards news from ASTM International in today&#8217;s 3D Printing News Briefs, and then moving on to business, as Precision Plastics Australia launched a new collaborative venture. ValCUN...",
+    "image": "https://3dprint.com/wp-content/uploads/2024/08/ASTM-logo.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-12T14:00:22+00:00",
+    "url": "https://3dprint.com/322082/3d-printing-news-briefs-11-12-2025/",
+    "title_en": "3D Printing News Briefs, November 12, 2025: Standards, Printhead, UV Printing, & More",
+    "summary_bullets_en": [
+      "ASTM International releases new standards for 3D printing.",
+      "Precision Plastics Australia launches a new collaborative venture.",
+      "ValCUN introduces advancements in printhead technology.",
+      "Innovations in UV printing technology are highlighted."
+    ],
+    "summary_bullets_cs": [
+      "ASTM International vydává nové standardy pro 3D tisk.",
+      "Precision Plastics Australia zahajuje novou spolupráci.",
+      "ValCUN představuje pokroky v technologii tiskových hlav.",
+      "Představeny inovace v technologii UV tisku."
+    ],
+    "tags": [
+      "Standards",
+      "Business",
+      "Hardware",
+      "ASTM International",
+      "Precision Plastics Australia",
+      "ValCUN",
+      "UV Printing"
+    ]
+  },
+  {
+    "title": "AMT uzavírá rekordní rok s uvedením nového produktu na Formnext 2025",
+    "summary": "Additive Manufacturing Technologies (AMT PostPro), a Sheffield-based post-processing company and the world’s largest independent provider of automated finishing systems, is ending a record year of profitable growth with a 40 percent year-on-year rise in order bookings and two new system launches ahead of Formnext 2025. The PostPro UP Automated Unpacking System and the PostPro SF2X [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/postprosf2x-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-12T13:50:02+00:00",
+    "url": "https://3dprintingindustry.com/news/amt-closes-record-year-with-product-launch-at-formnext-2025-246256/?utm_source=rss&utm_medium=rss&utm_campaign=amt-closes-record-year-with-product-launch-at-formnext-2025",
+    "title_en": "AMT Closes Record Year with Product Launch at Formnext 2025",
+    "summary_bullets_en": [
+      "AMT PostPro, a leading post-processing company, reports a 40% increase in order bookings.",
+      "The company is launching two new systems: the PostPro UP Automated Unpacking System and the PostPro SF2X.",
+      "These launches are set to take place ahead of Formnext 2025."
+    ],
+    "summary_bullets_cs": [
+      "AMT PostPro, přední společnost v oblasti post-processingu, hlásí 40% nárůst objednávek.",
+      "Společnost uvádí na trh dva nové systémy: PostPro UP Automated Unpacking System a PostPro SF2X.",
+      "Tyto novinky budou představeny před veletrhem Formnext 2025."
+    ],
+    "tags": [
+      "Hardware",
+      "AMT PostPro",
+      "Formnext",
+      "PostPro UP",
+      "PostPro SF2X"
+    ]
+  },
+  {
+    "title": "Tekna a Burloak Technologies spolupracují na dodávkách materiálů pro více než 50 000 3D tištěných satelitních komponentů",
+    "summary": "Tekna Holding ASA, a Sherbrooke, Canada–based developer of plasma systems and advanced materials, has entered a strategic partnership with Burloak Technologies, a Canadian metal additive manufacturing company, to supply metal powders for the production of more than 50,000 satellite components. The collaboration supports Burloak’s role in manufacturing advanced flight hardware for the MDA Space Aurora [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/251104-Press-Release-Tekna-Burloak-vF-06-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-12T13:47:20+00:00",
+    "url": "https://3dprintingindustry.com/news/tekna-and-burloak-technologies-partner-to-supply-materials-for-over-50000-3d-printed-satellite-components-246271/?utm_source=rss&utm_medium=rss&utm_campaign=tekna-and-burloak-technologies-partner-to-supply-materials-for-over-50000-3d-printed-satellite-components",
+    "title_en": "Tekna and Burloak Technologies partner to supply materials for over 50,000 3D printed satellite components",
+    "summary_bullets_en": [
+      "Tekna Holding ASA and Burloak Technologies have formed a strategic partnership.",
+      "The collaboration involves supplying metal powders for over 50,000 satellite components.",
+      "Burloak Technologies will use these materials to manufacture advanced flight hardware.",
+      "The project supports the MDA Space Aurora initiative."
+    ],
+    "summary_bullets_cs": [
+      "Tekna Holding ASA a Burloak Technologies uzavřely strategické partnerství.",
+      "Spolupráce zahrnuje dodávky kovových prášků pro více než 50 000 satelitních komponentů.",
+      "Burloak Technologies použije tyto materiály k výrobě pokročilého letového hardwaru.",
+      "Projekt podporuje iniciativu MDA Space Aurora."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Tekna",
+      "Burloak Technologies",
+      "MDA Space Aurora"
+    ]
+  },
+  {
+    "title": "Materialise usiluje o další kotaci na Euronext Brussels a zpětný odkup ADS za 30 milionů EUR",
+    "summary": "Materialise NV (Nasdaq: MTLS), a Belgian developer of 3D printing software and provider of medical manufacturing services, plans to pursue an additional listing of its ordinary shares on Euronext Brussels. The move will complement its existing Nasdaq listing of American Depositary Shares (ADSs) and is scheduled to occur on or around November 20, 2025. Materialise [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/UX5-HP-Drone-by-Trimble-at-Materialise-HQ-in-Leuven.-Photo-by-3D-Printing-Industry-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-12T13:46:24+00:00",
+    "url": "https://3dprintingindustry.com/news/materialise-to-pursue-additional-euronext-brussels-listing-and-eur-30-million-ads-buyback-246246/?utm_source=rss&utm_medium=rss&utm_campaign=materialise-to-pursue-additional-euronext-brussels-listing-and-eur-30-million-ads-buyback",
+    "title_en": "Materialise to pursue additional Euronext Brussels listing and EUR 30 million ADS buyback",
+    "summary_bullets_en": [
+      "Materialise NV plans to list its ordinary shares on Euronext Brussels.",
+      "This listing will complement its existing Nasdaq listing of ADSs.",
+      "The listing is scheduled for around November 20, 2025."
+    ],
+    "summary_bullets_cs": [
+      "Materialise NV plánuje kotaci svých kmenových akcií na Euronext Brussels.",
+      "Tato kotace doplní stávající kotaci ADS na Nasdaq.",
+      "Kotace je plánována na přibližně 20. listopadu 2025."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Materialise",
+      "Euronext Brussels",
+      "Nasdaq"
+    ]
+  },
+  {
+    "title": "UpNano expanduje do Číny prostřednictvím partnerství s Husun Technologies",
+    "summary": "UpNano GmbH, a Vienna-based manufacturer of high-resolution two-photon polymerization (2PP) 3D printers, has entered the Chinese market through a new partnership with Beijing-based Husun Technologies. The collaboration marks the company’s next international step after establishing its presence in Europe and the United States, bringing the NanoOne 3D printer series to research institutions and selected industries [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/High-Resolution-2PP-3D-Printing-Now-in-China-scaled-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-12T13:45:44+00:00",
+    "url": "https://3dprintingindustry.com/news/upnano-expands-into-china-through-partnership-with-husun-technologies-246236/?utm_source=rss&utm_medium=rss&utm_campaign=upnano-expands-into-china-through-partnership-with-husun-technologies",
+    "title_en": "UpNano expands into China through partnership with Husun Technologies",
+    "summary_bullets_en": [
+      "UpNano GmbH, a Vienna-based company, has partnered with Husun Technologies to enter the Chinese market.",
+      "The collaboration aims to introduce the NanoOne 3D printer series to research institutions and selected industries in China.",
+      "This move follows UpNano's previous expansions in Europe and the United States."
+    ],
+    "summary_bullets_cs": [
+      "UpNano GmbH, společnost se sídlem ve Vídni, uzavřela partnerství s Husun Technologies pro vstup na čínský trh.",
+      "Cílem spolupráce je představit sérii 3D tiskáren NanoOne výzkumným institucím a vybraným průmyslovým odvětvím v Číně.",
+      "Tento krok následuje po předchozí expanzi UpNano v Evropě a Spojených státech."
+    ],
+    "tags": [
+      "Hardware",
+      "UpNano",
+      "Husun Technologies",
+      "3D Printing",
+      "China"
+    ]
+  },
+  {
+    "title": "ValCUN uvádí REMUS 1.0 pro rozšíření možností aditivní výroby hliníku",
+    "summary": "Belgian provider of Molten Metal Deposition (MMD) technology, ValCUN, is advancing the industrial adoption of aluminium 3D printing with the launch of REMUS 1.0, a next-generation printhead designed to bring high-strength aluminium alloys into mainstream manufacturing. By overcoming the limitations of conventional additive manufacturing (AM) for aluminium, REMUS 1.0 delivers scalable, reliable, and flexible metal [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Minerva-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-12T13:45:02+00:00",
+    "url": "https://3dprintingindustry.com/news/valcun-launches-remus-1-0-to-expand-aluminium-additive-manufacturing-capabilities-246229/?utm_source=rss&utm_medium=rss&utm_campaign=valcun-launches-remus-1-0-to-expand-aluminium-additive-manufacturing-capabilities",
+    "title_en": "ValCUN Launches REMUS 1.0 to Expand Aluminium Additive Manufacturing Capabilities",
+    "summary_bullets_en": [
+      "ValCUN, a Belgian company, introduces REMUS 1.0, a new printhead for aluminium 3D printing.",
+      "REMUS 1.0 aims to enhance the industrial use of high-strength aluminium alloys.",
+      "The technology addresses limitations of traditional aluminium additive manufacturing.",
+      "REMUS 1.0 offers scalable, reliable, and flexible metal printing solutions."
+    ],
+    "summary_bullets_cs": [
+      "Belgická společnost ValCUN představuje REMUS 1.0, novou tiskovou hlavu pro 3D tisk hliníku.",
+      "REMUS 1.0 má za cíl zlepšit průmyslové využití vysoce pevných hliníkových slitin.",
+      "Technologie řeší omezení tradiční aditivní výroby hliníku.",
+      "REMUS 1.0 nabízí škálovatelná, spolehlivá a flexibilní řešení pro tisk kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "ValCUN",
+      "3D Printing",
+      "Aluminium",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "AMT uvádí na trh dva nové systémy PostPro před Formnext 2025",
+    "summary": "Additive Manufacturing Technologies (AMT) is closing a record year with a double launch just ahead of Formnext 2025. The company, known for its post-processing automation, is introducing two new systems:...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/11/postpro_sf2_factory_001.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-12T13:30:09+00:00",
+    "url": "https://3dprint.com/322065/amt-launches-two-new-postpro-systems-ahead-of-formnext-2025/",
+    "title_en": "AMT Launches Two New PostPro Systems Ahead of Formnext 2025",
+    "summary_bullets_en": [
+      "Additive Manufacturing Technologies (AMT) is concluding a record year with a double product launch.",
+      "The company is introducing two new post-processing systems.",
+      "The launch is strategically timed just before the Formnext 2025 event.",
+      "AMT is renowned for its automation in post-processing solutions."
+    ],
+    "summary_bullets_cs": [
+      "Additive Manufacturing Technologies (AMT) uzavírá rekordní rok dvojitým uvedením produktů.",
+      "Společnost představuje dva nové systémy pro post-processing.",
+      "Uvedení na trh je strategicky načasováno těsně před akcí Formnext 2025.",
+      "AMT je známá svou automatizací v řešeních pro post-processing."
+    ],
+    "tags": [
+      "Hardware",
+      "AMT",
+      "Formnext",
+      "Post-processing"
+    ]
+  },
+  {
+    "title": "Citáty z AMS od hostitele, část 2: Rozhovor s generálním ředitelem Layered Ltd, Peterem Rogersem",
+    "summary": "Peter Rogers has held many different titles within the additive manufacturing (AM) industry over the years, with the latest title being CEO of Layered Ltd, the consultancy Peter founded, headquartered...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/11/Peter-Rogers.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-12T13:00:11+00:00",
+    "url": "https://3dprint.com/321985/ams-quotes-from-the-host-layered-ltd-peter-rogers/",
+    "title_en": "AMS Quotes From the Host, Part 2: An Interview with Layered Ltd’s CEO, Peter Rogers",
+    "summary_bullets_en": [
+      "Peter Rogers has extensive experience in the additive manufacturing industry.",
+      "He is currently the CEO of Layered Ltd, a consultancy he founded.",
+      "The interview explores his insights and experiences in the AM sector."
+    ],
+    "summary_bullets_cs": [
+      "Peter Rogers má rozsáhlé zkušenosti v oblasti aditivní výroby.",
+      "V současnosti je generálním ředitelem společnosti Layered Ltd, kterou založil.",
+      "Rozhovor zkoumá jeho postřehy a zkušenosti v sektoru AM."
+    ],
+    "tags": [
+      "Services",
+      "Layered Ltd",
+      "Additive Manufacturing",
+      "Peter Rogers"
+    ]
+  },
+  {
+    "title": "Nominace otevřeny pro 3D tiskové průmyslové ceny 2026",
+    "summary": "The 3D Printing Industry Awards return for 2026, celebrating excellence, innovation, and real-world impact across the global additive manufacturing sector. Now in its ninth year, the Awards remain fully open, publicly nominated, and voted on as a celebration of the people, companies, and technologies shaping the future of 3D printing. Since the first edition, more [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/3DPI-Awards-Banner-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-12T12:18:19+00:00",
+    "url": "https://3dprintingindustry.com/news/nominations-open-for-the-2026-3d-printing-industry-awards-246281/?utm_source=rss&utm_medium=rss&utm_campaign=nominations-open-for-the-2026-3d-printing-industry-awards",
+    "title_en": "Nominations open for the 2026 3D Printing Industry Awards",
+    "summary_bullets_en": [
+      "The 3D Printing Industry Awards are returning for 2026 to celebrate excellence and innovation in additive manufacturing.",
+      "The awards are in their ninth year and focus on the real-world impact of 3D printing technologies.",
+      "The event is open for public nominations and voting, highlighting the contributions of people, companies, and technologies in the industry."
+    ],
+    "summary_bullets_cs": [
+      "3D tiskové průmyslové ceny se vrací v roce 2026, aby oslavily excelenci a inovace v aditivní výrobě.",
+      "Ceny jsou v devátém roce a zaměřují se na reálný dopad technologií 3D tisku.",
+      "Akce je otevřena pro veřejné nominace a hlasování, zdůrazňující přínosy lidí, společností a technologií v tomto odvětví."
+    ],
+    "tags": [
+      "Awards",
+      "Additive Manufacturing",
+      "Innovation",
+      "3D Printing Industry",
+      "Excellence"
+    ]
+  },
+  {
+    "title": "Od algoritmů k akci: Sázka SoftBank na fyzickou AI s ABB",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/927544922/0/fabbaloo/default~From-Algorithms-to-Action-SoftBank%e2%80%99s-Physical-AI-Bet-on-ABB\" rel=\"nofollow\" title=\"From Algorithms to Action: SoftBank’s Physical AI Bet on ABB\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/ABBSoft-1-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Andressa Bonafe connect SoftBank’s robotics deal to the rise of additive manufacturing and the next wave of AI-powered production.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927544922/0/fabbaloo/default~From-Algorithms-to-Action-SoftBank%e2%80%99s-Physical-AI-Bet-on-ABB\" rel=\"nofollow\">From Algorithms to Action: SoftBank’s Physical AI Bet on ABB</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/ABBSoft-1-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-11-12T12:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/927544922/0/fabbaloo/default~From-Algorithms-to-Action-SoftBank%e2%80%99s-Physical-AI-Bet-on-ABB",
+    "title_en": "From Algorithms to Action: SoftBank’s Physical AI Bet on ABB",
+    "summary_bullets_en": [
+      "SoftBank has made a strategic investment in ABB, focusing on robotics and AI-driven production.",
+      "The collaboration aims to leverage AI and robotics to enhance additive manufacturing processes.",
+      "This partnership signifies a shift towards more integrated and intelligent manufacturing systems."
+    ],
+    "summary_bullets_cs": [
+      "SoftBank uskutečnila strategickou investici do ABB, zaměřenou na robotiku a výrobu poháněnou AI.",
+      "Spolupráce má za cíl využít AI a robotiku ke zlepšení procesů aditivní výroby.",
+      "Toto partnerství znamená posun směrem k integrovanějším a inteligentnějším výrobním systémům."
+    ],
+    "tags": [
+      "Hardware",
+      "AI",
+      "Robotics",
+      "Additive Manufacturing",
+      "SoftBank",
+      "ABB"
+    ]
+  },
+  {
     "title": "Desetiletí Formnextu, zkouška vytrvalosti a pomalá industrializace představivosti",
     "summary": "When Formnext opened its doors in Frankfurt in 2015, it was a compact showcase for the emerging industrial side of 3D printing. Two hundred exhibitors filled a corner of the Messe; visitors wandered between laser-sintering systems and polymer prototypes, still unsure whether additive manufacturing would ever move beyond the hype. A decade later, more than [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/01/State-of-Investment-Series-150x100.png",
