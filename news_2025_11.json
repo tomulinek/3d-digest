@@ -1,5 +1,32 @@
 [
   {
+    "title": "Euler získává 2 miliony eur na detekci chyb pomocí AI v LPBF",
+    "summary": "I&#8217;m a huge fan of the Icelandic firm Euler. The company lets you take the images that your LPBF machine already generates and analyses them. Euler can predict errors before...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/11/euler2.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-12T06:00:05+00:00",
+    "url": "https://3dprint.com/321996/euler-raises-e2m-for-ai-fault-detection-in-lpbf/",
+    "title_en": "Euler Raises €2M for AI Fault Detection in LPBF",
+    "summary_bullets_en": [
+      "Euler, an Icelandic company, has secured €2 million in funding.",
+      "The company specializes in AI-driven fault detection for LPBF (Laser Powder Bed Fusion) machines.",
+      "Euler's technology analyzes existing images from LPBF machines to predict errors before they occur.",
+      "This innovation aims to enhance the efficiency and reliability of additive manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "Jsem velkým fanouškem islandské firmy Euler.",
+      "Společnost umožňuje analyzovat obrázky, které již vaše LPBF zařízení generuje.",
+      "Euler dokáže předpovědět chyby dříve, než k nim dojde."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "LPBF",
+      "Euler",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Incus představuje Hammer Pro25, rozšiřuje možnosti kovového aditivního výrobního procesu pro produkci",
     "summary": "Austrian metal AM company Incus GmbH will showcase its latest breakthrough, the Hammer Pro25 3D printer at Formnext 2025, taking place from November 18-21 in Frankfurt.&#160; Designed for manufacturers who demand precision, reliability, and scale, the new system marks a major step forward in bringing metal additive manufacturing to true industrial production. The Hammer Pro25 [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Hammer_Pro25_1-150x100.jpg",
