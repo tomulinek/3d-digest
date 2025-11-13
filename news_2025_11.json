@@ -1,5 +1,87 @@
 [
   {
+    "title": "$60M investice urychluje Carbon v závodě pokročilé výroby",
+    "summary": "Carbon, Inc., a Silicon Valley–based additive manufacturing company specializing in large-scale polymer production, has raised $60 million in new funding. The round included Sequoia Capital, Silver Lake, adidas, Baillie Gifford, Madrone, and Northgate. It is among the largest investments in additive manufacturing in recent years and reflects sustained confidence in Carbon’s ability to produce high-performance [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/fizik_one-to-one_production_21-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-13T11:28:23+00:00",
+    "url": "https://3dprintingindustry.com/news/60m-raise-accelerates-carbon-in-the-advanced-manufacturing-race-246293/?utm_source=rss&utm_medium=rss&utm_campaign=60m-raise-accelerates-carbon-in-the-advanced-manufacturing-race",
+    "title_en": "$60M Raise Accelerates Carbon in the Advanced Manufacturing Race",
+    "summary_bullets_en": [
+      "Carbon, Inc., a company based in Silicon Valley, has secured $60 million in new funding.",
+      "The funding round included investors such as Sequoia Capital, Silver Lake, and adidas.",
+      "This investment is one of the largest in additive manufacturing in recent years.",
+      "The funding reflects confidence in Carbon's ability to produce high-performance polymer products."
+    ],
+    "summary_bullets_cs": [
+      "Carbon, Inc., společnost se sídlem v Silicon Valley, získala 60 milionů dolarů v novém financování.",
+      "Kolo financování zahrnovalo investory jako Sequoia Capital, Silver Lake a adidas.",
+      "Tato investice je jednou z největších v oblasti aditivní výroby v posledních letech.",
+      "Financování odráží důvěru v schopnost Carbonu vyrábět vysoce výkonné polymerové produkty."
+    ],
+    "tags": [
+      "Hardware",
+      "Carbon",
+      "Sequoia Capital",
+      "Silver Lake",
+      "adidas",
+      "Baillie Gifford",
+      "Madrone",
+      "Northgate"
+    ]
+  },
+  {
+    "title": "Výzkumníci z University of Illinois vyvinuli metodu 3D tisku pro struktury nasaditelné ve vesmíru",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/university-of-illinois-researchers-develop-3d-printing-method-for-space-deployable-structures/\" target=\"_blank\">University of Illinois Researchers Develop 3D Printing Method for Space-Deployable Structures</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">November 13</span></div><div><img alt=\"University of Illinois Researchers Develop 3D Printing Method for Space-Deployable Structures\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/648798480-500x500.png\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/648798480-500x500.png",
+    "source": "3DPrinting.com",
+    "published": "2025-11-13T09:27:05+00:00",
+    "url": "https://3dprinting.com/news/university-of-illinois-researchers-develop-3d-printing-method-for-space-deployable-structures/",
+    "title_en": "University of Illinois Researchers Develop 3D Printing Method for Space-Deployable Structures",
+    "summary_bullets_en": [
+      "Researchers at the University of Illinois have developed a new 3D printing method.",
+      "The method is designed for creating structures that can be deployed in space.",
+      "This innovation could significantly impact the construction of space habitats and other structures."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University of Illinois vyvinuli novou metodu 3D tisku.",
+      "Metoda je navržena pro vytváření struktur, které lze nasadit ve vesmíru.",
+      "Tato inovace by mohla významně ovlivnit konstrukci vesmírných habitatů a dalších struktur."
+    ],
+    "tags": [
+      "Hardware",
+      "University of Illinois",
+      "Space",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Německý výzkumný institut a Univerzita v Birminghamu rozšiřují partnerství pro výzkum 3D tisku a materiálů",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/german-research-institute-and-university-of-birmingham-extend-partnership-for-3d-printing-and-materials-research/\" target=\"_blank\">German Research Institute and University of Birmingham Extend Partnership for 3D Printing and Materials Research</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">November 13</span></div><div><img alt=\"German Research Institute and University of Birmingham Extend Partnership for 3D Printing and Materials Research\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/76384789804-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/76384789804-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2025-11-13T09:19:56+00:00",
+    "url": "https://3dprinting.com/news/german-research-institute-and-university-of-birmingham-extend-partnership-for-3d-printing-and-materials-research/",
+    "title_en": "German Research Institute and University of Birmingham Extend Partnership for 3D Printing and Materials Research",
+    "summary_bullets_en": [
+      "The German Research Institute and the University of Birmingham have extended their partnership.",
+      "The collaboration focuses on advancing 3D printing and materials research.",
+      "The partnership aims to enhance innovation and development in the field of additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Německý výzkumný institut a Univerzita v Birminghamu rozšířily své partnerství.",
+      "Spolupráce se zaměřuje na pokrok v oblasti 3D tisku a výzkumu materiálů.",
+      "Cílem partnerství je posílit inovace a vývoj v oblasti aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Research",
+      "3D Printing",
+      "Materials",
+      "University of Birmingham"
+    ]
+  },
+  {
     "title": "Elegoo zřejmě ukončuje vývoj vícebarevného tisku pro původní Centauri Carbon",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/927563804/0/fabbaloo/default~Elegoo-Appears-to-End-Multicolor-Development-for-Original-Centauri-Carbon\" rel=\"nofollow\" title=\"Elegoo Appears to End Multicolor Development for Original Centauri Carbon\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/elegoo-cancels-multicolor-cover-300x169.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Elegoo has apparently given up on multicolor desktop 3D printing, at least on their original Centauri Carbon system.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927563804/0/fabbaloo/default~Elegoo-Appears-to-End-Multicolor-Development-for-Original-Centauri-Carbon\" rel=\"nofollow\">Elegoo Appears to End Multicolor Development for Original Centauri Carbon</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/elegoo-cancels-multicolor-cover-300x169.jpeg",
