@@ -1,5 +1,61 @@
 [
   {
+    "title": "PERI dokončila první sériový projekt 3D tištěného bydlení v Německu pomocí technologie COBOD",
+    "summary": "PERI 3D Construction has completed what it calls Germany’s first reference project for serial 3D printed housing. The DREIHAUS (“Three-house”) development in Heidelberg was built using COBOD’s concrete 3D printing technology, which PERI says helped deliver the project faster and more cost-efficiently than conventional construction. The project consists of three multi-unit building variants, S, M, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Dreihaus-PERI-3D-Construction-x-COBOD-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-13T18:27:06+00:00",
+    "url": "https://3dprintingindustry.com/news/peri-completes-germanys-first-serial-3d-printed-housing-project-using-cobod-technology-246295/?utm_source=rss&utm_medium=rss&utm_campaign=peri-completes-germanys-first-serial-3d-printed-housing-project-using-cobod-technology",
+    "title_en": "PERI completes Germany’s first serial 3D printed housing project using COBOD technology",
+    "summary_bullets_en": [
+      "PERI 3D Construction has completed Germany's first serial 3D printed housing project.",
+      "The project, named DREIHAUS, is located in Heidelberg and consists of three multi-unit building variants.",
+      "COBOD's concrete 3D printing technology was used, making the construction faster and more cost-efficient.",
+      "PERI considers this project a reference for future serial 3D printed housing developments."
+    ],
+    "summary_bullets_cs": [
+      "PERI 3D Construction dokončila první sériový projekt 3D tištěného bydlení v Německu.",
+      "Projekt DREIHAUS se nachází v Heidelbergu a zahrnuje tři varianty vícebytových budov.",
+      "Použití technologie 3D tisku betonu od COBOD umožnilo rychlejší a nákladově efektivnější výstavbu.",
+      "PERI považuje tento projekt za referenční pro budoucí sériové 3D tištěné bytové projekty."
+    ],
+    "tags": [
+      "Hardware",
+      "COBOD",
+      "PERI",
+      "3D Printing",
+      "Construction"
+    ]
+  },
+  {
+    "title": "Bambu Lab MakerWorld eskaluje spor o autorská práva kvůli opětovnému nahrávání 3D modelů; Creality mezi jmenovanými",
+    "summary": "MakerWorld, the model-sharing platform affiliated with Bambu Lab, has said that thousands of creators have seen their work reuploaded without consent to rival 3D printing platforms. The company confirmed that some related cases have already been filed in Chinese courts. In a written response to 3D Printing Industry, a MakerWorld representative said more than 4,000 [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/MakerWorld-exclusive-models-listed-online.-Image-via-MakerWorld-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-13T18:15:26+00:00",
+    "url": "https://3dprintingindustry.com/news/bambu-lab-makerworld-escalates-copyright-dispute-over-3d-model-reuploads-creality-among-those-named-246363/?utm_source=rss&utm_medium=rss&utm_campaign=bambu-lab-makerworld-escalates-copyright-dispute-over-3d-model-reuploads-creality-among-those-named",
+    "title_en": "Bambu Lab MakerWorld escalates copyright dispute over 3D model reuploads; Creality among those named",
+    "summary_bullets_en": [
+      "MakerWorld, associated with Bambu Lab, reports unauthorized reuploads of 3D models to competing platforms.",
+      "Thousands of creators have been affected by these reuploads without their consent.",
+      "Legal actions have been initiated in Chinese courts regarding some of these cases.",
+      "Creality is among the platforms named in the dispute."
+    ],
+    "summary_bullets_cs": [
+      "MakerWorld, spojený s Bambu Lab, hlásí neoprávněné opětovné nahrávání 3D modelů na konkurenční platformy.",
+      "Tisíce tvůrců byly postiženy těmito nahrávkami bez jejich souhlasu.",
+      "V některých případech byly zahájeny právní kroky u čínských soudů.",
+      "Creality je mezi platformami jmenovanými ve sporu."
+    ],
+    "tags": [
+      "Services",
+      "Bambu Lab",
+      "MakerWorld",
+      "Creality",
+      "3D Printing"
+    ]
+  },
+  {
     "title": "Krize krádeží designů na platformách 3D modelů vyvolává právní bitvy",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/927613529/0/fabbaloo/default~Design-Theft-Crisis-in-D-Model-Platforms-Sparks-Legal-Battles\" rel=\"nofollow\" title=\"Design Theft Crisis in 3D Model Platforms Sparks Legal Battles\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/designshield-cover-300x199.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The frequency of unauthorized 3D model content is increasing and something has to be done.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927613529/0/fabbaloo/default~Design-Theft-Crisis-in-D-Model-Platforms-Sparks-Legal-Battles\" rel=\"nofollow\">Design Theft Crisis in 3D Model Platforms Sparks Legal Battles</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/designshield-cover-300x199.jpg",
