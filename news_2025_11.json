@@ -1,5 +1,59 @@
 [
   {
+    "title": "Novinky z oblasti 3D tisku, 15. listopadu 2025: Dceřiná společnost, návrat výroby, schválení FDA a další",
+    "summary": "We&#8217;re kicking off this weekend&#8217;s 3D Printing News Briefs with some business news. Replique has opened an Italian subsidiary, and 3D People is championing local additive manufacturing. Meteor Inkjet and...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/11/Replique-co-founders-1024x641.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-15T13:30:00+00:00",
+    "url": "https://3dprint.com/322141/3d-printing-news-briefs-11-15-2025/",
+    "title_en": "3D Printing News Briefs, November 15, 2025: Subsidiary, Reshoring, FDA Clearance, & More",
+    "summary_bullets_en": [
+      "Replique has launched a new subsidiary in Italy to expand its market presence.",
+      "3D People is promoting local additive manufacturing to support reshoring efforts.",
+      "Meteor Inkjet is involved in the latest developments in 3D printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Replique otevřelo novou dceřinou společnost v Itálii pro rozšíření svého tržního působení.",
+      "3D People podporuje místní aditivní výrobu na podporu návratu výroby.",
+      "Meteor Inkjet se podílí na nejnovějším vývoji v technologii 3D tisku."
+    ],
+    "tags": [
+      "Business",
+      "Reshoring",
+      "FDA",
+      "Replique",
+      "3D People",
+      "Meteor Inkjet",
+      "Services"
+    ]
+  },
+  {
+    "title": "Malé reaktory, velké dráhy nástrojů: Jak rychlý pilotní projekt DOE staví aditivní výrobu na kritickou cestu jaderného průmyslu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/927761570/0/fabbaloo/default~Small-Reactors-Big-Toolpaths-How-DOE%e2%80%99s-FastTrack-Pilot-Puts-Additive-Manufacturing-on-Nuclear%e2%80%99s-Critical-Path\" rel=\"nofollow\" title=\"Small Reactors, Big Toolpaths: How DOE’s Fast-Track Pilot Puts Additive Manufacturing on Nuclear’s Critical Path\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/10/Reactor1-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>In this article, Anthony Palumbo and Charles Goulding show how DOE’s fast-track test-reactor pilot converts policy into product by pushing designs toward factory replication, with additive manufacturing (AM) accelerating qualification, thermal hardware performance, and supply-chain resilience.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927761570/0/fabbaloo/default~Small-Reactors-Big-Toolpaths-How-DOE%e2%80%99s-FastTrack-Pilot-Puts-Additive-Manufacturing-on-Nuclear%e2%80%99s-Critical-Path\" rel=\"nofollow\">Small Reactors, Big Toolpaths: How DOE’s Fast-Track Pilot Puts Additive Manufacturing on Nuclear’s Critical Path</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/10/Reactor1-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-11-15T13:27:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/927761570/0/fabbaloo/default~Small-Reactors-Big-Toolpaths-How-DOE%e2%80%99s-FastTrack-Pilot-Puts-Additive-Manufacturing-on-Nuclear%e2%80%99s-Critical-Path",
+    "title_en": "Small Reactors, Big Toolpaths: How DOE’s Fast-Track Pilot Puts Additive Manufacturing on Nuclear’s Critical Path",
+    "summary_bullets_en": [
+      "The DOE's fast-track test-reactor pilot aims to convert policy into tangible products by leveraging additive manufacturing.",
+      "Additive manufacturing accelerates the qualification process and enhances thermal hardware performance.",
+      "The initiative focuses on improving supply-chain resilience through factory replication of designs."
+    ],
+    "summary_bullets_cs": [
+      "Rychlý pilotní projekt DOE pro testovací reaktory se snaží převést politiku na hmatatelné produkty využitím aditivní výroby.",
+      "Aditivní výroba urychluje proces kvalifikace a zlepšuje výkon tepelného hardwaru.",
+      "Iniciativa se zaměřuje na zlepšení odolnosti dodavatelského řetězce prostřednictvím replikace návrhů ve výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "DOE",
+      "Nuclear",
+      "Supply Chain"
+    ]
+  },
+  {
     "title": "Další velmi pochybná zpráva o trhu s 3D tiskem se objevuje",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/927688982/0/fabbaloo/default~Another-Very-Questionable-D-Print-Market-Report-Emerges\" rel=\"nofollow\" title=\"Another Very Questionable 3D Print Market Report Emerges\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/bogus-analyst-report-cover-300x223.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A week later, I am again presented with an extremely suspicious 3D print market analyst report.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927688982/0/fabbaloo/default~Another-Very-Questionable-D-Print-Market-Report-Emerges\" rel=\"nofollow\">Another Very Questionable 3D Print Market Report Emerges</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/bogus-analyst-report-cover-300x223.jpg",
