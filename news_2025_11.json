@@ -1,5 +1,162 @@
 [
   {
+    "title": "nScrypt předvádí nasazenou 3D výrobu na Trident Warrior 2025",
+    "summary": "nScrypt, a Florida-based manufacturer of high-precision 3D printing and micro-dispensing systems, has demonstrated its field-ready manufacturing capabilities during Trident Warrior 2025, the U.S. Navy’s Fleet experimentation exercise. The event brought together more than 20 organizations to support the Joint Advanced Manufacturing Cell (JAMC), described as the largest distributed manufacturing effort in Department of Defense history. [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2023/02/nScrypt-company-logo.-Image-via-nScrypt.-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-16T18:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/nscrypt-demonstrates-forward-deployed-3d-manufacturing-at-trident-warrior-2025-246445/?utm_source=rss&utm_medium=rss&utm_campaign=nscrypt-demonstrates-forward-deployed-3d-manufacturing-at-trident-warrior-2025",
+    "title_en": "nScrypt Demonstrates Forward-Deployed 3D Manufacturing at Trident Warrior 2025",
+    "summary_bullets_en": [
+      "nScrypt showcased its high-precision 3D printing and micro-dispensing systems during the Trident Warrior 2025 exercise.",
+      "The event was part of the U.S. Navy’s Fleet experimentation exercise.",
+      "Over 20 organizations participated to support the Joint Advanced Manufacturing Cell (JAMC).",
+      "JAMC is described as the largest distributed manufacturing effort in Department of Defense history."
+    ],
+    "summary_bullets_cs": [
+      "nScrypt předvedl své vysoce přesné 3D tiskové a mikrodispenzní systémy během cvičení Trident Warrior 2025.",
+      "Akce byla součástí experimentálního cvičení flotily amerického námořnictva.",
+      "Více než 20 organizací se zúčastnilo na podporu Společné pokročilé výrobní buňky (JAMC).",
+      "JAMC je popisována jako největší distribuované výrobní úsilí v historii Ministerstva obrany."
+    ],
+    "tags": [
+      "Hardware",
+      "nScrypt",
+      "3D Printing",
+      "U.S. Navy",
+      "JAMC",
+      "Trident Warrior 2025"
+    ]
+  },
+  {
+    "title": "Creality odmítá tvrzení Bambu Lab MakerWorld o rozsáhlém porušování modelů, tvrdí, že neobdržela žádné právní oznámení",
+    "summary": "Creality has rejected allegations made by MakerWorld that thousands of 3D models published exclusively on its platform were reuploaded without consent to rival services, including Creality Cloud. The company said it has not been contacted by Bambu Lab or MakerWorld in any formal capacity. In a statement provided to 3D Printing Industry, Creality said it [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/The-Creality-Logo-on-a-building.-Image-via-Creality-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-16T16:04:55+00:00",
+    "url": "https://3dprintingindustry.com/news/creality-rejects-bambu-lab-makerworlds-claims-of-widespread-model-infringement-says-no-legal-notice-received-246449/?utm_source=rss&utm_medium=rss&utm_campaign=creality-rejects-bambu-lab-makerworlds-claims-of-widespread-model-infringement-says-no-legal-notice-received",
+    "title_en": "Creality rejects Bambu Lab MakerWorld’s claims of widespread model infringement, says no legal notice received",
+    "summary_bullets_en": [
+      "Creality has denied allegations from MakerWorld about unauthorized reuploads of 3D models.",
+      "The company claims it has not received any formal communication from Bambu Lab or MakerWorld.",
+      "Creality's statement was provided to 3D Printing Industry."
+    ],
+    "summary_bullets_cs": [
+      "Creality odmítla obvinění od MakerWorld týkající se neoprávněného nahrávání 3D modelů.",
+      "Společnost tvrdí, že neobdržela žádnou formální komunikaci od Bambu Lab nebo MakerWorld.",
+      "Prohlášení Creality bylo poskytnuto 3D Printing Industry."
+    ],
+    "tags": [
+      "Services",
+      "Creality",
+      "Bambu Lab",
+      "MakerWorld"
+    ]
+  },
+  {
+    "title": "Nikon SLM Solutions integruje AMiRIS Inside od Additive Assurance pro monitorování více laserů",
+    "summary": "Metal 3D printer manufacturer Nikon SLM Solutions and Additive Assurance, the Australian company that specializes in in-situ quality assurance for metal additive manufacturing, have partnered to integrate AMiRIS Inside into Nikon SLM Solutions’ NXG metal additive manufacturing platform. The collaboration marks the first use of a near-infrared optical tomography system capable of monitoring all 12 [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/pr-additive.assurance-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-16T16:04:26+00:00",
+    "url": "https://3dprintingindustry.com/news/nikon-slm-solutions-integrates-additive-assurances-amiris-inside-for-multi-laser-monitoring-246289/?utm_source=rss&utm_medium=rss&utm_campaign=nikon-slm-solutions-integrates-additive-assurances-amiris-inside-for-multi-laser-monitoring",
+    "title_en": "Nikon SLM Solutions integrates Additive Assurance’s AMiRIS Inside for multi-laser monitoring",
+    "summary_bullets_en": [
+      "Nikon SLM Solutions has partnered with Additive Assurance to integrate AMiRIS Inside into its NXG metal additive manufacturing platform.",
+      "AMiRIS Inside is a near-infrared optical tomography system designed for in-situ quality assurance in metal additive manufacturing.",
+      "This collaboration marks the first use of a system capable of monitoring all 12 lasers in the NXG platform."
+    ],
+    "summary_bullets_cs": [
+      "Nikon SLM Solutions se spojil s Additive Assurance pro integraci AMiRIS Inside do své platformy pro kovovou aditivní výrobu NXG.",
+      "AMiRIS Inside je systém optické tomografie v blízké infračervené oblasti určený pro in-situ zajištění kvality v kovové aditivní výrobě.",
+      "Tato spolupráce znamená první použití systému schopného monitorovat všech 12 laserů v platformě NXG."
+    ],
+    "tags": [
+      "Hardware",
+      "Nikon SLM Solutions",
+      "Additive Assurance",
+      "Metal 3D Printing",
+      "Quality Assurance"
+    ]
+  },
+  {
+    "title": "Vánoční vlak LEGO Express představuje debut 3D tištěných prvků v maloobchodních sadách",
+    "summary": "LEGO Group, the Danish toy manufacturer known for its interlocking plastic bricks, has taken a decisive step in its production history. The Icons Holiday Express Train (10361) set includes the first 3D printed element ever to appear in a retail product. A miniature blue locomotive, designed as a replica of the main train, represents nearly [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/10361_Lifestyle_Envr_03-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-16T16:03:19+00:00",
+    "url": "https://3dprintingindustry.com/news/legos-holiday-express-train-marks-the-debut-of-3d-printed-elements-in-retail-sets-246413/?utm_source=rss&utm_medium=rss&utm_campaign=legos-holiday-express-train-marks-the-debut-of-3d-printed-elements-in-retail-sets",
+    "title_en": "LEGO’s Holiday Express Train marks the debut of 3D printed elements in retail sets",
+    "summary_bullets_en": [
+      "LEGO Group introduces its first 3D printed element in a retail set.",
+      "The Icons Holiday Express Train (10361) includes a miniature blue locomotive.",
+      "This marks a significant step in LEGO's production history."
+    ],
+    "summary_bullets_cs": [
+      "LEGO Group představuje svůj první 3D tištěný prvek v maloobchodní sadě.",
+      "Sada Icons Holiday Express Train (10361) obsahuje miniaturu modré lokomotivy.",
+      "Tento krok představuje významný milník v historii výroby LEGO."
+    ],
+    "tags": [
+      "Hardware",
+      "LEGO",
+      "3D Printing",
+      "Retail"
+    ]
+  },
+  {
+    "title": "Kdo je největší v 3D tisku, 16. listopadu 2025",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/927839807/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-November\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, November 16, 2025\"><img alt=\"Who&#039;s The Biggest In 3D Printing\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg\" style=\"height: auto !important; float: left; margin-right: 5px;\" width=\"1\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/927839807/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-November\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, November 16, 2025</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-11-16T13:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/927839807/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-November",
+    "title_en": "Who's The Biggest In 3D Printing, November 16, 2025",
+    "summary_bullets_en": [
+      "The article reviews the valuations of major 3D printing companies over the past week.",
+      "It provides insights into the current market leaders in the 3D printing industry.",
+      "The analysis includes a comparison of different companies' market positions."
+    ],
+    "summary_bullets_cs": [
+      "Článek hodnotí ocenění hlavních společností v oblasti 3D tisku za uplynulý týden.",
+      "Poskytuje přehled o současných lídrech na trhu v odvětví 3D tisku.",
+      "Analýza zahrnuje srovnání tržních pozic různých společností."
+    ],
+    "tags": [
+      "Hardware",
+      "Market Analysis",
+      "3D Printing Industry",
+      "UltiMaker",
+      "Nikon SLM Solutions",
+      "HP"
+    ]
+  },
+  {
+    "title": "Wigglitz používá 2 700 stolních strojů k 3D tisku hraček",
+    "summary": "Wigglitz is a brand of tiny, wiggly, colorful, 3D printed toys. Launched just this year, the teeny little segmented creatures are made in the company&#8217;s own print farm. The company...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/11/Screenshot-2025-11-12-at-10.23.33-PM.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-16T13:00:14+00:00",
+    "url": "https://3dprint.com/321897/wigglitz-uses-2700-desktop-machines-to-3d-print-toys/",
+    "title_en": "Wigglitz Uses 2,700 Desktop Machines to 3D Print Toys",
+    "summary_bullets_en": [
+      "Wigglitz is a brand of small, colorful, 3D printed toys.",
+      "The toys are made using a print farm consisting of 2,700 desktop machines.",
+      "The company launched this year and produces segmented, wiggly creatures."
+    ],
+    "summary_bullets_cs": [
+      "Wigglitz je značka malých, barevných, 3D tištěných hraček.",
+      "Hračky jsou vyráběny pomocí tiskové farmy složené z 2 700 stolních strojů.",
+      "Společnost byla spuštěna letos a vyrábí segmentované, pohyblivé tvory."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Wigglitz",
+      "Toys"
+    ]
+  },
+  {
     "title": "Novinky z oblasti 3D tisku, 15. listopadu 2025: Dceřiná společnost, návrat výroby, schválení FDA a další",
     "summary": "We&#8217;re kicking off this weekend&#8217;s 3D Printing News Briefs with some business news. Replique has opened an Italian subsidiary, and 3D People is championing local additive manufacturing. Meteor Inkjet and...",
     "image": "https://3dprint.com/wp-content/uploads/2025/11/Replique-co-founders-1024x641.jpg",
