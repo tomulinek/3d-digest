@@ -1,5 +1,309 @@
 [
   {
+    "title": "Bambu Lab uvádí H2C s novým systémem výměny hot-endů Vortek",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/928079003/0/fabbaloo/default~Bambu-Lab-Launches-HC-With-New-Vortek-HotEnd-Swapping-System\" rel=\"nofollow\" title=\"Bambu Lab Launches H2C With New Vortek Hot-End Swapping System\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/h2c-release-cover-300x219.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>As promised, Bambu Lab released the much anticipated H2C 3D printer today.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/928079003/0/fabbaloo/default~Bambu-Lab-Launches-HC-With-New-Vortek-HotEnd-Swapping-System\" rel=\"nofollow\">Bambu Lab Launches H2C With New Vortek Hot-End Swapping System</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/h2c-release-cover-300x219.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-11-18T17:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/928079003/0/fabbaloo/default~Bambu-Lab-Launches-HC-With-New-Vortek-HotEnd-Swapping-System",
+    "title_en": "Bambu Lab Launches H2C With New Vortek Hot-End Swapping System",
+    "summary_bullets_en": [
+      "Bambu Lab has released the highly anticipated H2C 3D printer.",
+      "The H2C features the new Vortek hot-end swapping system.",
+      "This release fulfills a promise made by Bambu Lab to its customers."
+    ],
+    "summary_bullets_cs": [
+      "Bambu Lab uvedla na trh dlouho očekávanou 3D tiskárnu H2C.",
+      "H2C je vybavena novým systémem výměny hot-endů Vortek.",
+      "Toto uvedení na trh splňuje slib, který Bambu Lab dala svým zákazníkům."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "E3D představuje ObXiDian 500 Hot End s hodnocením 500°C a 5× tvrdším povlakem",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/928076054/0/fabbaloo/default~ED-Unveils-ObXiDian-Hot-End-With-%c2%b0C-Rating-and-%c3%97-Harder-Coating\" rel=\"nofollow\" title=\"E3D Unveils ObXiDian 500 Hot End With 500°C Rating and 5× Harder Coating\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/e3d-obxidian-500-cover-300x107.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>E3D announced what might be the most powerful hot end on the market: the ObXiDian 500.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/928076054/0/fabbaloo/default~ED-Unveils-ObXiDian-Hot-End-With-%c2%b0C-Rating-and-%c3%97-Harder-Coating\" rel=\"nofollow\">E3D Unveils ObXiDian 500 Hot End With 500°C Rating and 5× Harder Coating</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/e3d-obxidian-500-cover-300x107.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-11-18T16:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/928076054/0/fabbaloo/default~ED-Unveils-ObXiDian-Hot-End-With-%c2%b0C-Rating-and-%c3%97-Harder-Coating",
+    "title_en": "E3D Unveils ObXiDian 500 Hot End With 500°C Rating and 5× Harder Coating",
+    "summary_bullets_en": [
+      "E3D has introduced the ObXiDian 500, a powerful hot end for 3D printers.",
+      "The ObXiDian 500 is capable of reaching temperatures up to 500°C.",
+      "It features a coating that is five times harder than previous models."
+    ],
+    "summary_bullets_cs": [
+      "E3D uvedlo na trh ObXiDian 500, výkonný hot end pro 3D tiskárny.",
+      "ObXiDian 500 je schopen dosáhnout teplot až 500°C.",
+      "Disponuje povlakem, který je pětkrát tvrdší než u předchozích modelů."
+    ],
+    "tags": [
+      "Hardware",
+      "E3D",
+      "3D Printing",
+      "Hot End"
+    ]
+  },
+  {
+    "title": "Xact Metal uvádí tiskárnu XM200G µHD, představuje nové prášky a potvrzuje pokrok u XM300G",
+    "summary": "Xact Metal, a Pennsylvania-based manufacturer developing accessible metal 3D printing systems for small and medium-sized enterprises, has announced the XM200G µHD metal printer, two new metal powders, and continued progress on its XM300G mid-size system. The company will present these developments at Formnext 2025 in Frankfurt, Germany, as part of its effort to expand cost-efficient [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/300G-Render-scaled-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-18T15:49:33+00:00",
+    "url": "https://3dprintingindustry.com/news/xact-metal-launches-xm200g-%c2%b5hd-printer-introduces-new-powders-and-confirms-xm300g-progress-246484/?utm_source=rss&utm_medium=rss&utm_campaign=xact-metal-launches-xm200g-%25c2%25b5hd-printer-introduces-new-powders-and-confirms-xm300g-progress",
+    "title_en": "Xact Metal launches XM200G µHD printer, introduces new powders, and confirms XM300G progress",
+    "summary_bullets_en": [
+      "Xact Metal has unveiled the XM200G µHD metal printer aimed at small and medium-sized enterprises.",
+      "The company introduced two new metal powders to complement its 3D printing systems.",
+      "Progress on the XM300G mid-size system continues, with further details to be presented at Formnext 2025."
+    ],
+    "summary_bullets_cs": [
+      "Xact Metal představila kovovou tiskárnu XM200G µHD zaměřenou na malé a střední podniky.",
+      "Společnost uvedla dva nové kovové prášky, které doplňují její systémy 3D tisku.",
+      "Pokračuje pokrok u středně velkého systému XM300G, s dalšími detaily, které budou představeny na Formnext 2025."
+    ],
+    "tags": [
+      "Hardware",
+      "Xact Metal",
+      "3D Printing",
+      "Metal Powders",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "EOS uvádí na trh kovovou 3D tiskárnu M4 ONYX se šesti laserovou architekturou na Formnext 2025",
+    "summary": "EOS, a Germany-based supplier of metal and polymer 3D printing systems, has unveiled the EOS M4 ONYX at Formnext 2025 in Frankfurt. Announced on November 18, the new laser powder bed fusion (LPBF) system is designed to raise productivity, improve process stability, and reduce operational costs for demanding applications in sectors such as energy, defense, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/EOS_M4_ONYX_PR-Image-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-18T15:47:33+00:00",
+    "url": "https://3dprintingindustry.com/news/eos-launches-m4-onyx-metal-3d-printer-with-six-laser-architecture-at-formnext-2025-246521/?utm_source=rss&utm_medium=rss&utm_campaign=eos-launches-m4-onyx-metal-3d-printer-with-six-laser-architecture-at-formnext-2025",
+    "title_en": "EOS launches M4 ONYX metal 3D printer with six-laser architecture at Formnext 2025",
+    "summary_bullets_en": [
+      "EOS has introduced the EOS M4 ONYX, a new metal 3D printer, at Formnext 2025 in Frankfurt.",
+      "The printer features a six-laser architecture designed to enhance productivity and process stability.",
+      "It aims to reduce operational costs for demanding applications in sectors like energy and defense."
+    ],
+    "summary_bullets_cs": [
+      "EOS představila novou kovovou 3D tiskárnu EOS M4 ONYX na Formnext 2025 ve Frankfurtu.",
+      "Tiskárna disponuje šesti laserovou architekturou, která má za cíl zvýšit produktivitu a stabilitu procesu.",
+      "Cílem je snížit provozní náklady pro náročné aplikace v sektorech jako energetika a obrana."
+    ],
+    "tags": [
+      "Hardware",
+      "EOS",
+      "Formnext",
+      "3D Printing",
+      "Metal Printing"
+    ]
+  },
+  {
+    "title": "Bambu Lab uvádí nový 3D tiskárnu H2C pro více materiálů: Technické specifikace a ceny",
+    "summary": "Chinese 3D printer manufacturer Bambu Lab has announced the H2C, a new desktop 3D printer centered on its novel Vortek Hotend Change system, designed to set a new benchmark for multi-material printing by combining engineering precision with user-friendly automation. The system, launched on November 18, 2025, is slated for immediate release in the EU, UK, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/001-H2C-main-graphic-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-18T15:44:38+00:00",
+    "url": "https://3dprintingindustry.com/news/bambu-lab-launches-the-new-h2c-multi-material-3d-printer-technical-specifications-and-pricing-246509/?utm_source=rss&utm_medium=rss&utm_campaign=bambu-lab-launches-the-new-h2c-multi-material-3d-printer-technical-specifications-and-pricing",
+    "title_en": "Bambu Lab Launches the New H2C Multi-material 3D Printer: Technical Specifications and Pricing",
+    "summary_bullets_en": [
+      "Bambu Lab has introduced the H2C, a new desktop 3D printer featuring the Vortek Hotend Change system.",
+      "The H2C is designed to enhance multi-material printing with engineering precision and user-friendly automation.",
+      "The printer was launched on November 18, 2025, and is immediately available in the EU and UK."
+    ],
+    "summary_bullets_cs": [
+      "Bambu Lab představila H2C, novou stolní 3D tiskárnu s Vortek Hotend Change systémem.",
+      "H2C je navržena pro zlepšení tisku s více materiály díky inženýrské přesnosti a uživatelsky přívětivé automatizaci.",
+      "Tiskárna byla uvedena na trh 18. listopadu 2025 a je okamžitě dostupná v EU a UK."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing",
+      "Multi-material"
+    ]
+  },
+  {
+    "title": "Podzimní sezóna plná 3D novinek právě začala",
+    "summary": "Špičkové materiály pro citlivé aplikace • 3D skenery Artec 3D na českém trhu • Hned trojice nových 3D skenerů Shining 3D a další zajímavosti.",
+    "image": "https://app.smartemailing.cz/img/not-found.png",
+    "source": "ADMASYS CZ",
+    "published": "2025-11-18T15:19:06+00:00",
+    "url": "https://admasys.cz/podzimni-sezona-plna-3d-novinek-prave-zacala/",
+    "title_en": "Autumn Season Full of 3D Innovations Has Just Begun",
+    "summary_bullets_en": [
+      "Cutting-edge materials for sensitive applications.",
+      "Artec 3D scanners available on the Czech market.",
+      "Three new 3D scanners from Shining 3D and other interesting updates."
+    ],
+    "summary_bullets_cs": [
+      "Špičkové materiály pro citlivé aplikace.",
+      "3D skenery Artec 3D na českém trhu.",
+      "Hned trojice nových 3D skenerů Shining 3D a další zajímavosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Artec 3D",
+      "Shining 3D"
+    ]
+  },
+  {
+    "title": "PostProcess představuje DEMI X 5000 pro vysokokapacitní odstranění pryskyřice z velkoformátových SLA tisků",
+    "summary": "Post-processing systems manufacturer PostProcess Technologies has broadened its automated post-printing portfolio with the introduction of the DEMI X 5000, a system developed to meet rising demand for high-throughput, reliable resin removal as manufacturers adopt larger and more complex SLA workflows. PostProcess Technologies will showcase its innovations at Formnext in Hall 11.0, Stand B41. Capabilities and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/DEMI_X_5000_Primary-Transparent-sm-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-18T15:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/postprocess-unveils-demi-x-5000-for-high-throughput-large-format-sla-resin-removal-246472/?utm_source=rss&utm_medium=rss&utm_campaign=postprocess-unveils-demi-x-5000-for-high-throughput-large-format-sla-resin-removal",
+    "title_en": "PostProcess Unveils DEMI X 5000 for High-Throughput Large-Format SLA Resin Removal",
+    "summary_bullets_en": [
+      "PostProcess Technologies has introduced the DEMI X 5000 to expand its automated post-printing solutions.",
+      "The system is designed to meet the growing demand for efficient resin removal in large-format SLA workflows.",
+      "PostProcess Technologies will present its latest innovations at Formnext, Hall 11.0, Stand B41."
+    ],
+    "summary_bullets_cs": [
+      "PostProcess Technologies rozšířila své portfolio automatizovaných post-processingových řešení o DEMI X 5000.",
+      "Systém je navržen tak, aby splňoval rostoucí poptávku po efektivním odstranění pryskyřice ve velkoformátových SLA pracovních postupech.",
+      "PostProcess Technologies představí své nejnovější inovace na veletrhu Formnext, hala 11.0, stánek B41."
+    ],
+    "tags": [
+      "Hardware",
+      "PostProcess Technologies",
+      "Formnext",
+      "SLA",
+      "Resin Removal"
+    ]
+  },
+  {
+    "title": "Bambu uvádí H2C s vylepšeným systémem Vortek",
+    "summary": "Bambu Lab releases its H2C with the new Vortek system on board, debuting the machine at Formnext 2025. Vortek technology is meant to enable color printing and material changes with...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/11/Purge-Saving-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-18T14:00:54+00:00",
+    "url": "https://3dprint.com/322174/bambu-releases-h2c-with-vortek-system-upgrade/",
+    "title_en": "Bambu Releases H2C With Vortek System Upgrade",
+    "summary_bullets_en": [
+      "Bambu Lab has launched the H2C printer featuring the new Vortek system.",
+      "The Vortek technology allows for color printing and material changes.",
+      "The H2C was unveiled at the Formnext 2025 event."
+    ],
+    "summary_bullets_cs": [
+      "Bambu Lab představila tiskárnu H2C s novým systémem Vortek.",
+      "Technologie Vortek umožňuje barevný tisk a změny materiálů.",
+      "H2C byla představena na akci Formnext 2025."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "Formnext",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Kariéra: Technik/technička 3D tisku a 3D skenování",
+    "summary": "Jste pečlivý/á, samostatný/á, komunikativní, manuálně zručný/á, umíte anglicky a máte zápal pro 3D tisk a 3D skenování? Hledáme technika (či techničku) do našeho týmu!",
+    "image": "https://admasys.cz/wp-content/uploads/2023/10/minifactory-ignite-1-2023-4x3-1-768x576.jpg",
+    "source": "ADMASYS CZ",
+    "published": "2025-11-18T14:00:00+00:00",
+    "url": "https://admasys.cz/kariera-technik-3d-tisku-a-3d-skenovani-2/",
+    "title_en": "Career: 3D Printing and 3D Scanning Technician",
+    "summary_bullets_en": [
+      "Looking for a meticulous, independent, communicative, and manually skilled technician.",
+      "Candidates should be proficient in English and passionate about 3D printing and scanning.",
+      "Join our team as a 3D printing and scanning technician."
+    ],
+    "summary_bullets_cs": [
+      "Hledáme pečlivého, samostatného, komunikativního a manuálně zručného technika.",
+      "Kandidáti by měli umět anglicky a mít zápal pro 3D tisk a skenování.",
+      "Připojte se k našemu týmu jako technik 3D tisku a skenování."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "3D Scanning",
+      "Technician"
+    ]
+  },
+  {
+    "title": "Axtra3D představuje plně propojený ekosystém AM s Axtra Workflow a novými nástroji pro post-processing",
+    "summary": "High-speed SLA printer manufacturer Axtra3D has launched Axtra Workflow, a fully integrated and validated ecosystem for additive manufacturing (AM). The system connects all stages of production—from build setup and printing to post-processing, inspection, and data-driven traceability—into a unified workflow.  Alongside the workflow, the company introduced three new post-processing and analytics solutions: Axtra.Wash, Axtra.Cure, and Axtra.Insight, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2024/08/Close-up-of-an-Axtra3D-3D-printer.-Photo-via-Axtra3D-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-18T14:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/axtra3d-unveils-fully-connected-am-ecosystem-with-axtra-workflow-and-new-post-processing-tools-246467/?utm_source=rss&utm_medium=rss&utm_campaign=axtra3d-unveils-fully-connected-am-ecosystem-with-axtra-workflow-and-new-post-processing-tools",
+    "title_en": "Axtra3D Unveils Fully Connected AM Ecosystem with Axtra Workflow and New Post-Processing Tools",
+    "summary_bullets_en": [
+      "Axtra3D has launched Axtra Workflow, an integrated ecosystem for additive manufacturing.",
+      "The system connects all production stages, including build setup, printing, post-processing, and inspection.",
+      "New post-processing and analytics solutions introduced: Axtra.Wash, Axtra.Cure, and Axtra.Insight."
+    ],
+    "summary_bullets_cs": [
+      "Axtra3D spustila Axtra Workflow, integrovaný ekosystém pro aditivní výrobu.",
+      "Systém propojuje všechny fáze výroby, včetně nastavení stavby, tisku, post-processingu a inspekce.",
+      "Představeny nové nástroje pro post-processing a analýzu: Axtra.Wash, Axtra.Cure a Axtra.Insight."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Axtra3D"
+    ]
+  },
+  {
+    "title": "MyMiniFactory spouští iniciativu SoulCrafted proti obsahu generovanému AI",
+    "summary": "MyMiniFactory, an online 3D printing platform for designers and makers, has introduced a strict policy banning AI-generated 3D models and imagery. The policy reinforces the company’s position that creative work distributed or sold on its platform must originate from human authorship. Alongside the new rules, MyMiniFactory launched SoulCrafted, a verification movement designed to celebrate and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Soulcrafted-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-18T13:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/myminifactory-launches-soulcrafted-initiative-to-counter-ai-content-246379/?utm_source=rss&utm_medium=rss&utm_campaign=myminifactory-launches-soulcrafted-initiative-to-counter-ai-content",
+    "title_en": "MyMiniFactory launches SoulCrafted initiative to counter AI content",
+    "summary_bullets_en": [
+      "MyMiniFactory has implemented a policy banning AI-generated 3D models and imagery.",
+      "The platform emphasizes that creative work must originate from human authorship.",
+      "SoulCrafted is a new verification movement to celebrate human creativity."
+    ],
+    "summary_bullets_cs": [
+      "MyMiniFactory zavedla politiku zakazující 3D modely a obrázky generované AI.",
+      "Platforma zdůrazňuje, že kreativní práce musí pocházet od lidských autorů.",
+      "SoulCrafted je nová ověřovací iniciativa oslavující lidskou kreativitu."
+    ],
+    "tags": [
+      "Services",
+      "MyMiniFactory",
+      "3D Printing",
+      "AI",
+      "SoulCrafted"
+    ]
+  },
+  {
+    "title": "Červená, bílá a plán: Vlastenecké investování a vzestup 3D tisku v obraně a vesmíru",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/928067828/0/fabbaloo/default~The-Red-White-and-Blueprint-Patriot-Investing-and-the-Rise-of-D-Printing-in-Defense-and-Space\" rel=\"nofollow\" title=\"The Red, White and Blueprint: Patriot Investing and the Rise of 3D Printing in Defense and Space\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/Patriot-1-300x161.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi showcase how patriotic investing fuels a transformation in the 3D printing industry—where companies aligned with national-interest sectors are not just beneficiaries of capital, but active adopters of additive manufacturing as foundational technology.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/928067828/0/fabbaloo/default~The-Red-White-and-Blueprint-Patriot-Investing-and-the-Rise-of-D-Printing-in-Defense-and-Space\" rel=\"nofollow\">The Red, White and Blueprint: Patriot Investing and the Rise of 3D Printing in Defense and Space</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/Patriot-1-300x161.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-11-18T12:46:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/928067828/0/fabbaloo/default~The-Red-White-and-Blueprint-Patriot-Investing-and-the-Rise-of-D-Printing-in-Defense-and-Space",
+    "title_en": "The Red, White and Blueprint: Patriot Investing and the Rise of 3D Printing in Defense and Space",
+    "summary_bullets_en": [
+      "Patriotic investing is driving the transformation of the 3D printing industry.",
+      "Companies aligned with national-interest sectors are adopting additive manufacturing as a foundational technology.",
+      "The defense and space sectors are key areas where 3D printing is being increasingly utilized."
+    ],
+    "summary_bullets_cs": [
+      "Vlastenecké investování pohání transformaci průmyslu 3D tisku.",
+      "Společnosti spojené s národními zájmy přijímají aditivní výrobu jako základní technologii.",
+      "Obranný a vesmírný sektor jsou klíčové oblasti, kde se 3D tisk stále více využívá."
+    ],
+    "tags": [
+      "Hardware",
+      "Defense",
+      "Space",
+      "Additive Manufacturing",
+      "Patriot Investing"
+    ]
+  },
+  {
     "title": "EOS uvádí 3D tiskárnu M4 ONYX na Formnext 2025",
     "summary": "EOS is steadily establishing itself as an expert in developing dual-use technologies. Now, as I mentioned in a recent interview with Greg Hayes, the Senior VP Global Additive Minds at...",
     "image": "https://3dprint.com/wp-content/uploads/2025/11/IMG_2007-1024x643.jpeg",
