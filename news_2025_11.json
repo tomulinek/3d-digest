@@ -1,5 +1,216 @@
 [
   {
+    "title": "Colibrium Additive rozšiřuje nabídku M Line o systém 4 x 1 kW pro nereaktivní materiály",
+    "summary": "Colibrium Additive, a GE Aerospace company, has announced the commercial release of its M Line 4 x 1 kW system for non-reactive materials, building on the success of the earlier M Line 4 x 400W system. The new system addresses the increasing demands of aerospace and defense manufacturers for higher productivity while maintaining the precision [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Colibrium_Additive_M_Line_4_x_1kW_November_2025-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-24T10:42:56+00:00",
+    "url": "https://3dprintingindustry.com/news/colibrium-additive-expands-m-line-offering-with-4-x-1-kw-system-for-non-reactive-materials-246578/?utm_source=rss&utm_medium=rss&utm_campaign=colibrium-additive-expands-m-line-offering-with-4-x-1-kw-system-for-non-reactive-materials",
+    "title_en": "Colibrium Additive Expands M Line Offering with 4 x 1 kW System for Non-Reactive Materials",
+    "summary_bullets_en": [
+      "Colibrium Additive, a GE Aerospace company, has launched the M Line 4 x 1 kW system.",
+      "The new system is designed for non-reactive materials, enhancing productivity for aerospace and defense sectors.",
+      "It builds on the success of the previous M Line 4 x 400W system."
+    ],
+    "summary_bullets_cs": [
+      "Colibrium Additive, společnost GE Aerospace, uvedla na trh systém M Line 4 x 1 kW.",
+      "Nový systém je navržen pro nereaktivní materiály a zvyšuje produktivitu v leteckém a obranném sektoru.",
+      "Navazuje na úspěch předchozího systému M Line 4 x 400W."
+    ],
+    "tags": [
+      "Hardware",
+      "GE Aerospace",
+      "Colibrium Additive",
+      "Aerospace",
+      "Defense"
+    ]
+  },
+  {
+    "title": "MyMiniFactory spouští crowdfundingovou kampaň pro open-source slicer",
+    "summary": "MyMiniFactory, a curated 3D printing community where independent designers and brands sell digital models, has launched a crowdfunding campaign to fund the development of a free, open-source resin slicer. The project rejects subscriptions, paywalls, and data harvesting practices, aiming to deliver a tool that “orients, supports, and slices”—without collecting or selling user data. The campaign [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/019a7de5-sample-file-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-24T10:41:24+00:00",
+    "url": "https://3dprintingindustry.com/news/myminifactory-launches-crowdfunding-campaign-for-open-source-slicer-246497/?utm_source=rss&utm_medium=rss&utm_campaign=myminifactory-launches-crowdfunding-campaign-for-open-source-slicer",
+    "title_en": "MyMiniFactory Launches Crowdfunding Campaign for Open-Source Slicer",
+    "summary_bullets_en": [
+      "MyMiniFactory has initiated a crowdfunding campaign to develop a free, open-source resin slicer.",
+      "The project aims to provide a tool that orients, supports, and slices without subscriptions or data harvesting.",
+      "The slicer will be free from paywalls and will not collect or sell user data."
+    ],
+    "summary_bullets_cs": [
+      "MyMiniFactory zahájila crowdfundingovou kampaň na vývoj bezplatného open-source resinového sliceru.",
+      "Projekt si klade za cíl poskytnout nástroj, který orientuje, podporuje a řeže bez předplatného nebo sběru dat.",
+      "Slicer bude bezplatný, bez paywallů a nebude sbírat ani prodávat uživatelská data."
+    ],
+    "tags": [
+      "Software",
+      "MyMiniFactory",
+      "Open-Source",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "E3D uvádí trysku ObXiDian 500 a vysokoprůtokový HotEnd Bambu Lab na Formnext 2025",
+    "summary": "E3D, a UK-based extrusion systems manufacturer, has introduced ObXiDian 500, the next generation of its abrasion-resistant nozzle line. The launch builds on the success of the original ObXidian nozzle, first released in 2022, which has sold more than 250,000 units. According to E3D, the new ObXiDian 500 series significantly increases abrasion resistance, durability, and high-temperature [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/E3D-High-Flow-ObXiDian-500-H2D-HotEnd-33829_1.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-24T10:40:20+00:00",
+    "url": "https://3dprintingindustry.com/news/e3d-launches-obxidian-500-nozzle-and-high-flow-bambu-lab-hotend-at-formnext-2025-246593/?utm_source=rss&utm_medium=rss&utm_campaign=e3d-launches-obxidian-500-nozzle-and-high-flow-bambu-lab-hotend-at-formnext-2025",
+    "title_en": "E3D launches ObXiDian 500 nozzle and high-flow Bambu Lab HotEnd at Formnext 2025",
+    "summary_bullets_en": [
+      "E3D has introduced the ObXiDian 500, an advanced abrasion-resistant nozzle.",
+      "The new nozzle builds on the success of the original ObXidian, released in 2022.",
+      "The ObXiDian 500 series offers enhanced abrasion resistance, durability, and high-temperature performance."
+    ],
+    "summary_bullets_cs": [
+      "E3D představilo ObXiDian 500, pokročilou trysku odolnou proti oděru.",
+      "Nová tryska navazuje na úspěch původní ObXidian, uvedené na trh v roce 2022.",
+      "Řada ObXiDian 500 nabízí vylepšenou odolnost proti oděru, trvanlivost a výkon při vysokých teplotách."
+    ],
+    "tags": [
+      "Hardware",
+      "E3D",
+      "Bambu Lab",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "Equispheres uvádí na trh bezkyslíkatý měděný prášek pro aditivní výrobu",
+    "summary": "Equispheres, a Canadian company specializing in advanced metal powders for additive manufacturing (AM), has released a new portfolio of oxygen-free copper powders for serial production. The Cu-OF (C10200) material uses Equispheres’ patent-pending atomization process to produce high-purity, uniform particles suitable for laser powder bed fusion (L-PBF) systems. These powders are manufactured in North America and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/23503bcb220450b481d6d2069af2-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-24T10:39:37+00:00",
+    "url": "https://3dprintingindustry.com/news/equispheres-launches-oxygen-free-copper-powder-for-additive-manufacturing-246574/?utm_source=rss&utm_medium=rss&utm_campaign=equispheres-launches-oxygen-free-copper-powder-for-additive-manufacturing",
+    "title_en": "Equispheres Launches Oxygen-Free Copper Powder for Additive Manufacturing",
+    "summary_bullets_en": [
+      "Equispheres has introduced a new range of oxygen-free copper powders for additive manufacturing.",
+      "The Cu-OF (C10200) material is produced using a patent-pending atomization process.",
+      "These high-purity, uniform particles are designed for laser powder bed fusion (L-PBF) systems.",
+      "The powders are manufactured in North America."
+    ],
+    "summary_bullets_cs": [
+      "Equispheres představila novou řadu bezkyslíkatých měděných prášků pro aditivní výrobu.",
+      "Materiál Cu-OF (C10200) je vyráběn pomocí patentovaného procesu atomizace.",
+      "Tyto vysoce čisté, jednotné částice jsou navrženy pro systémy laserového tavení prášku (L-PBF).",
+      "Prášky jsou vyráběny v Severní Americe."
+    ],
+    "tags": [
+      "Material",
+      "Equispheres",
+      "Additive Manufacturing",
+      "Copper Powder",
+      "L-PBF"
+    ]
+  },
+  {
+    "title": "Fabric8Labs rozšiřuje výrobu v USA s investicí 50 milionů dolarů do technologie ECAM",
+    "summary": "Fabric8Labs, Electrochemical Additive Manufacturing (ECAM) specialist, announced a $50 million funding round to expand its U.S. production capacity from 5 million to 22 million components annually. This increase is designed to meet growing demand across thermal management, RF, and power applications.&#160; The company also plans to grow its teams in manufacturing, design, quality, and process [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/1763143103044-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-24T10:28:01+00:00",
+    "url": "https://3dprintingindustry.com/news/fabric8labs-expands-u-s-manufacturing-with-50m-investment-in-ecam-technology-246623/?utm_source=rss&utm_medium=rss&utm_campaign=fabric8labs-expands-u-s-manufacturing-with-50m-investment-in-ecam-technology",
+    "title_en": "Fabric8Labs Expands U.S. Manufacturing with $50M Investment in ECAM Technology",
+    "summary_bullets_en": [
+      "Fabric8Labs secures a $50 million funding round to enhance its U.S. production capabilities.",
+      "The expansion aims to increase production from 5 million to 22 million components annually.",
+      "This growth is driven by rising demand in thermal management, RF, and power applications.",
+      "The company plans to expand its teams in manufacturing, design, quality, and process."
+    ],
+    "summary_bullets_cs": [
+      "Fabric8Labs získává investici 50 milionů dolarů na posílení výrobních kapacit v USA.",
+      "Rozšíření má za cíl zvýšit produkci z 5 milionů na 22 milionů komponentů ročně.",
+      "Tento růst je poháněn rostoucí poptávkou v oblasti tepelného managementu, RF a energetických aplikací.",
+      "Společnost plánuje rozšířit své týmy ve výrobě, designu, kvalitě a procesu."
+    ],
+    "tags": [
+      "Hardware",
+      "Fabric8Labs",
+      "ECAM",
+      "Manufacturing",
+      "Investment"
+    ]
+  },
+  {
+    "title": "Texas A&M pokročilo v nemocničním 3D tisku pro personalizované dětské léky",
+    "summary": "Researchers at Texas A&#38;M University are developing a 3D printing approach to tackle a long-standing gap in pediatric care: the lack of safe, precisely measured drug doses for children. Led by Professor Mansoor Khan, the team is building hospital-ready technology designed to replace improvised liquid formulations with on-demand, accurately dosed tablets — a shift that [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/20250829_DrKhan_Research_AH12-1200x800-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-24T10:26:52+00:00",
+    "url": "https://3dprintingindustry.com/news/texas-am-advances-hospital-ready-3d-printing-for-personalized-pediatric-drugs-246618/?utm_source=rss&utm_medium=rss&utm_campaign=texas-am-advances-hospital-ready-3d-printing-for-personalized-pediatric-drugs",
+    "title_en": "Texas A&M Advances Hospital-Ready 3D Printing for Personalized Pediatric Drugs",
+    "summary_bullets_en": [
+      "Researchers at Texas A&M University are developing a 3D printing approach for pediatric drug dosing.",
+      "The technology aims to replace improvised liquid formulations with accurately dosed tablets.",
+      "Led by Professor Mansoor Khan, the project addresses the lack of safe, precisely measured drug doses for children."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Texas A&M University vyvíjejí přístup k 3D tisku pro dávkování dětských léků.",
+      "Technologie má nahradit improvizované tekuté formulace přesně dávkovanými tabletami.",
+      "Projekt vedený profesorem Mansoorem Khanem řeší nedostatek bezpečných a přesně měřených dávek léků pro děti."
+    ],
+    "tags": [
+      "Hardware",
+      "Texas A&M University",
+      "3D Printing",
+      "Pediatric Drugs",
+      "Mansoor Khan"
+    ]
+  },
+  {
+    "title": "Formnext 2025 vidí Solukon vystavovat inovativní systémy pro odstranění prášku",
+    "summary": "Post-processing system manufacturer Solukon displayed its novel range of depowdering equipment at Formnext 2025 last week. A special version of the SFM-AT800-S was on display, combining automated part transport, depowdering, and a robotic finishing stage in a setup developed with Grenzebach and Yaskawa. According to the manufacturer, the arrangement is meant to illustrate how multiple [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/2HG6S3A8256f_web-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-24T10:26:24+00:00",
+    "url": "https://3dprintingindustry.com/news/formnext-2025-sees-solukon-exhibit-innovative-depowdering-systems-246608/?utm_source=rss&utm_medium=rss&utm_campaign=formnext-2025-sees-solukon-exhibit-innovative-depowdering-systems",
+    "title_en": "Formnext 2025 sees Solukon exhibit innovative depowdering systems",
+    "summary_bullets_en": [
+      "Solukon showcased its new range of depowdering equipment at Formnext 2025.",
+      "A special version of the SFM-AT800-S was featured, integrating automated part transport, depowdering, and robotic finishing.",
+      "The setup was developed in collaboration with Grenzebach and Yaskawa.",
+      "The arrangement demonstrates the potential for streamlined post-processing in 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Solukon představil svou novou řadu zařízení pro odstranění prášku na Formnext 2025.",
+      "Byla představena speciální verze SFM-AT800-S, která integruje automatizovaný transport dílů, odstranění prášku a robotické dokončování.",
+      "Toto uspořádání bylo vyvinuto ve spolupráci s Grenzebach a Yaskawa.",
+      "Uspořádání demonstruje potenciál pro zefektivnění post-processingu v 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Solukon",
+      "Grenzebach",
+      "Yaskawa",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "Nikon SLM Solutions a Interspectral spolupracují na zlepšení zajištění kvality v kovovém aditivním výrobě",
+    "summary": "Nikon SLM Solutions, a German manufacturer of metal additive manufacturing (AM) systems, has partnered with Swedish visualization and analytics software company Interspectral to create an integrated quality-assurance and process-monitoring solution for industrial production. The collaboration links Interspectral’s AM Explorer software with Nikon SLM Solutions’ open-architecture metal AM platforms, enabling real-time visualization, AI-powered analytics, and data [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/nikon-interspectral-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-24T10:24:23+00:00",
+    "url": "https://3dprintingindustry.com/news/nikon-slm-solutions-and-interspectral-partner-to-advance-quality-assurance-in-metal-additive-manufacturing-246601/?utm_source=rss&utm_medium=rss&utm_campaign=nikon-slm-solutions-and-interspectral-partner-to-advance-quality-assurance-in-metal-additive-manufacturing",
+    "title_en": "Nikon SLM Solutions and Interspectral Partner to Advance Quality Assurance in Metal Additive Manufacturing",
+    "summary_bullets_en": [
+      "Nikon SLM Solutions has partnered with Interspectral to enhance quality assurance in metal additive manufacturing.",
+      "The collaboration integrates Interspectral’s AM Explorer software with Nikon SLM Solutions’ metal AM platforms.",
+      "This integration enables real-time visualization, AI-powered analytics, and improved process monitoring."
+    ],
+    "summary_bullets_cs": [
+      "Nikon SLM Solutions navázal spolupráci s Interspectral pro zlepšení zajištění kvality v kovovém aditivním výrobě.",
+      "Spolupráce integruje software AM Explorer od Interspectral s platformami pro kovový AM od Nikon SLM Solutions.",
+      "Tato integrace umožňuje vizualizaci v reálném čase, analýzy poháněné AI a vylepšené monitorování procesů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Nikon SLM Solutions",
+      "Interspectral"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 23. listopadu 2025",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/929085989/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-November\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, November 23, 2025\"><img alt=\"Who&#039;s The Biggest In 3D Printing\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg\" style=\"height: auto !important; float: left; margin-right: 5px;\" width=\"1\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/929085989/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-November\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, November 23, 2025</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg",
@@ -21,6 +232,35 @@
       "Hardware",
       "Market Analysis",
       "3D Printing",
+      "UltiMaker",
+      "Nikon",
+      "SLM Solutions",
+      "HP"
+    ]
+  },
+  {
+    "title": "Úsměvy, Selfie a Obří Tisky: Formnext na Sociálních Médiích",
+    "summary": "After a week of big announcements and impressive launches, social media posts captured another side of Formnext 2025. Alongside all the technical highlights and product news, people online were sharing...",
+    "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f680.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-23T13:00:15+00:00",
+    "url": "https://3dprint.com/322332/smiles-selfies-and-super-sized-printers-formnext-on-social-media/",
+    "title_en": "Smiles, Selfies, and Super-Sized Prints: Formnext on Social Media",
+    "summary_bullets_en": [
+      "Formnext 2025 showcased not only technical innovations but also a vibrant social media presence.",
+      "Attendees shared personal experiences, selfies, and behind-the-scenes moments online.",
+      "Social media posts highlighted the human side of the event, complementing the technical showcases."
+    ],
+    "summary_bullets_cs": [
+      "Formnext 2025 představil nejen technické inovace, ale také živou přítomnost na sociálních médiích.",
+      "Účastníci sdíleli osobní zážitky, selfie a zákulisní momenty online.",
+      "Příspěvky na sociálních médiích zdůraznily lidskou stránku akce, doplňující technické ukázky."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
       "UltiMaker",
       "Nikon",
       "SLM Solutions",
