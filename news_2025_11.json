@@ -1,5 +1,165 @@
 [
   {
+    "title": "Recreus uvádí na trh systém Filaflex 2.20: Revoluce, která přináší flexibilní 3D tisk na rychlost PLA",
+    "summary": "The mechanical behavior of flexible filaments has historically limited how fast and reliably they can be 3D printed. Spanish materials developer Recreus approached the problem from a geometry and thermal-efficiency perspective, resulting in the Filaflex 2.20 System, a new platform built to support higher-flow, clog-free extrusion. “This system is currently patent pending, but Ignacio, the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/DSC05802-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-25T09:50:13+00:00",
+    "url": "https://3dprintingindustry.com/news/recreus-launches-filaflex-2-20-system-the-revolution-that-brings-flexible-3d-printing-up-to-pla-speed-246659/?utm_source=rss&utm_medium=rss&utm_campaign=recreus-launches-filaflex-2-20-system-the-revolution-that-brings-flexible-3d-printing-up-to-pla-speed",
+    "title_en": "Recreus Launches Filaflex 2.20 System: The Revolution That Brings Flexible 3D Printing Up To PLA Speed",
+    "summary_bullets_en": [
+      "Recreus has developed the Filaflex 2.20 System to improve the speed and reliability of flexible 3D printing.",
+      "The system addresses mechanical limitations of flexible filaments through geometry and thermal-efficiency enhancements.",
+      "Filaflex 2.20 supports higher-flow, clog-free extrusion, making flexible printing as fast as PLA.",
+      "The system is currently patent pending."
+    ],
+    "summary_bullets_cs": [
+      "Recreus vyvinul systém Filaflex 2.20 pro zlepšení rychlosti a spolehlivosti flexibilního 3D tisku.",
+      "Systém řeší mechanická omezení flexibilních filamentů prostřednictvím vylepšení geometrie a tepelné účinnosti.",
+      "Filaflex 2.20 podporuje vyšší průtok a bezucpávkovou extruzi, což umožňuje flexibilní tisk stejně rychle jako PLA.",
+      "Systém je v současné době v patentovém řízení."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Recreus",
+      "Filaflex"
+    ]
+  },
+  {
+    "title": "Univerzita v Cádizu zahajuje projekt opravy kovových součástí pomocí 3D tisku a skenování",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/university-of-cadiz-launches-metal-component-repair-project-using-3d-printing-and-scanning/\" target=\"_blank\">University of Cádiz Launches Metal Component Repair Project Using 3D Printing and Scanning</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">November 25</span></div><div><img alt=\"University of Cádiz Launches Metal Component Repair Project Using 3D Printing and Scanning\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"478\" src=\"https://3dprinting.com/wp-content/uploads/8748789458-500x478.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/8748789458-500x478.webp",
+    "source": "3DPrinting.com",
+    "published": "2025-11-25T09:06:33+00:00",
+    "url": "https://3dprinting.com/news/university-of-cadiz-launches-metal-component-repair-project-using-3d-printing-and-scanning/",
+    "title_en": "University of Cádiz Launches Metal Component Repair Project Using 3D Printing and Scanning",
+    "summary_bullets_en": [
+      "The University of Cádiz has initiated a project focused on repairing metal components.",
+      "The project utilizes 3D printing and scanning technologies.",
+      "This initiative aims to enhance the efficiency and sustainability of metal component repairs."
+    ],
+    "summary_bullets_cs": [
+      "Univerzita v Cádizu zahájila projekt zaměřený na opravu kovových součástí.",
+      "Projekt využívá technologie 3D tisku a skenování.",
+      "Cílem této iniciativy je zvýšit efektivitu a udržitelnost oprav kovových součástí."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "University of Cádiz",
+      "Metal Repair"
+    ]
+  },
+  {
+    "title": "Hypermetal získává nový systém Nikon SLM NXG XII 600",
+    "summary": "Certified metal additive manufacturing company Hypermetal has expanded its production capacity through the acquisition of a Nikon SLM NXG XII 600 system. Based in Portugal, Hypermetal operates under EN9100 and ISO 9001 quality standards and supplies high-performance components to aerospace and defense programs. The new installation increases its ability to manufacture flight-critical metal parts at [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/hypermetal-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-25T09:04:33+00:00",
+    "url": "https://3dprintingindustry.com/news/hypermetal-acquires-a-new-nikon-slm-nxg-xii-600-system-246721/?utm_source=rss&utm_medium=rss&utm_campaign=hypermetal-acquires-a-new-nikon-slm-nxg-xii-600-system",
+    "title_en": "Hypermetal acquires a new Nikon SLM NXG XII 600 System",
+    "summary_bullets_en": [
+      "Hypermetal, a certified metal additive manufacturing company, has expanded its production capacity.",
+      "The company acquired a Nikon SLM NXG XII 600 system to enhance its manufacturing capabilities.",
+      "Based in Portugal, Hypermetal adheres to EN9100 and ISO 9001 quality standards.",
+      "The new system will aid in producing flight-critical metal parts for aerospace and defense programs."
+    ],
+    "summary_bullets_cs": [
+      "Certifikovaná společnost pro aditivní výrobu kovů Hypermetal rozšířila svou výrobní kapacitu.",
+      "Společnost získala systém Nikon SLM NXG XII 600 pro zlepšení svých výrobních schopností.",
+      "Hypermetal sídlí v Portugalsku a dodržuje standardy kvality EN9100 a ISO 9001.",
+      "Nový systém pomůže při výrobě kovových dílů kritických pro letectví a obranné programy."
+    ],
+    "tags": [
+      "Hardware",
+      "Nikon",
+      "Additive Manufacturing",
+      "Aerospace",
+      "Defense"
+    ]
+  },
+  {
+    "title": "Additive Center posiluje datově řízené zajištění kvality v AM pro dodavatelský řetězec polovodičů",
+    "summary": "Additive Center, a Dutch organization supporting industrial adoption of additive manufacturing (AM), has launched a pilot project with precision engineering company Melotte and software developer amsight to advance digital quality assurance in the semiconductor sector. Based in the Netherlands, the initiative aims to demonstrate how automated process control can enhance traceability, stability, and cost efficiency [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/AC-Melotte-amsight-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-25T08:58:13+00:00",
+    "url": "https://3dprintingindustry.com/news/additive-center-strengthens-data-driven-quality-assurance-in-am-for-the-semiconductor-supply-chain-246716/?utm_source=rss&utm_medium=rss&utm_campaign=additive-center-strengthens-data-driven-quality-assurance-in-am-for-the-semiconductor-supply-chain",
+    "title_en": "Additive Center Strengthens Data-Driven Quality Assurance in AM for the Semiconductor Supply Chain",
+    "summary_bullets_en": [
+      "Additive Center has initiated a pilot project with Melotte and amsight to enhance digital quality assurance in the semiconductor industry.",
+      "The project focuses on automated process control to improve traceability, stability, and cost efficiency.",
+      "The initiative is based in the Netherlands and aims to support the industrial adoption of additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Additive Center zahájilo pilotní projekt s Melotte a amsight pro zlepšení digitálního zajištění kvality v polovodičovém průmyslu.",
+      "Projekt se zaměřuje na automatizovanou kontrolu procesů pro zlepšení sledovatelnosti, stability a nákladové efektivity.",
+      "Iniciativa je založena v Nizozemsku a má za cíl podpořit průmyslové přijetí aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Additive Center",
+      "Melotte",
+      "amsight"
+    ]
+  },
+  {
+    "title": "Desetibojař z Husker navrhl první plně 3D tištěnou běžeckou botu programu",
+    "summary": "Till Steinforth, a Master of Architecture student at the University of Nebraska–Lincoln and a decathlete for the Husker track and field team, has created the program’s first fully 3D printed running shoe — a project that combines athletic insight, design training, and advanced manufacturing technology. “I saw a company from Germany, Zellerfeld, create casual 3D [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/announce_file222968-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-25T08:57:14+00:00",
+    "url": "https://3dprintingindustry.com/news/husker-decathlete-designs-programs-first-fully-3d-printed-running-shoe-246702/?utm_source=rss&utm_medium=rss&utm_campaign=husker-decathlete-designs-programs-first-fully-3d-printed-running-shoe",
+    "title_en": "Husker Decathlete Designs Program’s First Fully 3D Printed Running Shoe",
+    "summary_bullets_en": [
+      "Till Steinforth, a Master of Architecture student and Husker decathlete, designed the first fully 3D printed running shoe for the program.",
+      "The project integrates athletic experience, design skills, and advanced manufacturing technology.",
+      "Steinforth was inspired by a German company, Zellerfeld, known for creating casual 3D printed shoes."
+    ],
+    "summary_bullets_cs": [
+      "Till Steinforth, student architektury a desetibojař týmu Husker, navrhl první plně 3D tištěnou běžeckou botu pro program.",
+      "Projekt kombinuje sportovní zkušenosti, designové dovednosti a pokročilé výrobní technologie.",
+      "Steinforth se inspiroval německou firmou Zellerfeld, známou výrobou volnočasových 3D tištěných bot."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Zellerfeld",
+      "University of Nebraska–Lincoln"
+    ]
+  },
+  {
+    "title": "Sintokogio kupuje keramickou divizi Bosch, plánuje globální expanzi AM",
+    "summary": "Japan’s Sintokogio Group is buying Bosch Advanced Ceramics to expand its work in 3D printed technical ceramics. The agreement was signed on November 18 and formally announced at the Formnext...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/11/1763710466175.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-25T07:00:16+00:00",
+    "url": "https://3dprint.com/322369/sintokogio-buys-boschs-ceramics-unit-plans-global-am-expansion/",
+    "title_en": "Sintokogio Buys Bosch’s Ceramics Unit, Plans Global AM Expansion",
+    "summary_bullets_en": [
+      "Sintokogio Group from Japan is acquiring Bosch Advanced Ceramics.",
+      "The acquisition aims to enhance Sintokogio's capabilities in 3D printed technical ceramics.",
+      "The agreement was signed on November 18 and announced at the Formnext event.",
+      "This move is part of Sintokogio's strategy for global expansion in additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Japonská skupina Sintokogio kupuje Bosch Advanced Ceramics.",
+      "Cílem akvizice je posílit schopnosti Sintokogio v oblasti 3D tisku technické keramiky.",
+      "Dohoda byla podepsána 18. listopadu a oznámena na akci Formnext.",
+      "Tento krok je součástí strategie Sintokogio pro globální expanzi v aditivní výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Sintokogio",
+      "Bosch",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Vzdálený, datově řízený AM snižuje prostoje a zvyšuje efektivitu v ropném a plynárenském průmyslu",
     "summary": "Software-based, cloud AM company Assembrix Ltd., global tech company HP, digital spare-parts specialist Sparely, and Norway-based firm Korall Engineering AS have announced the completion of a coordinated series of secure, remote additive manufacturing (AM) operations across multiple global sites, resulting in certified spare parts now deployed in the oil and gas industry. This milestone demonstrates [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Assembrix-150x100.jpg",
