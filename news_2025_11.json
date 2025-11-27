@@ -1,5 +1,86 @@
 [
   {
+    "title": "Virginia Tech vyvíjí robotický více-směrný 3D tisk pro pevnější kompozitní materiály",
+    "summary": "Researchers at public research university Virginia Tech are teaching robotic arms to fabricate materials with natural, flowing geometries inspired by trees, shells, and bones. Backed by a three-year, $3.5 million NSF Future Manufacturing Research Grant, the team is advancing beyond traditional flat-layer, straight-line printing by enabling robots to deposit composite materials from multiple directions. This [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/image-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-26T22:15:51+00:00",
+    "url": "https://3dprintingindustry.com/news/virginia-tech-develops-robotic-multi-directional-3d-printing-for-stronger-composite-materials-246812/?utm_source=rss&utm_medium=rss&utm_campaign=virginia-tech-develops-robotic-multi-directional-3d-printing-for-stronger-composite-materials",
+    "title_en": "Virginia Tech Develops Robotic Multi-Directional 3D Printing for Stronger Composite Materials",
+    "summary_bullets_en": [
+      "Virginia Tech researchers are using robotic arms to create materials with natural, flowing geometries inspired by nature.",
+      "The project is supported by a $3.5 million NSF Future Manufacturing Research Grant over three years.",
+      "The team is moving beyond traditional 3D printing methods by enabling robots to deposit materials from multiple directions."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Virginia Tech používají robotické paže k vytváření materiálů s přirozenými, plynulými geometrickými tvary inspirovanými přírodou.",
+      "Projekt je podporován tříletým grantem NSF Future Manufacturing Research ve výši 3,5 milionu dolarů.",
+      "Tým překračuje tradiční metody 3D tisku tím, že umožňuje robotům ukládat materiály z více směrů."
+    ],
+    "tags": [
+      "Hardware",
+      "Virginia Tech",
+      "NSF",
+      "3D Printing",
+      "Robotics",
+      "Composite Materials"
+    ]
+  },
+  {
+    "title": "CONSTRUCT3D představuje nový průmyslový 3D tiskárnu Construct 2 na veletrhu Advanced Engineering Show UK",
+    "summary": "CONSTRUCT3D, a UK-based developer of industrial additive manufacturing systems, has unveiled the Construct 2, its latest high-speed production 3D printer, at the Advanced Engineering Show in the United Kingdom. The system is designed for continuous 24-hour operation using advanced engineering polymers and introduces a new level of throughput for polymer-based manufacturing. Building on the company’s [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/One-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-26T21:34:33+00:00",
+    "url": "https://3dprintingindustry.com/news/construct3d-new-construct-2-industrial-3d-printer-unveiled-at-advanced-engineering-show-uk-246781/?utm_source=rss&utm_medium=rss&utm_campaign=construct3d-new-construct-2-industrial-3d-printer-unveiled-at-advanced-engineering-show-uk",
+    "title_en": "CONSTRUCT3D unveils Construct 2 industrial 3D printer at Advanced Engineering Show UK",
+    "summary_bullets_en": [
+      "CONSTRUCT3D, a UK-based company, has introduced the Construct 2, a new high-speed industrial 3D printer.",
+      "The unveiling took place at the Advanced Engineering Show in the United Kingdom.",
+      "The Construct 2 is designed for continuous 24-hour operation using advanced engineering polymers.",
+      "It offers a new level of throughput for polymer-based manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "CONSTRUCT3D, britská společnost, představila nový vysokorychlostní průmyslový 3D tiskárnu Construct 2.",
+      "Představení proběhlo na veletrhu Advanced Engineering Show ve Spojeném království.",
+      "Construct 2 je navržen pro nepřetržitý 24hodinový provoz s využitím pokročilých inženýrských polymerů.",
+      "Nabízí novou úroveň průchodnosti pro výrobu na bázi polymerů."
+    ],
+    "tags": [
+      "Hardware",
+      "CONSTRUCT3D",
+      "3D Printing",
+      "Advanced Engineering Show",
+      "Industrial 3D Printer"
+    ]
+  },
+  {
+    "title": "Výzkumníci z University of Hawaiʻi mapují fyziku za 3D tiskem pastovitých materiálů",
+    "summary": "A University of Hawaiʻi at Mānoa mechanical engineering researcher has co-authored a comprehensive review addressing the challenges of printing with paste-like materials and how a deeper understanding of the underlying physics could enhance manufacturing reliability. Published in the Annual Review of Fluid Mechanics, the paper synthesizes decades of research to provide a roadmap for 3D [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/manoa-engineering-direct-ink-writing-demo-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-26T21:31:44+00:00",
+    "url": "https://3dprintingindustry.com/news/university-of-hawai%ca%bbi-researchers-map-physics-behind-paste-like-3d-printing-246799/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-hawai%25ca%25bbi-researchers-map-physics-behind-paste-like-3d-printing",
+    "title_en": "University of Hawaiʻi Researchers Map Physics Behind Paste-Like 3D Printing",
+    "summary_bullets_en": [
+      "A researcher from the University of Hawaiʻi at Mānoa has co-authored a review on the challenges of 3D printing with paste-like materials.",
+      "The paper, published in the Annual Review of Fluid Mechanics, aims to enhance manufacturing reliability by understanding the physics involved.",
+      "It synthesizes decades of research to provide a comprehensive roadmap for improving 3D printing processes."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumník z University of Hawaiʻi at Mānoa je spoluautorem přehledu o výzvách 3D tisku s pastovitými materiály.",
+      "Článek, publikovaný v Annual Review of Fluid Mechanics, si klade za cíl zlepšit spolehlivost výroby pochopením zapojené fyziky.",
+      "Syntetizuje desetiletí výzkumu, aby poskytl komplexní plán pro zlepšení procesů 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "University of Hawaiʻi",
+      "3D Printing",
+      "Fluid Mechanics"
+    ]
+  },
+  {
     "title": "Creality otevírá první západní pop-up obchod v Los Angeles k testování maloobchodní strategie v USA",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/929747714/0/fabbaloo/default~Creality-Opens-First-Western-PopUp-Store-in-Los-Angeles-to-Test-US-Retail-Strategy\" rel=\"nofollow\" title=\"Creality Opens First Western Pop-Up Store in Los Angeles to Test U.S. Retail Strategy\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/creality-pop-up-store-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Creality has opened a retail store in Los Angeles.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/929747714/0/fabbaloo/default~Creality-Opens-First-Western-PopUp-Store-in-Los-Angeles-to-Test-US-Retail-Strategy\" rel=\"nofollow\">Creality Opens First Western Pop-Up Store in Los Angeles to Test U.S. Retail Strategy</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/creality-pop-up-store-300x225.jpg",
