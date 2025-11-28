@@ -1,5 +1,137 @@
 [
   {
+    "title": "Rusko získalo regulační schválení pro první 3D tištěnou součástku jaderného reaktoru",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/russia-receives-regulatory-approval-for-first-3d-printed-nuclear-reactor-component/\" target=\"_blank\">Russia Receives Regulatory Approval for First 3D Printed Nuclear Reactor Component</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">November 28</span></div><div><img alt=\"Russia Receives Regulatory Approval for First 3D Printed Nuclear Reactor Component\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/864879748-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/864879748-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-11-28T09:21:35+00:00",
+    "url": "https://3dprinting.com/news/russia-receives-regulatory-approval-for-first-3d-printed-nuclear-reactor-component/",
+    "title_en": "Russia Receives Regulatory Approval for First 3D Printed Nuclear Reactor Component",
+    "summary_bullets_en": [
+      "Russia has received regulatory approval for its first 3D printed component for a nuclear reactor.",
+      "The component was developed by the Russian state nuclear corporation, Rosatom.",
+      "This marks a significant milestone in the use of additive manufacturing in the nuclear industry.",
+      "The approval could pave the way for more 3D printed components in nuclear reactors."
+    ],
+    "summary_bullets_cs": [
+      "Rusko získalo regulační schválení pro svou první 3D tištěnou součástku pro jaderný reaktor.",
+      "Součástka byla vyvinuta ruskou státní jadernou korporací Rosatom.",
+      "Toto představuje významný milník v použití aditivní výroby v jaderném průmyslu.",
+      "Schválení by mohlo otevřít cestu pro více 3D tištěných součástek v jaderných reaktorech."
+    ],
+    "tags": [
+      "Hardware",
+      "Rosatom",
+      "Nuclear",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "BCN3D uvádí na trh průmyslovou FFF 3D tiskárnu Omega G2 na Formnext 2025",
+    "summary": "Barcelona based 3D printer manufacturer BCN3D Technologies has unveiled the Omega G2, its latest industrial FFF 3D printer, at Formnext 2025 in Frankfurt. Announced on 19 November, the system introduces a new generation of factory-focused features aimed at automotive, manufacturing, engineering, and advanced prototyping users. The launch also marks the company’s first major product announcement [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Schedule-a-meeting-and-meet-BCN3D-Omega-G2-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-11-28T08:16:57+00:00",
+    "url": "https://3dprintingindustry.com/news/bcn3d-launches-omega-g2-industrial-fff-3d-printer-at-formnext-2025-246891/?utm_source=rss&utm_medium=rss&utm_campaign=bcn3d-launches-omega-g2-industrial-fff-3d-printer-at-formnext-2025",
+    "title_en": "BCN3D launches Omega G2 industrial FFF 3D printer at Formnext 2025",
+    "summary_bullets_en": [
+      "BCN3D Technologies has introduced the Omega G2, a new industrial FFF 3D printer.",
+      "The launch took place at Formnext 2025 in Frankfurt.",
+      "The Omega G2 is designed for automotive, manufacturing, engineering, and advanced prototyping sectors.",
+      "This marks BCN3D's first major product announcement in recent years."
+    ],
+    "summary_bullets_cs": [
+      "BCN3D Technologies představila novou průmyslovou FFF 3D tiskárnu Omega G2.",
+      "Představení proběhlo na Formnext 2025 ve Frankfurtu.",
+      "Omega G2 je navržena pro automobilový, výrobní, inženýrský a pokročilý prototypový sektor.",
+      "Toto je první významné produktové oznámení BCN3D za poslední roky."
+    ],
+    "tags": [
+      "Hardware",
+      "BCN3D",
+      "Formnext",
+      "3D Printing",
+      "Omega G2"
+    ]
+  },
+  {
+    "title": "Výzkumníci vyvinuli 3D tištěnou vysokoteplotní superslitinu",
+    "summary": "Researchers at the IMDEA Materials Institute, a Madrid-based research center focused on advanced materials and manufacturing technologies, have developed a cobalt- and nickel-based high-entropy superalloy (CoNi-HESA) optimized for additive manufacturing through Laser Powder Bed Fusion (LPBF). Published on November 18, 2025, in Materials &#38; Design, the study outlines a new route for producing jet engine [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/IMDEA_Materials_Institute_Senior_Researcher2C_Prof._JosC3A9_Manuel_Torralba_1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-28T08:13:51+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-develop-3d-printed-high-entropy-superalloy-246895/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-develop-3d-printed-high-entropy-superalloy",
+    "title_en": "Researchers develop 3D printed high-entropy superalloy",
+    "summary_bullets_en": [
+      "Researchers at the IMDEA Materials Institute have developed a cobalt- and nickel-based high-entropy superalloy optimized for 3D printing.",
+      "The superalloy is designed for additive manufacturing using Laser Powder Bed Fusion (LPBF) technology.",
+      "The study, published in Materials & Design, presents a new method for producing materials for jet engines."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z IMDEA Materials Institute vyvinuli vysokoteplotní superslitinu na bázi kobaltu a niklu optimalizovanou pro 3D tisk.",
+      "Superslitina je navržena pro aditivní výrobu pomocí technologie Laser Powder Bed Fusion (LPBF).",
+      "Studie publikovaná v časopise Materials & Design představuje novou metodu pro výrobu materiálů pro proudové motory."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "IMDEA Materials Institute",
+      "Laser Powder Bed Fusion",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Batch.Works a E3D spolupracují na rozšíření cirkulárních 3D tiskových farem ve Velké Británii a globálně",
+    "summary": "Batch.Works, a London-based circular manufacturing company specializing in local, on-demand production using recycled and bio-based materials, has signed a strategic commercial partnership with E3D-Online, an Oxford-based engineering firm known for developing high-performance 3D printing hardware. The agreement aims to establish a scalable model for distributed, circular 3D printing farms across the United Kingdom and internationally. [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Leadership-team-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-28T08:13:01+00:00",
+    "url": "https://3dprintingindustry.com/news/batch-works-and-e3d-partner-to-scale-circular-3d-printing-farms-in-the-uk-and-globally-246902/?utm_source=rss&utm_medium=rss&utm_campaign=batch-works-and-e3d-partner-to-scale-circular-3d-printing-farms-in-the-uk-and-globally",
+    "title_en": "Batch.Works and E3D partner to scale circular 3D printing farms in the UK and globally",
+    "summary_bullets_en": [
+      "Batch.Works, a London-based company, focuses on local, on-demand production using recycled and bio-based materials.",
+      "E3D-Online, an Oxford-based engineering firm, is known for developing high-performance 3D printing hardware.",
+      "The partnership aims to create a scalable model for distributed, circular 3D printing farms in the UK and internationally."
+    ],
+    "summary_bullets_cs": [
+      "Batch.Works, londýnská společnost, se zaměřuje na lokální, na vyžádání dostupnou výrobu s využitím recyklovaných a bio materiálů.",
+      "E3D-Online, oxfordská inženýrská firma, je známá vývojem vysoce výkonného hardwaru pro 3D tisk.",
+      "Partnerství má za cíl vytvořit škálovatelný model pro distribuované, cirkulární 3D tiskové farmy ve Velké Británii a mezinárodně."
+    ],
+    "tags": [
+      "Hardware",
+      "Batch.Works",
+      "E3D-Online",
+      "Circular Manufacturing",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Inženýři z UCL odhalují skryté mechanismy rozstřiku v 3D tisku LPBF",
+    "summary": "Researchers from UK-based UCL Mechanical Engineering, led by Prof. Lee and Dr. Leung, have made significant strides in understanding how spatter forms and behaves during the Laser Powder Bed Fusion (LPBF) process. “This new understanding has helped us propose strategies to reduce defects and improve the surface quality of the printed parts,” the team explained. [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/seeing-the-invisible-h-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-28T08:11:45+00:00",
+    "url": "https://3dprintingindustry.com/news/ucl-engineers-uncover-hidden-mechanisms-of-spatter-in-lpbf-3d-printing-246878/?utm_source=rss&utm_medium=rss&utm_campaign=ucl-engineers-uncover-hidden-mechanisms-of-spatter-in-lpbf-3d-printing",
+    "title_en": "UCL Engineers Uncover Hidden Mechanisms of Spatter in LPBF 3D Printing",
+    "summary_bullets_en": [
+      "Researchers from UCL Mechanical Engineering have advanced the understanding of spatter formation in LPBF 3D printing.",
+      "The team, led by Prof. Lee and Dr. Leung, identified key mechanisms of spatter behavior during the printing process.",
+      "Their findings propose strategies to reduce defects and enhance the surface quality of printed parts."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z UCL Mechanical Engineering pokročili v porozumění tvorbě rozstřiku v 3D tisku LPBF.",
+      "Tým vedený profesorem Lee a doktorem Leungem identifikoval klíčové mechanismy chování rozstřiku během tiskového procesu.",
+      "Jejich zjištění navrhují strategie ke snížení defektů a zlepšení kvality povrchu tištěných dílů."
+    ],
+    "tags": [
+      "Hardware",
+      "UCL",
+      "LPBF",
+      "3D Printing"
+    ]
+  },
+  {
     "title": "6K Additive rozšiřuje výrobu kovových prášků v USA díky financování od EXIM",
     "summary": "Producer of advanced 3D printing materials 6K Additive is reinforcing its global leadership in metal powder and alloy production through a US$27.41 million financing package approved by the Export-Import Bank of the United States (EXIM). The funding will support domestic production of metal powders for AM and traditional powder metallurgy, serving critical sectors including defense, [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2023/05/6K-Additive.-150x100.png",
