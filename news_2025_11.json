@@ -1,5 +1,59 @@
 [
   {
+    "title": "Univerzita ve Windsoru vede Kanadu s vícepatrovým 3D tištěným, energeticky nulovým studentským bydlením",
+    "summary": "The University of Windsor is constructing Canada’s first multi-storey, net-zero residence using 3D printing technology. Located at 1025 California Ave., the project demonstrates how research, technology, and collaboration can tackle housing and environmental challenges. Supported by a $2-million investment from the Federal Economic Development Agency for Southern Ontario (FedDev Ontario), the residence will include seven [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/3d_printer-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-28T19:50:16+00:00",
+    "url": "https://3dprintingindustry.com/news/university-of-windsor-leads-canada-with-multi-storey-3d-printed-net-zero-student-housing-246946/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-windsor-leads-canada-with-multi-storey-3d-printed-net-zero-student-housing",
+    "title_en": "University of Windsor Leads Canada with Multi-Storey 3D Printed, Net-Zero Student Housing",
+    "summary_bullets_en": [
+      "The University of Windsor is building Canada's first multi-storey, net-zero student residence using 3D printing technology.",
+      "The project is located at 1025 California Ave. and aims to address housing and environmental challenges.",
+      "It is supported by a $2-million investment from the Federal Economic Development Agency for Southern Ontario (FedDev Ontario)."
+    ],
+    "summary_bullets_cs": [
+      "Univerzita ve Windsoru staví první kanadské vícepatrové studentské bydlení s nulovou energetickou bilancí pomocí technologie 3D tisku.",
+      "Projekt se nachází na adrese 1025 California Ave. a jeho cílem je řešit problémy s bydlením a životním prostředím.",
+      "Podporu projektu zajišťuje investice ve výši 2 milionů dolarů od Federální agentury pro ekonomický rozvoj jižního Ontaria (FedDev Ontario)."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "University of Windsor",
+      "FedDev Ontario",
+      "Net-Zero Housing"
+    ]
+  },
+  {
+    "title": "3D tisk oživuje kulisy Frankensteina Guillerma del Tora",
+    "summary": "Director Guillermo del Toro relied on 3D printing to bring the intricate sets and practical effects of Frankenstein (2025) to life. Netflix’s behind-the-scenes documentary, Frankenstein: The Anatomy Lesson, showcases how this technology was essential in translating his gothic vision from concept to screen. 3D Printing Elevates Miniatures and Production Workflows The production of Frankenstein combined [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/PF_20240529_29750_R-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-28T19:21:33+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printing-brings-guillermo-del-toros-frankenstein-sets-to-life-246952/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printing-brings-guillermo-del-toros-frankenstein-sets-to-life",
+    "title_en": "3D Printing Brings Guillermo del Toro’s Frankenstein Sets to Life",
+    "summary_bullets_en": [
+      "Director Guillermo del Toro used 3D printing to create the intricate sets and practical effects for Frankenstein (2025).",
+      "The technology was crucial in translating del Toro's gothic vision from concept to screen.",
+      "Netflix's documentary, Frankenstein: The Anatomy Lesson, highlights the role of 3D printing in the production.",
+      "3D printing enhanced the creation of miniatures and improved production workflows."
+    ],
+    "summary_bullets_cs": [
+      "Režisér Guillermo del Toro využil 3D tisk k vytvoření složitých kulis a praktických efektů pro Frankensteina (2025).",
+      "Technologie byla klíčová pro převedení del Torovy gotické vize z konceptu na obrazovku.",
+      "Dokument Netflixu, Frankenstein: The Anatomy Lesson, zdůrazňuje roli 3D tisku ve výrobě.",
+      "3D tisk vylepšil tvorbu miniatur a zlepšil výrobní postupy."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Guillermo del Toro",
+      "Netflix",
+      "Frankenstein"
+    ]
+  },
+  {
     "title": "Startup představuje systém T-IDEX navržený pro zdvojnásobení průchodnosti na FFF tiskárnách",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/930360080/0/fabbaloo/default~Startup-Unveils-TIDEX-System-Designed-to-Double-Throughput-on-FFF-Printers\" rel=\"nofollow\" title=\"Startup Unveils T-IDEX System Designed to Double Throughput on FFF Printers\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/anabolic-cover-300x255.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>We’ve learned of a company developing a “true” independent extruder 3D printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/930360080/0/fabbaloo/default~Startup-Unveils-TIDEX-System-Designed-to-Double-Throughput-on-FFF-Printers\" rel=\"nofollow\">Startup Unveils T-IDEX System Designed to Double Throughput on FFF Printers</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/anabolic-cover-300x255.jpg",
