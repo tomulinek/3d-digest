@@ -1,5 +1,113 @@
 [
   {
+    "title": "3D tištěné fotochromické materiály umožňují plně optické zpracování",
+    "summary": "Researchers at NEST, Scuola Normale Superiore, and the University of Pisa have developed 3D-printable photochromic polymers capable of performing arithmetic and logic operations using only light. The study, published in Light: Science &#38; Applications, demonstrates that these materials can control transmitted light intensity and spatial patterns with precision, supporting the development of all-optical computing and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/3D-printable-photochromic-materials.-Image-via-Light-Science-Applications-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-11-29T14:36:36+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printed-photochromic-materials-enable-all-optical-processing-246915/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-photochromic-materials-enable-all-optical-processing",
+    "title_en": "3D Printed Photochromic Materials Enable All-Optical Processing",
+    "summary_bullets_en": [
+      "Researchers at NEST, Scuola Normale Superiore, and the University of Pisa have developed 3D-printable photochromic polymers.",
+      "These materials can perform arithmetic and logic operations using only light.",
+      "The study demonstrates precise control over transmitted light intensity and spatial patterns.",
+      "This advancement supports the development of all-optical computing."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z NEST, Scuola Normale Superiore a Univerzity v Pise vyvinuli 3D tisknutelné fotochromické polymery.",
+      "Tyto materiály dokážou provádět aritmetické a logické operace pouze pomocí světla.",
+      "Studie ukazuje přesnou kontrolu nad intenzitou a prostorovými vzory přenášeného světla.",
+      "Tento pokrok podporuje rozvoj plně optického výpočetního zpracování."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Photochromic Polymers",
+      "Optical Computing"
+    ]
+  },
+  {
+    "title": "Wayland Additive integruje Calibur3 do Autodesk Fusion pro zjednodušení 3D tisku kovů pomocí elektronového paprsku",
+    "summary": "Wayland Additive, a UK-based metal 3D printing company, has integrated its Calibur3 system into the Autodesk Fusion machine library. Announced on 27 November 2025, the collaboration enables a full end-to-end workflow for NeuBeam electron beam powder bed fusion (PBF-EB) users inside Autodesk’s CAD/CAM environment. The goal is to remove software fragmentation and make electron beam [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Sualp-Ozel-and-Will-Richardson-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-11-29T14:33:46+00:00",
+    "url": "https://3dprintingindustry.com/news/wayland-additive-integrates-calibur3-into-autodesk-fusion-to-streamline-electron-beam-metal-3d-printing-246973/?utm_source=rss&utm_medium=rss&utm_campaign=wayland-additive-integrates-calibur3-into-autodesk-fusion-to-streamline-electron-beam-metal-3d-printing",
+    "title_en": "Wayland Additive integrates Calibur3 into Autodesk Fusion to streamline electron beam metal 3D printing",
+    "summary_bullets_en": [
+      "Wayland Additive has integrated its Calibur3 system into the Autodesk Fusion machine library.",
+      "The integration was announced on 27 November 2025.",
+      "This collaboration enables a full end-to-end workflow for NeuBeam electron beam powder bed fusion users within Autodesk’s CAD/CAM environment.",
+      "The goal is to eliminate software fragmentation and enhance the electron beam metal 3D printing process."
+    ],
+    "summary_bullets_cs": [
+      "Wayland Additive integroval svůj systém Calibur3 do knihovny strojů Autodesk Fusion.",
+      "Integrace byla oznámena 27. listopadu 2025.",
+      "Tato spolupráce umožňuje kompletní pracovní postup pro uživatele NeuBeam elektronového paprsku v prostředí CAD/CAM od Autodesku.",
+      "Cílem je odstranit fragmentaci softwaru a zlepšit proces 3D tisku kovů pomocí elektronového paprsku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Wayland Additive",
+      "Autodesk",
+      "Calibur3",
+      "NeuBeam"
+    ]
+  },
+  {
+    "title": "Novinky z 3D tisku, 29. listopadu 2025: Průmyslová základna pro ponorky, běžecká obuv a další",
+    "summary": "In this weekend&#8217;s 3D Printing News Briefs, we&#8217;ve got more news from Dyndrite, which has launched the NXG Slice Viewer for Nikon SLM Solutions. Farsoon Europe has news to share...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/11/6915472deafb0b4f6f8b8eb5_Dyndrite-NG-Slice-Viewer-1024x405.gif",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-11-29T13:30:27+00:00",
+    "url": "https://3dprint.com/322419/3d-printing-news-briefs-11-29-2025/",
+    "title_en": "3D Printing News Briefs, November 29, 2025: Submarine Industrial Base, Running Shoe, & More",
+    "summary_bullets_en": [
+      "Dyndrite has launched the NXG Slice Viewer for Nikon SLM Solutions.",
+      "Farsoon Europe has announced new developments in their 3D printing technology.",
+      "The article covers advancements in 3D printing applications for submarines and running shoes."
+    ],
+    "summary_bullets_cs": [
+      "Dyndrite uvedl na trh NXG Slice Viewer pro Nikon SLM Solutions.",
+      "Farsoon Europe oznámil nové pokroky ve své technologii 3D tisku.",
+      "Článek se zabývá pokroky v aplikacích 3D tisku pro ponorky a běžeckou obuv."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Dyndrite",
+      "Nikon SLM Solutions",
+      "Farsoon Europe"
+    ]
+  },
+  {
+    "title": "Toyota Way v roce 2025 a 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/930530489/0/fabbaloo/default~The-Toyota-Way-in-and-D-Printing\" rel=\"nofollow\" title=\"The Toyota Way in 2025 and 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/Toyota1-300x180.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding considers Toyota’s evolving “Toyota Way” philosophy is quietly driving a 3D printing revolution — and Stratasys is in the driver’s seat.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/930530489/0/fabbaloo/default~The-Toyota-Way-in-and-D-Printing\" rel=\"nofollow\">The Toyota Way in 2025 and 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/Toyota1-300x180.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-11-29T13:21:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/930530489/0/fabbaloo/default~The-Toyota-Way-in-and-D-Printing",
+    "title_en": "The Toyota Way in 2025 and 3D Printing",
+    "summary_bullets_en": [
+      "Toyota's evolving 'Toyota Way' philosophy is influencing a 3D printing revolution.",
+      "Stratasys is playing a key role in this transformation.",
+      "The integration of 3D printing aligns with Toyota's commitment to innovation and efficiency."
+    ],
+    "summary_bullets_cs": [
+      "Evoluce filozofie 'Toyota Way' ovlivňuje revoluci v 3D tisku.",
+      "Stratasys hraje klíčovou roli v této transformaci.",
+      "Integrace 3D tisku je v souladu se závazkem Toyoty k inovacím a efektivitě."
+    ],
+    "tags": [
+      "Hardware",
+      "Toyota",
+      "Stratasys",
+      "3D Printing"
+    ]
+  },
+  {
     "title": "3D tisk zefektivňuje údržbu a přestavbu vozidel u policie West Midlands",
     "summary": "England-based West Midlands Police has integrated 3D printing technology into its Fleet Services operations to manufacture bespoke interior vehicle components, streamlining maintenance and conversion processes for operational vehicles. Applying 3D Printing to Fleet Operations Daniel Starns, a Fleet Services vehicle technician, identified the potential for 3D printing after experimenting with the technology at home. The [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/grill-lights-3-d-printer-150x100.jpg",
