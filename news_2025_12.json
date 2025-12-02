@@ -1,5 +1,251 @@
 [
   {
+    "title": "Predikce deformací v reálném čase dosažena v kovovém aditivním výrobě",
+    "summary": "A research team from Nanjing Tech University, a Chinese institution specializing in mechanical and power engineering research, has introduced a physics-informed neural operator (PINO) framework capable of predicting real-time distortion in Wire Arc Additive Manufacturing (WAAM)—also known as Directed Energy Deposition-Arc (DED-Arc). Published on arXiv, the study presents PIDeepONet-RNN, a model that forecasts thermo-mechanical distortion [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/The-overall-framework-of-the-proposed-real-time-distortion-prediction-system-in-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-12-02T11:36:09+00:00",
+    "url": "https://3dprintingindustry.com/news/real-time-distortion-prediction-achieved-in-metal-additive-manufacturing-247011/?utm_source=rss&utm_medium=rss&utm_campaign=real-time-distortion-prediction-achieved-in-metal-additive-manufacturing",
+    "title_en": "Real-time distortion prediction achieved in metal additive manufacturing",
+    "summary_bullets_en": [
+      "A research team from Nanjing Tech University has developed a physics-informed neural operator (PINO) framework.",
+      "The framework is capable of predicting real-time distortion in Wire Arc Additive Manufacturing (WAAM).",
+      "The study introduces PIDeepONet-RNN, a model that forecasts thermo-mechanical distortion.",
+      "The research has been published on arXiv."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumný tým z Nanjing Tech University vyvinul rámec fyzikálně informovaného neuronového operátoru (PINO).",
+      "Tento rámec je schopen předpovídat deformace v reálném čase v procesu Wire Arc Additive Manufacturing (WAAM).",
+      "Studie představuje model PIDeepONet-RNN, který předpovídá termo-mechanické deformace.",
+      "Výzkum byl publikován na arXiv."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Nanjing Tech University",
+      "Wire Arc Additive Manufacturing",
+      "PIDeepONet-RNN"
+    ]
+  },
+  {
+    "title": "Nová služba velkoformátového 3D tisku od Base Materials s využitím systému ProXtrude",
+    "summary": "Base Materials, a UK-based developer of high-performance syntactic materials, has launched a large-format 3D printing service designed to give manufacturers a faster and more resource-efficient alternative to traditional tooling. The process replaces CNC-machined tooling boards with additively manufactured single-piece models produced without visible bond lines. In internal trials, the method cut material waste by up [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/Base_Materials_-_3D_printing-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-12-02T11:35:55+00:00",
+    "url": "https://3dprintingindustry.com/news/base-materials-new-large-format-3d-printing-service-featuring-proxtrude-paste-system-246991/?utm_source=rss&utm_medium=rss&utm_campaign=base-materials-new-large-format-3d-printing-service-featuring-proxtrude-paste-system",
+    "title_en": "Base Materials new large-format 3D printing service featuring ProXtrude paste system",
+    "summary_bullets_en": [
+      "Base Materials has launched a large-format 3D printing service in the UK.",
+      "The service offers a faster and more resource-efficient alternative to traditional tooling.",
+      "It uses additively manufactured single-piece models without visible bond lines.",
+      "Internal trials showed a significant reduction in material waste."
+    ],
+    "summary_bullets_cs": [
+      "Base Materials spustila ve Velké Británii službu velkoformátového 3D tisku.",
+      "Služba nabízí rychlejší a efektivnější alternativu k tradičním nástrojům.",
+      "Používá aditivně vyráběné jednorázové modely bez viditelných spojovacích linií.",
+      "Interní testy ukázaly významné snížení odpadu materiálu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Base Materials",
+      "ProXtrude"
+    ]
+  },
+  {
+    "title": "Výzkumníci z Oregon State vyvinuli rychle tuhnoucí jíl pro udržitelnou výstavbu a infrastrukturu",
+    "summary": "U.S. based Oregon State University has developed a fast-curing, eco-friendly alternative to concrete. The clay-based material, which cures instantly as it is 3D printed, promises quicker, low-emission building of homes and infrastructure, potentially helping to address the global housing crisis while reducing the environmental impact of traditional concrete. The study, published in Advanced Composites and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/54938941308_9d3108901c_c_0-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-12-02T11:34:59+00:00",
+    "url": "https://3dprintingindustry.com/news/oregon-state-researchers-develop-rapid-setting-clay-for-sustainable-housing-and-infrastructure-247033/?utm_source=rss&utm_medium=rss&utm_campaign=oregon-state-researchers-develop-rapid-setting-clay-for-sustainable-housing-and-infrastructure",
+    "title_en": "Oregon State Researchers Develop Rapid-Setting Clay for Sustainable Housing and Infrastructure",
+    "summary_bullets_en": [
+      "Oregon State University has created a fast-curing, eco-friendly clay-based material.",
+      "The material cures instantly during 3D printing, offering a quick building solution.",
+      "This innovation aims to reduce emissions and environmental impact compared to traditional concrete.",
+      "It could help address the global housing crisis by enabling faster construction of homes and infrastructure."
+    ],
+    "summary_bullets_cs": [
+      "Oregon State University vytvořila rychle tuhnoucí, ekologický materiál na bázi jílu.",
+      "Materiál tuhne okamžitě během 3D tisku, což nabízí rychlé stavební řešení.",
+      "Tato inovace má za cíl snížit emise a dopad na životní prostředí ve srovnání s tradičním betonem.",
+      "Může pomoci řešit globální bytovou krizi umožněním rychlejší výstavby domů a infrastruktury."
+    ],
+    "tags": [
+      "Material",
+      "Oregon State University",
+      "3D Printing",
+      "Sustainable Construction",
+      "Eco-friendly"
+    ]
+  },
+  {
+    "title": "Nimble: Modulární 3D tištěná protéza ploutve pro plavce",
+    "summary": "Italian studio Essesi Design Studio has developed Nimble, a conceptual modular prosthetic fin designed to help amputees swim more effectively. The attachable device replaces a missing foot and lower leg, combining a lightweight carbon-fiber shell with a 3D printed flexible rubber lattice that generates thrust while reducing stress on the residual limb. “The Nimble prosthetic [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/1753652462-prosthetic_exploded_view-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-12-02T11:34:39+00:00",
+    "url": "https://3dprintingindustry.com/news/nimble-a-modular-3d-printed-prosthetic-fin-for-swimmers-247027/?utm_source=rss&utm_medium=rss&utm_campaign=nimble-a-modular-3d-printed-prosthetic-fin-for-swimmers",
+    "title_en": "Nimble: A Modular 3D Printed Prosthetic Fin for Swimmers",
+    "summary_bullets_en": [
+      "Essesi Design Studio in Italy has developed Nimble, a modular prosthetic fin for swimmers.",
+      "The device is designed to help amputees swim more effectively by replacing a missing foot and lower leg.",
+      "Nimble combines a lightweight carbon-fiber shell with a 3D printed flexible rubber lattice to generate thrust and reduce stress on the residual limb."
+    ],
+    "summary_bullets_cs": [
+      "Italské studio Essesi Design Studio vyvinulo Nimble, modulární protézu ploutve pro plavce.",
+      "Zařízení je navrženo tak, aby pomáhalo amputovaným efektivněji plavat nahrazením chybějící nohy a dolní části nohy.",
+      "Nimble kombinuje lehký uhlíkový plášť s 3D tištěnou pružnou gumovou mřížkou, která generuje tah a snižuje zátěž na zbytkovou končetinu."
+    ],
+    "tags": [
+      "Hardware",
+      "Essesi Design Studio",
+      "3D Printing",
+      "Prosthetics",
+      "Swimming"
+    ]
+  },
+  {
+    "title": "Nové 3D tištěné modely očí v Evropě zlepšují praxi operací očních víček",
+    "summary": "Austrian medical training and innovation firms Addion and Eyecer.at have begun using 3D printer OEM Stratasys’ Digital Anatomy Solution to create 3D printed anatomical eye models for training in eyelid surgery. Leveraging Stratasys PolyJet 3D printing technology, Addion is producing detailed 3D printed replicas of the human eye and surrounding tissues, including skin, muscle, and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/Addion_DAP_Eyelid_Image_1-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-12-02T11:34:04+00:00",
+    "url": "https://3dprintingindustry.com/news/europes-new-3d-printed-eye-models-elevate-eyelid-surgery-practice-247017/?utm_source=rss&utm_medium=rss&utm_campaign=europes-new-3d-printed-eye-models-elevate-eyelid-surgery-practice",
+    "title_en": "Europe’s New 3D Printed Eye Models Elevate Eyelid Surgery Practice",
+    "summary_bullets_en": [
+      "Austrian firms Addion and Eyecer.at are using Stratasys’ Digital Anatomy Solution for 3D printed eye models.",
+      "The models are used for training in eyelid surgery.",
+      "Stratasys PolyJet technology allows for detailed replicas of the human eye and surrounding tissues."
+    ],
+    "summary_bullets_cs": [
+      "Rakouské firmy Addion a Eyecer.at používají řešení Digital Anatomy od Stratasys pro 3D tištěné modely očí.",
+      "Modely se používají pro školení v operacích očních víček.",
+      "Technologie PolyJet od Stratasys umožňuje detailní repliky lidského oka a okolních tkání."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "Addion",
+      "Eyecer.at",
+      "3D Printing",
+      "Medical Training"
+    ]
+  },
+  {
+    "title": "Bondtech a Prusa Research uvádějí na trh upgrade pro tiskárnu CORE One s osmi materiály",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/bondtech-and-prusa-research-launch-8-material-multi-tool-upgrade-for-core-one-printer/\" target=\"_blank\">Bondtech and Prusa Research Launch 8-Material Multi-Tool Upgrade for CORE One Printer</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">December 2</span></div><div><img alt=\"Bondtech and Prusa Research Launch 8-Material Multi-Tool Upgrade for CORE One Printer\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/CORE-One-INDX-toolhead-Custom-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/CORE-One-INDX-toolhead-Custom-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-12-02T09:41:01+00:00",
+    "url": "https://3dprinting.com/news/bondtech-and-prusa-research-launch-8-material-multi-tool-upgrade-for-core-one-printer/",
+    "title_en": "Bondtech and Prusa Research Launch 8-Material Multi-Tool Upgrade for CORE One Printer",
+    "summary_bullets_en": [
+      "Bondtech and Prusa Research have collaborated to release an upgrade for the CORE One printer.",
+      "The upgrade allows the printer to handle up to eight different materials simultaneously.",
+      "This multi-tool upgrade enhances the printer's versatility and efficiency.",
+      "The new toolhead is designed to improve the capabilities of the CORE One printer."
+    ],
+    "summary_bullets_cs": [
+      "Bondtech a Prusa Research spolupracovali na uvedení upgradu pro tiskárnu CORE One.",
+      "Upgrade umožňuje tiskárně pracovat až s osmi různými materiály současně.",
+      "Tento multi-nástrojový upgrade zvyšuje všestrannost a efektivitu tiskárny.",
+      "Nová tisková hlava je navržena pro zlepšení schopností tiskárny CORE One."
+    ],
+    "tags": [
+      "Hardware",
+      "Bondtech",
+      "Prusa Research",
+      "CORE One",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Studie odhalila vzdušné vlákna z tisku PA6-CF",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/930984998/0/fabbaloo/default~Study-Finds-Airborne-Fibers-From-PACF-Printing\" rel=\"nofollow\" title=\"Study Finds Airborne Fibers From PA6-CF Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/paht-cf-safety-cover-1-300x169.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new HI-AM study observes airborne carbon fiber particles during PA6-CF printing on a desktop FFF system.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/930984998/0/fabbaloo/default~Study-Finds-Airborne-Fibers-From-PACF-Printing\" rel=\"nofollow\">Study Finds Airborne Fibers From PA6-CF Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/paht-cf-safety-cover-1-300x169.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-12-02T09:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/930984998/0/fabbaloo/default~Study-Finds-Airborne-Fibers-From-PACF-Printing",
+    "title_en": "Study Finds Airborne Fibers From PA6-CF Printing",
+    "summary_bullets_en": [
+      "A new study by HI-AM has detected airborne carbon fiber particles during PA6-CF printing.",
+      "The research was conducted using a desktop FFF 3D printing system.",
+      "The findings highlight potential safety concerns related to the inhalation of these particles."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie HI-AM zjistila přítomnost vzdušných částic uhlíkových vláken během tisku PA6-CF.",
+      "Výzkum byl proveden pomocí stolního FFF 3D tiskového systému.",
+      "Zjištění poukazují na možné bezpečnostní obavy spojené s inhalací těchto částic."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "PA6-CF",
+      "HI-AM",
+      "3D Printing Safety"
+    ]
+  },
+  {
+    "title": "BLT se rozšiřuje v Africe díky partnerství s AMT3D",
+    "summary": "Xi’an Bright Laser Technologies Co., Ltd (BLT), a global provider of metal additive manufacturing solutions, has signed a distribution agreement with AMT3D, a South African company specializing in industrial 3D printing systems. Effective September 17, 2025, the partnership covers Sub-Saharan Africa and authorizes AMT3D to provide sales, application support, and local technical service for selected [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/1764317976066-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-12-02T08:17:24+00:00",
+    "url": "https://3dprintingindustry.com/news/blt-expands-in-africa-with-amt3d-partnership-246998/?utm_source=rss&utm_medium=rss&utm_campaign=blt-expands-in-africa-with-amt3d-partnership",
+    "title_en": "BLT expands in Africa with AMT3D partnership",
+    "summary_bullets_en": [
+      "BLT has signed a distribution agreement with AMT3D.",
+      "The partnership focuses on Sub-Saharan Africa.",
+      "AMT3D will provide sales, application support, and technical service for BLT."
+    ],
+    "summary_bullets_cs": [
+      "BLT podepsala distribuční smlouvu s AMT3D.",
+      "Partnerství se zaměřuje na subsaharskou Afriku.",
+      "AMT3D bude poskytovat prodej, aplikační podporu a technický servis pro BLT."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "BLT",
+      "AMT3D",
+      "3D Printing",
+      "Africa"
+    ]
+  },
+  {
+    "title": "DNV aktualizuje standard 3D tisku pro snížení nákladů a emisí uhlíku",
+    "summary": "DNV, a global independent energy expert and assurance provider, has released a revised edition of its additive manufacturing (AM) standard DNV-ST-B203, extending its scope to polymer parts and adding new sustainability and qualification requirements. Developed under the ProGRAM Joint Industry Project (JIP), the update aims to accelerate the secure and sustainable adoption of 3D printing [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/20221219-dnv-st-b203-additive-manufacturing-pr-w1288xh511pxl-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-12-02T08:14:57+00:00",
+    "url": "https://3dprintingindustry.com/news/dnv-updates-3d-printing-standard-to-cut-costs-and-carbon-emissions-247003/?utm_source=rss&utm_medium=rss&utm_campaign=dnv-updates-3d-printing-standard-to-cut-costs-and-carbon-emissions",
+    "title_en": "DNV updates 3D printing standard to cut costs and carbon emissions",
+    "summary_bullets_en": [
+      "DNV has released a revised edition of its additive manufacturing standard DNV-ST-B203.",
+      "The update extends the standard's scope to include polymer parts.",
+      "New sustainability and qualification requirements have been added.",
+      "The update is part of the ProGRAM Joint Industry Project to promote secure and sustainable 3D printing adoption."
+    ],
+    "summary_bullets_cs": [
+      "DNV vydala revidovanou edici svého standardu pro aditivní výrobu DNV-ST-B203.",
+      "Aktualizace rozšiřuje rozsah standardu o polymerové díly.",
+      "Byly přidány nové požadavky na udržitelnost a kvalifikaci.",
+      "Aktualizace je součástí projektu ProGRAM Joint Industry Project pro podporu bezpečného a udržitelného přijetí 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "DNV",
+      "3D Printing",
+      "Sustainability"
+    ]
+  },
+  {
     "title": "Recreus navrhuje standard 2,20 mm pro FilaFlex ke zlepšení rychlosti a spolehlivosti tisku TPU",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/930752885/0/fabbaloo/default~Recreus-Proposes-mm-FilaFlex-Standard-to-Improve-TPU-Print-Speed-and-Reliability\" rel=\"nofollow\" title=\"Recreus Proposes 2.20mm FilaFlex Standard to Improve TPU Print Speed and Reliability\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/filaflex220-cover-300x127.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Announced last week, Recreus has proposed a dramatic change to filament standards.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/930752885/0/fabbaloo/default~Recreus-Proposes-mm-FilaFlex-Standard-to-Improve-TPU-Print-Speed-and-Reliability\" rel=\"nofollow\">Recreus Proposes 2.20mm FilaFlex Standard to Improve TPU Print Speed and Reliability</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/filaflex220-cover-300x127.jpeg",
