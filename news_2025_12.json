@@ -1,5 +1,162 @@
 [
   {
+    "title": "Výzkumníci 3D tisknou CNT/hliníkové nanokompozity pomocí aditivní třecí extruze",
+    "summary": "Researchers from the Shenyang National Laboratory for Materials Science, Institute of Metal Research at the Chinese Academy of Sciences, working with the University of Science and Technology of China, have demonstrated a solid-state additive manufacturing route for producing aluminum-based nanocomposites that do not require post-heat treatment. Published on Springer Nature, the study introduces additive friction [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/Schematic-diagram-showing-the-formation-of-MgO-and-Al2O3-particles-around-CNT-fragments-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-12-03T11:20:29+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-3d-print-cnt-aluminum-nanocomposites-via-additive-friction-extrusion-247046/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-3d-print-cnt-aluminum-nanocomposites-via-additive-friction-extrusion",
+    "title_en": "Researchers 3D Print CNT/Aluminum Nanocomposites via Additive Friction Extrusion",
+    "summary_bullets_en": [
+      "Researchers from the Shenyang National Laboratory for Materials Science and the University of Science and Technology of China have developed a new method for 3D printing aluminum-based nanocomposites.",
+      "The method, called additive friction extrusion, allows for the production of these composites without the need for post-heat treatment.",
+      "This solid-state additive manufacturing technique could lead to more efficient production processes for advanced materials."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Národní laboratoře pro materiálové vědy v Šen-jangu a Univerzity vědy a technologie Číny vyvinuli novou metodu pro 3D tisk hliníkových nanokompozitů.",
+      "Metoda nazvaná aditivní třecí extruze umožňuje výrobu těchto kompozitů bez potřeby následného tepelného zpracování.",
+      "Tato technika aditivní výroby v pevném stavu by mohla vést k efektivnějším výrobním procesům pro pokročilé materiály."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Nanocomposites",
+      "Additive Manufacturing",
+      "Chinese Academy of Sciences",
+      "University of Science and Technology of China"
+    ]
+  },
+  {
+    "title": "Stratasys představuje nové materiály a softwarové možnosti na Formnext 2025",
+    "summary": "3D printer OEM Stratasys launched an extensive suite of material and process innovations across its FDM, SAF, P3 DLP, and software platforms at Formnext 2025. Attendees were shown updates aimed at improving material flexibility, stabilizing print behavior, and reducing the amount of manual intervention that many additive workflows still require. These exhibitions also included the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/Stratasys-at-Formnext-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-12-03T11:20:00+00:00",
+    "url": "https://3dprintingindustry.com/news/stratasys-rolls-out-new-materials-and-software-capabilities-at-formnext-2025-247040/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-rolls-out-new-materials-and-software-capabilities-at-formnext-2025",
+    "title_en": "Stratasys Rolls Out New Materials and Software Capabilities at Formnext 2025",
+    "summary_bullets_en": [
+      "Stratasys introduced new material and process innovations at Formnext 2025.",
+      "The updates span across FDM, SAF, P3 DLP, and software platforms.",
+      "The innovations aim to enhance material flexibility and stabilize print behavior.",
+      "Efforts are made to reduce manual intervention in additive workflows."
+    ],
+    "summary_bullets_cs": [
+      "Stratasys představil nové inovace v oblasti materiálů a procesů na Formnext 2025.",
+      "Aktualizace se týkají platforem FDM, SAF, P3 DLP a softwaru.",
+      "Inovace mají za cíl zlepšit flexibilitu materiálů a stabilizovat chování tisku.",
+      "Snahou je snížit množství manuálních zásahů v aditivních pracovních postupech."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Stratasys",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "Base Materials spouští službu velkoformátového 3D tisku",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/base-materials-launches-large-format-3d-printing-service/\" target=\"_blank\">Base Materials Launches Large-Format 3D Printing Service</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">December 3</span></div><div><img alt=\"Base Materials Launches Large-Format 3D Printing Service\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/839980084-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/839980084-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-12-03T09:47:45+00:00",
+    "url": "https://3dprinting.com/news/base-materials-launches-large-format-3d-printing-service/",
+    "title_en": "Base Materials Launches Large-Format 3D Printing Service",
+    "summary_bullets_en": [
+      "Base Materials has introduced a new large-format 3D printing service.",
+      "The service aims to cater to industries requiring large-scale prototypes and parts.",
+      "This new offering is expected to enhance production capabilities and reduce lead times."
+    ],
+    "summary_bullets_cs": [
+      "Base Materials představila novou službu velkoformátového 3D tisku.",
+      "Služba je zaměřena na průmysly vyžadující velkorozměrové prototypy a díly.",
+      "Tato nová nabídka by měla zlepšit výrobní kapacity a zkrátit dodací lhůty."
+    ],
+    "tags": [
+      "Services",
+      "Base Materials",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Studie optimalizuje geometrie trysek FFF pro rychlost",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/931084142/0/fabbaloo/default~Study-Optimizes-FFF-Nozzle-Geometry-For-Speed\" rel=\"nofollow\" title=\"Study Optimizes FFF Nozzle Geometry For Speed\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/nozzle-geometry-pressure-cover-300x183.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new study models how FFF nozzle shape drives pressure loss, hinting at higher print speeds without larger heaters or motors.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/931084142/0/fabbaloo/default~Study-Optimizes-FFF-Nozzle-Geometry-For-Speed\" rel=\"nofollow\">Study Optimizes FFF Nozzle Geometry For Speed</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/nozzle-geometry-pressure-cover-300x183.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-12-03T09:21:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/931084142/0/fabbaloo/default~Study-Optimizes-FFF-Nozzle-Geometry-For-Speed",
+    "title_en": "Study Optimizes FFF Nozzle Geometry For Speed",
+    "summary_bullets_en": [
+      "A new study investigates the impact of FFF nozzle shape on pressure loss.",
+      "The findings suggest potential for higher print speeds without needing larger heaters or motors.",
+      "Optimizing nozzle geometry could enhance efficiency in 3D printing processes."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie zkoumá vliv tvaru trysek FFF na ztrátu tlaku.",
+      "Zjištění naznačují možnost vyšších tiskových rychlostí bez potřeby větších ohřívačů nebo motorů.",
+      "Optimalizace geometrie trysek by mohla zlepšit efektivitu procesů 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "FFF",
+      "3D Printing",
+      "Nozzle Geometry"
+    ]
+  },
+  {
+    "title": "Britská společnost Base Materials spouští službu velkoformátového 3D tisku",
+    "summary": "Tooling has been one of the additive manufacturing (AM) industry’s biggest success stories for quite some time, but the market is still in its early phases. One factor giving this...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/12/IMG_2038.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-12-03T07:30:36+00:00",
+    "url": "https://3dprint.com/322480/uks-base-materials-launches-large-format-3d-printing-service/",
+    "title_en": "UK’s Base Materials Launches Large-Format 3D Printing Service",
+    "summary_bullets_en": [
+      "Base Materials in the UK has introduced a new large-format 3D printing service.",
+      "The service aims to enhance the tooling sector within the additive manufacturing industry.",
+      "Despite the success of tooling in AM, the market is still considered to be in its early stages."
+    ],
+    "summary_bullets_cs": [
+      "Base Materials ve Velké Británii představila novou službu velkoformátového 3D tisku.",
+      "Služba má za cíl posílit sektor nástrojů v rámci průmyslu aditivní výroby.",
+      "I přes úspěch nástrojů v aditivní výrobě je trh stále považován za v rané fázi."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Base Materials",
+      "Additive Manufacturing",
+      "Tooling"
+    ]
+  },
+  {
+    "title": "Lídr v robotice Comau rozšíří schopnosti aditivní výroby v projektu financovaném EU",
+    "summary": "One could argue that the growth of additive manufacturing (AM) adoption proceeds at the pace at which the barriers to entry involved in post-processing are lowered. In other words, the...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/12/IMG_2040.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-12-03T07:00:36+00:00",
+    "url": "https://3dprint.com/322483/robotics-leader-comau-to-advance-am-capabilities-in-eu-funded-project/",
+    "title_en": "Robotics Leader Comau to Advance AM Capabilities in EU-Funded Project",
+    "summary_bullets_en": [
+      "Comau, a leader in robotics, is set to enhance additive manufacturing (AM) capabilities through a new EU-funded project.",
+      "The project aims to lower the barriers to entry in post-processing, which is crucial for the growth of AM adoption.",
+      "By improving post-processing, the project seeks to make AM more accessible and efficient for various industries."
+    ],
+    "summary_bullets_cs": [
+      "Comau, lídr v oblasti robotiky, se chystá rozšířit schopnosti aditivní výroby prostřednictvím nového projektu financovaného EU.",
+      "Projekt si klade za cíl snížit bariéry vstupu v oblasti post-processingu, což je klíčové pro růst přijetí aditivní výroby.",
+      "Zlepšením post-processingu se projekt snaží učinit aditivní výrobu přístupnější a efektivnější pro různé průmyslové odvětví."
+    ],
+    "tags": [
+      "Hardware",
+      "Comau",
+      "Additive Manufacturing",
+      "EU Project",
+      "Post-Processing"
+    ]
+  },
+  {
     "title": "Seznamy v konkurenčních zprávách o 3D tiskárnách potravin odhalují vymyšlená data a zastaralé zdroje",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/931003250/0/fabbaloo/default~Industry-Lists-in-Competing-D-Food-Printer-Reports-Reveal-Fabricated-Data-and-Outdated-Sources\" rel=\"nofollow\" title=\"Industry Lists in Competing 3D Food Printer Reports Reveal Fabricated Data and Outdated Sources\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/market-report-datam-cover-300x71.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>I found yet another absurd 3D printing market report, and this time I am comparing two sets of truly ridiculous results.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/931003250/0/fabbaloo/default~Industry-Lists-in-Competing-D-Food-Printer-Reports-Reveal-Fabricated-Data-and-Outdated-Sources\" rel=\"nofollow\">Industry Lists in Competing 3D Food Printer Reports Reveal Fabricated Data and Outdated Sources</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/market-report-datam-cover-300x71.jpg",
