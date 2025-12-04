@@ -1,5 +1,109 @@
 [
   {
+    "title": "Výroba s přídavným drátem řízená daty pro Průmysl 4.0",
+    "summary": "A new study from RWTH Aachen University, published in Nature, presents a connected, digitalized approach to Wire Arc Additive Manufacturing (WAAM) that demonstrates how cyber-physical systems can operationalize Industrie 4.0 principles in practice. The research introduces a three-layer framework—workpiece, assembly, and product—that structures how data, security, and stakeholder interactions function across manufacturing networks. Using data-driven [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/Networked-product-quality-for-WAAM-according-to-Jodelbauer-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2025-12-04T10:45:29+00:00",
+    "url": "https://3dprintingindustry.com/news/data-driven-wire-arc-additive-manufacturing-for-industrie-4-0-247062/?utm_source=rss&utm_medium=rss&utm_campaign=data-driven-wire-arc-additive-manufacturing-for-industrie-4-0",
+    "title_en": "Data-Driven Wire Arc Additive Manufacturing for Industrie 4.0",
+    "summary_bullets_en": [
+      "A study from RWTH Aachen University explores a digitalized approach to Wire Arc Additive Manufacturing (WAAM).",
+      "The research highlights the use of cyber-physical systems to implement Industrie 4.0 principles.",
+      "A three-layer framework is introduced to manage data, security, and stakeholder interactions in manufacturing networks."
+    ],
+    "summary_bullets_cs": [
+      "Studie z RWTH Aachen University zkoumá digitalizovaný přístup k výrobě s přídavným drátem (WAAM).",
+      "Výzkum zdůrazňuje využití kyber-fyzikálních systémů k implementaci principů Průmyslu 4.0.",
+      "Představuje se třívrstvý rámec pro řízení dat, bezpečnosti a interakcí mezi zainteresovanými stranami v výrobních sítích."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "RWTH Aachen University",
+      "Industrie 4.0",
+      "Wire Arc Additive Manufacturing",
+      "Cyber-Physical Systems"
+    ]
+  },
+  {
+    "title": "Výzkumníci z UCL identifikovali dva nové mechanismy tvorby rozstřiku v kovovém 3D tisku",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/ucl-researchers-identify-two-new-spatter-formation-mechanisms-in-metal-3d-printing/\" target=\"_blank\">UCL Researchers Identify Two New Spatter Formation Mechanisms in Metal 3D Printing</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">December 4</span></div><div><img alt=\"UCL Researchers Identify Two New Spatter Formation Mechanisms in Metal 3D Printing\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"381\" src=\"https://3dprinting.com/wp-content/uploads/Case-study-laser-x-ray.png.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"330\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/Case-study-laser-x-ray.png.webp",
+    "source": "3DPrinting.com",
+    "published": "2025-12-04T09:53:29+00:00",
+    "url": "https://3dprinting.com/news/ucl-researchers-identify-two-new-spatter-formation-mechanisms-in-metal-3d-printing/",
+    "title_en": "UCL Researchers Identify Two New Spatter Formation Mechanisms in Metal 3D Printing",
+    "summary_bullets_en": [
+      "Researchers at University College London have discovered two new mechanisms that cause spatter formation in metal 3D printing.",
+      "These findings could help improve the quality and reliability of metal 3D printed parts.",
+      "The study utilized advanced imaging techniques to observe the spatter formation process in real-time."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University College London objevili dva nové mechanismy, které způsobují tvorbu rozstřiku v kovovém 3D tisku.",
+      "Tato zjištění by mohla pomoci zlepšit kvalitu a spolehlivost kovových 3D tištěných dílů.",
+      "Studie využila pokročilé zobrazovací techniky k pozorování procesu tvorby rozstřiku v reálném čase."
+    ],
+    "tags": [
+      "Hardware",
+      "UCL",
+      "Metal 3D Printing",
+      "Research"
+    ]
+  },
+  {
+    "title": "Výzkumníci 3D tisknou přizpůsobené kostice podprsenek pro pohodlí",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/931281635/0/fabbaloo/default~Researchers-D-Print-Custom-Bra-Underwires-For-Comfort\" rel=\"nofollow\" title=\"Researchers 3D Print Custom Bra Underwires For Comfort\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/underwire-analysis-cover-300x158.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new study proposes 3D printed, customized bra underwires to improve pressure distribution and comfort — a fresh consumer application for additive manufacturing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/931281635/0/fabbaloo/default~Researchers-D-Print-Custom-Bra-Underwires-For-Comfort\" rel=\"nofollow\">Researchers 3D Print Custom Bra Underwires For Comfort</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/underwire-analysis-cover-300x158.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-12-04T09:38:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/931281635/0/fabbaloo/default~Researchers-D-Print-Custom-Bra-Underwires-For-Comfort",
+    "title_en": "Researchers 3D Print Custom Bra Underwires For Comfort",
+    "summary_bullets_en": [
+      "A new study explores the use of 3D printing to create customized bra underwires.",
+      "The goal is to improve pressure distribution and enhance comfort for wearers.",
+      "This represents a novel consumer application of additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie zkoumá využití 3D tisku pro výrobu přizpůsobených kostic podprsenek.",
+      "Cílem je zlepšit rozložení tlaku a zvýšit pohodlí pro nositelky.",
+      "Jedná se o novou spotřebitelskou aplikaci aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Consumer Products"
+    ]
+  },
+  {
+    "title": "Revoluční aplikace 3D tisku: Sedadla v letadlech",
+    "summary": "After the success of 3D printed bike seats, many types of pads have been explored, from backpack pads to those for boxing gloves and helmets. But can we also find...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/11/ai-blog-3.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-12-04T08:00:29+00:00",
+    "url": "https://3dprint.com/321849/killer-3d-printing-applications-aircraft-seating/",
+    "title_en": "Killer 3D Printing Applications: Aircraft Seating",
+    "summary_bullets_en": [
+      "3D printing has been successfully applied to bike seats, leading to exploration in other padding applications.",
+      "Innovations include 3D printed pads for backpacks, boxing gloves, and helmets.",
+      "The potential for 3D printing in aircraft seating is being investigated.",
+      "The technology could revolutionize comfort and customization in aviation seating."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk byl úspěšně použit pro sedadla na kolech, což vedlo k dalšímu zkoumání aplikací pro různé typy polstrování.",
+      "Inovace zahrnují 3D tištěné polštářky pro batohy, boxerské rukavice a přilby.",
+      "Zkoumá se potenciál 3D tisku pro sedadla v letadlech.",
+      "Technologie by mohla revolučně změnit pohodlí a přizpůsobení sedadel v letectví."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Aircraft Seating",
+      "Innovation"
+    ]
+  },
+  {
     "title": "Emocionální rozloučení s prvními 3D tiskárnami, jak roste posun k rychlejšímu a chytřejšímu hardwaru",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/931249472/0/fabbaloo/default~Emotional-Farewells-to-First-D-Printers-as-Shift-Toward-Faster-Smarter-Hardware-Grows\" rel=\"nofollow\" title=\"Emotional Farewells to First 3D Printers as Shift Toward Faster, Smarter Hardware Grows\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/ender-3-disposal-cover-300x203.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>What should you do with your beloved — and now obsolete — desktop 3D printer?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/931249472/0/fabbaloo/default~Emotional-Farewells-to-First-D-Printers-as-Shift-Toward-Faster-Smarter-Hardware-Grows\" rel=\"nofollow\">Emotional Farewells to First 3D Printers as Shift Toward Faster, Smarter Hardware Grows</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/ender-3-disposal-cover-300x203.jpeg",
