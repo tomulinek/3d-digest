@@ -1,5 +1,107 @@
 [
   {
+    "title": "Virginia Tech obdržela grant 3,5 milionu dolarů od NSF na výzkum více-směrného robotického 3D tisku",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/virginia-tech-receives-3-5m-nsf-grant-for-multi-directional-robotic-3d-printing-research/\" target=\"_blank\">Virginia Tech Receives $3.5M NSF Grant for Multi-Directional Robotic 3D Printing Research</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">December 5</span></div><div><img alt=\"Virginia Tech Receives $3.5M NSF Grant for Multi-Directional Robotic 3D Printing Research\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"499\" src=\"https://3dprinting.com/wp-content/uploads/864897974-500x499.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/864897974-500x499.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-12-05T10:00:32+00:00",
+    "url": "https://3dprinting.com/news/virginia-tech-receives-3-5m-nsf-grant-for-multi-directional-robotic-3d-printing-research/",
+    "title_en": "Virginia Tech Receives $3.5M NSF Grant for Multi-Directional Robotic 3D Printing Research",
+    "summary_bullets_en": [
+      "Virginia Tech has been awarded a $3.5 million grant from the National Science Foundation.",
+      "The grant will fund research into multi-directional robotic 3D printing technology.",
+      "This research aims to advance the capabilities and applications of 3D printing in various industries."
+    ],
+    "summary_bullets_cs": [
+      "Virginia Tech získala grant ve výši 3,5 milionu dolarů od Národní vědecké nadace.",
+      "Grant bude financovat výzkum technologie více-směrného robotického 3D tisku.",
+      "Tento výzkum má za cíl pokročit v možnostech a aplikacích 3D tisku v různých průmyslových odvětvích."
+    ],
+    "tags": [
+      "Hardware",
+      "Virginia Tech",
+      "NSF",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Větší trysky zvyšují pevnost PLA, zjistila studie",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/931521989/0/fabbaloo/default~Bigger-Nozzles-Boost-PLA-Strength-Study-Finds\" rel=\"nofollow\" title=\"Bigger Nozzles Boost PLA Strength, Study Finds\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/nozzle-width-strength-cover-300x232.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new study links larger FFF nozzle diameters to stronger PLA parts, with modeling to back it up.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/931521989/0/fabbaloo/default~Bigger-Nozzles-Boost-PLA-Strength-Study-Finds\" rel=\"nofollow\">Bigger Nozzles Boost PLA Strength, Study Finds</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/nozzle-width-strength-cover-300x232.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-12-05T09:40:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/931521989/0/fabbaloo/default~Bigger-Nozzles-Boost-PLA-Strength-Study-Finds",
+    "title_en": "Bigger Nozzles Boost PLA Strength, Study Finds",
+    "summary_bullets_en": [
+      "A new study shows that larger FFF nozzle diameters lead to stronger PLA parts.",
+      "The research includes modeling to support the findings.",
+      "The study suggests potential improvements in 3D printing efficiency and part durability."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie ukazuje, že větší průměry trysek FFF vedou k pevnějším dílům z PLA.",
+      "Výzkum zahrnuje modelování na podporu těchto zjištění.",
+      "Studie naznačuje možné zlepšení efektivity 3D tisku a odolnosti dílů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "PLA",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "První satelitní kampus Colorado School of Mines je součástí AM Hubu ASTRO na Guamu",
+    "summary": "As I posted about last month, the Guam Additive Materials and Manufacturing Accelerator (GAMMA), a joint project of the Applied Science and Technology Organization (ASTRO) America and the Government of...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/12/IMG_2050.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-12-05T07:30:32+00:00",
+    "url": "https://3dprint.com/322539/colorado-school-of-mines-first-satellite-campus-is-part-of-astros-am-hub-in-guam/",
+    "title_en": "Colorado School of Mines’ First Satellite Campus is Part of ASTRO’s AM Hub in Guam",
+    "summary_bullets_en": [
+      "The Guam Additive Materials and Manufacturing Accelerator (GAMMA) is a collaboration between ASTRO America and the Government of Guam.",
+      "Colorado School of Mines is establishing its first satellite campus as part of this initiative.",
+      "The project aims to advance additive manufacturing technologies and education in the region."
+    ],
+    "summary_bullets_cs": [
+      "Guam Additive Materials and Manufacturing Accelerator (GAMMA) je spolupráce mezi ASTRO America a vládou Guamu.",
+      "Colorado School of Mines zakládá svůj první satelitní kampus jako součást této iniciativy.",
+      "Projekt má za cíl pokročit v technologiích aditivní výroby a vzdělávání v regionu."
+    ],
+    "tags": [
+      "Hardware",
+      "Education",
+      "ASTRO America",
+      "Colorado School of Mines",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Nová továrna na 3D tištěné vodíkové články byla právě spuštěna v Katalánsku",
+    "summary": "The Catalonia Institute for Energy Research (IREC) has opened a pilot plant that 3D prints advanced ceramic devices for renewable hydrogen systems. It’s described as the first facility on the...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/12/Merce-Lab-web2025.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-12-05T07:00:52+00:00",
+    "url": "https://3dprint.com/322558/the-worlds-first-3d-printed-hydrogen-cell-factory-just-switched-on-in-catalonia/",
+    "title_en": "New 3D Printed Hydrogen Cell Factory Just Switched On in Catalonia",
+    "summary_bullets_en": [
+      "The Catalonia Institute for Energy Research (IREC) has launched a pilot plant.",
+      "The facility 3D prints advanced ceramic devices for renewable hydrogen systems.",
+      "It is the first of its kind in the region."
+    ],
+    "summary_bullets_cs": [
+      "Institut pro výzkum energie v Katalánsku (IREC) otevřel pilotní závod.",
+      "Zařízení tiskne pokročilé keramické zařízení pro obnovitelné vodíkové systémy.",
+      "Je popisováno jako první svého druhu v regionu."
+    ],
+    "tags": [
+      "Hardware",
+      "Catalonia Institute for Energy Research",
+      "3D Printing",
+      "Renewable Energy",
+      "Hydrogen"
+    ]
+  },
+  {
     "title": "6K Additive vstupuje na burzu ASX",
     "summary": "After years of negative investor sentiment in public markets, the additive manufacturing (AM) industry has seen a modest resurgence in Initial Public Offering (IPO) interest in 2025. Back in August,...",
     "image": "https://3dprint.com/wp-content/uploads/2025/12/IMG_7115.jpeg",
