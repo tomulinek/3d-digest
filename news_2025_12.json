@@ -1,5 +1,60 @@
 [
   {
+    "title": "Novinky ze světa 3D tisku, 6. prosince 2025: AutoSmooth, tkáňové inženýrství, mikro-optika a další",
+    "summary": "We&#8217;re starting with post-processing news in today&#8217;s 3D Printing News Briefs, as AM Solutions shares the latest results from the AutoSmooth Project. CONSTRUCT3D launched a new 3D printer, while 3DXTECH...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/12/IMG_AutoSmooth_CMF_Green-part-to-finished-surface-1024x683.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-12-06T13:30:17+00:00",
+    "url": "https://3dprint.com/322516/3d-printing-news-briefs-12-6-2025/",
+    "title_en": "3D Printing News Briefs, December 6, 2025: AutoSmooth, Tissue Engineering, Micro-Optics, & More",
+    "summary_bullets_en": [
+      "AM Solutions reports new results from the AutoSmooth Project, focusing on post-processing advancements.",
+      "CONSTRUCT3D has launched a new 3D printer, expanding their product lineup.",
+      "3DXTECH is involved in the latest developments in tissue engineering and micro-optics."
+    ],
+    "summary_bullets_cs": [
+      "AM Solutions sdílí nejnovější výsledky z projektu AutoSmooth, zaměřeného na pokroky v post-processingu.",
+      "CONSTRUCT3D uvedl na trh novou 3D tiskárnu, čímž rozšířil svou produktovou řadu.",
+      "3DXTECH se podílí na nejnovějším vývoji v oblasti tkáňového inženýrství a mikro-optiky."
+    ],
+    "tags": [
+      "Hardware",
+      "AM Solutions",
+      "CONSTRUCT3D",
+      "3DXTECH",
+      "Tissue Engineering",
+      "Micro-Optics"
+    ]
+  },
+  {
+    "title": "3D tištěná měď vs. mikrofluidika v čipu: Která chladicí technologie umožní AI datové centrum?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/931769171/0/fabbaloo/default~D-Printed-Copper-vs-InChip-Microfluidics-Which-Cooling-Technology-Will-Enable-the-AI-Data-Center\" rel=\"nofollow\" title=\"3D Printed Copper vs. In-Chip Microfluidics: Which Cooling Technology Will Enable the AI Data Center?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/Microf1-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Anthony Palumbo and Charles Goulding examine how 3D printed copper cold plates and in-chip microfluidic silicon are reshaping AI data center cooling, positioning copper as the rack-ready solution deployable today and in-chip microfluidics as the long-term leap, both enabled by additive manufacturing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/931769171/0/fabbaloo/default~D-Printed-Copper-vs-InChip-Microfluidics-Which-Cooling-Technology-Will-Enable-the-AI-Data-Center\" rel=\"nofollow\">3D Printed Copper vs. In-Chip Microfluidics: Which Cooling Technology Will Enable the AI Data Center?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/Microf1-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-12-06T13:29:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/931769171/0/fabbaloo/default~D-Printed-Copper-vs-InChip-Microfluidics-Which-Cooling-Technology-Will-Enable-the-AI-Data-Center",
+    "title_en": "3D Printed Copper vs. In-Chip Microfluidics: Which Cooling Technology Will Enable the AI Data Center?",
+    "summary_bullets_en": [
+      "3D printed copper cold plates and in-chip microfluidic silicon are transforming AI data center cooling.",
+      "Copper is positioned as a ready-to-deploy solution for current data center needs.",
+      "In-chip microfluidics represents a long-term innovation for future cooling solutions.",
+      "Both technologies are enabled by advancements in additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "3D tištěné měděné chladicí desky a mikrofluidní křemík v čipu mění chlazení AI datových center.",
+      "Měď je považována za řešení připravené k nasazení pro současné potřeby datových center.",
+      "Mikrofluidika v čipu představuje dlouhodobou inovaci pro budoucí chladicí řešení.",
+      "Obě technologie jsou umožněny pokroky v aditivní výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "AI Data Centers",
+      "Cooling Technology",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Válka na Ukrajině zvyšuje poptávku po aditivní výrobě s rostoucí produkcí dronů",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/931537745/0/fabbaloo/default~War-in-Ukraine-Accelerates-Demand-for-Additive-Manufacturing-as-Drone-Production-Scales-Up\" rel=\"nofollow\" title=\"War in Ukraine Accelerates Demand for Additive Manufacturing as Drone Production Scales Up\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/massivit-defense-cover-300x167.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>While the war in Ukraine may be far away for many Fabbaloo readers, its shadow is covering many 3D print companies.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/931537745/0/fabbaloo/default~War-in-Ukraine-Accelerates-Demand-for-Additive-Manufacturing-as-Drone-Production-Scales-Up\" rel=\"nofollow\">War in Ukraine Accelerates Demand for Additive Manufacturing as Drone Production Scales Up</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/massivit-defense-cover-300x167.jpg",
