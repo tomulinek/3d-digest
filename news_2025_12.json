@@ -1,5 +1,133 @@
 [
   {
+    "title": "Testování miniaturizovaným úderem hodnotí 3D tištěnou nerezovou ocel",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/932247824/0/fabbaloo/default~Miniature-Punch-Testing-Evaluates-D-Printed-Stainless-Steel\" rel=\"nofollow\" title=\"Miniature Punch Testing Evaluates 3D Printed Stainless Steel\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/steel-punch-cover-300x186.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new study uses miniaturized small punch testing to probe the mechanical behavior of 3D printed stainless steel, a promising route to faster and less wasteful qualification in metal AM.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/932247824/0/fabbaloo/default~Miniature-Punch-Testing-Evaluates-D-Printed-Stainless-Steel\" rel=\"nofollow\">Miniature Punch Testing Evaluates 3D Printed Stainless Steel</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/steel-punch-cover-300x186.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-12-08T09:45:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/932247824/0/fabbaloo/default~Miniature-Punch-Testing-Evaluates-D-Printed-Stainless-Steel",
+    "title_en": "Miniature Punch Testing Evaluates 3D Printed Stainless Steel",
+    "summary_bullets_en": [
+      "A new study employs miniaturized small punch testing to assess the mechanical properties of 3D printed stainless steel.",
+      "This method offers a promising approach to faster and less wasteful qualification in metal additive manufacturing.",
+      "The study highlights the potential of small punch testing in improving the efficiency of evaluating 3D printed metal components."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie využívá miniaturizované testování úderem k posouzení mechanických vlastností 3D tištěné nerezové oceli.",
+      "Tato metoda nabízí slibnou cestu k rychlejší a méně plýtvavé kvalifikaci v kovovém aditivním výrobě.",
+      "Studie zdůrazňuje potenciál testování úderem pro zlepšení efektivity hodnocení 3D tištěných kovových komponentů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Stainless Steel",
+      "Metal Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Španělský výzkumný institut spouští pilotní linku pro výrobu vodíkových palivových článků pomocí 3D tisku",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/spanish-research-institute-launches-3d-printing-pilot-line-for-hydrogen-fuel-cell-production/\" target=\"_blank\">Spanish Research Institute Launches 3D Printing Pilot Line for Hydrogen Fuel Cell Production</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">December 8</span></div><div><img alt=\"Spanish Research Institute Launches 3D Printing Pilot Line for Hydrogen Fuel Cell Production\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/Merce-Lab-web2025-500x500.png\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/Merce-Lab-web2025-500x500.png",
+    "source": "3DPrinting.com",
+    "published": "2025-12-08T09:30:17+00:00",
+    "url": "https://3dprinting.com/news/spanish-research-institute-launches-3d-printing-pilot-line-for-hydrogen-fuel-cell-production/",
+    "title_en": "Spanish Research Institute Launches 3D Printing Pilot Line for Hydrogen Fuel Cell Production",
+    "summary_bullets_en": [
+      "A Spanish research institute has initiated a pilot line using 3D printing technology for the production of hydrogen fuel cells.",
+      "The project aims to enhance the efficiency and reduce the cost of hydrogen fuel cell manufacturing.",
+      "3D printing is expected to allow for more precise and customizable production processes.",
+      "This initiative is part of a broader effort to advance sustainable energy solutions."
+    ],
+    "summary_bullets_cs": [
+      "Španělský výzkumný institut zahájil pilotní linku využívající technologii 3D tisku pro výrobu vodíkových palivových článků.",
+      "Projekt si klade za cíl zvýšit efektivitu a snížit náklady na výrobu vodíkových palivových článků.",
+      "3D tisk by měl umožnit přesnější a přizpůsobitelnější výrobní procesy.",
+      "Tato iniciativa je součástí širšího úsilí o pokrok v oblasti udržitelných energetických řešení."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Hydrogen Fuel Cells",
+      "Sustainable Energy"
+    ]
+  },
+  {
+    "title": "RadioMatrix: Stratasys rozšiřuje přístup k pacientům specifickému radiopáknímu 3D tisku pro lékařské zobrazování",
+    "summary": "3D printer OEM Stratasys has announced that its RadioMatrix radiopaque 3D printing material is now fully commercially available in the United States. Previously deployed in limited settings, the material can now be widely used by healthcare providers, medical device manufacturers, and research institutions for advanced medical imaging, education, and training purposes. According to the company, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/Stratasys_RadioMatrix_US_PR_Image-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-12-08T09:29:26+00:00",
+    "url": "https://3dprintingindustry.com/news/radiomatrix-stratasys-expands-access-to-patient-specific-radiopaque-3d-printing-for-medical-imaging-247076/?utm_source=rss&utm_medium=rss&utm_campaign=radiomatrix-stratasys-expands-access-to-patient-specific-radiopaque-3d-printing-for-medical-imaging",
+    "title_en": "RadioMatrix: Stratasys Expands Access to Patient-Specific Radiopaque 3D Printing for Medical Imaging",
+    "summary_bullets_en": [
+      "Stratasys has made its RadioMatrix radiopaque 3D printing material fully commercially available in the United States.",
+      "The material was previously used in limited settings but can now be widely accessed by healthcare providers and medical device manufacturers.",
+      "RadioMatrix is intended for advanced medical imaging, education, and training purposes."
+    ],
+    "summary_bullets_cs": [
+      "Stratasys zpřístupnil svůj radiopákní 3D tiskový materiál RadioMatrix plně komerčně ve Spojených státech.",
+      "Materiál byl dříve používán v omezených prostředích, ale nyní je široce dostupný pro poskytovatele zdravotní péče a výrobce lékařských zařízení.",
+      "RadioMatrix je určen pro pokročilé lékařské zobrazování, vzdělávání a školení."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Stratasys",
+      "Medical Imaging"
+    ]
+  },
+  {
+    "title": "Stratasys hlásí finanční výsledky za 3. čtvrtletí s poklesem příjmů o 2,1 %",
+    "summary": "3D printer OEM Stratasys (NASDAQ: SSYS) announced its financial results for the third quarter (Q3) of 2025. Revenue for the quarter was $137.0 million, down 2.1% Y/Y from $140.0 million and down 0.8% Q/Q from $138.1 million in the previous quarter, underscoring the lingering caution in capital equipment spending that has weighed on much of [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/Toyota_image_2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-12-08T09:05:30+00:00",
+    "url": "https://3dprintingindustry.com/news/stratasys-reports-its-q3-financial-results-posting-2-1-revenue-decline-247107/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-reports-its-q3-financial-results-posting-2-1-revenue-decline",
+    "title_en": "Stratasys reports its Q3 financial results posting 2.1% revenue decline",
+    "summary_bullets_en": [
+      "Stratasys announced its Q3 2025 financial results.",
+      "The company's revenue for the quarter was $137.0 million.",
+      "This represents a 2.1% year-over-year decline from $140.0 million.",
+      "Revenue also decreased by 0.8% quarter-over-quarter from $138.1 million."
+    ],
+    "summary_bullets_cs": [
+      "Stratasys oznámil finanční výsledky za 3. čtvrtletí roku 2025.",
+      "Příjmy společnosti za toto čtvrtletí činily 137,0 milionů dolarů.",
+      "To představuje meziroční pokles o 2,1 % z 140,0 milionů dolarů.",
+      "Příjmy také klesly o 0,8 % ve srovnání s předchozím čtvrtletím z 138,1 milionů dolarů."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys"
+    ]
+  },
+  {
+    "title": "SWISSto12 slaví úspěch",
+    "summary": "SWISSto12 has announced progress in 2025. The satellite maker specializing in additively manufactured components announced that its revenues are up 40%. It has also continued building the first four of...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/12/Manpack_Highkey_plan1-scaled-r3dfyiw9kts3qn1v0am2kd3sf7sge2y1swwit9zy38-1.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-12-08T07:00:18+00:00",
+    "url": "https://3dprint.com/322568/swissto12-celebrates-success/",
+    "title_en": "SWISSto12 Celebrates Success",
+    "summary_bullets_en": [
+      "SWISSto12 reports a 40% increase in revenues for 2025.",
+      "The company specializes in additively manufactured satellite components.",
+      "SWISSto12 is progressing with the construction of its first four satellites."
+    ],
+    "summary_bullets_cs": [
+      "SWISSto12 oznámila nárůst příjmů o 40 % v roce 2025.",
+      "Společnost se specializuje na aditivně vyráběné komponenty pro satelity.",
+      "SWISSto12 pokračuje ve výstavbě prvních čtyř satelitů."
+    ],
+    "tags": [
+      "Hardware",
+      "SWISSto12",
+      "Satellite",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 7. prosince 2025",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/932069786/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-December\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, December 7, 2025\"><img alt=\"Who&#039;s The Biggest In 3D Printing\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg\" style=\"height: auto !important; float: left; margin-right: 5px;\" width=\"1\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/932069786/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-December\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, December 7, 2025</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg",
