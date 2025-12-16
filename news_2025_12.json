@@ -1,5 +1,85 @@
 [
   {
+    "title": "Orientace ovlivňuje drsnost povrchu v FFF, mSLA, PJ, SLS",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/934878188/0/fabbaloo/default~Orientation-Drives-Surface-Roughness-In-FFF-mSLA-PJ-SLS\" rel=\"nofollow\" title=\"Orientation Drives Surface Roughness In FFF, mSLA, PJ, SLS\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/roughness-surface-cover-300x220.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new materials study shows how build orientation shifts surface roughness across four popular polymer AM processes.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/934878188/0/fabbaloo/default~Orientation-Drives-Surface-Roughness-In-FFF-mSLA-PJ-SLS\" rel=\"nofollow\">Orientation Drives Surface Roughness In FFF, mSLA, PJ, SLS</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/roughness-surface-cover-300x220.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-12-16T09:52:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/934878188/0/fabbaloo/default~Orientation-Drives-Surface-Roughness-In-FFF-mSLA-PJ-SLS",
+    "title_en": "Orientation Drives Surface Roughness In FFF, mSLA, PJ, SLS",
+    "summary_bullets_en": [
+      "A new study examines how build orientation affects surface roughness in four popular polymer additive manufacturing processes.",
+      "The processes analyzed include Fused Filament Fabrication (FFF), masked Stereolithography (mSLA), PolyJet (PJ), and Selective Laser Sintering (SLS).",
+      "The findings highlight the significant impact of orientation on the surface quality of 3D printed parts."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie zkoumá, jak orientace při stavbě ovlivňuje drsnost povrchu ve čtyřech populárních procesech aditivní výroby polymerů.",
+      "Analyzované procesy zahrnují Fused Filament Fabrication (FFF), maskovanou stereolitografii (mSLA), PolyJet (PJ) a selektivní laserové sintrování (SLS).",
+      "Zjištění zdůrazňují významný dopad orientace na kvalitu povrchu 3D tištěných dílů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "FFF",
+      "mSLA",
+      "PJ",
+      "SLS",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "ROZHOVOR: CEO Lithoz plánuje průmyslovou expanzi, protože keramický 3D tisk dosahuje výrobní úrovně",
+    "summary": "Founded in 2011 out of Vienna University of Technology, Lithoz has grown into one of the key players in ceramic additive manufacturing. The company’s co-founder and CEO, Johannes Homa, says its vision remains consistent: to make additive manufacturing a genuine production process, not just a prototyping tool. During AM Ceramics, I interviewed the Lithoz CEO [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/Eroffnungsansprache-Johannes-Homa-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-12-16T09:15:17+00:00",
+    "url": "https://3dprintingindustry.com/news/interview-lithoz-ceo-eyes-industrial-expansion-as-ceramic-3d-printing-reaches-production-scale-247502/?utm_source=rss&utm_medium=rss&utm_campaign=interview-lithoz-ceo-eyes-industrial-expansion-as-ceramic-3d-printing-reaches-production-scale",
+    "title_en": "INTERVIEW: Lithoz CEO Eyes Industrial Expansion as Ceramic 3D Printing Reaches Production Scale",
+    "summary_bullets_en": [
+      "Lithoz, founded in 2011, has become a key player in ceramic additive manufacturing.",
+      "CEO Johannes Homa emphasizes the company's vision to establish 3D printing as a genuine production process.",
+      "The company aims to expand its industrial applications beyond prototyping."
+    ],
+    "summary_bullets_cs": [
+      "Lithoz, založená v roce 2011, se stala klíčovým hráčem v oblasti keramického aditivního výrobního procesu.",
+      "CEO Johannes Homa zdůrazňuje vizi společnosti, aby se 3D tisk stal skutečným výrobním procesem, nejen nástrojem pro prototypování.",
+      "Společnost se snaží rozšířit své průmyslové aplikace nad rámec prototypování."
+    ],
+    "tags": [
+      "Hardware",
+      "Lithoz",
+      "Ceramic 3D Printing",
+      "Industrial Expansion"
+    ]
+  },
+  {
+    "title": "Justin Bieber uvádí na trh 3D tištěné tenisky prostřednictvím partnerství značky Skylrk se Zellerfeldem",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/justin-bieber-launches-3d-printed-sneakers-through-skylrk-brand-partnership-with-zellerfeld/\" target=\"_blank\">Justin Bieber Launches 3D Printed Sneakers Through Skylrk Brand Partnership with Zellerfeld</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">December 16</span></div><div><img alt=\"Justin Bieber Launches 3D Printed Sneakers Through Skylrk Brand Partnership with Zellerfeld\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/8649798745-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/8649798745-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2025-12-16T09:00:37+00:00",
+    "url": "https://3dprinting.com/news/justin-bieber-launches-3d-printed-sneakers-through-skylrk-brand-partnership-with-zellerfeld/",
+    "title_en": "Justin Bieber Launches 3D Printed Sneakers Through Skylrk Brand Partnership with Zellerfeld",
+    "summary_bullets_en": [
+      "Justin Bieber has partnered with Skylrk and Zellerfeld to launch a new line of 3D printed sneakers.",
+      "The sneakers are produced using advanced 3D printing technology, offering unique design possibilities.",
+      "This collaboration highlights the growing trend of celebrities entering the 3D printed fashion market."
+    ],
+    "summary_bullets_cs": [
+      "Justin Bieber se spojil se Skylrk a Zellerfeldem, aby uvedl na trh novou řadu 3D tištěných tenisek.",
+      "Tenisky jsou vyráběny pomocí pokročilé technologie 3D tisku, což nabízí jedinečné možnosti designu.",
+      "Tato spolupráce zdůrazňuje rostoucí trend vstupu celebrit na trh s 3D tištěnou módou."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Fashion",
+      "Justin Bieber",
+      "Skylrk",
+      "Zellerfeld"
+    ]
+  },
+  {
     "title": "Bezplatný nástroj 3D Splitter zjednodušuje rozdělení velkých modelů na tisknutelné segmenty",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/934851506/0/fabbaloo/default~Free-D-Splitter-Tool-Simplifies-Breaking-Large-Models-Into-Printable-Segments\" rel=\"nofollow\" title=\"Free 3D Splitter Tool Simplifies Breaking Large Models Into Printable Segments\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/3d-splitter-cover-300x211.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There’s a new tool for printing very large objects: 3D Splitter.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/934851506/0/fabbaloo/default~Free-D-Splitter-Tool-Simplifies-Breaking-Large-Models-Into-Printable-Segments\" rel=\"nofollow\">Free 3D Splitter Tool Simplifies Breaking Large Models Into Printable Segments</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/3d-splitter-cover-300x211.jpg",
