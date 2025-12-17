@@ -1,5 +1,294 @@
 [
   {
+    "title": "Proč mohou TVOC měřiče klamat: Falešné poplachy při testování emisí 3D tiskáren",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/935894915/0/fabbaloo/default~Why-TVOC-Meters-Can-Mislead-False-Alarms-When-Testing-D-Printer-Emissions\" rel=\"nofollow\" title=\"Why TVOC Meters Can Mislead: False Alarms When Testing 3D Printer Emissions\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/tvoc-measure-cover-1-300x159.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Be careful when you decide to measure the pollution emitted by your desktop 3D printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/935894915/0/fabbaloo/default~Why-TVOC-Meters-Can-Mislead-False-Alarms-When-Testing-D-Printer-Emissions\" rel=\"nofollow\">Why TVOC Meters Can Mislead: False Alarms When Testing 3D Printer Emissions</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/tvoc-measure-cover-1-300x159.jpeg",
+    "source": "Fabbaloo",
+    "published": "2025-12-17T17:34:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/935894915/0/fabbaloo/default~Why-TVOC-Meters-Can-Mislead-False-Alarms-When-Testing-D-Printer-Emissions",
+    "title_en": "Why TVOC Meters Can Mislead: False Alarms When Testing 3D Printer Emissions",
+    "summary_bullets_en": [
+      "TVOC meters may not accurately measure emissions from desktop 3D printers.",
+      "These devices can trigger false alarms due to their sensitivity to various compounds.",
+      "Users should be cautious and consider alternative methods for assessing 3D printer emissions."
+    ],
+    "summary_bullets_cs": [
+      "TVOC měřiče nemusí přesně měřit emise z desktopových 3D tiskáren.",
+      "Tato zařízení mohou vyvolávat falešné poplachy kvůli své citlivosti na různé sloučeniny.",
+      "Uživatelé by měli být opatrní a zvážit alternativní metody pro hodnocení emisí 3D tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Emissions",
+      "TVOC Meters"
+    ]
+  },
+  {
+    "title": "Firma z Iowy nachází mezeru na trhu výrobou zastaralých komponentů pomocí 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/935892035/0/fabbaloo/default~Iowa-Firm-Finds-Niche-Making-Obsolete-Components-With-D-Printing\" rel=\"nofollow\" title=\"Iowa Firm Finds Niche Making Obsolete Components With 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/snap-manufacturing-cover2-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>I’m reading about an interesting angle to make use of 3D printing for small-scale manufacturing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/935892035/0/fabbaloo/default~Iowa-Firm-Finds-Niche-Making-Obsolete-Components-With-D-Printing\" rel=\"nofollow\">Iowa Firm Finds Niche Making Obsolete Components With 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/snap-manufacturing-cover2-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-12-17T16:32:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/935892035/0/fabbaloo/default~Iowa-Firm-Finds-Niche-Making-Obsolete-Components-With-D-Printing",
+    "title_en": "Iowa Firm Finds Niche Making Obsolete Components With 3D Printing",
+    "summary_bullets_en": [
+      "An Iowa-based company is using 3D printing to manufacture obsolete components.",
+      "The firm has found a niche market by providing parts that are no longer produced by original manufacturers.",
+      "3D printing allows for small-scale production, making it economically viable to produce limited quantities of these components."
+    ],
+    "summary_bullets_cs": [
+      "Firma z Iowy využívá 3D tisk k výrobě zastaralých komponentů.",
+      "Společnost našla mezeru na trhu tím, že poskytuje díly, které již nejsou vyráběny původními výrobci.",
+      "3D tisk umožňuje malovýrobu, což činí ekonomicky výhodným produkovat omezené množství těchto komponentů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Manufacturing",
+      "Obsolete Components",
+      "Iowa"
+    ]
+  },
+  {
+    "title": "Bambu Studio umožňuje použití různých filamentů v rámci jednoho tiskového úkolu",
+    "summary": "RECODE.AM #29",
+    "image": "https://substackcdn.com/image/fetch/$s_!LvDA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79f46ce1-1373-453c-bf91-ffae5d0a6871_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-12-17T15:00:39+00:00",
+    "url": "https://www.3dprintingjournal.com/p/bambu-studio-enables-the-use-of-different",
+    "title_en": "Bambu Studio enables the use of different filaments within a single print job",
+    "summary_bullets_en": [
+      "Bambu Studio has introduced a new feature allowing multiple filaments to be used in a single print job.",
+      "This innovation enhances the versatility and creativity of 3D printing projects.",
+      "Users can now experiment with different materials and colors without needing to stop and change filaments manually."
+    ],
+    "summary_bullets_cs": [
+      "Bambu Studio představilo novou funkci, která umožňuje použití více filamentů v rámci jednoho tiskového úkolu.",
+      "Tato inovace zvyšuje všestrannost a kreativitu projektů 3D tisku.",
+      "Uživatelé nyní mohou experimentovat s různými materiály a barvami bez nutnosti ručního zastavení a výměny filamentů."
+    ],
+    "tags": [
+      "Software",
+      "Bambu Studio",
+      "3D Printing",
+      "Materials"
+    ]
+  },
+  {
+    "title": "Rok v přehledu průmyslu 3D tisku (První část)",
+    "summary": "In preparation for our annual review of the year in 3D printing, I’ve been going through the archives. This year, in addition to the deeper monthly reviews, we’re also publishing this two-part executive summary. The first six months of 2025 read like a downcycle with a very specific bid: defense and propulsion as demand anchors, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/01/Canary-Wharf.-Photo-by-Michael-Petch-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2025-12-17T15:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printing-industry-year-in-review-part-one-247510/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printing-industry-year-in-review-part-one",
+    "title_en": "3D Printing Industry Year in Review (Part One)",
+    "summary_bullets_en": [
+      "The first half of 2025 in the 3D printing industry is characterized by a downturn.",
+      "Defense and propulsion sectors are the main drivers of demand during this period.",
+      "A two-part executive summary is being published alongside monthly reviews."
+    ],
+    "summary_bullets_cs": [
+      "První polovina roku 2025 v průmyslu 3D tisku je charakterizována poklesem.",
+      "Hlavními tahouny poptávky v tomto období jsou obranný a pohonný sektor.",
+      "Vedle měsíčních přehledů je publikován dvoudílný výkonný souhrn."
+    ],
+    "tags": [
+      "Hardware",
+      "Defense",
+      "Propulsion",
+      "3D Printing Industry"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 17. prosince 2025: Standardy, balistika, zubní rovnátka a další",
+    "summary": "Today&#8217;s 3D Printing News Briefs is a bit of a mixed bag, including stories about standards, ballistics 3D printing, dental aligners, and more. Read on for all the details! DNV...",
+    "image": "https://3dprint.com/wp-content/uploads/2023/01/DNV-logo.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-12-17T14:30:53+00:00",
+    "url": "https://3dprint.com/322808/3d-printing-news-briefs-12-17-2025/",
+    "title_en": "3D Printing News Briefs, December 17, 2025: Standards, Ballistics, Dental Aligners, & More",
+    "summary_bullets_en": [
+      "The article covers a variety of topics in 3D printing, including new standards and advancements in ballistics.",
+      "It highlights innovations in the production of dental aligners using 3D printing technology.",
+      "The piece provides updates on various companies and their contributions to the 3D printing industry."
+    ],
+    "summary_bullets_cs": [
+      "Článek pokrývá různé oblasti 3D tisku, včetně nových standardů a pokroků v oblasti balistiky.",
+      "Zmiňuje inovace ve výrobě zubních rovnátek pomocí technologie 3D tisku.",
+      "Přináší aktualizace o různých společnostech a jejich příspěvcích do odvětví 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Standards",
+      "Ballistics",
+      "Dental Aligners",
+      "3D Printing Industry"
+    ]
+  },
+  {
+    "title": "Automatizovaná farma 3D tisku dosahuje nákladů na úrovni Číny, vyvolává nové otázky",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/935786921/0/fabbaloo/default~Automated-D-Print-Farm-Achieves-ChinaLevel-Costs-Raising-New-Questions\" rel=\"nofollow\" title=\"Automated 3D Print Farm Achieves China-Level Costs, Raising New Questions\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/manufacturing-optimization-cover-300x158.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There has long been the idea that 3D printing will “bring back manufacturing”, but is that ever going to happen?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/935786921/0/fabbaloo/default~Automated-D-Print-Farm-Achieves-ChinaLevel-Costs-Raising-New-Questions\" rel=\"nofollow\">Automated 3D Print Farm Achieves China-Level Costs, Raising New Questions</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/manufacturing-optimization-cover-300x158.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-12-17T14:29:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/935786921/0/fabbaloo/default~Automated-D-Print-Farm-Achieves-ChinaLevel-Costs-Raising-New-Questions",
+    "title_en": "Automated 3D Print Farm Achieves China-Level Costs, Raising New Questions",
+    "summary_bullets_en": [
+      "An automated 3D print farm has managed to achieve production costs comparable to those in China.",
+      "This development raises questions about the potential for 3D printing to bring manufacturing back to other regions.",
+      "The cost efficiency of the print farm could challenge traditional manufacturing models.",
+      "The implications of this achievement could influence global manufacturing strategies."
+    ],
+    "summary_bullets_cs": [
+      "Automatizovaná farma 3D tisku dokázala dosáhnout výrobních nákladů srovnatelných s těmi v Číně.",
+      "Tento vývoj vyvolává otázky o potenciálu 3D tisku přinést výrobu zpět do jiných regionů.",
+      "Nákladová efektivita této farmy by mohla zpochybnit tradiční výrobní modely.",
+      "Důsledky tohoto úspěchu by mohly ovlivnit globální výrobní strategie."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Manufacturing",
+      "Cost Efficiency",
+      "Automation"
+    ]
+  },
+  {
+    "title": "UK Defence Accelerator vítá pět technologických startupů pro posílení dodavatelských řetězců",
+    "summary": "UK-based innovation center Digital Catapult has selected five technology companies to join a new accelerator programme focused on strengthening supply chain resilience in the UK defence sector. The Digital Supply Chain Hub Defence Testbed Accelerator aims to enable secure data sharing and support more agile, distributed manufacturing, particularly additive manufacturing, by addressing long-standing challenges around [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/1765558804844-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2025-12-17T14:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/uk-defence-accelerator-welcomes-five-tech-startups-to-strengthen-supply-chains-247528/?utm_source=rss&utm_medium=rss&utm_campaign=uk-defence-accelerator-welcomes-five-tech-startups-to-strengthen-supply-chains",
+    "title_en": "UK Defence Accelerator Welcomes Five Tech Startups to Strengthen Supply Chains",
+    "summary_bullets_en": [
+      "Digital Catapult, a UK-based innovation center, has launched a new accelerator programme.",
+      "The programme focuses on enhancing supply chain resilience in the UK defence sector.",
+      "Five technology companies have been selected to join the initiative.",
+      "The accelerator aims to improve secure data sharing and support distributed manufacturing, including additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Britské inovační centrum Digital Catapult zahájilo nový akcelerační program.",
+      "Program se zaměřuje na posílení odolnosti dodavatelských řetězců v britském obranném sektoru.",
+      "Bylo vybráno pět technologických společností, které se připojí k iniciativě.",
+      "Akcelerátor si klade za cíl zlepšit bezpečné sdílení dat a podpořit distribuovanou výrobu, včetně aditivní výroby."
+    ],
+    "tags": [
+      "Services",
+      "Digital Catapult",
+      "Supply Chain",
+      "Additive Manufacturing",
+      "Defence"
+    ]
+  },
+  {
+    "title": "Udržitelnost se setkává s rychlostí: Jak latinskoamerický medtech průmysl přetváří globální klinické studie",
+    "summary": "The promise of additive manufacturing—specifically 3D printing—to transform medical device production is currently constrained by several critical factors. Medtech startups, in particular, face a formidable &#8220;proof-of-concept bottleneck.&#8221; They struggle not...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/12/Cardiac-Thoracic-Vascular-Surgery.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-12-17T13:30:51+00:00",
+    "url": "https://3dprint.com/322497/sustainability-meets-speed-how-latin-americas-medtech-industry-is-reshaping-global-clinical-trials/",
+    "title_en": "Sustainability Meets Speed: How Latin America’s Medtech Industry is Reshaping Global Clinical Trials",
+    "summary_bullets_en": [
+      "Additive manufacturing, particularly 3D printing, holds potential to revolutionize medical device production.",
+      "Medtech startups face a significant challenge in overcoming the 'proof-of-concept bottleneck.'",
+      "The industry is constrained by critical factors that limit the transformative promise of 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Příslib aditivní výroby, zejména 3D tisku, má potenciál revolučně změnit výrobu zdravotnických zařízení.",
+      "Medtech startupy čelí významné výzvě v překonání 'úzkého hrdla důkazu konceptu'.",
+      "Průmysl je omezen kritickými faktory, které omezují transformační příslib 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Medtech",
+      "Additive Manufacturing",
+      "Clinical Trials"
+    ]
+  },
+  {
+    "title": "Formuje se nový megavesmír 3D tisku — Kdo bude vést?",
+    "summary": "The desktop 3D printer market may soon look less like a hobby and more like a serious, high-stakes race. Between rumors of mega-investments, changing alliances, and a boom in consumer...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/12/IMG_0794.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-12-17T13:00:10+00:00",
+    "url": "https://3dprint.com/322450/a-new-3d-printing-megaverse-is-forming-who-will-lead/",
+    "title_en": "A New 3D Printing Megaverse Is Forming — Who Will Lead?",
+    "summary_bullets_en": [
+      "The desktop 3D printer market is evolving from a hobbyist niche to a competitive industry.",
+      "There are rumors of significant investments and shifting alliances within the sector.",
+      "Consumer interest in 3D printing is experiencing a significant surge."
+    ],
+    "summary_bullets_cs": [
+      "Trh s desktopovými 3D tiskárnami se vyvíjí z hobbyistické oblasti na konkurenční průmysl.",
+      "Existují zvěsti o významných investicích a měnících se aliancích v tomto sektoru.",
+      "Zájem spotřebitelů o 3D tisk zažívá výrazný nárůst."
+    ],
+    "tags": [
+      "Hardware",
+      "UltiMaker",
+      "Nikon SLM Solutions",
+      "HP"
+    ]
+  },
+  {
+    "title": "3D Systems získává schválení FDA pro rozšíření použití platformy VSP Orthopedics u adolescentů",
+    "summary": "US-based 3D printer manufacturer 3D Systems has received U.S. Food and Drug Administration 510(k) clearance broadening the approved use of its VSP Orthopedics virtual surgical planning and patient-specific instrumentation platform. The clearance now covers skeletally mature adolescents with normal bone structure, in addition to adult patients. This change removes previous regulatory constraints that limited use [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2019/09/3d_systems_orthopaedics_pelvis_guide-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-12-17T13:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-systems-secures-fda-clearance-to-broaden-adolescent-use-of-vsp-orthopedics-platform-247534/?utm_source=rss&utm_medium=rss&utm_campaign=3d-systems-secures-fda-clearance-to-broaden-adolescent-use-of-vsp-orthopedics-platform",
+    "title_en": "3D Systems Secures FDA Clearance to Broaden Adolescent Use of VSP Orthopedics Platform",
+    "summary_bullets_en": [
+      "3D Systems has received FDA 510(k) clearance for its VSP Orthopedics platform.",
+      "The clearance now includes skeletally mature adolescents with normal bone structure.",
+      "Previously, the platform was limited to adult patients.",
+      "This regulatory change expands the potential user base of the VSP Orthopedics platform."
+    ],
+    "summary_bullets_cs": [
+      "3D Systems získala schválení FDA 510(k) pro svou platformu VSP Orthopedics.",
+      "Schválení nyní zahrnuje skeletálně zralé adolescenty s normální strukturou kostí.",
+      "Dříve byla platforma omezena na dospělé pacienty.",
+      "Tato regulační změna rozšiřuje potenciální uživatelskou základnu platformy VSP Orthopedics."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Systems",
+      "FDA",
+      "VSP Orthopedics"
+    ]
+  },
+  {
+    "title": "Jak automatizace a 3D tisk přepisují pravidla komerčního praní",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/935110352/0/fabbaloo/default~How-Automation-and-D-Printing-Are-Rewriting-the-Commercial-Laundry-Playbook\" rel=\"nofollow\" title=\"How Automation and 3D Printing Are Rewriting the Commercial Laundry Playbook\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/CommLaund1-225x300.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"225\" /></a><p>Charles R. Goulding and Preeti Sulibhavi show how automation and 3D printing are reshaping the commercial laundry industry and the companies driving that shift.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/935110352/0/fabbaloo/default~How-Automation-and-D-Printing-Are-Rewriting-the-Commercial-Laundry-Playbook\" rel=\"nofollow\">How Automation and 3D Printing Are Rewriting the Commercial Laundry Playbook</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/CommLaund1-225x300.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-12-17T12:19:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/935110352/0/fabbaloo/default~How-Automation-and-D-Printing-Are-Rewriting-the-Commercial-Laundry-Playbook",
+    "title_en": "How Automation and 3D Printing Are Rewriting the Commercial Laundry Playbook",
+    "summary_bullets_en": [
+      "Automation and 3D printing are transforming the commercial laundry industry.",
+      "Key companies are driving this shift by integrating advanced technologies.",
+      "These innovations lead to increased efficiency and cost savings in laundry operations.",
+      "The article explores the impact of these technologies on the industry."
+    ],
+    "summary_bullets_cs": [
+      "Automatizace a 3D tisk mění komerční průmysl praní.",
+      "Klíčové společnosti vedou tuto změnu integrací pokročilých technologií.",
+      "Tyto inovace vedou ke zvýšení efektivity a úsporám nákladů v provozu praní.",
+      "Článek zkoumá dopad těchto technologií na průmysl."
+    ],
+    "tags": [
+      "Hardware",
+      "Automation",
+      "3D Printing",
+      "Commercial Laundry",
+      "Efficiency"
+    ]
+  },
+  {
     "title": "3Deus Dynamics získává 3,7 milionu eur v rámci France 2030",
     "summary": "3Deus Dynamics, a deeptech company spun out of Claude Bernard University Lyon 1 and its 3d.FAB platform, has secured €3.7 million through the i-DÉMO call for projects under the France 2030 investment plan. The funding will support a scale-up in industrial production of advanced silicone materials for aerospace and defense, enabling the deployment of a [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/3deus-dynamics-logo-150x100.png",
