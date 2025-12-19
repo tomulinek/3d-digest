@@ -1,5 +1,133 @@
 [
   {
+    "title": "Prusa Research přepracovává svůj přístup k open-source",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/937032725/0/fabbaloo/default~Prusa-Research-Reworks-Its-OpenSource-Approach\" rel=\"nofollow\" title=\"Prusa Research Reworks Its Open-Source Approach\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/ocl-announce-cover-300x140.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prusa Research seems to be taking a step away from traditional open source principles.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/937032725/0/fabbaloo/default~Prusa-Research-Reworks-Its-OpenSource-Approach\" rel=\"nofollow\">Prusa Research Reworks Its Open-Source Approach</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/ocl-announce-cover-300x140.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-12-19T17:28:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/937032725/0/fabbaloo/default~Prusa-Research-Reworks-Its-OpenSource-Approach",
+    "title_en": "Prusa Research Reworks Its Open-Source Approach",
+    "summary_bullets_en": [
+      "Prusa Research is shifting away from traditional open-source principles.",
+      "The company is reevaluating its approach to open-source in its operations.",
+      "This change may impact how Prusa Research shares its designs and technology."
+    ],
+    "summary_bullets_cs": [
+      "Prusa Research se odklání od tradičních open-source principů.",
+      "Společnost přehodnocuje svůj přístup k open-source ve svých operacích.",
+      "Tato změna může ovlivnit, jak Prusa Research sdílí své návrhy a technologie."
+    ],
+    "tags": [
+      "Hardware",
+      "Prusa Research",
+      "Open Source"
+    ]
+  },
+  {
+    "title": "Dnes růst AM závisí na talentu",
+    "summary": "AM Survivor #29",
+    "image": "https://substackcdn.com/image/fetch/$s_!Uqmh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58301d8d-3971-4faf-b231-ab532217b259_1500x1000.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2025-12-19T15:03:10+00:00",
+    "url": "https://www.3dprintingjournal.com/p/today-am-growth-runs-on-talent",
+    "title_en": "Today, AM growth runs on talent",
+    "summary_bullets_en": [
+      "The additive manufacturing (AM) industry is experiencing significant growth driven by skilled talent.",
+      "Companies are focusing on attracting and retaining top talent to maintain competitive advantage.",
+      "The demand for specialized skills in AM is increasing as the technology evolves."
+    ],
+    "summary_bullets_cs": [
+      "Průmysl aditivní výroby (AM) zažívá významný růst poháněný kvalifikovanými talenty.",
+      "Firmy se zaměřují na přilákání a udržení špičkových talentů, aby si udržely konkurenční výhodu.",
+      "Poptávka po specializovaných dovednostech v AM roste s tím, jak se technologie vyvíjí."
+    ],
+    "tags": [
+      "Services",
+      "Talent",
+      "Additive Manufacturing",
+      "Growth"
+    ]
+  },
+  {
+    "title": "3Dsynth spouští online generátor váz, který generuje přímý GCODE",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/936971132/0/fabbaloo/default~Dsynth-Launches-Online-Vase-Generator-That-Outputs-Direct-GCODE\" rel=\"nofollow\" title=\"3Dsynth Launches Online Vase Generator That Outputs Direct GCODE\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/3dsynth-cover-300x184.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>I’m trying a new online tool for 3D Printing, 3Dsynth.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/936971132/0/fabbaloo/default~Dsynth-Launches-Online-Vase-Generator-That-Outputs-Direct-GCODE\" rel=\"nofollow\">3Dsynth Launches Online Vase Generator That Outputs Direct GCODE</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/3dsynth-cover-300x184.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-12-19T14:53:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/936971132/0/fabbaloo/default~Dsynth-Launches-Online-Vase-Generator-That-Outputs-Direct-GCODE",
+    "title_en": "3Dsynth Launches Online Vase Generator That Outputs Direct GCODE",
+    "summary_bullets_en": [
+      "3Dsynth has introduced a new online tool for 3D printing enthusiasts.",
+      "The tool allows users to generate vase designs and outputs them directly as GCODE.",
+      "This feature simplifies the process of creating and printing custom vases."
+    ],
+    "summary_bullets_cs": [
+      "3Dsynth představil nový online nástroj pro nadšence do 3D tisku.",
+      "Nástroj umožňuje uživatelům generovat návrhy váz a přímo je exportovat jako GCODE.",
+      "Tato funkce zjednodušuje proces tvorby a tisku vlastních váz."
+    ],
+    "tags": [
+      "Software",
+      "3Dsynth",
+      "3D Printing",
+      "GCODE",
+      "Online Tool"
+    ]
+  },
+  {
+    "title": "Metal Powder Works a Austal USA uzavírají partnerství v oblasti 3D tisku pro americké námořnictvo",
+    "summary": "There are few companies that have been more integral than Austal USA to the U.S. Navy’s ongoing additive manufacturing (AM) buildup. Among other steps that the subsidiary of the Australian...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/12/IMG_2086-1024x811.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-12-19T13:30:27+00:00",
+    "url": "https://3dprint.com/322849/mpw-austal-usa-form-partnership-surrounding-us-navy-3d-printing/",
+    "title_en": "Metal Powder Works & Austal USA Form Partnership Surrounding US Navy 3D Printing",
+    "summary_bullets_en": [
+      "Austal USA is a key player in the U.S. Navy's additive manufacturing expansion.",
+      "Metal Powder Works has partnered with Austal USA to enhance 3D printing capabilities for the Navy.",
+      "The collaboration aims to improve the efficiency and effectiveness of naval operations through advanced manufacturing techniques."
+    ],
+    "summary_bullets_cs": [
+      "Austal USA je klíčovým hráčem v rozšiřování aditivní výroby pro americké námořnictvo.",
+      "Metal Powder Works uzavřela partnerství s Austal USA za účelem zlepšení schopností 3D tisku pro námořnictvo.",
+      "Cílem spolupráce je zlepšit efektivitu a účinnost námořních operací prostřednictvím pokročilých výrobních technik."
+    ],
+    "tags": [
+      "Hardware",
+      "Austal USA",
+      "Metal Powder Works",
+      "3D Printing",
+      "US Navy"
+    ]
+  },
+  {
+    "title": "Operace Warp Speed pro výrobu: doporučení pro průmysl 3D tisku v roce 2026",
+    "summary": "There is no looming shortage of manufacturing workers in the United States: that’s a misconception. Rather, there’s a shortage that’s already entirely present, one which increasingly threatens to turn into...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/12/IMG_2080.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-12-19T12:30:54+00:00",
+    "url": "https://3dprint.com/322777/an-operation-warp-speed-for-manufacturing-a-recommendation-for-the-3d-printing-industry-in-2026/",
+    "title_en": "An Operation Warp Speed for Manufacturing: a Recommendation for the 3D Printing Industry in 2026",
+    "summary_bullets_en": [
+      "The United States is already experiencing a significant shortage of manufacturing workers.",
+      "This shortage poses a growing threat to the manufacturing industry.",
+      "3D printing is proposed as a solution to address this workforce gap.",
+      "The industry needs a strategic initiative similar to Operation Warp Speed to accelerate advancements."
+    ],
+    "summary_bullets_cs": [
+      "Ve Spojených státech již existuje významný nedostatek pracovníků ve výrobě.",
+      "Tento nedostatek představuje rostoucí hrozbu pro výrobní průmysl.",
+      "3D tisk je navrhován jako řešení pro překonání této mezery v pracovní síle.",
+      "Průmysl potřebuje strategickou iniciativu podobnou Operaci Warp Speed pro urychlení pokroku."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Manufacturing",
+      "Operation Warp Speed"
+    ]
+  },
+  {
     "title": "Nanoscribe rozšiřuje průmyslovou působnost prodejem 400. systému",
     "summary": "Nanoscribe, 3D printer and grayscale lithography systems manufacturer, has reached the sale of its 400th system and anticipates solid financial results for 2025.&#160; Industrial demand for its Quantum X systems is growing, particularly in optics and photonics packaging, while its turnkey process-line solutions and integration within Lab14 Group—a specialist in nano- and microfabrication and surface [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/Nanoscribe-400-Systems-mediapool-150x100.png",
