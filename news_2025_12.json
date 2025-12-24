@@ -1,5 +1,106 @@
 [
   {
+    "title": "Strojové učení předpovídá vady LPBF podle úhlu povrchu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/939238256/0/fabbaloo/default~Machine-Learning-Predicts-LPBF-Defects-By-Surface-Angle\" rel=\"nofollow\" title=\"Machine Learning Predicts LPBF Defects By Surface Angle\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/pore-prediction-cover-300x83.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers report a machine learning approach to predict LPBF defects from up-skin and down-skin angles, suggesting there might be angle-aware process control for metal AM.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/939238256/0/fabbaloo/default~Machine-Learning-Predicts-LPBF-Defects-By-Surface-Angle\" rel=\"nofollow\">Machine Learning Predicts LPBF Defects By Surface Angle</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/pore-prediction-cover-300x83.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-12-24T09:49:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/939238256/0/fabbaloo/default~Machine-Learning-Predicts-LPBF-Defects-By-Surface-Angle",
+    "title_en": "Machine Learning Predicts LPBF Defects By Surface Angle",
+    "summary_bullets_en": [
+      "Researchers have developed a machine learning approach to predict defects in LPBF (Laser Powder Bed Fusion) based on surface angles.",
+      "The study focuses on up-skin and down-skin angles to identify potential defects in metal additive manufacturing.",
+      "This approach suggests the possibility of angle-aware process control in metal AM to improve quality."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli přístup strojového učení k předpovědi vad v LPBF (Laserové tavení práškového lože) na základě úhlů povrchu.",
+      "Studie se zaměřuje na úhly horní a dolní strany k identifikaci potenciálních vad v kovovém aditivním výrobě.",
+      "Tento přístup naznačuje možnost řízení procesu s ohledem na úhly v kovovém AM pro zlepšení kvality."
+    ],
+    "tags": [
+      "Software",
+      "Machine Learning",
+      "LPBF",
+      "Metal AM",
+      "Defect Prediction"
+    ]
+  },
+  {
+    "title": "Rok 2025 v 3D tisku: Přehled za březen",
+    "summary": "The 3D Printing Industry Year in Review continues with March taking clearer shape around how additive manufacturing was being assessed.&#160; Progress surfaced where AM met formal thresholds, whether through regulatory approval, safety-critical integration, or balance-sheet scrutiny. These signals carried more weight than isolated installations or machine launches, reflecting how maturity was judged inside industrial systems. [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/03/Beechcraft-Denali-airplane.-Photo-via-GE-Aerospace-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2025-12-24T09:22:46+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printing-industry-year-in-review-march-2025-247666/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printing-industry-year-in-review-march-2025",
+    "title_en": "3D Printing Industry Year in Review March 2025",
+    "summary_bullets_en": [
+      "March 2025 highlighted the assessment of additive manufacturing's progress.",
+      "Key developments included regulatory approvals and safety-critical integrations.",
+      "The focus was on how maturity was judged within industrial systems rather than isolated advancements."
+    ],
+    "summary_bullets_cs": [
+      "Březen 2025 zdůraznil hodnocení pokroku v oblasti aditivní výroby.",
+      "Klíčové události zahrnovaly schválení regulací a integrace v bezpečnostně kritických oblastech.",
+      "Důraz byl kladen na to, jak byla zralost posuzována v rámci průmyslových systémů, spíše než na izolované pokroky."
+    ],
+    "tags": [
+      "Hardware",
+      "Regulatory Approval",
+      "Safety-Critical Integration",
+      "Industrial Systems"
+    ]
+  },
+  {
+    "title": "Disney spolupracuje s 3D tiskovým startupem na výrobě rekvizit",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/disney-partners-with-3d-printing-startup-to-create-props/\" target=\"_blank\">Disney Partners with 3D Printing Startup to Create Props</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">December 24</span></div><div><img alt=\"Disney Partners with 3D Printing Startup to Create Props\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/8649798439793-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/8649798439793-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-12-24T09:13:45+00:00",
+    "url": "https://3dprinting.com/news/disney-partners-with-3d-printing-startup-to-create-props/",
+    "title_en": "Disney Partners with 3D Printing Startup to Create Props",
+    "summary_bullets_en": [
+      "Disney has collaborated with a 3D printing startup to produce props for its productions.",
+      "The partnership aims to enhance the efficiency and creativity in prop creation.",
+      "3D printing technology allows for rapid prototyping and customization of props."
+    ],
+    "summary_bullets_cs": [
+      "Disney navázal spolupráci s 3D tiskovým startupem na výrobu rekvizit pro své produkce.",
+      "Cílem partnerství je zvýšit efektivitu a kreativitu při tvorbě rekvizit.",
+      "Technologie 3D tisku umožňuje rychlé prototypování a přizpůsobení rekvizit."
+    ],
+    "tags": [
+      "Hardware",
+      "Disney",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "QasE3D a Waveland vytvářejí snadnou QMS platformu pro MDR-kompatibilní zdravotnické prostředky",
+    "summary": "Erik Boelen and his firm, QasE3D, are quality management consultants to the 3D printing industry. He partnered with Waveland European Lawyers to create a simple tool to help companies stay...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/12/mdr_poc_header.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2025-12-24T07:00:55+00:00",
+    "url": "https://3dprint.com/322898/qase3d-waveland-create-easy-qms-platform-for-mdr-compliant-medical-devices/",
+    "title_en": "QasE3D & Waveland Create Easy QMS Platform For MDR-Compliant Medical Devices",
+    "summary_bullets_en": [
+      "Erik Boelen and his firm, QasE3D, specialize in quality management consulting for the 3D printing industry.",
+      "QasE3D partnered with Waveland European Lawyers to develop a user-friendly tool.",
+      "The tool is designed to help companies ensure compliance with MDR regulations for medical devices."
+    ],
+    "summary_bullets_cs": [
+      "Erik Boelen a jeho firma QasE3D se specializují na poradenství v oblasti řízení kvality pro průmysl 3D tisku.",
+      "QasE3D spolupracoval s Waveland European Lawyers na vývoji uživatelsky přívětivého nástroje.",
+      "Nástroj je navržen tak, aby pomohl firmám zajistit soulad s předpisy MDR pro zdravotnické prostředky."
+    ],
+    "tags": [
+      "Services",
+      "QasE3D",
+      "Waveland",
+      "Medical Devices",
+      "Quality Management"
+    ]
+  },
+  {
     "title": "MX3D zakládá ArtLab, aby uspokojil rostoucí poptávku po velkoformátovém tištěném umění a zakázkových strukturách",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/939212720/0/fabbaloo/default~MXD-Spins-Off-ArtLab-to-Serve-Growing-Demand-for-LargeScale-Printed-Art-and-Custom-Structures\" rel=\"nofollow\" title=\"MX3D Spins Off ArtLab to Serve Growing Demand for Large-Scale Printed Art and Custom Structures\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/mx3d-aluminum-gate-cover-300x225.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>MX3D has made an interesting move by setting up a subsidiary.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/939212720/0/fabbaloo/default~MXD-Spins-Off-ArtLab-to-Serve-Growing-Demand-for-LargeScale-Printed-Art-and-Custom-Structures\" rel=\"nofollow\">MX3D Spins Off ArtLab to Serve Growing Demand for Large-Scale Printed Art and Custom Structures</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/mx3d-aluminum-gate-cover-300x225.jpeg",
