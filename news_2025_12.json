@@ -1,5 +1,81 @@
 [
   {
+    "title": "Univerzita v Nagoyi vyvíjí tepelně odolné hliníkové slitiny pomocí kovového 3D tisku",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/nagoya-university-develops-heat-resistant-aluminum-alloys-using-metal-3d-printing/\" target=\"_blank\">Nagoya University Develops Heat-Resistant Aluminum Alloys Using Metal 3D Printing</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">December 26</span></div><div><img alt=\"Nagoya University Develops Heat-Resistant Aluminum Alloys Using Metal 3D Printing\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/64879489840-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/64879489840-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-12-26T09:31:20+00:00",
+    "url": "https://3dprinting.com/news/nagoya-university-develops-heat-resistant-aluminum-alloys-using-metal-3d-printing/",
+    "title_en": "Nagoya University Develops Heat-Resistant Aluminum Alloys Using Metal 3D Printing",
+    "summary_bullets_en": [
+      "Researchers at Nagoya University have developed new heat-resistant aluminum alloys.",
+      "The alloys are created using advanced metal 3D printing techniques.",
+      "These alloys could have significant applications in industries requiring high-temperature materials.",
+      "The development represents a breakthrough in materials science and 3D printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Univerzity v Nagoyi vyvinuli nové tepelně odolné hliníkové slitiny.",
+      "Slitiny jsou vytvořeny pomocí pokročilých technik kovového 3D tisku.",
+      "Tyto slitiny by mohly mít významné využití v průmyslech vyžadujících materiály odolné vůči vysokým teplotám.",
+      "Vývoj představuje průlom v oblasti materiálové vědy a technologie 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Nagoya University",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Bezdrátové snímání v 3D tištěných kovech: Magnetoelastické inkluze",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/939308546/0/fabbaloo/default~Wireless-Sensing-In-D-Printed-Metals-Magnetoelastic-Inclusions\" rel=\"nofollow\" title=\"Wireless Sensing In 3D Printed Metals: Magnetoelastic Inclusions\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/structural-sensing-cover-300x124.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>New research proposes wireless, embedded sensing for 3D printed metal parts using magnetoelastic and thermomagnetic inclusions.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/939308546/0/fabbaloo/default~Wireless-Sensing-In-D-Printed-Metals-Magnetoelastic-Inclusions\" rel=\"nofollow\">Wireless Sensing In 3D Printed Metals: Magnetoelastic Inclusions</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/structural-sensing-cover-300x124.jpg",
+    "source": "Fabbaloo",
+    "published": "2025-12-26T09:00:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/939308546/0/fabbaloo/default~Wireless-Sensing-In-D-Printed-Metals-Magnetoelastic-Inclusions",
+    "title_en": "Wireless Sensing In 3D Printed Metals: Magnetoelastic Inclusions",
+    "summary_bullets_en": [
+      "Researchers are exploring wireless sensing capabilities in 3D printed metal parts.",
+      "The method involves embedding magnetoelastic and thermomagnetic inclusions.",
+      "This approach could enhance the functionality and monitoring of metal components."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci zkoumají možnosti bezdrátového snímání v 3D tištěných kovových dílech.",
+      "Metoda zahrnuje vkládání magnetoelastických a termomagnetických inkluzí.",
+      "Tento přístup by mohl zlepšit funkčnost a monitorování kovových komponentů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Wireless Sensing",
+      "Magnetoelastic Inclusions"
+    ]
+  },
+  {
+    "title": "Anycubic představuje Kobra X vysokorychlostní vícebarevnou 3D tiskárnu s kampaní pro předčasné objednávky",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/anycubic-introduces-kobra-x-high-speed-multi-color-3d-printer-with-early-bird-campaign/\" target=\"_blank\">Anycubic Introduces Kobra X High Speed Multi Color 3D Printer with Early Bird Campaign</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">December 26</span></div><div><img alt=\"\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/1080x1080-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/1080x1080-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2025-12-26T08:00:27+00:00",
+    "url": "https://3dprinting.com/news/anycubic-introduces-kobra-x-high-speed-multi-color-3d-printer-with-early-bird-campaign/",
+    "title_en": "Anycubic Introduces Kobra X High Speed Multi Color 3D Printer with Early Bird Campaign",
+    "summary_bullets_en": [
+      "Anycubic has launched the Kobra X, a high-speed multi-color 3D printer.",
+      "The printer is designed to offer enhanced speed and color capabilities.",
+      "An early bird campaign is available for those interested in purchasing the Kobra X."
+    ],
+    "summary_bullets_cs": [
+      "Anycubic uvedl na trh Kobra X, vysokorychlostní vícebarevnou 3D tiskárnu.",
+      "Tiskárna je navržena tak, aby nabízela vylepšenou rychlost a barevné možnosti.",
+      "Pro zájemce o koupi Kobra X je k dispozici kampaň pro předčasné objednávky."
+    ],
+    "tags": [
+      "Hardware",
+      "Anycubic",
+      "3D Printer"
+    ]
+  },
+  {
     "title": "Rok 2025 v 3D tisku – Květen",
     "summary": "May 2025 reinforced a central theme in additive manufacturing: institutionalization. Unlike months focused on new hardware or breakthrough materials, May’s dominant stories revolved around who controls the stack, who certifies parts, and where long-term capital is being deployed. As a result, additive manufacturing increasingly appears with increasing frequency as a critical industrial infrastructure, embedded in [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/05/1748336739540-150x100.jpeg",
