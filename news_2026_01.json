@@ -1,5 +1,62 @@
 [
   {
+    "title": "Merck spolupracuje s AMCM na výrobě 3D tištěných tablet",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/merck-partners-with-amcm-on-3d-printed-tablet-manufacturing/\" target=\"_blank\">Merck Partners with AMCM on 3D Printed Tablet Manufacturing</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">January 2</span></div><div><img alt=\"Merck Partners with AMCM on 3D Printed Tablet Manufacturing\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/Infographic-Additive-Manufacturing-Tablets-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/Infographic-Additive-Manufacturing-Tablets-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-01-02T10:53:41+00:00",
+    "url": "https://3dprinting.com/news/merck-partners-with-amcm-on-3d-printed-tablet-manufacturing/",
+    "title_en": "Merck Partners with AMCM on 3D Printed Tablet Manufacturing",
+    "summary_bullets_en": [
+      "Merck has announced a partnership with AMCM to develop 3D printed tablets.",
+      "The collaboration aims to revolutionize pharmaceutical manufacturing by using additive manufacturing technology.",
+      "3D printing allows for precise dosage and customization of tablets for individual patient needs.",
+      "This partnership represents a significant step forward in the integration of 3D printing in the pharmaceutical industry."
+    ],
+    "summary_bullets_cs": [
+      "Merck oznámil partnerství s AMCM na vývoji 3D tištěných tablet.",
+      "Spolupráce má za cíl revoluci ve farmaceutické výrobě pomocí technologie aditivní výroby.",
+      "3D tisk umožňuje přesné dávkování a přizpůsobení tablet pro individuální potřeby pacientů.",
+      "Toto partnerství představuje významný krok vpřed v integraci 3D tisku ve farmaceutickém průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Merck",
+      "AMCM",
+      "Pharmaceuticals",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Rok 2025 v 3D tisku: Říjen",
+    "summary": "October’s most revealing shift did not come from the launch of new machines or a new process. It was the way additive manufacturing started being treated as accountable infrastructure: emissions quantified in annual reports, class-society approval as a gating mechanism, reimbursement rules as demand creation, and software stacks designed to prevent failures rather than explain [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/10/image-2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-02T09:44:30+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printing-industry-year-in-review-october-2025-247653/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printing-industry-year-in-review-october-2025",
+    "title_en": "3D Printing Industry Year in Review: October 2025",
+    "summary_bullets_en": [
+      "Additive manufacturing is increasingly seen as accountable infrastructure.",
+      "Emissions from 3D printing are now quantified in annual reports.",
+      "Class-society approval is becoming a gating mechanism for the industry.",
+      "Software stacks are being designed to prevent failures rather than just explain them."
+    ],
+    "summary_bullets_cs": [
+      "Přidávání materiálu je stále více vnímáno jako odpovědná infrastruktura.",
+      "Emise z 3D tisku jsou nyní kvantifikovány ve výročních zprávách.",
+      "Schválení třídní společností se stává mechanismem pro vstup na trh.",
+      "Softwarové balíky jsou navrhovány tak, aby předcházely selháním, spíše než je jen vysvětlovaly."
+    ],
+    "tags": [
+      "Infrastructure",
+      "Emissions",
+      "Software",
+      "Additive Manufacturing",
+      "Class-Society Approval"
+    ]
+  },
+  {
     "title": "Design T250 CoreXY předvádí #3DBenchy pod dvě minuty s radikálním pohybovým a chladicím systémem",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/939549833/0/fabbaloo/default~T-CoreXY-Design-Demonstrates-SubTwoMinute-DBenchy-With-Radical-Motion-and-Cooling-System\" rel=\"nofollow\" title=\"T250 CoreXY Design Demonstrates Sub-Two-Minute #3DBenchy With Radical Motion and Cooling System\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/t250-cover-300x183.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>What is the world’s fastest 3D printer? It’s probably the T250.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/939549833/0/fabbaloo/default~T-CoreXY-Design-Demonstrates-SubTwoMinute-DBenchy-With-Radical-Motion-and-Cooling-System\" rel=\"nofollow\">T250 CoreXY Design Demonstrates Sub-Two-Minute #3DBenchy With Radical Motion and Cooling System</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/t250-cover-300x183.jpg",
