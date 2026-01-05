@@ -1,5 +1,134 @@
 [
   {
+    "title": "3dSynth představuje generativní přístup k G-kódu pro kreativní 3D tisk",
+    "summary": "3dSynth, a new software platform for desktop 3D printing, is aiming to rethink how objects are designed for FDM printers by removing the need for traditional CAD models and slicing workflows. The tool generates printer-ready G-code directly from mathematical parameters, allowing users to design objects through generative effects rather than polygon meshes. Available as both [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/banner-main-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-05T11:31:48+00:00",
+    "url": "https://3dprintingindustry.com/news/3dsynth-introduces-generative-g-code-approach-for-creative-3d-printing-247721/?utm_source=rss&utm_medium=rss&utm_campaign=3dsynth-introduces-generative-g-code-approach-for-creative-3d-printing",
+    "title_en": "3dSynth introduces generative G-code approach for creative 3D printing",
+    "summary_bullets_en": [
+      "3dSynth is a new software platform designed for desktop 3D printing.",
+      "It eliminates the need for traditional CAD models and slicing workflows.",
+      "The tool generates printer-ready G-code directly from mathematical parameters.",
+      "Users can design objects through generative effects rather than polygon meshes."
+    ],
+    "summary_bullets_cs": [
+      "3dSynth je nová softwarová platforma určená pro stolní 3D tisk.",
+      "Odstraňuje potřebu tradičních CAD modelů a pracovních postupů řezání.",
+      "Nástroj generuje G-kód připravený pro tisk přímo z matematických parametrů.",
+      "Uživatelé mohou navrhovat objekty pomocí generativních efektů místo polygonálních sítí."
+    ],
+    "tags": [
+      "Software",
+      "3dSynth",
+      "3D Printing",
+      "Generative Design"
+    ]
+  },
+  {
+    "title": "Stratasys spolupracuje s Novineer na integraci ověřené simulace výkonu FDM do GrabCAD Print Pro",
+    "summary": "Stratasys has announced a partnership with Novineer to integrate Novineer’s toolpath-aware FDM performance simulation technology into GrabCAD Print Pro. The integration aims to reduce physical testing for safety-critical, load-bearing polymer parts by enabling engineers to predict part performance directly from printer toolpaths. The collaboration brings Novineer’s NoviPath simulation engine into Stratasys’ software ecosystem. The combined [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/STRP045-Image-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-01-05T11:10:59+00:00",
+    "url": "https://3dprintingindustry.com/news/stratasys-partners-with-novineer-to-integrate-validated-fdm-performance-simulation-into-grabcad-print-pro-247728/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-partners-with-novineer-to-integrate-validated-fdm-performance-simulation-into-grabcad-print-pro",
+    "title_en": "Stratasys partners with Novineer to integrate validated FDM performance simulation into GrabCAD Print Pro",
+    "summary_bullets_en": [
+      "Stratasys has partnered with Novineer to integrate FDM performance simulation technology into GrabCAD Print Pro.",
+      "The integration aims to reduce physical testing for safety-critical, load-bearing polymer parts.",
+      "Engineers can predict part performance directly from printer toolpaths using Novineer's NoviPath simulation engine."
+    ],
+    "summary_bullets_cs": [
+      "Stratasys oznámil partnerství s Novineer pro integraci technologie simulace výkonu FDM do GrabCAD Print Pro.",
+      "Integrace má za cíl snížit fyzické testování bezpečnostně kritických, zatěžovaných polymerových dílů."
+    ],
+    "tags": [
+      "Software",
+      "Stratasys",
+      "Novineer",
+      "GrabCAD Print Pro",
+      "FDM"
+    ]
+  },
+  {
+    "title": "Rok 2025 v 3D tisku: Prosinec",
+    "summary": "December didn’t behave like a year-end victory lap. It read more like an audit. The month’s clearest signal was not a new machine or a fresh acronym, but the steady arrival of constraints: production volumes that can be checked, standards that can be enforced, failures that trigger scrutiny, and supply chains that are now treated [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/12/3DPI-Awards-Site-Banner-2026-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-01-05T10:16:55+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printing-industry-year-in-review-december-2025-247708/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printing-industry-year-in-review-december-2025",
+    "title_en": "3D Printing Industry Year in Review: December 2025",
+    "summary_bullets_en": [
+      "December 2025 highlighted the emergence of constraints in the 3D printing industry.",
+      "Focus shifted towards production volumes, enforceable standards, and scrutinized failures.",
+      "Supply chains are now being treated with increased attention and care."
+    ],
+    "summary_bullets_cs": [
+      "Prosinec 2025 zdůraznil vznik omezení v odvětví 3D tisku.",
+      "Pozornost se přesunula na objemy výroby, vynutitelné standardy a přezkoumávané selhání.",
+      "Dodavatelské řetězce jsou nyní pod zvýšenou pozorností a péčí."
+    ],
+    "tags": [
+      "Hardware",
+      "Standards",
+      "Supply Chain",
+      "Production",
+      "3D Printing Industry"
+    ]
+  },
+  {
+    "title": "Shimizu Corporation vyvíjí systém 3D tisku betonu na bázi spreje pro velké konstrukční komponenty",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/shimizu-corporation-develops-spray-based-3d-concrete-printing-system-for-large-structural-components/\" target=\"_blank\">Shimizu Corporation Develops Spray-Based 3D Concrete Printing System for Large Structural Components</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">January 5</span></div><div><img alt=\"Shimizu Corporation Develops Spray-Based 3D Concrete Printing System for Large Structural Components\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/74974908094-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/74974908094-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-01-05T10:00:05+00:00",
+    "url": "https://3dprinting.com/news/shimizu-corporation-develops-spray-based-3d-concrete-printing-system-for-large-structural-components/",
+    "title_en": "Shimizu Corporation Develops Spray-Based 3D Concrete Printing System for Large Structural Components",
+    "summary_bullets_en": [
+      "Shimizu Corporation has developed a new spray-based 3D concrete printing system.",
+      "The system is designed for creating large structural components.",
+      "This innovation aims to improve efficiency and reduce costs in construction projects."
+    ],
+    "summary_bullets_cs": [
+      "Shimizu Corporation vyvinula nový systém 3D tisku betonu na bázi spreje.",
+      "Systém je navržen pro vytváření velkých konstrukčních komponentů.",
+      "Tato inovace má za cíl zlepšit efektivitu a snížit náklady na stavební projekty."
+    ],
+    "tags": [
+      "Hardware",
+      "Shimizu Corporation",
+      "3D Printing",
+      "Construction",
+      "Concrete"
+    ]
+  },
+  {
+    "title": "Piezoelektrické 3D tištěné rezonátory umožňují malé roboty",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/939680603/0/fabbaloo/default~Piezoelectric-D-Printed-Resonators-Enable-Tiny-Robots\" rel=\"nofollow\" title=\"Piezoelectric 3D Printed Resonators Enable Tiny Robots\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/Piezoelectric-resonators-cover-300x179.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers demonstrated autonomous miniature robots that use piezoelectric-actuated 3D printed resonators to move and steer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/939680603/0/fabbaloo/default~Piezoelectric-D-Printed-Resonators-Enable-Tiny-Robots\" rel=\"nofollow\">Piezoelectric 3D Printed Resonators Enable Tiny Robots</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/Piezoelectric-resonators-cover-300x179.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-01-05T09:31:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/939680603/0/fabbaloo/default~Piezoelectric-D-Printed-Resonators-Enable-Tiny-Robots",
+    "title_en": "Piezoelectric 3D Printed Resonators Enable Tiny Robots",
+    "summary_bullets_en": [
+      "Researchers have developed autonomous miniature robots using piezoelectric-actuated 3D printed resonators.",
+      "These resonators allow the robots to move and steer effectively.",
+      "The technology demonstrates a significant advancement in the field of miniature robotics."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli autonomní miniaturní roboty využívající piezoelektricky poháněné 3D tištěné rezonátory.",
+      "Tyto rezonátory umožňují robotům efektivně se pohybovat a řídit."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Piezoelectric",
+      "Miniature Robots",
+      "Autonomous Technology"
+    ]
+  },
+  {
     "title": "Studio RAP proměňuje 3D tištěnou keramiku v okamžiky úžasu",
     "summary": "Studio RAP has been using 3D printing and ceramics to create spaces that feel human, calm, and alive. The studio’s approach can be seen in two recent projects, one in...",
     "image": "https://3dprint.com/wp-content/uploads/2025/12/1761313203246.jpg",
