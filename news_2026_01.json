@@ -1,5 +1,140 @@
 [
   {
+    "title": "Týmy z Duke a Penn State zkoumají respirační infekce pomocí 3D modelu plic",
+    "summary": "A team of researchers from Duke University and Penn State, led by Julia Oh, PhD, and Ibrahim Ozbolat, PhD, is using a 3D bioprinted lung model to study how influenza and bacteria interact in human lung tissue. Funded by a $3.2 million NIH grant over four years, the project aims to uncover why some co-infections [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/alveolar_sac_1_800x850-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-01-06T10:21:05+00:00",
+    "url": "https://3dprintingindustry.com/news/duke-and-penn-state-teams-explore-respiratory-infections-with-3d-lung-model-247771/?utm_source=rss&utm_medium=rss&utm_campaign=duke-and-penn-state-teams-explore-respiratory-infections-with-3d-lung-model",
+    "title_en": "Duke and Penn State Teams Explore Respiratory Infections with 3D Lung Model",
+    "summary_bullets_en": [
+      "Researchers from Duke University and Penn State are using a 3D bioprinted lung model.",
+      "The study focuses on interactions between influenza and bacteria in human lung tissue.",
+      "The project is led by Julia Oh, PhD, and Ibrahim Ozbolat, PhD.",
+      "It is funded by a $3.2 million NIH grant over four years."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Duke University a Penn State používají 3D biotištěný model plic.",
+      "Studie se zaměřuje na interakce mezi chřipkou a bakteriemi v lidské plicní tkáni.",
+      "Projekt vedou Julia Oh, PhD, a Ibrahim Ozbolat, PhD.",
+      "Je financován grantem NIH ve výši 3,2 milionu dolarů na čtyři roky."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Bioprinting",
+      "Duke University",
+      "Penn State",
+      "NIH",
+      "Respiratory Infections"
+    ]
+  },
+  {
+    "title": "Shimizu představuje robotický sprejový tisk pro zvýšení efektivity ve stavebnictví",
+    "summary": "Japanese construction and engineering company Shimizu Corporation has unveiled a new spray-based 3D concrete printing system aimed at constructing large, curved, and reinforced structural components.&#160; The system combines a nine-degree-of-freedom gantry robot with a material spray simulator, allowing engineers to verify material behavior before printing. This approach enables precise, automated fabrication of complex structural geometries [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/2025047_ph02-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-06T10:20:28+00:00",
+    "url": "https://3dprintingindustry.com/news/shimizu-introduces-robotic-spray-printing-to-enhance-construction-efficiency-247777/?utm_source=rss&utm_medium=rss&utm_campaign=shimizu-introduces-robotic-spray-printing-to-enhance-construction-efficiency",
+    "title_en": "Shimizu Introduces Robotic Spray Printing to Enhance Construction Efficiency",
+    "summary_bullets_en": [
+      "Shimizu Corporation has launched a new 3D concrete printing system using spray technology.",
+      "The system is designed for constructing large, curved, and reinforced structural components.",
+      "It features a nine-degree-of-freedom gantry robot and a material spray simulator.",
+      "This technology allows for precise, automated fabrication of complex structural geometries."
+    ],
+    "summary_bullets_cs": [
+      "Japonská společnost Shimizu Corporation představila nový systém 3D tisku betonu pomocí sprejové technologie.",
+      "Systém je určen pro stavbu velkých, zakřivených a vyztužených konstrukčních prvků.",
+      "Obsahuje robotický portál s devíti stupni volnosti a simulátor materiálového spreje.",
+      "Tato technologie umožňuje přesnou, automatizovanou výrobu složitých konstrukčních geometrických tvarů."
+    ],
+    "tags": [
+      "Hardware",
+      "Shimizu Corporation",
+      "3D Printing",
+      "Construction",
+      "Robotics"
+    ]
+  },
+  {
+    "title": "Nový upgrade AMIS Pro přidává adaptivní řezání pro binder jetting",
+    "summary": "3D printing software developer AMIS has partnered with a researcher from Turkey-based Ondokuz Mayıs University (OMU) to integrate a variable slice height algorithm into its AMIS Pro build preparation software. This development targets binder jetting processes and introduces adaptive slicing functionality within the software environment. Developed by Dr. Hasan Bas of OMU, the algorithm enables [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2024/06/Part-View-interface-on-AMIS-Pro.-Image-via-AMIS-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-06T10:16:18+00:00",
+    "url": "https://3dprintingindustry.com/news/new-amis-pro-upgrade-adds-adaptive-slicing-for-binder-jetting-247737/?utm_source=rss&utm_medium=rss&utm_campaign=new-amis-pro-upgrade-adds-adaptive-slicing-for-binder-jetting",
+    "title_en": "New AMIS Pro upgrade adds adaptive slicing for binder jetting",
+    "summary_bullets_en": [
+      "AMIS has partnered with a researcher from Ondokuz Mayıs University to enhance its AMIS Pro software.",
+      "The upgrade introduces a variable slice height algorithm specifically for binder jetting processes.",
+      "Dr. Hasan Bas developed the algorithm to enable adaptive slicing within the software."
+    ],
+    "summary_bullets_cs": [
+      "AMIS spolupracuje s výzkumníkem z Ondokuz Mayıs University na vylepšení softwaru AMIS Pro.",
+      "Upgrade zavádí algoritmus proměnlivé výšky řezu speciálně pro procesy binder jetting.",
+      "Algoritmus vyvinul Dr. Hasan Bas, aby umožnil adaptivní řezání v rámci softwaru."
+    ],
+    "tags": [
+      "Software",
+      "AMIS",
+      "Ondokuz Mayıs University",
+      "Binder Jetting"
+    ]
+  },
+  {
+    "title": "Výzkumníci testují přijetí nového 3D tisknutelného jídla spotřebiteli",
+    "summary": "Researchers from the Italian National Agency for New Technologies, Energy and Sustainable Economic Development (ENEA) have studied consumer reactions to an experimental food made from plant cell cultures and fruit by-products to assess its acceptance. Led by Simona Errico, Valentina Mastrobuono, Paola Sangiorgio, and Silvia Massa, the study centers on small edible spheres described as [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/barretta-rosa-canina-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-06T10:14:28+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-test-consumer-acceptance-of-a-new-3d-printable-food-247821/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-test-consumer-acceptance-of-a-new-3d-printable-food",
+    "title_en": "Researchers Test Consumer Acceptance of a New 3D Printable Food",
+    "summary_bullets_en": [
+      "Researchers from ENEA are studying consumer reactions to a new 3D printable food.",
+      "The food is made from plant cell cultures and fruit by-products.",
+      "The study is led by Simona Errico, Valentina Mastrobuono, Paola Sangiorgio, and Silvia Massa.",
+      "The focus is on small edible spheres designed for consumer testing."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z ENEA zkoumají reakce spotřebitelů na nové 3D tisknutelné jídlo.",
+      "Jídlo je vyrobeno z rostlinných buněčných kultur a vedlejších produktů ovoce.",
+      "Studii vedou Simona Errico, Valentina Mastrobuono, Paola Sangiorgio a Silvia Massa.",
+      "Zaměřují se na malé jedlé kuličky určené pro testování spotřebiteli."
+    ],
+    "tags": [
+      "Material",
+      "ENEA",
+      "3D Printing",
+      "Food Technology"
+    ]
+  },
+  {
+    "title": "Směsi PEEK/PEI řeší tiskovatelnost FFF při vysokých teplotách",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/939727769/0/fabbaloo/default~PEEKPEI-Blends-Tackle-HighTemperature-FFF-Printability\" rel=\"nofollow\" title=\"PEEK/PEI Blends Tackle High-Temperature FFF Printability\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/peek-pei-blend-cover-300x113.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new study explores PEEK and PEI blends to make high temperature FFF more printable without losing performance.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/939727769/0/fabbaloo/default~PEEKPEI-Blends-Tackle-HighTemperature-FFF-Printability\" rel=\"nofollow\">PEEK/PEI Blends Tackle High-Temperature FFF Printability</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/peek-pei-blend-cover-300x113.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-01-06T09:32:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/939727769/0/fabbaloo/default~PEEKPEI-Blends-Tackle-HighTemperature-FFF-Printability",
+    "title_en": "PEEK/PEI Blends Tackle High-Temperature FFF Printability",
+    "summary_bullets_en": [
+      "A new study investigates the use of PEEK and PEI blends for improved high-temperature FFF printability.",
+      "The blends aim to enhance printability without compromising material performance.",
+      "This research could lead to more efficient and reliable 3D printing processes for high-temperature applications."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie zkoumá použití směsí PEEK a PEI pro zlepšení tiskovatelnosti FFF při vysokých teplotách.",
+      "Cílem směsí je zlepšit tiskovatelnost bez kompromisů na výkonu materiálu.",
+      "Tento výzkum by mohl vést k efektivnějším a spolehlivějším procesům 3D tisku pro aplikace při vysokých teplotách."
+    ],
+    "tags": [
+      "Material",
+      "PEEK",
+      "PEI",
+      "3D Printing",
+      "High-Temperature"
+    ]
+  },
+  {
     "title": "Hitem3D vydává verzi 2.0 s integrovanou generací textur pro vyšší věrnost 3D modelů",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/939703547/0/fabbaloo/default~HitemD-Releases-Version-With-Integrated-Texture-Generation-for-HigherFidelity-D-Models\" rel=\"nofollow\" title=\"Hitem3D Releases Version 2.0 With Integrated Texture Generation for Higher-Fidelity 3D Models\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/hitem3d-20-cover-300x178.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>AI company Hitem3D has released a new version of their 3D generation service.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/939703547/0/fabbaloo/default~HitemD-Releases-Version-With-Integrated-Texture-Generation-for-HigherFidelity-D-Models\" rel=\"nofollow\">Hitem3D Releases Version 2.0 With Integrated Texture Generation for Higher-Fidelity 3D Models</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/hitem3d-20-cover-300x178.jpg",
