@@ -1,5 +1,81 @@
 [
   {
+    "title": "Metoda uzavřené smyčky optimalizuje přesnost FFF",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/939887057/0/fabbaloo/default~Closed-Loop-Reference-Method-Optimizes-FFF-Accuracy\" rel=\"nofollow\" title=\"Closed Loop Reference Method Optimizes FFF Accuracy\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/closed-loop-architecture-300x192.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers propose a new closed loop reference optimization for extrusion 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/939887057/0/fabbaloo/default~Closed-Loop-Reference-Method-Optimizes-FFF-Accuracy\" rel=\"nofollow\">Closed Loop Reference Method Optimizes FFF Accuracy</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/closed-loop-architecture-300x192.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-01-09T09:37:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/939887057/0/fabbaloo/default~Closed-Loop-Reference-Method-Optimizes-FFF-Accuracy",
+    "title_en": "Closed Loop Reference Method Optimizes FFF Accuracy",
+    "summary_bullets_en": [
+      "Researchers have developed a new closed loop reference optimization method for extrusion 3D printing.",
+      "The method aims to enhance the accuracy of Fused Filament Fabrication (FFF) processes.",
+      "This approach involves continuous feedback to adjust printing parameters in real-time."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci navrhli novou metodu optimalizace uzavřené smyčky pro extruzní 3D tisk.",
+      "Metoda má za cíl zlepšit přesnost procesů Fused Filament Fabrication (FFF).",
+      "Tento přístup zahrnuje kontinuální zpětnou vazbu pro úpravu tiskových parametrů v reálném čase."
+    ],
+    "tags": [
+      "Hardware",
+      "FFF",
+      "3D Printing",
+      "Optimization"
+    ]
+  },
+  {
+    "title": "MetalPrinting představuje nový 3D tiskárnu GAUSS MT90 na kovovou pastu: Technické specifikace a cena",
+    "summary": "South Korean metal 3D printing manufacturer MetalPrinting has announced the novel GAUSS MT90 metal paste 3D printer at CES 2026. Unlike standard systems using lasers, powder beds, or binder spraying, the MT90 operates with paste based metal extrusion (PME), in which metal powder is formulated into a paste and extruded through a nozzle at room [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/4705ed012df3d-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-09T09:10:55+00:00",
+    "url": "https://3dprintingindustry.com/news/metalprinting-debuts-its-new-gauss-mt90-paste-metal-3d-printer-technical-specifications-and-pricing-247954/?utm_source=rss&utm_medium=rss&utm_campaign=metalprinting-debuts-its-new-gauss-mt90-paste-metal-3d-printer-technical-specifications-and-pricing",
+    "title_en": "MetalPrinting Debuts its New GAUSS MT90 Paste Metal 3D Printer: Technical Specifications and Pricing",
+    "summary_bullets_en": [
+      "MetalPrinting, a South Korean company, introduced the GAUSS MT90 metal paste 3D printer at CES 2026.",
+      "The GAUSS MT90 uses paste-based metal extrusion (PME) technology, differing from traditional laser, powder bed, or binder spraying methods.",
+      "Metal powder is formulated into a paste and extruded through a nozzle at room temperature."
+    ],
+    "summary_bullets_cs": [
+      "Jihokorejská společnost MetalPrinting představila na CES 2026 3D tiskárnu GAUSS MT90 na kovovou pastu.",
+      "GAUSS MT90 využívá technologii extruze kovové pasty (PME), která se liší od tradičních metod s lasery, práškovými lůžky nebo postřikem pojiva.",
+      "Kovový prášek je formulován do pasty a extrudován tryskou při pokojové teplotě."
+    ],
+    "tags": [
+      "Hardware",
+      "MetalPrinting",
+      "3D Printing",
+      "CES 2026",
+      "GAUSS MT90"
+    ]
+  },
+  {
+    "title": "Automatizovaný výplňový tisk: Očividně lepší způsob 3D tisku",
+    "summary": "I&#8217;m not saying that I invented this or that I&#8217;m the first to try this. For many years, people have been filling the infill patterns of material extrusion prints with...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/12/viscotec-vipro-head-medical-grade-1k-website-1024x576.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-01-09T07:00:26+00:00",
+    "url": "https://3dprint.com/322989/automated-fill-print-an-obviously-better-way-to-3d-print/",
+    "title_en": "Automated Fill Print: An Obviously Better Way to 3D Print",
+    "summary_bullets_en": [
+      "The article discusses the concept of automated fill patterns in 3D printing.",
+      "It highlights the benefits of using automated infill for material extrusion prints.",
+      "The author acknowledges that this is not a new invention but emphasizes its advantages."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá konceptem automatizovaných výplňových vzorů v 3D tisku.",
+      "Zdůrazňuje výhody použití automatizované výplně pro tisk s extruzí materiálu.",
+      "Autor uznává, že to není nový vynález, ale zdůrazňuje jeho výhody."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Material Extrusion",
+      "Infill Patterns"
+    ]
+  },
+  {
     "title": "Námořní velení vyrábí 3D tištěný hledí JHMCS pro rychlejší a levnější výcvik",
     "summary": "Multiple Navy organizations have joined forces to bolster aircrew protection with a new application of additive manufacturing: a 3D printed version of the Joint Helmet Mounted Cueing System (JHMCS).&#160; The effort involves the Naval Aviation Training Systems and Ranges Program Office (PMA-205), Naval Education and Training Command (NETC), Center for Naval Aviation Technical Training (CNATT), [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/RRL-PIC-1-150x100.jpg",
