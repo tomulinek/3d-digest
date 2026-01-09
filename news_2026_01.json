@@ -1,5 +1,86 @@
 [
   {
+    "title": "Námořní velení vyrábí 3D tištěný hledí JHMCS pro rychlejší a levnější výcvik",
+    "summary": "Multiple Navy organizations have joined forces to bolster aircrew protection with a new application of additive manufacturing: a 3D printed version of the Joint Helmet Mounted Cueing System (JHMCS).&#160; The effort involves the Naval Aviation Training Systems and Ranges Program Office (PMA-205), Naval Education and Training Command (NETC), Center for Naval Aviation Technical Training (CNATT), [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/RRL-PIC-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-08T20:30:00+00:00",
+    "url": "https://3dprintingindustry.com/news/navy-commands-produce-3d-printed-jhmcs-visor-for-faster-cheaper-training-247943/?utm_source=rss&utm_medium=rss&utm_campaign=navy-commands-produce-3d-printed-jhmcs-visor-for-faster-cheaper-training",
+    "title_en": "Navy Commands Produce 3D Printed JHMCS Visor for Faster, Cheaper Training",
+    "summary_bullets_en": [
+      "Multiple Navy organizations collaborate to enhance aircrew protection using 3D printing.",
+      "A 3D printed version of the Joint Helmet Mounted Cueing System (JHMCS) visor is developed.",
+      "The initiative involves the Naval Aviation Training Systems and Ranges Program Office, Naval Education and Training Command, and Center for Naval Aviation Technical Training."
+    ],
+    "summary_bullets_cs": [
+      "Několik námořních organizací spolupracuje na zlepšení ochrany posádky letadel pomocí 3D tisku.",
+      "Byla vyvinuta 3D tištěná verze hledí systému Joint Helmet Mounted Cueing System (JHMCS).",
+      "Iniciativa zahrnuje Programovou kancelář pro výcvikové systémy a rozsahy námořního letectva, Námořní vzdělávací a výcvikové velení a Centrum pro technický výcvik námořního letectva."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Navy",
+      "JHMCS",
+      "Naval Aviation Training Systems",
+      "NETC",
+      "CNATT"
+    ]
+  },
+  {
+    "title": "Posílení obranných dodavatelských řetězců: Vítězové jmenováni v programu Allied Additive Manufacturing",
+    "summary": "America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have awarded $1.1 million through the Allied Additive Manufacturing Interoperability (AAMI) Program to establish metal 3D printing equivalency and interoperability between U.S. and U.K. defense supply chains.&#160; Funded by the Office of the Under Secretary of War for Research and Engineering’s Manufacturing Technology [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/America-Makes-facility-face-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-08T18:06:03+00:00",
+    "url": "https://3dprintingindustry.com/news/strengthening-defense-supply-chains-winners-named-in-allied-additive-manufacturing-program-247938/?utm_source=rss&utm_medium=rss&utm_campaign=strengthening-defense-supply-chains-winners-named-in-allied-additive-manufacturing-program",
+    "title_en": "Strengthening Defense Supply Chains: Winners Named in Allied Additive Manufacturing Program",
+    "summary_bullets_en": [
+      "America Makes and NCDMM have awarded $1.1 million to enhance metal 3D printing interoperability between U.S. and U.K. defense supply chains.",
+      "The funding is part of the Allied Additive Manufacturing Interoperability (AAMI) Program.",
+      "The initiative is supported by the Office of the Under Secretary of War for Research and Engineering’s Manufacturing Technology."
+    ],
+    "summary_bullets_cs": [
+      "America Makes a NCDMM udělily 1,1 milionu dolarů na zlepšení interoperability kovového 3D tisku mezi obrannými dodavatelskými řetězci USA a Velké Británie.",
+      "Financování je součástí programu Allied Additive Manufacturing Interoperability (AAMI).",
+      "Iniciativa je podporována Úřadem náměstka ministra války pro výzkum a inženýrství v oblasti výrobní technologie."
+    ],
+    "tags": [
+      "Hardware",
+      "America Makes",
+      "NCDMM",
+      "3D Printing",
+      "Defense",
+      "Interoperability"
+    ]
+  },
+  {
+    "title": "Motion Imager a TU/e posouvají volumetrický 3D tisk na průmyslovou úroveň",
+    "summary": "Netherlands-based deep science and engineering company Motion Imager has partnered with the Mechanics of Materials and Processing and Performance groups at Eindhoven University of Technology to accelerate volumetric AM from research-stage innovation to scalable production.&#160; The initiative secured significant backing through a competitive selection run by the Materials Innovation Institute and Holland HighTech, which highlighted [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/csm_TeamAllEdit_9008ba3079-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-08T18:03:10+00:00",
+    "url": "https://3dprintingindustry.com/news/motion-imager-and-tu-e-advance-volumetric-3d-printing-for-industrial-scale-247947/?utm_source=rss&utm_medium=rss&utm_campaign=motion-imager-and-tu-e-advance-volumetric-3d-printing-for-industrial-scale",
+    "title_en": "Motion Imager and TU/e Advance Volumetric 3D Printing for Industrial Scale",
+    "summary_bullets_en": [
+      "Motion Imager collaborates with Eindhoven University of Technology to advance volumetric additive manufacturing.",
+      "The partnership aims to transition volumetric 3D printing from research to scalable industrial production.",
+      "The initiative received significant support from the Materials Innovation Institute and Holland HighTech."
+    ],
+    "summary_bullets_cs": [
+      "Motion Imager spolupracuje s Technickou univerzitou v Eindhovenu na pokroku ve volumetrické aditivní výrobě.",
+      "Partnerství si klade za cíl přechod volumetrického 3D tisku z výzkumu na škálovatelnou průmyslovou produkci.",
+      "Iniciativa získala významnou podporu od Institutu pro inovace materiálů a Holland HighTech."
+    ],
+    "tags": [
+      "Hardware",
+      "Motion Imager",
+      "Eindhoven University of Technology",
+      "Materials Innovation Institute",
+      "Holland HighTech"
+    ]
+  },
+  {
     "title": "Praktické zkušenosti s Creality K2 Pro Combo, Část 4",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/939859640/0/fabbaloo/default~Hands-on-with-the-Creality-K-Pro-Combo-Part\" rel=\"nofollow\" title=\"Hands on with the Creality K2 Pro Combo, Part 4\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/00-k2-pro-cover4-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Our look at the Creality K2 Pro Combo 3D printer concludes with final thoughts. This is part four of a four part series, please read parts one, two and three. Creality K2 Pro Combo Final Thoughts Much like the smaller K2, the K2 Pro Combo’s packaging has been well thought out. Not only does it&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/939859640/0/fabbaloo/default~Hands-on-with-the-Creality-K-Pro-Combo-Part\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">Hands on with the Creality K2 Pro Combo, Part 4</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/939859640/0/fabbaloo/default~Hands-on-with-the-Creality-K-Pro-Combo-Part\" rel=\"nofollow\">Hands on with the Creality K2 Pro Combo, Part 4</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/00-k2-pro-cover4-300x225.jpg",
