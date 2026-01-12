@@ -1,5 +1,166 @@
 [
   {
+    "title": "Výzkumníci z POSTECH vyvinuli 3D tištěné vertikální nanolasery pro optické integrované obvody",
+    "summary": "Researchers at Pohang University of Science and Technology (POSTECH) have developed an ultra-fine 3D printing technique for fabricating vertically aligned nanolasers directly on semiconductor substrates. The approach enables high-density placement of optical components and is intended for use in future optical integrated circuits for computing, communications, and display technologies. The work was led by Ji [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/image-7-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-01-12T11:17:22+00:00",
+    "url": "https://3dprintingindustry.com/news/postech-researchers-develop-3d-printed-vertical-nanolasers-for-optical-integrated-circuits-247893/?utm_source=rss&utm_medium=rss&utm_campaign=postech-researchers-develop-3d-printed-vertical-nanolasers-for-optical-integrated-circuits",
+    "title_en": "POSTECH researchers develop 3D printed vertical nanolasers for optical integrated circuits",
+    "summary_bullets_en": [
+      "POSTECH researchers have created a 3D printing technique for fabricating vertical nanolasers on semiconductor substrates.",
+      "This method allows for high-density placement of optical components.",
+      "The technology is aimed at future optical integrated circuits for computing, communications, and display technologies."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z POSTECH vytvořili 3D tiskovou techniku pro výrobu vertikálních nanolaserů na polovodičových substrátech.",
+      "Tato metoda umožňuje vysokou hustotu umístění optických komponentů.",
+      "Technologie je zaměřena na budoucí optické integrované obvody pro výpočetní, komunikační a zobrazovací technologie."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Nanolasers",
+      "Optical Integrated Circuits",
+      "POSTECH"
+    ]
+  },
+  {
+    "title": "Výzkumníci 3D tisknou inovativní barevně laditelné, poloprůhledné perovskitové solární články",
+    "summary": "Researchers at the Hebrew University of Jerusalem have developed flexible, semi-transparent perovskite solar cells whose transparency and apparent color can be tuned without altering the light-absorbing material. Semi-transparent solar cells are often discussed in the context of windows and building-integrated photovoltaics, but in practice they tend to force a compromise. Most existing designs achieve transparency [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/d5el00153f-f1-150x100.gif",
+    "source": "3D Printing Industry",
+    "published": "2026-01-12T11:06:26+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-3d-print-innovative-color-tunable-semi-transparent-perovskite-solar-cells-248024/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-3d-print-innovative-color-tunable-semi-transparent-perovskite-solar-cells",
+    "title_en": "Researchers 3D print innovative color-tunable, semi-transparent perovskite solar cells",
+    "summary_bullets_en": [
+      "Researchers at the Hebrew University of Jerusalem have developed flexible, semi-transparent perovskite solar cells.",
+      "The transparency and apparent color of these solar cells can be tuned without altering the light-absorbing material.",
+      "These semi-transparent solar cells are particularly relevant for applications in windows and building-integrated photovoltaics.",
+      "Existing designs often require a compromise between transparency and efficiency, which this new development aims to address."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Hebrejské univerzity v Jeruzalémě vyvinuli flexibilní, poloprůhledné perovskitové solární články.",
+      "Průhlednost a viditelnou barvu těchto solárních článků lze ladit bez změny světlo absorbujícího materiálu.",
+      "Tyto poloprůhledné solární články jsou obzvláště relevantní pro aplikace v oknech a fotovoltaice integrované do budov.",
+      "Stávající návrhy často vyžadují kompromis mezi průhledností a účinností, což se tento nový vývoj snaží řešit."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Perovskite Solar Cells",
+      "Hebrew University of Jerusalem"
+    ]
+  },
+  {
+    "title": "Hybridní AFP-FFF hlava pro termoplastické uhlíkové vlákno",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/940033346/0/fabbaloo/default~Hybrid-AFPFFF-Head-For-Thermoplastic-Carbon-Fiber\" rel=\"nofollow\" title=\"Hybrid AFP-FFF Head For Thermoplastic Carbon Fiber\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/afp-fff-head-cover-300x197.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new Chinese patent describes a robotic toolhead that blends automatic fiber placement with FFF for thermoplastic carbon fiber parts.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/940033346/0/fabbaloo/default~Hybrid-AFPFFF-Head-For-Thermoplastic-Carbon-Fiber\" rel=\"nofollow\">Hybrid AFP-FFF Head For Thermoplastic Carbon Fiber</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/afp-fff-head-cover-300x197.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-01-12T09:44:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/940033346/0/fabbaloo/default~Hybrid-AFPFFF-Head-For-Thermoplastic-Carbon-Fiber",
+    "title_en": "Hybrid AFP-FFF Head For Thermoplastic Carbon Fiber",
+    "summary_bullets_en": [
+      "A new Chinese patent reveals a robotic toolhead combining automatic fiber placement (AFP) with fused filament fabrication (FFF).",
+      "The toolhead is designed for creating thermoplastic carbon fiber parts.",
+      "This innovation could enhance the efficiency and capabilities of 3D printing with carbon fiber materials."
+    ],
+    "summary_bullets_cs": [
+      "Nový čínský patent popisuje robotickou hlavu, která kombinuje automatické pokládání vláken (AFP) s technologií FFF.",
+      "Hlava je navržena pro výrobu dílů z termoplastického uhlíkového vlákna.",
+      "Tato inovace by mohla zvýšit efektivitu a schopnosti 3D tisku s uhlíkovými vlákny."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Carbon Fiber",
+      "AFP",
+      "FFF"
+    ]
+  },
+  {
+    "title": "Centrum pro léčbu rakoviny v Kelowně používá 3D tiskárnu k personalizaci radiační léčby",
+    "summary": "A small 3D printer is now being used by clinicians at British Columbia Cancer Kelowna to create patient-specific tools for brachytherapy, enabling more accurate radiation delivery for people with cervical, vaginal, and recurrent endometrial cancers. “This was the dream of myself and a physician who has since moved back to Quebec,” said medical physicist Dr. [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/default-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-12T08:20:52+00:00",
+    "url": "https://3dprintingindustry.com/news/kelowna-cancer-centre-uses-3d-printer-to-personalize-radiation-treatment-248012/?utm_source=rss&utm_medium=rss&utm_campaign=kelowna-cancer-centre-uses-3d-printer-to-personalize-radiation-treatment",
+    "title_en": "Kelowna Cancer Centre Uses 3D Printer to Personalize Radiation Treatment",
+    "summary_bullets_en": [
+      "British Columbia Cancer Kelowna is using a 3D printer to create patient-specific tools for brachytherapy.",
+      "The technology allows for more accurate radiation delivery for cervical, vaginal, and recurrent endometrial cancers.",
+      "The initiative was inspired by a collaboration between a medical physicist and a physician."
+    ],
+    "summary_bullets_cs": [
+      "British Columbia Cancer Kelowna používá 3D tiskárnu k vytváření nástrojů na míru pro brachyterapii.",
+      "Technologie umožňuje přesnější dodávku záření pro rakovinu děložního čípku, vagíny a opakující se endometriální rakovinu.",
+      "Iniciativa byla inspirována spoluprací mezi lékařským fyzikem a lékařem."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Brachytherapy",
+      "Cancer Treatment",
+      "Medical Technology"
+    ]
+  },
+  {
+    "title": "FUGO Precision 3D integruje materiály Graphy pro vysoce přesnou dentální výrobu",
+    "summary": "FUGO Precision 3D, a developer of 3D printing technology for dental manufacturing, has announced a strategic collaboration with South Korea’s Graphy, a developer of photopolymer materials for 3D printing, ahead of its official market debut at LMT Lab Day 2026 in Chicago. The partnership will integrate Graphy’s advanced photopolymer materials into FUGO’s centrifugal 3D printing [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/1767375356390-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-12T07:48:10+00:00",
+    "url": "https://3dprintingindustry.com/news/fugo-precision-3d-integrates-graphy-materials-for-high-precision-dental-manufacturing-248006/?utm_source=rss&utm_medium=rss&utm_campaign=fugo-precision-3d-integrates-graphy-materials-for-high-precision-dental-manufacturing",
+    "title_en": "FUGO Precision 3D Integrates Graphy Materials for High-Precision Dental Manufacturing",
+    "summary_bullets_en": [
+      "FUGO Precision 3D has announced a strategic collaboration with Graphy.",
+      "Graphy is a South Korean developer of photopolymer materials for 3D printing.",
+      "The partnership aims to integrate Graphy's materials into FUGO's centrifugal 3D printing technology.",
+      "The collaboration will be officially introduced at LMT Lab Day 2026 in Chicago."
+    ],
+    "summary_bullets_cs": [
+      "FUGO Precision 3D oznámilo strategickou spolupráci s firmou Graphy.",
+      "Graphy je jihokorejský vývojář fotopolymerních materiálů pro 3D tisk.",
+      "Cílem partnerství je integrace materiálů Graphy do centrifugální 3D tiskové technologie FUGO.",
+      "Spolupráce bude oficiálně představena na LMT Lab Day 2026 v Chicagu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "FUGO Precision 3D",
+      "Graphy"
+    ]
+  },
+  {
+    "title": "LLNL a Stanford rozšiřují 3D nanotisk z laboratoře na úroveň waferů",
+    "summary": "Engineers and scientists at Lawrence Livermore National Laboratory (LLNL), in collaboration with Stanford University, have developed a 3D nanofabrication technique that scales two-photon lithography (TPL) from a laboratory tool to wafer-scale production—retaining submicron precision while achieving throughput more than a thousand times faster than commercial systems.&#160; The innovation, published in Nature, could accelerate manufacturing for [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/Ext_Metalitho_1200x800-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-12T06:58:55+00:00",
+    "url": "https://3dprintingindustry.com/news/llnl-and-stanford-scale-3d-nanoprinting-from-lab-to-wafer-scale-248017/?utm_source=rss&utm_medium=rss&utm_campaign=llnl-and-stanford-scale-3d-nanoprinting-from-lab-to-wafer-scale",
+    "title_en": "LLNL and Stanford Scale 3D Nanoprinting from Lab to Wafer-Scale",
+    "summary_bullets_en": [
+      "LLNL and Stanford University have developed a 3D nanofabrication technique.",
+      "The technique scales two-photon lithography (TPL) to wafer-scale production.",
+      "It retains submicron precision while increasing throughput over a thousand times.",
+      "The innovation could accelerate manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "LLNL a Stanford University vyvinuli techniku 3D nanovýroby.",
+      "Technika rozšiřuje dvoufotonovou litografii (TPL) na úroveň waferů.",
+      "Zachovává submikronovou přesnost a zvyšuje propustnost více než tisíckrát.",
+      "Inovace by mohla urychlit výrobní procesy."
+    ],
+    "tags": [
+      "Hardware",
+      "LLNL",
+      "Stanford University",
+      "3D Nanoprinting",
+      "Two-Photon Lithography"
+    ]
+  },
+  {
     "title": "Hill Aerospace Museum používá 3D skenování a 3D tisk k zachování historických letadel",
     "summary": "According to the &#8220;Additive Manufacturing in Military and Defense 2024&#8221; report by AM Research, direct U.S. DoW spending on 3D printing and AM is estimated to exceed $2.6 billion by...",
     "image": "https://3dprint.com/wp-content/uploads/2026/01/Screenshot-2026-01-10-at-9.11.53-PM.png",
