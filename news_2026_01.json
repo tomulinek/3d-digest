@@ -1,5 +1,111 @@
 [
   {
+    "title": "Patent přetváří editovatelné stromové 3D podpory",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/940279886/0/fabbaloo/default~Patent-Reimagines-Editable-Tree-D-Supports\" rel=\"nofollow\" title=\"Patent Reimagines Editable Tree 3D Supports\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/reimagined-tree-supports-cover-300x218.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A newly published patent outlines editable, tree-style supports with controllable penetration tips to cut support count and stabilize tricky overhangs.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/940279886/0/fabbaloo/default~Patent-Reimagines-Editable-Tree-D-Supports\" rel=\"nofollow\">Patent Reimagines Editable Tree 3D Supports</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/reimagined-tree-supports-cover-300x218.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-01-15T09:01:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/940279886/0/fabbaloo/default~Patent-Reimagines-Editable-Tree-D-Supports",
+    "title_en": "Patent Reimagines Editable Tree 3D Supports",
+    "summary_bullets_en": [
+      "A new patent introduces editable tree-style supports for 3D printing.",
+      "These supports feature controllable penetration tips to reduce the number of supports needed.",
+      "The design aims to stabilize challenging overhangs during the printing process."
+    ],
+    "summary_bullets_cs": [
+      "Nový patent představuje editovatelné stromové podpory pro 3D tisk.",
+      "Tyto podpory mají ovladatelné penetrační hroty pro snížení počtu potřebných podpor.",
+      "Design je zaměřen na stabilizaci náročných převisů během procesu tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Patent",
+      "Support Structures"
+    ]
+  },
+  {
+    "title": "Britská vláda financuje výzkum vývoje 3D tištěných kovových slitin pro jadernou fúzi",
+    "summary": "The UK Atomic Energy Authority (UKAEA), a government-funded research organization, has demonstrated a persistent interest in developing metal additive manufacturing (AM) materials for nuclear fusion applications, including multiple phases of...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/01/IMG_2107.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-01-15T09:00:22+00:00",
+    "url": "https://3dprint.com/323251/uk-government-funds-research-to-develop-3d-printed-metal-alloys-for-nuclear-fusion/",
+    "title_en": "UK Government Funds Research to Develop 3D Printed Metal Alloys for Nuclear Fusion",
+    "summary_bullets_en": [
+      "The UK Atomic Energy Authority (UKAEA) is focusing on developing metal additive manufacturing materials for nuclear fusion.",
+      "The research is government-funded, highlighting the UK's commitment to advancing nuclear fusion technology.",
+      "The project aims to create new metal alloys that can withstand the extreme conditions of nuclear fusion reactors.",
+      "This initiative is part of a broader effort to make nuclear fusion a viable and sustainable energy source."
+    ],
+    "summary_bullets_cs": [
+      "Britský úřad pro atomovou energii (UKAEA) se zaměřuje na vývoj materiálů pro aditivní výrobu kovů pro jadernou fúzi.",
+      "Výzkum je financován vládou, což zdůrazňuje závazek Spojeného království k pokroku v technologii jaderné fúze.",
+      "Projekt si klade za cíl vytvořit nové kovové slitiny, které vydrží extrémní podmínky v reaktorech jaderné fúze.",
+      "Tato iniciativa je součástí širšího úsilí o to, aby se jaderná fúze stala životaschopným a udržitelným zdrojem energie."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "UKAEA",
+      "Nuclear Fusion",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "LandSpace podává žádost o IPO ve výši 1 miliardy dolarů, zájem investorů o AM pro vesmírné starty",
+    "summary": "Chinese space launch company LandSpace has filed for an IPO on Shanghai’s Star Market, seeking to raise ¥7.5 billion (approx. $1 billion), at a time when AM is moving from a development tool into a core production technology for orbital launch vehicles. As reported, the Shanghai Stock Exchange (SSE) accepted the Beijing-based company’s application for [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2024/02/VTVL-1-in-flight.-Photo-via-LandSpace-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-15T08:49:31+00:00",
+    "url": "https://3dprintingindustry.com/news/landspace-files-for-1bn-ipo-spotlight-on-investor-interest-in-am-for-space-launch-248148/?utm_source=rss&utm_medium=rss&utm_campaign=landspace-files-for-1bn-ipo-spotlight-on-investor-interest-in-am-for-space-launch",
+    "title_en": "LandSpace Files for $1BN IPO, Spotlight on Investor Interest in AM for Space Launch",
+    "summary_bullets_en": [
+      "LandSpace, a Chinese space launch company, has filed for an IPO on Shanghai's Star Market.",
+      "The company aims to raise approximately $1 billion to support its operations.",
+      "Additive manufacturing (AM) is becoming a core production technology for orbital launch vehicles.",
+      "The Shanghai Stock Exchange has accepted LandSpace's application."
+    ],
+    "summary_bullets_cs": [
+      "Čínská společnost LandSpace podala žádost o IPO na šanghajském trhu Star Market.",
+      "Společnost se snaží získat přibližně 1 miliardu dolarů na podporu svých operací.",
+      "Aditivní výroba (AM) se stává klíčovou výrobní technologií pro orbitální nosné rakety.",
+      "Šanghajská burza cenných papírů přijala žádost společnosti LandSpace."
+    ],
+    "tags": [
+      "Hardware",
+      "LandSpace",
+      "Additive Manufacturing",
+      "Space Launch",
+      "Shanghai Stock Exchange"
+    ]
+  },
+  {
+    "title": "Výzkumníci z Virginia Tech vyvinuli 3D tisknutelný keramicko-kovový kompozit s pamětí tvaru",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/virginia-tech-researchers-develop-3d-printable-shape-memory-ceramic-metal-composite/\" target=\"_blank\">Virginia Tech Researchers Develop 3D-Printable Shape-Memory Ceramic-Metal Composite</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">January 15</span></div><div><img alt=\"Virginia Tech Researchers Develop 3D-Printable Shape-Memory Ceramic-Metal Composite\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/764877849-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/764877849-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-01-15T07:51:20+00:00",
+    "url": "https://3dprinting.com/news/virginia-tech-researchers-develop-3d-printable-shape-memory-ceramic-metal-composite/",
+    "title_en": "Virginia Tech Researchers Develop 3D-Printable Shape-Memory Ceramic-Metal Composite",
+    "summary_bullets_en": [
+      "Researchers at Virginia Tech have developed a new 3D-printable composite material.",
+      "The material combines ceramic and metal, offering shape-memory properties.",
+      "This innovation could lead to advancements in various fields, including aerospace and medical devices."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Virginia Tech vyvinuli nový 3D tisknutelný kompozitní materiál.",
+      "Materiál kombinuje keramiku a kov, což mu poskytuje vlastnosti paměti tvaru.",
+      "Tato inovace by mohla vést k pokrokům v různých oblastech, včetně letectví a zdravotnických zařízení."
+    ],
+    "tags": [
+      "Material",
+      "Virginia Tech",
+      "3D Printing",
+      "Shape-Memory"
+    ]
+  },
+  {
     "title": "Prusa Research zkoumá nové koncepty filamentů Prusament",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/940226753/0/fabbaloo/default~Prusa-Research-Explores-New-Prusament-Filament-Concepts\" rel=\"nofollow\" title=\"Prusa Research Explores New Prusament Filament Concepts\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/reflective-filament-cover-300x167.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prusa Research is looking for your help.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/940226753/0/fabbaloo/default~Prusa-Research-Explores-New-Prusament-Filament-Concepts\" rel=\"nofollow\">Prusa Research Explores New Prusament Filament Concepts</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/reflective-filament-cover-300x167.jpg",
