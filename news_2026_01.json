@@ -1,5 +1,60 @@
 [
   {
+    "title": "Novinky z 3D tisku, 17. ledna 2026: Titanový šrot, analýza pitev a další",
+    "summary": "In this weekend&#8217;s 3D Printing News Briefs, we&#8217;ll start with government funding news from IperionX. Then, a German contract manufacturer has acquired its 6th and 7th Lithoz ceramic 3D printers....",
+    "image": "https://3dprint.com/wp-content/uploads/2024/05/596A0323-15361025-1024x683.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-01-17T13:30:20+00:00",
+    "url": "https://3dprint.com/323281/3d-printing-news-briefs-1-17-2026/",
+    "title_en": "3D Printing News Briefs, January 17, 2026: Titanium Scrap, Autopsy Analysis, & More",
+    "summary_bullets_en": [
+      "IperionX receives government funding for titanium scrap recycling.",
+      "A German contract manufacturer expands its capabilities with two new Lithoz ceramic 3D printers.",
+      "Innovations in 3D printing are being applied to autopsy analysis."
+    ],
+    "summary_bullets_cs": [
+      "IperionX získává vládní financování na recyklaci titanového šrotu.",
+      "Německý smluvní výrobce rozšiřuje své možnosti dvěma novými keramickými 3D tiskárnami Lithoz.",
+      "Inovace v 3D tisku se uplatňují při analýze pitev."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "IperionX",
+      "Lithoz"
+    ]
+  },
+  {
+    "title": "Obnova venezuelské ropné a plynárenské infrastruktury a 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/940574936/0/fabbaloo/default~Rebuilding-Venezuela%e2%80%99s-Oil-Gas-Infrastructure-and-D-Printing\" rel=\"nofollow\" title=\"Rebuilding Venezuela’s Oil &amp; Gas Infrastructure and 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/Ven-1-300x199.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles Goulding and Anthony Palumbo examine how Venezuela’s long-declining oil and gas sector could accelerate infrastructure recovery by using industrial 3D printing to produce qualified spare parts, retrofit obsolete equipment, and reduce maintenance lead times, drawing on Chevron, ConocoPhillips, Baker Hughes, and SLB case examples.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/940574936/0/fabbaloo/default~Rebuilding-Venezuela%e2%80%99s-Oil-Gas-Infrastructure-and-D-Printing\" rel=\"nofollow\">Rebuilding Venezuela’s Oil &amp; Gas Infrastructure and 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/Ven-1-300x199.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-01-17T12:26:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/940574936/0/fabbaloo/default~Rebuilding-Venezuela%e2%80%99s-Oil-Gas-Infrastructure-and-D-Printing",
+    "title_en": "Rebuilding Venezuela’s Oil & Gas Infrastructure and 3D Printing",
+    "summary_bullets_en": [
+      "Venezuela's oil and gas sector could benefit from industrial 3D printing to accelerate infrastructure recovery.",
+      "3D printing can produce qualified spare parts and retrofit obsolete equipment.",
+      "Using 3D printing can reduce maintenance lead times.",
+      "Case examples include Chevron, ConocoPhillips, Baker Hughes, and SLB."
+    ],
+    "summary_bullets_cs": [
+      "Venezuelský ropný a plynárenský sektor by mohl těžit z průmyslového 3D tisku pro urychlení obnovy infrastruktury.",
+      "3D tisk může vyrábět kvalifikované náhradní díly a modernizovat zastaralé vybavení.",
+      "Použití 3D tisku může zkrátit dodací lhůty údržby.",
+      "Příklady zahrnují společnosti Chevron, ConocoPhillips, Baker Hughes a SLB."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Oil & Gas",
+      "Chevron",
+      "ConocoPhillips",
+      "Baker Hughes",
+      "SLB"
+    ]
+  },
+  {
     "title": "Lincotek pokročil s 3D tištěnými implantáty páteře díky schválení FDA",
     "summary": "Lincotek’s Medical Division has secured FDA 510(k) clearance for its SpineLinc anterior cervical implant system, a 3D printed device manufactured in Memphis and now available to orthopedic OEMs. “This new approval is great news for OEMs, as it reduces time to market,” observed Troy Walters, the Product Development Director of Lincotek’s Medical Division. “SpineLinc demonstrates [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/Lincotek-SpineLinc-cervical-cage_FDA-approved_web-event-v1-150x100.jpg",
