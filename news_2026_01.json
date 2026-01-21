@@ -1,5 +1,214 @@
 [
   {
+    "title": "[ROZHOVOR] „Není důvod to nepoužívat“: DMG MORI obhajuje konečný cíl aditivní výroby",
+    "summary": "On a shopfloor, the difference between a promising build and a costly failure can come down to heat that drifts a few degrees over a long cycle. For DMG MORI, that reality is pushing metal additive manufacturing away from spectacle and towards the disciplines that have long governed machine tools: repeatability, serviceability, and a payback [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Additive_Manufacturing-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-21T11:35:05+00:00",
+    "url": "https://3dprintingindustry.com/news/interview-no-reason-not-to-use-it-dmg-mori-makes-the-case-for-additives-endgame-248302/?utm_source=rss&utm_medium=rss&utm_campaign=interview-no-reason-not-to-use-it-dmg-mori-makes-the-case-for-additives-endgame",
+    "title_en": "[INTERVIEW] “No reason not to use it”: DMG MORI Makes the Case for Additive’s Endgame",
+    "summary_bullets_en": [
+      "DMG MORI emphasizes the importance of repeatability and serviceability in metal additive manufacturing.",
+      "Temperature control is crucial to avoid costly failures in the additive manufacturing process.",
+      "The company is shifting focus from the spectacle of additive manufacturing to its practical applications and payback."
+    ],
+    "summary_bullets_cs": [
+      "DMG MORI zdůrazňuje důležitost opakovatelnosti a servisovatelnosti v kovové aditivní výrobě.",
+      "Kontrola teploty je klíčová pro zabránění nákladným selháním v procesu aditivní výroby.",
+      "Společnost se zaměřuje na praktické aplikace a návratnost aditivní výroby místo jejího spektáklu."
+    ],
+    "tags": [
+      "Hardware",
+      "DMG MORI",
+      "Additive Manufacturing",
+      "Metal 3D Printing",
+      "Temperature Control"
+    ]
+  },
+  {
+    "title": "Patent navrhuje elektrofotografický 3D tisk s měnící se polaritou",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/941181410/0/fabbaloo/default~Patent-Proposes-AlternatingPolarity-Electrophotographic-D-Printing\" rel=\"nofollow\" title=\"Patent Proposes Alternating-Polarity Electrophotographic 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/electrophotographic-printing-cover-300x191.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new patent outlines an electrophotographic powder process that flips powder polarity between layers to curb charge build-up and enable cleaner, denser prints.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/941181410/0/fabbaloo/default~Patent-Proposes-AlternatingPolarity-Electrophotographic-D-Printing\" rel=\"nofollow\">Patent Proposes Alternating-Polarity Electrophotographic 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/electrophotographic-printing-cover-300x191.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-01-21T10:56:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/941181410/0/fabbaloo/default~Patent-Proposes-AlternatingPolarity-Electrophotographic-D-Printing",
+    "title_en": "Patent Proposes Alternating-Polarity Electrophotographic 3D Printing",
+    "summary_bullets_en": [
+      "A new patent describes an electrophotographic powder process for 3D printing.",
+      "The process involves flipping powder polarity between layers.",
+      "This technique aims to reduce charge build-up and produce cleaner, denser prints."
+    ],
+    "summary_bullets_cs": [
+      "Nový patent popisuje proces elektrofotografického práškového tisku pro 3D tisk.",
+      "Proces zahrnuje změnu polarity prášku mezi vrstvami.",
+      "Tato technika má za cíl snížit hromadění náboje a vytvořit čistší a hustší výtisky."
+    ],
+    "tags": [
+      "Hardware",
+      "Electrophotographic 3D Printing",
+      "3D Printing Technology"
+    ]
+  },
+  {
+    "title": "Elektrostruskové aditivní výrobní technologie pro vysokoprůchodovou výrobu kovů představené ORNL",
+    "summary": "Researchers from Oak Ridge National Laboratory, working with industry partner ARC Specialties, have developed and demonstrated a new high-throughput metal additive manufacturing process designed for producing large, near-net-shape components. The technique, termed Electroslag Additive Manufacturing (ESAM), combines electroslag strip cladding (ESC) with wire arc additive manufacturing (WAAM) to achieve deposition rates several times higher than [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/image-16-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-01-21T10:55:08+00:00",
+    "url": "https://3dprintingindustry.com/news/electroslag-additive-manufacturing-for-high-throughput-metal-production-demonstrated-by-ornl-248285/?utm_source=rss&utm_medium=rss&utm_campaign=electroslag-additive-manufacturing-for-high-throughput-metal-production-demonstrated-by-ornl",
+    "title_en": "Electroslag Additive Manufacturing for High-throughput Metal Production demonstrated by ORNL",
+    "summary_bullets_en": [
+      "Oak Ridge National Laboratory, in collaboration with ARC Specialties, has developed a new metal additive manufacturing process.",
+      "The process is called Electroslag Additive Manufacturing (ESAM) and is designed for producing large, near-net-shape components.",
+      "ESAM combines electroslag strip cladding (ESC) with wire arc additive manufacturing (WAAM) to achieve high deposition rates."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Oak Ridge National Laboratory ve spolupráci s ARC Specialties vyvinuli novou technologii aditivní výroby kovů.",
+      "Technologie se nazývá Elektrostruskové aditivní výrobní technologie (ESAM) a je určena pro výrobu velkých, téměř hotových komponentů.",
+      "ESAM kombinuje elektrostruskové pásové navařování (ESC) s drátovým obloukovým aditivním výrobním procesem (WAAM) pro dosažení vysokých rychlostí nanášení."
+    ],
+    "tags": [
+      "Hardware",
+      "Oak Ridge National Laboratory",
+      "ARC Specialties",
+      "Electroslag Additive Manufacturing",
+      "Wire Arc Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Britská výzkumná iniciativa zkoumá metody aditivní výroby pro materiály pro fúzní energii",
+    "summary": "A new UK research initiative announced today will investigate how additive manufacturing can be used to produce materials capable of operating in extreme environments, beginning with components required for fusion energy systems. The project, titled DIADEM (Design of Interfaces for Additively Engineered Metamaterials), focuses on developing manufacturing approaches for multi-metal components that are difficult to [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/CfAM-14471web.x243357e4-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-21T10:54:51+00:00",
+    "url": "https://3dprintingindustry.com/news/uk-research-initiative-explores-additive-manufacturing-methods-for-fusion-energy-materials-248294/?utm_source=rss&utm_medium=rss&utm_campaign=uk-research-initiative-explores-additive-manufacturing-methods-for-fusion-energy-materials",
+    "title_en": "UK Research Initiative Explores Additive Manufacturing Methods for Fusion Energy Materials",
+    "summary_bullets_en": [
+      "A new UK research initiative aims to explore additive manufacturing for creating materials suitable for extreme environments.",
+      "The project, named DIADEM, focuses on developing manufacturing techniques for multi-metal components.",
+      "Initial efforts will concentrate on components needed for fusion energy systems."
+    ],
+    "summary_bullets_cs": [
+      "Nová britská výzkumná iniciativa se zaměřuje na zkoumání aditivní výroby pro tvorbu materiálů vhodných pro extrémní prostředí.",
+      "Projekt s názvem DIADEM se soustředí na vývoj výrobních technik pro vícekovové komponenty.",
+      "Počáteční úsilí se zaměří na komponenty potřebné pro systémy fúzní energie."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Additive Manufacturing",
+      "Fusion Energy",
+      "DIADEM"
+    ]
+  },
+  {
+    "title": "Xact Metal očekává 30% růst v roce 2025, jmenuje Marka Barfoota viceprezidentem pro globální prodej",
+    "summary": "Pennsylvania-based manufacturer developing accessible metal 3D printing systems Xact Metal announced it is expanding access to affordable metal 3D printing for small and medium-sized businesses while promoting a more decentralized approach to additive manufacturing. The company reported a 30% increase in orders for 2025 compared with the same period in 2024 and announced the appointment [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2024/02/IMTS-poster-2000-×-1333-px-5-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-01-21T10:54:09+00:00",
+    "url": "https://3dprintingindustry.com/news/xact-metal-sees-30-growth-in-2025-names-mark-barfoot-vp-of-global-sales-248278/?utm_source=rss&utm_medium=rss&utm_campaign=xact-metal-sees-30-growth-in-2025-names-mark-barfoot-vp-of-global-sales",
+    "title_en": "Xact Metal Sees 30% Growth in 2025, Names Mark Barfoot VP of Global Sales",
+    "summary_bullets_en": [
+      "Xact Metal, a Pennsylvania-based company, is expanding access to affordable metal 3D printing for small and medium-sized businesses.",
+      "The company reported a 30% increase in orders for 2025 compared to the same period in 2024.",
+      "Xact Metal is promoting a more decentralized approach to additive manufacturing.",
+      "Mark Barfoot has been appointed as the Vice President of Global Sales."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Xact Metal z Pensylvánie rozšiřuje přístup k cenově dostupnému kovovému 3D tisku pro malé a střední podniky.",
+      "Společnost oznámila 30% nárůst objednávek pro rok 2025 ve srovnání se stejným obdobím v roce 2024.",
+      "Xact Metal podporuje decentralizovanější přístup k aditivní výrobě.",
+      "Mark Barfoot byl jmenován viceprezidentem pro globální prodej."
+    ],
+    "tags": [
+      "Hardware",
+      "Xact Metal",
+      "3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Investiční kolo ve výši 73 milionů eur do SWISSto12",
+    "summary": "SwissTo12 is on the move. I think that the firm owns one of the most promising and profitable applications for 3D printing, RF Components. but it is also showing real...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/12/Manpack_Highkey_plan1-scaled-r3dfyiw9kts3qn1v0am2kd3sf7sge2y1swwit9zy38-1.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-01-21T10:34:02+00:00",
+    "url": "https://3dprint.com/323354/e73-million-investment-round-into-swissto12/",
+    "title_en": "€73 Million Investment Round into SWISSto12",
+    "summary_bullets_en": [
+      "SWISSto12 has secured a €73 million investment to advance its 3D printing capabilities.",
+      "The company specializes in RF components, which are seen as a promising and profitable application of 3D printing.",
+      "SWISSto12 is expanding its market presence and demonstrating significant growth potential."
+    ],
+    "summary_bullets_cs": [
+      "SWISSto12 získala investici ve výši 73 milionů eur na rozvoj svých schopností v oblasti 3D tisku.",
+      "Společnost se specializuje na RF komponenty, které jsou považovány za slibnou a ziskovou aplikaci 3D tisku.",
+      "SWISSto12 rozšiřuje svou tržní přítomnost a vykazuje významný růstový potenciál."
+    ],
+    "tags": [
+      "Hardware",
+      "SWISSto12",
+      "3D Printing",
+      "Investment",
+      "RF Components"
+    ]
+  },
+  {
+    "title": "Dánský institut a Heatflow vyvinuli 3D tištěný chladicí systém pro datová centra",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/danish-institute-and-heatflow-develop-3d-printed-cooling-system-for-data-centers/\" target=\"_blank\">Danish Institute and Heatflow Develop 3D Printed Cooling System for Data Centers</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">January 21</span></div><div><img alt=\"Danish Institute and Heatflow Develop 3D Printed Cooling System for Data Centers\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/75638793783-1-500x500.png\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/75638793783-1-500x500.png",
+    "source": "3DPrinting.com",
+    "published": "2026-01-21T08:35:56+00:00",
+    "url": "https://3dprinting.com/news/danish-institute-and-heatflow-develop-3d-printed-cooling-system-for-data-centers/",
+    "title_en": "Danish Institute and Heatflow Develop 3D Printed Cooling System for Data Centers",
+    "summary_bullets_en": [
+      "The Danish Institute and Heatflow have collaborated to create a 3D printed cooling system for data centers.",
+      "This innovative system aims to improve energy efficiency and reduce operational costs.",
+      "The cooling system is designed to be customizable and scalable to meet the specific needs of different data centers."
+    ],
+    "summary_bullets_cs": [
+      "Dánský institut a Heatflow spolupracovali na vytvoření 3D tištěného chladicího systému pro datová centra.",
+      "Tento inovativní systém má za cíl zlepšit energetickou účinnost a snížit provozní náklady.",
+      "Chladicí systém je navržen tak, aby byl přizpůsobitelný a škálovatelný pro specifické potřeby různých datových center."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Data Centers",
+      "Cooling Systems",
+      "Danish Institute",
+      "Heatflow"
+    ]
+  },
+  {
+    "title": "Posunou stolní firmy 3D tisk obuvi vpřed?",
+    "summary": "Recently, Bambu Lab announced that it was working with FORMISM by SCRY on releasing shoes. These six designs will be shared and printable through its Makerworld platform. Using the platform,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/01/1767013223963.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-01-21T08:00:25+00:00",
+    "url": "https://3dprint.com/323246/will-desktop-firms-push-shoe-3d-printing-forward/",
+    "title_en": "Will Desktop Firms Push Shoe 3D Printing Forward?",
+    "summary_bullets_en": [
+      "Bambu Lab is collaborating with FORMISM by SCRY to release 3D printable shoe designs.",
+      "Six shoe designs will be available on Bambu Lab's Makerworld platform.",
+      "The initiative aims to advance the accessibility and innovation of 3D printed footwear."
+    ],
+    "summary_bullets_cs": [
+      "Bambu Lab spolupracuje s FORMISM by SCRY na vydání 3D tisknutelných návrhů obuvi.",
+      "Šest návrhů obuvi bude dostupných na platformě Makerworld od Bambu Lab.",
+      "Iniciativa má za cíl zlepšit dostupnost a inovaci 3D tištěné obuvi."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "FORMISM",
+      "SCRY",
+      "3D Printing",
+      "Footwear"
+    ]
+  },
+  {
     "title": "Proč se Pro PCTG stává preferovaným materiálem pro odolné, nárazuvzdorné 3D tištěné díly",
     "summary": "For years, PETG has been the material many FDM users reach for when PLA is no longer enough. It prints easily and behaves predictably, producing parts that look good on the print bed. The problem comes later, when those parts are put to work.&#160; Drop them, load them, or bolt them into a moving assembly, [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/production-photo-resized-150x100.jpg",
