@@ -1,5 +1,242 @@
 [
   {
+    "title": "BamBuddy se spouští jako open-source alternativa ke cloudu Bambu Lab",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/941228780/0/fabbaloo/default~BamBuddy-Launches-as-OpenSource-Alternative-to-Bambu-Lab%e2%80%99s-Cloud\" rel=\"nofollow\" title=\"BamBuddy Launches as Open-Source Alternative to Bambu Lab’s Cloud\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/bambuddy-cover-300x235.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new open-source tool is ready to help manage your Bambu Lab 3D prints.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/941228780/0/fabbaloo/default~BamBuddy-Launches-as-OpenSource-Alternative-to-Bambu-Lab%e2%80%99s-Cloud\" rel=\"nofollow\">BamBuddy Launches as Open-Source Alternative to Bambu Lab’s Cloud</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/bambuddy-cover-300x235.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-01-21T17:24:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/941228780/0/fabbaloo/default~BamBuddy-Launches-as-OpenSource-Alternative-to-Bambu-Lab%e2%80%99s-Cloud",
+    "title_en": "BamBuddy Launches as Open-Source Alternative to Bambu Lab’s Cloud",
+    "summary_bullets_en": [
+      "BamBuddy is a new open-source tool designed to manage Bambu Lab 3D prints.",
+      "It serves as an alternative to Bambu Lab's proprietary cloud service.",
+      "The tool aims to provide users with more control and flexibility over their 3D printing processes."
+    ],
+    "summary_bullets_cs": [
+      "BamBuddy je nový open-source nástroj určený k řízení 3D tisků Bambu Lab.",
+      "Slouží jako alternativa k proprietární cloudové službě Bambu Lab.",
+      "Nástroj má za cíl poskytnout uživatelům větší kontrolu a flexibilitu nad jejich procesy 3D tisku."
+    ],
+    "tags": [
+      "Software",
+      "Bambu Lab",
+      "Open-Source",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Praktické zkušenosti s filamentem GenPHA",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/941209145/0/fabbaloo/default~Hands-on-with-GenPHA-Filament\" rel=\"nofollow\" title=\"Hands on with GenPHA Filament\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/00-genpha-cover-1-300x169.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>We had the chance to test out a new type of 3D print material, PHA.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/941209145/0/fabbaloo/default~Hands-on-with-GenPHA-Filament\" rel=\"nofollow\">Hands on with GenPHA Filament</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/00-genpha-cover-1-300x169.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-01-21T16:22:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/941209145/0/fabbaloo/default~Hands-on-with-GenPHA-Filament",
+    "title_en": "Hands on with GenPHA Filament",
+    "summary_bullets_en": [
+      "The article reviews a new 3D printing material called PHA.",
+      "GenPHA Filament is tested for its performance and usability.",
+      "The material offers unique properties suitable for various applications."
+    ],
+    "summary_bullets_cs": [
+      "Článek recenzuje nový materiál pro 3D tisk nazvaný PHA.",
+      "Filament GenPHA je testován z hlediska výkonu a použitelnosti.",
+      "Materiál nabízí unikátní vlastnosti vhodné pro různé aplikace."
+    ],
+    "tags": [
+      "Material",
+      "GenPHA",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Air Max 1000: Nike a Zellerfeld přinášejí dvě barvy do jedné 3D tištěné boty",
+    "summary": "Global sportswear company Nike is pushing the boundaries of 3D printed footwear with its latest Air Max 1000, developed in collaboration with 3D printing footwear company Zellerfeld. The new “Multicolor” edition represents a major leap in the brand’s additive manufacturing approach, allowing multiple colors to be printed directly into the shoe, a first for this [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/2_21957651-31c6-4b33-86dd-0ee95789c1d8-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-01-21T16:02:25+00:00",
+    "url": "https://3dprintingindustry.com/news/air-max-1000-nike-and-zellerfeld-bring-two-colors-to-one-3d-printed-shoe-248318/?utm_source=rss&utm_medium=rss&utm_campaign=air-max-1000-nike-and-zellerfeld-bring-two-colors-to-one-3d-printed-shoe",
+    "title_en": "Air Max 1000: Nike and Zellerfeld Bring Two Colors to One 3D Printed Shoe",
+    "summary_bullets_en": [
+      "Nike collaborates with Zellerfeld to create the Air Max 1000, a 3D printed shoe.",
+      "The new 'Multicolor' edition allows multiple colors to be printed directly into the shoe.",
+      "This innovation marks a significant advancement in Nike's additive manufacturing techniques."
+    ],
+    "summary_bullets_cs": [
+      "Nike spolupracuje se Zellerfeld na vytvoření Air Max 1000, 3D tištěné boty.",
+      "Nová edice 'Multicolor' umožňuje tisknout více barev přímo do boty.",
+      "Tato inovace představuje významný pokrok v aditivních výrobních technikách Nike."
+    ],
+    "tags": [
+      "Hardware",
+      "Nike",
+      "Zellerfeld",
+      "3D Printing",
+      "Footwear"
+    ]
+  },
+  {
+    "title": "Innospace dosáhla 3D tisku titanových leteckých komponentů bez podpěr",
+    "summary": "South Korea–based aerospace and defense company Innospace  has produced a spherical titanium pressure vessel without internal supports using its proprietary low-overhang 3D printing method. The dome was fabricated with Ti-6Al-4V Grade 23 and designed, simulated, and built using Oqton’s 3DXpert software on a standard Laser Beam Powder Bed Fusion system, showing the feasibility of manufacturing [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/Innospace-Oqton-e1768611124255-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-21T16:00:32+00:00",
+    "url": "https://3dprintingindustry.com/news/innospace-achieves-support-free-3d-printing-of-titanium-aerospace-components-248325/?utm_source=rss&utm_medium=rss&utm_campaign=innospace-achieves-support-free-3d-printing-of-titanium-aerospace-components",
+    "title_en": "Innospace Achieves Support-Free 3D Printing of Titanium Aerospace Components",
+    "summary_bullets_en": [
+      "Innospace, a South Korean aerospace and defense company, has developed a method for 3D printing titanium components without internal supports.",
+      "The company successfully produced a spherical titanium pressure vessel using its proprietary low-overhang 3D printing technique.",
+      "The dome was made from Ti-6Al-4V Grade 23 and utilized Oqton’s 3DXpert software on a standard Laser Beam Powder Bed Fusion system.",
+      "This achievement demonstrates the feasibility of manufacturing complex aerospace components without the need for internal supports."
+    ],
+    "summary_bullets_cs": [
+      "Innospace, jihokorejská společnost v oblasti letectví a obrany, vyvinula metodu pro 3D tisk titanových komponentů bez vnitřních podpěr.",
+      "Společnost úspěšně vyrobila sférickou titanovou tlakovou nádobu pomocí své vlastní technologie 3D tisku s nízkým převisem."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Innospace",
+      "Oqton",
+      "3DXpert",
+      "Laser Beam Powder Bed Fusion",
+      "Ti-6Al-4V Grade 23"
+    ]
+  },
+  {
+    "title": "Novinky o 3D tisku, 21. ledna 2026: Inspekce skenováním, zvyšování kvalifikace ve výrobě a další",
+    "summary": "In 3D Printing News Briefs, we&#8217;ll start with 3D scanning news from Artec 3D. Then, Nanoscribe opened a demolab in Shanghai, and The Ohio State University Center for Design and...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/01/InnovMetric-1024x576.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-01-21T14:30:45+00:00",
+    "url": "https://3dprint.com/323311/3d-printing-news-briefs-1-21-2026/",
+    "title_en": "3D Printing News Briefs, January 21, 2026: Scanning Inspection, Manufacturing Upskilling, & More",
+    "summary_bullets_en": [
+      "Artec 3D has released news related to 3D scanning technology.",
+      "Nanoscribe has inaugurated a new demonstration laboratory in Shanghai.",
+      "The Ohio State University Center for Design is involved in a new initiative."
+    ],
+    "summary_bullets_cs": [
+      "Artec 3D zveřejnil novinky týkající se technologie 3D skenování.",
+      "Nanoscribe otevřel nové demonstrační laboratoře v Šanghaji.",
+      "Centrum pro design na Ohio State University se podílí na nové iniciativě."
+    ],
+    "tags": [
+      "Hardware",
+      "Artec 3D",
+      "Nanoscribe",
+      "Ohio State University"
+    ]
+  },
+  {
+    "title": "Rostoucí ekosystém tiskáren, materiálů a značek signalizuje vzestup 3D tištěných bot",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/941196380/0/fabbaloo/default~Growing-Ecosystem-of-Printers-Materials-and-Brands-Signals-Rise-of-D-Printed-Shoes\" rel=\"nofollow\" title=\"Growing Ecosystem of Printers, Materials, and Brands Signals Rise of 3D Printed Shoes\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/3dp-shoe-market-cover-1-300x173.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There seems to be something afoot in the footwear industry.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/941196380/0/fabbaloo/default~Growing-Ecosystem-of-Printers-Materials-and-Brands-Signals-Rise-of-D-Printed-Shoes\" rel=\"nofollow\">Growing Ecosystem of Printers, Materials, and Brands Signals Rise of 3D Printed Shoes</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/3dp-shoe-market-cover-1-300x173.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-01-21T14:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/941196380/0/fabbaloo/default~Growing-Ecosystem-of-Printers-Materials-and-Brands-Signals-Rise-of-D-Printed-Shoes",
+    "title_en": "Growing Ecosystem of Printers, Materials, and Brands Signals Rise of 3D Printed Shoes",
+    "summary_bullets_en": [
+      "The footwear industry is experiencing a shift towards 3D printed shoes.",
+      "An expanding ecosystem of 3D printers, materials, and brands is driving this trend.",
+      "Innovations in 3D printing technology are enabling more customized and sustainable shoe production."
+    ],
+    "summary_bullets_cs": [
+      "Obuvnický průmysl zažívá posun směrem k 3D tištěným botám.",
+      "Tento trend pohání rozšiřující se ekosystém 3D tiskáren, materiálů a značek.",
+      "Inovace v technologii 3D tisku umožňují více přizpůsobenou a udržitelnou výrobu obuvi."
+    ],
+    "tags": [
+      "Hardware",
+      "Materials",
+      "3D Printing",
+      "Footwear",
+      "Sustainability"
+    ]
+  },
+  {
+    "title": "Lídr v oblasti levného LPBF, Xact Metal, hlásí meziroční nárůst objednávek o 30 %",
+    "summary": "Xact Metal is the pioneer in low-cost LPBF. The US-based firm was the first to sell sub $100,000 LPBF machines. Through value engineering, gumption, and a focus on cost, the...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/01/mold3-1024x768.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-01-21T14:00:23+00:00",
+    "url": "https://3dprint.com/323327/xact-metal-reports-growth/",
+    "title_en": "Low-Cost LPBF Leader Xact Metal Reports Order Growth is Up 30% Year to Year",
+    "summary_bullets_en": [
+      "Xact Metal is a pioneer in affordable LPBF technology.",
+      "The company was the first to offer LPBF machines under $100,000.",
+      "Xact Metal has achieved a 30% increase in orders year over year.",
+      "Their success is attributed to value engineering and a focus on cost efficiency."
+    ],
+    "summary_bullets_cs": [
+      "Xact Metal je průkopníkem v oblasti cenově dostupné technologie LPBF.",
+      "Společnost jako první nabídla LPBF stroje za méně než 100 000 dolarů.",
+      "Xact Metal dosáhl meziročního nárůstu objednávek o 30 %.",
+      "Jejich úspěch je přičítán hodnotovému inženýrství a zaměření na nákladovou efektivitu."
+    ],
+    "tags": [
+      "Hardware",
+      "Xact Metal",
+      "LPBF",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Inovační kampus II. expediční síly námořní pěchoty v Camp Lejeune: Existující model pro budoucnost USA v aditivní výrobě",
+    "summary": "A recent article in Military.com highlights the II Marine Expeditionary Force (MEF) Innovation Campus, located at Marine Corps Base Camp Lejeune in North Carolina. It provides a good touchstone for the...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/01/IMG_2116.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-01-21T13:00:20+00:00",
+    "url": "https://3dprint.com/323322/camp-lejeune-ii-marine-expeditionary-force-innovation-campus-an-existing-model-for-the-u-s-s-future-in-additive-manufacturing/",
+    "title_en": "Camp Lejeune’s II Marine Expeditionary Force Innovation Campus: An Existing Model for the U.S.’s Future in Additive Manufacturing",
+    "summary_bullets_en": [
+      "The II Marine Expeditionary Force Innovation Campus at Camp Lejeune is highlighted as a model for future U.S. additive manufacturing efforts.",
+      "The campus focuses on integrating advanced manufacturing technologies to enhance military capabilities.",
+      "It serves as a hub for innovation, providing resources and training for the development of new manufacturing techniques."
+    ],
+    "summary_bullets_cs": [
+      "Inovační kampus II. expediční síly námořní pěchoty v Camp Lejeune je vyzdvihován jako model pro budoucí úsilí USA v oblasti aditivní výroby.",
+      "Kampus se zaměřuje na integraci pokročilých výrobních technologií pro zlepšení vojenských schopností.",
+      "Slouží jako centrum inovací, poskytující zdroje a školení pro rozvoj nových výrobních technik."
+    ],
+    "tags": [
+      "Hardware",
+      "Innovation Campus",
+      "Additive Manufacturing",
+      "Military",
+      "Camp Lejeune"
+    ]
+  },
+  {
+    "title": "Pět průlomových odvětví formujících rok 2026 — a proč je aditivní výroba součástí všech z nich",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/941189243/0/fabbaloo/default~Five-Breakthrough-Industries-Shaping-%e2%80%94-and-Why-Additive-Manufacturing-Is-Embedded-in-All-of-Them\" rel=\"nofollow\" title=\"Five Breakthrough Industries Shaping 2026 — and Why Additive Manufacturing Is Embedded in All of Them\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/2026-1-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi predict which industries will have the most significant impact in 2026.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/941189243/0/fabbaloo/default~Five-Breakthrough-Industries-Shaping-%e2%80%94-and-Why-Additive-Manufacturing-Is-Embedded-in-All-of-Them\" rel=\"nofollow\">Five Breakthrough Industries Shaping 2026 — and Why Additive Manufacturing Is Embedded in All of Them</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/2026-1-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-01-21T12:35:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/941189243/0/fabbaloo/default~Five-Breakthrough-Industries-Shaping-%e2%80%94-and-Why-Additive-Manufacturing-Is-Embedded-in-All-of-Them",
+    "title_en": "Five Breakthrough Industries Shaping 2026 — and Why Additive Manufacturing Is Embedded in All of Them",
+    "summary_bullets_en": [
+      "The article predicts the industries that will have the most significant impact by 2026.",
+      "Additive manufacturing is highlighted as a key technology embedded across these industries.",
+      "The authors, Charles R. Goulding and Preeti Sulibhavi, provide insights into the future of these sectors.",
+      "The discussion includes how 3D printing technology is transforming various fields."
+    ],
+    "summary_bullets_cs": [
+      "Článek předpovídá odvětví, která budou mít největší dopad do roku 2026.",
+      "Aditivní výroba je zdůrazněna jako klíčová technologie napříč těmito odvětvími.",
+      "Autoři, Charles R. Goulding a Preeti Sulibhavi, poskytují vhled do budoucnosti těchto sektorů.",
+      "Diskuse zahrnuje, jak technologie 3D tisku transformuje různá pole."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "3D Printing",
+      "Industries",
+      "Charles R. Goulding",
+      "Preeti Sulibhavi"
+    ]
+  },
+  {
     "title": "[ROZHOVOR] „Není důvod to nepoužívat“: DMG MORI obhajuje konečný cíl aditivní výroby",
     "summary": "On a shopfloor, the difference between a promising build and a costly failure can come down to heat that drifts a few degrees over a long cycle. For DMG MORI, that reality is pushing metal additive manufacturing away from spectacle and towards the disciplines that have long governed machine tools: repeatability, serviceability, and a payback [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Additive_Manufacturing-150x100.jpg",
