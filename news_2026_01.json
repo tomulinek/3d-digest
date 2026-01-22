@@ -1,5 +1,59 @@
 [
   {
+    "title": "Nový návrh zákona se snaží omezit 3D tištěné zbraně, čelí právním a praktickým překážkám",
+    "summary": "Washington State House Bill 2321 has sparked debate by proposing new technical restrictions on 3D printers to stop them from producing a firearm or illegal firearm parts. Backed by multiple House sponsors, the proposal is still under committee review, making a full House vote uncertain. The bill reflects growing legislative attention on the role of [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/Ghost-gun-copy-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-21T19:23:16+00:00",
+    "url": "https://3dprintingindustry.com/news/new-bill-seeks-to-limit-3d-printed-firearms-faces-legal-and-practical-hurdles-248275/?utm_source=rss&utm_medium=rss&utm_campaign=new-bill-seeks-to-limit-3d-printed-firearms-faces-legal-and-practical-hurdles",
+    "title_en": "New Bill Seeks to Limit 3D Printed Firearms, Faces Legal and Practical Hurdles",
+    "summary_bullets_en": [
+      "Washington State House Bill 2321 proposes technical restrictions on 3D printers to prevent the production of firearms or illegal firearm parts.",
+      "The bill is supported by multiple House sponsors but is still under committee review, making its future uncertain.",
+      "The proposal highlights increasing legislative focus on the regulation of 3D printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Návrh zákona 2321 ve státě Washington navrhuje technická omezení pro 3D tiskárny, aby zabránil výrobě zbraní nebo nelegálních částí zbraní.",
+      "Návrh zákona má podporu několika sponzorů ve Sněmovně, ale stále je v přezkumu výboru, což činí jeho budoucnost nejistou.",
+      "Návrh odráží rostoucí legislativní pozornost na regulaci technologie 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Legislation",
+      "3D Printing",
+      "Firearms",
+      "Washington State"
+    ]
+  },
+  {
+    "title": "Bentley Batur Convertible #4 obsahuje první 3D tištěné platinové komponenty",
+    "summary": "Mulliner, Bentley Motors’ bespoke and coachbuilding division, has completed Batur Convertible #4, featuring Bentley’s first use of 3D printed platinum alongside an extensive range of bespoke exterior and interior features. Developed through a client co-creation process, the vehicle demonstrates how additive manufacturing and precision craftsmanship are applied to low-volume luxury automotive production while retaining Bentley’s [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/Breslow-Batur-Convertible-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-21T19:21:37+00:00",
+    "url": "https://3dprintingindustry.com/news/bentleys-batur-convertible-4-features-first-3d-printed-platinum-components-248313/?utm_source=rss&utm_medium=rss&utm_campaign=bentleys-batur-convertible-4-features-first-3d-printed-platinum-components",
+    "title_en": "Bentley’s Batur Convertible #4 Features First 3D Printed Platinum Components",
+    "summary_bullets_en": [
+      "Bentley Motors' Mulliner division has completed the Batur Convertible #4.",
+      "The vehicle features Bentley's first use of 3D printed platinum components.",
+      "Developed through a client co-creation process, it showcases additive manufacturing in luxury automotive production.",
+      "The car combines precision craftsmanship with innovative technology for low-volume production."
+    ],
+    "summary_bullets_cs": [
+      "Divize Mulliner společnosti Bentley Motors dokončila Batur Convertible #4.",
+      "Vozidlo obsahuje první použití 3D tištěných platinových komponentů od Bentley.",
+      "Vyvinuto prostřednictvím procesu spoluvytváření se zákazníky, ukazuje aditivní výrobu v luxusní automobilové produkci.",
+      "Auto kombinuje precizní řemeslné zpracování s inovativní technologií pro nízkoobjemovou výrobu."
+    ],
+    "tags": [
+      "Hardware",
+      "Bentley",
+      "3D Printing",
+      "Luxury Automotive",
+      "Mulliner"
+    ]
+  },
+  {
     "title": "BamBuddy se spouští jako open-source alternativa ke cloudu Bambu Lab",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/941228780/0/fabbaloo/default~BamBuddy-Launches-as-OpenSource-Alternative-to-Bambu-Lab%e2%80%99s-Cloud\" rel=\"nofollow\" title=\"BamBuddy Launches as Open-Source Alternative to Bambu Lab’s Cloud\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/bambuddy-cover-300x235.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new open-source tool is ready to help manage your Bambu Lab 3D prints.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/941228780/0/fabbaloo/default~BamBuddy-Launches-as-OpenSource-Alternative-to-Bambu-Lab%e2%80%99s-Cloud\" rel=\"nofollow\">BamBuddy Launches as Open-Source Alternative to Bambu Lab’s Cloud</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/bambuddy-cover-300x235.jpg",
