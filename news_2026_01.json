@@ -1,5 +1,135 @@
 [
   {
+    "title": "ESA investuje 73 milionů eur do programu satelitů HummingSat společnosti SWISSto12",
+    "summary": "SWISSto12, a provider of satellite systems and RF technologies developed using additive manufacturing, has announced it will receive €73 million ($84.8 million) from European Space Agency (ESA) member states through the HummingSat ARTES partnership. This investment is set to accelerate the HummingSat program and expand production capabilities for next-generation geostationary satellite systems. “We are proud [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/ESA_s_Ministerial_Council_in_Bremen-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-23T11:45:46+00:00",
+    "url": "https://3dprintingindustry.com/news/esa-invests-e73-million-in-swissto12s-hummingsat-satellite-program-248355/?utm_source=rss&utm_medium=rss&utm_campaign=esa-invests-e73-million-in-swissto12s-hummingsat-satellite-program",
+    "title_en": "ESA Invests €73 Million in SWISSto12’s HummingSat Satellite Program",
+    "summary_bullets_en": [
+      "SWISSto12 will receive €73 million from ESA member states for the HummingSat program.",
+      "The investment aims to accelerate the development of next-generation geostationary satellite systems.",
+      "SWISSto12 specializes in satellite systems and RF technologies using additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "SWISSto12 obdrží 73 milionů eur od členských států ESA na program HummingSat.",
+      "Investice má urychlit vývoj geostacionárních satelitních systémů nové generace.",
+      "SWISSto12 se specializuje na satelitní systémy a RF technologie využívající aditivní výrobu."
+    ],
+    "tags": [
+      "Hardware",
+      "ESA",
+      "SWISSto12",
+      "Satellite",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Námořnictvo využívá 3D tisk ke snížení výrobních časů o 70 %",
+    "summary": "In 2025, the U.S. Navy transformed additive manufacturing (AM), from an experimental technology into a fully operational asset. By cutting production times by roughly 70% and strengthening industrial ties with AUKUS allies, the Navy established a flexible, distributed manufacturing network capable of supporting fleet readiness in real time.&#160;These gains were enabled by tighter qualification standards, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/241206-N-HV737-1008-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-23T11:42:57+00:00",
+    "url": "https://3dprintingindustry.com/news/navy-harnesses-3d-printing-to-cut-production-times-by-70-248363/?utm_source=rss&utm_medium=rss&utm_campaign=navy-harnesses-3d-printing-to-cut-production-times-by-70",
+    "title_en": "Navy Harnesses 3D Printing to Cut Production Times by 70%",
+    "summary_bullets_en": [
+      "In 2025, the U.S. Navy fully integrated additive manufacturing into its operations.",
+      "Production times were reduced by approximately 70%.",
+      "The Navy established a flexible, distributed manufacturing network.",
+      "Strengthened industrial ties with AUKUS allies were a key factor in these advancements."
+    ],
+    "summary_bullets_cs": [
+      "V roce 2025 americké námořnictvo plně integrovalo aditivní výrobu do svých operací.",
+      "Výrobní časy byly sníženy přibližně o 70 %.",
+      "Námořnictvo vytvořilo flexibilní, distribuovanou výrobní síť.",
+      "Klíčovým faktorem těchto pokroků bylo posílení průmyslových vazeb s AUKUS spojenci."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "U.S. Navy",
+      "AUKUS",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Výzkumníci zkoumají přechody smíšených materiálů ve velkoformátovém aditivním výrobě",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/941597087/0/fabbaloo/default~Researchers-Probe-Blended-Material-Transitions-In-Large-Format-AM\" rel=\"nofollow\" title=\"Researchers Probe Blended Material Transitions In Large Format AM\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/Blended-Material-transitions-cover-300x188.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>New research examines how polymer blends transition during large format extrusion, a practical issue for anyone mixing materials on pellet-fed systems.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/941597087/0/fabbaloo/default~Researchers-Probe-Blended-Material-Transitions-In-Large-Format-AM\" rel=\"nofollow\">Researchers Probe Blended Material Transitions In Large Format AM</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/Blended-Material-transitions-cover-300x188.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-01-23T09:03:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/941597087/0/fabbaloo/default~Researchers-Probe-Blended-Material-Transitions-In-Large-Format-AM",
+    "title_en": "Researchers Probe Blended Material Transitions In Large Format AM",
+    "summary_bullets_en": [
+      "New research investigates the transition of polymer blends during large format extrusion.",
+      "The study addresses practical challenges for those using pellet-fed systems to mix materials.",
+      "Understanding these transitions is crucial for improving the quality and consistency of 3D printed parts."
+    ],
+    "summary_bullets_cs": [
+      "Nový výzkum zkoumá přechody polymerních směsí během velkoformátové extruze.",
+      "Studie se zabývá praktickými problémy pro ty, kteří používají systémy s podáváním pelet pro míchání materiálů.",
+      "Pochopení těchto přechodů je klíčové pro zlepšení kvality a konzistence 3D tištěných dílů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Large Format AM",
+      "Polymer Blends"
+    ]
+  },
+  {
+    "title": "Jak Armada využívá 3D tisk k dosažení vyšší palivové účinnosti lodí",
+    "summary": "UK-based maritime technology company Armada Technologies has installed its Passive Air Lubrication System (PALS) on a liquefied natural gas (LNG) carrier using a 3D printed component, as part of its effort to reduce the ecological impact of maritime operations. The LNG carrier is now operating with the component integrated into a critical subassembly of the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/PALS-Pod_Venturi-CloseUp-armada-1536x768-1-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-01-23T08:56:05+00:00",
+    "url": "https://3dprintingindustry.com/news/how-armada-is-using-3d-printing-to-make-ships-more-fuel-efficient-248378/?utm_source=rss&utm_medium=rss&utm_campaign=how-armada-is-using-3d-printing-to-make-ships-more-fuel-efficient",
+    "title_en": "How Armada Is Using 3D Printing to Make Ships More Fuel Efficient",
+    "summary_bullets_en": [
+      "Armada Technologies, a UK-based maritime technology company, has implemented a 3D printed component in its Passive Air Lubrication System (PALS).",
+      "The component is installed on a liquefied natural gas (LNG) carrier to enhance fuel efficiency.",
+      "This initiative is part of Armada's efforts to reduce the ecological impact of maritime operations."
+    ],
+    "summary_bullets_cs": [
+      "Armada Technologies, britská společnost zaměřená na námořní technologie, implementovala 3D tištěnou součástku do svého systému pasivního vzduchového mazání (PALS).",
+      "Součástka je instalována na nosiči zkapalněného zemního plynu (LNG) pro zvýšení palivové účinnosti.",
+      "Tato iniciativa je součástí snahy společnosti Armada snížit ekologický dopad námořních operací."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Maritime Technology",
+      "Armada Technologies",
+      "Fuel Efficiency"
+    ]
+  },
+  {
+    "title": "Výzkumníci zjistili, že atmosféra Marsu by mohla nahradit drahý ochranný plyn v 3D tisku",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/researchers-find-mars-atmosphere-could-replace-expensive-shield-gas-in-3d-printing/\" target=\"_blank\">Researchers Find Mars Atmosphere Could Replace Expensive Shield Gas in 3D Printing</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">January 23</span></div><div><img alt=\"Researchers Find Mars Atmosphere Could Replace Expensive Shield Gas in 3D Printing\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/736879378982-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/736879378982-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-01-23T08:48:36+00:00",
+    "url": "https://3dprinting.com/news/researchers-find-mars-atmosphere-could-replace-expensive-shield-gas-in-3d-printing/",
+    "title_en": "Researchers Find Mars Atmosphere Could Replace Expensive Shield Gas in 3D Printing",
+    "summary_bullets_en": [
+      "Researchers have discovered that the atmosphere on Mars could serve as a substitute for costly shield gases used in 3D printing.",
+      "This finding could significantly reduce the cost of 3D printing processes, especially in space missions.",
+      "The Martian atmosphere's composition may provide a viable alternative to traditional gases like argon and nitrogen."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci objevili, že atmosféra na Marsu by mohla sloužit jako náhrada za drahé ochranné plyny používané v 3D tisku.",
+      "Tento objev by mohl výrazně snížit náklady na procesy 3D tisku, zejména při vesmírných misích.",
+      "Složení marsovské atmosféry může poskytnout životaschopnou alternativu k tradičním plynům, jako je argon a dusík."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Mars",
+      "Space Exploration"
+    ]
+  },
+  {
     "title": "Breezm využívá 3D skenování a tisk k dodání brýlí na míru po celých USA",
     "summary": "Korean eyewear brand Breezm is bringing its 3D scanned, custom-fit glasses nationwide in the U.S. through its iPhone app, Breezm: Eyewear Made for You. Using facial scanning and AI-driven recommendations, the app adjusts frame sizing and pupillary alignment to ensure comfort and precision, letting customers choose from 80 colors and a variety of lenses—including progressive, [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/pc_main_03-150x100.jpg",
