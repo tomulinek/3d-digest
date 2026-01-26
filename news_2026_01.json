@@ -1,5 +1,190 @@
 [
   {
+    "title": "EOS rozšiřuje výrobu a logistiku v USA investicí 3 miliony dolarů v Texasu",
+    "summary": "EOS, a company that develops industrial metal and polymer 3D printing systems, has expanded its U.S. manufacturing and logistics operations through a $3 million investment in central Texas. The expansion includes changes to its manufacturing campus in Pflugerville, Texas, and the opening of a new warehouse facility in Belton, Texas. According to the company, the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/TX_Production_Expansion_Image_2-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-26T10:37:01+00:00",
+    "url": "https://3dprintingindustry.com/news/eos-expands-u-s-manufacturing-and-logistics-with-3-million-investment-in-texas-248432/?utm_source=rss&utm_medium=rss&utm_campaign=eos-expands-u-s-manufacturing-and-logistics-with-3-million-investment-in-texas",
+    "title_en": "EOS expands U.S. manufacturing and logistics with $3 million investment in Texas",
+    "summary_bullets_en": [
+      "EOS has invested $3 million to expand its manufacturing and logistics operations in central Texas.",
+      "The expansion includes updates to the manufacturing campus in Pflugerville, Texas.",
+      "A new warehouse facility has been opened in Belton, Texas."
+    ],
+    "summary_bullets_cs": [
+      "EOS investovala 3 miliony dolarů do rozšíření svých výrobních a logistických operací ve středním Texasu.",
+      "Rozšíření zahrnuje úpravy výrobního areálu v Pflugerville, Texas.",
+      "V Beltonu, Texas, bylo otevřeno nové skladové zařízení."
+    ],
+    "tags": [
+      "Hardware",
+      "EOS",
+      "Manufacturing",
+      "Logistics",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Výzkumníci přeměňují měsíční půdu na elektroniku vyrobenou na Měsíci",
+    "summary": "A Danish-led research project supported by the European Space Agency aims to demonstrate how lunar soil can be converted into conductive materials for electronics manufacturing directly on the Moon, reducing reliance on equipment and components transported from Earth. The initiative focuses on transforming oxygen-depleted lunar regolith into inks and powders suitable for printed electronics and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-26T10:20:08+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-turn-lunar-soil-into-moon-made-electronics-248339/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-turn-lunar-soil-into-moon-made-electronics",
+    "title_en": "Researchers turn lunar soil into moon-made electronics",
+    "summary_bullets_en": [
+      "A Danish-led research project is exploring the conversion of lunar soil into conductive materials for electronics.",
+      "The initiative is supported by the European Space Agency and aims to reduce reliance on Earth-sourced equipment.",
+      "The project focuses on transforming oxygen-depleted lunar regolith into inks and powders for printed electronics."
+    ],
+    "summary_bullets_cs": [
+      "Dánský výzkumný projekt zkoumá přeměnu měsíční půdy na vodivé materiály pro elektroniku.",
+      "Iniciativa je podporována Evropskou kosmickou agenturou a má za cíl snížit závislost na vybavení zajišťovaném ze Země.",
+      "Projekt se zaměřuje na přeměnu kyslíkem ochuzeného měsíčního regolitu na inkousty a prášky pro tištěnou elektroniku."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "European Space Agency",
+      "Lunar Soil",
+      "Printed Electronics"
+    ]
+  },
+  {
+    "title": "PyroGenesis obdržela novou objednávku na titanový prášek, zdůrazňuje potenciál trhu s odřezky",
+    "summary": "PyroGenesis, a specialist in ultra-high-temperature processing and plasma-based engineering solutions, has received a second order for one tonne of titanium powder from a U.S. minerals and metal technology company under a supply agreement signed in Q4 2025.&#160; Produced via PyroGenesis’ NexGen plasma atomization process, the powder will support the development of high-performance titanium alloys for [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/03/pyrogenesis-additive-powders-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-26T09:21:57+00:00",
+    "url": "https://3dprintingindustry.com/news/pyrogenesis-receives-new-titanium-powder-order-highlighting-off-cut-market-potential-248405/?utm_source=rss&utm_medium=rss&utm_campaign=pyrogenesis-receives-new-titanium-powder-order-highlighting-off-cut-market-potential",
+    "title_en": "PyroGenesis Receives New Titanium Powder Order, Highlighting Off-Cut Market Potential",
+    "summary_bullets_en": [
+      "PyroGenesis has received a second order for one tonne of titanium powder from a U.S. company.",
+      "The order is part of a supply agreement signed in Q4 2025.",
+      "The titanium powder is produced using PyroGenesis’ NexGen plasma atomization process.",
+      "The powder will be used to develop high-performance titanium alloys."
+    ],
+    "summary_bullets_cs": [
+      "PyroGenesis obdržela druhou objednávku na jednu tunu titanového prášku od americké společnosti.",
+      "Objednávka je součástí dodavatelské smlouvy podepsané ve 4. čtvrtletí 2025.",
+      "Titanový prášek je vyráběn pomocí procesu NexGen plazmové atomizace od PyroGenesis.",
+      "Prášek bude použit k vývoji vysoce výkonných titanových slitin."
+    ],
+    "tags": [
+      "Material",
+      "PyroGenesis",
+      "Titanium",
+      "NexGen",
+      "Plasma Atomization"
+    ]
+  },
+  {
+    "title": "Airbus využívá Wire‑DED k výrobě velkých titanových dílů pro letadla",
+    "summary": "European multinational aerospace corporation Airbus is adopting wire‑Directed Energy Deposition (w‑DED), a 3D printing technique, to manufacture large titanium components for its aircraft. Unlike other 3D printing technologies, w‑DED is practical for producing structural parts of substantial size because it builds components layer by layer from titanium wire, minimizing material waste, shortening production time, and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/resize-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-01-26T09:20:43+00:00",
+    "url": "https://3dprintingindustry.com/news/airbus-leverages-wire%e2%80%91ded-to-produce-large-titanium-aircraft-parts-248408/?utm_source=rss&utm_medium=rss&utm_campaign=airbus-leverages-wire%25e2%2580%2591ded-to-produce-large-titanium-aircraft-parts",
+    "title_en": "Airbus Leverages Wire‑DED to Produce Large Titanium Aircraft Parts",
+    "summary_bullets_en": [
+      "Airbus is using wire‑Directed Energy Deposition (w‑DED) for manufacturing large titanium aircraft components.",
+      "w‑DED is a 3D printing technique that builds parts layer by layer from titanium wire.",
+      "This method reduces material waste and shortens production time, making it suitable for large structural parts."
+    ],
+    "summary_bullets_cs": [
+      "Airbus používá technologii wire‑Directed Energy Deposition (w‑DED) k výrobě velkých titanových komponentů pro letadla.",
+      "w‑DED je 3D tisková technika, která vytváří díly vrstvu po vrstvě z titanového drátu.",
+      "Tato metoda snižuje plýtvání materiálem a zkracuje dobu výroby, což ji činí vhodnou pro velké konstrukční díly."
+    ],
+    "tags": [
+      "Hardware",
+      "Airbus",
+      "3D Printing",
+      "Titanium",
+      "w‑DED"
+    ]
+  },
+  {
+    "title": "Prodways Printers a Lodestar3D spolupracují na rozvoji keramického 3D tisku v Indii",
+    "summary": "Ceramic additive manufacturing (AM) specialist Prodways Printers has signed an exclusive partnership with Lodestar3D, a provider of advanced manufacturing solutions in India, making the company the sole distributor of Prodways’ ceramic 3D printing solutions in the country.&#160; The collaboration focuses on the MOVINGLight DLP systems, giving Indian aerospace, defense, and high-performance industrial manufacturers local access [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/prodways-ceram-pro-365-3d-printer-core-mold-e1768406807214-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-26T09:18:48+00:00",
+    "url": "https://3dprintingindustry.com/news/prodways-printers-and-lodestar3d-partner-to-advance-ceramic-3d-printing-in-india-248399/?utm_source=rss&utm_medium=rss&utm_campaign=prodways-printers-and-lodestar3d-partner-to-advance-ceramic-3d-printing-in-india",
+    "title_en": "Prodways Printers and Lodestar3D Partner to Advance Ceramic 3D Printing in India",
+    "summary_bullets_en": [
+      "Prodways Printers has partnered with Lodestar3D to enhance ceramic 3D printing in India.",
+      "Lodestar3D becomes the exclusive distributor of Prodways' ceramic 3D printing solutions in India.",
+      "The partnership focuses on the MOVINGLight DLP systems for aerospace, defense, and high-performance industrial sectors."
+    ],
+    "summary_bullets_cs": [
+      "Prodways Printers uzavřel partnerství s Lodestar3D pro rozvoj keramického 3D tisku v Indii.",
+      "Lodestar3D se stává výhradním distributorem keramických 3D tiskových řešení Prodways v Indii.",
+      "Spolupráce se zaměřuje na systémy MOVINGLight DLP pro letecký, obranný a vysoce výkonný průmyslový sektor."
+    ],
+    "tags": [
+      "Hardware",
+      "Prodways",
+      "Lodestar3D",
+      "Ceramic 3D Printing",
+      "MOVINGLight DLP"
+    ]
+  },
+  {
+    "title": "Přehled mapuje 3D tisk pro personalizované orální léky",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/942468251/0/fabbaloo/default~Review-Charts-D-Printing-For-Personalized-Oral-Drugs\" rel=\"nofollow\" title=\"Review Charts 3D Printing For Personalized Oral Drugs\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/dental-prosthetic-survey-cover-300x199.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new review maps how additive manufacturing could deliver truly personalized oral medicines.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/942468251/0/fabbaloo/default~Review-Charts-D-Printing-For-Personalized-Oral-Drugs\" rel=\"nofollow\">Review Charts 3D Printing For Personalized Oral Drugs</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/dental-prosthetic-survey-cover-300x199.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-01-26T09:15:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/942468251/0/fabbaloo/default~Review-Charts-D-Printing-For-Personalized-Oral-Drugs",
+    "title_en": "Review Charts 3D Printing For Personalized Oral Drugs",
+    "summary_bullets_en": [
+      "A new review explores the potential of additive manufacturing for creating personalized oral medications.",
+      "The study highlights how 3D printing can tailor drug dosages and compositions to individual patient needs.",
+      "This approach could revolutionize the pharmaceutical industry by offering more effective and customized treatments."
+    ],
+    "summary_bullets_cs": [
+      "Nový přehled zkoumá potenciál aditivní výroby pro tvorbu personalizovaných orálních léků.",
+      "Studie zdůrazňuje, jak může 3D tisk přizpůsobit dávkování a složení léků individuálním potřebám pacientů.",
+      "Tento přístup by mohl revolučně změnit farmaceutický průmysl nabídkou efektivnějších a přizpůsobených léčeb."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Pharmaceuticals",
+      "Personalized Medicine"
+    ]
+  },
+  {
+    "title": "Revoluční aplikace 3D tisku: Automatizace továren",
+    "summary": "Across the globe, factories are using 3D printing to improve operations. Iterative improvements to production lines, automation tools, repairs, additions, custom parts for custom lines, housings for new sensors, and...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/01/swampwater.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-01-26T08:00:25+00:00",
+    "url": "https://3dprint.com/323213/killer-3d-printing-applications-factory-automation/",
+    "title_en": "Killer 3D Printing Applications: Factory Automation",
+    "summary_bullets_en": [
+      "Factories worldwide are leveraging 3D printing to enhance their operations.",
+      "3D printing is used for iterative improvements to production lines and automation tools.",
+      "It facilitates repairs, additions, and the creation of custom parts for specialized production lines.",
+      "New sensor housings and other custom components are being produced using 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Továrny po celém světě využívají 3D tisk ke zlepšení svých operací.",
+      "3D tisk se používá pro iterativní vylepšení výrobních linek a nástrojů pro automatizaci.",
+      "Umožňuje opravy, doplňky a tvorbu zakázkových dílů pro specializované výrobní linky.",
+      "Pomocí 3D tisku se vyrábějí nové kryty senzorů a další zakázkové komponenty."
+    ],
+    "tags": [
+      "Hardware",
+      "Factory Automation",
+      "3D Printing",
+      "Production Lines",
+      "Custom Parts"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 25. ledna 2026",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/942123035/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-January\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, January 25, 2026\"><img alt=\"Who&#039;s The Biggest In 3D Printing\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg\" style=\"height: auto !important; float: left; margin-right: 5px;\" width=\"1\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/942123035/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-January\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, January 25, 2026</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg",
