@@ -1,5 +1,83 @@
 [
   {
+    "title": "CRP Technology a CRP Meccanica vyvíjejí sací systém pro prototyp Alpine Alpenglow Hy6",
+    "summary": "CRP Technology, an additive manufacturing materials and services provider, and CRP Meccanica, a precision machining company, have collaborated with high-performance sports cars manufacturer Alpine on the design and manufacture of an intake plenum and manifold system for the Alpenglow Hy6 hydrogen-powered rolling prototype. Alpine’s initial intake configuration combined 3D printed polymer components with bonded aluminum [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/2_Alpenglow-Hy6-©-Alpine-Design-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-28T20:34:39+00:00",
+    "url": "https://3dprintingindustry.com/news/crp-technology-and-crp-meccanica-develop-intake-system-for-alpine-alpenglow-hy6-prototype-248511/?utm_source=rss&utm_medium=rss&utm_campaign=crp-technology-and-crp-meccanica-develop-intake-system-for-alpine-alpenglow-hy6-prototype",
+    "title_en": "CRP Technology and CRP Meccanica develop intake system for Alpine Alpenglow Hy6 prototype",
+    "summary_bullets_en": [
+      "CRP Technology and CRP Meccanica collaborated with Alpine to design and manufacture an intake plenum and manifold system.",
+      "The project focused on the Alpenglow Hy6, a hydrogen-powered rolling prototype.",
+      "Alpine's initial intake configuration used a combination of 3D printed polymer components and bonded aluminum."
+    ],
+    "summary_bullets_cs": [
+      "CRP Technology a CRP Meccanica spolupracovaly s Alpine na návrhu a výrobě sacího pléna a systému potrubí.",
+      "Projekt se zaměřil na Alpenglow Hy6, prototyp poháněný vodíkem.",
+      "Původní konfigurace sání od Alpine kombinovala 3D tištěné polymerové komponenty s lepeným hliníkem."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "CRP Technology",
+      "CRP Meccanica",
+      "Alpine"
+    ]
+  },
+  {
+    "title": "Volkmann představuje automatizovaný systém pro manipulaci s práškem PowTReX",
+    "summary": "Volkmann USA, a powder handling equipment manufacturer based in Bristol, Pennsylvania, has introduced the next generation of its PowTReX automated metal powder conveying system. First launched in 2018, the PowTReX platform is designed to support metal additive manufacturing operations producing large volumes of parts using multiple 3D printers. The updated system integrates powder transfer, recovery, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/Volkmann-PowTReX-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-28T20:32:51+00:00",
+    "url": "https://3dprintingindustry.com/news/volkmann-introduces-powtrex-automated-powder-handling-system-248494/?utm_source=rss&utm_medium=rss&utm_campaign=volkmann-introduces-powtrex-automated-powder-handling-system",
+    "title_en": "Volkmann introduces PowTReX automated powder handling system",
+    "summary_bullets_en": [
+      "Volkmann USA has launched the next generation of its PowTReX system.",
+      "The system is designed for metal additive manufacturing with multiple 3D printers.",
+      "PowTReX integrates powder transfer and recovery for efficient operations."
+    ],
+    "summary_bullets_cs": [
+      "Volkmann USA uvedla na trh novou generaci svého systému PowTReX.",
+      "Systém je navržen pro kovovou aditivní výrobu s více 3D tiskárnami.",
+      "PowTReX integruje přenos a obnovu prášku pro efektivní provoz."
+    ],
+    "tags": [
+      "Hardware",
+      "Volkmann",
+      "PowTReX",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Desktopový 3D tisk vstupuje do výroby zaměřené na produkci na Formnext Asia Shenzhen 2026",
+    "summary": "Formnext Asia Shenzhen 2026 is seeing its strongest early exhibitor uptake to date, following a 2025 edition that recorded a 78% increase in visitor numbers and more than doubled international attendance. Scheduled to take place from 26 to 28 August 2026 at the Shenzhen World Exhibition &#38; Convention Center, nearly 70% of the exhibition floor [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/Fairground6-2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-28T18:19:06+00:00",
+    "url": "https://3dprintingindustry.com/news/desktop-3d-printing-enters-production-focused-use-at-formnext-asia-shenzhen-2026-248502/?utm_source=rss&utm_medium=rss&utm_campaign=desktop-3d-printing-enters-production-focused-use-at-formnext-asia-shenzhen-2026",
+    "title_en": "Desktop 3D printing enters production-focused use at Formnext Asia Shenzhen 2026",
+    "summary_bullets_en": [
+      "Formnext Asia Shenzhen 2026 is experiencing its strongest early exhibitor participation.",
+      "The 2025 edition saw a 78% increase in visitor numbers and more than doubled international attendance.",
+      "The event is scheduled for 26 to 28 August 2026 at the Shenzhen World Exhibition & Convention Center."
+    ],
+    "summary_bullets_cs": [
+      "Formnext Asia Shenzhen 2026 zažívá nejsilnější účast vystavovatelů v historii.",
+      "Vydání z roku 2025 zaznamenalo 78% nárůst počtu návštěvníků a více než dvojnásobnou mezinárodní účast.",
+      "Akce je naplánována na 26. až 28. srpna 2026 v Shenzhen World Exhibition & Convention Center."
+    ],
+    "tags": [
+      "Hardware",
+      "Formnext",
+      "3D Printing",
+      "Shenzhen",
+      "Exhibition"
+    ]
+  },
+  {
     "title": "Open-source návrh 3D betonové tiskárny za 50 000 $ by mohl snížit bariéry pro přijetí 3DCP",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/943208099/0/fabbaloo/default~Open-Source-K-D-Concrete-Printer-Design-Could-Lower-Barriers-to-DCP-Adoption\" rel=\"nofollow\" title=\"Open Source $50K 3D Concrete Printer Design Could Lower Barriers to 3DCP Adoption\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/open-source-3dcp-cover-300x181.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There is now an open-source design for a 3DCP printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/943208099/0/fabbaloo/default~Open-Source-K-D-Concrete-Printer-Design-Could-Lower-Barriers-to-DCP-Adoption\" rel=\"nofollow\">Open Source $50K 3D Concrete Printer Design Could Lower Barriers to 3DCP Adoption</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/open-source-3dcp-cover-300x181.jpg",
