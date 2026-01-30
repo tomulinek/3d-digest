@@ -1,5 +1,194 @@
 [
   {
+    "title": "Nejrychlejší kovová 3D tiskárna na světě? Precision Additive uvádí na trh LPBF poháněný AI",
+    "summary": "Precision Additive, a U.S.-based manufacturer of metal additive manufacturing systems, has launched its first laser powder bed fusion machine, the PA-300. The system is intended to produce qualification-ready metal components for defense, aerospace, energy, and medical applications that require repeatability, traceability, and domestic manufacturing. The PA-300 is built around a proprietary process called Scanning Super [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/Precision-Additive-Launches-Worlds-Fastest-and-First-Artificial-Intelligence-LPBF-3D-Metal-Printer-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-30T11:23:21+00:00",
+    "url": "https://3dprintingindustry.com/news/worlds-fastest-metal-3d-printer-precision-additive-launches-ai-powered-lpbf-248600/?utm_source=rss&utm_medium=rss&utm_campaign=worlds-fastest-metal-3d-printer-precision-additive-launches-ai-powered-lpbf",
+    "title_en": "World’s Fastest Metal 3D Printer? Precision Additive launches AI-powered LPBF",
+    "summary_bullets_en": [
+      "Precision Additive has introduced its first laser powder bed fusion machine, the PA-300.",
+      "The PA-300 is designed for producing qualification-ready metal components for industries like defense, aerospace, energy, and medical.",
+      "The system emphasizes repeatability, traceability, and domestic manufacturing.",
+      "It features a proprietary process called Scanning Super."
+    ],
+    "summary_bullets_cs": [
+      "Precision Additive představila svou první laserovou práškovou fúzní tiskárnu, PA-300.",
+      "PA-300 je navržena pro výrobu kovových komponentů připravených k certifikaci pro obranu, letectví, energetiku a zdravotnictví.",
+      "Systém klade důraz na opakovatelnost, sledovatelnost a domácí výrobu.",
+      "Obsahuje proprietární proces nazvaný Scanning Super."
+    ],
+    "tags": [
+      "Hardware",
+      "Precision Additive",
+      "3D Printing",
+      "Metal Additive Manufacturing",
+      "LPBF",
+      "AI"
+    ]
+  },
+  {
+    "title": "Circdal umisťuje velkoformátový 3D tisk pro architektonické systémy",
+    "summary": "Printerior, a US based developer of large scale additive manufacturing technologies and materials, has launched Circdal, a new company focused on applying 3D printing to architectural systems for use in the built environment. The move positions large format additive manufacturing for use beyond its typical role in prototyping and limited production within aerospace, automotive, and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/luxury_wall_panels2_render7.3_2_032-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-01-30T11:16:37+00:00",
+    "url": "https://3dprintingindustry.com/news/circdal-positions-large-format-3d-printing-for-architectural-systems-248590/?utm_source=rss&utm_medium=rss&utm_campaign=circdal-positions-large-format-3d-printing-for-architectural-systems",
+    "title_en": "Circdal positions large format 3D printing for architectural systems",
+    "summary_bullets_en": [
+      "Printerior has launched a new company called Circdal.",
+      "Circdal focuses on applying 3D printing to architectural systems.",
+      "The initiative aims to expand the use of large format additive manufacturing beyond prototyping.",
+      "The target is the built environment sector."
+    ],
+    "summary_bullets_cs": [
+      "Printerior spustil novou společnost s názvem Circdal.",
+      "Circdal se zaměřuje na aplikaci 3D tisku v architektonických systémech.",
+      "Iniciativa si klade za cíl rozšířit využití velkoformátové aditivní výroby nad rámec prototypování.",
+      "Cílovým sektorem je zastavěné prostředí."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Architectural Systems",
+      "Printerior",
+      "Circdal"
+    ]
+  },
+  {
+    "title": "Čína úspěšně dokončila nejnovější test 3D tisku kovů v mikrogravitaci",
+    "summary": "Researchers from the Chinese Academy of Sciences (CAS) Institute of Mechanics have carried out a metal 3D printing experiment in space using a retrievable scientific payload. The test flew aboard the Lihong-1 Y1 suborbital vehicle, a recoverable spacecraft developed by CAS Space, which lifted off from the Jiuquan Satellite Launch Center on January 12 on [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/9d0d63b3-4f83-48e5-9976-76221047d6e7-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-30T09:43:58+00:00",
+    "url": "https://3dprintingindustry.com/news/china-successfully-completes-latest-metal-3d-printing-test-in-microgravity-248551/?utm_source=rss&utm_medium=rss&utm_campaign=china-successfully-completes-latest-metal-3d-printing-test-in-microgravity",
+    "title_en": "China Successfully Completes Latest Metal 3D Printing Test in Microgravity",
+    "summary_bullets_en": [
+      "Chinese researchers conducted a metal 3D printing experiment in space.",
+      "The experiment was carried out using a retrievable scientific payload.",
+      "The test took place aboard the Lihong-1 Y1 suborbital vehicle.",
+      "The spacecraft launched from the Jiuquan Satellite Launch Center."
+    ],
+    "summary_bullets_cs": [
+      "Čínští vědci provedli experiment s 3D tiskem kovů ve vesmíru.",
+      "Experiment byl proveden pomocí návratného vědeckého nákladu.",
+      "Test proběhl na palubě suborbitálního vozidla Lihong-1 Y1.",
+      "Kosmická loď odstartovala z kosmodromu Ťiou-čchüan."
+    ],
+    "tags": [
+      "Hardware",
+      "Chinese Academy of Sciences",
+      "Lihong-1 Y1",
+      "3D Printing",
+      "Microgravity"
+    ]
+  },
+  {
+    "title": "3D tisk pohání první dron Marine Corps v souladu s NDAA",
+    "summary": "Volpe, a motor transport mechanic with the U.S. Marine Corps’ 2nd Maintenance Battalion, has developed HANX, described as the first Marine Corps NDAA compliant 3D printed drone, highlighting how additive manufacturing can shorten development timelines, reduce costs, and increase operational flexibility in the field. “Volpe’s HANX drone is the most significant leap in 3D printed [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/260123-M-GD991-1059-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-30T09:43:40+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printing-powers-the-marine-corps-first-ndaa-compliant-drone-248561/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printing-powers-the-marine-corps-first-ndaa-compliant-drone",
+    "title_en": "3D Printing Powers the Marine Corps’ First NDAA-Compliant Drone",
+    "summary_bullets_en": [
+      "Volpe, a motor transport mechanic with the U.S. Marine Corps, developed HANX, the first NDAA-compliant 3D printed drone.",
+      "The HANX drone showcases how additive manufacturing can shorten development timelines and reduce costs.",
+      "The project highlights increased operational flexibility in the field through 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Volpe, mechanik motorových vozidel u 2. údržbového praporu U.S. Marine Corps, vyvinul HANX, první dron Marine Corps v souladu s NDAA.",
+      "Dron HANX ukazuje, jak může aditivní výroba zkrátit vývojové lhůty a snížit náklady.",
+      "Projekt zdůrazňuje zvýšenou provozní flexibilitu v terénu díky 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Marine Corps",
+      "Additive Manufacturing",
+      "Drones"
+    ]
+  },
+  {
+    "title": "Studie zkoumá aktivní uhlí a MgO ve vláknech FFF",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/943471142/0/fabbaloo/default~Study-Probes-Activated-Carbon-MgO-In-FFF-Filaments\" rel=\"nofollow\" title=\"Study Probes Activated Carbon, MgO In FFF Filaments\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/carbon-mgo-filaments-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new materials study examines activated carbon and magnesium oxide as additives in FFF filaments, with implications for thermal stability, strength, and durability.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/943471142/0/fabbaloo/default~Study-Probes-Activated-Carbon-MgO-In-FFF-Filaments\" rel=\"nofollow\">Study Probes Activated Carbon, MgO In FFF Filaments</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/carbon-mgo-filaments-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-01-30T09:39:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/943471142/0/fabbaloo/default~Study-Probes-Activated-Carbon-MgO-In-FFF-Filaments",
+    "title_en": "Study Probes Activated Carbon, MgO In FFF Filaments",
+    "summary_bullets_en": [
+      "A new study investigates the use of activated carbon and magnesium oxide as additives in FFF filaments.",
+      "The research focuses on the impact of these additives on thermal stability, strength, and durability of the filaments.",
+      "The findings could have significant implications for improving the performance of 3D printed materials."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie zkoumá použití aktivního uhlí a oxidu hořečnatého jako přísad ve vláknech FFF.",
+      "Výzkum se zaměřuje na vliv těchto přísad na tepelnou stabilitu, pevnost a odolnost vláken.",
+      "Zjištění by mohla mít významné dopady na zlepšení výkonu 3D tištěných materiálů."
+    ],
+    "tags": [
+      "Material",
+      "FFF Filaments",
+      "Activated Carbon",
+      "Magnesium Oxide",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Spherene V3 odstraňuje klíčové omezení v 3D tisku tokově optimalizovaných vnitřních struktur",
+    "summary": "Spherene, a Switzerland-based software company specializing in high-performance structural design, has released Spherene V3, a major update to its patented Adaptive Density Minimal Surfaces (ADMS) technology. The new version extends ADMS beyond structural optimization, introducing geometry controls and a flow-optimized surface type designed for additively manufactured parts operating under mechanical, thermal, and fluid constraints. At [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/SphereneHEX-V3-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-01-30T09:38:08+00:00",
+    "url": "https://3dprintingindustry.com/news/spherene-v3-removes-a-key-constraint-in-3d-printing-flow-optimized-internal-structures-248567/?utm_source=rss&utm_medium=rss&utm_campaign=spherene-v3-removes-a-key-constraint-in-3d-printing-flow-optimized-internal-structures",
+    "title_en": "Spherene V3 Removes a Key Constraint in 3D Printing Flow-Optimized Internal Structures",
+    "summary_bullets_en": [
+      "Spherene, a Swiss software company, has launched Spherene V3, an update to its Adaptive Density Minimal Surfaces (ADMS) technology.",
+      "The new version extends ADMS beyond structural optimization by introducing geometry controls and a flow-optimized surface type.",
+      "Spherene V3 is designed for additively manufactured parts that operate under mechanical, thermal, and fluid constraints."
+    ],
+    "summary_bullets_cs": [
+      "Švýcarská softwarová společnost Spherene uvedla na trh Spherene V3, aktualizaci své technologie Adaptive Density Minimal Surfaces (ADMS).",
+      "Nová verze rozšiřuje ADMS nad rámec strukturální optimalizace zavedením geometrických kontrol a tokově optimalizovaného typu povrchu.",
+      "Spherene V3 je navrženo pro aditivně vyráběné díly, které pracují pod mechanickými, tepelnými a fluidními omezeními."
+    ],
+    "tags": [
+      "Software",
+      "Spherene",
+      "3D Printing",
+      "ADMS",
+      "Flow Optimization"
+    ]
+  },
+  {
+    "title": "3D tištěné kovové protézy nabízejí novou naději pacientům s obrovskobuněčnými nádory distálního radia",
+    "summary": "Researchers at Guangxi Medical University Hospital in China used 3D printing to produce custom titanium prostheses with mesh patches for five patients with distal radius giant cell tumors between 2018 and 2021. By precisely matching each patient’s anatomy, the implants improved ligament attachment, joint stability, and early wrist mobility. Postoperative outcomes demonstrated promising results. However, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/41205_2025_261_Fig1_HTML-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-01-30T09:36:26+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printed-metal-prostheses-offer-new-hope-for-distal-radius-giant-cell-tumor-patients-248572/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-metal-prostheses-offer-new-hope-for-distal-radius-giant-cell-tumor-patients",
+    "title_en": "3D Printed Metal Prostheses Offer New Hope for Distal Radius Giant Cell Tumor Patients",
+    "summary_bullets_en": [
+      "Researchers at Guangxi Medical University Hospital in China used 3D printing to create custom titanium prostheses for patients with distal radius giant cell tumors.",
+      "The implants were designed to precisely match each patient's anatomy, improving ligament attachment, joint stability, and early wrist mobility.",
+      "Five patients received these custom prostheses between 2018 and 2021, showing promising postoperative outcomes."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Guangxi Medical University Hospital v Číně použili 3D tisk k vytvoření zakázkových titanových protéz pro pacienty s obrovskobuněčnými nádory distálního radia.",
+      "Implantáty byly navrženy tak, aby přesně odpovídaly anatomii každého pacienta, což zlepšilo připojení vazů, stabilitu kloubů a časnou pohyblivost zápěstí."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Medical",
+      "Prostheses",
+      "Titanium",
+      "Guangxi Medical University Hospital"
+    ]
+  },
+  {
     "title": "Vysvětlení tvrdosti TPU filamentu: Co znamenají měření Shore A a Shore D",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/943374278/0/fabbaloo/default~TPU-Filament-Hardness-Explained-What-Shore-A-and-Shore-D-Measurements-Mean\" rel=\"nofollow\" title=\"TPU Filament Hardness Explained: What Shore A and Shore D Measurements Mean\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/tpu-ratings-cover-1-300x169.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Here’s everything you need to know about durometer measurements for 3D printer filaments.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/943374278/0/fabbaloo/default~TPU-Filament-Hardness-Explained-What-Shore-A-and-Shore-D-Measurements-Mean\" rel=\"nofollow\">TPU Filament Hardness Explained: What Shore A and Shore D Measurements Mean</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/tpu-ratings-cover-1-300x169.jpeg",
