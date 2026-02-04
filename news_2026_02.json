@@ -1,5 +1,139 @@
 [
   {
+    "title": "Výzkumníci porovnávají metody 3D tisku kovů pro aplikace nástrojů z oceli H13",
+    "summary": "Researchers at Wroclaw University of Science and Technology have published a comparative study evaluating five metal additive manufacturing methods for producing H13 tool steel, identifying significant differences in density, microstructure, and heat-treatment response across the technologies. Published in Materials, the research compares filament-based extrusion, binder jetting, laser powder bed fusion, and directed energy deposition to [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/image-2-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-04T11:38:45+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-compare-metal-3d-printing-methods-for-h13-tool-steel-tooling-applications-248670/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-compare-metal-3d-printing-methods-for-h13-tool-steel-tooling-applications",
+    "title_en": "Researchers compare metal 3D printing methods for H13 tool steel tooling applications",
+    "summary_bullets_en": [
+      "Researchers at Wroclaw University of Science and Technology conducted a study on five metal additive manufacturing methods for H13 tool steel.",
+      "The study found significant differences in density, microstructure, and heat-treatment response among the methods.",
+      "The methods compared include filament-based extrusion, binder jetting, laser powder bed fusion, and directed energy deposition."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Vroclavské univerzity vědy a technologie provedli studii pěti metod aditivní výroby kovů pro ocel H13.",
+      "Studie odhalila významné rozdíly v hustotě, mikrostruktuře a reakci na tepelné zpracování mezi jednotlivými metodami.",
+      "Porovnávané metody zahrnují extruzi na bázi filamentu, tryskání pojiva, laserové tavení práškového lože a depozici řízenou energií."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Wroclaw University of Science and Technology",
+      "H13 Tool Steel"
+    ]
+  },
+  {
+    "title": "NordSpace získává nové financování NRC pro výzkum a vývoj motorů střední nosnosti raket",
+    "summary": "Canadian aerospace company NordSpace has received advisory support and up to $335,000 in funding from the National Research Council of Canada Industrial Research Assistance Program (NRC IRAP) for an R&#38;D project supporting the development of medium-lift rocket engines. According to the aerospace company, the project is directed toward advancing large-format, multi-material metal AM capabilities for [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/68e5e3a9d42bbe53c5dab67e_YouTube-Banner-1-p-2000-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-04T11:30:53+00:00",
+    "url": "https://3dprintingindustry.com/news/nordspace-secures-new-nrc-funding-for-medium-lift-rocket-engines-rd-248676/?utm_source=rss&utm_medium=rss&utm_campaign=nordspace-secures-new-nrc-funding-for-medium-lift-rocket-engines-rd",
+    "title_en": "NordSpace Secures New NRC Funding for Medium-Lift Rocket Engines R&D",
+    "summary_bullets_en": [
+      "NordSpace, a Canadian aerospace company, has received funding from NRC IRAP.",
+      "The funding amounts to up to $335,000 for R&D on medium-lift rocket engines.",
+      "The project focuses on advancing large-format, multi-material metal additive manufacturing capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Kanadská letecká společnost NordSpace získala financování od NRC IRAP.",
+      "Financování dosahuje až 335 000 dolarů na výzkum a vývoj motorů střední nosnosti raket.",
+      "Projekt se zaměřuje na pokrok ve velkoformátových, multimateriálových schopnostech kovového aditivního výrobního procesu."
+    ],
+    "tags": [
+      "Hardware",
+      "NordSpace",
+      "NRC IRAP",
+      "Aerospace",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Udržitelnost autonomního boje: Výroba a školení na místě v armádě USA",
+    "summary": "The U.S. Army is actively modernizing how it maintains autonomous and semi-autonomous systems on the battlefield. Drawing lessons from the Russia-Ukraine conflict, the Army is deploying mobile 3D printing and machining units, training soldiers in advanced manufacturing, and experimenting with in-field recycling of materials to keep drones and unmanned vehicles operational. These initiatives aim to [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/original-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-04T11:29:47+00:00",
+    "url": "https://3dprintingindustry.com/news/sustaining-autonomous-warfare-on-site-production-and-training-in-the-u-s-army-248684/?utm_source=rss&utm_medium=rss&utm_campaign=sustaining-autonomous-warfare-on-site-production-and-training-in-the-u-s-army",
+    "title_en": "Sustaining Autonomous Warfare: On-Site Production and Training in the U.S. Army",
+    "summary_bullets_en": [
+      "The U.S. Army is modernizing maintenance of autonomous systems on the battlefield.",
+      "Mobile 3D printing and machining units are being deployed to support operations.",
+      "Soldiers are being trained in advanced manufacturing techniques.",
+      "In-field recycling of materials is being experimented with to maintain drones and unmanned vehicles."
+    ],
+    "summary_bullets_cs": [
+      "Armáda USA modernizuje údržbu autonomních systémů na bojišti.",
+      "Jsou nasazovány mobilní jednotky pro 3D tisk a obrábění na podporu operací.",
+      "Vojáci jsou školeni v pokročilých výrobních technikách.",
+      "Experimentuje se s recyklací materiálů na místě pro údržbu dronů a bezpilotních vozidel."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "U.S. Army",
+      "Autonomous Systems",
+      "Advanced Manufacturing",
+      "Recycling"
+    ]
+  },
+  {
+    "title": "Nový výzkum odhaluje seismické mezery v 3D tištěném betonu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/944648516/0/fabbaloo/default~New-Research-Flags-Seismic-Gaps-In-D-Printed-Concrete\" rel=\"nofollow\" title=\"New Research Flags Seismic Gaps In 3D Printed Concrete\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/3dcp-seismic-survey-cover-300x219.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new academic review dissects how 3D printed concrete behaves in earthquakes and where the technology must improve to earn code approval.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/944648516/0/fabbaloo/default~New-Research-Flags-Seismic-Gaps-In-D-Printed-Concrete\" rel=\"nofollow\">New Research Flags Seismic Gaps In 3D Printed Concrete</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/3dcp-seismic-survey-cover-300x219.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-04T09:06:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/944648516/0/fabbaloo/default~New-Research-Flags-Seismic-Gaps-In-D-Printed-Concrete",
+    "title_en": "New Research Flags Seismic Gaps In 3D Printed Concrete",
+    "summary_bullets_en": [
+      "A new academic review examines the behavior of 3D printed concrete during earthquakes.",
+      "The study identifies areas where the technology needs improvement to meet building code standards.",
+      "The research highlights the potential and limitations of 3D printed concrete in seismic applications."
+    ],
+    "summary_bullets_cs": [
+      "Nová akademická recenze zkoumá chování 3D tištěného betonu během zemětřesení.",
+      "Studie identifikuje oblasti, kde technologie potřebuje zlepšení, aby splnila stavební normy.",
+      "Výzkum zdůrazňuje potenciál a omezení 3D tištěného betonu v seismických aplikacích."
+    ],
+    "tags": [
+      "Material",
+      "3D Printed Concrete",
+      "Seismic Study",
+      "Building Codes"
+    ]
+  },
+  {
+    "title": "Výzkumníci z Cornellovy univerzity vyvinuli podvodní 3D tisk betonu pro námořní stavby",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/cornell-researchers-develop-underwater-3d-concrete-printing-for-maritime-construction/\" target=\"_blank\">Cornell Researchers Develop Underwater 3D Concrete Printing for Maritime Construction</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">February 4</span></div><div><img alt=\"Cornell Researchers Develop Underwater 3D Concrete Printing for Maritime Construction\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/0128_printing2-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/0128_printing2-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-02-04T08:53:50+00:00",
+    "url": "https://3dprinting.com/news/cornell-researchers-develop-underwater-3d-concrete-printing-for-maritime-construction/",
+    "title_en": "Cornell Researchers Develop Underwater 3D Concrete Printing for Maritime Construction",
+    "summary_bullets_en": [
+      "Cornell University researchers have developed a method for 3D printing concrete structures underwater.",
+      "This technology aims to revolutionize maritime construction by enabling the creation of complex structures directly in aquatic environments.",
+      "The process involves a specially formulated concrete mix that can set and cure underwater, maintaining structural integrity.",
+      "This innovation could significantly reduce construction time and costs for underwater infrastructure projects."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Cornellovy univerzity vyvinuli metodu pro 3D tisk betonových konstrukcí pod vodou.",
+      "Tato technologie má za cíl revoluci v námořní výstavbě umožněním tvorby složitých struktur přímo v vodním prostředí.",
+      "Proces zahrnuje speciálně formulovanou betonovou směs, která může tuhnout a vytvrzovat pod vodou, přičemž si zachovává strukturální integritu.",
+      "Tato inovace by mohla výrazně snížit dobu a náklady na výstavbu podvodní infrastruktury."
+    ],
+    "tags": [
+      "Hardware",
+      "Cornell University",
+      "3D Printing",
+      "Concrete",
+      "Maritime Construction"
+    ]
+  },
+  {
     "title": "Kalibrace pročištění je klíčovou metodou ke snížení odpadu filamentu při vícebarevném 3D tisku",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/944516420/0/fabbaloo/default~Purge-Calibration-is-a-Key-Method-to-Reduce-Filament-Waste-in-Multicolor-D-Printing\" rel=\"nofollow\" title=\"Purge Calibration is a Key Method to Reduce Filament Waste in Multicolor 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/purge-calibration-cover-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Have you heard of “purge calibration”?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/944516420/0/fabbaloo/default~Purge-Calibration-is-a-Key-Method-to-Reduce-Filament-Waste-in-Multicolor-D-Printing\" rel=\"nofollow\">Purge Calibration is a Key Method to Reduce Filament Waste in Multicolor 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/purge-calibration-cover-300x225.jpg",
