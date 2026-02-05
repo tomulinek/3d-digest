@@ -1,5 +1,165 @@
 [
   {
+    "title": "Zpráva WEF zahrnuje AM v novém plánu politiky dodavatelského řetězce",
+    "summary": "A new World Economic Forum (WEF) report includes AM in its policy recommendations aimed at strengthening regional manufacturing capabilities and supply chain flexibility. Developed with consulting firm Kearney and drawing on consultations with over 100 industry and government leaders and survey data from more than 300 global executives, the Global Value Chains Outlook 2026: Orchestrating [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/WEF1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-05T10:42:35+00:00",
+    "url": "https://3dprintingindustry.com/news/wef-report-names-am-in-its-new-supply-chain-policy-blueprint-248736/?utm_source=rss&utm_medium=rss&utm_campaign=wef-report-names-am-in-its-new-supply-chain-policy-blueprint",
+    "title_en": "WEF Report Names AM in its New Supply Chain Policy Blueprint",
+    "summary_bullets_en": [
+      "The World Economic Forum (WEF) has released a report that includes additive manufacturing (AM) in its policy recommendations.",
+      "The report aims to enhance regional manufacturing capabilities and improve supply chain flexibility.",
+      "It was developed in collaboration with consulting firm Kearney and involved consultations with over 100 industry and government leaders.",
+      "The report also incorporates survey data from more than 300 global executives."
+    ],
+    "summary_bullets_cs": [
+      "Světové ekonomické fórum (WEF) vydalo zprávu, která zahrnuje aditivní výrobu (AM) ve svých doporučeních pro politiku.",
+      "Zpráva má za cíl posílit regionální výrobní schopnosti a zlepšit flexibilitu dodavatelského řetězce.",
+      "Byla vypracována ve spolupráci s poradenskou firmou Kearney a zahrnovala konzultace s více než 100 lídry z průmyslu a vlády.",
+      "Zpráva také obsahuje data z průzkumu více než 300 globálních manažerů."
+    ],
+    "tags": [
+      "Hardware",
+      "World Economic Forum",
+      "Kearney",
+      "Additive Manufacturing",
+      "Supply Chain"
+    ]
+  },
+  {
+    "title": "E3D vybrána pro program Innovate UK Business Growth Scaleup",
+    "summary": "E3D, a UK-based manufacturer of extrusion systems and hardware used in filament-based 3D printing, has been selected to participate in the Innovate UK Business Growth Scaleup Programme, an invitation-only initiative supporting a limited number of fast-growing, innovation-led companies. The programme provides tailored, director-level support to fewer than 100 businesses identified as having the capacity to [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/Blog_Header_Images_17_bfdeabdc-3e82-4cfe-b170-d634e242d46e-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-02-05T10:30:59+00:00",
+    "url": "https://3dprintingindustry.com/news/e3d-selected-for-innovate-uk-business-growth-scaleup-programme-248723/?utm_source=rss&utm_medium=rss&utm_campaign=e3d-selected-for-innovate-uk-business-growth-scaleup-programme",
+    "title_en": "E3D selected for Innovate UK Business Growth Scaleup Programme",
+    "summary_bullets_en": [
+      "E3D, a UK-based manufacturer, specializes in extrusion systems for filament-based 3D printing.",
+      "The company has been chosen for the Innovate UK Business Growth Scaleup Programme.",
+      "This programme is invitation-only and supports fast-growing, innovation-led companies.",
+      "It offers tailored, director-level support to fewer than 100 selected businesses."
+    ],
+    "summary_bullets_cs": [
+      "E3D, britský výrobce, se specializuje na extruzní systémy pro 3D tisk na bázi filamentu.",
+      "Společnost byla vybrána pro účast v programu Innovate UK Business Growth Scaleup.",
+      "Tento program je pouze na pozvání a podporuje rychle rostoucí, inovativní společnosti.",
+      "Nabízí přizpůsobenou podporu na úrovni ředitelů pro méně než 100 vybraných podniků."
+    ],
+    "tags": [
+      "Hardware",
+      "E3D",
+      "Innovate UK"
+    ]
+  },
+  {
+    "title": "Additive Drives získává investici ve středně vysokých desítkách milionů na urychlení motorů bez vzácných zemin",
+    "summary": "Nordic Alpha Partners, a private equity firm focused on green industrial transformation, has invested a mid-double-digit million euro sum to acquire a minority stake in Additive Drives, a German company developing high-performance, 3D printed electric motors. Existing investor AM Ventures, which backed the company from its seed stage, also added new funding. The partnership positions [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/1770021799467-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-05T10:29:12+00:00",
+    "url": "https://3dprintingindustry.com/news/additive-drives-raises-mid-double-digit-million-investment-to-accelerate-rare-earth-free-motors-248700/?utm_source=rss&utm_medium=rss&utm_campaign=additive-drives-raises-mid-double-digit-million-investment-to-accelerate-rare-earth-free-motors",
+    "title_en": "Additive Drives Raises Mid-Double-Digit Million Investment to Accelerate Rare-Earth-Free Motors",
+    "summary_bullets_en": [
+      "Nordic Alpha Partners has invested a mid-double-digit million euro sum in Additive Drives.",
+      "Additive Drives is a German company developing 3D printed electric motors without rare-earth materials.",
+      "Existing investor AM Ventures also contributed additional funding.",
+      "The investment aims to accelerate the development of high-performance, sustainable electric motors."
+    ],
+    "summary_bullets_cs": [
+      "Nordic Alpha Partners investovala středně vysokou částku v desítkách milionů eur do společnosti Additive Drives.",
+      "Additive Drives je německá firma vyvíjející 3D tištěné elektrické motory bez vzácných zemin.",
+      "Stávající investor AM Ventures také přidal nové financování.",
+      "Investice má za cíl urychlit vývoj vysoce výkonných a udržitelných elektrických motorů."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Drives",
+      "Nordic Alpha Partners",
+      "AM Ventures",
+      "3D Printing",
+      "Electric Motors"
+    ]
+  },
+  {
+    "title": "Penn State a ARL představují LAMAR Robotic DED",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/944874401/0/fabbaloo/default~Penn-State-And-ARL-Unveil-LAMAR-Robotic-DED\" rel=\"nofollow\" title=\"Penn State And ARL Unveil LAMAR Robotic DED\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/lamarr-ded-cover-300x168.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Penn State and the US Army Research Laboratory (ARL) have introduced LAMAR, a large-format robotic Directed Energy Deposition (DED) platform aimed at faster metal additive research and process control.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/944874401/0/fabbaloo/default~Penn-State-And-ARL-Unveil-LAMAR-Robotic-DED\" rel=\"nofollow\">Penn State And ARL Unveil LAMAR Robotic DED</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/lamarr-ded-cover-300x168.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-05T09:05:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/944874401/0/fabbaloo/default~Penn-State-And-ARL-Unveil-LAMAR-Robotic-DED",
+    "title_en": "Penn State And ARL Unveil LAMAR Robotic DED",
+    "summary_bullets_en": [
+      "Penn State and the US Army Research Laboratory have introduced LAMAR, a large-format robotic Directed Energy Deposition platform.",
+      "LAMAR is designed to enhance metal additive research and improve process control.",
+      "The platform aims to accelerate the development of metal additive manufacturing technologies."
+    ],
+    "summary_bullets_cs": [
+      "Penn State a US Army Research Laboratory představily LAMAR, velkoformátovou robotickou platformu pro Directed Energy Deposition.",
+      "LAMAR je navržen pro zlepšení výzkumu kovového aditivního tisku a řízení procesů.",
+      "Platforma má za cíl urychlit vývoj technologií kovového aditivního tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Penn State",
+      "US Army Research Laboratory",
+      "LAMAR",
+      "Directed Energy Deposition"
+    ]
+  },
+  {
+    "title": "Metoda CRAFT umožňuje ovládání tvrdosti a průhlednosti na úrovni pixelů v 3D tisku",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/craft-method-enables-pixel-level-control-of-hardness-and-transparency-in-3d-prints/\" target=\"_blank\">CRAFT Method Enables Pixel-Level Control of Hardness and Transparency in 3D Prints</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">February 5</span></div><div><img alt=\"CRAFT Method Enables Pixel-Level Control of Hardness and Transparency in 3D Prints\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/8634798984-500x500.avif\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/8634798984-500x500.avif",
+    "source": "3DPrinting.com",
+    "published": "2026-02-05T09:01:57+00:00",
+    "url": "https://3dprinting.com/news/craft-method-enables-pixel-level-control-of-hardness-and-transparency-in-3d-prints/",
+    "title_en": "CRAFT Method Enables Pixel-Level Control of Hardness and Transparency in 3D Prints",
+    "summary_bullets_en": [
+      "The CRAFT method allows for precise control over the hardness and transparency of 3D printed objects at the pixel level.",
+      "This innovation enhances the customization capabilities of 3D printing, enabling more complex and functional designs.",
+      "The method could revolutionize industries that require specific material properties, such as medical devices and consumer products."
+    ],
+    "summary_bullets_cs": [
+      "Metoda CRAFT umožňuje přesné ovládání tvrdosti a průhlednosti 3D tištěných objektů na úrovni pixelů.",
+      "Tato inovace zvyšuje možnosti přizpůsobení v 3D tisku, což umožňuje složitější a funkčnější návrhy.",
+      "Metoda by mohla revolučně změnit odvětví, která vyžadují specifické vlastnosti materiálů, jako jsou zdravotnické pomůcky a spotřební produkty."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "CRAFT Method",
+      "Material"
+    ]
+  },
+  {
+    "title": "První certifikovaný 3D tištěný dům v Itálii je na světě: WASP dokončuje projekt Itaca",
+    "summary": "Additive construction (AC) can’t “solve the housing crisis”: that’s too much to expect from one technology. But AC processes have demonstrated that they’re a promising tool for helping to mitigate...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/IMG_7939.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-05T08:00:20+00:00",
+    "url": "https://3dprint.com/323667/italys-first-certified-3d-printed-home-is-alive-wasp-completes-the-itaca-project/",
+    "title_en": "Italy’s First Certified 3D Printed Home is Alive: WASP Completes the Itaca Project",
+    "summary_bullets_en": [
+      "Additive construction (AC) is not a complete solution to the housing crisis, but it shows promise in mitigating the issue.",
+      "WASP has completed the Itaca Project, marking Italy's first certified 3D printed home.",
+      "The project highlights the potential of 3D printing technology in sustainable and efficient construction."
+    ],
+    "summary_bullets_cs": [
+      "Adiční konstrukce (AC) nemůže zcela vyřešit krizi bydlení, ale ukazuje se jako slibný nástroj pro její zmírnění.",
+      "WASP dokončil projekt Itaca, což je první certifikovaný 3D tištěný dům v Itálii.",
+      "Projekt zdůrazňuje potenciál technologie 3D tisku v udržitelné a efektivní výstavbě."
+    ],
+    "tags": [
+      "Hardware",
+      "WASP",
+      "3D Printing",
+      "Construction",
+      "Sustainability"
+    ]
+  },
+  {
     "title": "Nové výzvy America Makes za 8 milionů dolarů cílí na materiály pro obranný 3D tisk",
     "summary": "America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have announced two new project calls totaling $8 million, focused on materials development and qualification challenges in defense applications. Across many defense AM programs, AM adoption has progressed, but qualification and certification often remain the dominant constraints on material readiness. In high-temperature defense [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/America-Makes-facility-face-150x100.jpg",
