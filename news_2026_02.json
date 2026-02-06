@@ -1,5 +1,83 @@
 [
   {
+    "title": "Kompaktní extruder na pelety umožňuje tisk s vysokým obsahem surovin",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/945026486/0/fabbaloo/default~Compact-Pellet-Extruder-Enables-High-Content-Feedstock-Printing\" rel=\"nofollow\" title=\"Compact Pellet Extruder Enables High Content Feedstock Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/screw-fgf-pellet-cover-300x188.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new research paper introduces a compact screw-based pellet extruder for high content feedstocks, and it could materially shift costs and throughput for polymer, metal and ceramic additive manufacturing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/945026486/0/fabbaloo/default~Compact-Pellet-Extruder-Enables-High-Content-Feedstock-Printing\" rel=\"nofollow\">Compact Pellet Extruder Enables High Content Feedstock Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/screw-fgf-pellet-cover-300x188.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-06T09:17:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/945026486/0/fabbaloo/default~Compact-Pellet-Extruder-Enables-High-Content-Feedstock-Printing",
+    "title_en": "Compact Pellet Extruder Enables High Content Feedstock Printing",
+    "summary_bullets_en": [
+      "A new research paper introduces a compact screw-based pellet extruder.",
+      "The extruder is designed for high content feedstocks.",
+      "It could significantly reduce costs and increase throughput in polymer, metal, and ceramic additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Nový výzkumný článek představuje kompaktní extruder na pelety založený na šroubovém mechanismu.",
+      "Extruder je navržen pro suroviny s vysokým obsahem.",
+      "Mohl by výrazně snížit náklady a zvýšit průchodnost v aditivní výrobě polymerů, kovů a keramiky."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "Polymer",
+      "Metal",
+      "Ceramic"
+    ]
+  },
+  {
+    "title": "Námořní pěchota vyvinula první 3D tištěný dron v souladu s NDAA",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/marine-corps-develops-first-ndaa-compliant-3d-printed-drone/\" target=\"_blank\">Marine Corps Develops First NDAA-Compliant 3D Printed Drone</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">February 6</span></div><div><img alt=\"Marine Corps Develops First NDAA-Compliant 3D Printed Drone\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/863874794-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/863874794-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-02-06T09:14:41+00:00",
+    "url": "https://3dprinting.com/news/marine-corps-develops-first-ndaa-compliant-3d-printed-drone/",
+    "title_en": "Marine Corps Develops First NDAA-Compliant 3D Printed Drone",
+    "summary_bullets_en": [
+      "The U.S. Marine Corps has developed a 3D printed drone that complies with the National Defense Authorization Act (NDAA).",
+      "This drone is the first of its kind to meet NDAA compliance standards.",
+      "The development highlights the potential of 3D printing technology in military applications."
+    ],
+    "summary_bullets_cs": [
+      "Námořní pěchota USA vyvinula 3D tištěný dron, který splňuje požadavky Zákona o národní obraně (NDAA).",
+      "Tento dron je prvním svého druhu, který splňuje standardy souladu s NDAA.",
+      "Vývoj zdůrazňuje potenciál technologie 3D tisku v armádních aplikacích."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Military",
+      "Marine Corps",
+      "NDAA"
+    ]
+  },
+  {
+    "title": "Additive Drives získává financování, zatímco výrobci elektromotorů hledají alternativy k vzácným zeminám",
+    "summary": "Nordic Alpha Partners has invested in Additive Drives. This will help accelerate the company&#8217;s mission to develop better 3D printed electric motors. Through making lighter, rare-earth element-free engines, Additive Drives...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/hairpin-stator-1-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-06T08:30:37+00:00",
+    "url": "https://3dprint.com/323698/additive-drives-raises-funding-as-electric-motor-makers-look-beyond-rare-earths/",
+    "title_en": "Additive Drives Raises Funding as Electric Motor Makers Look Beyond Rare Earths",
+    "summary_bullets_en": [
+      "Nordic Alpha Partners has invested in Additive Drives.",
+      "The investment aims to accelerate the development of 3D printed electric motors.",
+      "Additive Drives focuses on creating lighter, rare-earth element-free engines."
+    ],
+    "summary_bullets_cs": [
+      "Nordic Alpha Partners investoval do společnosti Additive Drives.",
+      "Tato investice má urychlit vývoj 3D tištěných elektromotorů.",
+      "Additive Drives se zaměřuje na výrobu lehčích motorů bez použití vzácných zemin."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Drives",
+      "Electric Motors",
+      "3D Printing",
+      "Nordic Alpha Partners"
+    ]
+  },
+  {
     "title": "Program ochrany tvůrců od Bambu Lab odstranil více než 200 neoprávněných 3D modelů",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/944978777/0/fabbaloo/default~Bambu-Labs-Creator-Protection-Program-Takes-Down-Unauthorized-D-Models\" rel=\"nofollow\" title=\"Bambu Lab&#8217;s Creator Protection Program Takes Down 200+ Unauthorized 3D Models\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/stolen-design-cover-300x166.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Bambu Lab has launched a new program to protect creators’ content.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/944978777/0/fabbaloo/default~Bambu-Labs-Creator-Protection-Program-Takes-Down-Unauthorized-D-Models\" rel=\"nofollow\">Bambu Lab&#8217;s Creator Protection Program Takes Down 200+ Unauthorized 3D Models</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/stolen-design-cover-300x166.jpg",
