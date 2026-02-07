@@ -1,5 +1,56 @@
 [
   {
+    "title": "Novinky o 3D tisku, 7. února 2026: Generativní AI, USV, Mikrogravitace a další",
+    "summary": "Today&#8217;s 3D Printing News Briefs is a bit of a mixed bag. We&#8217;re starting with generative AI tools for 3D design from MIT, and then news about USVs. Moving on,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/MIT-MechStyle.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-07T13:30:26+00:00",
+    "url": "https://3dprint.com/323759/3d-printing-news-briefs-2-7-2026/",
+    "title_en": "3D Printing News Briefs, February 7, 2026: Generative AI, USVs, Microgravity, & More",
+    "summary_bullets_en": [
+      "MIT introduces new generative AI tools for 3D design.",
+      "Developments in Unmanned Surface Vehicles (USVs) related to 3D printing.",
+      "Exploration of 3D printing applications in microgravity environments."
+    ],
+    "summary_bullets_cs": [
+      "MIT představuje nové generativní AI nástroje pro 3D design.",
+      "Vývoj v oblasti bezpilotních hladinových vozidel (USV) související s 3D tiskem.",
+      "Zkoumání aplikací 3D tisku v prostředí mikrogravitace."
+    ],
+    "tags": [
+      "Software",
+      "MIT",
+      "USVs",
+      "Microgravity"
+    ]
+  },
+  {
+    "title": "Rozsáhlý program 3D tisku HVAC na University of Maryland signalizuje zlomový bod",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/945245204/0/fabbaloo/default~University-of-Maryland%e2%80%99s-Extensive-HVAC-D-Printing-Program-Signals-a-Turning-Point\" rel=\"nofollow\" title=\"University of Maryland’s Extensive HVAC 3D Printing Program Signals a Turning Point\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/hvacmd-1-300x199.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi highlight how the University of Maryland’s extensive HVAC 3D printing program is moving additive manufacturing from experimental concepts to real-world energy infrastructure.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/945245204/0/fabbaloo/default~University-of-Maryland%e2%80%99s-Extensive-HVAC-D-Printing-Program-Signals-a-Turning-Point\" rel=\"nofollow\">University of Maryland’s Extensive HVAC 3D Printing Program Signals a Turning Point</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/hvacmd-1-300x199.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-07T13:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/945245204/0/fabbaloo/default~University-of-Maryland%e2%80%99s-Extensive-HVAC-D-Printing-Program-Signals-a-Turning-Point",
+    "title_en": "University of Maryland’s Extensive HVAC 3D Printing Program Signals a Turning Point",
+    "summary_bullets_en": [
+      "The University of Maryland is advancing HVAC systems through an extensive 3D printing program.",
+      "This initiative is transitioning additive manufacturing from experimental to practical applications in energy infrastructure.",
+      "The program highlights the potential of 3D printing in real-world energy solutions."
+    ],
+    "summary_bullets_cs": [
+      "University of Maryland posouvá systémy HVAC prostřednictvím rozsáhlého programu 3D tisku.",
+      "Tato iniciativa přechází od experimentálních konceptů k praktickým aplikacím v energetické infrastruktuře.",
+      "Program zdůrazňuje potenciál 3D tisku v reálných energetických řešeních."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "University of Maryland",
+      "HVAC",
+      "Energy Infrastructure"
+    ]
+  },
+  {
     "title": "Adafruit varuje před nedostatky v nových zákonech o kontrole střelných zbraní",
     "summary": "3D printed firearms have become a growing concern for law enforcement in recent years. Lawmakers and online platforms have introduced new restrictions targeting both the weapons themselves and the digital files used to produce them. Now two states are attempting to push that strategy further upstream. New York and Washington State are pursuing legislation to [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/01/STL-Preview-of-the-Urutau.-Image-via-the-Global-Network-on-Extremism-Technology-150x100.png",
