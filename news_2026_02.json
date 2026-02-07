@@ -1,5 +1,32 @@
 [
   {
+    "title": "Adafruit varuje před nedostatky v nových zákonech o kontrole střelných zbraní",
+    "summary": "3D printed firearms have become a growing concern for law enforcement in recent years. Lawmakers and online platforms have introduced new restrictions targeting both the weapons themselves and the digital files used to produce them. Now two states are attempting to push that strategy further upstream. New York and Washington State are pursuing legislation to [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/01/STL-Preview-of-the-Urutau.-Image-via-the-Global-Network-on-Extremism-Technology-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-07T11:27:59+00:00",
+    "url": "https://3dprintingindustry.com/news/adafruit-warns-of-flaws-in-the-new-firearm-screening-bills-248769/?utm_source=rss&utm_medium=rss&utm_campaign=adafruit-warns-of-flaws-in-the-new-firearm-screening-bills",
+    "title_en": "Adafruit Warns of Flaws in the New Firearm Screening Bills",
+    "summary_bullets_en": [
+      "3D printed firearms are increasingly concerning for law enforcement.",
+      "New restrictions target both the weapons and digital files used to produce them.",
+      "New York and Washington State are pursuing legislation to address these issues."
+    ],
+    "summary_bullets_cs": [
+      "3D tištěné střelné zbraně jsou pro orgány činné v trestním řízení stále větším problémem.",
+      "Nová omezení cílí jak na samotné zbraně, tak na digitální soubory používané k jejich výrobě.",
+      "Státy New York a Washington se snaží prosadit legislativu k řešení těchto problémů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Legislation",
+      "Adafruit",
+      "New York",
+      "Washington State"
+    ]
+  },
+  {
     "title": "Překážky v rozšiřování a materiály TPU omezují domácí výrobu 3D tištěné obuvi",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/945153068/0/fabbaloo/default~Barriers-in-Scaling-and-TPU-Materials-Limit-Home-Production-of-D-Printed-Footwear\" rel=\"nofollow\" title=\"Barriers in Scaling and TPU Materials Limit Home Production of 3D Printed Footwear\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/printing-shoes-cover-1-300x169.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The 3D print industry may be missing out on a major distributed application: footwear.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/945153068/0/fabbaloo/default~Barriers-in-Scaling-and-TPU-Materials-Limit-Home-Production-of-D-Printed-Footwear\" rel=\"nofollow\">Barriers in Scaling and TPU Materials Limit Home Production of 3D Printed Footwear</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/printing-shoes-cover-1-300x169.jpeg",
@@ -415,6 +442,34 @@
       "Bambu Lab",
       "3D Models",
       "Intellectual Property"
+    ]
+  },
+  {
+    "title": "Optofluidní montážní metoda umožňuje 3D mikrostruktury z kovů, oxidů a kvantových teček",
+    "summary": "Researchers from the Max Planck Institute for Intelligent Systems, ETH Zurich, KTH Royal Institute of Technology, the National University of Singapore, and Koç University have developed an optofluidic 3D microfabrication and nanofabrication technique that enables the creation of fully three-dimensional microstructures from a wide range of materials, including metal nanoparticles, metal oxides, diamond nanoparticles, and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/image-2-e1770282769904-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-05T16:19:12+00:00",
+    "url": "https://3dprintingindustry.com/news/optofluidic-assembly-method-enables-3d-microstructures-from-metals-oxides-and-quantum-dots-248729/?utm_source=rss&utm_medium=rss&utm_campaign=optofluidic-assembly-method-enables-3d-microstructures-from-metals-oxides-and-quantum-dots",
+    "title_en": "Optofluidic assembly method enables 3D microstructures from metals, oxides, and quantum dots",
+    "summary_bullets_en": [
+      "Researchers have developed an optofluidic 3D microfabrication technique.",
+      "The method allows the creation of fully three-dimensional microstructures.",
+      "It can utilize a wide range of materials, including metal nanoparticles and quantum dots."
+    ],
+    "summary_bullets_cs": [
+      "Vědci vyvinuli optofluidní techniku 3D mikroprodukce.",
+      "Metoda umožňuje tvorbu plně trojrozměrných mikrostruktur.",
+      "Lze ji využít pro širokou škálu materiálů, včetně kovových nanočástic a kvantových teček."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Max Planck Institute for Intelligent Systems",
+      "ETH Zurich",
+      "KTH Royal Institute of Technology",
+      "National University of Singapore",
+      "Koç University"
     ]
   },
   {
