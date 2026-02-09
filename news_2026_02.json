@@ -1,5 +1,82 @@
 [
   {
+    "title": "[ROZHOVOR] Když se geometrie generovaná AI setká s limity 3D tisku",
+    "summary": "For AI-generated 3D models, visual completeness does not guarantee physical viability. A mesh that looks coherent on screen can still fail at the slicer stage due to non-manifold edges, thin walls, or ambiguous negative space. As generative systems increase output resolution and complexity, those failure modes become harder to treat as edge cases. They define [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/Meshy-AI-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-09T10:34:33+00:00",
+    "url": "https://3dprintingindustry.com/news/interview-when-ai-generated-geometry-meets-the-limits-of-3d-printing-248780/?utm_source=rss&utm_medium=rss&utm_campaign=interview-when-ai-generated-geometry-meets-the-limits-of-3d-printing",
+    "title_en": "[INTERVIEW] When AI-generated geometry meets the limits of 3D printing",
+    "summary_bullets_en": [
+      "AI-generated 3D models may appear complete visually but can fail during the slicing process.",
+      "Common issues include non-manifold edges, thin walls, and ambiguous negative space.",
+      "As generative systems improve, these issues become more prevalent and challenging to address."
+    ],
+    "summary_bullets_cs": [
+      "3D modely generované AI mohou vypadat vizuálně kompletní, ale mohou selhat během procesu řezání.",
+      "Běžné problémy zahrnují nejednoznačné hrany, tenké stěny a nejasný negativní prostor.",
+      "S vylepšováním generativních systémů se tyto problémy stávají častějšími a obtížněji řešitelnými."
+    ],
+    "tags": [
+      "Software",
+      "3D Printing",
+      "AI",
+      "Generative Design"
+    ]
+  },
+  {
+    "title": "Nikon odepisuje 90 miliard jenů na SLM Solutions kvůli přehodnocení růstu v oblasti kovového 3D tisku",
+    "summary": "Nikon has taken close to ¥90bn ($574.7 million) in impairment charges, mostly against its additive manufacturing business, marking a significant retreat from the growth assumptions that underpinned its 2023 acquisition of SLM Solutions. Impairment reflects revised assumptions behind SLM acquisition The writedowns cover goodwill and intangible assets. They stem from a reassessment of future cash [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/Nikon-SLM-Solutions-at-Formnext-2025.-Photo-by-Michael-Petch-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-09T10:32:34+00:00",
+    "url": "https://3dprintingindustry.com/news/nikon-writes-down-%c2%a590bn-on-slm-solutions-as-metal-3d-printing-growth-expectations-reset-248788/?utm_source=rss&utm_medium=rss&utm_campaign=nikon-writes-down-%25c2%25a590bn-on-slm-solutions-as-metal-3d-printing-growth-expectations-reset",
+    "title_en": "Nikon writes down ¥90bn on SLM Solutions as metal 3D printing growth expectations reset",
+    "summary_bullets_en": [
+      "Nikon has incurred nearly ¥90bn ($574.7 million) in impairment charges, primarily affecting its additive manufacturing business.",
+      "The writedowns are mainly related to goodwill and intangible assets from the SLM Solutions acquisition.",
+      "This financial adjustment reflects a reassessment of future cash flow expectations from the SLM acquisition."
+    ],
+    "summary_bullets_cs": [
+      "Nikon zaznamenal téměř 90 miliard jenů (574,7 milionu dolarů) v odpisových nákladech, které převážně ovlivňují jeho podnikání v oblasti aditivní výroby.",
+      "Odpisy se týkají především goodwillu a nehmotných aktiv z akvizice SLM Solutions.",
+      "Tato finanční úprava odráží přehodnocení očekávání budoucích peněžních toků z akvizice SLM."
+    ],
+    "tags": [
+      "Hardware",
+      "Nikon",
+      "SLM Solutions",
+      "Additive Manufacturing",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Výzkumníci zkoumají únavu v 3D tištěné vysokorozmanité slitině",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/945503234/0/fabbaloo/default~Researchers-Probe-Fatigue-In-D-Printed-High-Entropy-Alloy\" rel=\"nofollow\" title=\"Researchers Probe Fatigue In 3D Printed High Entropy Alloy\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/fatigue-lbpf-cover-300x167.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new study investigates cyclic deformation in a 3D printed high entropy alloy, a step toward predictable fatigue life for metal AM.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/945503234/0/fabbaloo/default~Researchers-Probe-Fatigue-In-D-Printed-High-Entropy-Alloy\" rel=\"nofollow\">Researchers Probe Fatigue In 3D Printed High Entropy Alloy</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/fatigue-lbpf-cover-300x167.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-09T09:44:52+00:00",
+    "url": "https://feeds.fabbaloo.com/~/945503234/0/fabbaloo/default~Researchers-Probe-Fatigue-In-D-Printed-High-Entropy-Alloy",
+    "title_en": "Researchers Probe Fatigue In 3D Printed High Entropy Alloy",
+    "summary_bullets_en": [
+      "A new study examines cyclic deformation in 3D printed high entropy alloys.",
+      "The research aims to predict the fatigue life of metal additive manufacturing.",
+      "Understanding fatigue in these materials could lead to more reliable 3D printed metal parts."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie zkoumá cyklickou deformaci ve 3D tištěných vysokorozmanitých slitinách.",
+      "Výzkum se zaměřuje na předpověď únavové životnosti kovového aditivního tisku.",
+      "Porozumění únavě v těchto materiálech by mohlo vést k spolehlivějším 3D tištěným kovovým dílům."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "High Entropy Alloy",
+      "Fatigue"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 8. února 2026",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/945476804/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-February\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, February 8, 2026\"><img alt=\"Who&#039;s The Biggest In 3D Printing\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg\" style=\"height: auto !important; float: left; margin-right: 5px;\" width=\"1\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/945476804/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-February\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, February 8, 2026</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg",
