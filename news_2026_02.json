@@ -1,5 +1,164 @@
 [
   {
+    "title": "Studie přechodů smíšených materiálů ve velkoformátovém aditivním výrobě",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/945941006/0/fabbaloo/default~Blended-Material-Transitions-In-Large-Format-AM-Studied\" rel=\"nofollow\" title=\"Blended Material Transitions In Large Format AM Studied\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/blended-materails-cover-300x259.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers mapped how material composition changes during switchovers in large format, pellet-fed 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/945941006/0/fabbaloo/default~Blended-Material-Transitions-In-Large-Format-AM-Studied\" rel=\"nofollow\">Blended Material Transitions In Large Format AM Studied</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/blended-materails-cover-300x259.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-11T09:44:52+00:00",
+    "url": "https://feeds.fabbaloo.com/~/945941006/0/fabbaloo/default~Blended-Material-Transitions-In-Large-Format-AM-Studied",
+    "title_en": "Blended Material Transitions In Large Format AM Studied",
+    "summary_bullets_en": [
+      "Researchers investigated the changes in material composition during transitions in large format, pellet-fed 3D printing.",
+      "The study focused on understanding how different materials blend during the switchover process.",
+      "This research could lead to improved techniques for material transitions in additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci zkoumali změny ve složení materiálu během přechodů ve velkoformátovém 3D tisku s podáváním pelet.",
+      "Studie se zaměřila na pochopení, jak se různé materiály mísí během procesu přechodu.",
+      "Tento výzkum by mohl vést ke zlepšení technik přechodů materiálů v aditivní výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Additive Manufacturing",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Harvard využívá multimateriálový 3D tisk k výrobě programovatelných měkkých robotů",
+    "summary": "Predictable motion in soft robotics has traditionally depended on complex molds and multi-step fabrication processes, slowing design iteration and limiting customization. Researchers at Harvard University have now introduced a multimaterial 3D printing approach that embeds actuation directly into flexible structures during fabrication, allowing soft robotic devices to be produced with built-in, programmable movement. Reported in [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/fig_5_rotational_3D_printing-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-11T08:11:12+00:00",
+    "url": "https://3dprintingindustry.com/news/harvard-harnesses-multimaterial-3d-printing-to-build-programmable-soft-robots-248843/?utm_source=rss&utm_medium=rss&utm_campaign=harvard-harnesses-multimaterial-3d-printing-to-build-programmable-soft-robots",
+    "title_en": "Harvard Harnesses Multimaterial 3D Printing to Build Programmable Soft Robots",
+    "summary_bullets_en": [
+      "Harvard researchers have developed a multimaterial 3D printing technique for soft robotics.",
+      "This approach integrates actuation directly into flexible structures during fabrication.",
+      "The method allows for the creation of soft robotic devices with built-in, programmable movement.",
+      "It simplifies the design process by eliminating the need for complex molds and multi-step fabrication."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Harvardu vyvinuli techniku multimateriálového 3D tisku pro měkkou robotiku.",
+      "Tento přístup integruje pohon přímo do flexibilních struktur během výroby.",
+      "Metoda umožňuje vytváření měkkých robotických zařízení s vestavěným, programovatelným pohybem.",
+      "Zjednodušuje proces návrhu tím, že eliminuje potřebu složitých forem a vícestupňové výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Soft Robotics",
+      "Harvard University"
+    ]
+  },
+  {
+    "title": "Hydrogelová chytrá kůže z Penn State ukazuje potenciál 4D tisku nad rámec pevných materiálů",
+    "summary": "Researchers at Penn State University have unveiled a 4D printing method that produces “smart synthetic skin” capable of dynamically changing its shape, texture, and appearance in response to external stimuli. Unlike traditional synthetic materials with fixed properties, this hydrogel-based material can perform multiple functions, from adaptive camouflage to information encryption and mechanical deformation, all within [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2021/07/Pennsylvania-State-University.-Photo-via-Penn-State.-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-11T08:05:08+00:00",
+    "url": "https://3dprintingindustry.com/news/penn-states-hydrogel-smart-skin-shows-4d-printings-potential-beyond-fixed-materials-248840/?utm_source=rss&utm_medium=rss&utm_campaign=penn-states-hydrogel-smart-skin-shows-4d-printings-potential-beyond-fixed-materials",
+    "title_en": "Penn State’s Hydrogel Smart Skin Shows 4D Printing’s Potential Beyond Fixed Materials",
+    "summary_bullets_en": [
+      "Penn State University researchers have developed a 4D printing method for creating smart synthetic skin.",
+      "The hydrogel-based material can change shape, texture, and appearance in response to external stimuli.",
+      "This innovation allows for multiple functions such as adaptive camouflage, information encryption, and mechanical deformation."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Penn State University vyvinuli metodu 4D tisku pro tvorbu chytré syntetické kůže.",
+      "Materiál na bázi hydrogelu může měnit tvar, texturu a vzhled v reakci na vnější podněty.",
+      "Tato inovace umožňuje více funkcí, jako je adaptivní maskování, šifrování informací a mechanická deformace."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "4D Printing",
+      "Penn State University",
+      "Hydrogel",
+      "Smart Skin"
+    ]
+  },
+  {
+    "title": "NASCAR využívá 3D tisk v životní velikosti k optimalizaci aerodynamiky olympijského sáňkování",
+    "summary": "US motorsport organization National Association for Stock Car Auto Racing (NASCAR) is applying its expertise in additive manufacturing and digital engineering to optimize performance in Winter Olympic luge. By producing life-size 3D printed athlete models, performing CFD simulations, and testing in wind tunnels, NASCAR is helping USA Luge refine sled aerodynamics and athlete positioning to [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/2026-feb06-jacuzzi-luge-3-main-image-1024x544-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-11T08:03:57+00:00",
+    "url": "https://3dprintingindustry.com/news/nascar-uses-life-size-3d-prints-to-optimize-olympic-luge-aerodynamics-248853/?utm_source=rss&utm_medium=rss&utm_campaign=nascar-uses-life-size-3d-prints-to-optimize-olympic-luge-aerodynamics",
+    "title_en": "NASCAR Uses Life-Size 3D Prints to Optimize Olympic Luge Aerodynamics",
+    "summary_bullets_en": [
+      "NASCAR is leveraging its additive manufacturing expertise to enhance Winter Olympic luge performance.",
+      "Life-size 3D printed athlete models are being used to optimize sled aerodynamics and athlete positioning.",
+      "The process includes CFD simulations and wind tunnel testing to refine designs."
+    ],
+    "summary_bullets_cs": [
+      "NASCAR využívá své odborné znalosti v oblasti aditivní výroby ke zlepšení výkonu v zimním olympijském sáňkování.",
+      "Modely sportovců v životní velikosti vytištěné 3D tiskem se používají k optimalizaci aerodynamiky saní a polohy sportovců.",
+      "Proces zahrnuje simulace CFD a testování v aerodynamických tunelech k vylepšení návrhů."
+    ],
+    "tags": [
+      "Hardware",
+      "NASCAR",
+      "3D Printing",
+      "CFD Simulations",
+      "Wind Tunnel Testing",
+      "USA Luge"
+    ]
+  },
+  {
+    "title": "Výzkumníci z MIT vyvinuli magnetický míchací systém pro řešení usazování buněk v 3D biotisku",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/mit-researchers-develop-magnetic-mixing-system-to-address-cell-settling-in-3d-bioprinting/\" target=\"_blank\">MIT Researchers Develop Magnetic Mixing System to Address Cell Settling in 3D Bioprinting</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">February 11</span></div><div><img alt=\"MIT Researchers Develop Magnetic Mixing System to Address Cell Settling in 3D Bioprinting\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/mit-meche-magmix-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/mit-meche-magmix-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-02-11T08:00:17+00:00",
+    "url": "https://3dprinting.com/news/mit-researchers-develop-magnetic-mixing-system-to-address-cell-settling-in-3d-bioprinting/",
+    "title_en": "MIT Researchers Develop Magnetic Mixing System to Address Cell Settling in 3D Bioprinting",
+    "summary_bullets_en": [
+      "MIT researchers have developed a magnetic mixing system to prevent cell settling during 3D bioprinting.",
+      "The system uses magnetic fields to keep cells evenly distributed in the bioink.",
+      "This innovation aims to improve the quality and consistency of bioprinted tissues."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z MIT vyvinuli magnetický míchací systém, který zabraňuje usazování buněk během 3D biotisku.",
+      "Systém využívá magnetická pole k rovnoměrnému rozložení buněk v bioinku.",
+      "Tato inovace má za cíl zlepšit kvalitu a konzistenci biotištěných tkání."
+    ],
+    "tags": [
+      "Hardware",
+      "MIT",
+      "3D Bioprinting",
+      "Magnetic Mixing"
+    ]
+  },
+  {
+    "title": "První certifikovaný 3D tištěný dům v Itálii postavený pro soběstačnost",
+    "summary": "WASP’s construction-focused startup WASP 3D Build has completed the 3D printing of the walls for Itaca, a self-sufficient home billed as Italy’s first certified 3D printed construction. Located at the Shamballa open air laboratory in the hills of Northern Italy, the structure complies with Italian and European construction regulations, including earthquake resistance standards. For 3D [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/260113_3D_printing_of_Itaca_self-sufficient_farm_4K-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-11T07:59:51+00:00",
+    "url": "https://3dprintingindustry.com/news/first-certified-3d-printed-home-in-italy-built-for-self-sufficiency-248825/?utm_source=rss&utm_medium=rss&utm_campaign=first-certified-3d-printed-home-in-italy-built-for-self-sufficiency",
+    "title_en": "First Certified 3D Printed Home in Italy Built for Self-Sufficiency",
+    "summary_bullets_en": [
+      "WASP 3D Build has completed the 3D printing of the walls for Itaca, a self-sufficient home.",
+      "Itaca is Italy’s first certified 3D printed construction.",
+      "The structure is located at the Shamballa open air laboratory in Northern Italy.",
+      "It complies with Italian and European construction regulations, including earthquake resistance standards."
+    ],
+    "summary_bullets_cs": [
+      "WASP 3D Build dokončil 3D tisk stěn pro Itaca, soběstačný dům.",
+      "Itaca je první certifikovanou 3D tištěnou stavbou v Itálii.",
+      "Stavba se nachází v otevřené laboratoři Shamballa na severu Itálie.",
+      "Splňuje italské a evropské stavební předpisy, včetně standardů odolnosti proti zemětřesení."
+    ],
+    "tags": [
+      "Hardware",
+      "WASP",
+      "3D Printing",
+      "Construction",
+      "Italy"
+    ]
+  },
+  {
     "title": "oozeBot uvádí preFlight Slicer, přestavbu PrusaSlicer na moderní 64bitové architektuře",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/945723806/0/fabbaloo/default~oozeBot-Launches-preFlight-Slicer-Rebuilding-PrusaSlicer-on-a-Modern-Bit-Architecture\" rel=\"nofollow\" title=\"oozeBot Launches preFlight Slicer, Rebuilding PrusaSlicer on a Modern 64-Bit Architecture\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/preflight-launch-cover-300x210.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There’s a new slicer in town: preFlight.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/945723806/0/fabbaloo/default~oozeBot-Launches-preFlight-Slicer-Rebuilding-PrusaSlicer-on-a-Modern-Bit-Architecture\" rel=\"nofollow\">oozeBot Launches preFlight Slicer, Rebuilding PrusaSlicer on a Modern 64-Bit Architecture</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/preflight-launch-cover-300x210.jpg",
