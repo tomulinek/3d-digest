@@ -1,5 +1,223 @@
 [
   {
+    "title": "In situ pyrometrie odhaluje prudký pokles absorptivity Inconelu 625 během fúze práškového lože",
+    "summary": "Researchers at the University of Texas at El Paso, working with Sandia National Laboratories and FAR Associates, have developed a method to approximate the absorptivity of Inconel 625 during powder bed fusion by analyzing in situ radiation thermometry data collected during electron beam powder bed fusion (PBF-EB/M). Reported in Additive Manufacturing Letters, the study shows [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/image-3-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-12T10:08:34+00:00",
+    "url": "https://3dprintingindustry.com/news/in-situ-pyrometry-reveals-sharp-drop-in-inconel-625-absorptivity-during-powder-bed-fusion-248871/?utm_source=rss&utm_medium=rss&utm_campaign=in-situ-pyrometry-reveals-sharp-drop-in-inconel-625-absorptivity-during-powder-bed-fusion",
+    "title_en": "In situ pyrometry reveals sharp drop in Inconel 625 absorptivity during powder bed fusion",
+    "summary_bullets_en": [
+      "Researchers at the University of Texas at El Paso, in collaboration with Sandia National Laboratories and FAR Associates, have developed a method to estimate the absorptivity of Inconel 625 during powder bed fusion.",
+      "The method involves analyzing in situ radiation thermometry data collected during electron beam powder bed fusion (PBF-EB/M).",
+      "The study, published in Additive Manufacturing Letters, highlights a significant decrease in absorptivity of Inconel 625 during the process."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University of Texas v El Paso, ve spolupráci se Sandia National Laboratories a FAR Associates, vyvinuli metodu pro odhad absorptivity Inconelu 625 během fúze práškového lože.",
+      "Metoda zahrnuje analýzu dat z in situ radiační termometrie, která byla shromážděna během elektronové paprskové fúze práškového lože (PBF-EB/M).",
+      "Studie, publikovaná v Additive Manufacturing Letters, zdůrazňuje významný pokles absorptivity Inconelu 625 během procesu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "University of Texas at El Paso",
+      "Sandia National Laboratories",
+      "FAR Associates",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Tým z Fribourgu kombinuje polymerní AM s kapkami roztaveného kovu",
+    "summary": "<p>Researchers at the University of Fribourg unveiled a hybrid process that merges polymer 3D printing with molten metal droplet deposition to fabricate truly three dimensional electronics.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/946205051/0/fabbaloo/default~Fribourg-Team-Combines-Polymer-AM-With-Molten-Metal-Droplets\" rel=\"nofollow\">Fribourg Team Combines Polymer AM With Molten Metal Droplets</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://feeds.fabbaloo.com/~/i/946205051/0/fabbaloo/default",
+    "source": "Fabbaloo",
+    "published": "2026-02-12T09:44:50+00:00",
+    "url": "https://feeds.fabbaloo.com/~/946205051/0/fabbaloo/default~Fribourg-Team-Combines-Polymer-AM-With-Molten-Metal-Droplets",
+    "title_en": "Fribourg Team Combines Polymer AM With Molten Metal Droplets",
+    "summary_bullets_en": [
+      "Researchers at the University of Fribourg developed a hybrid 3D printing process.",
+      "The process combines polymer additive manufacturing with molten metal droplet deposition.",
+      "This innovation enables the creation of truly three-dimensional electronics."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Univerzity ve Fribourgu vyvinuli hybridní proces 3D tisku.",
+      "Proces kombinuje polymerní aditivní výrobu s depozicí kapek roztaveného kovu.",
+      "Tato inovace umožňuje vytváření skutečně trojrozměrné elektroniky."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "University of Fribourg",
+      "3D Printing",
+      "Electronics"
+    ]
+  },
+  {
+    "title": "Výzkumníci snižují anizotropii 4D tisku ve slitině s vysokou entropií pomocí TiN nanočástic",
+    "summary": "Researchers at Shenzhen University and partner institutions showed a way to reduce functional anisotropy in a 4D-printed high-entropy shape memory alloy (HESMA) by adding TiN nanoparticles during laser powder bed fusion (LPBF). Reported in Additive Manufacturing Letters, the study shows that nanoparticle-driven grain refinement lowers both mechanical and shape-memory anisotropy, and that a short heat [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/image-5-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-12T09:30:33+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-reduce-4d-printing-anisotropy-in-high-entropy-shape-memory-alloy-using-tin-nanoparticles-248876/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-reduce-4d-printing-anisotropy-in-high-entropy-shape-memory-alloy-using-tin-nanoparticles",
+    "title_en": "Researchers reduce 4D printing anisotropy in high entropy shape memory alloy using TiN nanoparticles",
+    "summary_bullets_en": [
+      "Researchers at Shenzhen University and partner institutions have developed a method to reduce anisotropy in 4D-printed high-entropy shape memory alloys.",
+      "The method involves adding TiN nanoparticles during the laser powder bed fusion process.",
+      "Nanoparticle-driven grain refinement was found to lower both mechanical and shape-memory anisotropy.",
+      "The findings were reported in Additive Manufacturing Letters."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z univerzity v Shenzhenu a partnerských institucí vyvinuli metodu ke snížení anizotropie ve 4D tištěných slitinách s vysokou entropií.",
+      "Metoda zahrnuje přidání TiN nanočástic během procesu laserového tavení práškového lože.",
+      "Bylo zjištěno, že zjemnění zrna řízené nanočásticemi snižuje jak mechanickou, tak tvarovou paměťovou anizotropii.",
+      "Výsledky byly publikovány v Additive Manufacturing Letters."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "4D Printing",
+      "High Entropy Alloys",
+      "Shape Memory Alloys",
+      "TiN Nanoparticles",
+      "Laser Powder Bed Fusion",
+      "Shenzhen University"
+    ]
+  },
+  {
+    "title": "GVSC americké armády vybírá Velo3D pro urychlení aditivní výroby pro pozemní vozidla",
+    "summary": "U.S. defense weapon system Velo3D has been designated as the first approved additive manufacturing provider supporting the U.S. Army Ground Vehicle Systems Center’s (GVSC) effort to accelerate the integration of qualified AM capabilities within the Defense Industrial Base. The selection expands an existing Cooperative Research &#38; Development Agreement (CRADA) between Velo3D and U.S. Army DEVCOM [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2021/01/1_Rendering-of-a-Sapphire®-factory_Courtesy-of-VELO3D-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-12T08:55:34+00:00",
+    "url": "https://3dprintingindustry.com/news/u-s-army-gvsc-taps-velo3d-to-accelerate-additive-manufacturing-for-ground-vehicles-248882/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-army-gvsc-taps-velo3d-to-accelerate-additive-manufacturing-for-ground-vehicles",
+    "title_en": "U.S. Army GVSC Taps Velo3D to Accelerate Additive Manufacturing for Ground Vehicles",
+    "summary_bullets_en": [
+      "Velo3D has been selected as the first approved additive manufacturing provider for the U.S. Army Ground Vehicle Systems Center (GVSC).",
+      "This selection aims to accelerate the integration of qualified additive manufacturing capabilities within the Defense Industrial Base.",
+      "The partnership expands an existing Cooperative Research & Development Agreement (CRADA) between Velo3D and U.S. Army DEVCOM."
+    ],
+    "summary_bullets_cs": [
+      "Velo3D bylo vybráno jako první schválený poskytovatel aditivní výroby pro Centrum systémů pozemních vozidel (GVSC) americké armády.",
+      "Toto rozhodnutí má za cíl urychlit integraci kvalifikovaných schopností aditivní výroby v rámci obranné průmyslové základny.",
+      "Partnerství rozšiřuje stávající dohodu o spolupráci ve výzkumu a vývoji (CRADA) mezi Velo3D a DEVCOM americké armády."
+    ],
+    "tags": [
+      "Hardware",
+      "Velo3D",
+      "U.S. Army",
+      "Additive Manufacturing",
+      "Defense"
+    ]
+  },
+  {
+    "title": "restor3d uvádí Ossera AFX: Personalizované 3D tištěné implantáty pro složité kostní defekty",
+    "summary": "restor3d, a specialist in 3D printed personalized orthopedic solutions, has announced the full commercial release of the Ossera AFX Ankle Fusion Cage System. The platform, designed to address complex ankle fusion cases, is now available in both standard off-the-shelf and custom made-to-order configurations. “We understand that every surgeon has unique preferences and approaches when it [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/Ossera-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-12T08:47:33+00:00",
+    "url": "https://3dprintingindustry.com/news/restor3d-launches-ossera-afx-personalized-3d-printed-implants-for-complex-bone-defects-248889/?utm_source=rss&utm_medium=rss&utm_campaign=restor3d-launches-ossera-afx-personalized-3d-printed-implants-for-complex-bone-defects",
+    "title_en": "restor3d Launches Ossera AFX: Personalized 3D Printed Implants for Complex Bone Defects",
+    "summary_bullets_en": [
+      "restor3d has released the Ossera AFX Ankle Fusion Cage System for commercial use.",
+      "The system is designed for complex ankle fusion cases.",
+      "It is available in both standard and custom configurations to meet surgeons' preferences."
+    ],
+    "summary_bullets_cs": [
+      "restor3d uvedla na trh Ossera AFX Ankle Fusion Cage System pro komerční použití.",
+      "Systém je navržen pro složité případy fúze kotníku.",
+      "Je dostupný ve standardních i na míru vyrobených konfiguracích, aby vyhověl preferencím chirurgů."
+    ],
+    "tags": [
+      "Hardware",
+      "restor3d",
+      "3D Printing",
+      "Medical Devices",
+      "Orthopedic Solutions"
+    ]
+  },
+  {
+    "title": "SLICED: Nejnovější zprávy z průmyslu 3D tisku",
+    "summary": "In this edition of SLICED, the 3D Printing Industry news digest, we compile the latest developments across the additive manufacturing (AM) sector, including global distribution expansions, defense manufacturing trials, asset acquisitions, and aerospace qualification programs. In today’s digest, updates span regional reseller agreements, deployable cold spray repair for naval operations, polymer material validation for aerospace, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/sliced-cover-feb-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-12T08:36:18+00:00",
+    "url": "https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-18-248858/?utm_source=rss&utm_medium=rss&utm_campaign=sliced-latest-news-from-the-3d-printing-industry-18",
+    "title_en": "SLICED: Latest news from the 3D Printing Industry",
+    "summary_bullets_en": [
+      "The latest edition of SLICED covers global distribution expansions and defense manufacturing trials in the 3D printing industry.",
+      "Updates include regional reseller agreements and deployable cold spray repair for naval operations.",
+      "The digest also highlights polymer material validation for aerospace applications."
+    ],
+    "summary_bullets_cs": [
+      "Nejnovější vydání SLICED pokrývá globální expanze distribuce a zkoušky obranné výroby v průmyslu 3D tisku.",
+      "Aktualizace zahrnují regionální dohody o prodeji a nasaditelnou opravu pomocí studeného spreje pro námořní operace.",
+      "Přehled také zdůrazňuje validaci polymerních materiálů pro letecké aplikace."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "UltiMaker",
+      "Nikon SLM Solutions",
+      "HP"
+    ]
+  },
+  {
+    "title": "Youtuber vytvořil funkční kolo bez řetězu pomocí 3D tištěného převodového systému",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/youtuber-creates-functional-chainless-bicycle-using-3d-printed-gear-system/\" target=\"_blank\">Youtuber Creates Functional Chainless Bicycle Using 3D Printed Gear System</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">February 12</span></div><div><img alt=\"\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"460\" src=\"https://3dprinting.com/wp-content/uploads/chainless-bike-3D-printed-plastic-gears-the-Q-designboom-01-500x460.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/chainless-bike-3D-printed-plastic-gears-the-Q-designboom-01-500x460.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-02-12T08:02:55+00:00",
+    "url": "https://3dprinting.com/news/youtuber-creates-functional-chainless-bicycle-using-3d-printed-gear-system/",
+    "title_en": "Youtuber Creates Functional Chainless Bicycle Using 3D Printed Gear System",
+    "summary_bullets_en": [
+      "A Youtuber has designed a functional chainless bicycle using a 3D printed gear system.",
+      "The innovative design replaces the traditional chain with a series of 3D printed plastic gears.",
+      "This project showcases the potential of 3D printing in creating unique and functional mechanical systems."
+    ],
+    "summary_bullets_cs": [
+      "Youtuber navrhl funkční kolo bez řetězu pomocí 3D tištěného převodového systému.",
+      "Inovativní design nahrazuje tradiční řetěz sérií 3D tištěných plastových převodů.",
+      "Tento projekt ukazuje potenciál 3D tisku při vytváření jedinečných a funkčních mechanických systémů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Bicycle",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Nízkoteplotní 3D tištěné stenty s pamětí tvaru aktivované při tělesné teplotě",
+    "summary": "Researchers from Waseda University, the University of Tokyo, the University of Tokyo Hospital, Southeast University, and the South China University of Technology have worked together on developing low-temperature 3D printed...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/adfm74021-fig-0001-m-952x1024.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-12T08:00:17+00:00",
+    "url": "https://3dprint.com/323734/low-temperature-3d-printed-shape-memory-stents/",
+    "title_en": "Low-Temperature 3D Printed Shape-Memory Stents Activated at Body Temperature",
+    "summary_bullets_en": [
+      "Researchers from multiple universities have collaborated to develop 3D printed stents that activate at body temperature.",
+      "These stents are made using a low-temperature 3D printing process.",
+      "The shape-memory feature allows the stents to expand and fit within the body once activated."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z několika univerzit spolupracovali na vývoji 3D tištěných stentů, které se aktivují při tělesné teplotě.",
+      "Tyto stenty jsou vyrobeny pomocí nízkoteplotního 3D tisku.",
+      "Funkce paměti tvaru umožňuje stentům expandovat a přizpůsobit se v těle po aktivaci."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Shape-Memory",
+      "Medical Devices",
+      "Waseda University",
+      "University of Tokyo",
+      "Southeast University",
+      "South China University of Technology"
+    ]
+  },
+  {
     "title": "Bambu Lab ukončuje výrobu 3D tiskárny P1P, zavazuje se k podpoře do roku 2031",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/945965915/0/fabbaloo/default~Bambu-Lab-Discontinues-PP-D-Printer-Commits-to-Support-Through\" rel=\"nofollow\" title=\"Bambu Lab Discontinues P1P 3D Printer, Commits to Support Through 2031\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/p1p-discontinued-cover-300x210.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Bambu Lab has retired the venerable P1P 3D printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/945965915/0/fabbaloo/default~Bambu-Lab-Discontinues-PP-D-Printer-Commits-to-Support-Through\" rel=\"nofollow\">Bambu Lab Discontinues P1P 3D Printer, Commits to Support Through 2031</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/p1p-discontinued-cover-300x210.jpg",
