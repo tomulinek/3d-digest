@@ -1,5 +1,164 @@
 [
   {
+    "title": "Nizozemská skupina pro software aditivní výroby Dimanex vyhlásila bankrot",
+    "summary": "Small but influential digital supply chain startup collapses amid tightening capital and slower enterprise adoption A Dutch software company that sought to transform industrial supply chains through additive manufacturing has been declared bankrupt, underscoring mounting pressure on smaller players in the sector as capital tightens and adoption timelines stretch. Dimanex B.V., a Utrecht-based developer of [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2019/12/SCI-MacBook-Frame-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-13T11:53:09+00:00",
+    "url": "https://3dprintingindustry.com/news/dutch-additive-manufacturing-software-group-dimanex-declared-bankrupt-248922/?utm_source=rss&utm_medium=rss&utm_campaign=dutch-additive-manufacturing-software-group-dimanex-declared-bankrupt",
+    "title_en": "Dutch additive manufacturing software group Dimanex declared bankrupt",
+    "summary_bullets_en": [
+      "Dimanex B.V., a Dutch software company focused on additive manufacturing, has been declared bankrupt.",
+      "The company aimed to revolutionize industrial supply chains through digital solutions.",
+      "The bankruptcy highlights the challenges faced by smaller companies in the sector due to tightening capital and slower adoption rates."
+    ],
+    "summary_bullets_cs": [
+      "Dimanex B.V., nizozemská softwarová společnost zaměřená na aditivní výrobu, vyhlásila bankrot.",
+      "Společnost se snažila revolučně změnit průmyslové dodavatelské řetězce prostřednictvím digitálních řešení.",
+      "Bankrot zdůrazňuje výzvy, kterým čelí menší společnosti v tomto sektoru kvůli zpřísňování kapitálu a pomalejšímu tempu adopce."
+    ],
+    "tags": [
+      "Software",
+      "Dimanex",
+      "Additive Manufacturing",
+      "Digital Supply Chain"
+    ]
+  },
+  {
+    "title": "Výkonný průzkum 3DPI 2026: Budoucnost 3D tisku a rok institucionálních filtrů",
+    "summary": "The additive manufacturing industry has spent two decades arguing about what&#8217;s possible. In 2026, the conversation has finally shifted to what&#8217;s survivable. Reviewing responses to our annual Future of 3D Printing executive survey provides unique insight into the direction of travel for the year and beyond. As in previous years, 3DPI asked leaders from across [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/01/State-of-Investment-Series-1-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-13T10:54:59+00:00",
+    "url": "https://3dprintingindustry.com/news/3dpi-executive-survey-2026-the-future-of-3d-printing-and-the-year-of-institutional-filters-248919/?utm_source=rss&utm_medium=rss&utm_campaign=3dpi-executive-survey-2026-the-future-of-3d-printing-and-the-year-of-institutional-filters",
+    "title_en": "3DPI Executive Survey 2026: The Future of 3D Printing and The Year of Institutional Filters",
+    "summary_bullets_en": [
+      "The additive manufacturing industry is shifting its focus from possibilities to survivability in 2026.",
+      "The annual Future of 3D Printing executive survey provides insights into the industry's direction.",
+      "Leaders from across the industry contribute to the survey, offering a comprehensive view of future trends."
+    ],
+    "summary_bullets_cs": [
+      "Průmysl aditivní výroby se v roce 2026 zaměřuje na přežití místo možností.",
+      "Každoroční výkonný průzkum Budoucnost 3D tisku poskytuje přehled o směru vývoje průmyslu.",
+      "Vedoucí představitelé z celého odvětví přispívají do průzkumu, čímž nabízejí komplexní pohled na budoucí trendy."
+    ],
+    "tags": [
+      "Hardware",
+      "Survey",
+      "3D Printing",
+      "Industry Trends"
+    ]
+  },
+  {
+    "title": "Výzkumníci vyvinuli 4D tištěné aktuátory aktivované degradací pro biomedicínské aplikace",
+    "summary": "Researchers from the Universidad Politécnica de Madrid and the IMDEA Materials Institute, in collaboration with German medical technology company Meotec, have developed a degradation-triggered 4D printing method that allows gradual, time-controlled shape changes using standard fused filament fabrication (FFF). Published in Additive Manufacturing, the study shows that hydrolytic degradation of polyvinyl alcohol (PVA) can be [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/image-9-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-13T10:50:07+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-develop-degradation-triggered-4d-printed-actuators-for-biomedical-applications-248900/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-develop-degradation-triggered-4d-printed-actuators-for-biomedical-applications",
+    "title_en": "Researchers develop degradation-triggered 4D printed actuators for biomedical applications",
+    "summary_bullets_en": [
+      "Researchers from Universidad Politécnica de Madrid and IMDEA Materials Institute have developed a 4D printing method.",
+      "The method allows for gradual, time-controlled shape changes using standard fused filament fabrication (FFF).",
+      "The study focuses on hydrolytic degradation of polyvinyl alcohol (PVA) for biomedical applications."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Universidad Politécnica de Madrid a IMDEA Materials Institute vyvinuli metodu 4D tisku.",
+      "Metoda umožňuje postupné, časově řízené změny tvaru pomocí standardní technologie FFF.",
+      "Studie se zaměřuje na hydrolytickou degradaci polyvinylalkoholu (PVA) pro biomedicínské aplikace."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Biomedical",
+      "4D Printing",
+      "Universidad Politécnica de Madrid",
+      "IMDEA Materials Institute",
+      "Meotec"
+    ]
+  },
+  {
+    "title": "Výzkumníci z CMU vyvinuli agentní AI pracovní postup pro hodnocení tisknutelnosti slitin LPBF pomocí Thermo-Calc a map procesů nedostatku fúze",
+    "summary": "Researchers at Carnegie Mellon University (CMU) have developed a multi-agent, Large Language Model (LLM)-orchestrated workflow designed to automate early-stage alloy evaluation for laser powder bed fusion (LPBF). Reported in Additive Manufacturing Letters, the system integrates Thermo-Calc property calculations with an analytical melt pool model to generate lack of fusion (LoF) process maps for screening known [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/agentic-additive-manufacturing-alloy-evaluation-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-13T10:49:34+00:00",
+    "url": "https://3dprintingindustry.com/news/cmu-researchers-develop-agentic-ai-workflow-to-evaluate-lpbf-alloy-printability-using-thermo-calc-and-lack-of-fusion-process-maps-248911/?utm_source=rss&utm_medium=rss&utm_campaign=cmu-researchers-develop-agentic-ai-workflow-to-evaluate-lpbf-alloy-printability-using-thermo-calc-and-lack-of-fusion-process-maps",
+    "title_en": "CMU researchers develop agentic AI workflow to evaluate LPBF alloy printability using Thermo-Calc and lack of fusion process maps",
+    "summary_bullets_en": [
+      "Carnegie Mellon University researchers have created a multi-agent AI workflow for evaluating alloy printability in laser powder bed fusion (LPBF).",
+      "The system uses a Large Language Model (LLM) to automate early-stage alloy evaluation.",
+      "It integrates Thermo-Calc property calculations with an analytical melt pool model.",
+      "The workflow generates lack of fusion (LoF) process maps for screening known alloys."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Carnegie Mellon University vytvořili multi-agentní AI pracovní postup pro hodnocení tisknutelnosti slitin v laserovém práškovém loži (LPBF).",
+      "Systém využívá velký jazykový model (LLM) k automatizaci hodnocení slitin v rané fázi.",
+      "Integruje výpočty vlastností Thermo-Calc s analytickým modelem taveninového bazénu.",
+      "Pracovní postup generuje mapy procesů nedostatku fúze (LoF) pro screening známých slitin."
+    ],
+    "tags": [
+      "Software",
+      "Material",
+      "Carnegie Mellon University",
+      "Thermo-Calc",
+      "LPBF",
+      "AI"
+    ]
+  },
+  {
+    "title": "Spektrální extrapolace zlepšuje charakterizaci povrchu LPBF",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/946460879/0/fabbaloo/default~Spectral-Extrapolation-Boosts-LPBF-Surface-Characterization\" rel=\"nofollow\" title=\"Spectral Extrapolation Boosts LPBF Surface Characterization\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/spectral-extrapolation-cover-300x198.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A research team proposes spectral extrapolation to recover determine surface roughness metrics on laser powder bed fusion parts from limited measurements, promising faster quality assurance for AM shops.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/946460879/0/fabbaloo/default~Spectral-Extrapolation-Boosts-LPBF-Surface-Characterization\" rel=\"nofollow\">Spectral Extrapolation Boosts LPBF Surface Characterization</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/spectral-extrapolation-cover-300x198.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-13T09:44:51+00:00",
+    "url": "https://feeds.fabbaloo.com/~/946460879/0/fabbaloo/default~Spectral-Extrapolation-Boosts-LPBF-Surface-Characterization",
+    "title_en": "Spectral Extrapolation Boosts LPBF Surface Characterization",
+    "summary_bullets_en": [
+      "A research team has proposed using spectral extrapolation to determine surface roughness metrics on laser powder bed fusion (LPBF) parts.",
+      "This method allows for the recovery of surface characteristics from limited measurements.",
+      "The approach promises to enhance the speed and efficiency of quality assurance processes in additive manufacturing (AM) shops."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumný tým navrhl použití spektrální extrapolace k určení metrik drsnosti povrchu na dílech vyrobených metodou laserového spékání práškového lože (LPBF).",
+      "Tato metoda umožňuje obnovu charakteristik povrchu z omezených měření.",
+      "Přístup slibuje zrychlení a zefektivnění procesů zajištění kvality v obchodech s aditivní výrobou."
+    ],
+    "tags": [
+      "Hardware",
+      "Laser Powder Bed Fusion",
+      "Additive Manufacturing",
+      "Quality Assurance",
+      "Surface Characterization"
+    ]
+  },
+  {
+    "title": "E-Force Marine přijímá velkoformátový 3D tisk pro výrobu trupů elektrických katamaránů",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/e-force-marine-adopts-large-scale-3d-printing-for-electric-catamaran-hull-production/\" target=\"_blank\">E-Force Marine Adopts Large-Scale 3D Printing for Electric Catamaran Hull Production</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">February 13</span></div><div><img alt=\"E-Force Marine Adopts Large-Scale 3D Printing for Electric Catamaran Hull Production\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/83687984-500x500.jpeg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/83687984-500x500.jpeg",
+    "source": "3DPrinting.com",
+    "published": "2026-02-13T08:10:14+00:00",
+    "url": "https://3dprinting.com/news/e-force-marine-adopts-large-scale-3d-printing-for-electric-catamaran-hull-production/",
+    "title_en": "E-Force Marine Adopts Large-Scale 3D Printing for Electric Catamaran Hull Production",
+    "summary_bullets_en": [
+      "E-Force Marine is utilizing large-scale 3D printing technology to produce hulls for electric catamarans.",
+      "The adoption of 3D printing aims to enhance production efficiency and reduce material waste.",
+      "This innovative approach is expected to revolutionize the marine industry by offering more sustainable manufacturing solutions."
+    ],
+    "summary_bullets_cs": [
+      "E-Force Marine využívá technologii velkoformátového 3D tisku k výrobě trupů pro elektrické katamarány.",
+      "Přijetí 3D tisku má za cíl zvýšit efektivitu výroby a snížit plýtvání materiálem.",
+      "Tento inovativní přístup má potenciál revolucionalizovat námořní průmysl nabídkou udržitelnějších výrobních řešení."
+    ],
+    "tags": [
+      "Hardware",
+      "E-Force Marine",
+      "3D Printing",
+      "Marine Industry",
+      "Sustainability"
+    ]
+  },
+  {
     "title": "MyMiniFactory přebírá Thingiverse",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/946241369/0/fabbaloo/default~MyMiniFactory-Takes-Over-Thingiverse\" rel=\"nofollow\" title=\"MyMiniFactory Takes Over Thingiverse\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/mmf-th-cover-300x210.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Easily the biggest news of the day: MyMiniFactory has acquired Thingiverse!</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/946241369/0/fabbaloo/default~MyMiniFactory-Takes-Over-Thingiverse\" rel=\"nofollow\">MyMiniFactory Takes Over Thingiverse</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/mmf-th-cover-300x210.jpg",
