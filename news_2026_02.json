@@ -28,6 +28,31 @@
     ]
   },
   {
+    "title": "Zpráva dne: MyMiniFactory kupuje Thingiverse!",
+    "summary": "The Atomic Layers: 00307",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/cd60d0fe-e5d8-4292-9747-e083d9c6b232_700x500.webp",
+    "source": "The 3D Printing Journal",
+    "published": "2026-02-13T15:02:59+00:00",
+    "url": "https://www.3dprintingjournal.com/p/breaking-news-myminifactory-acquires",
+    "title_en": "Breaking news: MyMiniFactory acquires Thingiverse!",
+    "summary_bullets_en": [
+      "MyMiniFactory has announced the acquisition of Thingiverse, a major platform for 3D printing models.",
+      "This acquisition is expected to enhance MyMiniFactory's offerings and expand its user base.",
+      "The integration aims to create a more comprehensive ecosystem for 3D printing enthusiasts and professionals."
+    ],
+    "summary_bullets_cs": [
+      "MyMiniFactory oznámila akvizici Thingiverse, významné platformy pro modely 3D tisku.",
+      "Tato akvizice by měla posílit nabídku MyMiniFactory a rozšířit její uživatelskou základnu.",
+      "Integrace má za cíl vytvořit komplexnější ekosystém pro nadšence a profesionály v oblasti 3D tisku."
+    ],
+    "tags": [
+      "Software",
+      "MyMiniFactory",
+      "Thingiverse",
+      "3D Printing"
+    ]
+  },
+  {
     "title": "Optimalizovaný návrh kesonů pomocí 3DCP snižuje objem betonu a emise CO2",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/946520393/0/fabbaloo/default~DCPOptimized-Caisson-Design-Reduces-Concrete-Volume-and-CO\" rel=\"nofollow\" title=\"3DCP-Optimized Caisson Design Reduces Concrete Volume and CO2\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/cobod-caisson-cover-300x157.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>COBOD and partners have developed a new application for 3DCP: caissons.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/946520393/0/fabbaloo/default~DCPOptimized-Caisson-Design-Reduces-Concrete-Volume-and-CO\" rel=\"nofollow\">3DCP-Optimized Caisson Design Reduces Concrete Volume and CO2</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/cobod-caisson-cover-300x157.jpg",
