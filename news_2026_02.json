@@ -1,5 +1,373 @@
 [
   {
+    "title": "Modernizace Thingiverse: Klíčové výzvy čekají na MyMiniFactory po akvizici",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/947379662/0/fabbaloo/default~Modernizing-Thingiverse-Key-Challenges-Await-MyMiniFactory-After-Acquisition\" rel=\"nofollow\" title=\"Modernizing Thingiverse: Key Challenges Await MyMiniFactory After Acquisition\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/mmf-th-fix-cover-300x147.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>So, MyMiniFactory bought Thingiverse. What work awaits them?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/947379662/0/fabbaloo/default~Modernizing-Thingiverse-Key-Challenges-Await-MyMiniFactory-After-Acquisition\" rel=\"nofollow\">Modernizing Thingiverse: Key Challenges Await MyMiniFactory After Acquisition</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/mmf-th-fix-cover-300x147.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-16T17:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/947379662/0/fabbaloo/default~Modernizing-Thingiverse-Key-Challenges-Await-MyMiniFactory-After-Acquisition",
+    "title_en": "Modernizing Thingiverse: Key Challenges Await MyMiniFactory After Acquisition",
+    "summary_bullets_en": [
+      "MyMiniFactory has acquired Thingiverse, a popular platform for 3D printing models.",
+      "The acquisition presents several challenges, including modernizing the platform's infrastructure.",
+      "MyMiniFactory aims to improve user experience and address existing technical issues on Thingiverse.",
+      "The integration of Thingiverse into MyMiniFactory's ecosystem is expected to expand their user base and content offerings."
+    ],
+    "summary_bullets_cs": [
+      "MyMiniFactory koupila Thingiverse, populární platformu pro 3D tisk modelů.",
+      "Akvizice přináší několik výzev, včetně modernizace infrastruktury platformy.",
+      "MyMiniFactory si klade za cíl zlepšit uživatelskou zkušenost a řešit stávající technické problémy na Thingiverse.",
+      "Integrace Thingiverse do ekosystému MyMiniFactory by měla rozšířit jejich uživatelskou základnu a nabídku obsahu."
+    ],
+    "tags": [
+      "Software",
+      "MyMiniFactory",
+      "Thingiverse",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "MIT představuje MagMix pro snížení usazování buněk v 3D biotisku, řeší klíčové omezení",
+    "summary": "Researchers at the Massachusetts Institute of Technology (MIT) have created MagMix, a compact magnetic system that actively prevents cell settling during 3D bioprinting, producing more uniform and functional tissues. The innovation addresses a key limitation in biofabrication: sedimentation in bioinks—a mixture of living cells and hydrogels—which can cause clogging, uneven cell distribution, and inconsistent tissue [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/SK-01C-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-16T17:07:22+00:00",
+    "url": "https://3dprintingindustry.com/news/mit-introduces-magmix-to-reduce-cell-settling-in-3d-bioprinting-addresses-key-limitation-248983/?utm_source=rss&utm_medium=rss&utm_campaign=mit-introduces-magmix-to-reduce-cell-settling-in-3d-bioprinting-addresses-key-limitation",
+    "title_en": "MIT Introduces MagMix to Reduce Cell Settling in 3D Bioprinting, Addresses Key Limitation",
+    "summary_bullets_en": [
+      "MIT researchers have developed MagMix, a magnetic system to prevent cell settling in 3D bioprinting.",
+      "MagMix ensures more uniform and functional tissue production by addressing sedimentation in bioinks.",
+      "The innovation helps avoid issues like clogging and uneven cell distribution in biofabrication."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z MIT vyvinuli MagMix, magnetický systém pro prevenci usazování buněk v 3D biotisku.",
+      "MagMix zajišťuje rovnoměrnější a funkčnější produkci tkání řešením sedimentace v bioinkoustech.",
+      "Inovace pomáhá předcházet problémům, jako je ucpávání a nerovnoměrné rozložení buněk v biofabricaci."
+    ],
+    "tags": [
+      "Hardware",
+      "MIT",
+      "3D Bioprinting",
+      "Biofabrication",
+      "MagMix"
+    ]
+  },
+  {
+    "title": "Týmy vybrané ARPA-H pro vývoj pacientsky specifických biotištěných orgánů",
+    "summary": "The Advanced Research Projects Agency for Health (ARPA-H) has announced the first recipients of its Personalized Regenerative Immunocompetent Nanotechnology Tissue (PRINT) program. The selected research teams from Carnegie Mellon University, Wake Forest University, the Wyss Institute, University of California San Diego, and University of Texas Southwestern Medical Center will develop advanced bioprinted organs, including livers [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/01/vital-headerv2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-16T17:06:17+00:00",
+    "url": "https://3dprintingindustry.com/news/teams-selected-by-arpa-h-to-develop-patient-specific-bioprinted-organs-248988/?utm_source=rss&utm_medium=rss&utm_campaign=teams-selected-by-arpa-h-to-develop-patient-specific-bioprinted-organs",
+    "title_en": "Teams Selected by ARPA-H to Develop Patient-Specific Bioprinted Organs",
+    "summary_bullets_en": [
+      "ARPA-H has announced the first recipients of its PRINT program.",
+      "Research teams from several universities will develop advanced bioprinted organs.",
+      "The focus includes creating patient-specific bioprinted livers."
+    ],
+    "summary_bullets_cs": [
+      "ARPA-H oznámila první příjemce svého programu PRINT.",
+      "Výzkumné týmy z několika univerzit budou vyvíjet pokročilé biotištěné orgány.",
+      "Zaměření zahrnuje tvorbu pacientsky specifických biotištěných jater."
+    ],
+    "tags": [
+      "Hardware",
+      "Bioprinting",
+      "ARPA-H",
+      "Carnegie Mellon University",
+      "Wake Forest University",
+      "Wyss Institute",
+      "University of California San Diego",
+      "University of Texas Southwestern Medical Center"
+    ]
+  },
+  {
+    "title": "Budoucnost 3D tisku: Prognózy odborníků na aditivní výrobu pro rok 2026",
+    "summary": "3D Printing Industry asked some of the most influential people in additive manufacturing to identity the near term trends in the 3D printing industry to watch for 2026.&#160; The annual 3DPI Executive Survey asks a cross-section of executives, technologists, service providers, and ecosystem builders to identify the near-term trends that will matter most over the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/Future-of-3D-Printing-2026-2-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-16T17:03:21+00:00",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026",
+    "title_en": "The Future of 3D Printing: Additive Manufacturing Expert Forecasts for 2026",
+    "summary_bullets_en": [
+      "The 3D Printing Industry conducted a survey among key figures in additive manufacturing to identify significant trends for 2026.",
+      "The annual 3DPI Executive Survey includes insights from executives, technologists, and service providers.",
+      "The survey aims to highlight the most impactful near-term trends in the 3D printing industry."
+    ],
+    "summary_bullets_cs": [
+      "3D Printing Industry provedl průzkum mezi klíčovými osobnostmi v oblasti aditivní výroby, aby identifikoval významné trendy pro rok 2026.",
+      "Roční průzkum 3DPI Executive Survey zahrnuje názory vedoucích pracovníků, technologů a poskytovatelů služeb.",
+      "Cílem průzkumu je zdůraznit nejvýznamnější krátkodobé trendy v odvětví 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "UltiMaker",
+      "Nikon",
+      "SLM Solutions",
+      "HP"
+    ]
+  },
+  {
+    "title": "Inženýři z MIT tisknou stavební komponenty pomocí recyklovaného plastu",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/mit-engineers-print-structural-building-components-using-recycled-plastic/\" target=\"_blank\">MIT Engineers Print Structural Building Components Using Recycled Plastic</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">February 16</span></div><div><img alt=\"MIT Engineers Print Structural Building Components Using Recycled Plastic\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/73984-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/73984-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-02-16T16:32:22+00:00",
+    "url": "https://3dprinting.com/news/mit-engineers-print-structural-building-components-using-recycled-plastic/",
+    "title_en": "MIT Engineers Print Structural Building Components Using Recycled Plastic",
+    "summary_bullets_en": [
+      "MIT engineers have developed a method to 3D print structural building components using recycled plastic.",
+      "The process aims to reduce waste and promote sustainability in construction.",
+      "This innovation could lead to more environmentally friendly building practices."
+    ],
+    "summary_bullets_cs": [
+      "Inženýři z MIT vyvinuli metodu pro 3D tisk stavebních komponentů pomocí recyklovaného plastu.",
+      "Proces má za cíl snížit odpad a podpořit udržitelnost ve stavebnictví.",
+      "Tato inovace by mohla vést k ekologičtějším stavebním praktikám."
+    ],
+    "tags": [
+      "Hardware",
+      "MIT",
+      "Recycled Plastic",
+      "Sustainability",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "DISH posouvá volumetrický 3D tisk na 0,6 sekundy",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/947373764/0/fabbaloo/default~DISH-Pushes-Volumetric-D-Printing-To-Seconds\" rel=\"nofollow\" title=\"DISH Pushes Volumetric 3D Printing To 0.6 Seconds\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/dish-volumetric-cover-300x131.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A Tsinghua University team claims sub second volumetric 3D printing with fine features, and the trick is moving the optics instead of the resin.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/947373764/0/fabbaloo/default~DISH-Pushes-Volumetric-D-Printing-To-Seconds\" rel=\"nofollow\">DISH Pushes Volumetric 3D Printing To 0.6 Seconds</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/dish-volumetric-cover-300x131.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-16T16:21:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/947373764/0/fabbaloo/default~DISH-Pushes-Volumetric-D-Printing-To-Seconds",
+    "title_en": "DISH Pushes Volumetric 3D Printing To 0.6 Seconds",
+    "summary_bullets_en": [
+      "A team from Tsinghua University has developed a volumetric 3D printing method that operates in under a second.",
+      "The technique involves moving the optics instead of the resin to achieve fine features quickly.",
+      "This advancement could significantly speed up the 3D printing process."
+    ],
+    "summary_bullets_cs": [
+      "Tým z univerzity Tsinghua vyvinul metodu volumetrického 3D tisku, která funguje za méně než sekundu.",
+      "Technika zahrnuje pohyb optiky místo pryskyřice pro rychlé dosažení jemných detailů.",
+      "Tento pokrok by mohl výrazně urychlit proces 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Tsinghua University",
+      "Volumetric 3D Printing"
+    ]
+  },
+  {
+    "title": "Nová laboratorní 3D tiskárna od StoneFlower3D: Technické specifikace a ceny",
+    "summary": "German ceramic 3D printing company Munich-based StoneFlower3D has launched a laboratory-scale 3D printer aimed at researchers working with concrete, mortars, clays and other mineral-based materials.&#160; The system handles both single-component and two-component formulations, with build volumes configured to order. Printable dimensions range from 50 cm to 300 cm across different axes, depending on the setup. [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/printer-ed-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-16T15:42:18+00:00",
+    "url": "https://3dprintingindustry.com/news/stoneflower3ds-new-lab-scale-3d-printer-technical-specifications-and-pricing-248961/?utm_source=rss&utm_medium=rss&utm_campaign=stoneflower3ds-new-lab-scale-3d-printer-technical-specifications-and-pricing",
+    "title_en": "StoneFlower3D’s New Lab-Scale 3D Printer: Technical Specifications and Pricing",
+    "summary_bullets_en": [
+      "StoneFlower3D, a German company, has launched a lab-scale 3D printer for researchers.",
+      "The printer is designed for use with concrete, mortars, clays, and other mineral-based materials.",
+      "It supports both single-component and two-component formulations.",
+      "Build volumes are customizable, with printable dimensions ranging from 50 cm to 300 cm."
+    ],
+    "summary_bullets_cs": [
+      "Německá společnost StoneFlower3D uvedla na trh laboratorní 3D tiskárnu pro výzkumníky.",
+      "Tiskárna je navržena pro práci s betonem, maltami, jíly a dalšími minerálními materiály.",
+      "Podporuje jedno- i dvousložkové formulace.",
+      "Objemy tisku jsou přizpůsobitelné, s rozměry od 50 cm do 300 cm."
+    ],
+    "tags": [
+      "Hardware",
+      "StoneFlower3D",
+      "3D Printing",
+      "Ceramic Printing",
+      "Concrete",
+      "Research"
+    ]
+  },
+  {
+    "title": "Je to všechno jen hazard",
+    "summary": "3DP War Journal #85",
+    "image": "https://substackcdn.com/image/fetch/$s_!A_12!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F826ec706-7269-4778-b73d-8ab6c81f9528_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-02-16T15:02:55+00:00",
+    "url": "https://www.3dprintingjournal.com/p/its-all-just-a-gamble",
+    "title_en": "It's all just a gamble",
+    "summary_bullets_en": [
+      "The article discusses the unpredictable nature of the 3D printing industry.",
+      "It highlights recent developments and challenges faced by major companies.",
+      "The focus is on how companies are navigating market uncertainties."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá nepředvídatelnou povahou průmyslu 3D tisku.",
+      "Zdůrazňuje nedávné události a výzvy, kterým čelí hlavní společnosti.",
+      "Zaměřuje se na to, jak se společnosti vypořádávají s nejistotami na trhu."
+    ],
+    "tags": [
+      "Industry",
+      "Market",
+      "Challenges",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Plně automatizovaný průmyslový 3D tisk s „neustálým přeskupováním“: AMIS uvádí AMIS Runtime",
+    "summary": "AI is already a pillar of global manufacturing strategy, even as its practical limitations signal that manufacturers will require quite some time to iron out the fundamental wrinkles involved. But...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/IMG_2154-1024x676.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-16T15:00:25+00:00",
+    "url": "https://3dprint.com/323961/fully-automated-continuously-re-nested-industrial-3d-printing-amis-launches-amis-runtime/",
+    "title_en": "Fully Automated, “Continuously Re-Nested” Industrial 3D Printing: AMIS Launches AMIS Runtime",
+    "summary_bullets_en": [
+      "AMIS has introduced a new software called AMIS Runtime, which focuses on fully automated industrial 3D printing.",
+      "The software features a 'continuously re-nested' system, optimizing the printing process for efficiency.",
+      "AI plays a crucial role in the new system, although there are still challenges to overcome in its implementation.",
+      "The launch of AMIS Runtime marks a significant step forward in integrating AI into manufacturing strategies."
+    ],
+    "summary_bullets_cs": [
+      "AMIS představila nový software s názvem AMIS Runtime, který se zaměřuje na plně automatizovaný průmyslový 3D tisk.",
+      "Software obsahuje systém „neustálého přeskupování“, který optimalizuje tiskový proces pro vyšší efektivitu."
+    ],
+    "tags": [
+      "Software",
+      "AMIS",
+      "AI",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "Komunita open source nadále kritizuje OCL od Prusa Research",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/947363015/0/fabbaloo/default~The-Open-Source-Community-Continues-to-Criticize-Prusa-Researchs-OCL\" rel=\"nofollow\" title=\"The Open Source Community Continues to Criticize Prusa Research&#8217;s OCL\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/ocl-license-definition-cover-300x140.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Some continue to criticize Prusa Research’s new Open Community License, but why?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/947363015/0/fabbaloo/default~The-Open-Source-Community-Continues-to-Criticize-Prusa-Researchs-OCL\" rel=\"nofollow\">The Open Source Community Continues to Criticize Prusa Research&#8217;s OCL</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/ocl-license-definition-cover-300x140.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-16T14:50:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/947363015/0/fabbaloo/default~The-Open-Source-Community-Continues-to-Criticize-Prusa-Researchs-OCL",
+    "title_en": "The Open Source Community Continues to Criticize Prusa Research's OCL",
+    "summary_bullets_en": [
+      "Prusa Research's new Open Community License (OCL) has faced criticism from the open source community.",
+      "The criticism revolves around the perceived restrictions and limitations imposed by the OCL.",
+      "Some community members argue that the OCL does not align with traditional open source principles."
+    ],
+    "summary_bullets_cs": [
+      "Nová Open Community License (OCL) od Prusa Research čelí kritice ze strany open source komunity.",
+      "Kritika se týká vnímaných omezení a restrikcí, které OCL ukládá.",
+      "Někteří členové komunity tvrdí, že OCL není v souladu s tradičními principy open source."
+    ],
+    "tags": [
+      "Hardware",
+      "Prusa Research",
+      "Open Source",
+      "Licensing"
+    ]
+  },
+  {
+    "title": "Průmyslová aditivní výroba dosahuje svého nejdůležitějšího bodu zlomu",
+    "summary": "Additive manufacturing is entering the most consequential period in its evolution. After years of experimentation and uneven adoption, the industry is showing renewed momentum, shaped by supply-chain pressures, and a...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/HP_Logo.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-16T14:30:04+00:00",
+    "url": "https://3dprint.com/323926/industrial-additive-manufacturing-reaches-its-most-important-inflection-point/",
+    "title_en": "Industrial Additive Manufacturing Reaches Its Most Important Inflection Point",
+    "summary_bullets_en": [
+      "Additive manufacturing is entering a critical phase in its development.",
+      "The industry is gaining momentum due to supply-chain pressures.",
+      "Years of experimentation and uneven adoption are giving way to renewed interest."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba vstupuje do klíčové fáze svého vývoje.",
+      "Odvětví nabírá na dynamice díky tlakům na dodavatelské řetězce.",
+      "Po letech experimentování a nerovnoměrného přijetí se obnovuje zájem."
+    ],
+    "tags": [
+      "Hardware",
+      "Supply Chain",
+      "Additive Manufacturing",
+      "Industrial",
+      "Momentum"
+    ]
+  },
+  {
+    "title": "Komerční aplikace pro 3D tisk keramiky",
+    "summary": "With its Lithography-based Ceramic Manufacturing (LCM) technology, Lithoz has set the technological cornerstone for scaling ceramic additive manufacturing to industrial production for many key industries. These industries – ranging from...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/LITHOZ_LithaBone_Cranial-and-Zygomatic-Implant.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-16T14:00:53+00:00",
+    "url": "https://3dprint.com/323915/commercial-applications-for-ceramic-3d-printing/",
+    "title_en": "Commercial Applications for Ceramic 3D Printing",
+    "summary_bullets_en": [
+      "Lithoz's LCM technology is pivotal for advancing ceramic 3D printing to industrial scales.",
+      "Ceramic additive manufacturing is becoming crucial for various key industries.",
+      "The technology supports the production of complex ceramic components with high precision."
+    ],
+    "summary_bullets_cs": [
+      "Technologie LCM od společnosti Lithoz je klíčová pro rozšíření 3D tisku keramiky na průmyslovou úroveň.",
+      "Přidávání keramiky se stává zásadním pro různé klíčové průmysly.",
+      "Technologie umožňuje výrobu složitých keramických komponentů s vysokou přesností."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Lithoz",
+      "Ceramic 3D Printing"
+    ]
+  },
+  {
+    "title": "3DPOD 293: Průmyslový kovový AM v AMEXCI s Edvinem Resebem, generálním ředitelem",
+    "summary": "Edvin Resebo has grown in LPBF as LPBF has grown, starting at Siemens and then the Alfred Nobel Science Park. Now he heads up AMEXCI, an effort to industrialize Additive...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-16T13:00:46+00:00",
+    "url": "https://3dprint.com/323870/3dpod-293-industrial-metal-am-at-amexci-with-edvin-resebo-ceo/",
+    "title_en": "3DPOD 293: Industrial Metal AM at AMEXCI with Edvin Resebo, CEO",
+    "summary_bullets_en": [
+      "Edvin Resebo has extensive experience in LPBF, having worked at Siemens and the Alfred Nobel Science Park.",
+      "He is currently the CEO of AMEXCI, focusing on industrializing additive manufacturing.",
+      "AMEXCI aims to advance the use of metal additive manufacturing in industrial applications."
+    ],
+    "summary_bullets_cs": [
+      "Edvin Resebo má bohaté zkušenosti s LPBF, pracoval ve společnosti Siemens a v Alfred Nobel Science Park.",
+      "V současnosti je generálním ředitelem AMEXCI, kde se zaměřuje na industrializaci aditivní výroby.",
+      "AMEXCI usiluje o pokrok v používání kovové aditivní výroby v průmyslových aplikacích."
+    ],
+    "tags": [
+      "Hardware",
+      "AMEXCI",
+      "Siemens",
+      "Alfred Nobel Science Park",
+      "Additive Manufacturing",
+      "LPBF"
+    ]
+  },
+  {
+    "title": "Nikon zaznamenává odpis 591 milionů dolarů v oblasti kovového AM, udržuje dlouhodobé zaměření",
+    "summary": "Nikon (OTCMKTS: NINOY) has announced a large impairment loss tied to its Digital Manufacturing business, the part of the company that includes metal 3D printing and advanced manufacturing operations. This...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/03/SLM_Solutions.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-16T12:30:20+00:00",
+    "url": "https://3dprint.com/323958/nikon-reassesses-metal-am-strategy-with-591m-write-down/",
+    "title_en": "Nikon Records $591M Metal AM Write-Down, Maintains Long-Term Focus",
+    "summary_bullets_en": [
+      "Nikon has reported a significant impairment loss of $591 million related to its Digital Manufacturing business.",
+      "The loss is associated with the company's metal 3D printing and advanced manufacturing operations.",
+      "Despite the financial setback, Nikon remains committed to its long-term strategy in the digital manufacturing sector."
+    ],
+    "summary_bullets_cs": [
+      "Nikon oznámil významnou ztrátu znehodnocení ve výši 591 milionů dolarů spojenou s jeho digitální výrobní divizí.",
+      "Ztráta je spojena s kovovým 3D tiskem a pokročilými výrobními operacemi společnosti.",
+      "Navzdory finančnímu neúspěchu zůstává Nikon odhodlán k dlouhodobé strategii v oblasti digitální výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Nikon",
+      "Digital Manufacturing",
+      "Metal 3D Printing"
+    ]
+  },
+  {
     "title": "Quickparts představuje DuraKor, ThermaKor a vyhlazování parou pro propojení prototypu a výroby",
     "summary": "Quickparts, a global provider of advanced manufacturing solutions, has announced the introduction of two new high-performance plastics, DuraKor and ThermaKor, along with vapour smoothing as a standard surface-finishing capability. These additions aim to give customers seamless support across the entire product development lifecycle, from a single prototype to large-scale production. By offering these materials and [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/DuraKor_Parts_3-150x100.jpg",
@@ -21,6 +389,35 @@
       "Material",
       "Services",
       "Quickparts"
+    ]
+  },
+  {
+    "title": "Auxilium se připojuje ke Starlab v novém partnerství pro pokrok ve vesmírné biovýrobě",
+    "summary": "Starlab Space, a company developing a commercial space station to broaden research opportunities in low Earth orbit, has entered into a new collaboration with Auxilium Biotechnologies, a San Diego medtech startup. The collaboration will support regenerative medicine, implantable devices, and complex tissue engineering workflows while helping translate experimental biology into scalable orbital production. Orbital Bioprinting [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/image_2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-16T11:20:42+00:00",
+    "url": "https://3dprintingindustry.com/news/auxilium-joins-starlab-in-new-partnership-to-advance-space-biomanufacturing-248950/?utm_source=rss&utm_medium=rss&utm_campaign=auxilium-joins-starlab-in-new-partnership-to-advance-space-biomanufacturing",
+    "title_en": "Auxilium Joins Starlab in New Partnership to Advance Space Biomanufacturing",
+    "summary_bullets_en": [
+      "Starlab Space is developing a commercial space station to enhance research opportunities in low Earth orbit.",
+      "Auxilium Biotechnologies, a San Diego medtech startup, has partnered with Starlab Space.",
+      "The collaboration focuses on regenerative medicine, implantable devices, and complex tissue engineering workflows.",
+      "The partnership aims to translate experimental biology into scalable orbital production."
+    ],
+    "summary_bullets_cs": [
+      "Starlab Space vyvíjí komerční vesmírnou stanici pro rozšíření výzkumných příležitostí na nízké oběžné dráze Země.",
+      "Auxilium Biotechnologies, medtech startup ze San Diega, uzavřel partnerství se Starlab Space.",
+      "Spolupráce se zaměřuje na regenerativní medicínu, implantovatelné zařízení a složité pracovní postupy tkáňového inženýrství.",
+      "Cílem partnerství je převést experimentální biologii do škálovatelné orbitální výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Starlab Space",
+      "Auxilium Biotechnologies",
+      "Biomanufacturing",
+      "Space Station"
     ]
   },
   {
