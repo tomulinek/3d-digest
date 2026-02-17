@@ -1,5 +1,141 @@
 [
   {
+    "title": "Lululemon nyní přijímá opakovatelný systém 3D tisku pro interiéry obchodů",
+    "summary": "Vancouver-based athletic apparel retailer lululemon has partnered with Dutch architectural firm Aectual to produce 3D printed ceiling and storefront components for selected stores worldwide. For this project, the Dutch firm has developed a system of panels with double-curved geometries. These reference lululemon’s brand elements, including the retailer’s yoga logo and design language, and can be [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/4ef540b1e8edb929e9bbbb8f37adcf0a5a347471-1080x1350-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-17T10:15:15+00:00",
+    "url": "https://3dprintingindustry.com/news/lululemon-now-adopts-repeatable-3d-printed-system-for-store-interiors-249074/?utm_source=rss&utm_medium=rss&utm_campaign=lululemon-now-adopts-repeatable-3d-printed-system-for-store-interiors",
+    "title_en": "Lululemon Now Adopts Repeatable 3D Printed System for Store Interiors",
+    "summary_bullets_en": [
+      "Lululemon has partnered with Dutch architectural firm Aectual to incorporate 3D printed components in their store interiors.",
+      "The project involves creating ceiling and storefront elements with double-curved geometries.",
+      "These designs reflect lululemon's brand elements, including their yoga logo and design language."
+    ],
+    "summary_bullets_cs": [
+      "Lululemon se spojil s nizozemskou architektonickou firmou Aectual pro začlenění 3D tištěných komponentů do interiérů svých obchodů.",
+      "Projekt zahrnuje tvorbu stropních a výkladních prvků s dvojitě zakřivenými geometrickými tvary.",
+      "Tyto návrhy odrážejí prvky značky lululemon, včetně jejich loga pro jógu a designového jazyka."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Lululemon",
+      "Aectual",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Výzkumníci vyvinuli plně recyklovatelný inkoust pro 3D tisk",
+    "summary": "Researchers from Helmholtz-Zentrum Hereon, a German materials research institute, in collaboration with its Institute of Active Polymers, BTU Cottbus-Senftenberg’s Institute of Materials Chemistry, and Berlin-based VESC Studio, have developed a water-based 3D printing ink composed of 70 wt % lignosulfonate, an industrial byproduct of the pulping industry. Published in ACS Publications, the study describes a [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/images_large_sc5c07974_0003-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-17T10:14:38+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-develop-fully-recyclable-3d-printing-ink-249076/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-develop-fully-recyclable-3d-printing-ink",
+    "title_en": "Researchers develop fully recyclable 3D printing ink",
+    "summary_bullets_en": [
+      "Researchers from Helmholtz-Zentrum Hereon and collaborators have created a water-based 3D printing ink.",
+      "The ink is composed of 70 wt % lignosulfonate, a byproduct of the pulping industry.",
+      "The study detailing this development has been published in ACS Publications."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Helmholtz-Zentrum Hereon a jejich spolupracovníci vytvořili vodou ředitelný inkoust pro 3D tisk.",
+      "Inkoust je složen ze 70 % lignosulfonátu, vedlejšího produktu papírenského průmyslu.",
+      "Studie popisující tento vývoj byla publikována v ACS Publications."
+    ],
+    "tags": [
+      "Material",
+      "Helmholtz-Zentrum Hereon",
+      "3D Printing",
+      "Recyclable Ink",
+      "Lignosulfonate"
+    ]
+  },
+  {
+    "title": "AMIS uvádí software Runtime pro automatizaci průmyslové aditivní výroby",
+    "summary": "AMIS, a developer of additive manufacturing workflow software and part of Hybrid Software Group, has launched AMIS Runtime, an automation and scripting engine designed to execute full build preparation workflows without manual intervention. Runtime automates part import, nesting, slicing, and export across SLS, MJF, Binder Jetting, and Material Jetting systems. AMIS states that Runtime is [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/AMISRuntime_FullyAutomaticNestedBatch-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-17T10:14:14+00:00",
+    "url": "https://3dprintingindustry.com/news/amis-launches-runtime-software-for-industrial-additive-manufacturing-automation-249064/?utm_source=rss&utm_medium=rss&utm_campaign=amis-launches-runtime-software-for-industrial-additive-manufacturing-automation",
+    "title_en": "AMIS launches Runtime software for industrial additive manufacturing automation",
+    "summary_bullets_en": [
+      "AMIS, part of Hybrid Software Group, has introduced AMIS Runtime, a new automation and scripting engine.",
+      "The software is designed to execute full build preparation workflows without manual intervention.",
+      "Runtime automates processes such as part import, nesting, slicing, and export for various 3D printing systems.",
+      "It supports SLS, MJF, Binder Jetting, and Material Jetting technologies."
+    ],
+    "summary_bullets_cs": [
+      "AMIS, vývojář softwaru pro workflow aditivní výroby a součást Hybrid Software Group, představil AMIS Runtime, nový automatizační a skriptovací engine.",
+      "Software je navržen tak, aby prováděl kompletní přípravu výroby bez manuálního zásahu.",
+      "Runtime automatizuje procesy jako import dílů, uspořádání, řezání a export pro různé systémy 3D tisku.",
+      "Podporuje technologie SLS, MJF, Binder Jetting a Material Jetting."
+    ],
+    "tags": [
+      "Software",
+      "AMIS",
+      "Hybrid Software Group",
+      "SLS",
+      "MJF",
+      "Binder Jetting",
+      "Material Jetting"
+    ]
+  },
+  {
+    "title": "Objemový 3D tisk pod jednu sekundu pomocí holografické syntézy světla",
+    "summary": "Researchers from Tsinghua University, a Beijing-based research institution focused on engineering, optics, and artificial intelligence, together with collaborators from Zhejiang University’s medical research centers, report a volumetric 3D printing system capable of fabricating millimetre-scale objects in 0.6 seconds while maintaining a uniform 19 μm printing resolution across a 1 cm depth. Published in Nature, the [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/41586_2026_10114_Fig5_HTML-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-02-17T10:13:38+00:00",
+    "url": "https://3dprintingindustry.com/news/sub-second-volumetric-3d-printing-using-holographic-light-synthesis-249091/?utm_source=rss&utm_medium=rss&utm_campaign=sub-second-volumetric-3d-printing-using-holographic-light-synthesis",
+    "title_en": "Sub-second volumetric 3D printing using holographic light synthesis",
+    "summary_bullets_en": [
+      "Researchers from Tsinghua University and Zhejiang University have developed a volumetric 3D printing system.",
+      "The system can fabricate millimetre-scale objects in just 0.6 seconds.",
+      "It maintains a uniform 19 μm printing resolution across a 1 cm depth.",
+      "The research has been published in the journal Nature."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z univerzity Tsinghua a Zhejiang University vyvinuli objemový 3D tiskový systém.",
+      "Systém dokáže vyrobit objekty v milimetrovém měřítku za pouhých 0,6 sekundy.",
+      "Udržuje jednotné rozlišení tisku 19 μm v hloubce 1 cm.",
+      "Výzkum byl publikován v časopise Nature."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Tsinghua University",
+      "Zhejiang University",
+      "Holographic Light Synthesis"
+    ]
+  },
+  {
+    "title": "Titomic podepisuje dohodu s NASA o testování technologie Cold Spray",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/947500040/0/fabbaloo/default~Titomic-Signs-NASA-Agreement-For-Cold-Spray-Testing\" rel=\"nofollow\" title=\"Titomic Signs NASA Agreement For Cold Spray Testing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/titomic-nasa-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Titomic has signed a Space Act Agreement with NASA to test cold spray manufactured components, a move that could push solid-state additive manufacturing closer to flight-critical use.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/947500040/0/fabbaloo/default~Titomic-Signs-NASA-Agreement-For-Cold-Spray-Testing\" rel=\"nofollow\">Titomic Signs NASA Agreement For Cold Spray Testing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/titomic-nasa-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-17T09:06:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/947500040/0/fabbaloo/default~Titomic-Signs-NASA-Agreement-For-Cold-Spray-Testing",
+    "title_en": "Titomic Signs NASA Agreement For Cold Spray Testing",
+    "summary_bullets_en": [
+      "Titomic has entered into a Space Act Agreement with NASA.",
+      "The agreement focuses on testing cold spray manufactured components.",
+      "This collaboration aims to advance solid-state additive manufacturing for potential flight-critical applications."
+    ],
+    "summary_bullets_cs": [
+      "Titomic uzavřel dohodu Space Act s NASA.",
+      "Dohoda se zaměřuje na testování komponentů vyrobených technologií Cold Spray.",
+      "Tato spolupráce má za cíl posunout pevnostní aditivní výrobu blíže k použití v kritických leteckých aplikacích."
+    ],
+    "tags": [
+      "Hardware",
+      "Titomic",
+      "NASA",
+      "Cold Spray",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Modernizace Thingiverse: Klíčové výzvy čekají na MyMiniFactory po akvizici",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/947379662/0/fabbaloo/default~Modernizing-Thingiverse-Key-Challenges-Await-MyMiniFactory-After-Acquisition\" rel=\"nofollow\" title=\"Modernizing Thingiverse: Key Challenges Await MyMiniFactory After Acquisition\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/mmf-th-fix-cover-300x147.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>So, MyMiniFactory bought Thingiverse. What work awaits them?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/947379662/0/fabbaloo/default~Modernizing-Thingiverse-Key-Challenges-Await-MyMiniFactory-After-Acquisition\" rel=\"nofollow\">Modernizing Thingiverse: Key Challenges Await MyMiniFactory After Acquisition</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/mmf-th-fix-cover-300x147.jpg",
