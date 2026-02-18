@@ -1,5 +1,86 @@
 [
   {
+    "title": "Pokrok v kruhovém AM: Université de Lorraine zkoumá 3D tisk plastů bez třídění",
+    "summary": "Researchers at the Université de Lorraine in France have examined strategies to simplify plastic recycling by reducing the need for pre-sorting, helping to advance Distributed Recycling Additive Manufacturing (DRAM) as a framework for more localized and circular production systems. This approach is significant because sorting mixed plastic waste remains one of the most costly and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/1-s2.0-S2589234726000242-gr1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-17T21:26:54+00:00",
+    "url": "https://3dprintingindustry.com/news/advancing-circular-am-universite-de-lorraine-explores-sorting-free-plastic-3d-printing-249129/?utm_source=rss&utm_medium=rss&utm_campaign=advancing-circular-am-universite-de-lorraine-explores-sorting-free-plastic-3d-printing",
+    "title_en": "Advancing Circular AM: Université de Lorraine Explores Sorting-Free Plastic 3D Printing",
+    "summary_bullets_en": [
+      "Researchers at Université de Lorraine are working on simplifying plastic recycling by reducing the need for pre-sorting.",
+      "Their approach supports Distributed Recycling Additive Manufacturing (DRAM) for more localized and circular production systems.",
+      "Sorting mixed plastic waste is one of the most costly and challenging aspects of recycling."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Université de Lorraine pracují na zjednodušení recyklace plastů snížením potřeby předběžného třídění.",
+      "Jejich přístup podporuje Distribuovanou recyklační aditivní výrobu (DRAM) pro lokalizovanější a kruhové výrobní systémy.",
+      "Třídění smíšeného plastového odpadu je jedním z nejdražších a nejnáročnějších aspektů recyklace."
+    ],
+    "tags": [
+      "Material",
+      "Université de Lorraine",
+      "Recycling",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "3D tisk pomocí zvuku? Výzkumníci z Concordia využívají akustickou energii pro přesnou mikrofabrikaci",
+    "summary": "Researchers at Concordia University have introduced a refined 3D printing strategy that uses acoustic energy to fabricate microscopic features directly onto soft polymers such as silicone. The method, known as proximal sound printing, enhances spatial accuracy compared with earlier sound-based approaches and expands the manufacturing toolkit for delicate materials. The technique represents a major step [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/1770844550130-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-17T21:25:06+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printing-with-sound-concordia-researchers-harness-acoustic-energy-for-precision-microfabrication-249114/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printing-with-sound-concordia-researchers-harness-acoustic-energy-for-precision-microfabrication",
+    "title_en": "3D Printing with Sound? Concordia Researchers Harness Acoustic Energy for Precision Microfabrication",
+    "summary_bullets_en": [
+      "Concordia University researchers have developed a 3D printing method using acoustic energy.",
+      "The technique, called proximal sound printing, allows for precise microfabrication on soft polymers like silicone.",
+      "This method improves spatial accuracy over previous sound-based approaches.",
+      "It expands the manufacturing capabilities for delicate materials."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Concordia University vyvinuli metodu 3D tisku využívající akustickou energii.",
+      "Technika, nazývaná proximální zvukový tisk, umožňuje přesnou mikrofabrikaci na měkkých polymerech, jako je silikon.",
+      "Tato metoda zlepšuje prostorovou přesnost oproti dřívějším přístupům založeným na zvuku.",
+      "Rozšiřuje výrobní možnosti pro jemné materiály."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Concordia University",
+      "Acoustic Energy",
+      "Microfabrication",
+      "Silicone"
+    ]
+  },
+  {
+    "title": "Rapid Fusion překonává 2 miliony liber, řešení pro 3D tisk na místě získávají na popularitě",
+    "summary": "Exeter-based technology specialist Rapid Fusion has achieved a new milestone, exceeding £2 million in revenue for the first time in its three-year history. The company, operating from a £750,000 advanced demonstration facility at Sky Park, has seen increasing demand for its large-format additive manufacturing systems, with domestic and international orders for its Apollo, Zeus, and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/Cerberus_Formnext_L2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-17T21:22:03+00:00",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/?utm_source=rss&utm_medium=rss&utm_campaign=rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction",
+    "title_en": "Rapid Fusion Surpasses £2M as On-Site 3D Printing Solutions Gain Traction",
+    "summary_bullets_en": [
+      "Rapid Fusion, based in Exeter, has exceeded £2 million in revenue for the first time.",
+      "The company operates from a £750,000 advanced demonstration facility at Sky Park.",
+      "There is growing demand for their large-format additive manufacturing systems, including Apollo and Zeus models."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Rapid Fusion z Exeteru poprvé překonala příjmy ve výši 2 milionů liber.",
+      "Firma provozuje pokročilé demonstrační zařízení v hodnotě 750 000 liber v Sky Parku.",
+      "Roste poptávka po jejich velkoformátových systémech aditivní výroby, včetně modelů Apollo a Zeus."
+    ],
+    "tags": [
+      "Hardware",
+      "Rapid Fusion",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Apollo",
+      "Zeus"
+    ]
+  },
+  {
     "title": "Je TOP.E R1 první stolní 5osá 3D tiskárna?",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/947574173/0/fabbaloo/default~Is-the-TOPE-R-the-First-Desktop-Axis-D-Printer\" rel=\"nofollow\" title=\"Is the TOP.E R1 the First Desktop 5-Axis 3D Printer? \"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/top.e-r1-cover2-300x207.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Could this new device be the first desktop 5-axis 3D printer?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/947574173/0/fabbaloo/default~Is-the-TOPE-R-the-First-Desktop-Axis-D-Printer\" rel=\"nofollow\">Is the TOP.E R1 the First Desktop 5-Axis 3D Printer? </a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/top.e-r1-cover2-300x207.jpg",
@@ -22,6 +103,31 @@
       "3D Printing",
       "TOP.E",
       "5-Axis"
+    ]
+  },
+  {
+    "title": "ASTM Přechází na Wohlers Report jako výhradně digitální platformu pro předplatitele pro vydání 2026",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/947567048/0/fabbaloo/default~ASTM-Transitions-Wohlers-Report-to-SubscriptionOnly-Digital-Platform-for-Edition\" rel=\"nofollow\" title=\"ASTM Transitions Wohlers Report to Subscription-Only Digital Platform for 2026 Edition\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/wohlers-2026-cover-300x215.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>After thirty years, the Wohlers Report is going full digital.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/947567048/0/fabbaloo/default~ASTM-Transitions-Wohlers-Report-to-SubscriptionOnly-Digital-Platform-for-Edition\" rel=\"nofollow\">ASTM Transitions Wohlers Report to Subscription-Only Digital Platform for 2026 Edition</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/wohlers-2026-cover-300x215.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-17T16:10:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/947567048/0/fabbaloo/default~ASTM-Transitions-Wohlers-Report-to-SubscriptionOnly-Digital-Platform-for-Edition",
+    "title_en": "ASTM Transitions Wohlers Report to Subscription-Only Digital Platform for 2026 Edition",
+    "summary_bullets_en": [
+      "The Wohlers Report will transition to a subscription-only digital platform starting with the 2026 edition.",
+      "This marks a significant change after thirty years of the report's publication.",
+      "The transition is aimed at modernizing the distribution and accessibility of the report."
+    ],
+    "summary_bullets_cs": [
+      "Wohlers Report přejde na výhradně digitální platformu pro předplatitele od vydání 2026.",
+      "Tento krok představuje významnou změnu po třiceti letech vydávání zprávy.",
+      "Přechod je zaměřen na modernizaci distribuce a dostupnosti zprávy."
+    ],
+    "tags": [
+      "Services",
+      "ASTM",
+      "Wohlers Report",
+      "Digital Platform"
     ]
   },
   {
