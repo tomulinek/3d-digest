@@ -1,5 +1,170 @@
 [
   {
+    "title": "Budoucnost 3D tisku: Konec aditivní výroby",
+    "summary": "What does 3D printing look like in 2036? To find out, we asked dozens of industry leaders, CEOs, founders, CTOs, and analysts from across the additive manufacturing ecosystem to look beyond the immediate horizon and share their longer-term forecasts. The result is a panoramic view of an industry in transition. The picture that emerges is [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/the-end-of-additive-manufacturing-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-18T10:53:45+00:00",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-the-end-of-additive-manufacturing-249099/?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-3d-printing-the-end-of-additive-manufacturing",
+    "title_en": "The Future of 3D Printing: The End of Additive Manufacturing",
+    "summary_bullets_en": [
+      "Industry leaders predict significant changes in 3D printing by 2036.",
+      "The transition involves advancements in technology and materials.",
+      "Experts foresee a shift in the business models and applications of 3D printing.",
+      "The industry is expected to integrate more with other manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "Lídři v oboru předpovídají významné změny v 3D tisku do roku 2036.",
+      "Přechod zahrnuje pokroky v technologii a materiálech.",
+      "Odborníci předpovídají posun v obchodních modelech a aplikacích 3D tisku.",
+      "Očekává se, že průmysl se více integruje s dalšími výrobními procesy."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "UltiMaker",
+      "Nikon",
+      "SLM Solutions",
+      "HP"
+    ]
+  },
+  {
+    "title": "Sjednocený pracovní postup ověřuje 3D tištěného humanoida s 14 stupni volnosti",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/947693192/0/fabbaloo/default~Unified-Workflow-Validates-D-Printed-DOF-Humanoid\" rel=\"nofollow\" title=\"Unified Workflow Validates 3D Printed 14 DOF Humanoid\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/14dof-cover-300x194.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new paper outlines a unified, simulation-first pipeline that validates a lightweight, 3D printed 14 DOF humanoid before any plastic touches a heated bed.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/947693192/0/fabbaloo/default~Unified-Workflow-Validates-D-Printed-DOF-Humanoid\" rel=\"nofollow\">Unified Workflow Validates 3D Printed 14 DOF Humanoid</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/14dof-cover-300x194.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-18T09:06:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/947693192/0/fabbaloo/default~Unified-Workflow-Validates-D-Printed-DOF-Humanoid",
+    "title_en": "Unified Workflow Validates 3D Printed 14 DOF Humanoid",
+    "summary_bullets_en": [
+      "A new paper introduces a simulation-first pipeline for validating a 3D printed humanoid.",
+      "The humanoid features 14 degrees of freedom (DOF) and is lightweight.",
+      "The process ensures validation before any physical printing begins."
+    ],
+    "summary_bullets_cs": [
+      "Nový dokument představuje simulací řízený postup pro ověřování 3D tištěného humanoida.",
+      "Humanoid má 14 stupňů volnosti a je lehký.",
+      "Proces zajišťuje ověření před zahájením fyzického tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Simulation",
+      "Humanoid",
+      "Workflow"
+    ]
+  },
+  {
+    "title": "Spojené království dokončilo let s komponentou letadla vytištěnou z recyklovaného titanu",
+    "summary": "QinetiQ, a UK defence and security technology company, has completed a flight test of an aircraft fitted with a structural component 3D printed from recycled titanium. Flight was conducted by QinetiQ’s Flight Test Organisation at MOD Boscombe Down in Wiltshire using a company-owned Agusta A109S helicopter. The firm described the milestone as a world first. [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/agusta-a109-first-flight-titanium-bracket-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-18T08:49:31+00:00",
+    "url": "https://3dprintingindustry.com/news/uk-completes-flight-of-3d-printed-aircraft-component-from-recycled-titanium-249148/?utm_source=rss&utm_medium=rss&utm_campaign=uk-completes-flight-of-3d-printed-aircraft-component-from-recycled-titanium",
+    "title_en": "UK completes flight of 3D printed aircraft component from recycled titanium",
+    "summary_bullets_en": [
+      "QinetiQ, a UK defence and security technology company, successfully tested a 3D printed aircraft component made from recycled titanium.",
+      "The flight test was conducted using an Agusta A109S helicopter at MOD Boscombe Down in Wiltshire.",
+      "This achievement is described by QinetiQ as a world first in aviation technology."
+    ],
+    "summary_bullets_cs": [
+      "QinetiQ, britská společnost pro obranné a bezpečnostní technologie, úspěšně otestovala komponentu letadla vytištěnou z recyklovaného titanu.",
+      "Letový test byl proveden pomocí vrtulníku Agusta A109S na základně MOD Boscombe Down ve Wiltshire.",
+      "Tento úspěch je QinetiQ popisován jako světový první v oblasti letecké technologie."
+    ],
+    "tags": [
+      "Hardware",
+      "QinetiQ",
+      "3D Printing",
+      "Recycled Materials",
+      "Aviation"
+    ]
+  },
+  {
+    "title": "UT Austin a Národní laboratoře spouštějí CRAFT pro více materiálový, vysoce přesný anatomický 3D tisk",
+    "summary": "Scientists from The University of Texas at Austin, Sandia National Laboratories, and two other U.S. national labs have unveiled a 3D printing technique capable of producing objects with highly varied mechanical and optical properties on a fine, pixel-level scale. The method relies on widely available materials and affordable 3D printers, opening possibilities for applications such [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/fig4b_2400x1350.png-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-18T08:47:32+00:00",
+    "url": "https://3dprintingindustry.com/news/ut-austin-national-labs-launch-craft-for-multi-material-high-resolution-anatomical-3d-printing-249117/?utm_source=rss&utm_medium=rss&utm_campaign=ut-austin-national-labs-launch-craft-for-multi-material-high-resolution-anatomical-3d-printing",
+    "title_en": "UT Austin, National Labs Launch CRAFT for Multi-Material, High-Resolution Anatomical 3D Printing",
+    "summary_bullets_en": [
+      "Researchers from UT Austin and U.S. national labs have developed a new 3D printing technique.",
+      "The method allows for the creation of objects with varied mechanical and optical properties at a pixel-level scale.",
+      "It utilizes widely available materials and affordable 3D printers.",
+      "This advancement opens up new possibilities for various applications."
+    ],
+    "summary_bullets_cs": [
+      "Vědci z UT Austin a amerických národních laboratoří vyvinuli novou techniku 3D tisku.",
+      "Metoda umožňuje vytvářet objekty s různorodými mechanickými a optickými vlastnostmi na úrovni pixelů.",
+      "Využívá běžně dostupné materiály a cenově dostupné 3D tiskárny.",
+      "Tento pokrok otevírá nové možnosti pro různé aplikace."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "UT Austin",
+      "Sandia National Laboratories",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Materialise přidává do portfolia kranio-maxilofaciálních implantátů na míru vyrobené PEEK implantáty",
+    "summary": "Materialise NV, a Belgium-based 3D printing software and medical device company, has introduced custom-made implants made from polyetheretherketone (PEEK) to its cranio-maxillofacial (CMF) portfolio. Surgeons can now select either titanium or the high-performance polymer for patient-specific reconstructions while using the same digital planning and case management system. Availability covers Europe, excluding Switzerland. Integration occurs within [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/Materialises-new-personalized-PEEK-CMF-implant-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-02-18T08:45:42+00:00",
+    "url": "https://3dprintingindustry.com/news/materialise-adds-custom-made-peek-implants-to-cranio-maxillofacial-portfolio-249144/?utm_source=rss&utm_medium=rss&utm_campaign=materialise-adds-custom-made-peek-implants-to-cranio-maxillofacial-portfolio",
+    "title_en": "Materialise adds custom-made PEEK implants to cranio-maxillofacial portfolio",
+    "summary_bullets_en": [
+      "Materialise NV has introduced custom-made PEEK implants to its cranio-maxillofacial portfolio.",
+      "The implants are made from polyetheretherketone (PEEK), offering an alternative to titanium.",
+      "Surgeons can use the same digital planning and case management system for both materials.",
+      "The PEEK implants are available in Europe, excluding Switzerland."
+    ],
+    "summary_bullets_cs": [
+      "Materialise NV představila do svého portfolia kranio-maxilofaciálních implantátů na míru vyrobené PEEK implantáty.",
+      "Implantáty jsou vyrobeny z polyetheretherketonu (PEEK), což nabízí alternativu k titanu.",
+      "Chirurgové mohou pro oba materiály používat stejný systém digitálního plánování a správy případů.",
+      "PEEK implantáty jsou dostupné v Evropě, s výjimkou Švýcarska."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Materialise",
+      "PEEK",
+      "Cranio-maxillofacial"
+    ]
+  },
+  {
+    "title": "Aectual spolupracuje s Lululemon na globálním zavádění 3D tištěného designu obchodů",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/aectual-partners-with-lululemon-for-global-3d-printed-store-design-rollout/\" target=\"_blank\">Aectual Partners with Lululemon for Global 3D Printed Store Design Rollout</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">February 18</span></div><div><img alt=\"Aectual Partners with Lululemon for Global 3D Printed Store Design Rollout\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/251119_Lululemon_SoHo_8-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/251119_Lululemon_SoHo_8-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2026-02-18T06:27:11+00:00",
+    "url": "https://3dprinting.com/news/aectual-partners-with-lululemon-for-global-3d-printed-store-design-rollout/",
+    "title_en": "Aectual Partners with Lululemon for Global 3D Printed Store Design Rollout",
+    "summary_bullets_en": [
+      "Aectual has partnered with Lululemon to implement 3D printed designs in their stores globally.",
+      "The collaboration aims to enhance store aesthetics and sustainability through innovative 3D printing technology.",
+      "This initiative will allow for customizable and eco-friendly store elements, aligning with Lululemon's brand values."
+    ],
+    "summary_bullets_cs": [
+      "Aectual navázal spolupráci s Lululemon na zavedení 3D tištěných designů v jejich obchodech po celém světě.",
+      "Cílem spolupráce je zlepšit estetiku obchodů a udržitelnost prostřednictvím inovativní technologie 3D tisku.",
+      "Tato iniciativa umožní přizpůsobitelné a ekologické prvky obchodů, které jsou v souladu s hodnotami značky Lululemon."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Aectual",
+      "Lululemon"
+    ]
+  },
+  {
     "title": "Pokrok v kruhovém AM: Université de Lorraine zkoumá 3D tisk plastů bez třídění",
     "summary": "Researchers at the Université de Lorraine in France have examined strategies to simplify plastic recycling by reducing the need for pre-sorting, helping to advance Distributed Recycling Additive Manufacturing (DRAM) as a framework for more localized and circular production systems. This approach is significant because sorting mixed plastic waste remains one of the most costly and [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/1-s2.0-S2589234726000242-gr1-150x100.jpg",
