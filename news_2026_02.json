@@ -1,5 +1,139 @@
 [
   {
+    "title": "Výzkumníci z University of Nottingham zkoumají orientaci rozhraní v multi-materiálovém LPBF IN718 a GRCop-42",
+    "summary": "Researchers at the University of Nottingham’s Centre for Additive Manufacturing (CfAM), in collaboration with The Manufacturing Technology Centre (MTC) and Autodesk Research, have analyzed how interface orientation affects defect formation and microstructure evolution in laser powder bed fusion (LPBF) of IN718 and GRCop-42. Published in Additive Manufacturing Letters, the study evaluates horizontal, vertical, and angled [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/image-19-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-20T11:50:05+00:00",
+    "url": "https://3dprintingindustry.com/news/university-of-nottingham-researchers-examine-interface-orientation-in-multi-material-lpbf-of-in718-and-grcop-42-249250/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-nottingham-researchers-examine-interface-orientation-in-multi-material-lpbf-of-in718-and-grcop-42",
+    "title_en": "University of Nottingham researchers examine interface orientation in multi-material LPBF of IN718 and GRCop-42",
+    "summary_bullets_en": [
+      "Researchers from the University of Nottingham, in collaboration with MTC and Autodesk Research, studied the impact of interface orientation on defect formation in LPBF.",
+      "The study focused on the materials IN718 and GRCop-42, analyzing horizontal, vertical, and angled orientations.",
+      "Findings were published in Additive Manufacturing Letters, contributing to the understanding of microstructure evolution in multi-material 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University of Nottingham ve spolupráci s MTC a Autodesk Research studovali vliv orientace rozhraní na tvorbu defektů v LPBF.",
+      "Studie se zaměřila na materiály IN718 a GRCop-42, analyzující horizontální, vertikální a úhlové orientace.",
+      "Zjištění byla publikována v Additive Manufacturing Letters, přispívající k pochopení evoluce mikrostruktury v multi-materiálovém 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "University of Nottingham",
+      "MTC",
+      "Autodesk Research",
+      "IN718",
+      "GRCop-42",
+      "LPBF"
+    ]
+  },
+  {
+    "title": "Divergent a Mach dodali letuschopný prototyp Venom za 71 dní",
+    "summary": "AI-driven 3D manufacturing solutions provider Divergent Technologies and US defense manufacturing company Mach Industries have partnered to create Venom, a flight-demonstration prototype aircraft. The aircraft &#8220;moved from concept to flight-ready prototype in 71 days,&#8221; according to Alex Lovett, the Principal Deputy Assistant Secretary of War for Mission Capabilities in the Office of the Under Secretary [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/1771452759960-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-20T10:51:08+00:00",
+    "url": "https://3dprintingindustry.com/news/divergent-and-mach-deliver-venom-flight-ready-prototype-in-71-days-249214/?utm_source=rss&utm_medium=rss&utm_campaign=divergent-and-mach-deliver-venom-flight-ready-prototype-in-71-days",
+    "title_en": "Divergent and Mach Deliver Venom Flight-Ready Prototype in 71 Days",
+    "summary_bullets_en": [
+      "Divergent Technologies and Mach Industries collaborated to create the Venom aircraft.",
+      "The Venom is a flight-demonstration prototype developed in just 71 days.",
+      "The project highlights the efficiency of AI-driven 3D manufacturing solutions."
+    ],
+    "summary_bullets_cs": [
+      "Divergent Technologies a Mach Industries spolupracovali na vytvoření letounu Venom.",
+      "Venom je prototyp pro letovou demonstraci, který byl vyvinut za pouhých 71 dní.",
+      "Projekt zdůrazňuje efektivitu řešení pro 3D výrobu řízenou umělou inteligencí."
+    ],
+    "tags": [
+      "Hardware",
+      "Divergent Technologies",
+      "Mach Industries",
+      "3D Manufacturing",
+      "AI-driven Solutions"
+    ]
+  },
+  {
+    "title": "Výzkumníci testují SLS PHB s biouhlíkem",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/948026450/0/fabbaloo/default~Researchers-Test-SLS-of-PHB-With-Biocarbon\" rel=\"nofollow\" title=\"Researchers Test SLS of PHB With Biocarbon\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/PHB-sls-cover-300x196.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers explored Selective Laser Sintering of polyhydroxybutyrate with biocarbon filler, hinting at a greener polymer option for powder-bed AM.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/948026450/0/fabbaloo/default~Researchers-Test-SLS-of-PHB-With-Biocarbon\" rel=\"nofollow\">Researchers Test SLS of PHB With Biocarbon</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/PHB-sls-cover-300x196.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-20T09:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/948026450/0/fabbaloo/default~Researchers-Test-SLS-of-PHB-With-Biocarbon",
+    "title_en": "Researchers Test SLS of PHB With Biocarbon",
+    "summary_bullets_en": [
+      "Researchers investigated the use of Selective Laser Sintering (SLS) with polyhydroxybutyrate (PHB) and biocarbon filler.",
+      "The study suggests a more environmentally friendly polymer option for powder-bed additive manufacturing.",
+      "The combination of PHB and biocarbon could lead to greener 3D printing materials."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci zkoumali použití selektivního laserového sintrování (SLS) s polyhydroxybutyrátem (PHB) a biouhlíkovým plnivem.",
+      "Studie naznačuje ekologičtější polymerovou možnost pro aditivní výrobu s práškovým ložem.",
+      "Kombinace PHB a biouhlíku by mohla vést k ekologičtějším materiálům pro 3D tisk."
+    ],
+    "tags": [
+      "Material",
+      "SLS",
+      "PHB",
+      "Biocarbon",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Výzkumníci vyvinuli fotoiniciátor na bázi kurkuminu pro multifunkční 3D tištěné GelMA lešení",
+    "summary": "Researchers at the University of Crete and the Foundation for Research and Technology-Hellas (FORTH/IESL) have reported a one-step strategy for fabricating bioactive 3D hydrogel scaffolds using curcumin as a multifunctional photoinitiator in two-photon polymerization (2PP). Posted as a preprint last month, the study says curcumin serves two roles: it enables high-resolution 3D printing while simultaneously [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/image-17-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-20T06:42:09+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-develop-curcumin-based-photoinitiator-for-multifunctional-3d-printed-gelma-scaffolds-249234/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-develop-curcumin-based-photoinitiator-for-multifunctional-3d-printed-gelma-scaffolds",
+    "title_en": "Researchers develop curcumin-based photoinitiator for multifunctional 3D printed GelMA scaffolds",
+    "summary_bullets_en": [
+      "Researchers at the University of Crete and FORTH/IESL have developed a one-step strategy for creating bioactive 3D hydrogel scaffolds.",
+      "Curcumin is used as a multifunctional photoinitiator in two-photon polymerization (2PP).",
+      "The study highlights curcumin's dual role in enabling high-resolution 3D printing and enhancing scaffold functionality."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Univerzity Kréty a FORTH/IESL vyvinuli jednofázovou strategii pro tvorbu bioaktivních 3D hydrogelových lešení.",
+      "Kurkumín je použit jako multifunkční fotoiniciátor v dvoufotonové polymerizaci (2PP).",
+      "Studie zdůrazňuje dvojí roli kurkuminu při umožnění vysoce přesného 3D tisku a zlepšení funkčnosti lešení."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Curcumin",
+      "Hydrogel",
+      "Two-Photon Polymerization",
+      "University of Crete",
+      "FORTH/IESL"
+    ]
+  },
+  {
+    "title": "Výzkumníci vyvinuli novou metodu návrhu pro 3D tisk struktur z Nitinolu",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/researchers-develop-new-design-method-for-3d-printed-nitinol-structures/\" target=\"_blank\">Researchers Develop New Design Method for 3D Printed Nitinol Structures</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">February 20</span></div><div><img alt=\"Researchers Develop New Design Method for 3D-Printed Nitinol Structures\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/64389748084-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/64389748084-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-02-20T06:41:49+00:00",
+    "url": "https://3dprinting.com/news/researchers-develop-new-design-method-for-3d-printed-nitinol-structures/",
+    "title_en": "Researchers Develop New Design Method for 3D Printed Nitinol Structures",
+    "summary_bullets_en": [
+      "Researchers have developed a new design method for 3D printing Nitinol structures.",
+      "The method enhances the mechanical properties and performance of Nitinol.",
+      "This advancement could lead to improved applications in medical devices and other industries."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli novou metodu návrhu pro 3D tisk struktur z Nitinolu.",
+      "Metoda zlepšuje mechanické vlastnosti a výkon Nitinolu.",
+      "Tento pokrok by mohl vést ke zlepšení aplikací v lékařských zařízeních a dalších odvětvích."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Nitinol",
+      "3D Printing"
+    ]
+  },
+  {
     "title": "Šest zlomových linií, které přetvoří aditivní výrobu v letech 2026–2028",
     "summary": "The AM industry has spent years perfecting the technology. The next two years will test whether the business models, regulatory frameworks, and institutional structures around that technology can keep pace. Six structural pressures are converging, each rooted in forces already in motion, each with observable indicators that practitioners can monitor today. There is a recurring [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/the-end-of-additive-manufacturing-2-150x100.png",
