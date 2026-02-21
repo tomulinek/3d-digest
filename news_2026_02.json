@@ -1,5 +1,58 @@
 [
   {
+    "title": "Novinky ze světa 3D tisku, 21. února 2026: Vyhlazování parou, modely mozku a další",
+    "summary": "In this weekend&#8217;s 3D Printing News Briefs, we&#8217;re starting with material and post-processing news from Quickparts, and some more post-processing news from AM Solutions. We&#8217;ll end with researchers at the...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/DuraKor-Parts-3.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-21T13:30:13+00:00",
+    "url": "https://3dprint.com/324139/3d-printing-news-briefs-2-21-2026/",
+    "title_en": "3D Printing News Briefs, February 21, 2026: Vapor Smoothing, Brain Models, & More",
+    "summary_bullets_en": [
+      "Quickparts introduces new material and post-processing solutions, including vapor smoothing.",
+      "AM Solutions announces advancements in post-processing technologies.",
+      "Researchers develop innovative 3D printed brain models for medical applications."
+    ],
+    "summary_bullets_cs": [
+      "Quickparts představuje nové materiály a řešení pro post-processing, včetně vyhlazování parou.",
+      "AM Solutions oznamuje pokroky v technologiích post-processingu.",
+      "Výzkumníci vyvíjejí inovativní 3D tištěné modely mozku pro lékařské aplikace."
+    ],
+    "tags": [
+      "Material",
+      "Services",
+      "Quickparts",
+      "AM Solutions"
+    ]
+  },
+  {
+    "title": "Akvizice Penumbra společností Boston Scientific: Dopady a příležitosti 3D tisku v cévní medicíně",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/948154457/0/fabbaloo/default~Boston-Scientific%e2%80%99s-Penumbra-Acquisition-Impacts-and-D-Printing-Opportunities-in-Vascular-Medicine\" rel=\"nofollow\" title=\"Boston Scientific’s Penumbra Acquisition: Impacts and 3D Printing Opportunities in Vascular Medicine\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/01/Penumbra-1-300x179.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Anthony Palumbo and Charles Goulding analyze Boston Scientific’s US$14.5 billion acquisition of Penumbra, showing how additive manufacturing can accelerate thrombectomy and neurovascular innovation through rapid device prototyping, micro-precision component development, production tooling, and the use of 3D printed vascular models for testing and physician training.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/948154457/0/fabbaloo/default~Boston-Scientific%e2%80%99s-Penumbra-Acquisition-Impacts-and-D-Printing-Opportunities-in-Vascular-Medicine\" rel=\"nofollow\">Boston Scientific’s Penumbra Acquisition: Impacts and 3D Printing Opportunities in Vascular Medicine</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/01/Penumbra-1-300x179.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-21T13:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/948154457/0/fabbaloo/default~Boston-Scientific%e2%80%99s-Penumbra-Acquisition-Impacts-and-D-Printing-Opportunities-in-Vascular-Medicine",
+    "title_en": "Boston Scientific’s Penumbra Acquisition: Impacts and 3D Printing Opportunities in Vascular Medicine",
+    "summary_bullets_en": [
+      "Boston Scientific has acquired Penumbra for US$14.5 billion.",
+      "The acquisition is expected to enhance thrombectomy and neurovascular innovation.",
+      "3D printing will play a key role in rapid device prototyping and micro-precision component development.",
+      "3D printed vascular models will be used for testing and physician training."
+    ],
+    "summary_bullets_cs": [
+      "Boston Scientific získala Penumbra za 14,5 miliardy USD.",
+      "Očekává se, že akvizice posílí inovace v oblasti trombektomie a neurovaskulární medicíny.",
+      "3D tisk bude hrát klíčovou roli v rychlém prototypování zařízení a vývoji mikro-přesných komponent.",
+      "3D tištěné cévní modely budou použity pro testování a školení lékařů."
+    ],
+    "tags": [
+      "Hardware",
+      "Boston Scientific",
+      "Penumbra",
+      "3D Printing",
+      "Vascular Medicine"
+    ]
+  },
+  {
     "title": "ATI podporuje 3D tištěnou superslitinu od Alloyed pro letecké motory",
     "summary": "UK-based alloy design firm and Oxford University-spinout Alloyed has received £1 million from the UK&#8217;s Aerospace Technology Institute (ATI) Programme to help bring a new nickel superalloy closer to use in commercial jet engines. Named ABD-1000AM, the alloy is developed for additive manufacturing, and the funding will go toward resolving one of the more stubborn [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/HoneycombTile35-150x100.jpg",
