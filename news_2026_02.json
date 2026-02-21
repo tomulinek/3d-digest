@@ -1,5 +1,61 @@
 [
   {
+    "title": "ATI podporuje 3D tištěnou superslitinu od Alloyed pro letecké motory",
+    "summary": "UK-based alloy design firm and Oxford University-spinout Alloyed has received £1 million from the UK&#8217;s Aerospace Technology Institute (ATI) Programme to help bring a new nickel superalloy closer to use in commercial jet engines. Named ABD-1000AM, the alloy is developed for additive manufacturing, and the funding will go toward resolving one of the more stubborn [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/HoneycombTile35-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-21T10:55:00+00:00",
+    "url": "https://3dprintingindustry.com/news/ati-backs-alloyeds-3d-printed-superalloy-for-jet-engines-249268/?utm_source=rss&utm_medium=rss&utm_campaign=ati-backs-alloyeds-3d-printed-superalloy-for-jet-engines",
+    "title_en": "ATI Backs Alloyed’s 3D Printed Superalloy for Jet Engines",
+    "summary_bullets_en": [
+      "Alloyed, a UK-based alloy design firm, has received £1 million from the UK's Aerospace Technology Institute (ATI) Programme.",
+      "The funding is aimed at advancing the development of a new nickel superalloy named ABD-1000AM for use in commercial jet engines.",
+      "ABD-1000AM is specifically designed for additive manufacturing.",
+      "The investment will help address challenges in bringing the superalloy closer to commercial application."
+    ],
+    "summary_bullets_cs": [
+      "Britská firma Alloyed, specializující se na návrh slitin, získala 1 milion liber od programu Aerospace Technology Institute (ATI) Spojeného království.",
+      "Financování je zaměřeno na pokrok ve vývoji nové niklové superslitiny nazvané ABD-1000AM pro použití v komerčních leteckých motorech.",
+      "ABD-1000AM je speciálně navržena pro aditivní výrobu.",
+      "Investice pomůže řešit výzvy při přiblížení superslitiny k komerčnímu využití."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Alloyed",
+      "Aerospace Technology Institute",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Stratasys představuje přednastavený model zubní anatomie pro vzdělávání a klinický trénink",
+    "summary": "3D printer OEM Stratasys has introduced a dental anatomical model preset designed for simulation-based education and clinical training. The multi-material 3D printed solution offers a synthetic alternative to cadavers, animal specimens, and stone models, addressing cost, variability, and ethical concerns that continue to affect traditional training environments. As dental education increasingly incorporates digital workflows, institutions [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/2D1A8890-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-21T07:20:27+00:00",
+    "url": "https://3dprintingindustry.com/news/stratasys-introduces-dental-anatomical-model-preset-for-education-and-clinical-training-249276/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-introduces-dental-anatomical-model-preset-for-education-and-clinical-training",
+    "title_en": "Stratasys Introduces Dental Anatomical Model Preset for Education and Clinical Training",
+    "summary_bullets_en": [
+      "Stratasys has launched a dental anatomical model preset for simulation-based education and clinical training.",
+      "The 3D printed solution uses multi-material technology to provide a synthetic alternative to traditional training methods.",
+      "This innovation addresses cost, variability, and ethical concerns associated with cadavers, animal specimens, and stone models.",
+      "The introduction aligns with the growing trend of digital workflows in dental education."
+    ],
+    "summary_bullets_cs": [
+      "Stratasys uvedl na trh přednastavený model zubní anatomie pro simulované vzdělávání a klinický trénink.",
+      "Řešení využívá 3D tisk s více materiály a nabízí syntetickou alternativu k tradičním metodám tréninku.",
+      "Tato inovace řeší náklady, variabilitu a etické otázky spojené s kadavery, zvířecími vzorky a kamennými modely.",
+      "Zavedení odpovídá rostoucímu trendu digitálních pracovních postupů ve vzdělávání zubních lékařů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Stratasys",
+      "Dental Education",
+      "3D Printing"
+    ]
+  },
+  {
     "title": "Tento jeden trik činí váš FFF 3D tiskárnu o něco bezpečnější",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/948075494/0/fabbaloo/default~This-One-Trick-Makes-Your-FFF-D-Printer-a-Bit-Safer\" rel=\"nofollow\" title=\"This One Trick Makes Your FFF 3D Printer a Bit Safer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/close-the-door-cover-1-300x169.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There’s one trick you should be doing to keep your workspace safer when 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/948075494/0/fabbaloo/default~This-One-Trick-Makes-Your-FFF-D-Printer-a-Bit-Safer\" rel=\"nofollow\">This One Trick Makes Your FFF 3D Printer a Bit Safer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/close-the-door-cover-1-300x169.jpeg",
