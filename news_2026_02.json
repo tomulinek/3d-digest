@@ -1,5 +1,106 @@
 [
   {
+    "title": "Filamentive uvádí na trh rPA12 filament vyrobený z recyklovaného odpadu MJF prášku",
+    "summary": "Filamentive, a UK-based supplier of sustainable 3D printing materials, has launched rPA12, a nylon 12 filament manufactured from 100% recycled Multi Jet Fusion (MJF) powder waste. The material is intended for industrial and professional FFF/FDM applications where PA12 is commonly specified. Multi Jet Fusion is widely used for producing PA12 components at scale in manufacturing [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/Recycling_PA12_powder_into_nylon_filament-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-02-24T11:20:43+00:00",
+    "url": "https://3dprintingindustry.com/news/filamentive-launches-rpa12-filament-made-from-recycled-mjf-powder-waste-249314/?utm_source=rss&utm_medium=rss&utm_campaign=filamentive-launches-rpa12-filament-made-from-recycled-mjf-powder-waste",
+    "title_en": "Filamentive launches rPA12 filament made from recycled MJF powder waste",
+    "summary_bullets_en": [
+      "Filamentive has introduced rPA12, a nylon 12 filament made entirely from recycled Multi Jet Fusion (MJF) powder waste.",
+      "The filament is designed for industrial and professional FFF/FDM applications where PA12 is commonly used.",
+      "Multi Jet Fusion is a popular method for producing PA12 components at scale in manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Filamentive představilo rPA12, nylonový filament 12 vyrobený zcela z recyklovaného odpadu Multi Jet Fusion (MJF) prášku.",
+      "Filament je určen pro průmyslové a profesionální FFF/FDM aplikace, kde se běžně používá PA12.",
+      "Multi Jet Fusion je oblíbená metoda pro výrobu PA12 komponentů ve velkém měřítku v průmyslu."
+    ],
+    "tags": [
+      "Material",
+      "Filamentive",
+      "Multi Jet Fusion",
+      "PA12"
+    ]
+  },
+  {
+    "title": "Denis Aminev sdílí open-source design panoramatické filmové kamery pro 3D tisk",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/denis-aminev-shares-open-source-3d-printable-panoramic-film-camera-design/\" target=\"_blank\">Denis Aminev Shares Open-Source 3D Printable Panoramic Film Camera Design</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">February 24</span></div><div><img alt=\"Denis Aminev Shares Open-Source 3D Printable Panoramic Film Camera Design\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/863794938083-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/863794938083-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2026-02-24T10:29:25+00:00",
+    "url": "https://3dprinting.com/news/denis-aminev-shares-open-source-3d-printable-panoramic-film-camera-design/",
+    "title_en": "Denis Aminev Shares Open-Source 3D Printable Panoramic Film Camera Design",
+    "summary_bullets_en": [
+      "Denis Aminev has released a design for a 3D printable panoramic film camera.",
+      "The design is open-source, allowing anyone to download and print their own camera.",
+      "This project combines traditional film photography with modern 3D printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Denis Aminev zveřejnil design panoramatické filmové kamery pro 3D tisk.",
+      "Design je open-source, což umožňuje komukoli stáhnout a vytisknout si vlastní kameru.",
+      "Tento projekt kombinuje tradiční filmovou fotografii s moderní technologií 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Open-Source",
+      "Photography"
+    ]
+  },
+  {
+    "title": "3D tištěná trubka obsahuje topné těleso a senzor pro vesmír",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/948378821/0/fabbaloo/default~D-Printed-Pipe-Embeds-Heater-And-Sensor-For-Space\" rel=\"nofollow\" title=\"3D Printed Pipe Embeds Heater And Sensor For Space\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/pipe-prototype-cover-300x206.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A European team demonstrated a 3D printed, spacecraft-grade pipe segment with an embedded heater and temperature sensor to streamline thermal loop integration.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/948378821/0/fabbaloo/default~D-Printed-Pipe-Embeds-Heater-And-Sensor-For-Space\" rel=\"nofollow\">3D Printed Pipe Embeds Heater And Sensor For Space</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/pipe-prototype-cover-300x206.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-24T09:04:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/948378821/0/fabbaloo/default~D-Printed-Pipe-Embeds-Heater-And-Sensor-For-Space",
+    "title_en": "3D Printed Pipe Embeds Heater And Sensor For Space",
+    "summary_bullets_en": [
+      "A European team has developed a 3D printed pipe segment designed for spacecraft.",
+      "The pipe includes an embedded heater and temperature sensor.",
+      "This innovation aims to streamline the integration of thermal loops in space applications."
+    ],
+    "summary_bullets_cs": [
+      "Evropský tým vyvinul 3D tištěný segment trubky určený pro kosmické lodě.",
+      "Trubka obsahuje zabudované topné těleso a teplotní senzor.",
+      "Tato inovace má za cíl zjednodušit integraci tepelných okruhů ve vesmírných aplikacích."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Space Technology",
+      "Thermal Management"
+    ]
+  },
+  {
+    "title": "Finanční výsledky 3D tisku: Materialise hlásí silný závěr roku 2025, vedený růstem v medicíně",
+    "summary": "Materialise (Nasdaq: MTLS) closed out 2025 with a solid fourth quarter, showing stronger profitability, steady revenue growth, and continued momentum in its medical business. While some parts of the company...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/02/AMS-2025-Brigitte-1.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-24T08:00:00+00:00",
+    "url": "https://3dprint.com/324196/3d-printing-financials-materialise-reports-strong-finish-to-2025-led-by-medical-growth/",
+    "title_en": "3D Printing Financials: Materialise Reports Strong Finish to 2025, Led by Medical Growth",
+    "summary_bullets_en": [
+      "Materialise ended 2025 with a robust fourth quarter, highlighting increased profitability.",
+      "The company experienced steady revenue growth, particularly driven by its medical sector.",
+      "Materialise's medical business continues to show strong momentum, contributing significantly to overall performance."
+    ],
+    "summary_bullets_cs": [
+      "Materialise zakončila rok 2025 silným čtvrtým čtvrtletím s vyšší ziskovostí.",
+      "Společnost zaznamenala stabilní růst tržeb, zejména díky svému medicínskému sektoru.",
+      "Medicínský segment Materialise nadále vykazuje silnou dynamiku a významně přispívá k celkovému výkonu."
+    ],
+    "tags": [
+      "Hardware",
+      "Materialise",
+      "Medical",
+      "Financials",
+      "Growth"
+    ]
+  },
+  {
     "title": "Multimateriálová extruzní platforma MIT vyvíjí plně elektrické motory na místě",
     "summary": "Electric motors are essential components across automated manufacturing systems, yet their production and replacement typically rely on centralized facilities and complex supply chains. Researchers at the Massachusetts Institute of Technology (MIT) are developing a multimaterial 3D printing platform designed to fabricate fully functional electric motors onsite in a single manufacturing step.&#160; The approach could reduce [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/MIT-PrintedMotor-01-press_0-150x100.jpg",
