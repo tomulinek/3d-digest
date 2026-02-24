@@ -1,5 +1,31 @@
 [
   {
+    "title": "Multimateriálová extruzní platforma MIT vyvíjí plně elektrické motory na místě",
+    "summary": "Electric motors are essential components across automated manufacturing systems, yet their production and replacement typically rely on centralized facilities and complex supply chains. Researchers at the Massachusetts Institute of Technology (MIT) are developing a multimaterial 3D printing platform designed to fabricate fully functional electric motors onsite in a single manufacturing step.&#160; The approach could reduce [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/MIT-PrintedMotor-01-press_0-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-02-23T20:49:22+00:00",
+    "url": "https://3dprintingindustry.com/news/mits-multi-material-extrusion-platform-develops-fully-electric-motors-on-site-249224/?utm_source=rss&utm_medium=rss&utm_campaign=mits-multi-material-extrusion-platform-develops-fully-electric-motors-on-site",
+    "title_en": "MIT’s Multi-Material Extrusion Platform Develops Fully Electric Motors On-Site",
+    "summary_bullets_en": [
+      "MIT researchers are developing a 3D printing platform for onsite fabrication of electric motors.",
+      "The platform uses multimaterial extrusion to create fully functional motors in a single step.",
+      "This innovation aims to reduce reliance on centralized production facilities and complex supply chains."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z MIT vyvíjejí 3D tiskovou platformu pro výrobu elektrických motorů na místě.",
+      "Platforma využívá multimateriálovou extruzi k vytvoření plně funkčních motorů v jednom kroku.",
+      "Tato inovace má za cíl snížit závislost na centralizovaných výrobních zařízeních a složitých dodavatelských řetězcích."
+    ],
+    "tags": [
+      "Hardware",
+      "MIT",
+      "3D Printing",
+      "Electric Motors",
+      "Manufacturing"
+    ]
+  },
+  {
     "title": "Creality CFS-C eliminuje čištění hot-endu novým přístupem k dálkovému řezání",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/948334442/0/fabbaloo/default~Creality%e2%80%99s-CFSC-Eliminates-HotEnd-Purging-with-New-Remote-Cutting-Approach\" rel=\"nofollow\" title=\"Creality’s CFS-C Eliminates Hot-End Purging with New Remote Cutting Approach\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/creality-cfs-c-cover-300x238.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Creality has taken up the “no waste printing” problem quite differently with their new CFS-C.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/948334442/0/fabbaloo/default~Creality%e2%80%99s-CFSC-Eliminates-HotEnd-Purging-with-New-Remote-Cutting-Approach\" rel=\"nofollow\">Creality’s CFS-C Eliminates Hot-End Purging with New Remote Cutting Approach</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/creality-cfs-c-cover-300x238.jpeg",
