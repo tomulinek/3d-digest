@@ -1,5 +1,267 @@
 [
   {
+    "title": "Prusa uvádí vysoce abrazivní PETG Ultraglow Green",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/948492482/0/fabbaloo/default~Prusa-Launches-Highly-Abrasive-PETG-Ultraglow-Green\" rel=\"nofollow\" title=\"Prusa Launches Highly Abrasive PETG Ultraglow Green\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/prusa-petg-glow-cover-300x246.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prusa has introduced Prusament PETG Ultraglow Green, a glow filament it claims is the brightest on the market — with a major concern for wear on hardware.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/948492482/0/fabbaloo/default~Prusa-Launches-Highly-Abrasive-PETG-Ultraglow-Green\" rel=\"nofollow\">Prusa Launches Highly Abrasive PETG Ultraglow Green</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/prusa-petg-glow-cover-300x246.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-25T17:33:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/948492482/0/fabbaloo/default~Prusa-Launches-Highly-Abrasive-PETG-Ultraglow-Green",
+    "title_en": "Prusa Launches Highly Abrasive PETG Ultraglow Green",
+    "summary_bullets_en": [
+      "Prusa has introduced a new filament called Prusament PETG Ultraglow Green.",
+      "The filament is claimed to be the brightest glow filament on the market.",
+      "There is a significant concern about the wear it may cause on 3D printing hardware."
+    ],
+    "summary_bullets_cs": [
+      "Prusa představila nový filament nazvaný Prusament PETG Ultraglow Green.",
+      "Filament je označován jako nejjasnější svítící filament na trhu.",
+      "Existuje významná obava ohledně opotřebení, které může způsobit na hardwaru 3D tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Prusa",
+      "PETG",
+      "Ultraglow Green"
+    ]
+  },
+  {
+    "title": "Patent Snapmakeru cílí na rychlejší přepínání barev v FFF tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/948489257/0/fabbaloo/default~Snapmaker-Patent-Targets-Faster-Multi-Color-FFF-Switching\" rel=\"nofollow\" title=\"Snapmaker Patent Targets Faster Multi Color FFF Switching\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/snapmaker-multi-extruder-cover-300x234.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Snapmaker has filed a patent that tries to make multicolor FFF printing less wasteful without slowing the job to a crawl.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/948489257/0/fabbaloo/default~Snapmaker-Patent-Targets-Faster-Multi-Color-FFF-Switching\" rel=\"nofollow\">Snapmaker Patent Targets Faster Multi Color FFF Switching</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/snapmaker-multi-extruder-cover-300x234.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-25T16:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/948489257/0/fabbaloo/default~Snapmaker-Patent-Targets-Faster-Multi-Color-FFF-Switching",
+    "title_en": "Snapmaker Patent Targets Faster Multi Color FFF Switching",
+    "summary_bullets_en": [
+      "Snapmaker has filed a patent to improve multicolor FFF printing efficiency.",
+      "The patent aims to reduce material waste during color switching.",
+      "The innovation seeks to maintain printing speed while enhancing color transitions."
+    ],
+    "summary_bullets_cs": [
+      "Snapmaker podal patent na zlepšení efektivity vícebarevného FFF tisku.",
+      "Patent má za cíl snížit plýtvání materiálem při přepínání barev.",
+      "Inovace se snaží udržet rychlost tisku při zlepšení přechodů mezi barvami."
+    ],
+    "tags": [
+      "Hardware",
+      "Snapmaker",
+      "3D Printing",
+      "Multicolor Printing"
+    ]
+  },
+  {
+    "title": "Operátor vs. algoritmus – kde skutečně končí automatizace rozhodovacích procesů v aditivní výrobě?",
+    "summary": "RECODE.AM #39",
+    "image": "https://substackcdn.com/image/fetch/$s_!BtZq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae60a7b7-a6b2-461d-ac7f-99038caf4200_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-02-25T15:02:40+00:00",
+    "url": "https://www.3dprintingjournal.com/p/operator-vs-algorithm-where-does",
+    "title_en": "Operator vs. algorithm – where does automation of process decisions in AM actually end?",
+    "summary_bullets_en": [
+      "The article explores the balance between human operators and algorithms in the decision-making processes of additive manufacturing (AM).",
+      "It discusses the current state of automation in AM and the potential future developments in this field.",
+      "The role of AI and machine learning in enhancing the efficiency and accuracy of AM processes is highlighted.",
+      "Challenges and limitations of fully automating AM processes are also examined."
+    ],
+    "summary_bullets_cs": [
+      "Článek zkoumá rovnováhu mezi lidskými operátory a algoritmy v rozhodovacích procesech aditivní výroby (AM).",
+      "Diskutuje současný stav automatizace v AM a potenciální budoucí vývoj v této oblasti.",
+      "Zdůrazňuje roli AI a strojového učení při zvyšování efektivity a přesnosti procesů AM.",
+      "Zkoumá také výzvy a omezení plné automatizace procesů AM."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "AI",
+      "Machine Learning",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Recyklovaný MJF filament od Filamentive testuje ekonomiku cirkulární aditivní výroby",
+    "summary": "I&#8217;m super glad that Filamentive is making filament from recycled PA 12. We all know that in all polymer powder bed fusion processes, there is waste. Some can be recycled...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/MJF-Waste-versus-recycling-in-3D-printing.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-25T15:00:32+00:00",
+    "url": "https://3dprint.com/324110/filamentive-offers-recycled-filament-made-out-of-mjf-powder/",
+    "title_en": "Filamentive’s Recycled MJF Filament Tests the Economics of Circular AM",
+    "summary_bullets_en": [
+      "Filamentive is producing filament from recycled PA 12 material.",
+      "Polymer powder bed fusion processes often result in waste, which can be recycled.",
+      "The initiative aims to test the economic viability of circular additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Filamentive vyrábí filament z recyklovaného materiálu PA 12.",
+      "Procesy fúze polymerního práškového lože často vedou k odpadu, který lze recyklovat.",
+      "Iniciativa má za cíl otestovat ekonomickou životaschopnost cirkulární aditivní výroby."
+    ],
+    "tags": [
+      "Material",
+      "Filamentive",
+      "Recycling",
+      "Circular Economy",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Australští výzkumníci vyvinuli systém pro 3D tisk betonu pod vodou bez urychlovačů",
+    "summary": "Infrastructure projects are just as important as housing to the additive construction (AC) market segment, and structures used for underwater applications like coastal resilience have steadily become one of the...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/IMG_2160.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-25T14:30:52+00:00",
+    "url": "https://3dprint.com/324112/australian-researchers-develop-accelerator-free-underwater-3d-concrete-printing-system/",
+    "title_en": "Australian Researchers Develop Accelerator-Free Underwater 3D Concrete Printing System",
+    "summary_bullets_en": [
+      "Australian researchers have developed a new 3D concrete printing system for underwater applications.",
+      "The system does not require accelerators, making it more environmentally friendly.",
+      "This innovation is aimed at enhancing coastal resilience and infrastructure projects."
+    ],
+    "summary_bullets_cs": [
+      "Australští výzkumníci vyvinuli nový systém pro 3D tisk betonu určený pro podvodní aplikace.",
+      "Systém nevyžaduje použití urychlovačů, což ho činí šetrnějším k životnímu prostředí.",
+      "Tato inovace je zaměřena na posílení pobřežní odolnosti a infrastrukturních projektů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Concrete",
+      "Underwater Construction",
+      "Environmental Technology"
+    ]
+  },
+  {
+    "title": "NVIDIA investuje do Freeform pro pokrok v AI řízené aditivní výrobě kovů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/948470630/0/fabbaloo/default~NVIDIA-Invests-in-Freeform-to-Advance-AIDriven-Metal-Additive-Manufacturing\" rel=\"nofollow\" title=\"NVIDIA Invests in Freeform to Advance AI-Driven Metal Additive Manufacturing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/Freeform-printing-cover-300x162.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Freeform has obtained a massive investment boost, and the backers include NVIDIA.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/948470630/0/fabbaloo/default~NVIDIA-Invests-in-Freeform-to-Advance-AIDriven-Metal-Additive-Manufacturing\" rel=\"nofollow\">NVIDIA Invests in Freeform to Advance AI-Driven Metal Additive Manufacturing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/Freeform-printing-cover-300x162.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-25T14:09:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/948470630/0/fabbaloo/default~NVIDIA-Invests-in-Freeform-to-Advance-AIDriven-Metal-Additive-Manufacturing",
+    "title_en": "NVIDIA Invests in Freeform to Advance AI-Driven Metal Additive Manufacturing",
+    "summary_bullets_en": [
+      "Freeform has received a significant investment boost.",
+      "NVIDIA is one of the key investors in Freeform.",
+      "The investment aims to enhance AI-driven metal additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Freeform získal významnou investiční podporu.",
+      "NVIDIA je jedním z klíčových investorů do Freeform.",
+      "Investice má za cíl zlepšit AI řízenou aditivní výrobu kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "NVIDIA",
+      "Freeform",
+      "Additive Manufacturing",
+      "AI"
+    ]
+  },
+  {
+    "title": "Čekání má svou cenu: skutečná hodnota aditivní výroby",
+    "summary": "One of my favorite expressions is “Hurry up and wait,” because it perfectly captures one of my least favorite scenarios to have to live through. You rush to get ready...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/IMG_1894.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-25T14:00:31+00:00",
+    "url": "https://3dprint.com/324065/waiting-has-a-cost-the-true-value-of-additive-manufacturing/",
+    "title_en": "Waiting Has a Cost: the True Value of Additive Manufacturing",
+    "summary_bullets_en": [
+      "The article discusses the inefficiencies and costs associated with traditional manufacturing processes.",
+      "Additive manufacturing, or 3D printing, offers a solution by reducing wait times and increasing production efficiency.",
+      "The technology allows for rapid prototyping and customization, which can lead to significant cost savings.",
+      "The article emphasizes the importance of adopting additive manufacturing to stay competitive in the market."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá neefektivností a náklady spojenými s tradičními výrobními procesy.",
+      "Aditivní výroba, neboli 3D tisk, nabízí řešení snížením čekacích dob a zvýšením efektivity výroby.",
+      "Technologie umožňuje rychlé prototypování a přizpůsobení, což může vést k významným úsporám nákladů.",
+      "Článek zdůrazňuje důležitost přijetí aditivní výroby pro udržení konkurenceschopnosti na trhu."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "3D Printing",
+      "Efficiency",
+      "Cost Savings"
+    ]
+  },
+  {
+    "title": "Nové odstíny pro 3D Systems NextDent Denture Jetting",
+    "summary": "3D Systems NextDent is expanding its denture jetting portfolio. The company is adding three new shades of gum tones. That will let the solution look more natural on more patients....",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/3d-systems-netdent-300-printer-thumbnail.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-25T13:30:41+00:00",
+    "url": "https://3dprint.com/324104/new-shades-for-3d-systems-nextdent-denture-jetting/",
+    "title_en": "New Shades for 3D Systems NextDent Denture Jetting",
+    "summary_bullets_en": [
+      "3D Systems NextDent is expanding its denture jetting portfolio.",
+      "The company is adding three new shades of gum tones.",
+      "These new shades will allow dentures to look more natural on a wider range of patients."
+    ],
+    "summary_bullets_cs": [
+      "3D Systems NextDent rozšiřuje své portfolio pro dentální tisk.",
+      "Společnost přidává tři nové odstíny dásní.",
+      "Tyto nové odstíny umožní, aby protézy vypadaly přirozeněji na širším spektru pacientů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Systems",
+      "NextDent",
+      "Material"
+    ]
+  },
+  {
+    "title": "Skutečný dopad simulovaných dílů: Proč se Novineer a Stratasys spojili pro simulaci výkonu FDM",
+    "summary": "If one of the primary advantages of additive manufacturing (AM) is that it’s “digitally-native,” then the hardware will ultimately only be as good as the software guiding the process. That...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/IMG_2165-1024x651.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-25T13:00:50+00:00",
+    "url": "https://3dprint.com/324155/the-real-world-impact-of-simulated-parts-why-novineer-and-stratasys-partnered-on-performance-simulation-for-fdm/",
+    "title_en": "The Real World Impact of Simulated Parts: Why Novineer and Stratasys Partnered on Performance Simulation for FDM",
+    "summary_bullets_en": [
+      "Additive manufacturing's effectiveness is heavily reliant on the software that guides the hardware.",
+      "Novineer and Stratasys have partnered to enhance performance simulation for FDM technology.",
+      "The collaboration aims to improve the accuracy and reliability of 3D printed parts through advanced simulation techniques."
+    ],
+    "summary_bullets_cs": [
+      "Účinnost aditivní výroby je silně závislá na softwaru, který řídí hardware.",
+      "Novineer a Stratasys se spojili, aby zlepšili simulaci výkonu pro technologii FDM.",
+      "Cílem spolupráce je zlepšit přesnost a spolehlivost 3D tištěných dílů pomocí pokročilých simulačních technik."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Stratasys",
+      "Novineer"
+    ]
+  },
+  {
+    "title": "Od nákupu k výrobě: Sázka Pentagonu na kapacitu ve výši 1 miliardy USD",
+    "summary": "<p>Charles R. Goulding and Nimra Shakoor explain how L3Harris’ decades-long commitment to 3D printing helped position it at the center of a new government-backed model for defense readiness.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/948466856/0/fabbaloo/default~From-Procurement-to-Production-The-Pentagon%e2%80%99s-US-Billion-Bet-on-Capacity\" rel=\"nofollow\">From Procurement to Production: The Pentagon’s US$1 Billion Bet on Capacity</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://feeds.fabbaloo.com/~/i/948466856/0/fabbaloo/default",
+    "source": "Fabbaloo",
+    "published": "2026-02-25T12:13:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/948466856/0/fabbaloo/default~From-Procurement-to-Production-The-Pentagon%e2%80%99s-US-Billion-Bet-on-Capacity",
+    "title_en": "From Procurement to Production: The Pentagon’s US$1 Billion Bet on Capacity",
+    "summary_bullets_en": [
+      "L3Harris has been a long-term advocate of 3D printing, which has positioned it as a key player in a new defense readiness model.",
+      "The Pentagon is investing US$1 billion to enhance production capacity through advanced manufacturing technologies.",
+      "This initiative aims to shift from traditional procurement to a more agile production approach in defense."
+    ],
+    "summary_bullets_cs": [
+      "L3Harris je dlouhodobým zastáncem 3D tisku, což mu umožnilo stát se klíčovým hráčem v novém modelu obranné připravenosti.",
+      "Pentagon investuje 1 miliardu USD do zvýšení výrobní kapacity prostřednictvím pokročilých výrobních technologií.",
+      "Tato iniciativa má za cíl přejít od tradičního nákupu k agilnějšímu přístupu k výrobě v oblasti obrany."
+    ],
+    "tags": [
+      "Hardware",
+      "L3Harris",
+      "Defense",
+      "3D Printing",
+      "Pentagon"
+    ]
+  },
+  {
     "title": "Multimodální fúze senzorů AI cílí na chyby v 3D tisku",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/948460574/0/fabbaloo/default~Multimodal-AI-Sensor-Fusion-Targets-D-Print-Faults\" rel=\"nofollow\" title=\"Multimodal AI Sensor Fusion Targets 3D Print Faults\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/Multimodal-AI-Sensor-cover-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have proposed a multimodal sensor fusion approach to AI-based fault detection in 3D printing, aiming to push AM monitoring closer to reliable, Industry 4.0 operation.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/948460574/0/fabbaloo/default~Multimodal-AI-Sensor-Fusion-Targets-D-Print-Faults\" rel=\"nofollow\">Multimodal AI Sensor Fusion Targets 3D Print Faults</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/Multimodal-AI-Sensor-cover-300x225.jpg",
