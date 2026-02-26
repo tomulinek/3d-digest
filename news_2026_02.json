@@ -1,5 +1,33 @@
 [
   {
+    "title": "Výzkumníci z MIT vyvinuli 3D tiskárnu pro více materiálů určenou pro elektrické motory",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/mit-researchers-develop-multi-material-3d-printer-for-electric-motors/\" target=\"_blank\">MIT Researchers Develop Multi-Material 3D Printer for Electric Motors</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">February 26</span></div><div><img alt=\"MIT Researchers Develop Multi-Material 3D Printer for Electric Motors\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/86479484-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/86479484-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-02-26T05:43:22+00:00",
+    "url": "https://3dprinting.com/news/mit-researchers-develop-multi-material-3d-printer-for-electric-motors/",
+    "title_en": "MIT Researchers Develop Multi-Material 3D Printer for Electric Motors",
+    "summary_bullets_en": [
+      "MIT researchers have developed a new multi-material 3D printer.",
+      "The printer is designed specifically for manufacturing electric motors.",
+      "This innovation allows for the integration of different materials in a single print.",
+      "The technology aims to improve the efficiency and performance of electric motors."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z MIT vyvinuli novou 3D tiskárnu pro více materiálů.",
+      "Tiskárna je navržena speciálně pro výrobu elektrických motorů.",
+      "Tato inovace umožňuje integraci různých materiálů v jednom tisku.",
+      "Technologie má za cíl zlepšit účinnost a výkon elektrických motorů."
+    ],
+    "tags": [
+      "Hardware",
+      "MIT",
+      "3D Printing",
+      "Electric Motors",
+      "Multi-Material"
+    ]
+  },
+  {
     "title": "Prusa uvádí vysoce abrazivní PETG Ultraglow Green",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/948492482/0/fabbaloo/default~Prusa-Launches-Highly-Abrasive-PETG-Ultraglow-Green\" rel=\"nofollow\" title=\"Prusa Launches Highly Abrasive PETG Ultraglow Green\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/prusa-petg-glow-cover-300x246.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prusa has introduced Prusament PETG Ultraglow Green, a glow filament it claims is the brightest on the market — with a major concern for wear on hardware.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/948492482/0/fabbaloo/default~Prusa-Launches-Highly-Abrasive-PETG-Ultraglow-Green\" rel=\"nofollow\">Prusa Launches Highly Abrasive PETG Ultraglow Green</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/prusa-petg-glow-cover-300x246.jpg",
