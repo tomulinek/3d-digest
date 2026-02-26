@@ -1,5 +1,57 @@
 [
   {
+    "title": "Reinforcement Learning zkrotí síly odlupování DLP pro křehké výtisky",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/948543851/0/fabbaloo/default~Reinforcement-Learning-Tames-DLP-Peel-Forces-For-Fragile-Prints\" rel=\"nofollow\" title=\"Reinforcement Learning Tames DLP Peel Forces For Fragile Prints\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/peel-forces-paper-cover-1-300x225.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new research paper proposes geometry adaptive reinforcement learning to reduce peel forces in Digital Light Processing (DLP) resin printing to save fragile features and increase lift success for resin workflows.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/948543851/0/fabbaloo/default~Reinforcement-Learning-Tames-DLP-Peel-Forces-For-Fragile-Prints\" rel=\"nofollow\">Reinforcement Learning Tames DLP Peel Forces For Fragile Prints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/peel-forces-paper-cover-1-300x225.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-02-26T09:05:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/948543851/0/fabbaloo/default~Reinforcement-Learning-Tames-DLP-Peel-Forces-For-Fragile-Prints",
+    "title_en": "Reinforcement Learning Tames DLP Peel Forces For Fragile Prints",
+    "summary_bullets_en": [
+      "A new research paper introduces geometry adaptive reinforcement learning to minimize peel forces in DLP resin printing.",
+      "The approach aims to preserve fragile features and improve lift success in resin workflows.",
+      "This method could enhance the reliability and quality of prints with delicate structures."
+    ],
+    "summary_bullets_cs": [
+      "Nový výzkumný článek představuje geometrií adaptivní reinforcement learning pro minimalizaci sil odlupování v DLP tisku z pryskyřice.",
+      "Tento přístup má za cíl zachovat křehké prvky a zlepšit úspěšnost zvedání v pracovních postupech s pryskyřicí.",
+      "Tato metoda by mohla zlepšit spolehlivost a kvalitu výtisků s jemnými strukturami."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "DLP",
+      "Reinforcement Learning",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Bambu Lab A1 používán k přímému 3D tisku měděných elektrolyticky pokovených dílů",
+    "summary": "Maker Dzingof was doing tonnes of electroplating of desktop and other 3D prints years ago with his Metalizzr project. I&#8217;ve been playing, a lot less successfully, with electroplated 3D prints...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/admt70854-fig-0008-m.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-26T08:00:40+00:00",
+    "url": "https://3dprint.com/324156/bambu-lab-a1-used-to-directly-3d-print-copper-electroplated-parts/",
+    "title_en": "Bambu Lab A1 Used to Directly 3D Print Copper Electroplated Parts",
+    "summary_bullets_en": [
+      "Maker Dzingof previously worked extensively on electroplating 3D prints with his Metalizzr project.",
+      "The author has been experimenting with electroplated 3D prints, albeit with less success.",
+      "The Bambu Lab A1 is being used to directly 3D print parts that are then electroplated with copper."
+    ],
+    "summary_bullets_cs": [
+      "Tvůrce Dzingof se dříve intenzivně věnoval elektrolytické pokovování 3D tisků v rámci svého projektu Metalizzr.",
+      "Autor experimentoval s elektrolyticky pokovenými 3D tisky, ale s menším úspěchem.",
+      "Bambu Lab A1 je používán k přímému 3D tisku dílů, které jsou následně pokoveny mědí."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing",
+      "Electroplating",
+      "Copper"
+    ]
+  },
+  {
     "title": "Výzkumníci z MIT vyvinuli 3D tiskárnu pro více materiálů určenou pro elektrické motory",
     "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/mit-researchers-develop-multi-material-3d-printer-for-electric-motors/\" target=\"_blank\">MIT Researchers Develop Multi-Material 3D Printer for Electric Motors</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">February 26</span></div><div><img alt=\"MIT Researchers Develop Multi-Material 3D Printer for Electric Motors\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/86479484-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
     "image": "https://3dprinting.com/wp-content/uploads/86479484-500x500.jpg",
