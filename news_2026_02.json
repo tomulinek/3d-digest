@@ -1,5 +1,57 @@
 [
   {
+    "title": "Novinky z 3D tisku, 28. února 2026: Obchodní partner, Holografický 3D tisk a další",
+    "summary": "We&#8217;re kicking off today&#8217;s 3D Printing News Briefs with some business news, as Meltio has announced a sales partner in the U.S. and Immensa has joined Shell&#8217;s Energy Transition Campus....",
+    "image": "https://3dprint.com/wp-content/uploads/2026/02/1-1-scaled.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-02-28T13:30:20+00:00",
+    "url": "https://3dprint.com/324214/3d-printing-news-briefs-2-28-2026/",
+    "title_en": "3D Printing News Briefs, February 28, 2026: Sales Partner, Holographic 3D Printing, & More",
+    "summary_bullets_en": [
+      "Meltio has announced a new sales partner in the United States.",
+      "Immensa has joined Shell's Energy Transition Campus.",
+      "Developments in holographic 3D printing technology are highlighted."
+    ],
+    "summary_bullets_cs": [
+      "Meltio oznámilo nového obchodního partnera ve Spojených státech.",
+      "Immensa se připojila k Shell's Energy Transition Campus.",
+      "Jsou zdůrazněny pokroky v technologii holografického 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Meltio",
+      "Immensa",
+      "Shell",
+      "Holographic 3D Printing"
+    ]
+  },
+  {
+    "title": "Od tržních překážek k měřené obnově: Bod zlomu AM v roce 2026",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/948761342/0/fabbaloo/default~From-Market-Headwinds-to-Measured-Recovery-AM%e2%80%99s-Inflection-Point\" rel=\"nofollow\" title=\"From Market Headwinds to Measured Recovery: AM’s 2026 Inflection Point\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/AMS-1-300x280.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi explain how manufacturing fundamentals, AI-driven design, and a renewed focus on reliability and workflow integration are defining the industry’s next phase.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/948761342/0/fabbaloo/default~From-Market-Headwinds-to-Measured-Recovery-AM%e2%80%99s-Inflection-Point\" rel=\"nofollow\">From Market Headwinds to Measured Recovery: AM’s 2026 Inflection Point</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/AMS-1-300x280.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-02-28T13:02:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/948761342/0/fabbaloo/default~From-Market-Headwinds-to-Measured-Recovery-AM%e2%80%99s-Inflection-Point",
+    "title_en": "From Market Headwinds to Measured Recovery: AM’s 2026 Inflection Point",
+    "summary_bullets_en": [
+      "The article discusses the transition of the additive manufacturing (AM) industry towards recovery by 2026.",
+      "Key factors include manufacturing fundamentals, AI-driven design, and enhanced reliability and workflow integration.",
+      "The industry is focusing on overcoming market challenges and leveraging new technologies for growth."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá přechodem průmyslu aditivní výroby (AM) k obnově do roku 2026.",
+      "Klíčovými faktory jsou výrobní základy, design řízený umělou inteligencí a zvýšená spolehlivost a integrace pracovních postupů.",
+      "Průmysl se zaměřuje na překonávání tržních výzev a využívání nových technologií pro růst."
+    ],
+    "tags": [
+      "Hardware",
+      "AI-driven Design",
+      "Workflow Integration",
+      "Manufacturing Fundamentals",
+      "Recovery"
+    ]
+  },
+  {
     "title": "Stratasys patentuje modelovací materiály PolyJet s nízkou teplotou",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/948730373/0/fabbaloo/default~Stratasys-Patents-Low-Temperature-PolyJet-Modeling-Materials\" rel=\"nofollow\" title=\"Stratasys Patents Low Temperature PolyJet Modeling Materials\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2022/08/stratasys-color-textile-1-300x225.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Stratasys has filed a patent that targets a surprising bottleneck in PolyJet 3D printing: the need to run hot just to keep materials jettable.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/948730373/0/fabbaloo/default~Stratasys-Patents-Low-Temperature-PolyJet-Modeling-Materials\" rel=\"nofollow\">Stratasys Patents Low Temperature PolyJet Modeling Materials</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2022/08/stratasys-color-textile-1-300x225.jpeg",
