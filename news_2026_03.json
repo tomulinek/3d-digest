@@ -1,5 +1,56 @@
 [
   {
+    "title": "Fúze senzorů s AI zvyšuje detekci chyb v 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/949356953/0/fabbaloo/default~AI-Sensor-Fusion-Boosts-D-Printing-Fault-Detection\" rel=\"nofollow\" title=\"AI Sensor Fusion Boosts 3D Printing Fault Detection\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/fusion-sensor-cover-300x216.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>New research describes multimodal sensor fusion for AI-based fault detection in 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/949356953/0/fabbaloo/default~AI-Sensor-Fusion-Boosts-D-Printing-Fault-Detection\" rel=\"nofollow\">AI Sensor Fusion Boosts 3D Printing Fault Detection</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/fusion-sensor-cover-300x216.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-03T09:08:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/949356953/0/fabbaloo/default~AI-Sensor-Fusion-Boosts-D-Printing-Fault-Detection",
+    "title_en": "AI Sensor Fusion Boosts 3D Printing Fault Detection",
+    "summary_bullets_en": [
+      "New research explores the use of multimodal sensor fusion for AI-based fault detection in 3D printing.",
+      "The approach combines data from multiple sensors to improve the accuracy of fault detection.",
+      "This technology aims to enhance the reliability and quality of 3D printed products."
+    ],
+    "summary_bullets_cs": [
+      "Nový výzkum zkoumá využití multimodální fúze senzorů pro detekci chyb v 3D tisku pomocí AI.",
+      "Tento přístup kombinuje data z více senzorů pro zlepšení přesnosti detekce chyb.",
+      "Technologie si klade za cíl zvýšit spolehlivost a kvalitu 3D tištěných produktů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "3D Printing",
+      "AI",
+      "Sensor Fusion"
+    ]
+  },
+  {
+    "title": "AML3D hlásí rekordní objednávky ve výši 16,5 milionu AUD díky rozšíření práce pro americkou obranu",
+    "summary": "Australian metal additive manufacturing firm AML3D (ASX: AL3) has reported approximately A$16.5 million ($11.7 million) in orders in hand in its half-year results for the period ending December 31, 2025,...",
+    "image": "https://3dprint.com/wp-content/uploads/2024/04/2023-11-06-AML3D-wins-2.5m-contract-1024640.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-03T08:00:39+00:00",
+    "url": "https://3dprint.com/324287/aml3d-reports-record-a16-5m-in-orders-as-u-s-defense-work-expands/",
+    "title_en": "AML3D Reports Record A$16.5M in Orders as U.S. Defense Work Expands",
+    "summary_bullets_en": [
+      "AML3D, an Australian metal additive manufacturing company, has reported A$16.5 million in orders.",
+      "The orders were recorded in the company's half-year results ending December 31, 2025.",
+      "The increase in orders is attributed to the expansion of work with the U.S. defense sector."
+    ],
+    "summary_bullets_cs": [
+      "Australská firma pro kovový aditivní tisk AML3D oznámila objednávky ve výši 16,5 milionu AUD.",
+      "Objednávky byly zaznamenány ve výsledcích společnosti za pololetí končící 31. prosince 2025.",
+      "Nárůst objednávek je přičítán rozšíření práce s americkým obranným sektorem."
+    ],
+    "tags": [
+      "Hardware",
+      "AML3D",
+      "Defense",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "CollPlant cílí na úzké hrdlo formulace s novou sadou pro DLP biotisk",
     "summary": "Regenerative medicine specialist CollPlant has launched BioFlex, a ready-to-print bioprinting kit built on rh-collagen, aimed at researchers working on tissue engineering and regenerative medicine. The kit is designed for Digital Light Processing (DLP) bioprinting and targets two applications: tissue model biofabrication for drug discovery, and the development of engineered tissues and transplantable organs. It comes [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/f6e374c880374b92f6aa0e963d0fd601-150x100.webp",
