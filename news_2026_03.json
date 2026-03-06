@@ -260,6 +260,32 @@
     ]
   },
   {
+    "title": "Nejlepší malé 3D skenery",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/best-small-format-3d-scanners/\" target=\"_blank\">Best Small Format 3D Scanners</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">March 5</span></div><div><img alt=\"\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/CR-Scan_Ferret_SE-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/CR-Scan_Ferret_SE-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2026-03-05T12:34:23+00:00",
+    "url": "https://3dprinting.com/news/best-small-format-3d-scanners/",
+    "title_en": "Best Small Format 3D Scanners",
+    "summary_bullets_en": [
+      "The article reviews the top small format 3D scanners available in the market.",
+      "It highlights the features and capabilities of each scanner, focusing on accuracy and ease of use.",
+      "The article provides insights into the best applications for each scanner model.",
+      "It includes a comparison of price points and value for money."
+    ],
+    "summary_bullets_cs": [
+      "Článek recenzuje nejlepší malé 3D skenery dostupné na trhu.",
+      "Zaměřuje se na vlastnosti a schopnosti každého skeneru, s důrazem na přesnost a snadnost použití.",
+      "Článek poskytuje přehled o nejlepších aplikacích pro každý model skeneru.",
+      "Obsahuje srovnání cenových hladin a poměru cena/výkon."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Scanners",
+      "CR-Scan Ferret"
+    ]
+  },
+  {
     "title": "SOLen: 3D tištěný měkký optický senzor pro mechanosenzoriku",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/949576898/0/fabbaloo/default~SOLen-D-Printed-Soft-Optical-Sensor-For-Mechanosensing\" rel=\"nofollow\" title=\"SOLen 3D Printed Soft Optical Sensor For Mechanosensing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/solen-cover-300x193.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers unveiled SOLen, a 3D printed soft optical sensor that guides light with an internal lens for mechanosensing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/949576898/0/fabbaloo/default~SOLen-D-Printed-Soft-Optical-Sensor-For-Mechanosensing\" rel=\"nofollow\">SOLen 3D Printed Soft Optical Sensor For Mechanosensing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/solen-cover-300x193.jpg",
