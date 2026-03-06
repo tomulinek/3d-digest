@@ -1,5 +1,108 @@
 [
   {
+    "title": "O čem skutečně je základní konference AM na RAPID + TCT",
+    "summary": "Ask anyone who has attended RAPID + TCT across multiple years what keeps them coming back, and the answers converge on the same thing: the calibre of conversation the event makes possible. Engineers talk to executives. Researchers talk to operators. People who rarely share a room find themselves sharing a problem.&#160; The newly introduced Essential [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/SME-RapidTCT-2025_0092-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-06T09:41:28+00:00",
+    "url": "https://3dprintingindustry.com/news/what-rapid-tcts-essential-am-conference-track-is-really-about-249641/?utm_source=rss&utm_medium=rss&utm_campaign=what-rapid-tcts-essential-am-conference-track-is-really-about",
+    "title_en": "What RAPID + TCT’s Essential AM Conference Track Is Really About",
+    "summary_bullets_en": [
+      "RAPID + TCT is renowned for facilitating high-caliber conversations among diverse industry professionals.",
+      "The event fosters interactions between engineers, executives, researchers, and operators.",
+      "The newly introduced Essential AM Conference Track enhances these valuable exchanges."
+    ],
+    "summary_bullets_cs": [
+      "RAPID + TCT je známý tím, že umožňuje vysoce kvalitní rozhovory mezi různými odborníky z oboru.",
+      "Akce podporuje interakce mezi inženýry, vedoucími pracovníky, výzkumníky a operátory.",
+      "Nově zavedená základní konference AM posiluje tyto cenné výměny."
+    ],
+    "tags": [
+      "Hardware",
+      "Conference",
+      "RAPID + TCT",
+      "AM Conference"
+    ]
+  },
+  {
+    "title": "Bioinspirovaný AM zvyšuje tuhost a senzoriku robotických končetin",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/949624295/0/fabbaloo/default~Bioinspired-AM-Boosts-Robotic-Limb-Stiffness-And-Sensing\" rel=\"nofollow\" title=\"Bioinspired AM Boosts Robotic Limb Stiffness And Sensing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/bioinspired-leg-cover-300x148.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new paper in Bioinspiration &#038; Biomimetics describes a bioinspired, additive approach for robotic limbs that increases structural stiffness while improving built-in strain sensing, hinting at lighter, smarter actuators and manipulators with fewer add-ons and less wiring.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/949624295/0/fabbaloo/default~Bioinspired-AM-Boosts-Robotic-Limb-Stiffness-And-Sensing\" rel=\"nofollow\">Bioinspired AM Boosts Robotic Limb Stiffness And Sensing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/bioinspired-leg-cover-300x148.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-06T09:23:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/949624295/0/fabbaloo/default~Bioinspired-AM-Boosts-Robotic-Limb-Stiffness-And-Sensing",
+    "title_en": "Bioinspired AM Boosts Robotic Limb Stiffness And Sensing",
+    "summary_bullets_en": [
+      "A new bioinspired additive manufacturing approach enhances the stiffness of robotic limbs.",
+      "The method also improves built-in strain sensing capabilities.",
+      "This innovation suggests the development of lighter, smarter actuators and manipulators.",
+      "The approach reduces the need for additional components and wiring."
+    ],
+    "summary_bullets_cs": [
+      "Nový bioinspirovaný přístup v aditivní výrobě zvyšuje tuhost robotických končetin.",
+      "Metoda také zlepšuje schopnosti vestavěného snímání napětí.",
+      "Tato inovace naznačuje vývoj lehčích a chytřejších akčních členů a manipulátorů.",
+      "Přístup snižuje potřebu dalších komponent a kabeláže."
+    ],
+    "tags": [
+      "Hardware",
+      "Bioinspiration",
+      "Robotics",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Incodema3D koupena AFM Capital — Co to znamená pro kovový 3D tisk",
+    "summary": "Leading service bureau Incodema3D has been bought by AFM Capital. New York-based Incodema3D is one of the largest metal 3D printing services and contract manufacturers in the US. Specialized in...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/03/careersb-header-bkgrnd-1440-1024x768.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-06T08:38:16+00:00",
+    "url": "https://3dprint.com/324405/incodema3d-bought-by-afm-capital-analysis/",
+    "title_en": "Incodema3D Bought By AFM Capital — What It Means for Metal AM",
+    "summary_bullets_en": [
+      "AFM Capital has acquired Incodema3D, a leading metal 3D printing service bureau.",
+      "Incodema3D is based in New York and is one of the largest metal 3D printing services in the US.",
+      "The acquisition could impact the landscape of metal additive manufacturing (AM) services."
+    ],
+    "summary_bullets_cs": [
+      "AFM Capital koupila Incodema3D, přední službu v oblasti kovového 3D tisku.",
+      "Incodema3D sídlí v New Yorku a je jednou z největších služeb kovového 3D tisku v USA.",
+      "Tato akvizice by mohla ovlivnit oblast služeb kovového aditivního tisku."
+    ],
+    "tags": [
+      "Services",
+      "Incodema3D",
+      "AFM Capital",
+      "Metal AM"
+    ]
+  },
+  {
+    "title": "Projekt UltraGRAIN Fraunhofer umožňuje kontrolu mikrostruktury během procesu kovového 3D tisku",
+    "summary": "Researchers from the Fraunhofer-Gesellschaft and RMIT University have demonstrated a method to control the grain structure of metal components during additive manufacturing (AM). The work was carried out within the UltraGRAIN research project, which focused on laser-based directed energy deposition (DED-LB). The project concluded on February 25, 2026, following a final partner meeting in Dresden. [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/image-2-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-03-06T06:14:47+00:00",
+    "url": "https://3dprintingindustry.com/news/fraunhofers-ultragrain-project-enables-in-process-microstructure-control-for-metal-am-249630/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofers-ultragrain-project-enables-in-process-microstructure-control-for-metal-am",
+    "title_en": "Fraunhofer’s UltraGRAIN project enables in-process microstructure control for metal AM",
+    "summary_bullets_en": [
+      "Researchers from Fraunhofer-Gesellschaft and RMIT University developed a method to control metal grain structure during additive manufacturing.",
+      "The method was part of the UltraGRAIN project, focusing on laser-based directed energy deposition (DED-LB).",
+      "The project concluded on February 25, 2026, with a final meeting in Dresden."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Fraunhofer-Gesellschaft a RMIT University vyvinuli metodu pro kontrolu struktury zrn kovu během aditivní výroby.",
+      "Metoda byla součástí projektu UltraGRAIN, zaměřeného na laserovou depozici energie (DED-LB).",
+      "Projekt byl ukončen 25. února 2026 po závěrečném setkání partnerů v Drážďanech."
+    ],
+    "tags": [
+      "Hardware",
+      "Fraunhofer",
+      "RMIT University",
+      "UltraGRAIN",
+      "DED-LB"
+    ]
+  },
+  {
     "title": "Praktické zkušenosti s desktopovou 3D tiskárnou Kobra X, část 3",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/949585415/0/fabbaloo/default~Hands-On-with-the-Kobra-X-Desktop-D-Printer-Part\" rel=\"nofollow\" title=\"Hands On with the Kobra X Desktop 3D Printer, Part 3\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/00-kobra-x-cover4-1-300x169.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>My review of the Kobra X desktop 3D printer from Anycubic concludes with a look at software, print results and final thoughts. This is part three of a three-part series; please read parts one and two. Anycubic Kobra X Software It is time to add the Anycubic app to my phone and desktop slicer to&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/949585415/0/fabbaloo/default~Hands-On-with-the-Kobra-X-Desktop-D-Printer-Part\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">Hands On with the Kobra X Desktop 3D Printer, Part 3</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/949585415/0/fabbaloo/default~Hands-On-with-the-Kobra-X-Desktop-D-Printer-Part\" rel=\"nofollow\">Hands On with the Kobra X Desktop 3D Printer, Part 3</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/00-kobra-x-cover4-1-300x169.jpeg",
