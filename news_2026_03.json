@@ -1,5 +1,193 @@
 [
   {
+    "title": "Dohoda Pete Pharma s Atrium24 naznačuje cestu k širší komercializaci 3D tištěných léků",
+    "summary": "While I would guess we’re still probably at least several years away from 3D printed drugs being a commonplace reality, the growing number of companies with proprietary additive manufacturing (AM)...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/02/1-s2.0-S0378517325000870-gr1_lrg.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-09T12:00:07+00:00",
+    "url": "https://3dprint.com/324426/pete-pharma-atrium24-signals-path-for-broader-3d-printed-drug-commercialization/",
+    "title_en": "Pete Pharma Deal with Atrium24 Signals Path for Broader 3D Printed Drug Commercialization",
+    "summary_bullets_en": [
+      "Pete Pharma has entered into a partnership with Atrium24 to advance the commercialization of 3D printed drugs.",
+      "The collaboration aims to leverage proprietary additive manufacturing technologies for pharmaceutical applications.",
+      "Despite the progress, widespread adoption of 3D printed drugs is still several years away."
+    ],
+    "summary_bullets_cs": [
+      "Pete Pharma uzavřela partnerství s Atrium24 za účelem pokroku v komercializaci 3D tištěných léků.",
+      "Spolupráce má za cíl využít proprietární technologie aditivní výroby pro farmaceutické aplikace.",
+      "Navzdory pokroku je široké přijetí 3D tištěných léků stále několik let vzdálené."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Pete Pharma",
+      "Atrium24",
+      "3D Printing",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "title": "E3D aktualizuje patentový závazek, nyní cílí na komerční porušování",
+    "summary": "Oxford-based 3D printer components manufacturer E3D Online has revised its patent policy, drawing a clear line between free use for hobbyists and researchers and licensed use for commercial manufacturers. The Oxford-based manufacturer holds granted patents in the UK, Europe, China, and the United States covering three of its core technologies: the Revo hotend system, a [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/02/Blog_Header_Images_17_bfdeabdc-3e82-4cfe-b170-d634e242d46e-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-03-09T11:08:13+00:00",
+    "url": "https://3dprintingindustry.com/news/e3d-updates-patent-pledge-now-targeting-commercial-infringement-249682/?utm_source=rss&utm_medium=rss&utm_campaign=e3d-updates-patent-pledge-now-targeting-commercial-infringement",
+    "title_en": "E3D Updates Patent Pledge Now Targeting Commercial Infringement",
+    "summary_bullets_en": [
+      "E3D Online has revised its patent policy to differentiate between free use for hobbyists and licensed use for commercial manufacturers.",
+      "The company holds patents in the UK, Europe, China, and the US for its core technologies.",
+      "The updated policy aims to protect E3D's innovations while allowing non-commercial use."
+    ],
+    "summary_bullets_cs": [
+      "E3D Online revidovala svou patentovou politiku, aby rozlišila mezi volným užitím pro nadšence a licencovaným užitím pro komerční výrobce.",
+      "Společnost drží patenty ve Velké Británii, Evropě, Číně a USA pro své klíčové technologie.",
+      "Aktualizovaná politika má za cíl chránit inovace E3D a zároveň umožnit nekomerční užití."
+    ],
+    "tags": [
+      "Hardware",
+      "E3D",
+      "Patent Policy",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Trh ve tvaru koblihy: Yoav Zeif ze Stratasysu načrtává další fázi aditivní výroby na AMS 2026",
+    "summary": "Not obvious that Yoav Zeif would open by thanking the audience for braving the New York snow and market turbulence to reach this year’s AMS event*, but that was his starting point. “Another challenging year in the industry. I don’t know if you felt it. I felt it,” the Stratasys chief executive said, before arguing [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2019/12/YoavZeif1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-09T10:29:21+00:00",
+    "url": "https://3dprintingindustry.com/news/a-donut-shaped-market-stratasys-yoav-zeif-outlines-additives-next-phase-at-ams-2026-249689/?utm_source=rss&utm_medium=rss&utm_campaign=a-donut-shaped-market-stratasys-yoav-zeif-outlines-additives-next-phase-at-ams-2026",
+    "title_en": "A Donut-shaped Market: Stratasys’ Yoav Zeif outlines Additive’s Next Phase at AMS 2026",
+    "summary_bullets_en": [
+      "Yoav Zeif, CEO of Stratasys, opened his speech at AMS 2026 by acknowledging the challenges faced by the industry, including market turbulence and harsh weather conditions.",
+      "Zeif emphasized the resilience of the additive manufacturing sector despite these challenges.",
+      "He outlined the next phase of growth and innovation for the industry, focusing on new opportunities and strategies."
+    ],
+    "summary_bullets_cs": [
+      "Yoav Zeif, generální ředitel Stratasysu, zahájil svůj projev na AMS 2026 uznáním výzev, kterým čelí průmysl, včetně tržních turbulencí a nepříznivých povětrnostních podmínek.",
+      "Zeif zdůraznil odolnost sektoru aditivní výroby navzdory těmto výzvám.",
+      "Načrtl další fázi růstu a inovací pro průmysl, zaměřenou na nové příležitosti a strategie."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "AMS 2026",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "DMG MORI Federal Services získává grant DOE HPC4Mfg na optimalizaci laserového práškového lože pomocí superpočítačů",
+    "summary": "DMG MORI Federal Services has received a $400,000 grant from the U.S. Department of Energy (DOE) under the High-Performance Computing for Manufacturing (HPC4Mfg) program to improve process optimization in laser powder bed fusion (LPBF) additive manufacturing. The project, announced on February 23, 2026, will be conducted in collaboration with Oak Ridge National Laboratory (ORNL) and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/image-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-09T10:22:59+00:00",
+    "url": "https://3dprintingindustry.com/news/dmg-mori-federal-services-secures-doe-hpc4mfg-grant-to-optimize-laser-powder-bed-fusion-using-supercomputing-249678/?utm_source=rss&utm_medium=rss&utm_campaign=dmg-mori-federal-services-secures-doe-hpc4mfg-grant-to-optimize-laser-powder-bed-fusion-using-supercomputing",
+    "title_en": "DMG MORI Federal Services secures DOE HPC4Mfg grant to optimize laser powder bed fusion using supercomputing",
+    "summary_bullets_en": [
+      "DMG MORI Federal Services has been awarded a $400,000 grant from the U.S. Department of Energy.",
+      "The grant is part of the High-Performance Computing for Manufacturing (HPC4Mfg) program.",
+      "The project aims to enhance process optimization in laser powder bed fusion additive manufacturing.",
+      "Collaboration will take place with Oak Ridge National Laboratory (ORNL)."
+    ],
+    "summary_bullets_cs": [
+      "DMG MORI Federal Services obdržela grant ve výši 400 000 dolarů od Ministerstva energetiky USA.",
+      "Grant je součástí programu High-Performance Computing for Manufacturing (HPC4Mfg).",
+      "Projekt má za cíl zlepšit optimalizaci procesů v aditivní výrobě s použitím laserového práškového lože.",
+      "Spolupráce proběhne s Oak Ridge National Laboratory (ORNL)."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "DMG MORI",
+      "Oak Ridge National Laboratory",
+      "DOE",
+      "HPC4Mfg"
+    ]
+  },
+  {
+    "title": "Zelená aditivní výroba pro cirkulární zdravotnické prostředky",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/949818629/0/fabbaloo/default~Green-Additive-Manufacturing-For-Circular-Medical-Devices\" rel=\"nofollow\" title=\"Green Additive Manufacturing For Circular Medical Devices\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/green-med-cover-300x161.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers detailed a roadmap for a greener additive manufacturing of medical devices and explain how circularity could change from merely an idea to a regular practice.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/949818629/0/fabbaloo/default~Green-Additive-Manufacturing-For-Circular-Medical-Devices\" rel=\"nofollow\">Green Additive Manufacturing For Circular Medical Devices</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/green-med-cover-300x161.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-09T08:24:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/949818629/0/fabbaloo/default~Green-Additive-Manufacturing-For-Circular-Medical-Devices",
+    "title_en": "Green Additive Manufacturing For Circular Medical Devices",
+    "summary_bullets_en": [
+      "Researchers have developed a roadmap for implementing greener additive manufacturing in the production of medical devices.",
+      "The focus is on transitioning circularity from a theoretical concept to a standard practice in the industry.",
+      "The approach aims to reduce environmental impact while maintaining the efficiency and effectiveness of medical device production."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vytvořili plán pro zavedení ekologičtější aditivní výroby ve výrobě zdravotnických prostředků.",
+      "Zaměřují se na přechod od teoretického konceptu cirkularity k běžné praxi v průmyslu.",
+      "Přístup má za cíl snížit dopad na životní prostředí při zachování efektivity a účinnosti výroby zdravotnických prostředků."
+    ],
+    "tags": [
+      "Hardware",
+      "Medical Devices",
+      "Sustainability",
+      "Circular Economy",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Norsk Titanium a Airbus podepsali dohodu o spolupráci na technologii RPD",
+    "summary": "Norsk Titanium has signed a collaboration agreement with Airbus. The two firms will deepen their understanding for Norsk&#8217;s RPD (Rapid Plasma Deposition) DED technology. This is a good step forward...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/03/airbusded-1024x505.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-09T07:30:03+00:00",
+    "url": "https://3dprint.com/324359/norsk-titanium-and-airbus-sign-collaboration-agreement/",
+    "title_en": "Norsk Titanium and Airbus Sign Collaboration Agreement for RPD Technology",
+    "summary_bullets_en": [
+      "Norsk Titanium has entered into a collaboration agreement with Airbus.",
+      "The partnership focuses on Norsk's Rapid Plasma Deposition (RPD) technology.",
+      "Both companies aim to deepen their understanding of RPD technology.",
+      "This collaboration marks a significant step forward in aerospace manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Norsk Titanium uzavřel dohodu o spolupráci s Airbusem.",
+      "Partnerství se zaměřuje na technologii Rapid Plasma Deposition (RPD) od Norsk.",
+      "Obě společnosti chtějí prohloubit své znalosti o technologii RPD.",
+      "Tato spolupráce představuje významný krok vpřed ve výrobě pro letecký průmysl."
+    ],
+    "tags": [
+      "Hardware",
+      "Norsk Titanium",
+      "Airbus",
+      "RPD Technology",
+      "Aerospace"
+    ]
+  },
+  {
+    "title": "Přechod k byznysu na AMS 2026: Revoluce stolních tiskáren, trh se zubními produkty a další",
+    "summary": "At the recent Additive Manufacturing Strategies (AMS) 2026 in blizzard-stricken New York City, those who were able to make it through the wind and snow got right down to business....",
+    "image": "https://3dprint.com/wp-content/uploads/2026/03/Screenshot-2026-03-04-at-7.28.31-PM.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-09T07:00:23+00:00",
+    "url": "https://3dprint.com/324047/getting-down-to-business-at-ams-2026-desktop-revolution-dental-market-more/",
+    "title_en": "Getting Down to Business at AMS 2026: Desktop Revolution, Dental Market & More",
+    "summary_bullets_en": [
+      "The AMS 2026 event in New York City focused on the latest trends and innovations in additive manufacturing.",
+      "Despite challenging weather conditions, attendees discussed the impact of desktop 3D printing on various industries.",
+      "The dental market was highlighted as a significant area of growth and opportunity for 3D printing technologies.",
+      "Key industry players and experts shared insights on the future of additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Událost AMS 2026 v New Yorku se zaměřila na nejnovější trendy a inovace v oblasti aditivní výroby.",
+      "Navzdory náročným povětrnostním podmínkám účastníci diskutovali o dopadu stolního 3D tisku na různé průmysly.",
+      "Trh se zubními produkty byl zdůrazněn jako významná oblast růstu a příležitostí pro technologie 3D tisku.",
+      "Klíčoví hráči v průmyslu a odborníci sdíleli poznatky o budoucnosti aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Desktop 3D Printing",
+      "Dental Market",
+      "Additive Manufacturing",
+      "AMS 2026"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 8. března 2026",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/949772045/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-March\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, March 8, 2026\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/biggest-cover-300x171.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/949772045/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-March\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, March 8, 2026</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/biggest-cover-300x171.jpg",
