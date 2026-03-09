@@ -1,5 +1,264 @@
 [
   {
+    "title": "Technická recenze: Hodnocení 3D Fuel Pro PCTG pro inženýrské aplikace FDM",
+    "summary": "This article presents a technical evaluation by the 3D Printing Industry engineering team of 3D Fuel’s Pro PCTG, a high-performance thermoplastic filament developed for FDM printing. Pro PCTG is a glycol-modified copolyester engineered to deliver improved toughness, dimensional stability, chemical resistance, and lower moisture sensitivity compared to standard PET and PETG. Positioned as a functional [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/Benchmark-Test-Standard-Print-Speed--150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-03-09T17:44:56+00:00",
+    "url": "https://3dprintingindustry.com/news/technical-review-evaluating-3d-fuel-pro-pctg-for-engineering-fdm-applications-249716/?utm_source=rss&utm_medium=rss&utm_campaign=technical-review-evaluating-3d-fuel-pro-pctg-for-engineering-fdm-applications",
+    "title_en": "Technical Review: Evaluating 3D Fuel Pro PCTG for Engineering FDM Applications",
+    "summary_bullets_en": [
+      "3D Fuel’s Pro PCTG is a high-performance thermoplastic filament designed for FDM printing.",
+      "The filament is a glycol-modified copolyester offering enhanced toughness and dimensional stability.",
+      "Pro PCTG provides better chemical resistance and lower moisture sensitivity compared to standard PET and PETG."
+    ],
+    "summary_bullets_cs": [
+      "3D Fuel Pro PCTG je vysoce výkonný termoplastický filament určený pro FDM tisk.",
+      "Filament je glykol-modifikovaný kopolyester nabízející zvýšenou houževnatost a rozměrovou stabilitu.",
+      "Pro PCTG poskytuje lepší chemickou odolnost a nižší citlivost na vlhkost ve srovnání se standardními PET a PETG."
+    ],
+    "tags": [
+      "Material",
+      "3D Fuel",
+      "FDM",
+      "Pro PCTG"
+    ]
+  },
+  {
+    "title": "Kaneko Optical uvádí UROKO, novou kolekci 3D tištěných brýlí pro ISSEY MIYAKE MEN SS26",
+    "summary": "Kaneko Optical, a Japanese eyewear brand, has used 3D printing to translate the surface language of Japanese ceramics into wearable form, releasing UROKO, a new limited eyewear model for Japanese designer ISSEY MIYAKE MEN&#8217;s Spring Summer 2026 &#8220;DANCING TEXTURE&#8221; collection, where every frame is structurally and visually unique. Eight Lenses, One Ceramic Reference UROKO departs [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/Screenshot-2026-03-09-at-15.57.39-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-03-09T17:39:42+00:00",
+    "url": "https://3dprintingindustry.com/news/kaneko-optical-launches-uroko-a-new-3d-printed-eyewear-collection-for-issey-miyake-men-ss26-249704/?utm_source=rss&utm_medium=rss&utm_campaign=kaneko-optical-launches-uroko-a-new-3d-printed-eyewear-collection-for-issey-miyake-men-ss26",
+    "title_en": "Kaneko Optical Launches UROKO, a New 3D Printed Eyewear Collection for ISSEY MIYAKE MEN SS26",
+    "summary_bullets_en": [
+      "Kaneko Optical has introduced UROKO, a new eyewear collection using 3D printing technology.",
+      "The collection is part of ISSEY MIYAKE MEN's Spring Summer 2026 'DANCING TEXTURE' line.",
+      "Each eyewear frame is unique, inspired by the surface language of Japanese ceramics.",
+      "The collection features a limited edition design with a focus on structural and visual uniqueness."
+    ],
+    "summary_bullets_cs": [
+      "Kaneko Optical představilo UROKO, novou kolekci brýlí využívající technologii 3D tisku.",
+      "Kolekce je součástí jarní a letní řady 2026 'DANCING TEXTURE' od ISSEY MIYAKE MEN.",
+      "Každý rám brýlí je unikátní, inspirovaný povrchovým jazykem japonské keramiky.",
+      "Kolekce nabízí limitovanou edici designu s důrazem na strukturální a vizuální jedinečnost."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Kaneko Optical",
+      "ISSEY MIYAKE MEN",
+      "Eyewear",
+      "Japanese Ceramics"
+    ]
+  },
+  {
+    "title": "Stratasys dosahuje významného milníku spolehlivosti s průmyslovými partnery",
+    "summary": "3D printer OEM Stratasys has reported a 22% year-over-year increase in system reliability for its F900 industrial printer, the result of targeted manufacturing upgrades rolled out in 2025 alongside its industrial Customer Advisory Board (CAB). The improvements tackled production-scale obstacles directly, giving customers a stronger foundation to expand additive manufacturing into end-use parts and real-world [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/STRP050_F900_with_part_transparent_bkg-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-09T17:39:04+00:00",
+    "url": "https://3dprintingindustry.com/news/stratasys-achieves-major-reliability-milestone-with-industrial-partners-249699/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-achieves-major-reliability-milestone-with-industrial-partners",
+    "title_en": "Stratasys Achieves Major Reliability Milestone with Industrial Partners",
+    "summary_bullets_en": [
+      "Stratasys reports a 22% year-over-year increase in system reliability for its F900 industrial printer.",
+      "The improvements are a result of targeted manufacturing upgrades implemented in 2025.",
+      "The upgrades were developed in collaboration with the industrial Customer Advisory Board (CAB).",
+      "These enhancements aim to support the expansion of additive manufacturing into end-use parts."
+    ],
+    "summary_bullets_cs": [
+      "Stratasys hlásí 22% meziroční nárůst spolehlivosti systému pro svůj průmyslový tiskárnu F900.",
+      "Zlepšení jsou výsledkem cílených výrobních vylepšení zavedených v roce 2025.",
+      "Vylepšení byla vyvinuta ve spolupráci s průmyslovou poradní radou zákazníků (CAB).",
+      "Tyto vylepšení mají za cíl podpořit rozšíření aditivní výroby do koncových dílů."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "F900",
+      "Additive Manufacturing",
+      "Customer Advisory Board"
+    ]
+  },
+  {
+    "title": "Stolní 3D tiskárna QC2A přináší plnobarevný 3D tisk pod 10 000 USD",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/949846523/0/fabbaloo/default~QCA-Desktop-D-Printer-Brings-FullColor-D-Printing-Below-USK\" rel=\"nofollow\" title=\"QC2A Desktop 3D Printer Brings Full-Color 3D Printing Below US$10K\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/qc2a-cover-300x226.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>An incredibly interesting full-colour 3D printer suddenly appeared on Kickstarter.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/949846523/0/fabbaloo/default~QCA-Desktop-D-Printer-Brings-FullColor-D-Printing-Below-USK\" rel=\"nofollow\">QC2A Desktop 3D Printer Brings Full-Color 3D Printing Below US$10K</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/qc2a-cover-300x226.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-09T16:33:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/949846523/0/fabbaloo/default~QCA-Desktop-D-Printer-Brings-FullColor-D-Printing-Below-USK",
+    "title_en": "QC2A Desktop 3D Printer Brings Full-Color 3D Printing Below US$10K",
+    "summary_bullets_en": [
+      "A new full-color 3D printer, QC2A, has been launched on Kickstarter.",
+      "The printer offers full-color 3D printing capabilities at a price below US$10,000.",
+      "This development makes full-color 3D printing more accessible to a wider audience."
+    ],
+    "summary_bullets_cs": [
+      "Na Kickstarteru byla uvedena nová plnobarevná 3D tiskárna QC2A.",
+      "Tiskárna nabízí plnobarevné 3D tiskové schopnosti za cenu pod 10 000 USD.",
+      "Tento vývoj činí plnobarevný 3D tisk dostupnějším pro širší publikum."
+    ],
+    "tags": [
+      "Hardware",
+      "QC2A",
+      "3D Printing",
+      "Kickstarter",
+      "Full-Color"
+    ]
+  },
+  {
+    "title": "Creality představuje Ender-3 V4 Combo",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/949844240/0/fabbaloo/default~Creality-Introduces-Ender-V-Combo\" rel=\"nofollow\" title=\"Creality Introduces Ender-3 V4 Combo\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/ender-3-v4-cover-300x210.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Creality snuck out a new desktop 3D printer: the Ender-3 V4 Combo.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/949844240/0/fabbaloo/default~Creality-Introduces-Ender-V-Combo\" rel=\"nofollow\">Creality Introduces Ender-3 V4 Combo</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/ender-3-v4-cover-300x210.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-09T15:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/949844240/0/fabbaloo/default~Creality-Introduces-Ender-V-Combo",
+    "title_en": "Creality Introduces Ender-3 V4 Combo",
+    "summary_bullets_en": [
+      "Creality has released a new desktop 3D printer model, the Ender-3 V4 Combo.",
+      "The Ender-3 V4 Combo is a continuation of the popular Ender-3 series.",
+      "This new model offers improved features and capabilities for desktop 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Creality uvedlo na trh nový model stolní 3D tiskárny, Ender-3 V4 Combo.",
+      "Ender-3 V4 Combo je pokračováním populární série Ender-3.",
+      "Tento nový model nabízí vylepšené funkce a schopnosti pro stolní 3D tisk."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "Ender-3"
+    ]
+  },
+  {
+    "title": "Běh v kruzích",
+    "summary": "3DP War Journal #88",
+    "image": "https://substackcdn.com/image/fetch/$s_!-i8T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0331d6b4-d07d-40dc-a01e-0fc74fc11e14_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-03-09T15:03:10+00:00",
+    "url": "https://www.3dprintingjournal.com/p/running-circles",
+    "title_en": "Running circles",
+    "summary_bullets_en": [
+      "The article discusses the latest developments in the 3D printing industry.",
+      "It highlights the challenges faced by manufacturers in optimizing production processes.",
+      "The piece explores new technologies and materials that are being introduced to enhance efficiency."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá nejnovějšími událostmi v odvětví 3D tisku.",
+      "Zdůrazňuje výzvy, kterým čelí výrobci při optimalizaci výrobních procesů.",
+      "Text zkoumá nové technologie a materiály, které se zavádějí pro zvýšení efektivity."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "UltiMaker",
+      "Nikon SLM Solutions",
+      "HP"
+    ]
+  },
+  {
+    "title": "ROZHOVOR: CEO EOS Marie Langer o dalším horizontu pro průmyslový 3D tisk",
+    "summary": "Machines are growing. That much is clear from EOS, the German additive manufacturing company that has spent more than three decades pushing metal powder-bed fusion into industrial use. Those preceding decades were defined by technological possibility; the current phase is defined by institutional filtering, the slow sorting process that determines which suppliers can support aerospace, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2023/09/Marie-Langer-highlights-EOSs-Responsible-Polymer-products-at-AM-Summit-2023.-Photo-by-3D-Pirnting-Industry-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-03-09T13:33:33+00:00",
+    "url": "https://3dprintingindustry.com/news/interview-eos-ceo-marie-langer-on-next-frontier-for-industrial-3d-printing-249695/?utm_source=rss&utm_medium=rss&utm_campaign=interview-eos-ceo-marie-langer-on-next-frontier-for-industrial-3d-printing",
+    "title_en": "INTERVIEW: EOS CEO Marie Langer on Next Frontier for Industrial 3D Printing",
+    "summary_bullets_en": [
+      "EOS has been a leader in advancing metal powder-bed fusion technology for over three decades.",
+      "The current phase of industrial 3D printing focuses on institutional filtering to determine suitable suppliers for industries like aerospace.",
+      "Marie Langer discusses the growth and future potential of 3D printing in industrial applications."
+    ],
+    "summary_bullets_cs": [
+      "EOS je již více než tři desetiletí lídrem v pokroku technologie tavení kovového prášku.",
+      "Současná fáze průmyslového 3D tisku se zaměřuje na institucionální filtrování pro určení vhodných dodavatelů pro odvětví jako je letectví.",
+      "Marie Langer diskutuje o růstu a budoucím potenciálu 3D tisku v průmyslových aplikacích."
+    ],
+    "tags": [
+      "Hardware",
+      "EOS",
+      "3D Printing",
+      "Industrial",
+      "Aerospace"
+    ]
+  },
+  {
+    "title": "Pokročilý nástroj pro výběr filamentu od Polymakeru zahrnuje sladění barev a porovnání materiálů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/949834952/0/fabbaloo/default~Polymakers-Advanced-Filament-Selection-Tool-Includes-Color-Matching-and-Material-Comparison\" rel=\"nofollow\" title=\"Polymaker&#8217;s Advanced Filament Selection Tool Includes Color Matching and Material Comparison\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/polymaker-app-cover-300x207.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Anyone selecting a filament product from Polymaker can now use an incredibly powerful assistant.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/949834952/0/fabbaloo/default~Polymakers-Advanced-Filament-Selection-Tool-Includes-Color-Matching-and-Material-Comparison\" rel=\"nofollow\">Polymaker&#8217;s Advanced Filament Selection Tool Includes Color Matching and Material Comparison</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/polymaker-app-cover-300x207.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-09T13:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/949834952/0/fabbaloo/default~Polymakers-Advanced-Filament-Selection-Tool-Includes-Color-Matching-and-Material-Comparison",
+    "title_en": "Polymaker's Advanced Filament Selection Tool Includes Color Matching and Material Comparison",
+    "summary_bullets_en": [
+      "Polymaker has introduced a powerful assistant for selecting filament products.",
+      "The tool includes features for color matching and material comparison.",
+      "This tool aims to enhance the user experience by simplifying the selection process."
+    ],
+    "summary_bullets_cs": [
+      "Polymaker představil výkonného asistenta pro výběr filamentových produktů.",
+      "Nástroj zahrnuje funkce pro sladění barev a porovnání materiálů.",
+      "Cílem tohoto nástroje je zjednodušit proces výběru a zlepšit uživatelský zážitek."
+    ],
+    "tags": [
+      "Software",
+      "Material",
+      "Polymaker"
+    ]
+  },
+  {
+    "title": "Nejlepší 3D skenery pro velké objekty",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/best-3d-scanners-for-large-objects/\" target=\"_blank\">Best 3D Scanners for Large Objects</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">March 9</span></div><div><img alt=\"\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/Mole-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/Mole-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2026-03-09T13:00:27+00:00",
+    "url": "https://3dprinting.com/news/best-3d-scanners-for-large-objects/",
+    "title_en": "Best 3D Scanners for Large Objects",
+    "summary_bullets_en": [
+      "The article reviews top 3D scanners specifically designed for scanning large objects.",
+      "It highlights the features and capabilities of each scanner, including accuracy and ease of use.",
+      "The article provides insights into the best applications for each scanner model."
+    ],
+    "summary_bullets_cs": [
+      "Článek recenzuje nejlepší 3D skenery určené speciálně pro skenování velkých objektů.",
+      "Zdůrazňuje vlastnosti a schopnosti jednotlivých skenerů, včetně přesnosti a snadnosti použití.",
+      "Článek poskytuje přehled o nejlepších aplikacích pro každý model skeneru."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Scanners",
+      "Large Objects"
+    ]
+  },
+  {
+    "title": "Proč přijetí aditivní výroby vypadá tak, jak vypadá — Část II",
+    "summary": "As additive manufacturing moved beyond prototyping, its first sustained production relevance emerged in applications where performance considerations outweighed cost efficiency and throughput. The driving factor in these cases was not...",
+    "image": "https://3dprint.com/wp-content/uploads/2024/08/dmls-parts-in-3d-printing-machine-570308.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-09T12:30:44+00:00",
+    "url": "https://3dprint.com/323980/why-additive-manufacturing-adoption-looks-the-way-it-does-part-ii/",
+    "title_en": "Why Additive Manufacturing Adoption Looks the Way It Does — Part II",
+    "summary_bullets_en": [
+      "Additive manufacturing has evolved from prototyping to production applications.",
+      "Performance considerations often take precedence over cost efficiency and throughput.",
+      "The technology's adoption is driven by specific application needs rather than general cost benefits."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba se vyvinula z prototypování k výrobním aplikacím.",
+      "Výkonové aspekty často převažují nad efektivitou nákladů a průchodností.",
+      "Přijetí technologie je řízeno specifickými potřebami aplikací spíše než obecnými nákladovými výhodami."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "Prototyping",
+      "Production",
+      "Performance"
+    ]
+  },
+  {
     "title": "Dohoda Pete Pharma s Atrium24 naznačuje cestu k širší komercializaci 3D tištěných léků",
     "summary": "While I would guess we’re still probably at least several years away from 3D printed drugs being a commonplace reality, the growing number of companies with proprietary additive manufacturing (AM)...",
     "image": "https://3dprint.com/wp-content/uploads/2025/02/1-s2.0-S0378517325000870-gr1_lrg.jpg",
