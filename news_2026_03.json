@@ -1,5 +1,239 @@
 [
   {
+    "title": "3DPOD 295: Od produktu k designu ve společnosti Carbon s Kristi Eveland Smith",
+    "summary": "Kristi Eveland Smith started as a competitive soccer player before moving into consulting, operations, and 3D printing. She&#8217;s now Vice President, Design to Production at Carbon 3D and has been...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-16T12:00:18+00:00",
+    "url": "https://3dprint.com/324499/3dpod-295-from-product-to-design-at-carbon-with-kristi-eveland-smith/",
+    "title_en": "3DPOD 295: From Product to Design at Carbon, with Kristi Eveland Smith",
+    "summary_bullets_en": [
+      "Kristi Eveland Smith transitioned from being a competitive soccer player to a career in consulting, operations, and 3D printing.",
+      "She currently holds the position of Vice President, Design to Production at Carbon 3D.",
+      "Her journey highlights the intersection of sports discipline and professional growth in the tech industry."
+    ],
+    "summary_bullets_cs": [
+      "Kristi Eveland Smith přešla z kariéry soutěžní fotbalistky do oblasti poradenství, provozu a 3D tisku.",
+      "Nyní zastává pozici viceprezidentky pro design a výrobu ve společnosti Carbon 3D.",
+      "Její cesta zdůrazňuje propojení sportovní disciplíny a profesního růstu v technologickém průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Carbon 3D",
+      "3D Printing",
+      "Design",
+      "Production"
+    ]
+  },
+  {
+    "title": "PrintPal uvádí sadu nástrojů založených na prohlížeči",
+    "summary": "PrintPal, a 3D printing technology platform headquartered in Chicago, Illinois, has launched PrintPal Tools, a suite of more than 15 browser-based tools for hobbyists, professional makers, and online sellers. All tools run entirely in a browser and can be accessed without installing software or creating an account. PrintPal Tools spans three categories: seller and business [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/flelele-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-16T11:59:09+00:00",
+    "url": "https://3dprintingindustry.com/news/printpal-launches-browser-based-tool-suite-249934/?utm_source=rss&utm_medium=rss&utm_campaign=printpal-launches-browser-based-tool-suite",
+    "title_en": "PrintPal Launches Browser-based Tool Suite",
+    "summary_bullets_en": [
+      "PrintPal has introduced PrintPal Tools, a suite of over 15 browser-based tools.",
+      "The tools are designed for hobbyists, professional makers, and online sellers.",
+      "All tools can be accessed without installing software or creating an account.",
+      "PrintPal Tools are categorized into seller and business applications."
+    ],
+    "summary_bullets_cs": [
+      "PrintPal představil PrintPal Tools, sadu více než 15 nástrojů založených na prohlížeči.",
+      "Nástroje jsou určeny pro nadšence, profesionální tvůrce a online prodejce.",
+      "Všechny nástroje lze používat bez instalace softwaru nebo vytváření účtu.",
+      "PrintPal Tools jsou rozděleny do kategorií pro prodejce a obchodní aplikace."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "PrintPal"
+    ]
+  },
+  {
+    "title": "Horkovodičová laserová aditivní výroba produkuje bezvadný WC–Co slinutý karbid",
+    "summary": "Researchers led by Keita Marumoto at Hiroshima University together with collaborators from Mitsubishi Materials Hardmetal Corporation, a manufacturer of cemented carbide tooling materials, investigated how laser irradiation strategies influence the microstructure and hardness of additively manufactured WC–Co cemented carbide. The results published in the International Journal of Refractory Metals and Hard Materials show that combining [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/SEM-image-of-cemented-carbide-molded-with-the-rod‑leading-method.-Image-via-ScienceDirect-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-16T11:24:50+00:00",
+    "url": "https://3dprintingindustry.com/news/hot-wire-laser-additive-manufacturing-produces-defect-free-wc-co-cemented-carbide-249946/?utm_source=rss&utm_medium=rss&utm_campaign=hot-wire-laser-additive-manufacturing-produces-defect-free-wc-co-cemented-carbide",
+    "title_en": "Hot-wire Laser Additive Manufacturing Produces Defect-free WC–Co Cemented Carbide",
+    "summary_bullets_en": [
+      "Researchers from Hiroshima University and Mitsubishi Materials Hardmetal Corporation studied the effects of laser irradiation on WC–Co cemented carbide.",
+      "The study focused on the microstructure and hardness of additively manufactured WC–Co cemented carbide.",
+      "Results indicated that specific laser strategies can produce defect-free WC–Co cemented carbide."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Hirošimské univerzity a Mitsubishi Materials Hardmetal Corporation zkoumali vliv laserového ozáření na WC–Co slinutý karbid.",
+      "Studie se zaměřila na mikrostrukturu a tvrdost aditivně vyráběného WC–Co slinutého karbidu.",
+      "Výsledky ukázaly, že specifické laserové strategie mohou produkovat bezvadný WC–Co slinutý karbid."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Hiroshima University",
+      "Mitsubishi Materials Hardmetal Corporation",
+      "WC–Co Cemented Carbide"
+    ]
+  },
+  {
+    "title": "NIDEC Machine Tool America přejmenovává divizi AM na Pokročilé výrobní technologie",
+    "summary": "NIDEC Machine Tool America, a company that supplies gear-making machines and manufacturing equipment, has rebranded its Additive Manufacturing division as Advanced Manufacturing Technologies, bringing several manufacturing systems under a single portfolio. The division includes LAMDA, a laser powder directed energy deposition (LP-DED) metal additive manufacturing system; ABLASER, a laser micromachining platform; and BOND MEISTER, a [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/NIDEC_Advanced_Manufacturing_Technologies_Lineup-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-03-16T10:48:22+00:00",
+    "url": "https://3dprintingindustry.com/news/nidec-machine-tool-america-rebrands-am-division-as-advanced-manufacturing-technologies-249940/?utm_source=rss&utm_medium=rss&utm_campaign=nidec-machine-tool-america-rebrands-am-division-as-advanced-manufacturing-technologies",
+    "title_en": "NIDEC Machine Tool America Rebrands AM Division as Advanced Manufacturing Technologies",
+    "summary_bullets_en": [
+      "NIDEC Machine Tool America has rebranded its Additive Manufacturing division.",
+      "The new name for the division is Advanced Manufacturing Technologies.",
+      "The division includes systems like LAMDA, ABLASER, and BOND MEISTER."
+    ],
+    "summary_bullets_cs": [
+      "NIDEC Machine Tool America přejmenovala svou divizi aditivní výroby.",
+      "Nový název divize je Pokročilé výrobní technologie.",
+      "Divize zahrnuje systémy jako LAMDA, ABLASER a BOND MEISTER."
+    ],
+    "tags": [
+      "Hardware",
+      "NIDEC",
+      "Additive Manufacturing",
+      "LAMDA",
+      "ABLASER",
+      "BOND MEISTER"
+    ]
+  },
+  {
+    "title": "Týmy Formule 1 využívají 3D tisk k navigaci nových pravidel kompresního poměru motoru",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/formula-1-teams-use-3d-printing-to-navigate-new-engine-compression-ratio-rules/\" target=\"_blank\">Formula 1 Teams Use 3D Printing to Navigate New Engine Compression Ratio Rules</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">March 16</span></div><div><img alt=\"Formula 1 Teams Use 3D Printing to Navigate New Engine Compression Ratio Rules\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"422\" src=\"https://3dprinting.com/wp-content/uploads/6487837983-500x422.avif\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/6487837983-500x422.avif",
+    "source": "3DPrinting.com",
+    "published": "2026-03-16T10:06:53+00:00",
+    "url": "https://3dprinting.com/news/formula-1-teams-use-3d-printing-to-navigate-new-engine-compression-ratio-rules/",
+    "title_en": "Formula 1 Teams Use 3D Printing to Navigate New Engine Compression Ratio Rules",
+    "summary_bullets_en": [
+      "Formula 1 teams are leveraging 3D printing technology to adapt to new engine compression ratio regulations.",
+      "3D printing allows for rapid prototyping and testing of engine components, enhancing performance and compliance.",
+      "The technology provides teams with the flexibility to make quick adjustments and innovations in engine design."
+    ],
+    "summary_bullets_cs": [
+      "Týmy Formule 1 využívají technologii 3D tisku k přizpůsobení se novým předpisům o kompresním poměru motoru.",
+      "3D tisk umožňuje rychlé prototypování a testování komponent motoru, což zlepšuje výkon a dodržování předpisů.",
+      "Technologie poskytuje týmům flexibilitu pro rychlé úpravy a inovace v designu motoru."
+    ],
+    "tags": [
+      "Hardware",
+      "Formula 1",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "SLM titanové metamateriály ukazují bioinspiraci v energetických ziscích",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/950626868/0/fabbaloo/default~SLM-Titanium-Metamaterials-Show-Bioinspired-Energy-Gains\" rel=\"nofollow\" title=\"SLM Titanium Metamaterials Show Bioinspired Energy Gains\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/titanium-bioinspired-cover-300x168.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers 3D printed bioinspired titanium lattices that absorb more energy and fail more gracefully than many prior designs.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/950626868/0/fabbaloo/default~SLM-Titanium-Metamaterials-Show-Bioinspired-Energy-Gains\" rel=\"nofollow\">SLM Titanium Metamaterials Show Bioinspired Energy Gains</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/titanium-bioinspired-cover-300x168.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-16T08:06:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/950626868/0/fabbaloo/default~SLM-Titanium-Metamaterials-Show-Bioinspired-Energy-Gains",
+    "title_en": "SLM Titanium Metamaterials Show Bioinspired Energy Gains",
+    "summary_bullets_en": [
+      "Researchers have developed 3D printed titanium lattices inspired by biological structures.",
+      "These lattices demonstrate improved energy absorption capabilities.",
+      "The designs fail more gracefully compared to previous iterations."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli 3D tištěné titanové mřížky inspirované biologickými strukturami.",
+      "Tyto mřížky vykazují zlepšené schopnosti absorpce energie.",
+      "Designy selhávají elegantněji ve srovnání s předchozími verzemi."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "SLM Solutions",
+      "3D Printing",
+      "Titanium",
+      "Metamaterials"
+    ]
+  },
+  {
+    "title": "America Makes a NCDMM se zaměřují na problém testování koroze v kovovém 3D tisku",
+    "summary": "America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have revealed the recipients of a newly funded initiative backed by the Office of the Under Secretary of Defense, Manufacturing Technology Office (OSD ManTech). Totaling $1.3 million, the initiative, titled Corrosion of Additive – Tested At Component Scale (CATACS),&#160; targets one of additive [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/America-Makes-facility-face-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-16T07:39:30+00:00",
+    "url": "https://3dprintingindustry.com/news/america-makes-and-ncdmm-target-metal-ams-corrosion-testing-problem-249904/?utm_source=rss&utm_medium=rss&utm_campaign=america-makes-and-ncdmm-target-metal-ams-corrosion-testing-problem",
+    "title_en": "America Makes and NCDMM Target Metal AM’s Corrosion Testing Problem",
+    "summary_bullets_en": [
+      "America Makes and NCDMM have announced the recipients of a new initiative funded by the OSD ManTech.",
+      "The initiative, named Corrosion of Additive – Tested At Component Scale (CATACS), is backed by $1.3 million.",
+      "The project aims to address the issue of corrosion testing in metal additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "America Makes a NCDMM oznámily příjemce nové iniciativy financované OSD ManTech.",
+      "Iniciativa s názvem Corrosion of Additive – Tested At Component Scale (CATACS) je podpořena částkou 1,3 milionu dolarů.",
+      "Projekt si klade za cíl řešit problém testování koroze v kovovém aditivním výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "America Makes",
+      "NCDMM",
+      "Metal AM",
+      "Corrosion Testing"
+    ]
+  },
+  {
+    "title": "Nikon AM Synergy získává kontrakt s Ministerstvem války USA na kvalifikaci AM pro letecké systémy",
+    "summary": "Nikon AM Synergy, the engineering and manufacturing arm of Nikon Advanced Manufacturing, has secured an Other Transition Agreement (OTA) contract with the U.S. Department of War&#8217;s Defense Innovation Unit (DIU) under the Foundry for Operational Readiness and Global Effects (FORGE) program.&#160; Although the amount remains undisclosed, the contract targets a persistent production challenge: metal components [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/1773147342023-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-16T06:50:16+00:00",
+    "url": "https://3dprintingindustry.com/news/nikon-am-synergy-secures-us-department-of-war-contract-to-qualify-am-for-aeronautical-systems-249899/?utm_source=rss&utm_medium=rss&utm_campaign=nikon-am-synergy-secures-us-department-of-war-contract-to-qualify-am-for-aeronautical-systems",
+    "title_en": "Nikon AM Synergy Secures US Department of War Contract to Qualify AM for Aeronautical Systems",
+    "summary_bullets_en": [
+      "Nikon AM Synergy has obtained a contract with the U.S. Department of War's Defense Innovation Unit.",
+      "The contract is part of the FORGE program, aimed at improving operational readiness and global effects.",
+      "The focus is on addressing production challenges related to metal components in aeronautical systems."
+    ],
+    "summary_bullets_cs": [
+      "Nikon AM Synergy získala kontrakt s Obrannou inovační jednotkou Ministerstva války USA.",
+      "Kontrakt je součástí programu FORGE, zaměřeného na zlepšení operační připravenosti a globálních efektů.",
+      "Cílem je řešení výrobních výzev spojených s kovovými komponenty v leteckých systémech."
+    ],
+    "tags": [
+      "Hardware",
+      "Nikon",
+      "Defense Innovation Unit",
+      "Aeronautical Systems",
+      "FORGE Program"
+    ]
+  },
+  {
+    "title": "ICON spouští program Titan pro komercializaci robotického 3D tiskového stavebního systému pro stavebníky",
+    "summary": "ICON, a Texas-based construction technology company developing large-scale 3D printing systems, has commercially launched its Titan robotic construction platform. Announced on March 11, 2026, the new Titan program allows builders and construction companies to acquire ICON’s integrated 3D printing construction system, marking the first time the company has offered its full technology stack for direct [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/Operating-Titan_Photo-Credit-Casey-Dunn-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-16T06:04:55+00:00",
+    "url": "https://3dprintingindustry.com/news/icon-launches-titan-program-to-commercialize-robotic-3d-printing-construction-system-for-builders-249907/?utm_source=rss&utm_medium=rss&utm_campaign=icon-launches-titan-program-to-commercialize-robotic-3d-printing-construction-system-for-builders",
+    "title_en": "ICON launches Titan program to commercialize robotic 3D printing construction system for builders",
+    "summary_bullets_en": [
+      "ICON, a Texas-based company, has launched its Titan robotic construction platform.",
+      "The Titan program allows builders to acquire ICON's integrated 3D printing construction system.",
+      "This marks the first time ICON offers its full technology stack for direct purchase."
+    ],
+    "summary_bullets_cs": [
+      "ICON, texaská společnost, spustila svou robotickou stavební platformu Titan.",
+      "Program Titan umožňuje stavebníkům získat integrovaný 3D tiskový stavební systém od ICON.",
+      "Toto je poprvé, co ICON nabízí svou kompletní technologickou sadu k přímému nákupu."
+    ],
+    "tags": [
+      "Hardware",
+      "ICON",
+      "3D Printing",
+      "Construction",
+      "Robotics"
+    ]
+  },
+  {
     "title": "Nezisková organizace „3D Printing Elves“ zaznamenává nárůst poptávky po virálním TikToku",
     "summary": "A nonprofit in California is suddenly seeing a huge spike in demand for its 3D printed toys after a teacher’s TikTok post brought attention to the group’s work. The Fresno-based...",
     "image": "https://3dprint.com/wp-content/uploads/2026/03/IMG_0562.jpg",
