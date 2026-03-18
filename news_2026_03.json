@@ -1,5 +1,168 @@
 [
   {
+    "title": "3D tisková inkoustová technologie na bázi mikrořas napodobuje texturu ryb",
+    "summary": "Researchers from Ewha Womans University’s Department of Food Science and Biotechnology and SuFAB Inc., a company based in South Korea, have developed a 3D printing food ink using Auxenochlorella protothecoides to simulate selected fish texture properties. Rheological measurements, printability tests, and texture profile analysis identified a 36% biomass concentration as the only formulation achieving stable [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/Printability-evaluation-of-3D-printed-white-chlorella-WC-inks-at-different-concentrations.-Image-via-ScienceDirect-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-18T11:51:09+00:00",
+    "url": "https://3dprintingindustry.com/news/microalgae-based-3d-printing-ink-replicates-fish-texture-250022/?utm_source=rss&utm_medium=rss&utm_campaign=microalgae-based-3d-printing-ink-replicates-fish-texture",
+    "title_en": "Microalgae-based 3D Printing Ink Replicates Fish Texture",
+    "summary_bullets_en": [
+      "Researchers from Ewha Womans University and SuFAB Inc. have developed a 3D printing food ink.",
+      "The ink uses Auxenochlorella protothecoides to simulate fish texture properties.",
+      "Rheological measurements and printability tests identified a 36% biomass concentration as optimal for stability."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Ewha Womans University a společnosti SuFAB Inc. vyvinuli 3D tiskovou potravinářskou inkoustovou technologii.",
+      "Inkoust využívá Auxenochlorella protothecoides k simulaci textury ryb.",
+      "Reologická měření a testy tisknutelnosti identifikovaly 36% koncentraci biomasy jako optimální pro stabilitu."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Food Technology",
+      "Ewha Womans University",
+      "SuFAB Inc.",
+      "Microalgae"
+    ]
+  },
+  {
+    "title": "Jak se údaje ze sčítání lidu stávají strategickým nástrojem pro společnosti zabývající se 3D tiskem",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/950952260/0/fabbaloo/default~How-Census-Data-Is-Becoming-a-Strategic-Tool-for-D-Printing-Companies\" rel=\"nofollow\" title=\"How Census Data Is Becoming a Strategic Tool for 3D Printing Companies\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/Demo-1-300x216.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi connect the latest census trends to emerging 3D printing hubs across the U.S.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/950952260/0/fabbaloo/default~How-Census-Data-Is-Becoming-a-Strategic-Tool-for-D-Printing-Companies\" rel=\"nofollow\">How Census Data Is Becoming a Strategic Tool for 3D Printing Companies</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/Demo-1-300x216.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-18T11:21:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/950952260/0/fabbaloo/default~How-Census-Data-Is-Becoming-a-Strategic-Tool-for-D-Printing-Companies",
+    "title_en": "How Census Data Is Becoming a Strategic Tool for 3D Printing Companies",
+    "summary_bullets_en": [
+      "Census data is being used to identify emerging 3D printing hubs in the U.S.",
+      "Charles R. Goulding and Preeti Sulibhavi explore the connection between census trends and 3D printing growth.",
+      "The analysis helps companies strategically plan their operations and market expansions."
+    ],
+    "summary_bullets_cs": [
+      "Údaje ze sčítání lidu se využívají k identifikaci nově vznikajících center 3D tisku v USA.",
+      "Charles R. Goulding a Preeti Sulibhavi zkoumají spojení mezi trendy ve sčítání lidu a růstem 3D tisku.",
+      "Analýza pomáhá společnostem strategicky plánovat jejich operace a rozšiřování trhu."
+    ],
+    "tags": [
+      "Services",
+      "3D Printing",
+      "Census Data",
+      "Charles R. Goulding",
+      "Preeti Sulibhavi"
+    ]
+  },
+  {
+    "title": "Výzkumníci navrhují metodu založenou na CAD pro identifikaci nových 3D tištěných dílů bez nutnosti přeškolení",
+    "summary": "Researchers from KU Leuven, Materialise, a 3D printing software and services company, and Iristick, which develops industrial smart glasses, have proposed a method for classifying new 3D printed objects without retraining a vision model each time a new part enters production. Described in a paper published on arXiv, the system uses CAD models to identify [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/Examples-of-objects-in-ThingiPrint.-Image-via-arXiv-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-03-18T10:59:18+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-propose-cad-based-method-to-identify-new-3d-printed-parts-without-retraining-250050/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-propose-cad-based-method-to-identify-new-3d-printed-parts-without-retraining",
+    "title_en": "Researchers propose CAD-based method to identify new 3D printed parts without retraining",
+    "summary_bullets_en": [
+      "Researchers from KU Leuven, Materialise, and Iristick have developed a method to classify new 3D printed objects without retraining vision models.",
+      "The proposed system utilizes CAD models to identify new parts entering production.",
+      "This approach aims to streamline the process of integrating new 3D printed components into existing systems."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z KU Leuven, Materialise a Iristick vyvinuli metodu pro klasifikaci nových 3D tištěných objektů bez nutnosti přeškolení modelů vidění.",
+      "Navrhovaný systém využívá CAD modely k identifikaci nových dílů vstupujících do výroby.",
+      "Tento přístup má za cíl zjednodušit proces integrace nových 3D tištěných komponent do stávajících systémů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "KU Leuven",
+      "Materialise",
+      "Iristick"
+    ]
+  },
+  {
+    "title": "Vision Transformery zlepšují monitorování kvality FFF v reálném čase",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/950917850/0/fabbaloo/default~Vision-Transformers-Boost-Real-Time-FFF-Quality-Monitoring\" rel=\"nofollow\" title=\"Vision Transformers Boost Real Time FFF Quality Monitoring\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/vision-transformer-defects-300x150.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers propose a Vision Transformer approach that detects FFF surface defects in real time with on-demand explainability.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/950917850/0/fabbaloo/default~Vision-Transformers-Boost-Real-Time-FFF-Quality-Monitoring\" rel=\"nofollow\">Vision Transformers Boost Real Time FFF Quality Monitoring</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/vision-transformer-defects-300x150.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-18T08:56:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/950917850/0/fabbaloo/default~Vision-Transformers-Boost-Real-Time-FFF-Quality-Monitoring",
+    "title_en": "Vision Transformers Boost Real Time FFF Quality Monitoring",
+    "summary_bullets_en": [
+      "Researchers have developed a Vision Transformer approach for detecting FFF surface defects in real time.",
+      "The system offers on-demand explainability for the detected defects.",
+      "This advancement could significantly enhance the quality control process in FFF 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli přístup Vision Transformer pro detekci povrchových vad FFF v reálném čase.",
+      "Systém nabízí vysvětlitelnost na vyžádání pro detekované vady.",
+      "Tento pokrok by mohl výrazně zlepšit proces kontroly kvality v 3D tisku FFF."
+    ],
+    "tags": [
+      "Software",
+      "Quality Monitoring",
+      "Vision Transformers",
+      "FFF",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "NASA úspěšně testuje 3D tištěný pružinový mechanismus na nízké oběžné dráze Země",
+    "summary": "A compact deployment mechanism developed at NASA&#8216;s Jet Propulsion Laboratory (JPL) successfully activated aboard a commercial spacecraft on February 3, 2026, demonstrating how additive manufacturing techniques can reduce both expense and design complexity for future orbital antenna systems.&#160; The device, designated JPL Additive Compliant Canister (JACC), extended on Proteus Space&#8217;s Mercury One satellite, with an [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/PIA26706_Fig_A-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-18T08:00:11+00:00",
+    "url": "https://3dprintingindustry.com/news/nasa-successfully-tests-3d-printed-spring-mechanism-in-low-earth-orbit-250015/?utm_source=rss&utm_medium=rss&utm_campaign=nasa-successfully-tests-3d-printed-spring-mechanism-in-low-earth-orbit",
+    "title_en": "NASA Successfully Tests 3D Printed Spring Mechanism in Low Earth Orbit",
+    "summary_bullets_en": [
+      "NASA's Jet Propulsion Laboratory developed a compact deployment mechanism using 3D printing.",
+      "The mechanism, called JPL Additive Compliant Canister (JACC), was successfully activated in orbit.",
+      "The test took place aboard Proteus Space's Mercury One satellite on February 3, 2026.",
+      "This demonstrates the potential of additive manufacturing to reduce costs and complexity in orbital systems."
+    ],
+    "summary_bullets_cs": [
+      "Jet Propulsion Laboratory NASA vyvinula kompaktní mechanismus nasazení pomocí 3D tisku.",
+      "Mechanismus, nazvaný JPL Additive Compliant Canister (JACC), byl úspěšně aktivován na oběžné dráze.",
+      "Test proběhl na satelitu Mercury One společnosti Proteus Space dne 3. února 2026.",
+      "To ukazuje potenciál aditivní výroby ke snížení nákladů a složitosti v orbitálních systémech."
+    ],
+    "tags": [
+      "Hardware",
+      "NASA",
+      "3D Printing",
+      "Jet Propulsion Laboratory",
+      "Proteus Space",
+      "Mercury One"
+    ]
+  },
+  {
+    "title": "Spellman Care a Univerzita v Leedsu vedou studii o 3D tištěných potravinách pro pacienty s dysfagií",
+    "summary": "A UK collaborative study between Spellman Care, the University of Leeds, and PRINTFOODS UK is investigating the potential application of 3D food printing technology for elderly residents on texture-modified diets. The research focuses on individuals following International Dysphagia Diet Standardisation Initiative (IDDSI) standards, examining whether this technology could address challenges related to food safety, nutrition, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/Picture1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-18T07:33:59+00:00",
+    "url": "https://3dprintingindustry.com/news/spellman-care-and-university-of-leeds-lead-study-on-3d-printed-foods-for-dysphagia-patients-250010/?utm_source=rss&utm_medium=rss&utm_campaign=spellman-care-and-university-of-leeds-lead-study-on-3d-printed-foods-for-dysphagia-patients",
+    "title_en": "Spellman Care and University of Leeds Lead Study on 3D Printed Foods for Dysphagia Patients",
+    "summary_bullets_en": [
+      "A UK study is exploring the use of 3D food printing technology for elderly residents on texture-modified diets.",
+      "The research is a collaboration between Spellman Care, the University of Leeds, and PRINTFOODS UK.",
+      "The study focuses on individuals following IDDSI standards to address food safety and nutrition challenges."
+    ],
+    "summary_bullets_cs": [
+      "Britská studie zkoumá využití technologie 3D tisku potravin pro starší obyvatele na dietách s upravenou texturou.",
+      "Výzkum je spoluprací mezi Spellman Care, Univerzitou v Leedsu a PRINTFOODS UK.",
+      "Studie se zaměřuje na jedince dodržující standardy IDDSI, aby řešila výzvy spojené s bezpečností potravin a výživou."
+    ],
+    "tags": [
+      "Services",
+      "Spellman Care",
+      "University of Leeds",
+      "PRINTFOODS UK",
+      "3D Food Printing",
+      "Dysphagia",
+      "IDDSI"
+    ]
+  },
+  {
     "title": "HB 2320 postupuje ve Washingtonu, zatímco širší zákon o kontrole 3D tiskáren stagnuje",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/950808575/0/fabbaloo/default~HB-Advances-in-Washington-While-Broader-D-Printer-Control-Bill-Stalls\" rel=\"nofollow\" title=\"HB 2320 Advances in Washington While Broader 3D Printer Control Bill Stalls\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/hb2320-status-cover-300x97.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>That new 3D printing law in Washington state is about to go live — but will it affect 3D printing?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/950808575/0/fabbaloo/default~HB-Advances-in-Washington-While-Broader-D-Printer-Control-Bill-Stalls\" rel=\"nofollow\">HB 2320 Advances in Washington While Broader 3D Printer Control Bill Stalls</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/hb2320-status-cover-300x97.jpg",
