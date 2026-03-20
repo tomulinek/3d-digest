@@ -1,5 +1,84 @@
 [
   {
+    "title": "Stratasys získává evropskou certifikaci pro svůj portfoliový pryskyřic TrueDent",
+    "summary": "3D printer OEM Stratasys has secured CE Class IIa medical device certification for its TrueDent resin portfolio,  making it the first high-aesthetic, single-material 3D printed denture system to earn the designation in Europe. The upgrade from its initial Class I status, granted in early 2025, expands approved applications beyond basic removables to include removable partial [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/TrueDent_Class_IIa_Certification_Image_1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-19T19:01:17+00:00",
+    "url": "https://3dprintingindustry.com/news/stratasys-achieves-european-certification-for-its-truedent-resin-portfolio-250066/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-achieves-european-certification-for-its-truedent-resin-portfolio",
+    "title_en": "Stratasys Achieves European Certification for Its TrueDent Resin Portfolio",
+    "summary_bullets_en": [
+      "Stratasys has received CE Class IIa medical device certification for its TrueDent resin portfolio.",
+      "This certification makes it the first high-aesthetic, single-material 3D printed denture system to be recognized in Europe.",
+      "The upgrade from Class I status expands approved applications to include removable partial dentures."
+    ],
+    "summary_bullets_cs": [
+      "Stratasys obdržel certifikaci CE třídy IIa pro zdravotnické prostředky pro své portfoliové pryskyřice TrueDent.",
+      "Tato certifikace činí z TrueDent první vysoce estetický, jednosložkový 3D tištěný systém zubních náhrad uznaný v Evropě.",
+      "Povýšení z třídy I rozšiřuje schválené aplikace na zahrnutí snímatelných částečných zubních náhrad."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Stratasys",
+      "TrueDent"
+    ]
+  },
+  {
+    "title": "HEZO představuje cyklistické boty Scan-to-Print s přizpůsobitelným, modulárním střihem",
+    "summary": "German startup HEZO has developed a made-to-order cycling shoe system that replaces standardised sizing with individual foot scans, on-demand 3D printing, and modular construction, positioning the company at the intersection of digital manufacturing and performance footwear. Founded in February 2022 by Helen Wiehr, Carsten Kaldenhoff, and Dr. Nils Hasler, HEZO uses a smartphone app to [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/hezo-14-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-03-19T18:42:33+00:00",
+    "url": "https://3dprintingindustry.com/news/hezo-debuts-scan-to-print-cycling-shoes-with-custom-modular-fit-250074/?utm_source=rss&utm_medium=rss&utm_campaign=hezo-debuts-scan-to-print-cycling-shoes-with-custom-modular-fit",
+    "title_en": "HEZO Debuts Scan-to-Print Cycling Shoes with Custom, Modular Fit",
+    "summary_bullets_en": [
+      "German startup HEZO introduces a custom cycling shoe system using individual foot scans.",
+      "The shoes are made-to-order with on-demand 3D printing and modular construction.",
+      "HEZO's approach combines digital manufacturing with performance footwear innovation.",
+      "Founded in 2022, the company uses a smartphone app for foot scanning."
+    ],
+    "summary_bullets_cs": [
+      "Německý startup HEZO představuje systém cyklistických bot na míru pomocí individuálních skenů nohou.",
+      "Boty jsou vyráběny na zakázku s využitím 3D tisku na vyžádání a modulární konstrukce.",
+      "Přístup HEZO kombinuje digitální výrobu s inovací ve výkonnostní obuvi.",
+      "Společnost, založená v roce 2022, používá pro skenování nohou aplikaci na chytrém telefonu."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Footwear",
+      "HEZO",
+      "Digital Manufacturing"
+    ]
+  },
+  {
+    "title": "Aditivní výroba porovnána s vstřikováním plastů ve studii o masové personalizaci",
+    "summary": "Additive manufacturing can compete economically with injection molding in low-volume, high-mix production, according to a peer-reviewed study published in the International Journal of Precision Engineering and Manufacturing-Green Technology by researchers at Sungkyunkwan University’s School of Mechanical Engineering. The research evaluates whether 3D printing technologies can bridge mass production and mass customization through measurable gains in [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/40684_2026_856_Fig5_HTML-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-03-19T18:08:36+00:00",
+    "url": "https://3dprintingindustry.com/news/additive-manufacturing-benchmarked-against-injection-molding-in-mass-customization-study-250041/?utm_source=rss&utm_medium=rss&utm_campaign=additive-manufacturing-benchmarked-against-injection-molding-in-mass-customization-study",
+    "title_en": "Additive manufacturing benchmarked against injection molding in mass customization study",
+    "summary_bullets_en": [
+      "Additive manufacturing is economically competitive with injection molding for low-volume, high-mix production.",
+      "The study was published in the International Journal of Precision Engineering and Manufacturing-Green Technology.",
+      "Researchers from Sungkyunkwan University evaluated the potential of 3D printing technologies in bridging mass production and mass customization."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba je ekonomicky konkurenceschopná s vstřikováním plastů pro nízkoobjemovou, vysoce variabilní produkci.",
+      "Studie byla publikována v International Journal of Precision Engineering and Manufacturing-Green Technology.",
+      "Výzkumníci z univerzity Sungkyunkwan hodnotili potenciál 3D tiskových technologií v propojení masové výroby a masové personalizace."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Injection Molding",
+      "Sungkyunkwan University"
+    ]
+  },
+  {
     "title": "Praktická zkušenost s 3D tiskárnou Anycubic P1, část 3",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/951205556/0/fabbaloo/default~Hands-On-with-the-Anycubic-P-D-Printer-Part\" rel=\"nofollow\" title=\"Hands On with the Anycubic P1 3D Printer, Part 3\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/00-photon-p1-cover4-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Our review of the Anycubic Photon P1 resin 3D printer concludes with print results and final thoughts. This is part three of a three part series, please read parts one and two. Anycubic P1 3D Printer Print Results The Eiffel Tower is a fairly challenging print that images directly on the build plate with no&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/951205556/0/fabbaloo/default~Hands-On-with-the-Anycubic-P-D-Printer-Part\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">Hands On with the Anycubic P1 3D Printer, Part 3</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951205556/0/fabbaloo/default~Hands-On-with-the-Anycubic-P-D-Printer-Part\" rel=\"nofollow\">Hands On with the Anycubic P1 3D Printer, Part 3</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/00-photon-p1-cover4-300x225.jpg",
