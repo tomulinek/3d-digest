@@ -1,5 +1,160 @@
 [
   {
+    "title": "Ghana zvažuje 3D tisk pro svou novou flotilu plavidel",
+    "summary": "When Nigerian company RusselSmith sat down with Ghana’s maritime authority recently, the pitch was straightforward: replace the country’s aging wooden boat fleet with 3D printed vessels. Held in Accra, the meeting brought the asset management and advanced manufacturing company’s officials face to face with Dr. Kamal-Deen Ali, Director-General of the Ghana Maritime Authority (GMA). Facilitated [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/1770223481179-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-20T17:32:01+00:00",
+    "url": "https://3dprintingindustry.com/news/ghana-eyes-3d-printing-for-its-next-fleet-of-vessels-250124/?utm_source=rss&utm_medium=rss&utm_campaign=ghana-eyes-3d-printing-for-its-next-fleet-of-vessels",
+    "title_en": "Ghana Eyes 3D Printing for Its Next Fleet of Vessels",
+    "summary_bullets_en": [
+      "RusselSmith, a Nigerian company, proposed to Ghana's maritime authority to replace its aging wooden boat fleet with 3D printed vessels.",
+      "The meeting took place in Accra between RusselSmith officials and Dr. Kamal-Deen Ali, Director-General of the Ghana Maritime Authority.",
+      "The proposal aims to modernize Ghana's maritime fleet using advanced manufacturing techniques."
+    ],
+    "summary_bullets_cs": [
+      "Nigerijská společnost RusselSmith navrhla ghanské námořní autoritě nahradit stárnoucí flotilu dřevěných lodí plavidly vyrobenými pomocí 3D tisku.",
+      "Setkání se uskutečnilo v Akkře mezi představiteli RusselSmith a Dr. Kamal-Deen Alim, generálním ředitelem Ghanské námořní autority.",
+      "Návrh má za cíl modernizovat ghanskou námořní flotilu pomocí pokročilých výrobních technik."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "RusselSmith",
+      "Ghana Maritime Authority"
+    ]
+  },
+  {
+    "title": "Nová kalkulačka VOC odhaduje kvalitu ovzduší v prostředí FFF tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/951445292/0/fabbaloo/default~New-VOC-Calculator-Estimates-Air-Quality-in-FFF-Printing-Environments\" rel=\"nofollow\" title=\"New VOC Calculator Estimates Air Quality in FFF Printing Environments\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/voc-calculator-cover-300x157.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Heatforge 3D has put together a VOC calculator for 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951445292/0/fabbaloo/default~New-VOC-Calculator-Estimates-Air-Quality-in-FFF-Printing-Environments\" rel=\"nofollow\">New VOC Calculator Estimates Air Quality in FFF Printing Environments</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/voc-calculator-cover-300x157.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-20T16:12:13+00:00",
+    "url": "https://feeds.fabbaloo.com/~/951445292/0/fabbaloo/default~New-VOC-Calculator-Estimates-Air-Quality-in-FFF-Printing-Environments",
+    "title_en": "New VOC Calculator Estimates Air Quality in FFF Printing Environments",
+    "summary_bullets_en": [
+      "Heatforge 3D has developed a VOC calculator specifically for 3D printing environments.",
+      "The calculator is designed to estimate air quality during FFF (Fused Filament Fabrication) printing.",
+      "This tool aims to help users understand and manage air quality issues related to 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Heatforge 3D vyvinul kalkulačku VOC speciálně pro prostředí 3D tisku.",
+      "Kalkulačka je navržena k odhadu kvality ovzduší během tisku metodou FFF (Fused Filament Fabrication).",
+      "Tento nástroj má pomoci uživatelům pochopit a řídit problémy s kvalitou ovzduší související s 3D tiskem."
+    ],
+    "tags": [
+      "Software",
+      "Heatforge 3D",
+      "Air Quality",
+      "FFF Printing"
+    ]
+  },
+  {
+    "title": "Studie porovnává CNC, SLM, extruzi pro díl UAV",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/951443159/0/fabbaloo/default~Study-Compares-CNC-SLM-Extrusion-For-UAV-Part\" rel=\"nofollow\" title=\"Study Compares CNC, SLM, Extrusion For UAV Part\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/vtol-uav-comparison-cover-300x213.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new study measures the environmental and economic tradeoffs of making a VTOL UAV component by CNC milling, Selective Laser Melting, or metal extrusion.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951443159/0/fabbaloo/default~Study-Compares-CNC-SLM-Extrusion-For-UAV-Part\" rel=\"nofollow\">Study Compares CNC, SLM, Extrusion For UAV Part</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/vtol-uav-comparison-cover-300x213.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-20T15:26:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/951443159/0/fabbaloo/default~Study-Compares-CNC-SLM-Extrusion-For-UAV-Part",
+    "title_en": "Study Compares CNC, SLM, Extrusion For UAV Part",
+    "summary_bullets_en": [
+      "A new study evaluates the environmental and economic impacts of producing a VTOL UAV component using CNC milling, Selective Laser Melting, or metal extrusion.",
+      "The study aims to identify the trade-offs between these manufacturing methods in terms of sustainability and cost-effectiveness.",
+      "Results could influence decision-making in the aerospace industry regarding the most efficient production techniques for UAV parts."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie hodnotí environmentální a ekonomické dopady výroby komponenty VTOL UAV pomocí CNC frézování, selektivního laserového tavení nebo kovové extruze.",
+      "Studie se snaží identifikovat kompromisy mezi těmito výrobními metodami z hlediska udržitelnosti a nákladové efektivity.",
+      "Výsledky by mohly ovlivnit rozhodování v leteckém průmyslu ohledně nejefektivnějších výrobních technik pro díly UAV."
+    ],
+    "tags": [
+      "Hardware",
+      "CNC",
+      "SLM",
+      "Extrusion",
+      "UAV",
+      "Aerospace"
+    ]
+  },
+  {
+    "title": "Systém Interlayer Control od Royal3D cílí na kvalitu průmyslového 3D tisku",
+    "summary": "Dutch 3D printing service provider Royal3D has launched the Interlayer Control System (ICS), a thermal monitoring tool for industrial 3D printing operations. The Rotterdam-based provider’s system uses a 160 x 140 pixel thermal camera to continuously track nozzle positions across XYZ coordinates, measuring and logging interlayer temperatures as a print runs.&#160; Temperature inconsistencies between layers [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/Screenshot_20260320_172326_LinkedIn-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-20T14:00:12+00:00",
+    "url": "https://3dprintingindustry.com/news/royal3ds-interlayer-control-system-targets-industrial-3d-print-quality-250119/?utm_source=rss&utm_medium=rss&utm_campaign=royal3ds-interlayer-control-system-targets-industrial-3d-print-quality",
+    "title_en": "Royal3D’s Interlayer Control System Targets Industrial 3D Print Quality",
+    "summary_bullets_en": [
+      "Royal3D has introduced the Interlayer Control System (ICS) for industrial 3D printing.",
+      "The system features a thermal camera with 160 x 140 pixel resolution to monitor nozzle positions.",
+      "ICS measures and logs interlayer temperatures during the printing process."
+    ],
+    "summary_bullets_cs": [
+      "Royal3D představilo systém Interlayer Control (ICS) pro průmyslový 3D tisk.",
+      "Systém obsahuje termální kameru s rozlišením 160 x 140 pixelů pro sledování poloh trysek.",
+      "ICS měří a zaznamenává teploty mezi vrstvami během procesu tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Royal3D",
+      "3D Printing",
+      "Thermal Monitoring"
+    ]
+  },
+  {
+    "title": "EX3D Prints spouští distribuovanou síť 3D tisku propojující kupující, výrobce a designéry",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/951432728/0/fabbaloo/default~EXD-Prints-Launches-Distributed-D-Printing-Network-Connecting-Buyers-Makers-and-Designers\" rel=\"nofollow\" title=\"EX3D Prints Launches Distributed 3D Printing Network Connecting Buyers, Makers, and Designers\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/ex3d-cover-300x168.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>I’m looking at a new service for distributed 3D print services, EX3D Prints.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951432728/0/fabbaloo/default~EXD-Prints-Launches-Distributed-D-Printing-Network-Connecting-Buyers-Makers-and-Designers\" rel=\"nofollow\">EX3D Prints Launches Distributed 3D Printing Network Connecting Buyers, Makers, and Designers</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/ex3d-cover-300x168.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-20T13:09:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/951432728/0/fabbaloo/default~EXD-Prints-Launches-Distributed-D-Printing-Network-Connecting-Buyers-Makers-and-Designers",
+    "title_en": "EX3D Prints Launches Distributed 3D Printing Network Connecting Buyers, Makers, and Designers",
+    "summary_bullets_en": [
+      "EX3D Prints has introduced a new distributed 3D printing service.",
+      "The network connects buyers, makers, and designers for efficient collaboration.",
+      "This service aims to streamline the 3D printing process by leveraging a distributed network."
+    ],
+    "summary_bullets_cs": [
+      "EX3D Prints představila novou službu distribuovaného 3D tisku.",
+      "Síť propojuje kupující, výrobce a designéry pro efektivní spolupráci.",
+      "Tato služba si klade za cíl zefektivnit proces 3D tisku využitím distribuované sítě."
+    ],
+    "tags": [
+      "Services",
+      "EX3D Prints",
+      "3D Printing",
+      "Distributed Network"
+    ]
+  },
+  {
+    "title": "Aditivní výroba přepisuje pravidla návratu výroby domů",
+    "summary": "Reshoring sounds straightforward: bring production back home. In practice, it’s far more complex. According to recent research by Hexagon in 2025, about 36% of U.S. manufacturing leaders are actively looking...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/03/Heagon-Digital-Twin-Marquee4-2560880.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-20T12:30:03+00:00",
+    "url": "https://3dprint.com/324642/additive-manufacturing-is-rewriting-the-rules-of-reshoring/",
+    "title_en": "Additive Manufacturing Is Rewriting the Rules of Reshoring",
+    "summary_bullets_en": [
+      "Reshoring involves bringing production back to domestic locations, but it's a complex process.",
+      "Recent research by Hexagon indicates that by 2025, around 36% of U.S. manufacturing leaders are actively pursuing reshoring.",
+      "Additive manufacturing is playing a significant role in reshoring by offering flexibility and cost efficiency.",
+      "The technology is helping companies overcome challenges associated with traditional manufacturing and global supply chains."
+    ],
+    "summary_bullets_cs": [
+      "Návrat výroby domů znamená přesun produkce zpět do domácích lokalit, ale je to složitý proces.",
+      "Nedávný výzkum společnosti Hexagon naznačuje, že do roku 2025 asi 36 % amerických výrobních lídrů aktivně usiluje o návrat výroby domů.",
+      "Aditivní výroba hraje významnou roli v návratu výroby domů díky své flexibilitě a nákladové efektivitě.",
+      "Technologie pomáhá firmám překonávat výzvy spojené s tradiční výrobou a globálními dodavatelskými řetězci."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "Hexagon",
+      "Reshoring"
+    ]
+  },
+  {
     "title": "Na RAPID + TCT 2026, klíčové projevy vedoucích pracovníků rozebírají, co je dalšího pro AM",
     "summary": "While AI is expected to be a major focus at RAPID + TCT 2026, the event is also putting the spotlight on something just as important: leadership. This year’s Executive...",
     "image": "https://3dprint.com/wp-content/uploads/2026/03/aerodef-showcase_768432.webp",
