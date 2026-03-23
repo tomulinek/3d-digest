@@ -1,5 +1,216 @@
 [
   {
+    "title": "3DPOD 296: 3D tištěné raketové motory od průmyslu po hobby s An Duongem, Morethan3D",
+    "summary": "An Duong, a former Rolls-Royce innovation manager working on 3D printed aeroengines, made an unexpected shift from aerospace to entrepreneurship. The work was challenging and engaging, and he very much...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-23T12:00:44+00:00",
+    "url": "https://3dprint.com/324617/3dpod-296-3d-printed-rocket-engines-from-industrial-to-hobbyist-with-an-duong-morethan3d/",
+    "title_en": "3DPOD 296: 3D Printed Rocket Engines From Industrial to Hobbyist with An Duong, Morethan3D",
+    "summary_bullets_en": [
+      "An Duong transitioned from a career in aerospace at Rolls-Royce to entrepreneurship.",
+      "He focuses on 3D printed rocket engines, bridging the gap between industrial and hobbyist applications.",
+      "His work in 3D printing is both challenging and engaging, offering new opportunities in the field."
+    ],
+    "summary_bullets_cs": [
+      "An Duong přešel z kariéry v leteckém průmyslu u Rolls-Royce k podnikání.",
+      "Zaměřuje se na 3D tištěné raketové motory, které spojují průmyslové a hobby aplikace.",
+      "Jeho práce v oblasti 3D tisku je náročná a poutavá, nabízí nové příležitosti v oboru."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Rocket Engines",
+      "Morethan3D",
+      "Rolls-Royce"
+    ]
+  },
+  {
+    "title": "Liqcreate uvádí na trh dentální pryskyřici navrženou k eliminaci separačních činidel v ortodontických a protetických akrylových pracovních postupech",
+    "summary": "Liqcreate, Netherlands-based independent manufacturer of 3D printing resins, has announced the commercial availability of Liqcreate Separation Model, a specialized dental photopolymer engineered to deliver built-in non-adhesion performance toward acrylic-based dental and orthodontic materials, with no additional surface treatment or separating agents required. Developed in close collaboration with established dental and orthodontic laboratory partners, the resin [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/Liqcreate-Separation-Model-Resin.-Image-via-Liqcreate-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-23T11:56:20+00:00",
+    "url": "https://3dprintingindustry.com/news/liqcreate-launches-dental-resin-designed-to-eliminate-separating-agents-in-orthodontic-and-prosthetic-acrylic-workflows-250153/?utm_source=rss&utm_medium=rss&utm_campaign=liqcreate-launches-dental-resin-designed-to-eliminate-separating-agents-in-orthodontic-and-prosthetic-acrylic-workflows",
+    "title_en": "Liqcreate Launches Dental Resin Designed to Eliminate Separating Agents in Orthodontic and Prosthetic Acrylic Workflows",
+    "summary_bullets_en": [
+      "Liqcreate has released a new dental resin called Liqcreate Separation Model.",
+      "The resin is designed to prevent adhesion to acrylic-based dental materials without additional treatments.",
+      "Developed in collaboration with dental and orthodontic laboratories, it simplifies workflows."
+    ],
+    "summary_bullets_cs": [
+      "Liqcreate představila novou dentální pryskyřici s názvem Liqcreate Separation Model.",
+      "Pryskyřice je navržena tak, aby zabránila adhezi k akrylovým dentálním materiálům bez dalších úprav.",
+      "Vyvinuta ve spolupráci s dentálními a ortodontickými laboratořemi, zjednodušuje pracovní postupy."
+    ],
+    "tags": [
+      "Material",
+      "Liqcreate",
+      "Dental",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Design týdne: Konferenční místnost",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/951689552/0/fabbaloo/default~Design-of-the-Week-Conference-Room\" rel=\"nofollow\" title=\"Design of the Week: Conference Room\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/fungamental-cover-300x188.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>This week’s selection is a partially 3D printed conference room by Fungamental.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951689552/0/fabbaloo/default~Design-of-the-Week-Conference-Room\" rel=\"nofollow\">Design of the Week: Conference Room</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/fungamental-cover-300x188.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-23T11:19:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/951689552/0/fabbaloo/default~Design-of-the-Week-Conference-Room",
+    "title_en": "Design of the Week: Conference Room",
+    "summary_bullets_en": [
+      "This week's featured design is a partially 3D printed conference room.",
+      "The design is created by Fungamental.",
+      "The article is published on Fabbaloo."
+    ],
+    "summary_bullets_cs": [
+      "Tento týden je vybrán design částečně 3D tištěné konferenční místnosti.",
+      "Design vytvořila společnost Fungamental.",
+      "Článek je publikován na Fabbaloo."
+    ],
+    "tags": [
+      "Design",
+      "3D Printing",
+      "Fungamental",
+      "Fabbaloo"
+    ]
+  },
+  {
+    "title": "Mechnano uvádí elastomery bezpečné pro ESD a EMI pro vývojové pracovní postupy aditivní výroby FGF a FFF",
+    "summary": "Mechnano, an Arizona-based additive manufacturing materials developer, has introduced three new elastomeric pellet materials designed for electrostatic discharge (ESD) and electromagnetic interference (EMI) protection in additive manufacturing. Announced this week, the materials, TPC-95A ESD, TPU-95A ESD, and TPU-95A EMI, are intended for use in both fused granular fabrication (FGF) and fused filament fabrication (FFF) processes, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/image-12-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-03-23T11:13:30+00:00",
+    "url": "https://3dprintingindustry.com/news/mechnano-launches-esd-and-emi-safe-elastomers-for-fgf-and-fff-additive-manufacturing-development-workflows-250146/?utm_source=rss&utm_medium=rss&utm_campaign=mechnano-launches-esd-and-emi-safe-elastomers-for-fgf-and-fff-additive-manufacturing-development-workflows",
+    "title_en": "Mechnano launches ESD- and EMI-safe elastomers for FGF and FFF additive manufacturing development workflows",
+    "summary_bullets_en": [
+      "Mechnano, based in Arizona, has introduced three new elastomeric pellet materials.",
+      "The materials are designed for electrostatic discharge (ESD) and electromagnetic interference (EMI) protection.",
+      "They are intended for use in fused granular fabrication (FGF) and fused filament fabrication (FFF) processes."
+    ],
+    "summary_bullets_cs": [
+      "Mechnano, vývojář materiálů pro aditivní výrobu z Arizony, představil tři nové elastomerové pelety.",
+      "Materiály jsou navrženy pro ochranu před elektrostatickým výbojem (ESD) a elektromagnetickým rušením (EMI).",
+      "Jsou určeny pro použití v procesech fúzní granulární výroby (FGF) a fúzní filamentové výroby (FFF)."
+    ],
+    "tags": [
+      "Material",
+      "Mechnano",
+      "ESD",
+      "EMI",
+      "FGF",
+      "FFF"
+    ]
+  },
+  {
+    "title": "AFM Capital získává Incodema3D",
+    "summary": "AFM Capital Partners Inc, an Indianapolis-based private investment firm focused on control investments in middle-market companies, has acquired a majority ownership stake in Incodema3D Holdings, a contract manufacturer specializing in metal additive manufacturing for defense, aerospace, space, energy, and industrial applications. Financial terms of the transaction were not disclosed. Founder and CEO Sean Whittaker and [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2024/04/Incodema3D_Sean_Whittaker_Founder_Image2-media-f9fb8a03-query@2x-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-23T11:12:46+00:00",
+    "url": "https://3dprintingindustry.com/news/afm-capital-acquires-incodema3d-249883/?utm_source=rss&utm_medium=rss&utm_campaign=afm-capital-acquires-incodema3d",
+    "title_en": "AFM Capital acquires Incodema3D",
+    "summary_bullets_en": [
+      "AFM Capital Partners Inc, a private investment firm based in Indianapolis, has acquired a majority stake in Incodema3D Holdings.",
+      "Incodema3D specializes in metal additive manufacturing for sectors such as defense, aerospace, space, energy, and industrial applications.",
+      "The financial terms of the acquisition were not disclosed.",
+      "Founder and CEO Sean Whittaker will continue to be involved with the company."
+    ],
+    "summary_bullets_cs": [
+      "AFM Capital Partners Inc, soukromá investiční firma se sídlem v Indianapolis, získala většinový podíl v Incodema3D Holdings.",
+      "Incodema3D se specializuje na kovovou aditivní výrobu pro sektory jako obrana, letectví, vesmír, energetika a průmyslové aplikace.",
+      "Finanční podmínky akvizice nebyly zveřejněny.",
+      "Zakladatel a CEO Sean Whittaker bude nadále zapojen do společnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Incodema3D",
+      "AFM Capital",
+      "Additive Manufacturing",
+      "Defense",
+      "Aerospace",
+      "Energy",
+      "Industrial Applications"
+    ]
+  },
+  {
+    "title": "Spinal Elements získává schválení FDA 510(k) pro 3D tištěný páteřní implantát Ventana A ALIF",
+    "summary": "Spinal Elements, a California-based developer of spinal surgery devices, has received FDA 510(k) clearance for its Ventana A Anterior Lumbar Interbody Fusion (ALIF) System, a 3D printed titanium implant designed for spinal fusion procedures. The clearance was announced on March 18, 2026, alongside the first clinical cases using the device, as the company expands its [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/image-10-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-03-23T11:12:25+00:00",
+    "url": "https://3dprintingindustry.com/news/spinal-elements-receives-fda-510k-clearance-for-3d-printed-ventana-a-alif-spinal-implant-250140/?utm_source=rss&utm_medium=rss&utm_campaign=spinal-elements-receives-fda-510k-clearance-for-3d-printed-ventana-a-alif-spinal-implant",
+    "title_en": "Spinal Elements receives FDA 510(k) clearance for 3D printed Ventana A ALIF spinal implant",
+    "summary_bullets_en": [
+      "Spinal Elements, a company based in California, has received FDA 510(k) clearance for its Ventana A ALIF System.",
+      "The Ventana A is a 3D printed titanium implant designed for spinal fusion procedures.",
+      "The clearance was announced on March 18, 2026, along with the first clinical cases using the device."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Spinal Elements z Kalifornie získala schválení FDA 510(k) pro svůj systém Ventana A ALIF.",
+      "Ventana A je 3D tištěný titanový implantát navržený pro fúzní operace páteře.",
+      "Schválení bylo oznámeno 18. března 2026 spolu s prvními klinickými případy použití zařízení."
+    ],
+    "tags": [
+      "Hardware",
+      "Spinal Elements",
+      "FDA",
+      "3D Printing",
+      "Medical Devices"
+    ]
+  },
+  {
+    "title": "3D tištěný lokalizátor rakoviny prsu od Cairn Surgical míří k FDA",
+    "summary": "Medical technology company Cairn Surgical has submitted a De Novo 510(k) application to the U.S. Food and Drug Administration (FDA) seeking clearance for the Breast Cancer Locator (BCL) System, a patient-specific 3D printed device designed to improve tumor localization during breast conserving surgery.&#160; Clinical data included in the submission shows negative margins achieved in 94% [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/trio2-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-03-23T11:11:20+00:00",
+    "url": "https://3dprintingindustry.com/news/cairn-surgicals-3d-printed-breast-cancer-locator-heads-to-fda-250129/?utm_source=rss&utm_medium=rss&utm_campaign=cairn-surgicals-3d-printed-breast-cancer-locator-heads-to-fda",
+    "title_en": "Cairn Surgical’s 3D Printed Breast Cancer Locator Heads to FDA",
+    "summary_bullets_en": [
+      "Cairn Surgical has submitted a De Novo 510(k) application to the FDA for its Breast Cancer Locator (BCL) System.",
+      "The BCL System is a patient-specific 3D printed device aimed at improving tumor localization during breast conserving surgery.",
+      "Clinical data shows that the BCL System achieved negative margins in 94% of cases."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Cairn Surgical podala žádost De Novo 510(k) k FDA pro svůj systém Breast Cancer Locator (BCL).",
+      "Systém BCL je pacientovi přizpůsobené 3D tištěné zařízení určené ke zlepšení lokalizace nádorů během operací zachovávajících prsa.",
+      "Klinická data ukazují, že systém BCL dosáhl negativních okrajů v 94 % případů."
+    ],
+    "tags": [
+      "Hardware",
+      "Cairn Surgical",
+      "3D Printing",
+      "Medical Device",
+      "FDA"
+    ]
+  },
+  {
+    "title": "Studie zkoumá dlouhodobou degradaci polymerů v aditivní výrobě",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/951678452/0/fabbaloo/default~Study-Probes-LongTerm-Degradation-of-AM-Polymers\" rel=\"nofollow\" title=\"Study Probes Long-Term Degradation of AM Polymers\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/am-degradation-1-300x205.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new research paper looks at how 3D printed polymers degrade over time and what that means for real-world part reliability.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951678452/0/fabbaloo/default~Study-Probes-LongTerm-Degradation-of-AM-Polymers\" rel=\"nofollow\">Study Probes Long-Term Degradation of AM Polymers</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/am-degradation-1-300x205.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-23T08:08:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/951678452/0/fabbaloo/default~Study-Probes-LongTerm-Degradation-of-AM-Polymers",
+    "title_en": "Study Probes Long-Term Degradation of AM Polymers",
+    "summary_bullets_en": [
+      "A new research paper investigates the degradation of 3D printed polymers over time.",
+      "The study aims to understand the implications for the reliability of real-world parts.",
+      "The findings could influence the future design and material selection in additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Nový výzkumný článek zkoumá, jak se 3D tištěné polymery degradují v průběhu času.",
+      "Studie se snaží pochopit důsledky pro spolehlivost reálných dílů.",
+      "Zjištění by mohla ovlivnit budoucí návrh a výběr materiálů v aditivní výrobě."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Polymers",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 22. března 2026",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/951601913/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-March\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, March 22, 2026\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/biggest-cover-300x171.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951601913/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-March\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, March 22, 2026</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/biggest-cover-300x171.jpg",
