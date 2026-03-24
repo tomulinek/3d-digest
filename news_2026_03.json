@@ -1,5 +1,300 @@
 [
   {
+    "title": "Würth Additive Group a B9Creations oznamují strategické partnerství na AMUG 2026",
+    "summary": "Last week, hundreds of additive manufacturing users (and a few journalists, like me!) met in Reno, Nevada to attend the 2026 Additive Manufacturing Users Group (AMUG) Conference. I&#8217;ll share more...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/03/1773760912438-1024x768.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-24T12:00:43+00:00",
+    "url": "https://3dprint.com/324726/wurth-additive-b9creations-announce-partnership-amug-2026/",
+    "title_en": "Würth Additive Group & B9Creations Announce Strategic Partnership at AMUG 2026",
+    "summary_bullets_en": [
+      "Würth Additive Group and B9Creations have announced a strategic partnership.",
+      "The announcement was made at the 2026 Additive Manufacturing Users Group (AMUG) Conference in Reno, Nevada.",
+      "The partnership aims to enhance capabilities in additive manufacturing solutions."
+    ],
+    "summary_bullets_cs": [
+      "Würth Additive Group a B9Creations oznámily strategické partnerství.",
+      "Oznámení bylo učiněno na konferenci Additive Manufacturing Users Group (AMUG) 2026 v Renu, Nevada.",
+      "Partnerství má za cíl posílit schopnosti v oblasti řešení aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Würth Additive Group",
+      "B9Creations",
+      "AMUG"
+    ]
+  },
+  {
+    "title": "Jak daleko se AM ve zdravotnictví skutečně dostalo? Zjistěte na RAPID + TCT 2026",
+    "summary": "Something has matured in how the AM industry thinks about healthcare, and the conversation is sharper for it. Where the industry once debated potential, practitioners are now deep in the specifics: how to manufacture custom medical products at scale, how to satisfy regulators who were not built with AM in mind, and how to move [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/SME-RapidTCT-2025_0518-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-03-24T11:50:59+00:00",
+    "url": "https://3dprintingindustry.com/news/how-far-has-am-in-healthcare-really-come-find-out-at-rapid-tct-2026-250193/?utm_source=rss&utm_medium=rss&utm_campaign=how-far-has-am-in-healthcare-really-come-find-out-at-rapid-tct-2026",
+    "title_en": "How Far Has AM in Healthcare Really Come? Find out at RAPID + TCT 2026",
+    "summary_bullets_en": [
+      "The AM industry has matured in its approach to healthcare, focusing on specific challenges.",
+      "Discussions have shifted from potential to practical issues like manufacturing custom medical products at scale.",
+      "There is a focus on satisfying regulatory requirements that were not originally designed for AM."
+    ],
+    "summary_bullets_cs": [
+      "Průmysl AM dospěl ve svém přístupu ke zdravotnictví a zaměřuje se na konkrétní výzvy.",
+      "Diskuse se posunuly od potenciálu k praktickým otázkám, jako je výroba zakázkových zdravotnických produktů ve velkém měřítku.",
+      "Zaměřuje se na splnění regulačních požadavků, které nebyly původně navrženy pro AM."
+    ],
+    "tags": [
+      "Healthcare",
+      "AM Industry",
+      "Regulations",
+      "RAPID + TCT"
+    ]
+  },
+  {
+    "title": "Polymaker rozšiřuje spotřebitelský e-shop do šesti evropských trhů",
+    "summary": "Polymaker, a developer and manufacturer of 3D printing materials, has expanded its direct-to-consumer webshop to six additional European markets: the UK, France, Germany, Poland, Czechia, and Spain. Announced from Utrecht, Netherlands, the move gives customers in those countries direct access to the company’s official webshop. The expansion is intended to make the company’s materials more [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/PM70820_Isometric_Top-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-03-24T11:49:52+00:00",
+    "url": "https://3dprintingindustry.com/news/polymaker-expands-consumer-webshop-to-six-european-markets-250231/?utm_source=rss&utm_medium=rss&utm_campaign=polymaker-expands-consumer-webshop-to-six-european-markets",
+    "title_en": "Polymaker Expands Consumer Webshop to Six European Markets",
+    "summary_bullets_en": [
+      "Polymaker has expanded its direct-to-consumer webshop to six European countries.",
+      "The new markets include the UK, France, Germany, Poland, Czechia, and Spain.",
+      "This expansion allows customers in these countries direct access to Polymaker's official webshop.",
+      "The move aims to make Polymaker's 3D printing materials more accessible to European consumers."
+    ],
+    "summary_bullets_cs": [
+      "Polymaker rozšířil svůj přímý spotřebitelský e-shop do šesti evropských zemí.",
+      "Nové trhy zahrnují Spojené království, Francii, Německo, Polsko, Česko a Španělsko.",
+      "Toto rozšíření umožňuje zákazníkům v těchto zemích přímý přístup k oficiálnímu e-shopu Polymaker.",
+      "Cílem tohoto kroku je zpřístupnit materiály pro 3D tisk od Polymaker evropským spotřebitelům."
+    ],
+    "tags": [
+      "Material",
+      "Polymaker",
+      "3D Printing",
+      "Webshop",
+      "Europe"
+    ]
+  },
+  {
+    "title": "Mohou počítačové simulace zrychlit a zlevnit certifikaci kovového AM v letectví?",
+    "summary": "NASA and the Federal Aviation Administration (FAA) have published a strategy document proposing computer simulations as a tool to cut the time and cost of certifying metal 3D printed aviation components. The 195-page report was developed over five years by a steering group known as CM4QC, comprising experts from Boeing, Lockheed Martin, GE Aerospace, Honeywell, [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/NASA-pdf-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-03-24T11:48:32+00:00",
+    "url": "https://3dprintingindustry.com/news/can-computer-simulations-make-metal-am-certification-in-aviation-faster-and-more-affordable-250220/?utm_source=rss&utm_medium=rss&utm_campaign=can-computer-simulations-make-metal-am-certification-in-aviation-faster-and-more-affordable",
+    "title_en": "Can Computer Simulations Make Metal AM Certification in Aviation Faster and More Affordable?",
+    "summary_bullets_en": [
+      "NASA and the FAA have released a strategy document advocating for the use of computer simulations in certifying metal 3D printed aviation components.",
+      "The report aims to reduce the time and cost associated with the certification process.",
+      "Developed over five years, the document is a collaborative effort by the CM4QC steering group, including experts from major aerospace companies.",
+      "The initiative seeks to streamline the certification process for metal additive manufacturing in the aviation industry."
+    ],
+    "summary_bullets_cs": [
+      "NASA a FAA zveřejnily strategický dokument, který prosazuje využití počítačových simulací při certifikaci kovových 3D tištěných komponentů pro letectví.",
+      "Cílem zprávy je snížit čas a náklady spojené s certifikačním procesem.",
+      "Dokument byl vyvíjen po dobu pěti let a je výsledkem spolupráce řídící skupiny CM4QC, zahrnující odborníky z hlavních leteckých společností.",
+      "Iniciativa usiluje o zefektivnění certifikačního procesu pro kovovou aditivní výrobu v leteckém průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "NASA",
+      "FAA",
+      "Boeing",
+      "Lockheed Martin",
+      "GE Aerospace",
+      "Honeywell",
+      "Metal Additive Manufacturing",
+      "Aviation"
+    ]
+  },
+  {
+    "title": "DiY MANPADS? Prototyp levného odpalovače a řízené rakety postavený s použitím spotřební elektroniky a 3D tištěných dílů",
+    "summary": "Alisher Khojayev, a student at Los Angeles Valley College, has published a proof-of-concept prototype for a low-cost launcher and guided rocket system built with consumer electronics and 3D printed components. In a video presentation on his YouTube channel and two GitHub repositories, Khojayev says the launcher and rocket assembly cost approximately $96 in hardware. He [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/Untitled-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-03-24T11:47:14+00:00",
+    "url": "https://3dprintingindustry.com/news/low-cost-launcher-and-guided-rocket-prototype-built-with-consumer-electronics-and-3d-printed-parts-250201/?utm_source=rss&utm_medium=rss&utm_campaign=low-cost-launcher-and-guided-rocket-prototype-built-with-consumer-electronics-and-3d-printed-parts",
+    "title_en": "DiY MANPADS? Low-cost Launcher and Guided Rocket Prototype Built with Consumer Electronics and 3D Printed Parts",
+    "summary_bullets_en": [
+      "Alisher Khojayev, a student at Los Angeles Valley College, developed a low-cost launcher and guided rocket prototype.",
+      "The system is built using consumer electronics and 3D printed components.",
+      "Khojayev shared the project details through a YouTube video and GitHub repositories.",
+      "The total cost of the hardware for the launcher and rocket assembly is approximately $96."
+    ],
+    "summary_bullets_cs": [
+      "Alisher Khojayev, student na Los Angeles Valley College, vyvinul prototyp levného odpalovače a řízené rakety.",
+      "Systém je postaven s použitím spotřební elektroniky a 3D tištěných komponentů.",
+      "Khojayev sdílel podrobnosti o projektu prostřednictvím videa na YouTube a repozitářů na GitHubu.",
+      "Celkové náklady na hardware pro sestavu odpalovače a rakety jsou přibližně 96 dolarů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Consumer Electronics",
+      "DIY",
+      "Los Angeles Valley College"
+    ]
+  },
+  {
+    "title": "Navigace v komplexitě prodeje průmyslového 3D tisku: Rozhovor s Le’orou Lichtenstein z Corbelu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/951792293/0/fabbaloo/default~Navigating-Complexity-in-Industrial-D-Printing-Sales-An-Interview-with-Corbel%e2%80%99s-Le%e2%80%99ora-Lichtenstein\" rel=\"nofollow\" title=\"Navigating Complexity in Industrial 3D Printing Sales: An Interview with Corbel’s Le’ora Lichtenstein\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/Corbel-1-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Andressa Bonafe discuss how AI-driven sales tools are reshaping industrial manufacturing by reducing misconfigurations and accelerating deal flow.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951792293/0/fabbaloo/default~Navigating-Complexity-in-Industrial-D-Printing-Sales-An-Interview-with-Corbel%e2%80%99s-Le%e2%80%99ora-Lichtenstein\" rel=\"nofollow\">Navigating Complexity in Industrial 3D Printing Sales: An Interview with Corbel’s Le’ora Lichtenstein</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/Corbel-1-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-24T11:33:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/951792293/0/fabbaloo/default~Navigating-Complexity-in-Industrial-D-Printing-Sales-An-Interview-with-Corbel%e2%80%99s-Le%e2%80%99ora-Lichtenstein",
+    "title_en": "Navigating Complexity in Industrial 3D Printing Sales: An Interview with Corbel’s Le’ora Lichtenstein",
+    "summary_bullets_en": [
+      "AI-driven sales tools are transforming industrial manufacturing by minimizing misconfigurations.",
+      "These tools are also accelerating the deal flow in the 3D printing industry.",
+      "Le’ora Lichtenstein from Corbel discusses the impact of these technologies on sales processes."
+    ],
+    "summary_bullets_cs": [
+      "Nástroje prodeje řízené umělou inteligencí transformují průmyslovou výrobu minimalizací chybných konfigurací.",
+      "Tyto nástroje také urychlují tok obchodů v odvětví 3D tisku.",
+      "Le’ora Lichtenstein z Corbelu diskutuje o dopadu těchto technologií na prodejní procesy."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "Corbel",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Nový výzkum 3D tištěné platformy pro detekci infarktu s elektrodami za 17 centů",
+    "summary": "Researchers from the University of Brighton and University of Strathclyde have developed an electrochemical sensor platform capable of detecting a heart attack protein biomarker in human blood serum. Published in Analytical Chemistry, the study targets cardiac troponin I, a protein released into the bloodstream when heart muscle is damaged and the central biomarker in heart [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/ac5c08037_0006-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-03-24T10:44:56+00:00",
+    "url": "https://3dprintingindustry.com/news/new-research-on-3d-printed-heart-attack-sensing-platform-with-17-cents-electrodes-250157/?utm_source=rss&utm_medium=rss&utm_campaign=new-research-on-3d-printed-heart-attack-sensing-platform-with-17-cents-electrodes",
+    "title_en": "New Research on 3D Printed Heart Attack Sensing Platform With 17 Cents Electrodes",
+    "summary_bullets_en": [
+      "Researchers from the University of Brighton and University of Strathclyde have developed a 3D printed electrochemical sensor platform.",
+      "The platform is capable of detecting cardiac troponin I, a key protein biomarker for heart attacks, in human blood serum.",
+      "The study was published in the journal Analytical Chemistry.",
+      "The electrodes used in the sensor platform cost only 17 cents."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University of Brighton a University of Strathclyde vyvinuli 3D tištěnou elektrochemickou senzorovou platformu.",
+      "Platforma je schopna detekovat srdeční troponin I, klíčový proteinový biomarker infarktu, v lidském krevním séru.",
+      "Studie byla publikována v časopise Analytical Chemistry.",
+      "Elektrody použité v senzorové platformě stojí pouze 17 centů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Medical",
+      "University of Brighton",
+      "University of Strathclyde",
+      "Analytical Chemistry"
+    ]
+  },
+  {
+    "title": "DreamPartGen přináší text s povědomím o dílech do 3D",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/951779279/0/fabbaloo/default~DreamPartGen-Brings-Part-Aware-Text-To-D\" rel=\"nofollow\" title=\"DreamPartGen Brings Part Aware Text To 3D\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/dreampart-cover2-300x171.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new research model called DreamPartGen could make text generated 3D models far more usable for printing and assembly.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951779279/0/fabbaloo/default~DreamPartGen-Brings-Part-Aware-Text-To-D\" rel=\"nofollow\">DreamPartGen Brings Part Aware Text To 3D</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/dreampart-cover2-300x171.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-24T08:08:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/951779279/0/fabbaloo/default~DreamPartGen-Brings-Part-Aware-Text-To-D",
+    "title_en": "DreamPartGen Brings Part Aware Text To 3D",
+    "summary_bullets_en": [
+      "DreamPartGen is a new research model designed to enhance the usability of text-generated 3D models.",
+      "The model aims to improve the printing and assembly process of 3D models.",
+      "DreamPartGen introduces part-aware text capabilities to 3D modeling."
+    ],
+    "summary_bullets_cs": [
+      "DreamPartGen je nový výzkumný model navržený ke zvýšení použitelnosti textem generovaných 3D modelů.",
+      "Model si klade za cíl zlepšit proces tisku a montáže 3D modelů.",
+      "DreamPartGen zavádí schopnosti textu s povědomím o dílech do 3D modelování."
+    ],
+    "tags": [
+      "Software",
+      "3D Modeling",
+      "DreamPartGen"
+    ]
+  },
+  {
+    "title": "3D tisk keramiky na Ceramitec 2026",
+    "summary": "Ceramitec is a key event for the ceramics industry. Held in the lovely city of Munich, it is the leading global event for the ceramics community. With around 13,000 participants...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/03/ceramitec-Konferenzprogramm.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-24T07:30:21+00:00",
+    "url": "https://3dprint.com/324728/3d-printing-at-ceramitec-2026/",
+    "title_en": "Ceramics 3D Printing at Ceramitec 2026",
+    "summary_bullets_en": [
+      "Ceramitec is a major event for the ceramics industry, held in Munich.",
+      "It is recognized as the leading global event for the ceramics community.",
+      "The event attracts around 13,000 participants from various sectors."
+    ],
+    "summary_bullets_cs": [
+      "Ceramitec je klíčovou událostí pro keramický průmysl, konanou v Mnichově.",
+      "Je uznávána jako přední globální událost pro keramickou komunitu.",
+      "Akce přitahuje kolem 13 000 účastníků z různých sektorů."
+    ],
+    "tags": [
+      "Hardware",
+      "Ceramitec",
+      "3D Printing",
+      "Ceramics",
+      "Munich"
+    ]
+  },
+  {
+    "title": "OU a Oak Ridge Lab získaly 8,8 milionu dolarů na urychlení schvalování 3D tištěných dílů pro letadla letectva",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/ou-and-oak-ridge-lab-win-8-8m-to-speed-3d-printed-parts-approval-for-air-force-aircraft/\" target=\"_blank\">OU and Oak Ridge Lab Win $8.8M to Speed 3D-Printed Parts Approval for Air Force Aircraft</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">March 24</span></div><div><img alt=\"\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/SAML-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/SAML-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-03-24T07:13:42+00:00",
+    "url": "https://3dprinting.com/news/ou-and-oak-ridge-lab-win-8-8m-to-speed-3d-printed-parts-approval-for-air-force-aircraft/",
+    "title_en": "OU and Oak Ridge Lab Win $8.8M to Speed 3D-Printed Parts Approval for Air Force Aircraft",
+    "summary_bullets_en": [
+      "The University of Oklahoma (OU) and Oak Ridge National Laboratory have received an $8.8 million grant.",
+      "The funding aims to accelerate the approval process for 3D-printed parts used in Air Force aircraft.",
+      "This initiative is expected to enhance the efficiency and reliability of aircraft maintenance and operations."
+    ],
+    "summary_bullets_cs": [
+      "Univerzita v Oklahomě (OU) a Oak Ridge National Laboratory obdržely grant ve výši 8,8 milionu dolarů.",
+      "Financování má za cíl urychlit proces schvalování 3D tištěných dílů používaných v letadlech letectva.",
+      "Tato iniciativa by měla zlepšit efektivitu a spolehlivost údržby a provozu letadel."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Air Force",
+      "University of Oklahoma",
+      "Oak Ridge National Laboratory"
+    ]
+  },
+  {
+    "title": "Na TCT Asia 2026 vypadá čínský průmysl aditivní výroby připraven na rozšíření: Část 1",
+    "summary": "Walk into TCT Asia 2026, and the first impression is density. More than 55,000 square meters across Halls 7.1 and 8.1 at Shanghai&#8217;s National Exhibition and Convention Center, over 550...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/03/IMG_0861-1024x768.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-24T07:00:32+00:00",
+    "url": "https://3dprint.com/324676/tct-asia-2026-chinas-am-industry-looked-ready-for-scale-part-1/",
+    "title_en": "At TCT Asia 2026, China’s AM Industry Looked Ready for Scale: Part 1",
+    "summary_bullets_en": [
+      "TCT Asia 2026 showcased the impressive scale of China's additive manufacturing industry.",
+      "The event spanned over 55,000 square meters with more than 550 exhibitors.",
+      "The exhibition highlighted China's readiness to scale up its 3D printing capabilities."
+    ],
+    "summary_bullets_cs": [
+      "TCT Asia 2026 ukázala impozantní rozsah čínského průmyslu aditivní výroby.",
+      "Akce se rozprostírala na více než 55 000 čtverečních metrech s více než 550 vystavovateli.",
+      "Výstava zdůraznila připravenost Číny rozšířit své schopnosti v oblasti 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Exhibition",
+      "China",
+      "3D Printing",
+      "TCT Asia"
+    ]
+  },
+  {
     "title": "Výzkumníci z KRICT vyvíjejí 4D tištěné polymery, které redefinují měkkou robotiku",
     "summary": "Soft robotics has a longstanding problem: the materials that make robots flexible and lifelike are notoriously difficult to manufacture into precise, useful shapes. A team of researchers from the Korea Research Institute of Chemical Technology (KRICT) may have found a way around that, using one of the cheapest and most overlooked industrial waste materials available: [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/adma70008-fig-0006-m-150x100.png",
