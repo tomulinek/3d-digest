@@ -1,5 +1,134 @@
 [
   {
+    "title": "DEEP Manufacturing otevře zařízení WAAM o rozloze 50 000 čtverečních stop v Houstonu",
+    "summary": "I&#8217;m a big fan of wire arc additive manufacturing (WAAM), in large part because it&#8217;s not that much of a departure from how arc welding already works. It&#8217;s a technology...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/03/New-DEEP-Manufacturing-facility-3-1024x682.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-25T12:00:38+00:00",
+    "url": "https://3dprint.com/324733/deep-manufacturing-to-open-50000-sq-ft-waam-facility-in-houston/",
+    "title_en": "DEEP Manufacturing to Open 50,000 Sq. Ft. WAAM Facility in Houston",
+    "summary_bullets_en": [
+      "DEEP Manufacturing is set to open a new 50,000 square foot facility in Houston dedicated to wire arc additive manufacturing (WAAM).",
+      "WAAM technology is closely related to traditional arc welding, making it a familiar process for those in the welding industry.",
+      "The new facility aims to enhance the capabilities and applications of WAAM in various industries."
+    ],
+    "summary_bullets_cs": [
+      "DEEP Manufacturing plánuje otevřít nové zařízení o rozloze 50 000 čtverečních stop v Houstonu, zaměřené na výrobu pomocí technologie WAAM.",
+      "Technologie WAAM je úzce spjata s tradičním obloukovým svařováním, což ji činí známým procesem pro ty, kteří pracují v oblasti svařování.",
+      "Nové zařízení má za cíl zlepšit schopnosti a aplikace WAAM v různých průmyslových odvětvích."
+    ],
+    "tags": [
+      "Hardware",
+      "DEEP Manufacturing",
+      "WAAM",
+      "Additive Manufacturing",
+      "Houston"
+    ]
+  },
+  {
+    "title": "Rotující multimateriálový 3D tisk pneumaticky programovatelných měkkých robotů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/951840878/0/fabbaloo/default~Rotational-MultiMaterial-D-Printing-of-Pneumatically-Programmable-Soft-Robots\" rel=\"nofollow\" title=\"Rotational MultiMaterial 3D Printing of Pneumatically Programmable Soft Robots\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/pneumo2-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Anthony Palumbo and Charles Goulding examine how rotational multi-material 3D printing embeds programmable pneumatic channels in elastomer filaments to create soft robots that bend, twist, and grasp on command, while highlighting key durability and scaling limits. Introduction Soft robots can bend, twist, and conform around delicate objects, enabling safer interaction than many rigid mechanisms. However,&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/951840878/0/fabbaloo/default~Rotational-MultiMaterial-D-Printing-of-Pneumatically-Programmable-Soft-Robots\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">Rotational MultiMaterial 3D Printing of Pneumatically Programmable Soft Robots</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951840878/0/fabbaloo/default~Rotational-MultiMaterial-D-Printing-of-Pneumatically-Programmable-Soft-Robots\" rel=\"nofollow\">Rotational MultiMaterial 3D Printing of Pneumatically Programmable Soft Robots</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/pneumo2-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-25T11:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/951840878/0/fabbaloo/default~Rotational-MultiMaterial-D-Printing-of-Pneumatically-Programmable-Soft-Robots",
+    "title_en": "Rotational MultiMaterial 3D Printing of Pneumatically Programmable Soft Robots",
+    "summary_bullets_en": [
+      "Rotational multi-material 3D printing is used to create soft robots with programmable pneumatic channels.",
+      "These soft robots can bend, twist, and grasp, allowing for safer interaction with delicate objects.",
+      "The technology highlights key durability and scaling limits in the production of soft robots."
+    ],
+    "summary_bullets_cs": [
+      "Rotující multimateriálový 3D tisk se používá k vytváření měkkých robotů s programovatelnými pneumatickými kanály.",
+      "Tito měkcí roboti se mohou ohýbat, kroutit a uchopovat, což umožňuje bezpečnější interakci s křehkými objekty.",
+      "Technologie zdůrazňuje klíčové limity odolnosti a škálovatelnosti při výrobě měkkých robotů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Soft Robotics",
+      "Pneumatics",
+      "Materials"
+    ]
+  },
+  {
+    "title": "PiGRAND přináší fyzikálně informovanou grafovou difuzi do aditivní výroby",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/951836117/0/fabbaloo/default~PiGRAND-Brings-Physics-Informed-Graph-Diffusion-To-AM\" rel=\"nofollow\" title=\"PiGRAND Brings Physics Informed Graph Diffusion To AM\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/pigrand-cover-300x179.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new research model called PiGRAND merges physics guidance with graph neural diffusion to predict and control AM processes.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951836117/0/fabbaloo/default~PiGRAND-Brings-Physics-Informed-Graph-Diffusion-To-AM\" rel=\"nofollow\">PiGRAND Brings Physics Informed Graph Diffusion To AM</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/pigrand-cover-300x179.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-25T08:08:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/951836117/0/fabbaloo/default~PiGRAND-Brings-Physics-Informed-Graph-Diffusion-To-AM",
+    "title_en": "PiGRAND Brings Physics Informed Graph Diffusion To AM",
+    "summary_bullets_en": [
+      "PiGRAND is a new research model that integrates physics guidance with graph neural diffusion.",
+      "The model aims to predict and control additive manufacturing (AM) processes.",
+      "PiGRAND enhances the precision and efficiency of AM by leveraging advanced computational techniques."
+    ],
+    "summary_bullets_cs": [
+      "PiGRAND je nový výzkumný model, který spojuje fyzikální vedení s grafovou neuronovou difuzí.",
+      "Model si klade za cíl předpovídat a řídit procesy aditivní výroby.",
+      "PiGRAND zvyšuje přesnost a efektivitu aditivní výroby využitím pokročilých výpočetních technik."
+    ],
+    "tags": [
+      "Software",
+      "Additive Manufacturing",
+      "PiGRAND"
+    ]
+  },
+  {
+    "title": "Adidas představuje basketbalovou botu vyrobenou 3D tiskem",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/adidas-debuts-3d-printed-basketball-shoe/\" target=\"_blank\">Adidas Debuts 3D Printed Basketball Shoe</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">March 25</span></div><div><img alt=\"Adidas Debuts 3D Printed Basketball Shoe\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/adidas-Basketball-3D-Printed-Shoe-03-320x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"320\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/adidas-Basketball-3D-Printed-Shoe-03-320x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-03-25T07:22:05+00:00",
+    "url": "https://3dprinting.com/news/adidas-debuts-3d-printed-basketball-shoe/",
+    "title_en": "Adidas Debuts 3D Printed Basketball Shoe",
+    "summary_bullets_en": [
+      "Adidas has introduced a new basketball shoe featuring 3D printed components.",
+      "The shoe is designed to enhance performance and comfort for athletes.",
+      "This innovation showcases Adidas' commitment to integrating advanced technology in sportswear."
+    ],
+    "summary_bullets_cs": [
+      "Adidas představil novou basketbalovou botu s komponenty vyrobenými 3D tiskem.",
+      "Bota je navržena tak, aby zlepšila výkon a pohodlí sportovců.",
+      "Tato inovace ukazuje závazek Adidasu k integraci pokročilých technologií do sportovního oblečení."
+    ],
+    "tags": [
+      "Hardware",
+      "Adidas",
+      "3D Printing",
+      "Sportswear"
+    ]
+  },
+  {
+    "title": "Na TCT Asia 2026 vypadá čínský průmysl aditivní výroby připraven na rozšíření: Část 2",
+    "summary": "At TCT Asia 2026, the shift did not stop at metal production. It extended into the consumer and prosumer side of the market, where the same logic of scale, integration,...",
+    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-25T07:00:19+00:00",
+    "url": "https://3dprint.com/324745/at-tct-asia-2026-chinas-am-industry-looked-ready-for-scale-part-2/",
+    "title_en": "At TCT Asia 2026, China’s AM Industry Looked Ready for Scale: Part 2",
+    "summary_bullets_en": [
+      "The event highlighted China's advancements in the consumer and prosumer 3D printing markets.",
+      "There was a notable focus on scaling and integrating technologies across different sectors.",
+      "Innovations were showcased that aimed at enhancing production efficiency and reducing costs."
+    ],
+    "summary_bullets_cs": [
+      "Akce zdůraznila pokroky Číny na trhu spotřebitelského a prosumerského 3D tisku.",
+      "Byl patrný důraz na rozšiřování a integraci technologií napříč různými sektory.",
+      "Byly představeny inovace zaměřené na zvýšení efektivity výroby a snížení nákladů."
+    ],
+    "tags": [
+      "Hardware",
+      "Consumer",
+      "Prosumer",
+      "Integration",
+      "Efficiency",
+      "China",
+      "TCT Asia"
+    ]
+  },
+  {
     "title": "MOVA uvádí AtomForm Palette 300 s 12-tryskovým systémem pro vícebarevný 3D tisk",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/951812723/0/fabbaloo/default~MOVA-Launches-AtomForm-Palette-with-Nozzle-Multicolor-D-Printing-System\" rel=\"nofollow\" title=\"MOVA Launches AtomForm Palette 300 with 12-Nozzle Multicolor 3D Printing System\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/atomform-palette-cover-300x180.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Today MOVA officially launched a new, 12-color desktop 3D printer, the AtomForm Palette 300.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951812723/0/fabbaloo/default~MOVA-Launches-AtomForm-Palette-with-Nozzle-Multicolor-D-Printing-System\" rel=\"nofollow\">MOVA Launches AtomForm Palette 300 with 12-Nozzle Multicolor 3D Printing System</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/atomform-palette-cover-300x180.jpeg",
