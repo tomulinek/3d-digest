@@ -1,5 +1,30 @@
 [
   {
+    "title": "\"Žádné Python Hacky\" - aneb jak se starý 3D tisk snaží udržet nás v minulosti",
+    "summary": "RECODE.AM #43",
+    "image": "https://substackcdn.com/image/fetch/$s_!Z-HT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e6f0fb7-5e58-4d6e-abb5-3a6698c2d1b6_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-03-25T20:30:00+00:00",
+    "url": "https://www.3dprintingjournal.com/p/no-python-hacks-or-how-old-3d-printing",
+    "title_en": "\"No Python Hacks\" - or how old 3D printing is trying to keep us in the past",
+    "summary_bullets_en": [
+      "The article discusses the resistance of traditional 3D printing methods to modern programming languages like Python.",
+      "It highlights how this resistance is hindering innovation and keeping the industry from advancing.",
+      "The piece argues for the adoption of more flexible and modern software solutions to drive the industry forward."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zabývá odporem tradičních metod 3D tisku vůči moderním programovacím jazykům, jako je Python.",
+      "Zdůrazňuje, jak tento odpor brzdí inovace a brání pokroku v odvětví.",
+      "Text argumentuje pro přijetí flexibilnějších a modernějších softwarových řešení k posunu odvětví vpřed."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "3D Printing",
+      "Innovation"
+    ]
+  },
+  {
     "title": "Scrap Labs představuje SCRAP 1 pro levnější 3D tisk kovů",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/951856529/0/fabbaloo/default~Scrap-Labs-Unveils-SCRAP-For-LowerCost-Metal-D-Printing\" rel=\"nofollow\" title=\"Scrap Labs Unveils SCRAP 1 For Lower-Cost Metal 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/scrap1-cover-300x255.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There’s another super inexpensive metal LPBF device coming: the SCRAP 1.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951856529/0/fabbaloo/default~Scrap-Labs-Unveils-SCRAP-For-LowerCost-Metal-D-Printing\" rel=\"nofollow\">Scrap Labs Unveils SCRAP 1 For Lower-Cost Metal 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/scrap1-cover-300x255.jpg",
