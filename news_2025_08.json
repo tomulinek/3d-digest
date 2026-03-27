@@ -3865,6 +3865,37 @@
     ]
   },
   {
+    "title": "Spolehlivost 3D tisku, téma, které je s námi od začátku",
+    "summary": "Jak se vyvíjí spolehlivost 3D tiskáren a co to znamená pro průmyslové nasazení?",
+    "image": "https://blog.aditivni.cz/_astro/Uvedeni_UM_S5.TJpV0n9D.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-08-18T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/spolehlivost-3d-tisku/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Reliability of 3D Printing: A Topic That Has Been with Us from the Start",
+    "summary_bullets_en": [
+      "The reliability of 3D printers has significantly evolved, impacting their industrial application.",
+      "Advancements in technology have improved the precision and consistency of 3D printing processes.",
+      "Increased reliability has led to broader adoption in various industries, including aerospace and healthcare.",
+      "Ongoing research and development continue to address challenges in material quality and machine maintenance."
+    ],
+    "summary_bullets_cs": [
+      "Spolehlivost 3D tiskáren se výrazně vyvinula, což ovlivňuje jejich průmyslové využití.",
+      "Pokroky v technologii zlepšily přesnost a konzistenci procesů 3D tisku.",
+      "Zvýšená spolehlivost vedla k širšímu přijetí v různých odvětvích, včetně letectví a zdravotnictví.",
+      "Probíhající výzkum a vývoj nadále řeší výzvy v kvalitě materiálů a údržbě strojů."
+    ],
+    "tags": [
+      "Hardware",
+      "Industrial Applications",
+      "Reliability",
+      "3D Printing Technology",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Ztrácí otevřený hardware v 3D tisku půdu pod nohama ve prospěch komerčních systémů?",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/923440184/0/fabbaloo/default~Is-Open-Hardware-in-D-Printing-Losing-Ground-to-Commercial-Systems\" rel=\"nofollow\" title=\"Is Open Hardware in 3D Printing Losing Ground to Commercial Systems?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/07/prusa-openhw-over-cover-300x193.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Is Open Source Hardware really dying? I believe the answer is yes and no.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/923440184/0/fabbaloo/default~Is-Open-Hardware-in-D-Printing-Losing-Ground-to-Commercial-Systems\" rel=\"nofollow\">Is Open Hardware in 3D Printing Losing Ground to Commercial Systems?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/07/prusa-openhw-over-cover-300x193.jpg",
@@ -4304,6 +4335,36 @@
       "Nikon",
       "SLM Solutions",
       "HP"
+    ]
+  },
+  {
+    "title": "Jak je to doopravdy s přesností výtisků z plastů",
+    "summary": "Přesnost 3D tištěných dílů z plastů – co očekávat a jaké tolerance jsou reálné?",
+    "image": "https://blog.aditivni.cz/_astro/Robert_ujel.J4uT595_.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-08-16T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/presnost-vytisku-z-plastu/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "The Truth About the Accuracy of Plastic 3D Prints",
+    "summary_bullets_en": [
+      "The accuracy of 3D printed plastic parts can vary based on several factors, including the type of printer and material used.",
+      "Realistic tolerances for plastic 3D prints are crucial for ensuring the functionality and fit of the final product.",
+      "Understanding the limitations and capabilities of different 3D printing technologies can help in setting appropriate expectations."
+    ],
+    "summary_bullets_cs": [
+      "Přesnost 3D tištěných dílů z plastů může kolísat v závislosti na několika faktorech, včetně typu tiskárny a použitého materiálu.",
+      "Reálné tolerance pro plastové 3D výtisky jsou klíčové pro zajištění funkčnosti a správného usazení finálního produktu.",
+      "Pochopení omezení a schopností různých technologií 3D tisku může pomoci při stanovení vhodných očekávání."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Accuracy",
+      "Tolerances",
+      "ADITIVNI.cz"
     ]
   },
   {
