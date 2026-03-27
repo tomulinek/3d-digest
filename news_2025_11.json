@@ -1,5 +1,32 @@
 [
   {
+    "title": "Katamarán vytištěný najednou? Může být!",
+    "summary": "Italská firma Caracol vytiskla celý katamarán pomocí velkoobjemového 3D tisku. Jak je to možné?",
+    "image": "https://blog.aditivni.cz/_astro/Caracol_katamaran.nZh6yibq.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-11-30T23:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/katamaran-vytisteny-najednou/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "A Catamaran Printed in One Go? It's Possible!",
+    "summary_bullets_en": [
+      "Italian company Caracol successfully 3D printed an entire catamaran using large-scale 3D printing technology.",
+      "The project demonstrates the potential of 3D printing in producing large and complex structures in a single process."
+    ],
+    "summary_bullets_cs": [
+      "Italská firma Caracol úspěšně vytiskla celý katamarán pomocí velkoobjemového 3D tisku.",
+      "Projekt ukazuje potenciál 3D tisku při výrobě velkých a složitých struktur v jednom procesu."
+    ],
+    "tags": [
+      "Hardware",
+      "Caracol",
+      "3D Printing",
+      "Large-Scale Printing",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 30. listopadu 2025",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/930561116/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-November\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, November 30, 2025\"><img alt=\"Who&#039;s The Biggest In 3D Printing\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg\" style=\"height: auto !important; float: left; margin-right: 5px;\" width=\"1\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/930561116/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-November\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, November 30, 2025</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg",
@@ -77,6 +104,35 @@
       "AcSIR",
       "3D Printing",
       "Polyimides"
+    ]
+  },
+  {
+    "title": "Co obnáší úspěšné nasazení 3D tisku do praxe",
+    "summary": "Největší překážkou zavedení 3D tisku do firmy není technologie, ale strach z neznámého. Jak ho překonat?",
+    "image": "https://blog.aditivni.cz/_astro/Uspesne_nasazeni.loYWx5n-.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-11-29T23:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/uspesne-nasazeni-3d-tisku-prekonani-neznameno/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "What Successful Implementation of 3D Printing Entails",
+    "summary_bullets_en": [
+      "The biggest hurdle in adopting 3D printing in companies is not the technology itself, but the fear of the unknown.",
+      "Overcoming this fear requires education and training to familiarize employees with the technology.",
+      "Companies should focus on small-scale projects to build confidence and demonstrate the benefits of 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Největší překážkou zavedení 3D tisku do firmy není technologie, ale strach z neznámého.",
+      "Překonání tohoto strachu vyžaduje vzdělávání a školení, aby se zaměstnanci seznámili s technologií.",
+      "Firmy by se měly zaměřit na malé projekty, aby získaly důvěru a ukázaly přínosy 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Implementation",
+      "Training",
+      "ADITIVNI.cz"
     ]
   },
   {
@@ -2457,6 +2513,35 @@
       "Software",
       "Nikon SLM Solutions",
       "Interspectral"
+    ]
+  },
+  {
+    "title": "3D tisk ve výrobě? Jde o peníze a svobodu, jak ukazuje nasazení ve Festo",
+    "summary": "Jak firma Festo využívá 3D tisk k úsporám a výrobní nezávislosti – konkrétní příklad z praxe.",
+    "image": "https://blog.aditivni.cz/_astro/Festo_dil.D5M6ayEU.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-11-23T23:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/3d-tisk-festo-penize-a-svoboda/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "3D Printing in Manufacturing? It's About Money and Freedom, as Demonstrated by Festo's Implementation",
+    "summary_bullets_en": [
+      "Festo utilizes 3D printing to achieve cost savings and manufacturing independence.",
+      "The company has integrated 3D printing into its production processes to enhance flexibility and reduce reliance on external suppliers.",
+      "Specific examples from Festo show how 3D printing contributes to efficient production and innovation."
+    ],
+    "summary_bullets_cs": [
+      "Festo využívá 3D tisk k úsporám a výrobní nezávislosti.",
+      "Firma integrovala 3D tisk do svých výrobních procesů pro zvýšení flexibility a snížení závislosti na externích dodavatelích.",
+      "Konkrétní příklady z Festo ukazují, jak 3D tisk přispívá k efektivní výrobě a inovacím."
+    ],
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "3D Printing",
+      "Festo",
+      "ADITIVNI.cz"
     ]
   },
   {
@@ -6076,6 +6161,35 @@
     ]
   },
   {
+    "title": "3D tisk pomáhá zachraňovat lidské životy",
+    "summary": "Jak 3D tisk pomáhá v českém zdravotnictví – příklad z IKEM ukazuje reálný dopad na životy pacientů.",
+    "image": "https://blog.aditivni.cz/_astro/IKEM_SLS.eAImSIxS.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-11-11T23:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/3d-tisk-zachranuje-zivoty/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "3D Printing Helps Save Lives",
+    "summary_bullets_en": [
+      "3D printing is making significant contributions to Czech healthcare.",
+      "The Institute for Clinical and Experimental Medicine (IKEM) demonstrates the real impact on patients' lives.",
+      "3D printed models assist in complex surgical procedures, improving outcomes and reducing risks."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk významně přispívá k českému zdravotnictví.",
+      "Institut klinické a experimentální medicíny (IKEM) ukazuje reálný dopad na životy pacientů.",
+      "3D tištěné modely pomáhají při složitých chirurgických zákrocích, zlepšují výsledky a snižují rizika."
+    ],
+    "tags": [
+      "Hardware",
+      "Healthcare",
+      "3D Printing",
+      "IKEM",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Incus představuje Hammer Pro25, rozšiřuje možnosti kovového aditivního výrobního procesu pro produkci",
     "summary": "Austrian metal AM company Incus GmbH will showcase its latest breakthrough, the Hammer Pro25 3D printer at Formnext 2025, taking place from November 18-21 in Frankfurt.&#160; Designed for manufacturers who demand precision, reliability, and scale, the new system marks a major step forward in bringing metal additive manufacturing to true industrial production. The Hammer Pro25 [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/11/Hammer_Pro25_1-150x100.jpg",
@@ -6500,6 +6614,33 @@
       "3D Printing",
       "Startup",
       "Israel"
+    ]
+  },
+  {
+    "title": "Potvrzeno: 3D tisk opravdu zrychluje. Jen jinak, než se čekalo",
+    "summary": "Kde 3D tisk skutečně šetří čas? Ne vždy tam, kde byste čekali. Pohled do praxe.",
+    "image": "https://blog.aditivni.cz/_astro/ADITIVNI_recepce.Cv5FuVnz.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-11-10T23:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/3d-tisk-opravdu-zrychluje/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Confirmed: 3D Printing Speeds Up, But Not How You'd Expect",
+    "summary_bullets_en": [
+      "3D printing saves time in unexpected areas, not just in production speed.",
+      "The technology is more efficient in prototyping and reducing the need for complex assembly processes."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk šetří čas v neočekávaných oblastech, nejen v rychlosti výroby.",
+      "Technologie je efektivnější při prototypování a snižování potřeby složitých montážních procesů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Efficiency",
+      "Prototyping",
+      "ADITIVNI.cz"
     ]
   },
   {
