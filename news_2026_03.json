@@ -1,5 +1,132 @@
 [
   {
+    "title": "Aktualizace firmwaru Prusa zrychluje výměnu filamentu u MMU3",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/951905675/0/fabbaloo/default~Prusa-Firmware-Update-Speeds-MMU-Filament-Swaps\" rel=\"nofollow\" title=\"Prusa Firmware Update Speeds MMU3 Filament Swaps\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/prusa-mmu-speed-cover-300x145.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prusa has just pushed a firmware update that cuts MMU3 filament change time enough to shave hours off real multi-color prints.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951905675/0/fabbaloo/default~Prusa-Firmware-Update-Speeds-MMU-Filament-Swaps\" rel=\"nofollow\">Prusa Firmware Update Speeds MMU3 Filament Swaps</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/prusa-mmu-speed-cover-300x145.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-26T16:18:36+00:00",
+    "url": "https://feeds.fabbaloo.com/~/951905675/0/fabbaloo/default~Prusa-Firmware-Update-Speeds-MMU-Filament-Swaps",
+    "title_en": "Prusa Firmware Update Speeds MMU3 Filament Swaps",
+    "summary_bullets_en": [
+      "Prusa has released a firmware update for the MMU3.",
+      "The update significantly reduces filament change time.",
+      "This improvement can save hours on multi-color prints."
+    ],
+    "summary_bullets_cs": [
+      "Prusa vydala aktualizaci firmwaru pro MMU3.",
+      "Aktualizace výrazně zkracuje čas výměny filamentu.",
+      "Toto vylepšení může ušetřit hodiny při tisku vícebarevných modelů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Prusa",
+      "MMU3"
+    ]
+  },
+  {
+    "title": "Formlabs' Form Now: Služba 3D tisku přímo ve firmě",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/951902945/0/fabbaloo/default~Formlabs-Form-Now-InHouse-D-Printing-Service\" rel=\"nofollow\" title=\"Formlabs&#8217; Form Now In-House 3D Printing Service\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/formnow-cover-300x156.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Formlabs’ new Form Now service seems to be active.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951902945/0/fabbaloo/default~Formlabs-Form-Now-InHouse-D-Printing-Service\" rel=\"nofollow\">Formlabs&#8217; Form Now In-House 3D Printing Service</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/formnow-cover-300x156.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-26T15:20:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/951902945/0/fabbaloo/default~Formlabs-Form-Now-InHouse-D-Printing-Service",
+    "title_en": "Formlabs' Form Now In-House 3D Printing Service",
+    "summary_bullets_en": [
+      "Formlabs has launched a new in-house 3D printing service called Form Now.",
+      "The service is designed to streamline the 3D printing process for businesses.",
+      "Form Now aims to provide efficient and high-quality 3D printing solutions."
+    ],
+    "summary_bullets_cs": [
+      "Formlabs spustil novou službu 3D tisku přímo ve firmě s názvem Form Now.",
+      "Služba je navržena tak, aby zjednodušila proces 3D tisku pro podniky.",
+      "Form Now si klade za cíl poskytovat efektivní a vysoce kvalitní řešení 3D tisku."
+    ],
+    "tags": [
+      "Services",
+      "Formlabs",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "IBM patentuje chytřejší 3D tisk s dutým výplněm",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/951893858/0/fabbaloo/default~IBM-Patents-Smarter-Hollow-Fill-D-Printing\" rel=\"nofollow\" title=\"IBM Patents Smarter Hollow Fill 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/ibm-infill-patent-cover-300x193.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>IBM is exploring a way to turn empty 3D printed cavities into engineered features instead of unused air.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/951893858/0/fabbaloo/default~IBM-Patents-Smarter-Hollow-Fill-D-Printing\" rel=\"nofollow\">IBM Patents Smarter Hollow Fill 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/ibm-infill-patent-cover-300x193.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-03-26T13:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/951893858/0/fabbaloo/default~IBM-Patents-Smarter-Hollow-Fill-D-Printing",
+    "title_en": "IBM Patents Smarter Hollow Fill 3D Printing",
+    "summary_bullets_en": [
+      "IBM has patented a new method for 3D printing that utilizes hollow spaces more effectively.",
+      "The technique transforms empty cavities in 3D prints into engineered features rather than leaving them as unused air.",
+      "This innovation could lead to more efficient and functional 3D printed objects."
+    ],
+    "summary_bullets_cs": [
+      "IBM patentovala novou metodu pro 3D tisk, která efektivněji využívá duté prostory.",
+      "Technika přeměňuje prázdné dutiny v 3D tiscích na inženýrské prvky místo toho, aby zůstaly nevyužitým vzduchem.",
+      "Tato inovace by mohla vést k efektivnějším a funkčnějším 3D tištěným objektům."
+    ],
+    "tags": [
+      "Hardware",
+      "IBM",
+      "3D Printing",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Novinky o 3D tisku, 26. března 2026: AMUK, spor o duševní vlastnictví, azbest a další",
+    "summary": "We&#8217;re kicking off today&#8217;s 3D Printing News Briefs with an America Makes Project Call, and then moving on to additive manufacturing in the UK. Then we&#8217;ve got some legal news...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/01/America-Makes-facility-face.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-26T13:00:01+00:00",
+    "url": "https://3dprint.com/324776/3d-printing-news-briefs-3-26-2026/",
+    "title_en": "3D Printing News Briefs, March 26, 2026: AMUK, IP Dispute, Asbestos, & More",
+    "summary_bullets_en": [
+      "America Makes has announced a new project call focused on advancing additive manufacturing technologies.",
+      "The UK is making strides in additive manufacturing with new initiatives and collaborations.",
+      "A legal dispute has arisen concerning intellectual property rights in the 3D printing industry.",
+      "Concerns about asbestos contamination in 3D printing materials are being addressed."
+    ],
+    "summary_bullets_cs": [
+      "America Makes oznámila novou výzvu k projektům zaměřenou na pokrok v technologiích aditivní výroby.",
+      "Spojené království dosahuje pokroků v aditivní výrobě díky novým iniciativám a spolupracím.",
+      "V odvětví 3D tisku vznikl právní spor týkající se práv duševního vlastnictví.",
+      "Řeší se obavy ohledně kontaminace azbestem v materiálech pro 3D tisk."
+    ],
+    "tags": [
+      "Hardware",
+      "America Makes",
+      "UK",
+      "Intellectual Property",
+      "Asbestos"
+    ]
+  },
+  {
+    "title": "Finanční výsledky 3D tisku: Velo3D zaznamenává rostoucí poptávku a růst v obraně, ale ztráty přetrvávají",
+    "summary": "Velo3D (Nasdaq: VELO) is moving further into production-focused 3D printing, with growing demand from defense and aerospace customers shaping its strategy. The company is shifting beyond selling machines toward producing...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/08/IMG_1842.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-03-26T12:30:23+00:00",
+    "url": "https://3dprint.com/324789/3d-printing-financials-velo3d-sees-rising-demand-and-defense-growth-but-losses-persist/",
+    "title_en": "3D Printing Financials: Velo3D Sees Rising Demand and Defense Growth, but Losses Persist",
+    "summary_bullets_en": [
+      "Velo3D is experiencing increased demand from defense and aerospace sectors.",
+      "The company is transitioning from just selling machines to focusing on production.",
+      "Despite growing demand, Velo3D continues to face financial losses."
+    ],
+    "summary_bullets_cs": [
+      "Velo3D zaznamenává zvýšenou poptávku ze sektoru obrany a letectví.",
+      "Společnost se přesouvá od pouhého prodeje strojů k zaměření na produkci.",
+      "Navzdory rostoucí poptávce Velo3D nadále čelí finančním ztrátám."
+    ],
+    "tags": [
+      "Hardware",
+      "Velo3D",
+      "Defense",
+      "Aerospace"
+    ]
+  },
+  {
     "title": "Rok za hodinu: Osvěžte svůj pohled na 3D tisk s webinářem AM Research o přehledu 2025/předpovědi 2026",
     "summary": "One major advantage that helps us at 3DPrint.com in analyzing the additive manufacturing (AM) market is our direct access to data from industry consultancy AM Research, 3DPrint&#8217;s sister company. The...",
     "image": "https://3dprint.com/wp-content/uploads/2026/03/592366c4-e5bc-49ff-ba2a-474c22d42045-2.png",
