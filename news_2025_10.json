@@ -5626,6 +5626,35 @@
     ]
   },
   {
+    "title": "V Eatonu za rok nahradili 90 % dříve obráběných upínek a přípravků vlastními 3D výtisky z prášku",
+    "summary": "Case study Eaton – jak SLS tisk z prášku nahradil 90 % obráběných přípravků za jediný rok.",
+    "image": "https://blog.aditivni.cz/_astro/Eaton_SLS_Formlabs.BOrAfC5T.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-10-11T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/eaton-sls-nahrazeni-obrabeni/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Eaton Replaces 90% of Machined Clamps and Fixtures with In-House 3D Printed Powder Parts in One Year",
+    "summary_bullets_en": [
+      "Eaton successfully replaced 90% of its previously machined clamps and fixtures with 3D printed parts using SLS technology.",
+      "The transition to 3D printing was completed within a year, showcasing the efficiency and potential of additive manufacturing.",
+      "The use of powder-based 3D printing allowed Eaton to streamline production and reduce costs."
+    ],
+    "summary_bullets_cs": [
+      "Eaton úspěšně nahradil 90 % dříve obráběných upínek a přípravků 3D výtisky pomocí SLS technologie.",
+      "Přechod na 3D tisk byl dokončen během jednoho roku, což ukazuje efektivitu a potenciál aditivní výroby.",
+      "Použití 3D tisku z prášku umožnilo Eatonu zefektivnit výrobu a snížit náklady."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "SLS Technology",
+      "Eaton",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Novinky z 3D tisku, 11. října 2025: Kovový prášek, texturování, spánková apnoe a další",
     "summary": "We&#8217;re starting with material news in this weekend&#8217;s 3D Printing News Briefs, as Continuum Powders has announced availability of its Cobalt-Chrome F75 powder. Moving on, Dyndrite LPBF Pro now supports...",
     "image": "https://3dprint.com/wp-content/uploads/2025/10/Continuum-datasheet-1024x341.png",
