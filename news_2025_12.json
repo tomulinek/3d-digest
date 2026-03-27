@@ -5199,6 +5199,35 @@
     ]
   },
   {
+    "title": "Letadlo havarovalo po selhání 3D tištěné součásti. Může za to 3D tisk?",
+    "summary": "Rozbor případu havárie letadla a role 3D tištěné součásti – kde je hranice mezi technologií a její aplikací?",
+    "image": "https://blog.aditivni.cz/_astro/Letadlo_havarovalo.BNv3avEZ.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-12-09T23:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/letadlo-havarovalo-3d-tistena-soucast/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Plane Crashed Due to Failure of 3D Printed Part. Is 3D Printing to Blame?",
+    "summary_bullets_en": [
+      "An investigation into a plane crash revealed the failure of a 3D printed component.",
+      "The article examines the role of 3D printing technology in the incident.",
+      "It discusses the boundary between the technology itself and its application in critical systems."
+    ],
+    "summary_bullets_cs": [
+      "Vyšetřování havárie letadla odhalilo selhání 3D tištěné součásti.",
+      "Článek zkoumá roli technologie 3D tisku v tomto incidentu.",
+      "Diskutuje se o hranici mezi samotnou technologií a její aplikací v kritických systémech."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Aviation",
+      "Safety",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Anycubicův Kobra X má čtyřkanálovou extruzi a schopnost tisku až 19 barvami",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/932688017/0/fabbaloo/default~Anycubics-Kobra-X-has-FourChannel-Extrusion-and-Up-to-Color-Capability\" rel=\"nofollow\" title=\"Anycubic&#8217;s Kobra X has Four-Channel Extrusion and Up to 19-Color Capability\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/12/kobra-x-cover-300x187.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Anycubic announced a new desktop FFF 3D printer, the Kobra X.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/932688017/0/fabbaloo/default~Anycubics-Kobra-X-has-FourChannel-Extrusion-and-Up-to-Color-Capability\" rel=\"nofollow\">Anycubic&#8217;s Kobra X has Four-Channel Extrusion and Up to 19-Color Capability</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/12/kobra-x-cover-300x187.jpg",
@@ -5975,6 +6004,33 @@
     ]
   },
   {
+    "title": "Německé dráhy jsou v uplatnění 3D tisku dál než ty české",
+    "summary": "Deutsche Bahn systematicky nasazuje 3D tisk pro výrobu náhradních dílů. Co se od nich můžeme naučit?",
+    "image": "https://blog.aditivni.cz/_astro/DB_vytisky.ByHKnNhN.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-12-07T23:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/nemecke-drahy-3d-tisk/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "German Railways Are Ahead of Czech Railways in 3D Printing Implementation",
+    "summary_bullets_en": [
+      "Deutsche Bahn systematically uses 3D printing for the production of spare parts.",
+      "The approach of German Railways can serve as a learning model for other countries."
+    ],
+    "summary_bullets_cs": [
+      "Deutsche Bahn systematicky nasazuje 3D tisk pro výrobu náhradních dílů.",
+      "Přístup německých drah může sloužit jako model pro učení pro jiné země."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Deutsche Bahn",
+      "Railways",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 7. prosince 2025",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/932069786/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-December\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, December 7, 2025\"><img alt=\"Who&#039;s The Biggest In 3D Printing\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg\" style=\"height: auto !important; float: left; margin-right: 5px;\" width=\"1\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/932069786/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-December\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, December 7, 2025</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2021/07/biggest-elephant-2.jpg",
@@ -6313,6 +6369,35 @@
       "3D Printing",
       "Renewable Energy",
       "Hydrogen"
+    ]
+  },
+  {
+    "title": "Proč je velkoobjemový 3D tisk tak výhodný pro výrobu forem",
+    "summary": "Velkoobjemový 3D tisk (LFAM) umožňuje vyrábět formy rychleji a levněji. Podívejte se na reálné příklady.",
+    "image": "https://blog.aditivni.cz/_astro/Caracol_robot.4chIKSrm.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-12-04T23:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/velkoobjemovy-3d-tisk-formy/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Why Large-Format 3D Printing is Advantageous for Mold Production",
+    "summary_bullets_en": [
+      "Large-format 3D printing (LFAM) enables faster and cheaper mold production.",
+      "The technology allows for significant cost savings in manufacturing processes.",
+      "Real-world examples demonstrate the efficiency and practicality of LFAM in industrial applications."
+    ],
+    "summary_bullets_cs": [
+      "Velkoobjemový 3D tisk (LFAM) umožňuje vyrábět formy rychleji a levněji.",
+      "Technologie přináší významné úspory nákladů ve výrobních procesech.",
+      "Reálné příklady ukazují efektivitu a praktičnost LFAM v průmyslových aplikacích."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Manufacturing",
+      "LFAM",
+      "ADITIVNI.cz"
     ]
   },
   {
