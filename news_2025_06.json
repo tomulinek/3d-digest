@@ -1770,6 +1770,35 @@
     ]
   },
   {
+    "title": "Z rozhovoru pro ČT24 na veletrhu IDET (reportáž)",
+    "summary": "Reportáž z rozhovoru Ing. Tomáše Víta pro Českou televizi na veletrhu obranných technologií IDET 2025.",
+    "image": "https://blog.aditivni.cz/_astro/IDET_2025_CT24_rozhovor_Vit.KG7xSSH_.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-06-24T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/rozhovor-ct24-idet-2025/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Interview for ČT24 at the IDET Fair (Report)",
+    "summary_bullets_en": [
+      "Ing. Tomáš Vít discussed the latest advancements in defense technologies at the IDET 2025 fair.",
+      "The interview highlighted the role of 3D printing in modernizing military equipment.",
+      "Vít emphasized the importance of innovation and collaboration in the defense sector."
+    ],
+    "summary_bullets_cs": [
+      "Ing. Tomáš Vít diskutoval o nejnovějších pokrocích v obranných technologiích na veletrhu IDET 2025.",
+      "Rozhovor zdůraznil roli 3D tisku v modernizaci vojenského vybavení.",
+      "Vít zdůraznil význam inovací a spolupráce v obranném sektoru."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Defense",
+      "IDET",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "ArianeGroup bude vyrábět velké části pohonných systémů pomocí kovového 3D tisku",
     "summary": "Secure your spot now for exclusive AM insights at our Additive Manufacturing Advantage online conference covering aerospace, space, and defense! French aerospace firm ArianeGroup has partnered with metal 3D printer manufacturer Nikon SLM Solutions to bring large-format metal AM into its production of aerospace components.&#160; In the initial phase of the partnership, the manufacturer will supply its [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/092025-AM-News-ArianeGroup-150x100.png",
@@ -3533,6 +3562,36 @@
       "3D Printing",
       "Additive Manufacturing",
       "Defense"
+    ]
+  },
+  {
+    "title": "Co umí 3D tisk III: Jemný, přesný a užitečný tisk z pryskyřic",
+    "summary": "Třetí díl série o možnostech 3D tisku – SLA a DLP tisk z pryskyřic pro přesné a detailní díly.",
+    "image": "https://blog.aditivni.cz/_astro/Formlabs_color_parts.DHcIIdCT.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-06-18T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/co-umi-3d-tisk-3-pryskyrice/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "What 3D Printing Can Do III: Fine, Precise, and Useful Resin Printing",
+    "summary_bullets_en": [
+      "SLA and DLP printing technologies use resins to create highly detailed and precise parts.",
+      "These methods are ideal for applications requiring fine detail, such as jewelry and dental models.",
+      "Resin printing offers advantages in terms of surface finish and accuracy compared to other 3D printing methods."
+    ],
+    "summary_bullets_cs": [
+      "Technologie SLA a DLP využívají pryskyřice k tvorbě velmi detailních a přesných dílů.",
+      "Tyto metody jsou ideální pro aplikace vyžadující jemné detaily, jako je šperkařství a zubní modely.",
+      "Tisk z pryskyřic nabízí výhody v povrchové úpravě a přesnosti ve srovnání s jinými metodami 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "SLA",
+      "DLP",
+      "Resin Printing",
+      "ADITIVNI.cz"
     ]
   },
   {
