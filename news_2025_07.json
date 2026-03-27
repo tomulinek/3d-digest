@@ -2153,6 +2153,35 @@
     ]
   },
   {
+    "title": "3D tisk je důležitou součástí automatizace",
+    "summary": "3D tisk a automatizace jdou ruku v ruce – jak se vzájemně doplňují a proč je to důležité.",
+    "image": "https://blog.aditivni.cz/_astro/MSV-Tomas-Vit.BCHK5hvR.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-07-24T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/3d-tisk-soucasti-automatizace/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "3D Printing as a Key Component of Automation",
+    "summary_bullets_en": [
+      "3D printing and automation complement each other in modern manufacturing.",
+      "The integration of 3D printing into automated systems enhances efficiency and flexibility.",
+      "This synergy is crucial for the advancement of industries seeking to optimize production processes."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk a automatizace se vzájemně doplňují v moderní výrobě.",
+      "Integrace 3D tisku do automatizovaných systémů zvyšuje efektivitu a flexibilitu.",
+      "Tato synergie je klíčová pro pokrok průmyslu, který usiluje o optimalizaci výrobních procesů."
+    ],
+    "tags": [
+      "Hardware",
+      "Automation",
+      "3D Printing",
+      "Manufacturing",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "AMAA 2025: 90% úspora nákladů a času u Northrop Grumman díky 3D tisku",
     "summary": "Northrop Grumman is integrating additive manufacturing across its space systems to reduce lead times, lower costs, and enhance the design flexibility of certified parts. At the recent Additive Manufacturing Advantage Aerospace (AMAA) 2025 conference, Andrew Thompson revealed that Northrop 3D prints hundreds of thousands of parts annually. The global aerospace, space, and defense manufacturer is [&#8230;]",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/AMAA-2025-Andrew-Thompson-150x100.png",
@@ -3936,6 +3965,32 @@
       "Material",
       "Sustainability",
       "Uniplay"
+    ]
+  },
+  {
+    "title": "Můj projekt vám umožňuje čerpat novinky z 3D tisku česky a se shrnutím",
+    "summary": "Představení projektu 3Damuse.com – novinky ze světa 3D tisku v češtině s přehledným shrnutím.",
+    "image": "https://blog.aditivni.cz/_astro/3Damuse_com.BJzJP_n1.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-07-19T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/3damuse-novinky-z-3d-tisku-cesky/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "My Project Allows You to Access 3D Printing News in Czech with Summaries",
+    "summary_bullets_en": [
+      "Introduction of the 3Damuse.com project, providing 3D printing news in Czech.",
+      "The platform offers concise summaries of the latest developments in 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Představení projektu 3Damuse.com – novinky ze světa 3D tisku v češtině.",
+      "Platforma nabízí přehledná shrnutí nejnovějších událostí v oblasti 3D tisku."
+    ],
+    "tags": [
+      "Services",
+      "3D Printing",
+      "3Damuse.com",
+      "ADITIVNI.cz"
     ]
   },
   {
@@ -8473,6 +8528,35 @@
       "SLS",
       "3D Printing",
       "Czech Industry"
+    ]
+  },
+  {
+    "title": "SLS tisk z prášků dobývá české firmy",
+    "summary": "Technologie SLS (Selective Laser Sintering) si získává stále více českých firem. Proč?",
+    "image": "https://blog.aditivni.cz/_astro/formlabs-nylon-11-cf.K8vz3aeV.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2025-07-03T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/sls-tisk-dobyva-ceske-firmy/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "SLS Powder Printing Conquers Czech Companies",
+    "summary_bullets_en": [
+      "Selective Laser Sintering (SLS) technology is gaining popularity among Czech companies.",
+      "SLS offers advantages such as high precision and the ability to create complex geometries.",
+      "The technology is particularly appealing for industries requiring durable and detailed prototypes."
+    ],
+    "summary_bullets_cs": [
+      "Technologie SLS (Selective Laser Sintering) si získává stále více českých firem.",
+      "SLS nabízí výhody jako vysokou přesnost a schopnost vytvářet složité geometrie.",
+      "Technologie je obzvláště atraktivní pro odvětví vyžadující odolné a detailní prototypy."
+    ],
+    "tags": [
+      "Hardware",
+      "SLS",
+      "3D Printing",
+      "Czech Companies",
+      "ADITIVNI.cz"
     ]
   },
   {
