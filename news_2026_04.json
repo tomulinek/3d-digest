@@ -1,5 +1,413 @@
 [
   {
+    "title": "Artemis II odstartovala s 3D tiskem na palubě a s vizí mnohem větší role v budoucnu",
+    "summary": "A new chapter in human spaceflight began today as NASA launched Artemis II from Kennedy Space Center, sending astronauts on a journey around the Moon for the first time in...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/NHQ202601170091large.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-01T23:00:58+00:00",
+    "url": "https://3dprint.com/324972/artemis-ii-launches-with-3d-printing-onboard-and-a-much-bigger-role-ahead/",
+    "forced_tags": [],
+    "title_en": "Artemis II Launches With 3D Printing Onboard, and a Much Bigger Role Ahead",
+    "summary_bullets_en": [
+      "NASA's Artemis II mission successfully launched, marking a historic crewed journey around the Moon.",
+      "3D printed components are integrated into the spacecraft, demonstrating the reliability of additive manufacturing in deep space.",
+      "The mission serves as a precursor to future lunar infrastructure projects where 3D printing will play a critical role in construction."
+    ],
+    "summary_bullets_cs": [
+      "Dnešním startem mise Artemis II z Kennedyho vesmírného střediska začala nová kapitola pilotovaných letů do vesmíru.",
+      "Astronauti se vydali na cestu kolem Měsíce, přičemž na palubě lodi jsou i součástky vyrobené pomocí 3D tisku.",
+      "Tato mise představuje klíčový krok pro budoucí využití aditivní výroby při stavbě lunárních základen."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "NASA",
+      "Artemis II",
+      "Space Exploration",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Podpůrný filament na bázi perlivé vody má překvapivý háček",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/952809341/0/fabbaloo/default~Sparkling-Water-Support-Filament-Has-A-Surprising-Catch\" rel=\"nofollow\" title=\"Sparkling Water Support Filament Has A Surprising Catch\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/sparkpure-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new soluble support filament could make post processing cleaner, if users are willing to follow a rather specific fluid recipe.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/952809341/0/fabbaloo/default~Sparkling-Water-Support-Filament-Has-A-Surprising-Catch\" rel=\"nofollow\">Sparkling Water Support Filament Has A Surprising Catch</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/sparkpure-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-01T16:20:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/952809341/0/fabbaloo/default~Sparkling-Water-Support-Filament-Has-A-Surprising-Catch",
+    "forced_tags": [],
+    "title_en": "Sparkling Water Support Filament Has A Surprising Catch",
+    "summary_bullets_en": [
+      "A new soluble support filament has been introduced to simplify the post-processing of 3D printed parts.",
+      "The material requires a very specific fluid recipe to dissolve effectively.",
+      "Users must be prepared to use sparkling water or a similar carbonated solution to activate the support removal process.",
+      "This innovation aims to make cleaning complex prints cleaner and more efficient."
+    ],
+    "summary_bullets_cs": [
+      "Byl představen nový rozpustný podpůrný filament, který má zjednodušit post-processing 3D tištěných dílů.",
+      "Materiál vyžaduje pro efektivní rozpuštění velmi specifický recept na lázeň.",
+      "Uživatelé musí být připraveni použít k aktivaci procesu odstraňování podpor perlivou vodu nebo podobný sycený roztok.",
+      "Tato inovace si klade za cíl učinit čištění složitých výtisků čistším a efektivnějším."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Support Filament",
+      "Post-processing",
+      "Soluble Materials"
+    ]
+  },
+  {
+    "title": "PLA filamenty přizpůsobené klimatu mohou vyřešit vaše nepovedené výtisky",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/952795877/0/fabbaloo/default~Climate-Specific-PLA-Might-Fix-Your-Bad-Prints\" rel=\"nofollow\" title=\"Climate Specific PLA Might Fix Your Bad Prints\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/printshift-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A materials startup claims your filament problems may be seasonal, not personal.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/952795877/0/fabbaloo/default~Climate-Specific-PLA-Might-Fix-Your-Bad-Prints\" rel=\"nofollow\">Climate Specific PLA Might Fix Your Bad Prints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/printshift-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-01T15:21:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/952795877/0/fabbaloo/default~Climate-Specific-PLA-Might-Fix-Your-Bad-Prints",
+    "forced_tags": [],
+    "title_en": "Climate Specific PLA Might Fix Your Bad Prints",
+    "summary_bullets_en": [
+      "A new materials startup suggests that many 3D printing failures are caused by environmental factors rather than user error.",
+      "The company is introducing climate-specific PLA filaments designed to perform consistently across different humidity and temperature conditions.",
+      "This approach aims to simplify the printing process by reducing the need for constant manual calibration based on seasonal changes."
+    ],
+    "summary_bullets_cs": [
+      "Startup zabývající se materiály tvrdí, že problémy s 3D tiskem mohou být způsobeny sezónními vlivy, nikoliv chybou uživatele.",
+      "Firma představuje PLA filamenty optimalizované pro konkrétní klimatické podmínky, které mají zajistit konzistentní výsledky.",
+      "Cílem je zjednodušit tiskový proces a omezit nutnost neustálého přenastavování tiskárny kvůli změnám vlhkosti či teploty."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "PLA",
+      "Filament",
+      "Climate Control",
+      "PrintShift"
+    ]
+  },
+  {
+    "title": "Společnost EOS představí na veletrhu Hannover Messe umělou inteligenci, robotiku a průmyslové nástroje",
+    "summary": "The US-Israel war on Iran is already catalyzing the sorts of major shifts to global supply chains that will effectively amount to permanent economic changes. In this context, the nations...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/03/System_EOS_P3_NET-scaled.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-01T13:30:27+00:00",
+    "url": "https://3dprint.com/324957/eos-to-spotlight-ai-robotics-and-industrial-tooling-at-hannover-messe/",
+    "forced_tags": [],
+    "title_en": "EOS to Spotlight AI, Robotics, and Industrial Tooling at Hannover Messe",
+    "summary_bullets_en": [
+      "EOS will showcase advanced additive manufacturing solutions at the upcoming Hannover Messe.",
+      "The presentation will focus on the integration of AI and robotics to optimize industrial production.",
+      "The company aims to address global supply chain shifts by highlighting the role of industrial tooling in modern manufacturing.",
+      "The event serves as a platform to demonstrate how 3D printing contributes to long-term economic resilience."
+    ],
+    "summary_bullets_cs": [
+      "Společnost EOS představí na nadcházejícím veletrhu Hannover Messe pokročilá řešení aditivní výroby.",
+      "Prezentace se zaměří na integraci umělé inteligence a robotiky pro optimalizaci průmyslové produkce.",
+      "Firma reaguje na globální změny v dodavatelských řetězcích zdůrazněním role průmyslových nástrojů v moderní výrobě.",
+      "Akce slouží jako platforma pro demonstraci toho, jak 3D tisk přispívá k dlouhodobé ekonomické odolnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "EOS",
+      "Hannover Messe",
+      "AI",
+      "Robotics",
+      "Industrial Tooling"
+    ]
+  },
+  {
+    "title": "Režim ticha má údajně vyřešit slabé vrstvení výtisků",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/952768652/0/fabbaloo/default~Silence-Mode-Claims-To-Fix-Weak-Layer-Bonds\" rel=\"nofollow\" title=\"Silence Mode Claims To Fix Weak Layer Bonds\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/silent-mode-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A research team now claims your noisy workshop may be sabotaging print strength.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/952768652/0/fabbaloo/default~Silence-Mode-Claims-To-Fix-Weak-Layer-Bonds\" rel=\"nofollow\">Silence Mode Claims To Fix Weak Layer Bonds</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/silent-mode-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-01T13:23:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/952768652/0/fabbaloo/default~Silence-Mode-Claims-To-Fix-Weak-Layer-Bonds",
+    "forced_tags": [],
+    "title_en": "Silence Mode Claims To Fix Weak Layer Bonds",
+    "summary_bullets_en": [
+      "A research team suggests that ambient noise in workshops can negatively impact 3D print strength.",
+      "The study introduces a 'Silence Mode' concept aimed at mitigating these acoustic vibrations.",
+      "The findings imply that environmental factors beyond temperature and speed play a role in layer adhesion.",
+      "This discovery could lead to new calibration standards for noise-sensitive 3D printing environments."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumný tým tvrdí, že hlučné prostředí v dílně může negativně ovlivňovat pevnost 3D výtisků.",
+      "Studie představuje koncept „režimu ticha“ (Silence Mode), který má za cíl eliminovat vliv akustických vibrací.",
+      "Zjištění naznačují, že na kvalitu spojů mezi vrstvami mají vliv i jiné faktory než jen teplota a rychlost tisku.",
+      "Tento objev by mohl vést k novým standardům kalibrace pro 3D tiskárny v hlučném provozu."
+    ],
+    "tags": [
+      "Hardware",
+      "Research",
+      "3D Printing",
+      "Layer Adhesion",
+      "Acoustics",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "Creality uvádí na trh výrobník filamentu M1 a drtič R1, které umožňují tvůrcům recyklovat odpad, snížit náklady a vyrábět si vlastní struny",
+    "summary": "From Printing Objects to Shaping Materials Desktop 3D printing has made on-demand creation more accessible than ever. Yet one critical part of the process remains fixed: the material itself. Most...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/03/wedc.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-01T13:00:45+00:00",
+    "url": "https://3dprint.com/324878/creality-launches-filament-maker-m1-shredder-r1-letting-makers-reuse-waste-cut-costs-and-create-their-own-filament/",
+    "forced_tags": [],
+    "title_en": "Creality Launches Filament Maker M1 & Shredder R1, Letting Makers Reuse Waste, Cut Costs, and Create Their Own Filament",
+    "summary_bullets_en": [
+      "Creality introduces the M1 Filament Maker and R1 Shredder to enable in-house filament production.",
+      "The system allows users to recycle 3D printing waste, significantly reducing material costs.",
+      "This ecosystem promotes sustainable 3D printing by turning failed prints and scraps into reusable material.",
+      "The solution empowers makers to customize their own filament, moving beyond standard commercial options."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Creality představuje výrobník filamentu M1 a drtič R1 pro domácí produkci tiskových strun.",
+      "Systém umožňuje uživatelům recyklovat odpad z 3D tisku, což výrazně snižuje náklady na materiál.",
+      "Tento ekosystém podporuje udržitelný 3D tisk tím, že mění nepovedené výtisky a zbytky na znovu použitelný materiál.",
+      "Řešení dává tvůrcům možnost přizpůsobit si vlastní filament a vymanit se ze závislosti na běžných komerčních produktech."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Creality",
+      "Sustainability",
+      "Recycling",
+      "Filament"
+    ]
+  },
+  {
+    "title": "Konvergence vize a zkušenosti: AMS a AMUG",
+    "summary": "During the last few weeks, I spent time on the ground at both the Additive Manufacturing Strategies Forum (AMS) and the Additive Manufacturing Users Group (AMUG) meeting. What stands out...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/03/IMG_2006-scaled.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-01T12:30:25+00:00",
+    "url": "https://3dprint.com/324955/the-convergence-of-vision-and-experience-ams-and-amug/",
+    "forced_tags": [],
+    "title_en": "The Convergence of Vision and Experience: AMS and AMUG",
+    "summary_bullets_en": [
+      "The author attended both the AMS forum and the AMUG conference to gain a comprehensive view of the current state of additive manufacturing.",
+      "The events highlighted a significant shift from theoretical innovation to practical, real-world application in the industry.",
+      "A key takeaway is the growing synergy between strategic vision and the hands-on experience of end-users.",
+      "The industry is maturing, focusing more on reliability and scalable production solutions."
+    ],
+    "summary_bullets_cs": [
+      "Autor se zúčastnil fóra AMS i konference AMUG, aby získal ucelený přehled o současném stavu aditivní výroby.",
+      "Akce zdůraznily výrazný posun od teoretických inovací k praktickému využití v reálném průmyslu.",
+      "Hlavním poznatkem je rostoucí synergie mezi strategickou vizí a praktickými zkušenostmi koncových uživatelů.",
+      "Průmysl dospívá a zaměřuje se více na spolehlivost a škálovatelná výrobní řešení."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Additive Manufacturing",
+      "AMS",
+      "AMUG",
+      "Industry Trends"
+    ]
+  },
+  {
+    "title": "MuskCo Semiconductor: Terafab a 3D tisk",
+    "summary": "Elon Musk essentially functions as a human loophole in the antitrust regulatory system. Whether or not it&#8217;s the deliberate purpose of why he runs his businesses this way, I don&#8217;t...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/03/Screenshot_2026-03-24_104751.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-01T12:00:17+00:00",
+    "url": "https://3dprint.com/324796/muskco-semiconductor-the-terafab-and-3d-printing/",
+    "forced_tags": [],
+    "title_en": "MuskCo Semiconductor: The Terafab and 3D Printing",
+    "summary_bullets_en": [
+      "Elon Musk's business strategy is analyzed as a potential circumvention of antitrust regulations.",
+      "The article explores the intersection of Musk's industrial ventures and advanced manufacturing technologies.",
+      "The concept of 'Terafab' is discussed in the context of integrating 3D printing into semiconductor production.",
+      "The piece questions whether Musk's operational model is a deliberate strategy to dominate the hardware landscape."
+    ],
+    "summary_bullets_cs": [
+      "Elon Musk funguje v podstatě jako lidská klička v antimonopolním regulačním systému.",
+      "Ať už je to záměrný účel, proč takto vede své podniky, nebo ne, článek zkoumá dopady jeho strategie.",
+      "Text se zaměřuje na koncept 'Terafab' a jeho propojení s technologiemi 3D tisku v polovodičovém průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Semiconductors",
+      "Manufacturing",
+      "Elon Musk",
+      "Terafab",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Cosmic Slicer od Starwise Additive ladí 3D tisky podle znamení zvěrokruhu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/952744205/0/fabbaloo/default~Starwise-Additive%e2%80%99s-Cosmic-Slicer-Tunes-Prints-By-Zodiac\" rel=\"nofollow\" title=\"Starwise Additive’s Cosmic Slicer Tunes Prints By Zodiac\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/cosmic-slicer-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new slicer startup thinks your failed Benchy may be a Virgo problem.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/952744205/0/fabbaloo/default~Starwise-Additive%e2%80%99s-Cosmic-Slicer-Tunes-Prints-By-Zodiac\" rel=\"nofollow\">Starwise Additive’s Cosmic Slicer Tunes Prints By Zodiac</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/cosmic-slicer-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-01T11:25:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/952744205/0/fabbaloo/default~Starwise-Additive%e2%80%99s-Cosmic-Slicer-Tunes-Prints-By-Zodiac",
+    "forced_tags": [],
+    "title_en": "Starwise Additive’s Cosmic Slicer Tunes Prints By Zodiac",
+    "summary_bullets_en": [
+      "Starwise Additive has introduced a unique slicer software that incorporates astrological data into the 3D printing process.",
+      "The startup suggests that print failures, such as a problematic Benchy, could be attributed to zodiac-related influences.",
+      "This unconventional approach aims to 'tune' print settings based on the user's astrological sign."
+    ],
+    "summary_bullets_cs": [
+      "Startup Starwise Additive představil unikátní slicer, který do procesu 3D tisku integruje astrologická data.",
+      "Firma naznačuje, že za nepovedené výtisky, jako je například problematická lodička Benchy, může stát vliv vašeho znamení zvěrokruhu.",
+      "Tento netradiční přístup se snaží optimalizovat nastavení tisku na základě astrologického znamení uživatele."
+    ],
+    "tags": [
+      "Software",
+      "3D Printing",
+      "Slicer",
+      "Starwise Additive",
+      "Astrology"
+    ]
+  },
+  {
+    "title": "Od odpadu k cívce: Creality M1 a R1 přinášejí recyklaci filamentu na pracovní stůl",
+    "summary": "Shenzhen-based 3D printer manufacturer Creality has introduced the Filament Maker M1 and the Shredder R1, a paired desktop system that lets users shred 3D printing waste and extrude it back into usable filament on Indiegogo. Anyone who has spent serious time around a 3D printer knows the guilt that comes with it. Failed prints pile [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/image2-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-01T08:42:05+00:00",
+    "url": "https://3dprintingindustry.com/news/from-scrap-to-spool-crealitys-m1-and-r1-bring-filament-recycling-to-the-desktop-250487/?utm_source=rss&utm_medium=rss&utm_campaign=from-scrap-to-spool-crealitys-m1-and-r1-bring-filament-recycling-to-the-desktop",
+    "forced_tags": [],
+    "title_en": "From Scrap to Spool: Creality’s M1 and R1 Bring Filament Recycling to the Desktop",
+    "summary_bullets_en": [
+      "Creality has launched the M1 Filament Maker and R1 Shredder on Indiegogo to enable desktop-based plastic recycling.",
+      "The system allows users to process failed 3D prints and waste into new, usable 3D printing filament.",
+      "This solution aims to reduce the environmental impact and material waste commonly associated with 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce 3D tiskáren Creality uvedl na platformě Indiegogo systém M1 Filament Maker a R1 Shredder pro recyklaci plastů přímo v domácích podmínkách.",
+      "Systém umožňuje uživatelům zpracovat nepovedené výtisky a odpadní materiál zpět na použitelný filament pro 3D tisk.",
+      "Toto řešení má za cíl snížit ekologickou zátěž a množství odpadu, který při 3D tisku běžně vzniká."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Creality",
+      "3D Printing",
+      "Recycling",
+      "Filament",
+      "Sustainability"
+    ]
+  },
+  {
+    "title": "Návrh laboratoře Argonne pro ASME má otevřít oficiální cestu pro LPBF ve výrobě jaderných reaktorů",
+    "summary": "Argonne National Laboratory, a research center operated by UChicago Argonne, for the U.S. Department of Energy (DOE), has submitted the first draft of an ASME Code Case proposing Laser Powder Bed Fusion as a permitted manufacturing process for high-temperature nuclear reactor components.&#160; If adopted, the proposal would strengthen the nuclear supply chain, reduce manufacturing lead [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/AMMT-image-2-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-01T08:38:42+00:00",
+    "url": "https://3dprintingindustry.com/news/argonnes-asme-submission-aims-to-open-a-formal-pathway-for-lpbf-in-nuclear-reactor-manufacturing-250479/?utm_source=rss&utm_medium=rss&utm_campaign=argonnes-asme-submission-aims-to-open-a-formal-pathway-for-lpbf-in-nuclear-reactor-manufacturing",
+    "forced_tags": [],
+    "title_en": "Argonne’s ASME Submission Aims to Open a Formal Pathway for LPBF in Nuclear Reactor Manufacturing",
+    "summary_bullets_en": [
+      "Argonne National Laboratory has submitted a proposal to ASME to certify Laser Powder Bed Fusion (LPBF) for nuclear reactor component manufacturing.",
+      "The initiative seeks to establish a formal regulatory pathway for using 3D-printed parts in high-temperature nuclear environments.",
+      "If approved, the code case will help streamline the nuclear supply chain and significantly reduce production lead times.",
+      "This move represents a major step toward integrating advanced additive manufacturing into the highly regulated nuclear energy sector."
+    ],
+    "summary_bullets_cs": [
+      "Národní laboratoř Argonne předložila ASME návrh na certifikaci technologie Laser Powder Bed Fusion (LPBF) pro výrobu komponent jaderných reaktorů.",
+      "Iniciativa usiluje o vytvoření oficiálního regulačního rámce pro využívání 3D tištěných dílů ve vysokoteplotním jaderném prostředí.",
+      "V případě schválení tento krok posílí dodavatelský řetězec v jaderné energetice a výrazně zkrátí dobu výroby komponent.",
+      "Jde o zásadní posun směrem k integraci pokročilé aditivní výroby do přísně regulovaného sektoru jaderné energetiky."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Argonne National Laboratory",
+      "ASME",
+      "LPBF",
+      "Nuclear Energy",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost BLT dosáhla průmyslového měřítka v 3D tisku mědi s milníkem 100 000 kusů",
+    "summary": "Metal 3D printing technology provider Bright Laser Technologies (BLT) has announced that its BLT-S400 platform surpassed 100,000 units of copper alloy components in cumulative output as of March 2026,  what the company describes as the first publicly documented evidence of repeatable, large-scale copper additive manufacturing at industrial volumes. Copper&#8217;s Built-In Manufacturing Problem Copper&#8217;s high performance [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/2Multiple-copper-alloy-parts-3D-printed-by-BLT--150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-01T08:32:13+00:00",
+    "url": "https://3dprintingindustry.com/news/blt-reaches-industrial-scale-in-copper-am-with-100000-unit-milestone-250472/?utm_source=rss&utm_medium=rss&utm_campaign=blt-reaches-industrial-scale-in-copper-am-with-100000-unit-milestone",
+    "forced_tags": [],
+    "title_en": "BLT Reaches Industrial Scale in Copper AM with 100,000-Unit Milestone",
+    "summary_bullets_en": [
+      "Bright Laser Technologies (BLT) has successfully produced over 100,000 copper alloy components using its BLT-S400 platform.",
+      "This milestone marks the first publicly documented achievement of repeatable, large-scale industrial copper additive manufacturing.",
+      "The achievement highlights a significant breakthrough in overcoming the traditional technical challenges associated with 3D printing highly reflective and conductive copper materials."
+    ],
+    "summary_bullets_cs": [
+      "Poskytovatel technologie 3D tisku kovů, Bright Laser Technologies (BLT), oznámil, že jeho platforma BLT-S400 vyrobila již přes 100 000 komponentů ze slitin mědi.",
+      "Tento milník představuje první veřejně zdokumentovaný důkaz opakovatelné, velkosériové aditivní výroby mědi v průmyslovém měřítku.",
+      "Úspěch řeší dlouhodobé problémy spojené s náročným zpracováním mědi, která je známá svou vysokou odrazivostí a tepelnou vodivostí."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "BLT",
+      "Bright Laser Technologies",
+      "Copper",
+      "Additive Manufacturing",
+      "BLT-S400"
+    ]
+  },
+  {
+    "title": "Společnost MoistureMax představila systém filamentů adaptivní na klima",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/952709732/0/fabbaloo/default~MoistureMax-Unveils-Climate-Adaptive-Filament-System\" rel=\"nofollow\" title=\"MoistureMax Unveils Climate Adaptive Filament System\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/moisturemax-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>MoistureMax has introduced a filament platform that intentionally manages moisture instead of merely fighting it.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/952709732/0/fabbaloo/default~MoistureMax-Unveils-Climate-Adaptive-Filament-System\" rel=\"nofollow\">MoistureMax Unveils Climate Adaptive Filament System</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/moisturemax-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-01T08:26:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/952709732/0/fabbaloo/default~MoistureMax-Unveils-Climate-Adaptive-Filament-System",
+    "forced_tags": [],
+    "title_en": "MoistureMax Unveils Climate Adaptive Filament System",
+    "summary_bullets_en": [
+      "MoistureMax has launched a new filament platform designed to handle moisture actively.",
+      "The system shifts the focus from merely preventing moisture to intentionally managing it during the printing process.",
+      "This innovative approach aims to improve print reliability and material performance in varying environmental conditions."
+    ],
+    "summary_bullets_cs": [
+      "Společnost MoistureMax uvedla na trh platformu filamentů, která aktivně pracuje s vlhkostí.",
+      "Systém mění přístup od pouhého boje proti vlhkosti k jejímu cílenému řízení během procesu tisku.",
+      "Tento inovativní přístup má za cíl zlepšit spolehlivost tisku a vlastnosti materiálu v různých klimatických podmínkách."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Filament",
+      "Moisture Management",
+      "MoistureMax"
+    ]
+  },
+  {
+    "title": "Společnost Velo3D získala obranný kontrakt v hodnotě 9,8 milionu dolarů",
+    "summary": "Velo3D, a metal additive manufacturing firm, has received a $9.8 million, five-year IDIQ contract under the Defense Logistics Agency&#8217;s JAMA Pilot Parts Program, a federal initiative designed to speed up the integration of 3D printed parts into Department of War sustainment operations. The contract creates a procurement channel allowing the DLA to source certified additively [&#8230;]",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2019/07/system-operator-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-01T08:10:34+00:00",
+    "url": "https://3dprintingindustry.com/news/velo3d-lands-9-8-million-defense-contract-250470/?utm_source=rss&utm_medium=rss&utm_campaign=velo3d-lands-9-8-million-defense-contract",
+    "forced_tags": [],
+    "title_en": "Velo3D Lands $9.8 Million Defense Contract",
+    "summary_bullets_en": [
+      "Velo3D secured a $9.8 million, five-year IDIQ contract with the Defense Logistics Agency.",
+      "The agreement is part of the JAMA Pilot Parts Program, aimed at accelerating the adoption of 3D printed components in military sustainment.",
+      "This contract establishes a streamlined procurement channel for certified metal additive manufacturing parts for the Department of Defense."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Velo3D získala pětiletý kontrakt typu IDIQ v hodnotě 9,8 milionu dolarů od Agentury pro obrannou logistiku (DLA).",
+      "Dohoda je součástí pilotního programu JAMA, který má za cíl urychlit integraci 3D tištěných dílů do údržbových operací ministerstva obrany.",
+      "Kontrakt vytváří nový nákupní kanál pro certifikované kovové 3D tištěné součástky pro potřeby americké armády."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Velo3D",
+      "Defense Logistics Agency",
+      "Metal Additive Manufacturing",
+      "JAMA Pilot Parts Program"
+    ]
+  },
+  {
     "title": "Bambu Lab ukončuje výrobu své vlajkové lodi, řady X1",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/952493681/0/fabbaloo/default~Bambu-Lab-Discontinues-Flagship-X-Series\" rel=\"nofollow\" title=\"Bambu Lab Discontinues Flagship X1 Series\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/bambu-lab-x1-eol-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Bambu Lab has made it official: the X1 series is now officially retired.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/952493681/0/fabbaloo/default~Bambu-Lab-Discontinues-Flagship-X-Series\" rel=\"nofollow\">Bambu Lab Discontinues Flagship X1 Series</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/bambu-lab-x1-eol-cover-300x169.jpg",
