@@ -1,5 +1,291 @@
 [
   {
+    "title": "Praktické zkušenosti s Prompt2CAD",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953467439/0/fabbaloo/default~Hands-On-with-PromptCAD\" rel=\"nofollow\" title=\"Hands On with Prompt2CAD\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/prompt2cad-cover-300x203.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>I’m trying a new and quite different AI generative tool, Prompt2CAD.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953467439/0/fabbaloo/default~Hands-On-with-PromptCAD\" rel=\"nofollow\">Hands On with Prompt2CAD</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/prompt2cad-cover-300x203.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-07T16:15:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953467439/0/fabbaloo/default~Hands-On-with-PromptCAD",
+    "forced_tags": [],
+    "title_en": "Hands On with Prompt2CAD",
+    "summary_bullets_en": [
+      "The author is testing a new generative AI tool called Prompt2CAD.",
+      "The tool aims to simplify the 3D design process through text-based prompts.",
+      "This hands-on experience explores the capabilities of AI in CAD modeling workflows."
+    ],
+    "summary_bullets_cs": [
+      "Autor testuje nový generativní AI nástroj s názvem Prompt2CAD.",
+      "Nástroj má za cíl zjednodušit proces 3D navrhování pomocí textových zadání.",
+      "Tato praktická zkušenost zkoumá možnosti využití umělé inteligence v CAD modelování."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "CAD",
+      "Generative Design",
+      "3D Modeling",
+      "Prompt2CAD"
+    ]
+  },
+  {
+    "title": "Snapmaker zveřejnil zdrojové kódy firmwaru pro model U1 na GitHubu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953463299/0/fabbaloo/default~Snapmaker-Publishes-U-Firmware-Forks-On-GitHub\" rel=\"nofollow\" title=\"Snapmaker Publishes U1 Firmware Forks On GitHub\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/snapmaker-open-source-release-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Snapmaker has published the Snapmaker U1 firmware modifications on GitHub, giving developers a clearer look at how the machine’s multi-toolhead functions are implemented.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953463299/0/fabbaloo/default~Snapmaker-Publishes-U-Firmware-Forks-On-GitHub\" rel=\"nofollow\">Snapmaker Publishes U1 Firmware Forks On GitHub</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/snapmaker-open-source-release-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-07T15:06:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953463299/0/fabbaloo/default~Snapmaker-Publishes-U-Firmware-Forks-On-GitHub",
+    "forced_tags": [],
+    "title_en": "Snapmaker Publishes U1 Firmware Forks On GitHub",
+    "summary_bullets_en": [
+      "Snapmaker has officially released the firmware source code for its U1 model on GitHub.",
+      "The move provides developers with transparent access to the machine's internal operations.",
+      "The release specifically highlights how the U1's multi-toolhead functionality is managed and implemented."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Snapmaker oficiálně zveřejnila zdrojové kódy firmwaru pro svůj model U1 na platformě GitHub.",
+      "Tento krok poskytuje vývojářům transparentní vhled do toho, jak fungují vnitřní procesy stroje.",
+      "Zveřejnění se zaměřuje především na implementaci funkcí pro výměnné nástrojové hlavy (multi-toolhead)."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Snapmaker",
+      "3D Printing",
+      "Open Source",
+      "Firmware",
+      "U1"
+    ]
+  },
+  {
+    "title": "Nano Dimension prodává divize AME a Fabrica, zaměřuje se na Markforged",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953458094/0/fabbaloo/default~Nano-Dimension-Sells-AME-and-Fabrica-Lines-Streamlining-Focus-to-Markforged\" rel=\"nofollow\" title=\"Nano Dimension Sells AME and Fabrica Lines, Streamlining Focus to Markforged\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/nano-dimension-new-regime-cover-300x188.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Nano Dimension announced the sale of two of their key technologies.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953458094/0/fabbaloo/default~Nano-Dimension-Sells-AME-and-Fabrica-Lines-Streamlining-Focus-to-Markforged\" rel=\"nofollow\">Nano Dimension Sells AME and Fabrica Lines, Streamlining Focus to Markforged</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/nano-dimension-new-regime-cover-300x188.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-07T13:54:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953458094/0/fabbaloo/default~Nano-Dimension-Sells-AME-and-Fabrica-Lines-Streamlining-Focus-to-Markforged",
+    "forced_tags": [],
+    "title_en": "Nano Dimension Sells AME and Fabrica Lines, Streamlining Focus to Markforged",
+    "summary_bullets_en": [
+      "Nano Dimension has officially announced the divestment of its AME (Additively Manufactured Electronics) and Fabrica business lines.",
+      "The strategic move is designed to streamline the company's operations and portfolio.",
+      "Following the sale, Nano Dimension will shift its primary focus toward the integration and development of Markforged technologies."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Nano Dimension oznámila prodej svých klíčových technologií AME (aditivně vyráběná elektronika) a divize Fabrica.",
+      "Tento strategický krok má za cíl zefektivnit provoz společnosti a zjednodušit její produktové portfolio.",
+      "Po dokončení prodeje se Nano Dimension plně soustředí na integraci a rozvoj technologií společnosti Markforged."
+    ],
+    "tags": [
+      "Hardware",
+      "Nano Dimension",
+      "Markforged",
+      "AME",
+      "Fabrica",
+      "Business Strategy",
+      "Mergers and Acquisitions"
+    ]
+  },
+  {
+    "title": "Společnost Revopoint uvádí na trh MetroY Ultra a ke svému 12. výročí přináší POP 4 na Kickstarter",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/revopoint-launches-metroy-ultra-and-brings-pop-4-to-kickstarter-for-its-12th-anniversary/\" target=\"_blank\">Revopoint Launches MetroY Ultra and Brings POP 4 to Kickstarter for Its 12th Anniversary</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">April 7</span></div><div><img alt=\"\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/KV-1920x1020-1-500x500.png\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/KV-1920x1020-1-500x500.png",
+    "source": "3DPrinting.com",
+    "published": "2026-04-07T13:39:34+00:00",
+    "url": "https://3dprinting.com/news/revopoint-launches-metroy-ultra-and-brings-pop-4-to-kickstarter-for-its-12th-anniversary/",
+    "forced_tags": [],
+    "title_en": "Revopoint Launches MetroY Ultra and Brings POP 4 to Kickstarter for Its 12th Anniversary",
+    "summary_bullets_en": [
+      "Revopoint celebrates its 12th anniversary with the launch of the new MetroY Ultra 3D scanner.",
+      "The company is introducing the POP 4 scanner to the market via a Kickstarter campaign.",
+      "These new devices aim to expand Revopoint's portfolio of high-precision scanning solutions for various industries."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Revopoint slaví 12. výročí uvedením nového 3D skeneru MetroY Ultra.",
+      "Firma uvádí na trh skener POP 4 prostřednictvím kampaně na platformě Kickstarter.",
+      "Tato nová zařízení mají za cíl rozšířit portfolio vysoce přesných skenovacích řešení společnosti pro různá odvětví."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Scanning",
+      "Revopoint",
+      "MetroY Ultra",
+      "POP 4",
+      "Kickstarter"
+    ]
+  },
+  {
+    "title": "Přehodnocení role aditivní výroby v obraně a role obrany v ekonomice",
+    "summary": "The Trump administration recently revealed that it is requesting a $1.5 trillion defense budget for FY2027, confirming Trump&#8217;s initial announcement of that topline number at the beginning of 2026. So...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/Y6BHNGUKFEPLFHK4PDPYWUGA.jpg.avif",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-07T12:30:05+00:00",
+    "url": "https://3dprint.com/325039/resetting-the-role-of-am-in-defense-and-the-role-of-defense-in-the-economy/",
+    "forced_tags": [],
+    "title_en": "Resetting the Role of AM in Defense, and the Role of Defense in the Economy",
+    "summary_bullets_en": [
+      "The Trump administration has officially requested a $1.5 trillion defense budget for FY2027.",
+      "This massive investment signals a strategic shift in how additive manufacturing (AM) is integrated into national defense supply chains.",
+      "The budget reflects a broader economic policy aimed at leveraging defense spending to stimulate industrial growth and technological innovation."
+    ],
+    "summary_bullets_cs": [
+      "Administrativa Donalda Trumpa oficiálně požádala o rozpočet na obranu ve výši 1,5 bilionu dolarů pro fiskální rok 2027.",
+      "Tato masivní investice naznačuje strategický posun v tom, jak je aditivní výroba (3D tisk) integrována do dodavatelských řetězců národní obrany.",
+      "Rozpočet odráží širší hospodářskou politiku zaměřenou na využití výdajů na obranu k podpoře průmyslového růstu a technologických inovací."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Defense",
+      "Additive Manufacturing",
+      "Economy",
+      "Government Policy"
+    ]
+  },
+  {
+    "title": "DTU vytiskla na 3D tiskárně nový design palivového článku s 5x vyšším výkonem",
+    "summary": "Technical University of Denmark (DTU) researchers have used Lithoz ceramics 3D printing to make more efficient hydrogen fuel cells. With a part made from Lithoz Yttria Fully Stabilized Zirconia (8YSZ),...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/LITHOZ_DTU_SOFC_3.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-07T12:00:30+00:00",
+    "url": "https://3dprint.com/325013/dtu-3d-prints-new-fuel-cell-design-with-5x-power-boost/",
+    "forced_tags": [],
+    "title_en": "DTU 3D Prints New Fuel Cell Design With 5x Power Boost",
+    "summary_bullets_en": [
+      "Researchers at the Technical University of Denmark (DTU) utilized Lithoz ceramic 3D printing to enhance hydrogen fuel cell efficiency.",
+      "The team developed a specialized component using 8YSZ (Yttria Fully Stabilized Zirconia) material.",
+      "The new design achieves a significant 5x increase in power output compared to traditional models."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Technické univerzity v Dánsku (DTU) využili keramický 3D tisk od společnosti Lithoz ke zvýšení účinnosti vodíkových palivových článků.",
+      "Tým vyvinul specializovanou součástku s použitím materiálu 8YSZ (yttriem plně stabilizovaný zirkon).",
+      "Nový design dosahuje pětinásobného zvýšení výkonu ve srovnání s tradičními modely."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Lithoz",
+      "DTU",
+      "3D Printing",
+      "Fuel Cells",
+      "Ceramics"
+    ]
+  },
+  {
+    "title": "Gallium, bezpečnost dodavatelského řetězce a nová hranice 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953443274/0/fabbaloo/default~Gallium-Supply-Chain-Security-and-the-Next-Frontier-of-D-Printing\" rel=\"nofollow\" title=\"Gallium, Supply Chain Security, and the Next Frontier of 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/Gallium_crystals-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Nimra Shakoor unpack how gallium shortages and geopolitical tensions are reshaping U.S. supply chains while unlocking new frontiers in 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953443274/0/fabbaloo/default~Gallium-Supply-Chain-Security-and-the-Next-Frontier-of-D-Printing\" rel=\"nofollow\">Gallium, Supply Chain Security, and the Next Frontier of 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/Gallium_crystals-300x225.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-07T11:22:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953443274/0/fabbaloo/default~Gallium-Supply-Chain-Security-and-the-Next-Frontier-of-D-Printing",
+    "forced_tags": [],
+    "title_en": "Gallium, Supply Chain Security, and the Next Frontier of 3D Printing",
+    "summary_bullets_en": [
+      "Gallium shortages and rising geopolitical tensions are forcing a re-evaluation of U.S. supply chain security.",
+      "The scarcity of critical materials is driving innovation and new research frontiers within the 3D printing industry.",
+      "Authors Charles R. Goulding and Nimra Shakoor analyze how these industrial challenges create both risks and opportunities for additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Nedostatek gallia a rostoucí geopolitické napětí nutí k přehodnocení bezpečnosti dodavatelských řetězců v USA.",
+      "Nedostatek kritických materiálů pohání inovace a otevírá nové hranice výzkumu v odvětví 3D tisku.",
+      "Autoři Charles R. Goulding a Nimra Shakoor analyzují, jak tyto průmyslové výzvy vytvářejí rizika i příležitosti pro aditivní výrobu."
+    ],
+    "tags": [
+      "Material",
+      "Supply Chain",
+      "Gallium",
+      "Additive Manufacturing",
+      "Geopolitics"
+    ]
+  },
+  {
+    "title": "Analýza: Nano Dimension prodává svou divizi pro aditivní výrobu elektroniky",
+    "summary": "Nano Dimension has sold its Additively Manufactured Electronics (AME) business to Inspira Technologies. The sale &#8220;includes intellectual property, proprietary high-precision 3D electronic printing systems, patented software, engineering know-how, manufacturing equipment,...",
+    "image": "https://3dprint.com/wp-content/uploads/2024/03/02-1024x566.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-07T08:28:22+00:00",
+    "url": "https://3dprint.com/325057/analysis-nano-dimension-sells-additive-manufactured-electronics-business/",
+    "forced_tags": [],
+    "title_en": "Analysis: Nano Dimension Sells Additive Manufactured Electronics Business",
+    "summary_bullets_en": [
+      "Nano Dimension has divested its Additively Manufactured Electronics (AME) division to Inspira Technologies.",
+      "The transaction encompasses the transfer of intellectual property, proprietary 3D printing systems, and specialized engineering expertise.",
+      "This strategic move allows Nano Dimension to streamline its operations while Inspira Technologies expands its portfolio in the electronics manufacturing sector."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Nano Dimension prodala svou divizi pro aditivní výrobu elektroniky (AME) firmě Inspira Technologies.",
+      "Prodej zahrnuje duševní vlastnictví, proprietární systémy pro 3D tisk elektroniky, patentovaný software a inženýrské know-how.",
+      "Tento strategický krok umožňuje Nano Dimension zefektivnit své operace, zatímco Inspira Technologies rozšiřuje své portfolio v oblasti výroby elektroniky."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Nano Dimension",
+      "Inspira Technologies",
+      "AME",
+      "Electronics"
+    ]
+  },
+  {
+    "title": "Patent navrhuje recyklaci termosetových polymerů na filamenty pro 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953433083/0/fabbaloo/default~Patent-Proposes-Recycling-Thermoset-Polymers-Into-D-Printing-Filaments\" rel=\"nofollow\" title=\"Patent Proposes Recycling Thermoset Polymers Into 3D Printing Filaments\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/thermoset-filament-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>You may soon be 3D printing thermoset filament.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953433083/0/fabbaloo/default~Patent-Proposes-Recycling-Thermoset-Polymers-Into-D-Printing-Filaments\" rel=\"nofollow\">Patent Proposes Recycling Thermoset Polymers Into 3D Printing Filaments</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/thermoset-filament-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-07T08:03:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953433083/0/fabbaloo/default~Patent-Proposes-Recycling-Thermoset-Polymers-Into-D-Printing-Filaments",
+    "forced_tags": [],
+    "title_en": "Patent Proposes Recycling Thermoset Polymers Into 3D Printing Filaments",
+    "summary_bullets_en": [
+      "A new patent outlines a method for recycling thermoset polymers, which are typically difficult to process.",
+      "The technology aims to convert these durable materials into usable 3D printing filaments.",
+      "This innovation could significantly improve sustainability in the additive manufacturing industry by repurposing waste thermosets."
+    ],
+    "summary_bullets_cs": [
+      "Nový patent představuje metodu recyklace termosetových polymerů, které jsou obvykle velmi obtížně zpracovatelné.",
+      "Technologie má za cíl přeměnit tyto odolné materiály na použitelné filamenty pro 3D tisk.",
+      "Tato inovace by mohla výrazně zvýšit udržitelnost v aditivní výrobě díky opětovnému využití odpadních termosetů."
+    ],
+    "tags": [
+      "Material",
+      "Sustainability",
+      "Recycling",
+      "Thermoset Polymers",
+      "3D Printing Filament"
+    ]
+  },
+  {
+    "title": "BLT a Tianqiong předvádějí západu sílu konsorcia: 3D tištěný pant pro OPPO Find N6",
+    "summary": "Due to a combination of historical, ideological, and economic reasons, companies originating in East and Southeast Asian nations have proven far more adept than their Western counterparts at leveraging organization...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/OPPO-Find-N6_3D-Liquid-Printing_Article_1600p-1024x1024.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-07T07:00:52+00:00",
+    "url": "https://3dprint.com/325049/blt-tianqiong-partners-flex-on-west-w-consortium-enabled-3d-printed-upgrade-for-oppo-find-n6-hinge/",
+    "forced_tags": [],
+    "title_en": "BLT & Tianqiong Partners Flex on West with Consortium-Enabled, 3D Printed Upgrade for OPPO Find N6 Hinge",
+    "summary_bullets_en": [
+      "BLT and Tianqiong have formed a strategic consortium to advance 3D printing applications in consumer electronics.",
+      "The partnership successfully utilized additive manufacturing to produce a high-performance hinge component for the OPPO Find N6 smartphone.",
+      "This collaboration highlights the efficiency of Asian manufacturing ecosystems in scaling industrial 3D printing for mass-market devices.",
+      "The project demonstrates a significant shift in how complex mechanical parts are being integrated into foldable mobile technology."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti BLT a Tianqiong vytvořily strategické konsorcium pro rozvoj 3D tisku v oblasti spotřební elektroniky.",
+      "Partnerství úspěšně využilo aditivní výrobu k produkci vysoce výkonného pantu pro chytrý telefon OPPO Find N6.",
+      "Spolupráce podtrhuje efektivitu asijských výrobních ekosystémů při škálování průmyslového 3D tisku pro masový trh.",
+      "Projekt demonstruje významný posun v integraci komplexních mechanických dílů do technologie skládacích mobilních zařízení."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "BLT",
+      "Tianqiong",
+      "OPPO",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Consumer Electronics"
+    ]
+  },
+  {
     "title": "EFF kritizuje navrhované americké zákony vyžadující softwarovou kontrolu 3D tiskáren",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/953391050/0/fabbaloo/default~EFF-Criticizes-Proposed-US-Laws-Mandating-Software-Controls-on-D-Printers\" rel=\"nofollow\" title=\"EFF Criticizes Proposed US Laws Mandating Software Controls on 3D Printers\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/competition_reddit_robot-300x213.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The Electronic Frontier Foundation (EFF) has published a damning article about efforts to control 3D printers.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953391050/0/fabbaloo/default~EFF-Criticizes-Proposed-US-Laws-Mandating-Software-Controls-on-D-Printers\" rel=\"nofollow\">EFF Criticizes Proposed US Laws Mandating Software Controls on 3D Printers</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/competition_reddit_robot-300x213.jpg",
