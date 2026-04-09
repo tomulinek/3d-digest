@@ -1,5 +1,297 @@
 [
   {
+    "title": "Úžasný nástroj BumpMesh zjednodušuje texturování 3D modelů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953528030/0/fabbaloo/default~Amazing-BumpMesh-Tool-Simplifies-D-Model-Texturing\" rel=\"nofollow\" title=\"Amazing BumpMesh Tool Simplifies 3D Model Texturing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/bumpmesh-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new online tool makes 3D model texturing incredibly easy.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953528030/0/fabbaloo/default~Amazing-BumpMesh-Tool-Simplifies-D-Model-Texturing\" rel=\"nofollow\">Amazing BumpMesh Tool Simplifies 3D Model Texturing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/bumpmesh-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-08T16:25:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953528030/0/fabbaloo/default~Amazing-BumpMesh-Tool-Simplifies-D-Model-Texturing",
+    "forced_tags": [],
+    "title_en": "Amazing BumpMesh Tool Simplifies 3D Model Texturing",
+    "summary_bullets_en": [
+      "A new online tool called BumpMesh has been released to streamline the 3D texturing process.",
+      "The platform makes adding complex surface details to 3D models significantly easier for users.",
+      "This tool aims to simplify workflows for designers preparing models for 3D printing or digital rendering."
+    ],
+    "summary_bullets_cs": [
+      "Byl představen nový online nástroj BumpMesh, který zefektivňuje proces texturování 3D modelů.",
+      "Platforma uživatelům výrazně usnadňuje přidávání komplexních povrchových detailů na 3D modely.",
+      "Cílem nástroje je zjednodušit pracovní postupy návrhářů při přípravě modelů pro 3D tisk nebo digitální renderování."
+    ],
+    "tags": [
+      "Software",
+      "3D Modeling",
+      "Texturing",
+      "BumpMesh",
+      "Design Tools"
+    ]
+  },
+  {
+    "title": "Prompt2CAD: AI navrhuje nábytek. Ale dělá to skutečně...?",
+    "summary": "RECODE.AM #45",
+    "image": "https://substackcdn.com/image/fetch/$s_!t-1I!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F800e5f14-6225-40ad-9917-556199b8198f_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-04-08T16:01:33+00:00",
+    "url": "https://www.3dprintingjournal.com/p/prompt2cad-ai-designs-furniture-but",
+    "forced_tags": [],
+    "title_en": "Prompt2CAD: AI designs furniture. But does it really...?",
+    "summary_bullets_en": [
+      "The article explores the capabilities and limitations of AI-driven design tools like Prompt2CAD in the furniture industry.",
+      "It questions whether AI truly 'designs' or merely generates variations based on existing datasets.",
+      "The piece highlights the gap between AI-generated concepts and the practical requirements of manufacturing and 3D printing.",
+      "It emphasizes the need for human expertise to bridge the gap between AI prompts and functional, printable CAD models."
+    ],
+    "summary_bullets_cs": [
+      "Článek zkoumá schopnosti a omezení nástrojů pro design řízený umělou inteligencí, jako je Prompt2CAD, v nábytkářském průmyslu.",
+      "Zpochybňuje, zda AI skutečně „navrhuje“, nebo pouze generuje variace na základě existujících datových sad.",
+      "Text zdůrazňuje propast mezi koncepty vytvořenými AI a praktickými požadavky výroby a 3D tisku.",
+      "Poukazuje na nezbytnost lidské odbornosti při převodu AI promptů do funkčních a tisknutelných CAD modelů."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "CAD",
+      "Generative Design",
+      "3D Printing",
+      "Furniture Design"
+    ]
+  },
+  {
+    "title": "Jak izraelské firmy v oblasti 3D tisku zvládají konflikt na Blízkém východě",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953525624/0/fabbaloo/default~How-IsraelBased-D-Printing-Businesses-Navigate-the-Middle-East-Conflict\" rel=\"nofollow\" title=\"How Israel-Based 3D Printing Businesses Navigate the Middle East Conflict\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/israel-alert-cover-300x250.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>With conflict raging in the Middle East, how are the 3D print companies doing?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953525624/0/fabbaloo/default~How-IsraelBased-D-Printing-Businesses-Navigate-the-Middle-East-Conflict\" rel=\"nofollow\">How Israel-Based 3D Printing Businesses Navigate the Middle East Conflict</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/israel-alert-cover-300x250.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-08T15:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953525624/0/fabbaloo/default~How-IsraelBased-D-Printing-Businesses-Navigate-the-Middle-East-Conflict",
+    "forced_tags": [],
+    "title_en": "How Israel-Based 3D Printing Businesses Navigate the Middle East Conflict",
+    "summary_bullets_en": [
+      "Israeli 3D printing companies are facing significant operational challenges due to the ongoing regional conflict.",
+      "The industry is adapting to supply chain disruptions and workforce shortages caused by the mobilization of personnel.",
+      "Despite the instability, these businesses are demonstrating resilience by maintaining production and supporting critical sectors."
+    ],
+    "summary_bullets_cs": [
+      "Izraelské společnosti zabývající se 3D tiskem čelí v důsledku probíhajícího regionálního konfliktu značným provozním výzvám.",
+      "Průmysl se přizpůsobuje narušení dodavatelských řetězců a nedostatku pracovních sil způsobenému mobilizací zaměstnanců.",
+      "Navzdory nestabilitě tyto firmy prokazují odolnost tím, že udržují výrobu a podporují kriticky důležitá odvětví."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Israel",
+      "3D Printing Industry",
+      "Supply Chain",
+      "Geopolitics"
+    ]
+  },
+  {
+    "title": "Představujeme 3DeVOK MT Gen2: Profesionální 3D skenování se čtyřmi světelnými zdroji v ručním zařízení",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/meet-the-3devok-mt-gen2-quad-light-professional-grade-3d-scanning-in-a-handheld-device/\" target=\"_blank\">Meet the 3DeVOK MT Gen2: Quad-Light, Professional-Grade 3D Scanning in a Handheld Device</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">April 8</span></div><div><img alt=\"\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/banner-1-500x500.png\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/banner-1-500x500.png",
+    "source": "3DPrinting.com",
+    "published": "2026-04-08T14:31:47+00:00",
+    "url": "https://3dprinting.com/news/meet-the-3devok-mt-gen2-quad-light-professional-grade-3d-scanning-in-a-handheld-device/",
+    "forced_tags": [],
+    "title_en": "Meet the 3DeVOK MT Gen2: Quad-Light, Professional-Grade 3D Scanning in a Handheld Device",
+    "summary_bullets_en": [
+      "The 3DeVOK MT Gen2 introduces advanced quad-light technology for high-precision professional 3D scanning.",
+      "The device is designed as a portable, handheld solution, making it versatile for various industrial and creative applications.",
+      "It aims to bridge the gap between complex laboratory-grade scanners and user-friendly, accessible hardware."
+    ],
+    "summary_bullets_cs": [
+      "3DeVOK MT Gen2 přináší pokročilou technologii čtyř světelných zdrojů pro vysoce přesné profesionální 3D skenování.",
+      "Zařízení je navrženo jako přenosné ruční řešení, což zajišťuje všestrannost pro různé průmyslové i kreativní aplikace.",
+      "Cílem novinky je překlenout propast mezi komplexními laboratorními skenery a uživatelsky přívětivým, dostupným hardwarem."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Scanning",
+      "3DeVOK",
+      "MT Gen2",
+      "Metrology",
+      "Portable Devices"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 8. dubna 2026: LiDAR skenování, vyhlazování parou, optimalizace FDM a další",
+    "summary": "We&#8217;ll kick off today&#8217;s 3D Printing News Briefs with some 3D scanning news from Artec 3D, and then move on to new America Makes Project Calls. Then, Raise3D and AMT...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/08f40bb96116382b2fd75ed44cd2b8251bfc5c0a-1024x716.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-08T13:30:53+00:00",
+    "url": "https://3dprint.com/325066/3d-printing-news-briefs-4-8-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, April 8, 2026: LiDAR Scanning, Vapor Smoothing, FDM Optimization, & More",
+    "summary_bullets_en": [
+      "Artec 3D introduces new advancements in LiDAR scanning technology.",
+      "America Makes announces new project calls to foster innovation in additive manufacturing.",
+      "Raise3D and AMT collaborate to enhance FDM optimization and post-processing capabilities through vapor smoothing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Artec 3D představuje nové pokroky v technologii LiDAR skenování.",
+      "Organizace America Makes vyhlašuje nové výzvy k projektům na podporu inovací v aditivní výrobě.",
+      "Firmy Raise3D a AMT spolupracují na vylepšení optimalizace FDM tisku a následného zpracování pomocí vyhlazování parou."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Artec 3D",
+      "America Makes",
+      "Raise3D",
+      "AMT"
+    ]
+  },
+  {
+    "title": "Nový web varuje před rozsáhlými zákony o 3D tiskárnách",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953516351/0/fabbaloo/default~New-Site-Warns-Of-Sweeping-D-Printer-Laws\" rel=\"nofollow\" title=\"New Site Warns Of Sweeping 3D Printer Laws\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/printing-ban-site-cover-300x195.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new advocacy site argues proposed “anti gun” bills could unintentionally criminalize everyday 3D printers and software.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953516351/0/fabbaloo/default~New-Site-Warns-Of-Sweeping-D-Printer-Laws\" rel=\"nofollow\">New Site Warns Of Sweeping 3D Printer Laws</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/printing-ban-site-cover-300x195.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-08T13:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953516351/0/fabbaloo/default~New-Site-Warns-Of-Sweeping-D-Printer-Laws",
+    "forced_tags": [],
+    "title_en": "New Site Warns Of Sweeping 3D Printer Laws",
+    "summary_bullets_en": [
+      "A new advocacy website has launched to highlight the risks of proposed anti-gun legislation.",
+      "The site argues that these bills could inadvertently criminalize the use of standard 3D printers.",
+      "Concerns are raised that the broad language of the laws may also impact 3D printing software and digital files.",
+      "The initiative aims to raise awareness about how legislative efforts might negatively affect the hobbyist and professional 3D printing community."
+    ],
+    "summary_bullets_cs": [
+      "Byl spuštěn nový advokační web, který upozorňuje na rizika navrhované legislativy proti střelným zbraním.",
+      "Stránka argumentuje, že tyto zákony by mohly neúmyslně kriminalizovat používání běžných 3D tiskáren.",
+      "Objevují se obavy, že široce formulované zákony mohou negativně ovlivnit také software pro 3D tisk a digitální soubory.",
+      "Cílem iniciativy je zvýšit povědomí o tom, jak by legislativní snahy mohly poškodit komunitu 3D tiskařů a profesionálů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "3D Printing Legislation",
+      "Advocacy",
+      "Policy",
+      "Digital Rights"
+    ]
+  },
+  {
+    "title": "Velkoformátový robotický 3D tisk společnosti HADDY podpoří výrobu dronových člunů firmy Red Cat",
+    "summary": "In May 2025, Joris Peels, as is his custom, wrote a prescient article about Unmanned Surface Vehicles (USVs) and Unmanned Underwater Vehicles (UUVs), i.e., drone boats. Listing a multifaceted range...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/68372d431e567e1399aa574d-6838775048826cd737fff7b2_haddy1-poster-00001.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-08T12:30:25+00:00",
+    "url": "https://3dprint.com/325061/haddys-large-format-robotic-3d-printing-to-power-drone-boat-production-from-red-cat/",
+    "forced_tags": [],
+    "title_en": "HADDY’s Large-Format Robotic 3D Printing to Power Red Cat’s Drone Boat Production",
+    "summary_bullets_en": [
+      "HADDY is implementing large-format robotic 3D printing to accelerate the manufacturing of Red Cat’s unmanned surface and underwater vehicles.",
+      "The partnership aims to overcome traditional production bottlenecks by utilizing advanced additive manufacturing for complex drone boat components.",
+      "This collaboration highlights the growing strategic importance of 3D printing in the defense and maritime technology sectors.",
+      "The initiative builds upon previous industry insights regarding the critical role of USVs and UUVs in modern autonomous operations."
+    ],
+    "summary_bullets_cs": [
+      "Společnost HADDY zavádí velkoformátový robotický 3D tisk pro zrychlení výroby bezpilotních hladinových a podvodních plavidel firmy Red Cat.",
+      "Partnerství má za cíl překonat tradiční výrobní překážky využitím pokročilé aditivní výroby pro komplexní komponenty dronových člunů.",
+      "Tato spolupráce podtrhuje rostoucí strategický význam 3D tisku v sektorech obrany a námořních technologií.",
+      "Iniciativa navazuje na předchozí odborné analýzy o klíčové roli bezpilotních plavidel v moderních autonomních operacích."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "HADDY",
+      "Red Cat",
+      "Robotic 3D Printing",
+      "USV",
+      "UUV",
+      "Large-Format Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Metal Base a Scrap Labs uvádějí revoluci v ultra levném kovovém LPBF tisku pod 10 000 USD",
+    "summary": "Dutch firm Metal Base started a low-cost metal LPBF revolution last month. An ultra-low-cost metal laser powder bed fusion system was engineered by Tom Bakker. With a direct path to...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/scraplabscopperfuck.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-08T12:00:40+00:00",
+    "url": "https://3dprint.com/325062/metal-base-scrap-labs-usher-in-a-ultra-low-cost-sub-10000-metal-lpbf-evolution/",
+    "forced_tags": [],
+    "title_en": "Metal Base & Scrap Labs Usher in an Ultra-Low-Cost Sub-$10,000 Metal LPBF Evolution",
+    "summary_bullets_en": [
+      "Dutch company Metal Base has launched a disruptive, ultra-low-cost metal LPBF 3D printing system.",
+      "The machine was engineered by Tom Bakker with a focus on accessibility and affordability.",
+      "The project aims to bring metal laser powder bed fusion technology under the $10,000 price point.",
+      "This development marks a significant shift in making industrial-grade metal additive manufacturing more accessible."
+    ],
+    "summary_bullets_cs": [
+      "Nizozemská firma Metal Base minulý měsíc odstartovala revoluci v nízkonákladovém kovovém LPBF tisku.",
+      "Systém pro laserové spékání kovového prášku za ultra nízkou cenu zkonstruoval Tom Bakker.",
+      "Projekt nabízí přímou cestu k cenově dostupné technologii kovového 3D tisku pod hranicí 10 000 dolarů."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal Additive Manufacturing",
+      "LPBF",
+      "Metal Base",
+      "Scrap Labs",
+      "Tom Bakker"
+    ]
+  },
+  {
+    "title": "University of Utah a Penn State získaly financování od NASA na 3D tisk materiálů pro raketové motory",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/university-of-utah-penn-state-win-nasa-funding-to-3d-print-rocket-engine-materials/\" target=\"_blank\">University of Utah, Penn State Win NASA Funding to 3D Print Rocket Engine Materials</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">April 8</span></div><div><img alt=\"QuesTek Partners with Niobium Producer to Develop High-Temperature 3D Printing Alloy\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/4387978940-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/4387978940-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-04-08T09:49:58+00:00",
+    "url": "https://3dprinting.com/news/university-of-utah-penn-state-win-nasa-funding-to-3d-print-rocket-engine-materials/",
+    "forced_tags": [],
+    "title_en": "University of Utah, Penn State Win NASA Funding to 3D Print Rocket Engine Materials",
+    "summary_bullets_en": [
+      "NASA has awarded research funding to the University of Utah and Penn State to advance 3D printing technologies for rocket engine components.",
+      "The projects focus on developing high-performance materials capable of withstanding the extreme thermal and mechanical stresses of space flight.",
+      "This initiative aims to accelerate the production of complex aerospace parts while reducing costs and improving engine efficiency.",
+      "The collaboration highlights the growing importance of additive manufacturing in modern space exploration and propulsion systems."
+    ],
+    "summary_bullets_cs": [
+      "NASA udělila granty univerzitám v Utahu a Penn State na vývoj technologií 3D tisku pro komponenty raketových motorů.",
+      "Projekty se zaměřují na vývoj vysoce odolných materiálů, které zvládnou extrémní tepelné a mechanické namáhání při letech do vesmíru.",
+      "Cílem iniciativy je urychlit výrobu komplexních leteckých dílů, snížit náklady a zvýšit efektivitu motorů.",
+      "Spolupráce podtrhuje rostoucí význam aditivní výroby v moderním kosmickém výzkumu a pohonných systémech."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "NASA",
+      "University of Utah",
+      "Penn State",
+      "Aerospace",
+      "Rocketry"
+    ]
+  },
+  {
+    "title": "PLA filamenty obohacené o vitamín E pro 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953506517/0/fabbaloo/default~Vitamin-E-Enhanced-PLA-Filaments-For-D-Printing\" rel=\"nofollow\" title=\"Vitamin E Enhanced PLA Filaments For 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/vitamin-e-filament-cover-300x102.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers report on PLA filaments infused with vitamin E and their behavior in FFF printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953506517/0/fabbaloo/default~Vitamin-E-Enhanced-PLA-Filaments-For-D-Printing\" rel=\"nofollow\">Vitamin E Enhanced PLA Filaments For 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/vitamin-e-filament-cover-300x102.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-04-08T08:15:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953506517/0/fabbaloo/default~Vitamin-E-Enhanced-PLA-Filaments-For-D-Printing",
+    "forced_tags": [],
+    "title_en": "Vitamin E Enhanced PLA Filaments For 3D Printing",
+    "summary_bullets_en": [
+      "Researchers have developed a new type of PLA filament infused with vitamin E.",
+      "The study investigates how this additive influences the material's properties during the FFF 3D printing process.",
+      "This innovation aims to explore potential functional benefits or material improvements for standard PLA printing."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli nový typ PLA filamentu obohacený o vitamín E.",
+      "Studie zkoumá, jak tato přísada ovlivňuje vlastnosti materiálu během procesu FFF 3D tisku.",
+      "Tato inovace má za cíl prozkoumat potenciální funkční výhody nebo vylepšení vlastností standardního PLA materiálu."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "PLA",
+      "Filament",
+      "Research",
+      "FFF"
+    ]
+  },
+  {
     "title": "Praktické zkušenosti s Prompt2CAD",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/953467439/0/fabbaloo/default~Hands-On-with-PromptCAD\" rel=\"nofollow\" title=\"Hands On with Prompt2CAD\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/prompt2cad-cover-300x203.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>I’m trying a new and quite different AI generative tool, Prompt2CAD.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953467439/0/fabbaloo/default~Hands-On-with-PromptCAD\" rel=\"nofollow\">Hands On with Prompt2CAD</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/prompt2cad-cover-300x203.jpg",
