@@ -1,5 +1,466 @@
 [
   {
+    "title": "Western University využívá AI k předpovídání růstu uší a 3D tisku ušních tvarovek",
+    "summary": "For families of children with hearing loss, the cycle is relentless: a new earmold fitted, months of appointments, and then another visit because a child&#8217;s ear has grown past it again. The ALLEars project, a large-scale collaboration between Western University and Boys Town National Research Hospital in Nebraska, is setting out to break that cycle&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/Susan-2-original-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-16T05:59:17+00:00",
+    "url": "https://3dprintingindustry.com/news/western-university-uses-ai-to-predict-ear-growth-and-3d-print-earmolds-250548/?utm_source=rss&utm_medium=rss&utm_campaign=western-university-uses-ai-to-predict-ear-growth-and-3d-print-earmolds",
+    "forced_tags": [],
+    "title_en": "Western University Uses AI to Predict Ear Growth and 3D Print Earmolds",
+    "summary_bullets_en": [
+      "The ALLEars project aims to reduce the frequent need for earmold replacements in children with hearing loss.",
+      "Researchers are utilizing AI algorithms to predict how a child's ear will grow over time.",
+      "By combining predictive modeling with 3D printing, the team creates custom-fitted earmolds that last longer.",
+      "This collaboration between Western University and Boys Town National Research Hospital seeks to improve clinical efficiency and patient comfort."
+    ],
+    "summary_bullets_cs": [
+      "Projekt ALLEars si klade za cíl snížit potřebu časté výměny ušních tvarovek u dětí se ztrátou sluchu.",
+      "Výzkumníci využívají algoritmy umělé inteligence k předpovídání toho, jak bude dětské ucho v čase růst.",
+      "Kombinací prediktivního modelování a 3D tisku tým vytváří ušní tvarovky na míru, které mají delší životnost.",
+      "Tato spolupráce mezi Western University a Boys Town National Research Hospital usiluje o zlepšení efektivity léčby a pohodlí pacientů."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "3D Printing",
+      "AI",
+      "Healthcare",
+      "Audiology",
+      "ALLEars",
+      "Western University"
+    ]
+  },
+  {
+    "title": "Studio RAP vytiskne na 3D tiskárně keramické sloupy pro studentské bydlení",
+    "summary": "A nearly 300-year-old gingko tree, believed to be the first of its kind cultivated outside Asia, is about to inspire one of the most architecturally distinctive student housing projects in the Netherlands.&#160; Rotterdam-based Studio RAP has been commissioned to design and 3D print hundreds of custom ceramic tiles for the Gingko Complex in Utrecht, cladding&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/1774965964881-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-16T05:28:31+00:00",
+    "url": "https://3dprintingindustry.com/news/studio-rap-to-3d-print-ceramic-columns-for-student-housing-250542/?utm_source=rss&utm_medium=rss&utm_campaign=studio-rap-to-3d-print-ceramic-columns-for-student-housing",
+    "forced_tags": [],
+    "title_en": "Studio RAP to 3D Print Ceramic Columns for Student Housing",
+    "summary_bullets_en": [
+      "Rotterdam-based Studio RAP is designing and 3D printing custom ceramic tiles for a new student housing project in Utrecht.",
+      "The architectural design of the 'Gingko Complex' is inspired by a historic 300-year-old gingko tree located near the site.",
+      "The project utilizes advanced additive manufacturing to create unique, high-detail cladding for the building's columns."
+    ],
+    "summary_bullets_cs": [
+      "Rotterdamské studio RAP navrhuje a pomocí 3D tisku vyrábí keramické obklady pro nový projekt studentského bydlení v Utrechtu.",
+      "Architektonický návrh komplexu „Gingko“ je inspirován historickým 300 let starým jinanem dvoulaločným, který roste v blízkosti stavby.",
+      "Projekt využívá pokročilé technologie aditivní výroby k vytvoření unikátních a detailně propracovaných obkladů pro sloupy budovy."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Studio RAP",
+      "3D Printing",
+      "Ceramics",
+      "Architecture",
+      "Construction"
+    ]
+  },
+  {
+    "title": "Tajné decentralizované sítě 3D tisku dodávají ve velkém díly pro drony na Ukrajinu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953843363/0/fabbaloo/default~Secret-Decentralized-D-Printing-Networks-Supply-Drone-Parts-to-Ukraine-at-Scale\" rel=\"nofollow\" title=\"Secret Decentralized 3D Printing Networks Supply Drone Parts to Ukraine at Scale\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/ukraine-networks-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>I’m reading a fascinating glimpse into a hidden world of military manufacturing using desktop 3D printers.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953843363/0/fabbaloo/default~Secret-Decentralized-D-Printing-Networks-Supply-Drone-Parts-to-Ukraine-at-Scale\" rel=\"nofollow\">Secret Decentralized 3D Printing Networks Supply Drone Parts to Ukraine at Scale</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/ukraine-networks-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-15T16:16:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953843363/0/fabbaloo/default~Secret-Decentralized-D-Printing-Networks-Supply-Drone-Parts-to-Ukraine-at-Scale",
+    "forced_tags": [],
+    "title_en": "Secret Decentralized 3D Printing Networks Supply Drone Parts to Ukraine at Scale",
+    "summary_bullets_en": [
+      "A hidden, decentralized network of desktop 3D printers is being utilized to manufacture critical drone components for the war in Ukraine.",
+      "This distributed manufacturing model allows for rapid production and supply chain resilience in a conflict zone.",
+      "The initiative highlights the strategic importance of accessible 3D printing technology in modern military logistics."
+    ],
+    "summary_bullets_cs": [
+      "Skrytá, decentralizovaná síť stolních 3D tiskáren je využívána k výrobě klíčových komponentů pro drony v rámci války na Ukrajině.",
+      "Tento distribuovaný výrobní model umožňuje rychlou produkci a odolnost dodavatelského řetězce v konfliktní zóně.",
+      "Iniciativa zdůrazňuje strategický význam dostupné technologie 3D tisku v moderní vojenské logistice."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Printing",
+      "Drones",
+      "Distributed Manufacturing",
+      "Ukraine",
+      "Military Technology"
+    ]
+  },
+  {
+    "title": "Elegoo představuje Jupiter 2 s obrovským tiskovým prostorem",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953840348/0/fabbaloo/default~Elegoo-Announces-Jupiter-Featuring-Massive-Build-Size\" rel=\"nofollow\" title=\"Elegoo Announces Jupiter 2 Featuring Massive Build Size\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/elegoo-jupiter2-cover-300x181.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Elegoo announced the massive Jupiter 2 resin 3D printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953840348/0/fabbaloo/default~Elegoo-Announces-Jupiter-Featuring-Massive-Build-Size\" rel=\"nofollow\">Elegoo Announces Jupiter 2 Featuring Massive Build Size</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/elegoo-jupiter2-cover-300x181.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-15T15:05:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953840348/0/fabbaloo/default~Elegoo-Announces-Jupiter-Featuring-Massive-Build-Size",
+    "forced_tags": [],
+    "title_en": "Elegoo Announces Jupiter 2 Featuring Massive Build Size",
+    "summary_bullets_en": [
+      "Elegoo has officially unveiled the Jupiter 2, a new large-format resin 3D printer.",
+      "The machine is designed to offer a significantly expanded build volume for professional and hobbyist users.",
+      "This release marks a major update to Elegoo's high-end resin printing lineup."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Elegoo oficiálně představila novou resinovou 3D tiskárnu Jupiter 2.",
+      "Zařízení je navrženo tak, aby nabídlo výrazně zvětšený tiskový objem pro profesionály i nadšence.",
+      "Toto uvedení na trh představuje významnou aktualizaci prémiové řady resinových tiskáren značky Elegoo."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Resin Printing",
+      "Elegoo",
+      "Jupiter 2",
+      "Large Format"
+    ]
+  },
+  {
+    "title": "Bambu Lab vydává aktualizaci BambuStudio s funkcí míchání barev!",
+    "summary": "RECODE.AM #46",
+    "image": "https://substackcdn.com/image/fetch/$s_!hM1e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7895768-6b87-417f-b666-b7b9b0e27603_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-04-15T14:00:23+00:00",
+    "url": "https://www.3dprintingjournal.com/p/bambu-lab-releases-bambustudio-update",
+    "forced_tags": [],
+    "title_en": "Bambu Lab releases BambuStudio update with Color Mixing feature!",
+    "summary_bullets_en": [
+      "Bambu Lab has launched a significant update to its BambuStudio slicer software.",
+      "The new version introduces a highly anticipated color mixing feature for multi-material prints.",
+      "This update enhances the capabilities of the AMS (Automatic Material System) for more creative 3D printing.",
+      "Users can now achieve custom color gradients and blends directly within the software interface."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab vydala významnou aktualizaci svého slicovacího softwaru BambuStudio.",
+      "Nová verze přináší dlouho očekávanou funkci míchání barev pro vícebarevný tisk.",
+      "Aktualizace rozšiřuje možnosti systému AMS (Automatic Material System) pro kreativnější 3D tisk.",
+      "Uživatelé nyní mohou přímo v rozhraní softwaru vytvářet vlastní barevné přechody a směsi."
+    ],
+    "tags": [
+      "Software",
+      "Bambu Lab",
+      "3D Printing",
+      "AMS",
+      "Color Mixing"
+    ]
+  },
+  {
+    "title": "3D Printing Industry připravuje vylepšení webových stránek na základě zpětné vazby od čtenářů",
+    "summary": "3D Printing Industry is preparing a significant upgrade to its website, with a redesigned platform set to launch in the coming weeks. The update follows our earlier reader survey, which gathered feedback on how audiences use the site and where improvements are most needed. Responses highlighted the importance of faster load times, clearer navigation and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/01/State-of-Investment-Series-10-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-15T13:29:19+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printing-industry-preparing-website-upgrade-following-reader-feedback-250539/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printing-industry-preparing-website-upgrade-following-reader-feedback",
+    "forced_tags": [],
+    "title_en": "3D Printing Industry Preparing Website Upgrade Following Reader Feedback",
+    "summary_bullets_en": [
+      "3D Printing Industry is launching a redesigned website in the coming weeks.",
+      "The update is a direct response to feedback gathered from a recent reader survey.",
+      "Key improvements focus on faster page loading and more intuitive navigation.",
+      "The platform aims to enhance the overall user experience based on audience needs."
+    ],
+    "summary_bullets_cs": [
+      "Portál 3D Printing Industry připravuje na nadcházející týdny spuštění kompletně přepracované webové platformy.",
+      "Aktualizace vychází z výsledků nedávného průzkumu mezi čtenáři, kteří hodnotili uživatelskou přívětivost webu.",
+      "Hlavním cílem změn je zrychlení načítání stránek a přehlednější navigace pro uživatele."
+    ],
+    "tags": [
+      "Services",
+      "3D Printing Industry",
+      "Web Development",
+      "User Experience",
+      "Digital Media"
+    ]
+  },
+  {
+    "title": "Inženýři z Rice University 3D tisknou elektroniku pomocí fokusovaných mikrovln a překonávají desetiletou bariéru",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/rice-engineers-3d-print-electronics-with-focused-microwaves-bypassing-a-decade-long-barrier/\" target=\"_blank\">Rice Engineers 3D Print Electronics With Focused Microwaves, Bypassing a Decade-Long Barrier</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">April 15</span></div><div><img alt=\"microwaves to heat electronic ink\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/horizontal_fig_3_-_kong_research-group-260205_kong-1-2_copy-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/horizontal_fig_3_-_kong_research-group-260205_kong-1-2_copy-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-04-15T13:08:07+00:00",
+    "url": "https://3dprinting.com/news/rice-engineers-3d-print-electronics-with-focused-microwaves-bypassing-a-decade-long-barrier/",
+    "forced_tags": [],
+    "title_en": "Rice Engineers 3D Print Electronics With Focused Microwaves, Bypassing a Decade-Long Barrier",
+    "summary_bullets_en": [
+      "Engineers at Rice University have developed a method to 3D print electronics using focused microwaves to sinter conductive inks.",
+      "This technique overcomes a decade-long challenge by allowing for precise heating of materials without damaging the underlying substrate.",
+      "The process enables the creation of complex, flexible electronic circuits that were previously difficult to manufacture with traditional thermal methods.",
+      "This breakthrough paves the way for more efficient and versatile production of wearable technology and advanced electronic components."
+    ],
+    "summary_bullets_cs": [
+      "Inženýři z Rice University vyvinuli metodu 3D tisku elektroniky, která využívá fokusované mikrovlny k sintrování vodivých inkoustů.",
+      "Tato technika překonává desetiletou výzvu tím, že umožňuje přesný ohřev materiálů bez poškození podkladového substrátu.",
+      "Proces umožňuje vytváření komplexních, flexibilních elektronických obvodů, jejichž výroba byla pomocí tradičních tepelných metod dříve obtížná.",
+      "Tento průlom otevírá cestu k efektivnější a všestrannější výrobě nositelné elektroniky a pokročilých elektronických komponent."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Electronics",
+      "Rice University",
+      "Microwave Sintering",
+      "Conductive Inks"
+    ]
+  },
+  {
+    "title": "HP představuje Multi Jet Fusion 1200 s kompaktním designem a 12hodinovým tiskem",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953830451/0/fabbaloo/default~HP-Introduces-Multi-Jet-Fusion-With-Compact-Design-with-Hour-Builds\" rel=\"nofollow\" title=\"HP Introduces Multi Jet Fusion 1200 With Compact Design with 12-Hour Builds\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/hp-mjf-1200-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>HP announced a new industrial 3D printer, the Multi Jet Fusion 1200.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953830451/0/fabbaloo/default~HP-Introduces-Multi-Jet-Fusion-With-Compact-Design-with-Hour-Builds\" rel=\"nofollow\">HP Introduces Multi Jet Fusion 1200 With Compact Design with 12-Hour Builds</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/hp-mjf-1200-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-15T13:03:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953830451/0/fabbaloo/default~HP-Introduces-Multi-Jet-Fusion-With-Compact-Design-with-Hour-Builds",
+    "forced_tags": [],
+    "title_en": "HP Introduces Multi Jet Fusion 1200 With Compact Design with 12-Hour Builds",
+    "summary_bullets_en": [
+      "HP has unveiled the new Multi Jet Fusion 1200, an industrial-grade 3D printer.",
+      "The machine features a compact design suitable for smaller production environments.",
+      "It is optimized for efficiency, offering a rapid 12-hour build cycle."
+    ],
+    "summary_bullets_cs": [
+      "Společnost HP představila novou průmyslovou 3D tiskárnu Multi Jet Fusion 1200.",
+      "Stroj se vyznačuje kompaktním designem, který je vhodný pro menší výrobní prostory.",
+      "Tiskárna je optimalizována pro vysokou efektivitu a nabízí rychlý 12hodinový tiskový cyklus."
+    ],
+    "tags": [
+      "Hardware",
+      "HP",
+      "Multi Jet Fusion",
+      "3D Printing",
+      "Industrial Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost ExOne snižuje náklady pro americké zákazníky díky přesunu výroby tiskových hlav do Detroitu",
+    "summary": "ExOne Global Holdings, created through the 2025 integration of ExOne and voxeljet, is making changes across its U.S. operations. These include starting printhead manufacturing in the Detroit area and lowering...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/01/EOne-Global-Holdings-management_facility.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-15T13:00:22+00:00",
+    "url": "https://3dprint.com/325264/exone-moves-3d-printing-production-to-detroit-cuts-costs-for-u-s-customers/",
+    "forced_tags": [],
+    "title_en": "ExOne Cuts Costs for U.S. Customers as Printhead Production Moves to Detroit",
+    "summary_bullets_en": [
+      "ExOne Global Holdings is localizing printhead manufacturing to the Detroit area.",
+      "The strategic move aims to reduce operational costs for U.S. customers.",
+      "This initiative follows the 2025 integration of ExOne and voxeljet."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ExOne Global Holdings, vzniklá integrací firem ExOne a voxeljet v roce 2025, provádí změny ve svých amerických provozech.",
+      "Součástí těchto změn je zahájení výroby tiskových hlav v oblasti Detroitu.",
+      "Cílem opatření je snížení nákladů pro zákazníky ve Spojených státech."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "ExOne",
+      "voxeljet",
+      "ExOne Global Holdings"
+    ]
+  },
+  {
+    "title": "Jemný laserový paprsek společnosti Farsoon dává Číně výhodu v tepelném managementu při 3D tisku",
+    "summary": "Metal additive manufacturing (AM) systems generally utilize lasers with spot sizes that fall into a range of 80 micrometers (μm) to 100μm, although dynamic beam shaping may soon lead to...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/3-1024x604.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-15T12:30:28+00:00",
+    "url": "https://3dprint.com/325267/farsoon-fine-laser-spot-3d-printing-gives-china-a-thermal-management-edge/",
+    "forced_tags": [],
+    "title_en": "Farsoon’s Fine Laser Spot 3D Printing Gives China a Thermal Management Edge",
+    "summary_bullets_en": [
+      "Farsoon Technologies is advancing metal additive manufacturing by utilizing significantly smaller laser spot sizes than the industry standard.",
+      "The use of finer laser spots allows for superior precision in creating complex internal cooling channels for thermal management components.",
+      "This technological edge strengthens China's domestic capabilities in producing high-performance parts for demanding industrial applications."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Farsoon Technologies posouvá hranice aditivní výroby kovů díky využití laserových paprsků s výrazně menším průměrem, než je průmyslový standard.",
+      "Použití jemnějších laserových bodů umožňuje dosáhnout vyšší přesnosti při tvorbě komplexních vnitřních chladicích kanálků pro komponenty tepelného managementu.",
+      "Tato technologická výhoda posiluje čínské domácí kapacity ve výrobě vysoce výkonných dílů pro náročné průmyslové aplikace."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal Additive Manufacturing",
+      "Farsoon Technologies",
+      "Laser Powder Bed Fusion",
+      "Thermal Management"
+    ]
+  },
+  {
+    "title": "RAPID Roundup 2026: Simulace, IPQA, materiály, odstraňování prášku a další",
+    "summary": "This year&#8217;s RAPID+TCT trade show is in full swing in Boston this week, and we already have plenty of news to share with you, from a simulation and optimization platform...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/Fine_mesh_comp_image-1024x536.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-15T12:00:48+00:00",
+    "url": "https://3dprint.com/324997/rapid-2026-simulation-ipqa-materials-depowdering-more/",
+    "forced_tags": [],
+    "title_en": "RAPID Roundup 2026: Simulation, IPQA, Materials, Depowdering, & More",
+    "summary_bullets_en": [
+      "The RAPID+TCT trade show in Boston is showcasing the latest advancements in additive manufacturing.",
+      "Key highlights include new simulation and optimization platforms for improved production workflows.",
+      "Exhibitors are presenting innovations in in-process quality assurance (IPQA) and automated depowdering solutions.",
+      "The event features a wide range of new material developments and industrial 3D printing hardware."
+    ],
+    "summary_bullets_cs": [
+      "Veletrh RAPID+TCT v Bostonu představuje nejnovější pokroky v aditivní výrobě.",
+      "Mezi hlavní body patří nové simulační a optimalizační platformy pro efektivnější výrobní procesy.",
+      "Vystavovatelé prezentují inovace v oblasti kontroly kvality během procesu (IPQA) a automatizovaného odstraňování prášku.",
+      "Akce nabízí širokou škálu novinek v oblasti materiálů a průmyslového 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "RAPID+TCT",
+      "Simulation",
+      "IPQA",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Pračky na základně Fort Liberty a 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953827118/0/fabbaloo/default~Fort-Liberty-Washing-Machines-and-D-Printing\" rel=\"nofollow\" title=\"Fort Liberty Washing Machines and 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/Ftliberty1-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Nimra Shakoor highlight how a single soldier’s 3D-printed fix at Fort Liberty turned a supply chain problem into a low-cost, high-impact solution.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953827118/0/fabbaloo/default~Fort-Liberty-Washing-Machines-and-D-Printing\" rel=\"nofollow\">Fort Liberty Washing Machines and 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/Ftliberty1-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-15T11:35:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953827118/0/fabbaloo/default~Fort-Liberty-Washing-Machines-and-D-Printing",
+    "forced_tags": [],
+    "title_en": "Fort Liberty Washing Machines and 3D Printing",
+    "summary_bullets_en": [
+      "A soldier at Fort Liberty successfully used 3D printing to repair a broken washing machine.",
+      "This initiative highlights how additive manufacturing can solve critical supply chain delays in military environments.",
+      "The project demonstrates a low-cost, high-impact approach to maintenance and operational readiness."
+    ],
+    "summary_bullets_cs": [
+      "Voják na základně Fort Liberty úspěšně využil 3D tisk k opravě rozbité pračky.",
+      "Tato iniciativa ukazuje, jak může aditivní výroba řešit kritické problémy v dodavatelském řetězci v armádním prostředí.",
+      "Projekt demonstruje nízkonákladové a vysoce efektivní řešení pro údržbu a provozní připravenost."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Military",
+      "Supply Chain",
+      "Maintenance",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost AtomForm představuje 3D tiskárnu Palette 300 pro více materiálů s 12 tryskami a možností 36 barev",
+    "summary": "AtomForm, a MOVA Group consumer and professional 3D printing hardware company, has introduced the Palette 300, an FDM 3D printer designed to enable multi-color and multi-material printing through a 12-nozzle architecture. 3DPI travelled to the launch event in San Jose to learn more about how the system targets reduced material waste and simplified workflows, with&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/03/image-8-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-15T10:13:07+00:00",
+    "url": "https://3dprintingindustry.com/news/atomform-introduces-palette-300-multi-material-3d-printer-with-12-nozzle-system-and-36-color-capability-250438/?utm_source=rss&utm_medium=rss&utm_campaign=atomform-introduces-palette-300-multi-material-3d-printer-with-12-nozzle-system-and-36-color-capability",
+    "forced_tags": [],
+    "title_en": "AtomForm introduces Palette 300 multi-material 3D printer with 12-nozzle system and 36-color capability",
+    "summary_bullets_en": [
+      "AtomForm launched the Palette 300, an FDM printer featuring a unique 12-nozzle architecture.",
+      "The system supports multi-material and multi-color printing with up to 36 color options.",
+      "The design focuses on minimizing material waste and streamlining complex 3D printing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Společnost AtomForm uvedla na trh Palette 300, FDM tiskárnu využívající unikátní architekturu s 12 tryskami.",
+      "Systém umožňuje tisk z více materiálů a barev, přičemž nabízí až 36 barevných kombinací.",
+      "Konstrukce tiskárny se zaměřuje na snížení plýtvání materiálem a zjednodušení pracovních postupů při 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "AtomForm",
+      "FDM",
+      "Multi-material printing",
+      "3D printing innovation"
+    ]
+  },
+  {
+    "title": "Výzkumníci integrovali funkční senzory deformace do titanu pomocí LPBF",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953818835/0/fabbaloo/default~Researchers-Embed-Working-Strain-Sensors-In-LPBF-Titanium\" rel=\"nofollow\" title=\"Researchers Embed Working Strain Sensors In LPBF Titanium\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/titanium-strain-sensors-cover-300x143.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have embedded working multilayer strain sensors inside LPBF titanium, suggesting that self-monitoring metal parts are getting closer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953818835/0/fabbaloo/default~Researchers-Embed-Working-Strain-Sensors-In-LPBF-Titanium\" rel=\"nofollow\">Researchers Embed Working Strain Sensors In LPBF Titanium</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/titanium-strain-sensors-cover-300x143.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-15T08:04:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953818835/0/fabbaloo/default~Researchers-Embed-Working-Strain-Sensors-In-LPBF-Titanium",
+    "forced_tags": [],
+    "title_en": "Researchers Embed Working Strain Sensors In LPBF Titanium",
+    "summary_bullets_en": [
+      "Researchers successfully integrated functional multilayer strain sensors directly into titanium parts using Laser Powder Bed Fusion (LPBF).",
+      "This breakthrough enables the creation of self-monitoring metal components capable of real-time structural health assessment.",
+      "The integration process demonstrates a significant step forward in smart manufacturing and additive manufacturing of intelligent materials."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníkům se podařilo přímo do titanových dílů vytištěných metodou LPBF (Laser Powder Bed Fusion) integrovat funkční vícevrstvé senzory deformace.",
+      "Tento průlom umožňuje výrobu „chytrých“ kovových komponentů, které jsou schopny v reálném čase monitorovat svůj vlastní technický stav.",
+      "Vývoj představuje významný pokrok v oblasti inteligentní výroby a aditivních technologií pro pokročilé materiály."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "LPBF",
+      "Titanium",
+      "Sensors",
+      "Additive Manufacturing",
+      "Smart Materials"
+    ]
+  },
+  {
+    "title": "Eplus3D a Hankook posouvají kovový 3D tisk do výroby pneumatik",
+    "summary": "One of the hidden gems in 3D printing is tire production. Several companies, most notably Michelin, have used 3D printing extensively for tire molds and other parts of tire production...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/2-2-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-15T07:00:57+00:00",
+    "url": "https://3dprint.com/325157/eplus3d-hankook-precision-works-work-on-tire-sipes/",
+    "forced_tags": [],
+    "title_en": "Eplus3D and Hankook Push Metal 3D Printing Into Tire Production",
+    "summary_bullets_en": [
+      "Eplus3D is partnering with tire manufacturer Hankook to integrate metal 3D printing into their production processes.",
+      "The collaboration focuses on leveraging additive manufacturing to create advanced tire molds and specialized components.",
+      "This move highlights the growing trend of using 3D printing to enhance efficiency and innovation in the tire industry, following in the footsteps of leaders like Michelin."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Eplus3D navázala spolupráci s výrobcem pneumatik Hankook za účelem integrace kovového 3D tisku do výrobních procesů.",
+      "Partnerství se zaměřuje na využití aditivní výroby při tvorbě pokročilých forem na pneumatiky a specializovaných komponentů.",
+      "Tento krok potvrzuje rostoucí trend využívání 3D tisku pro zvýšení efektivity a inovací v oboru, čímž následuje příklad lídrů, jako je Michelin."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Eplus3D",
+      "Hankook",
+      "Michelin",
+      "Metal 3D Printing",
+      "Tire Industry"
+    ]
+  },
+  {
+    "title": "Chytřejší sériová výroba v centru pozornosti: Systém MUEES430 PRO od UnionTech míří na veletrh RAPID + TCT 2026",
+    "summary": "Chinese 3D printer manufacturer UnionTech will be debuting its novel MUEES430 PRO at the RAPID + TCT 2026 taking place at Boston Convention and Exhibition Center later this April. The MUEES430 PRO is a selective laser melting (SLM) system designed for industrial batch production, built around a quad-laser architecture and a suite of process engineering&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/MUEES430-PRO-2-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-14T20:30:00+00:00",
+    "url": "https://3dprintingindustry.com/news/smarter-batch-production-on-spotlight-as-uniontechs-muees430-pro-system-heads-to-rapid-tct-2026-250515/?utm_source=rss&utm_medium=rss&utm_campaign=smarter-batch-production-on-spotlight-as-uniontechs-muees430-pro-system-heads-to-rapid-tct-2026",
+    "forced_tags": [],
+    "title_en": "Smarter Batch Production on Spotlight as UnionTech’s MUEES430 PRO System Heads to RAPID + TCT 2026",
+    "summary_bullets_en": [
+      "UnionTech is set to unveil its new MUEES430 PRO SLM 3D printer at the upcoming RAPID + TCT 2026 event in Boston.",
+      "The system features a quad-laser architecture specifically engineered to enhance efficiency in industrial batch production.",
+      "The machine integrates advanced process engineering tools designed to optimize manufacturing workflows and output quality."
+    ],
+    "summary_bullets_cs": [
+      "Čínský výrobce 3D tiskáren UnionTech představí svůj nový systém MUEES430 PRO na veletrhu RAPID + TCT 2026, který se koná v dubnu v Bostonu.",
+      "MUEES430 PRO je tiskárna využívající technologii selektivního laserového tavení (SLM) se čtyřmi lasery, určená pro průmyslovou sériovou výrobu.",
+      "Zařízení je vybaveno sadou pokročilých inženýrských procesů, které mají za cíl zefektivnit výrobní postupy."
+    ],
+    "tags": [
+      "Hardware",
+      "UnionTech",
+      "SLM",
+      "3D Printing",
+      "Industrial Manufacturing",
+      "RAPID + TCT"
+    ]
+  },
+  {
     "title": "Bambu Lab uvádí na trh 3D tiskárnu X2D se dvěma tryskami a vyhřívanou komorou",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/953786915/0/fabbaloo/default~Bambu-Lab-Launches-XD-D-Printer-With-Dual-Nozzles-and-Heated-Chamber\" rel=\"nofollow\" title=\"Bambu Lab Launches X2D 3D Printer With Dual Nozzles and Heated Chamber\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/x2d-cover-300x175.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The rumours seem to be true: Bambu Lab just announced a new desktop FFF device, the X2D.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953786915/0/fabbaloo/default~Bambu-Lab-Launches-XD-D-Printer-With-Dual-Nozzles-and-Heated-Chamber\" rel=\"nofollow\">Bambu Lab Launches X2D 3D Printer With Dual Nozzles and Heated Chamber</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/x2d-cover-300x175.jpeg",
@@ -2849,6 +3310,37 @@
     ]
   },
   {
+    "title": "Prompt2CAD využívá Claude k propojení přirozeného jazyka a CAD výstupů",
+    "summary": "A new 3D design platform called Prompt2CAD is enabling users to convert plain-language furniture descriptions into parametric 3D models, without requiring CAD experience. The platform connects natural language to parametric geometry through Claude AI, which interprets plain-text descriptions and converts them into structured 3D models rendered in real time via Three.js. A user can type&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/videoframe_13375-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-02T07:26:53+00:00",
+    "url": "https://3dprintingindustry.com/news/prompt2cad-deploys-claude-to-bridge-natural-language-and-cad-native-output-250502/?utm_source=rss&utm_medium=rss&utm_campaign=prompt2cad-deploys-claude-to-bridge-natural-language-and-cad-native-output",
+    "forced_tags": [],
+    "title_en": "Prompt2CAD Deploys Claude to Bridge Natural Language and CAD-Native Output",
+    "summary_bullets_en": [
+      "Prompt2CAD is a new platform that transforms natural language descriptions into parametric 3D furniture models.",
+      "The system utilizes Claude AI to interpret text prompts and generate structured 3D geometry.",
+      "Users can create complex designs in real time without needing prior CAD expertise.",
+      "The platform leverages Three.js for immediate visual rendering of the generated models."
+    ],
+    "summary_bullets_cs": [
+      "Nová platforma Prompt2CAD umožňuje uživatelům převádět popisy nábytku v přirozeném jazyce na parametrické 3D modely.",
+      "Systém využívá AI model Claude k interpretaci textových zadání a jejich konverzi na strukturovanou 3D geometrii.",
+      "Uživatelé mohou vytvářet komplexní návrhy v reálném čase bez nutnosti předchozích zkušeností s CAD softwarem.",
+      "Platforma využívá knihovnu Three.js pro okamžité vykreslování generovaných modelů."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "3D Modeling",
+      "CAD",
+      "Prompt2CAD",
+      "Claude",
+      "Generative Design"
+    ]
+  },
+  {
     "title": "Asia AM Watch: Čínský export 5 milionů tiskáren za rok signalizuje masové rozšíření desktopového 3D tisku",
     "summary": "For years, a lot of the discussion around China and additive manufacturing has focused on industrial competition. Can Chinese companies move into higher-end markets? Can they challenge Western machine makers...",
     "image": "https://3dprint.com/wp-content/uploads/2026/03/China-3D-Printer-Eport-Volume-Units-2017–2025.png",
@@ -2878,6 +3370,35 @@
       "Creality",
       "Bambu Lab",
       "Anycubic"
+    ]
+  },
+  {
+    "title": "Raise3D a AMT spojují síly pro pokročilé post-processing SLS tisku",
+    "summary": "3D printer manufacturer Raise3D has partnered with Additive Manufacturing Technologies (AMT), a specialist in automated post-processing for industrial 3D printing, to extend professional finishing capabilities to users of its RMS220 selective laser sintering (SLS) system. The move signals a deliberate push toward closing the gap between prototyping and true end-use part production. “Our partnership with&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/AMT-sfx038-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-02T06:59:25+00:00",
+    "url": "https://3dprintingindustry.com/news/raise3d-and-amt-join-forces-to-advance-sls-post-processing-250506/?utm_source=rss&utm_medium=rss&utm_campaign=raise3d-and-amt-join-forces-to-advance-sls-post-processing",
+    "forced_tags": [],
+    "title_en": "Raise3D and AMT Join Forces to Advance SLS Post-Processing",
+    "summary_bullets_en": [
+      "Raise3D has partnered with AMT to integrate automated post-processing solutions for its RMS220 SLS 3D printer.",
+      "The collaboration aims to enhance the finishing quality of parts produced by the RMS220 system.",
+      "This strategic move is designed to bridge the gap between rapid prototyping and industrial-grade end-use part manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce 3D tiskáren Raise3D navázal partnerství se společností AMT, aby uživatelům svého SLS systému RMS220 zpřístupnil automatizované technologie následného zpracování.",
+      "Cílem spolupráce je vylepšení kvality povrchové úpravy dílů vytištěných na systému RMS220.",
+      "Tento krok představuje snahu o překlenutí propasti mezi prototypováním a skutečnou sériovou výrobou koncových dílů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Raise3D",
+      "AMT",
+      "SLS",
+      "Post-processing",
+      "Additive Manufacturing"
     ]
   },
   {
