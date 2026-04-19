@@ -1,5 +1,117 @@
 [
   {
+    "title": "Novinky ze světa 3D tisku, 18. dubna 2026: Vzdělávací granty, Bambu X1 a další",
+    "summary": "In today&#8217;s 3D Printing News Briefs, SPE announced a collaboration to expand 3D printing education through its equipment grant program. Bambu Lab has retired its X1 Series of FFF 3D...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/IMG_2038-Enhanced-SR-LR1.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-18T12:30:10+00:00",
+    "url": "https://3dprint.com/325341/3d-printing-news-briefs-4-18-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, April 18, 2026: Educational Grants, Bambu X1, & More",
+    "summary_bullets_en": [
+      "SPE has launched a new partnership to enhance 3D printing education via equipment grants.",
+      "Bambu Lab has officially discontinued its X1 Series of FFF 3D printers.",
+      "The industry continues to see shifts in hardware availability and educational support."
+    ],
+    "summary_bullets_cs": [
+      "Organizace SPE oznámila spolupráci na rozšíření vzdělávání v oblasti 3D tisku prostřednictvím programu grantů na vybavení.",
+      "Společnost Bambu Lab ukončila výrobu své řady FFF 3D tiskáren X1."
+    ],
+    "tags": [
+      "Hardware",
+      "Education",
+      "Bambu Lab",
+      "SPE",
+      "FFF 3D Printing"
+    ]
+  },
+  {
+    "title": "Začátek výroby založené na zadávání příkazů? Pohled na Wonder 3D",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/953995061/0/fabbaloo/default~The-Beginning-of-PromptBased-Manufacturing-A-Look-at-Wonder-D\" rel=\"nofollow\" title=\"The Beginning of Prompt-Based Manufacturing? A Look at Wonder 3D\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/Wonder-1-300x163.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Andressa Bonafe highlight how AI-driven tools like Wonder 3D are speeding up design workflows while expanding opportunities for R&#38;D tax credits across digital fabrication.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953995061/0/fabbaloo/default~The-Beginning-of-PromptBased-Manufacturing-A-Look-at-Wonder-D\" rel=\"nofollow\">The Beginning of Prompt-Based Manufacturing? A Look at Wonder 3D</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/Wonder-1-300x163.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-18T11:40:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/953995061/0/fabbaloo/default~The-Beginning-of-PromptBased-Manufacturing-A-Look-at-Wonder-D",
+    "forced_tags": [],
+    "title_en": "The Beginning of Prompt-Based Manufacturing? A Look at Wonder 3D",
+    "summary_bullets_en": [
+      "Wonder 3D leverages AI to significantly accelerate the design-to-manufacturing workflow.",
+      "The tool simplifies the creation of complex 3D models through prompt-based inputs.",
+      "Integration of such AI technologies may open new avenues for R&D tax credit eligibility in digital fabrication."
+    ],
+    "summary_bullets_cs": [
+      "Nástroj Wonder 3D využívá umělou inteligenci k výraznému zrychlení pracovních postupů od návrhu až po výrobu.",
+      "Technologie zjednodušuje tvorbu komplexních 3D modelů pomocí textových příkazů.",
+      "Integrace těchto AI nástrojů může otevřít nové možnosti pro uplatnění daňových úlev na výzkum a vývoj v oblasti digitální výroby."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "3D Modeling",
+      "Digital Fabrication",
+      "Wonder 3D",
+      "R&D"
+    ]
+  },
+  {
+    "title": "Austrálie využívá 3D tisk k obnově domácích zásob kritické slitiny pro námořnictvo",
+    "summary": "A consortium of Australian universities, research institutions, and an advanced manufacturing firm has launched a collaborative initiative to tackle a pressing challenge in naval defense: the domestic production of nickel aluminum bronze (NAB), a high-performance alloy essential to marine propulsion systems.  The project, backed by funding from the Queensland Defence Sciences Alliance (QDSA), brings together&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/NAB-1-small.jpg-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-04-18T10:21:54+00:00",
+    "url": "https://3dprintingindustry.com/news/australia-turns-to-3d-printing-to-rebuild-its-sovereign-supply-of-a-critical-naval-alloy-250680/?utm_source=rss&utm_medium=rss&utm_campaign=australia-turns-to-3d-printing-to-rebuild-its-sovereign-supply-of-a-critical-naval-alloy",
+    "forced_tags": [],
+    "title_en": "Australia Turns to 3D Printing to Rebuild Its Sovereign Supply of a Critical Naval Alloy",
+    "summary_bullets_en": [
+      "An Australian consortium is using 3D printing to localize the production of nickel aluminum bronze (NAB) for naval use.",
+      "The project aims to secure a sovereign supply chain for critical marine propulsion components.",
+      "The initiative is supported by the Queensland Defence Sciences Alliance (QDSA) and involves academic and industrial partners."
+    ],
+    "summary_bullets_cs": [
+      "Australské konsorcium využívá 3D tisk k lokalizaci výroby nikl-hliníkového bronzu (NAB) pro potřeby námořnictva.",
+      "Cílem projektu je zajistit suverénní dodavatelský řetězec pro klíčové komponenty námořních pohonných systémů.",
+      "Iniciativa je financována aliancí Queensland Defence Sciences Alliance (QDSA) a sdružuje akademické i průmyslové partnery."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Naval Defense",
+      "Nickel Aluminum Bronze",
+      "QDSA",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnosti FABULOUS a AMT certifikovaly kompletní SLS proces pro 3D tištěné díly přicházející do styku s potravinami",
+    "summary": "French materials developer FABULOUS and UK-based post-processing specialist Additive Manufacturing Technologies (AMT) have jointly validated a complete workflow for producing food-contact-compliant parts using SLS 3D printing.&#160; The process pairs FABULOUS&#8217;s DETECT PA11 bio-based polyamide material with AMT&#8217;s PostPro Pure vapor smoothing consumable, and has been confirmed by an accredited independent laboratory against both U.S. FDA&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/Detect-montage-BQVF-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-18T10:08:46+00:00",
+    "url": "https://3dprintingindustry.com/news/fabulous-and-amt-certify-a-complete-sls-workflow-for-food-contact-3d-printed-parts-250683/?utm_source=rss&utm_medium=rss&utm_campaign=fabulous-and-amt-certify-a-complete-sls-workflow-for-food-contact-3d-printed-parts",
+    "forced_tags": [],
+    "title_en": "FABULOUS and AMT Certify a Complete SLS Workflow for Food-Contact 3D Printed Parts",
+    "summary_bullets_en": [
+      "FABULOUS and AMT have validated a full SLS 3D printing workflow for food-contact applications.",
+      "The process combines the bio-based DETECT PA11 material with the PostPro Pure vapor smoothing technology.",
+      "The workflow has been independently certified to meet both U.S. FDA and EU food safety standards."
+    ],
+    "summary_bullets_cs": [
+      "Francouzský vývojář materiálů FABULOUS a britský specialista na post-processing AMT společně validovali kompletní workflow pro výrobu 3D tištěných dílů vhodných pro styk s potravinami pomocí technologie SLS.",
+      "Proces využívá bio-polyamid DETECT PA11 od společnosti FABULOUS v kombinaci s technologií vyhlazování parou PostPro Pure od společnosti AMT.",
+      "Tento postup byl nezávislou akreditovanou laboratoří potvrzen jako vyhovující přísným normám amerického úřadu FDA i evropským předpisům pro bezpečnost potravin."
+    ],
+    "tags": [
+      "Material",
+      "Services",
+      "SLS",
+      "FABULOUS",
+      "AMT",
+      "Food-contact",
+      "Post-processing"
+    ]
+  },
+  {
     "title": "Aktualizace BambuStudio přidává míchání barev",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/953958809/0/fabbaloo/default~BambuStudio-Update-Adds-Color-Mixing\" rel=\"nofollow\" title=\"BambuStudio Update Adds Color Mixing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/bambu-color-mixing-cover-300x236.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Bambu Lab has introduced a new feature to enable multiple colour shades.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/953958809/0/fabbaloo/default~BambuStudio-Update-Adds-Color-Mixing\" rel=\"nofollow\">BambuStudio Update Adds Color Mixing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/bambu-color-mixing-cover-300x236.jpg",
