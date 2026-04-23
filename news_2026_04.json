@@ -1,5 +1,643 @@
 [
   {
+    "title": "Společnost Farsoon posouvá 3D tisk slitin mědi vpřed díky rychlosti, přesnosti a škálovatelnosti",
+    "summary": "Copper alloys have long been among the most coveted yet most difficult materials in additive manufacturing. Their extraordinary thermal and electrical properties make them indispensable for aerospace, electronics, and advanced energy systems, but their high reflectivity to near-infrared lasers has historically caused defects, instability, and scalability constraints. Chinese 3D printer manufacturer Farsoon Technologies is addressing&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/Figure_1_FS621M-Cu-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-23T05:54:17+00:00",
+    "url": "https://3dprintingindustry.com/news/farsoon-advances-copper-alloy-3d-printing-with-speed-precision-and-scale-250840/?utm_source=rss&utm_medium=rss&utm_campaign=farsoon-advances-copper-alloy-3d-printing-with-speed-precision-and-scale",
+    "forced_tags": [],
+    "title_en": "Farsoon Advances Copper Alloy 3D Printing With Speed, Precision, and Scale",
+    "summary_bullets_en": [
+      "Copper alloys are highly valued for their thermal and electrical properties but are notoriously difficult to print due to high laser reflectivity.",
+      "Farsoon Technologies is overcoming historical challenges like material instability and scalability issues in copper additive manufacturing.",
+      "The company's latest advancements aim to provide high-precision, industrial-scale solutions for the aerospace, electronics, and energy sectors."
+    ],
+    "summary_bullets_cs": [
+      "Slitiny mědi jsou vysoce ceněny pro své tepelné a elektrické vlastnosti, ale jejich 3D tisk je kvůli vysoké odrazivosti laserů velmi náročný.",
+      "Společnost Farsoon Technologies řeší historické problémy spojené s nestabilitou materiálu a omezenou škálovatelností v aditivní výrobě.",
+      "Nejnovější pokroky společnosti mají za cíl nabídnout vysoce přesná řešení v průmyslovém měřítku pro odvětví letectví, elektroniky a energetiky."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Farsoon Technologies",
+      "Copper Alloys",
+      "Additive Manufacturing",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Authentise Whisper mění chaty na auditovatelné záznamy o výrobě",
+    "summary": "Additive manufacturing has a documentation gap that no design file can fully address. CAD models capture geometry, and process parameters record settings, but neither preserves the engineering rationale behind a critical design revision, or the process adjustment a technician made mid-build to ensure a successful outcome.&#160; That informal, decision-making layer is where much of the&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/6b7541_701cf5a97bf947c2bcd302823cb9a100mv2-150x100.avif",
+    "source": "3D Printing Industry",
+    "published": "2026-04-23T05:35:28+00:00",
+    "url": "https://3dprintingindustry.com/news/authentise-whisper-turns-chats-into-auditable-manufacturing-records-250854/?utm_source=rss&utm_medium=rss&utm_campaign=authentise-whisper-turns-chats-into-auditable-manufacturing-records",
+    "forced_tags": [],
+    "title_en": "Authentise Whisper Turns Chats Into Auditable Manufacturing Records",
+    "summary_bullets_en": [
+      "Additive manufacturing often lacks documentation for the engineering rationale and real-time decisions made during production.",
+      "Authentise Whisper bridges this gap by capturing informal communication and turning it into structured, auditable records.",
+      "The tool ensures that critical design revisions and mid-build adjustments are preserved for future reference and compliance."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba často postrádá dokumentaci inženýrského zdůvodnění a rozhodnutí učiněných v reálném čase během produkce.",
+      "Nástroj Authentise Whisper vyplňuje tuto mezeru tím, že zachycuje neformální komunikaci a mění ji na strukturované, auditovatelné záznamy.",
+      "Technologie zajišťuje, že kritické revize návrhů a úpravy během tisku jsou uchovány pro budoucí potřeby a shodu s předpisy."
+    ],
+    "tags": [
+      "Software",
+      "Additive Manufacturing",
+      "Authentise",
+      "Digital Thread",
+      "Quality Assurance",
+      "Manufacturing Execution Systems"
+    ]
+  },
+  {
+    "title": "AMA: Energy Loughborough University: Aditivní výroba a hledání materiálů pro fúzní energetiku",
+    "summary": "With AMA: Energy 2026 approaching, 3D Printing Industry is taking a closer look at the role of additive manufacturing in the energy sector. When most engineers think about the challenges of nuclear fusion, they think about plasma temperatures of 50 million degrees Celsius, magnetic containment, and tritium fuel cycles. Moataz Attallah, newly appointed Dean of&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/4-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-23T05:08:54+00:00",
+    "url": "https://3dprintingindustry.com/news/ama-energy-loughborough-university-additive-manufacturing-and-the-quest-for-fusion-energy-materials-250716/?utm_source=rss&utm_medium=rss&utm_campaign=ama-energy-loughborough-university-additive-manufacturing-and-the-quest-for-fusion-energy-materials",
+    "forced_tags": [],
+    "title_en": "AMA: Energy Loughborough University: Additive Manufacturing and the Quest for Fusion Energy Materials",
+    "summary_bullets_en": [
+      "Loughborough University is preparing for the AMA: Energy 2026 conference, focusing on the intersection of additive manufacturing and energy technologies.",
+      "The article highlights the critical role of 3D printing in overcoming the extreme engineering challenges associated with nuclear fusion.",
+      "Moataz Attallah, the newly appointed Dean, provides expert insights into how advanced manufacturing can support the development of fusion-ready materials."
+    ],
+    "summary_bullets_cs": [
+      "Loughborough University se připravuje na konferenci AMA: Energy 2026, která se zaměřuje na propojení aditivní výroby a energetických technologií.",
+      "Článek zdůrazňuje klíčovou roli 3D tisku při překonávání extrémních inženýrských výzev spojených s jadernou fúzí.",
+      "Nově jmenovaný děkan Moataz Attallah poskytuje odborný pohled na to, jak pokročilá výroba může podpořit vývoj materiálů vhodných pro fúzní reaktory."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Additive Manufacturing",
+      "Nuclear Fusion",
+      "Loughborough University",
+      "AMA: Energy 2026"
+    ]
+  },
+  {
+    "title": "Společnosti Holcim a COBOD dokončily největší evropskou rezidenční stavbu za 12 měsíců",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/holcim-cobod-complete-europes-largest-residential-build-in-12-months/\" target=\"_blank\">Holcim &#038; COBOD Complete Europe&#8217;s Largest Residential Build in 12 Months</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">April 22</span></div><div><img alt=\"Holcim &amp; COBOD Complete Europe&#039;s Largest Residential Build in 12 Months\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/viliasprint2-c-plurial-novilia-7.jpg-2-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/viliasprint2-c-plurial-novilia-7.jpg-2-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2026-04-22T17:20:20+00:00",
+    "url": "https://3dprinting.com/news/holcim-cobod-complete-europes-largest-residential-build-in-12-months/",
+    "forced_tags": [],
+    "title_en": "Holcim & COBOD Complete Europe’s Largest Residential Build in 12 Months",
+    "summary_bullets_en": [
+      "Holcim and COBOD have successfully completed the largest 3D-printed residential project in Europe within just one year.",
+      "The project demonstrates the scalability and efficiency of 3D concrete printing technology in the construction sector.",
+      "This milestone highlights the growing collaboration between material science experts and 3D printer manufacturers to address housing demands.",
+      "The development serves as a proof-of-concept for sustainable and rapid large-scale residential construction."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti Holcim a COBOD úspěšně dokončily největší 3D tištěný rezidenční projekt v Evropě během pouhého jednoho roku.",
+      "Projekt demonstruje škálovatelnost a efektivitu technologie 3D tisku z betonu ve stavebnictví.",
+      "Tento milník podtrhuje rostoucí spolupráci mezi odborníky na materiálové vědy a výrobci 3D tiskáren při řešení bytové krize.",
+      "Výstavba slouží jako důkaz konceptu pro udržitelnou a rychlou rezidenční výstavbu ve velkém měřítku."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Construction",
+      "Holcim",
+      "COBOD",
+      "3D Concrete Printing"
+    ]
+  },
+  {
+    "title": "3D tiskárna DualCore kombinuje architekturu IDEX se simultánním tiskem pomocí dvou tiskových hlav",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954256685/0/fabbaloo/default~DualCore-D-Printer-Combines-IDEX-Architecture-With-Simultaneous-DualToolhead-Printing\" rel=\"nofollow\" title=\"DualCore 3D Printer Combines IDEX Architecture With Simultaneous Dual-Toolhead Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/dualcore-cover-300x170.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new Kickstarter launch has a 3D printer with several never-seen-before innovations.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954256685/0/fabbaloo/default~DualCore-D-Printer-Combines-IDEX-Architecture-With-Simultaneous-DualToolhead-Printing\" rel=\"nofollow\">DualCore 3D Printer Combines IDEX Architecture With Simultaneous Dual-Toolhead Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/dualcore-cover-300x170.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-22T16:22:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954256685/0/fabbaloo/default~DualCore-D-Printer-Combines-IDEX-Architecture-With-Simultaneous-DualToolhead-Printing",
+    "forced_tags": [],
+    "title_en": "DualCore 3D Printer Combines IDEX Architecture With Simultaneous Dual-Toolhead Printing",
+    "summary_bullets_en": [
+      "A new 3D printer project has launched on Kickstarter featuring unique technical innovations.",
+      "The machine utilizes an IDEX (Independent Dual Extruder) architecture for versatile printing.",
+      "It supports simultaneous dual-toolhead printing, significantly enhancing production efficiency.",
+      "The device introduces several features that have not been seen in the 3D printing market before."
+    ],
+    "summary_bullets_cs": [
+      "Na platformě Kickstarter byl spuštěn projekt nové 3D tiskárny, která přináší unikátní technické inovace.",
+      "Stroj využívá architekturu IDEX (nezávislý duální extruder) pro všestranné možnosti tisku.",
+      "Podporuje simultánní tisk pomocí dvou tiskových hlav, což výrazně zvyšuje efektivitu výroby.",
+      "Zařízení představuje několik funkcí, které dosud nebyly na trhu 3D tisku k vidění."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "IDEX",
+      "Kickstarter",
+      "Dual-Toolhead",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Nová AI platforma od společnosti Euler analyzuje data ze senzorů pro zlepšení kvality kovového tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954252473/0/fabbaloo/default~New-AI-Platform-From-Euler-Analyzes-Sensor-Data-to-Improve-Metal-Print-Quality\" rel=\"nofollow\" title=\"New AI Platform From Euler Analyzes Sensor Data to Improve Metal Print Quality\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/euler-cover-300x171.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new startup company from Iceland offers an advanced AI tool for metal 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954252473/0/fabbaloo/default~New-AI-Platform-From-Euler-Analyzes-Sensor-Data-to-Improve-Metal-Print-Quality\" rel=\"nofollow\">New AI Platform From Euler Analyzes Sensor Data to Improve Metal Print Quality</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/euler-cover-300x171.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-22T15:19:03+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954252473/0/fabbaloo/default~New-AI-Platform-From-Euler-Analyzes-Sensor-Data-to-Improve-Metal-Print-Quality",
+    "forced_tags": [],
+    "title_en": "New AI Platform From Euler Analyzes Sensor Data to Improve Metal Print Quality",
+    "summary_bullets_en": [
+      "Icelandic startup Euler has launched an AI-powered platform designed to enhance metal 3D printing processes.",
+      "The software utilizes advanced sensor data analysis to monitor and optimize print quality in real-time.",
+      "This technology aims to reduce defects and improve the reliability of industrial metal additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Islandský startup Euler představil pokročilý nástroj s umělou inteligencí určený pro 3D tisk z kovů.",
+      "Software využívá analýzu dat ze senzorů k monitorování a optimalizaci kvality tisku v reálném čase.",
+      "Technologie má za cíl snížit zmetkovost a zvýšit spolehlivost průmyslové aditivní výroby kovových dílů."
+    ],
+    "tags": [
+      "Software",
+      "Metal 3D Printing",
+      "Artificial Intelligence",
+      "Euler",
+      "Additive Manufacturing",
+      "Industrial Automation"
+    ]
+  },
+  {
+    "title": "Softwarová vrstva, o které nikdo nemluví",
+    "summary": "RECODE.AM #47",
+    "image": "https://substackcdn.com/image/fetch/$s_!Zody!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca165379-f119-4c1d-a8b0-38f6384b2672_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-04-22T14:02:09+00:00",
+    "url": "https://www.3dprintingjournal.com/p/the-software-layer-no-one-talks-about",
+    "forced_tags": [],
+    "title_en": "The software layer no one talks about",
+    "summary_bullets_en": [
+      "Explores the critical, often overlooked role of middleware and workflow software in industrial 3D printing.",
+      "Analyzes how software integration bridges the gap between design files and physical hardware performance.",
+      "Highlights the shift from hardware-centric innovation to software-driven process optimization in additive manufacturing.",
+      "Discusses the challenges of interoperability and data management in complex production environments."
+    ],
+    "summary_bullets_cs": [
+      "Zkoumá kritickou, často přehlíženou roli middlewaru a workflow softwaru v průmyslovém 3D tisku.",
+      "Analyzuje, jak softwarová integrace překlenuje propast mezi návrhovými soubory a výkonem fyzického hardwaru.",
+      "Zdůrazňuje posun od inovací zaměřených na hardware k optimalizaci procesů řízených softwarem v aditivní výrobě.",
+      "Diskutuje o výzvách interoperability a správy dat v komplexních výrobních prostředích."
+    ],
+    "tags": [
+      "Software",
+      "Hardware",
+      "Additive Manufacturing",
+      "Workflow Automation",
+      "Data Management",
+      "Industry 4.0"
+    ]
+  },
+  {
+    "title": "EP-M3050 disponuje obrovským tiskovým objemem a až 256 lasery",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954252020/0/fabbaloo/default~The-EPM-has-a-Massive-Build-Volume-and-up-to-Lasers\" rel=\"nofollow\" title=\"The EP-M3050 has a Massive Build Volume and up to 256 Lasers\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/eplus3d-epm3050-cover-300x167.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>I’m looking at a very unusual new metal 3D printer, the EP-M3050 from Eplus3D. Eplus3D specializes in manufacturing rather large-format metal 3D printers, as they have multiple devices of this type currently in their product catalog. This type of machine is quite difficult to produce. There aren’t a lot of large-scale metal 3D printers using&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/954252020/0/fabbaloo/default~The-EPM-has-a-Massive-Build-Volume-and-up-to-Lasers\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">The EP-M3050 has a Massive Build Volume and up to 256 Lasers</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954252020/0/fabbaloo/default~The-EPM-has-a-Massive-Build-Volume-and-up-to-Lasers\" rel=\"nofollow\">The EP-M3050 has a Massive Build Volume and up to 256 Lasers</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/eplus3d-epm3050-cover-300x167.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-22T13:13:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954252020/0/fabbaloo/default~The-EPM-has-a-Massive-Build-Volume-and-up-to-Lasers",
+    "forced_tags": [],
+    "title_en": "The EP-M3050 has a Massive Build Volume and up to 256 Lasers",
+    "summary_bullets_en": [
+      "Eplus3D has unveiled the EP-M3050, a new large-format metal 3D printer.",
+      "The machine stands out for its massive build volume designed for industrial-scale production.",
+      "It features an impressive configuration of up to 256 lasers to significantly increase printing speed and efficiency.",
+      "Eplus3D continues to strengthen its position as a leader in the large-scale metal additive manufacturing market."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Eplus3D představila novou velkoformátovou 3D tiskárnu na kov EP-M3050.",
+      "Stroj vyniká masivním tiskovým objemem, který je navržen pro průmyslovou výrobu.",
+      "Tiskárna je vybavena působivou konfigurací až 256 laserů, což výrazně zvyšuje rychlost a efektivitu tisku.",
+      "Eplus3D tímto krokem dále upevňuje svou pozici lídra na trhu velkoformátové aditivní výroby kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "Eplus3D",
+      "Industrial 3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Zdravotnictví, elektronika a polovodiče: Detailní 3D tisky na veletrhu RAPID 2026 se společnostmi Boston Micro Fabrication a Lithoz",
+    "summary": "They say that good things come in small packages, and that&#8217;s certainly the case when it comes to Boston Micro Fabrication (BMF). A leader in micro-precision additive manufacturing, the company...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/IMG_3167-768x1024.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-22T13:00:38+00:00",
+    "url": "https://3dprint.com/325528/detailed-3d-prints-at-rapidtct-2026-with-boston-micro-fabrication-lithoz/",
+    "forced_tags": [],
+    "title_en": "Medical, Electronics, & Semiconductors: Detailed 3D Prints at RAPID 2026 with Boston Micro Fabrication & Lithoz",
+    "summary_bullets_en": [
+      "Boston Micro Fabrication (BMF) showcases its leadership in micro-precision additive manufacturing.",
+      "The collaboration highlights advanced 3D printing applications for the medical, electronics, and semiconductor industries.",
+      "Lithoz joins the exhibition to demonstrate high-precision ceramic 3D printing capabilities.",
+      "The focus remains on delivering high-detail, small-scale components for specialized technical sectors."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Boston Micro Fabrication (BMF) představuje své prvenství v mikro-precizní aditivní výrobě.",
+      "Spolupráce zdůrazňuje pokročilé aplikace 3D tisku pro odvětví zdravotnictví, elektroniky a polovodičů.",
+      "Společnost Lithoz se připojuje k výstavě, aby předvedla své schopnosti v oblasti vysoce přesného 3D tisku z keramiky.",
+      "Hlavním cílem zůstává dodávání vysoce detailních komponentů malých rozměrů pro specializované technické obory."
+    ],
+    "tags": [
+      "Hardware",
+      "Boston Micro Fabrication",
+      "Lithoz",
+      "Micro-precision 3D printing",
+      "Medical",
+      "Electronics",
+      "Semiconductors"
+    ]
+  },
+  {
+    "title": "Nejlepší biologicky rozložitelné filamenty pro 3D tisk v roce 2026: PLA, PHA, recyklované materiály a další",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/filament/bio-filaments/\" target=\"_blank\">Best Biodegradable 3D Printing Filaments 2026: PLA, PHA, Recycled and More</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">April 22</span></div><div><img alt=\"\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/ColorFabb-AllPHA-Naturel-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/ColorFabb-AllPHA-Naturel-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2026-04-22T12:08:54+00:00",
+    "url": "https://3dprinting.com/filament/bio-filaments/",
+    "forced_tags": [],
+    "title_en": "Best Biodegradable 3D Printing Filaments 2026: PLA, PHA, Recycled and More",
+    "summary_bullets_en": [
+      "Explores the top eco-friendly filament options for 3D printing in 2026, focusing on sustainability.",
+      "Highlights the properties and best use cases for materials like PLA, PHA, and various recycled composites.",
+      "Provides guidance on selecting biodegradable filaments to reduce environmental impact without compromising print quality."
+    ],
+    "summary_bullets_cs": [
+      "Představuje nejlepší ekologické možnosti filamentů pro 3D tisk v roce 2026 se zaměřením na udržitelnost.",
+      "Analyzuje vlastnosti a ideální využití materiálů, jako jsou PLA, PHA a různé recyklované kompozity.",
+      "Nabízí návod, jak vybrat biologicky rozložitelné materiály pro snížení ekologické stopy bez kompromisů v kvalitě tisku."
+    ],
+    "tags": [
+      "Material",
+      "Sustainability",
+      "PLA",
+      "PHA",
+      "Eco-friendly",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "3D tištěný doplněk pro drony od Bambu Lab pomáhá měřit velryby z oblohy",
+    "summary": "Bambu Lab has helped Tandem Ventures develop the WHASER, a 3D printed attachment for a drone that can measure whales. This seems like a nifty tool for researchers. It is...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/WHASER_Whale_Wise-4.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-22T12:00:37+00:00",
+    "url": "https://3dprint.com/325480/bambu-labs-3d-printed-drone-add-on-helps-measure-whales-from-the-sky/",
+    "forced_tags": [],
+    "title_en": "Bambu Lab’s 3D Printed Drone Add-On Helps Measure Whales from the Sky",
+    "summary_bullets_en": [
+      "Bambu Lab collaborated with Tandem Ventures to create the WHASER, a specialized 3D printed drone attachment.",
+      "The device is designed to accurately measure whales from an aerial perspective.",
+      "This innovation provides researchers with a cost-effective and efficient tool for marine biology studies.",
+      "The project highlights the practical application of 3D printing in scientific field research."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab pomohla firmě Tandem Ventures vyvinout WHASER, 3D tištěný nástavec na dron určený k měření velryb.",
+      "Jedná se o praktický a inovativní nástroj, který vědcům usnadňuje výzkum mořských živočichů z výšky."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Bambu Lab",
+      "Tandem Ventures",
+      "Drones",
+      "Marine Research"
+    ]
+  },
+  {
+    "title": "AMA: Energy 2026: Jak Addept3D vnímá propast mezi hodnotou aditivní výroby a jejím průmyslovým využitím v energetice",
+    "summary": "What does additive manufacturing mean for the future of energy? 3D Printing Industry investigates ahead of AMA: Energy 2026 on April 30th. Additive manufacturing has made real inroads in the energy sector, but its most complex, high-value components are still waiting their turn. Tarun Chand, Technical Sales Specialist at Singapore-based 3D printing and precision manufacturing&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/4-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-22T11:52:15+00:00",
+    "url": "https://3dprintingindustry.com/news/ama-energy-2026-how-addept3d-sees-the-gap-between-am-value-and-industrial-adoption-in-energy-250634/?utm_source=rss&utm_medium=rss&utm_campaign=ama-energy-2026-how-addept3d-sees-the-gap-between-am-value-and-industrial-adoption-in-energy",
+    "forced_tags": [],
+    "title_en": "AMA: Energy 2026: How Addept3D Sees the Gap Between AM Value and Industrial Adoption in Energy",
+    "summary_bullets_en": [
+      "Additive manufacturing is increasingly integrated into the energy sector, yet high-value, complex components remain underutilized.",
+      "The upcoming AMA: Energy 2026 event on April 30th will explore the challenges of scaling 3D printing for industrial energy applications.",
+      "Tarun Chand from Addept3D provides expert insights into bridging the gap between current AM capabilities and full-scale industrial adoption."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba proniká do energetického sektoru, ale její nejkomplexnější a nejhodnotnější komponenty na své plné využití stále čekají.",
+      "Nadcházející akce AMA: Energy 2026, která se koná 30. dubna, se zaměří na budoucnost 3D tisku v energetice.",
+      "Tarun Chand, specialista na technický prodej ze společnosti Addept3D, analyzuje, jak překlenout propast mezi potenciálem 3D tisku a jeho reálným průmyslovým nasazením."
+    ],
+    "tags": [
+      "Services",
+      "Additive Manufacturing",
+      "Energy Sector",
+      "Addept3D",
+      "Industrial Adoption"
+    ]
+  },
+  {
+    "title": "Bambu Lab po čtyřech letech na trhu ukončuje výrobu řady X1",
+    "summary": "As of March 31, 2026, the Bambu Lab X1, X1 Carbon, and X1E have officially ceased production. The company confirmed that while manufacturing and active sales have ended, support will continue through March 2031, covering spare parts, technical assistance, and firmware security patches. Authorized distributors may still carry remaining units under full warranty, but no&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/X1-hero-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-22T11:51:50+00:00",
+    "url": "https://3dprintingindustry.com/news/bambu-lab-discontinues-the-x1-series-after-four-years-on-the-market-250791/?utm_source=rss&utm_medium=rss&utm_campaign=bambu-lab-discontinues-the-x1-series-after-four-years-on-the-market",
+    "forced_tags": [],
+    "title_en": "Bambu Lab Discontinues the X1 Series After Four Years on the Market",
+    "summary_bullets_en": [
+      "Bambu Lab has officially ended production of the X1, X1 Carbon, and X1E models as of March 31, 2026.",
+      "The company will continue to provide technical support, spare parts, and firmware updates until March 2031.",
+      "Remaining stock held by authorized distributors will still be sold with full warranty coverage."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab k 31. březnu 2026 oficiálně ukončila výrobu modelů X1, X1 Carbon a X1E.",
+      "Firma potvrdila, že technická podpora, náhradní díly a bezpečnostní aktualizace firmwaru budou zajištěny až do března 2031.",
+      "Autorizovaní prodejci mohou nadále doprodávat zbývající kusy, na které se vztahuje plná záruka."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Bambu Lab",
+      "3D Printing",
+      "X1 Series"
+    ]
+  },
+  {
+    "title": "AMT a GreatAmerica mění vyhlazování parou na měsíční předplatné",
+    "summary": "UK-based automated post-processing specialist AMT and US-based equipment financing company GreatAmerica have teamed up to offer North American manufacturers a fully bundled monthly plan for the PostPro SFX, the company&#8217;s desktop vapor smoothing system. Unveiled at RAPID+TCT 2026 in Boston, the arrangement folds every ownership cost, hardware, shipping, consumables, warranty, and import duties, into a&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/AMT-sfx038-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-22T11:51:19+00:00",
+    "url": "https://3dprintingindustry.com/news/amt-and-greatamerica-turn-vapor-smoothing-into-a-monthly-subscription-250796/?utm_source=rss&utm_medium=rss&utm_campaign=amt-and-greatamerica-turn-vapor-smoothing-into-a-monthly-subscription",
+    "forced_tags": [],
+    "title_en": "AMT and GreatAmerica Turn Vapor Smoothing Into a Monthly Subscription",
+    "summary_bullets_en": [
+      "AMT and GreatAmerica have launched a bundled monthly subscription model for the PostPro SFX desktop vapor smoothing system.",
+      "The all-inclusive plan covers hardware, shipping, consumables, warranty, and import duties for North American manufacturers.",
+      "The partnership aims to lower the barrier to entry for advanced post-processing technology.",
+      "The initiative was officially introduced at the RAPID+TCT 2026 event in Boston."
+    ],
+    "summary_bullets_cs": [
+      "Britská společnost AMT a americká finanční firma GreatAmerica nabízejí severoamerickým výrobcům komplexní měsíční předplatné na stolní systém pro vyhlazování parou PostPro SFX.",
+      "Balíček zahrnuje veškeré náklady na vlastnictví, hardware, dopravu, spotřební materiál, záruku i dovozní cla.",
+      "Tato novinka byla představena na veletrhu RAPID+TCT 2026 v Bostonu a má za cíl zpřístupnit pokročilé post-processingové technologie širšímu okruhu firem."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Post-processing",
+      "Vapor Smoothing",
+      "AMT",
+      "GreatAmerica",
+      "RAPID+TCT"
+    ]
+  },
+  {
+    "title": "Společnost Scrap Labs představila na veletrhu RMRRF 2026 kovovou 3D tiskárnu Scrap 1",
+    "summary": "Scrap Labs, a Boulder, Colorado-based developer of metal 3D printing systems, has unveiled its Scrap 1 Laser Powder Bed Fusion (LPBF) 3D printer at the Rocky Mountain RepRap Festival 2026 in Loveland, Colorado. The system is positioned as a lower-cost metal additive manufacturing solution, with initial kit pricing starting at $9,600 for a limited time.&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/image-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-22T11:50:53+00:00",
+    "url": "https://3dprintingindustry.com/news/scrap-labs-debuts-scrap-1-metal-3d-printer-at-rmrrf-2026-250824/?utm_source=rss&utm_medium=rss&utm_campaign=scrap-labs-debuts-scrap-1-metal-3d-printer-at-rmrrf-2026",
+    "forced_tags": [],
+    "title_en": "Scrap Labs debuts Scrap 1 metal 3D printer at RMRRF 2026",
+    "summary_bullets_en": [
+      "Scrap Labs introduced the Scrap 1, a new Laser Powder Bed Fusion (LPBF) metal 3D printer.",
+      "The unveiling took place at the Rocky Mountain RepRap Festival 2026 in Loveland, Colorado.",
+      "The system aims to make metal additive manufacturing more accessible with a starting kit price of $9,600."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Scrap Labs se sídlem v Boulderu v Coloradu představila na festivalu Rocky Mountain RepRap 2026 svou novou 3D tiskárnu Scrap 1 využívající technologii Laser Powder Bed Fusion (LPBF).",
+      "Systém je navržen jako cenově dostupnější řešení pro aditivní výrobu kovů.",
+      "Počáteční cena tiskárny ve formě stavebnice začíná na 9 600 dolarech po omezenou dobu."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "LPBF",
+      "Scrap Labs",
+      "RMRRF 2026",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "SLICED: Nejnovější zprávy z odvětví 3D tisku",
+    "summary": "In this edition of SLICED, the 3D Printing Industry news digest, we track how additive manufacturing is moving through governance changes, reseller expansion, software-backed education, service launches, and new applications in sport, design, and art. Read on for updates from AMGTA, Materialise, Carimatec, Axtra3D, Dyndrite, Sculpteo, adidas, and more. Governance and portfolio shifts at AMGTA&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/Sliced-cover-April-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-22T11:50:26+00:00",
+    "url": "https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-19-250809/?utm_source=rss&utm_medium=rss&utm_campaign=sliced-latest-news-from-the-3d-printing-industry-19",
+    "forced_tags": [],
+    "title_en": "SLICED: Latest news from the 3D Printing Industry",
+    "summary_bullets_en": [
+      "The industry is seeing significant shifts in governance and corporate portfolios, led by updates from AMGTA.",
+      "New developments include reseller expansions, software-driven educational initiatives, and the launch of specialized services.",
+      "Additive manufacturing is finding innovative applications across diverse sectors, including professional sports, design, and fine art.",
+      "Key industry players like Materialise, Axtra3D, Dyndrite, and adidas are driving these latest technological and market advancements."
+    ],
+    "summary_bullets_cs": [
+      "Odvětví prochází významnými změnami ve správě a portfoliích společností, v čele s novinkami od AMGTA.",
+      "Mezi nové trendy patří rozšiřování prodejních sítí, vzdělávací iniciativy podpořené softwarem a spouštění nových služeb.",
+      "Aditivní výroba nachází inovativní uplatnění v různých sektorech, včetně profesionálního sportu, designu a umění.",
+      "Klíčoví hráči na trhu, jako jsou Materialise, Axtra3D, Dyndrite a adidas, pohánějí tyto nejnovější technologické a tržní pokroky."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "AMGTA",
+      "Materialise",
+      "Carimatec",
+      "Axtra3D",
+      "Dyndrite",
+      "Sculpteo",
+      "adidas"
+    ]
+  },
+  {
+    "title": "Kolaps IPO společnosti Eplus3D: Růstová trajektorie naráží na strukturální překážky",
+    "summary": "The 2026 edition of our AMA: Energy online conference returns on April 30th. Register now! Hangzhou-based metal 3D printing manufacturer Eplus3D has withdrawn its application for an initial public offering on the Shanghai Stock Exchange’s Science and Technology Innovation Board.&#160; The SSE formally terminated its review after the company and its sponsor, CITIC Securities, jointly submitted the&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2024/05/Metal-part-3D-printed-with-the-EP-M2050.-Photo-via-Eplus3D-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-22T11:50:00+00:00",
+    "url": "https://3dprintingindustry.com/news/eplus3d-ipo-collapse-growth-trajectory-meets-structural-headwinds-250830/?utm_source=rss&utm_medium=rss&utm_campaign=eplus3d-ipo-collapse-growth-trajectory-meets-structural-headwinds",
+    "forced_tags": [],
+    "title_en": "Eplus3D IPO Collapse: Growth Trajectory Meets Structural Headwinds",
+    "summary_bullets_en": [
+      "Hangzhou-based metal 3D printing manufacturer Eplus3D has officially withdrawn its application for an IPO on the Shanghai Stock Exchange.",
+      "The SSE terminated the review process following a joint request from the company and its sponsor, CITIC Securities.",
+      "The move highlights the growing structural challenges and market headwinds facing high-growth additive manufacturing firms in the current financial climate."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce kovových 3D tiskáren se sídlem v Chang-čou, společnost Eplus3D, oficiálně stáhl svou žádost o primární veřejnou nabídku akcií (IPO) na šanghajské burze.",
+      "Šanghajská burza (SSE) formálně ukončila přezkum poté, co společnost a její sponzor, CITIC Securities, společně podali žádost o stažení.",
+      "Tento krok poukazuje na rostoucí strukturální výzvy a tržní překážky, kterým čelí rychle rostoucí firmy v oblasti aditivní výroby v současném finančním klimatu."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "Eplus3D",
+      "IPO",
+      "Financial Markets",
+      "Shanghai Stock Exchange"
+    ]
+  },
+  {
+    "title": "Lincoln Electric na konferenci AM Strategies: Od slov k průmyslové realitě",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954238529/0/fabbaloo/default~Lincoln-Electric-at-AM-Strategies-Conference-Turning-Talk-into-Industrial-Reality\" rel=\"nofollow\" title=\"Lincoln Electric at AM Strategies Conference: Turning Talk into Industrial Reality\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/lincoln1-300x192.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi reveal how a 130-year-old welding giant is quietly leading the future of large-scale metal 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954238529/0/fabbaloo/default~Lincoln-Electric-at-AM-Strategies-Conference-Turning-Talk-into-Industrial-Reality\" rel=\"nofollow\">Lincoln Electric at AM Strategies Conference: Turning Talk into Industrial Reality</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/lincoln1-300x192.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-22T11:50:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954238529/0/fabbaloo/default~Lincoln-Electric-at-AM-Strategies-Conference-Turning-Talk-into-Industrial-Reality",
+    "forced_tags": [],
+    "title_en": "Lincoln Electric at AM Strategies Conference: Turning Talk into Industrial Reality",
+    "summary_bullets_en": [
+      "Lincoln Electric is leveraging its 130-year legacy in welding to become a major player in large-scale metal 3D printing.",
+      "The company is successfully transitioning from traditional industrial methods to advanced additive manufacturing solutions.",
+      "Experts Charles R. Goulding and Preeti Sulibhavi highlight how the firm is moving beyond industry hype to deliver practical, real-world industrial applications."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Lincoln Electric využívá své 130leté zkušenosti v oboru svařování k tomu, aby se stala lídrem v oblasti velkoformátového 3D tisku kovů.",
+      "Firma úspěšně přechází od tradičních průmyslových metod k pokročilým řešením aditivní výroby.",
+      "Odborníci Charles R. Goulding a Preeti Sulibhavi zdůrazňují, jak se společnost posouvá od pouhých vizí k reálným průmyslovým aplikacím."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Lincoln Electric",
+      "Metal 3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Design duté spirálové mřížky spojuje tepelný a mechanický výkon",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954227051/0/fabbaloo/default~Hollow-Spiral-Lattice-Design-Marries-Thermal-And-Mechanical-Performance\" rel=\"nofollow\" title=\"Hollow Spiral Lattice Design Marries Thermal And Mechanical Performance\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/hollow-spiral-cover-300x105.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers propose a hollow spiral lattice architecture that improves both heat transfer and load bearing, a combination AM operators need.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954227051/0/fabbaloo/default~Hollow-Spiral-Lattice-Design-Marries-Thermal-And-Mechanical-Performance\" rel=\"nofollow\">Hollow Spiral Lattice Design Marries Thermal And Mechanical Performance</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/hollow-spiral-cover-300x105.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-22T08:46:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954227051/0/fabbaloo/default~Hollow-Spiral-Lattice-Design-Marries-Thermal-And-Mechanical-Performance",
+    "forced_tags": [],
+    "title_en": "Hollow Spiral Lattice Design Marries Thermal And Mechanical Performance",
+    "summary_bullets_en": [
+      "Researchers have developed a novel hollow spiral lattice architecture for 3D printed components.",
+      "The design significantly enhances both heat transfer efficiency and structural load-bearing capacity.",
+      "This dual-performance improvement addresses a critical need for advanced thermal management in additive manufacturing.",
+      "The innovation offers new possibilities for optimizing complex parts where weight and thermal regulation are key."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli novou architekturu duté spirálové mřížky pro 3D tištěné komponenty.",
+      "Tento design výrazně zlepšuje jak efektivitu přenosu tepla, tak nosnost konstrukce.",
+      "Kombinace těchto vlastností řeší klíčovou potřebu pokročilého řízení teploty v aditivní výrobě.",
+      "Inovace otevírá nové možnosti pro optimalizaci komplexních dílů, kde je rozhodující hmotnost a tepelná regulace."
+    ],
+    "tags": [
+      "Hardware",
+      "Research",
+      "Additive Manufacturing",
+      "Lattice Structures",
+      "Thermal Management",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "title": "Holcim, COBOD a PERI vytiskli projekt 12 sociálních bytů ve Francii",
+    "summary": "Holcim has announced that a 12-unit residential structure, ViliaSprint² in Bezannes, France, was finished in a year. Nice to see that people seem to be properly building structures rather than...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/viliasprint2-c-plurial-novilia-7.jpg.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-22T07:30:40+00:00",
+    "url": "https://3dprint.com/325485/holcim-cobod-and-peri-print-12-unit-social-housing-project-in-france/",
+    "forced_tags": [],
+    "title_en": "Holcim, COBOD and PERI Print 12 Unit Social Housing Project in France",
+    "summary_bullets_en": [
+      "Holcim, in collaboration with COBOD and PERI, completed a 12-unit social housing project named ViliaSprint² in Bezannes, France.",
+      "The entire construction process for the residential complex was finalized within a one-year timeframe.",
+      "The project demonstrates the practical scalability and efficiency of 3D concrete printing in real-world residential development."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Holcim ve spolupráci s firmami COBOD a PERI dokončila projekt 12 sociálních bytů s názvem ViliaSprint² v francouzském Bezannes.",
+      "Celý proces výstavby tohoto rezidenčního komplexu byl dokončen během jednoho roku.",
+      "Projekt ukazuje praktickou škálovatelnost a efektivitu 3D tisku z betonu při reálné bytové výstavbě."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Holcim",
+      "COBOD",
+      "PERI",
+      "Construction 3D Printing"
+    ]
+  },
+  {
+    "title": "3D tisk by mohl ukázat, jak buňky reagují na tvar – a jak se hojí, zjistil nový britský výzkum",
+    "summary": "Researchers at the University of Nottingham are using 3D printing to learn how human cells sense and react to their surroundings. The project focuses on cells involved in healing, like...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/1761574316429.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-22T07:00:23+00:00",
+    "url": "https://3dprint.com/325536/3d-printing-could-show-how-cells-respond-to-shape-and-heal-new-uk-research-finds/",
+    "forced_tags": [],
+    "title_en": "3D Printing Could Show How Cells Respond to Shape — and Heal, New UK Research Finds",
+    "summary_bullets_en": [
+      "Researchers at the University of Nottingham are utilizing 3D printing to investigate how human cells perceive and interact with their physical environment.",
+      "The study focuses on understanding the behavior of healing-related cells when exposed to specific 3D-printed micro-architectures.",
+      "This research aims to unlock new insights into regenerative medicine and how cell shape influences the body's natural healing processes."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University of Nottingham využívají 3D tisk ke zkoumání toho, jak lidské buňky vnímají své okolí a jak na něj reagují.",
+      "Projekt se zaměřuje na buňky zapojené do procesu hojení a na to, jak reagují na specifické 3D tištěné mikrostruktury.",
+      "Cílem výzkumu je získat nové poznatky v oblasti regenerativní medicíny a pochopit, jak tvar buňky ovlivňuje přirozené procesy hojení v těle."
+    ],
+    "tags": [
+      "Hardware",
+      "Research",
+      "Bioprinting",
+      "Regenerative Medicine",
+      "University of Nottingham",
+      "Life Sciences"
+    ]
+  },
+  {
+    "title": "Proč je 3D tisk stále nedoceněný? Protože špatně počítáme jeho návratnost",
+    "summary": "Aditivní výroba občas vychází pro průmysl příliš drahá ve srovnání s tou konvenční. Chyba je přitom v našich výpočtech, ne v samotné technologii.",
+    "image": "https://blog.aditivni.cz/_astro/ADITIVNIcz_rozhovor_02.DAWPwoVg.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-04-21T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/proc-je-3d-tisk-nedoceneny-spatne-pocitame-navratnost/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Why is 3D printing still undervalued? Because we calculate its ROI incorrectly",
+    "summary_bullets_en": [
+      "Additive manufacturing is often perceived as too expensive compared to traditional methods.",
+      "The core issue lies in flawed financial evaluation models rather than the technology itself.",
+      "Companies fail to account for hidden costs and the long-term strategic benefits of 3D printing.",
+      "A shift in how we calculate return on investment is essential for wider industrial adoption."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba je v průmyslu často chybně vnímána jako příliš drahá oproti konvenčním metodám.",
+      "Hlavní problém nespočívá v technologii samotné, ale v zastaralých a nepřesných metodách výpočtu návratnosti.",
+      "Firmy při rozhodování opomíjejí skryté náklady a strategické výhody, které 3D tisk přináší.",
+      "Pro širší adopci technologie je nutná změna přístupu k ekonomickému hodnocení výrobních procesů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Manufacturing",
+      "ROI",
+      "Industrial Production",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Přeceňuje průmysl hodnotu aditivní výroby? Zjištění AMGTA vysvětlují toto zkreslení",
     "summary": "The 2026 edition of our AMA: Energy online conference returns on April 30th. Register now! The Additive Manufacturing Green Trade Association (AMGTA) has published its 2026 Vision Paper laying out an evaluative framework for assessing AM’s resource efficiency across entire production systems. The paper’s central argument is that organizations consistently get the math wrong when they try&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/amgta-150x100.png",
@@ -467,6 +1105,36 @@
       "Robotic Surgery",
       "Healthcare",
       "3D Modeling"
+    ]
+  },
+  {
+    "title": "3D tisk výborně doplňuje tradiční výrobní technologie",
+    "summary": "3D tisk v průmyslu není od toho, aby nahradil stávající výrobní technologie tam, kde skvěle a výhodně fungují. Dokáže je ale skvěle doplňovat, navíc přináší úplně nové možnosti.",
+    "image": "https://blog.aditivni.cz/_astro/3D-tiskove-centrum-prochazka.BcwVI4lh.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-04-20T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/proc-3d-tisk-doplnuje-stavajici-vyrobni-technologie/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "3D Printing Perfectly Complements Traditional Manufacturing Technologies",
+    "summary_bullets_en": [
+      "3D printing is not intended to replace efficient traditional manufacturing methods.",
+      "It serves as a powerful complementary tool for existing industrial processes.",
+      "The technology unlocks entirely new design and production possibilities."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk nemá za cíl nahradit stávající efektivní výrobní postupy.",
+      "Slouží jako ideální doplněk pro stávající průmyslové technologie.",
+      "Přináší inovativní možnosti, které tradiční metody neumožňují."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Manufacturing",
+      "Industry 4.0",
+      "Additive Manufacturing",
+      "ADITIVNI.cz"
     ]
   },
   {
