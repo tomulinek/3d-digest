@@ -1,5 +1,472 @@
 [
   {
+    "title": "DTU využívá keramický 3D tisk od Lithoz k výrobě gyroidních palivových článků",
+    "summary": "Researchers at the Technical University of Denmark (DTU) have developed monolithic solid oxide fuel cells with 3D printed gyroid architectures made from 8YSZ, reporting power-to-weight ratios of about 1 W g⁻¹. According to the team, conventional planar SOFC architectures typically deliver around 0.2 W g⁻¹, making the new design roughly five times higher on that&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/LITHOZ_DTU_SOFC-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-24T06:01:28+00:00",
+    "url": "https://3dprintingindustry.com/news/dtu-uses-lithoz-ceramic-3d-printing-to-build-gyroid-fuel-cells-250877/?utm_source=rss&utm_medium=rss&utm_campaign=dtu-uses-lithoz-ceramic-3d-printing-to-build-gyroid-fuel-cells",
+    "forced_tags": [],
+    "title_en": "DTU uses Lithoz ceramic 3D printing to build gyroid fuel cells",
+    "summary_bullets_en": [
+      "Researchers at DTU utilized Lithoz ceramic 3D printing to create monolithic solid oxide fuel cells (SOFCs) with complex gyroid architectures.",
+      "The cells are manufactured using 8YSZ (yttria-stabilized zirconia) material.",
+      "The new design achieves a power-to-weight ratio of 1 W g⁻¹, which is five times higher than conventional planar SOFCs."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Technické univerzity v Dánsku (DTU) vyvinuli monolitické palivové články s pevným oxidem (SOFC) s 3D tištěnou gyroidní architekturou z materiálu 8YSZ.",
+      "Nový design dosahuje poměru výkonu k hmotnosti přibližně 1 W g⁻¹.",
+      "Oproti běžným planárním SOFC architekturám, které dosahují zhruba 0,2 W g⁻¹, je tento nový design pětkrát efektivnější."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Lithoz",
+      "Ceramic 3D Printing",
+      "SOFC",
+      "DTU",
+      "8YSZ"
+    ]
+  },
+  {
+    "title": "Rostoucí vojenská poptávka pohání strategický obrat společností v oblasti 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954352694/0/fabbaloo/default~Growing-Military-Demand-Drives-Strategic-Pivot-Across-D-Printing-Companies\" rel=\"nofollow\" title=\"Growing Military Demand Drives Strategic Pivot Across 3D Printing Companies\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/military-applications-cover-300x167.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>It seems every other story we write these days involves a military application.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954352694/0/fabbaloo/default~Growing-Military-Demand-Drives-Strategic-Pivot-Across-D-Printing-Companies\" rel=\"nofollow\">Growing Military Demand Drives Strategic Pivot Across 3D Printing Companies</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/military-applications-cover-300x167.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-23T16:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954352694/0/fabbaloo/default~Growing-Military-Demand-Drives-Strategic-Pivot-Across-D-Printing-Companies",
+    "forced_tags": [],
+    "title_en": "Growing Military Demand Drives Strategic Pivot Across 3D Printing Companies",
+    "summary_bullets_en": [
+      "The 3D printing industry is increasingly shifting its focus toward military and defense applications.",
+      "Military demand is becoming a primary driver for strategic changes within additive manufacturing companies.",
+      "Defense-related projects are now a dominant theme in current industry reporting and development."
+    ],
+    "summary_bullets_cs": [
+      "Odvětví 3D tisku stále více zaměřuje svou pozornost na vojenské a obranné aplikace.",
+      "Vojenská poptávka se stává hlavním hybatelem strategických změn u firem zabývajících se aditivní výrobou.",
+      "Projekty související s obranou jsou nyní dominantním tématem v aktuálním zpravodajství a vývoji v oboru."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Military",
+      "Defense",
+      "Additive Manufacturing",
+      "Strategic Pivot"
+    ]
+  },
+  {
+    "title": "Iniciativa DIANA se snaží transformovat námořní logistiku pomocí 3D tisku na vyžádání",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954351230/0/fabbaloo/default~DIANA-Initiative-Aims-to-Transform-Naval-Logistics-With-OnDemand-D-Printing\" rel=\"nofollow\" title=\"DIANA Initiative Aims to Transform Naval Logistics With On-Demand 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/italian-navy-cover-1-300x167.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>ROBOZE announced an unusual arrangement with the Italian military. </p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954351230/0/fabbaloo/default~DIANA-Initiative-Aims-to-Transform-Naval-Logistics-With-OnDemand-D-Printing\" rel=\"nofollow\">DIANA Initiative Aims to Transform Naval Logistics With On-Demand 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/italian-navy-cover-1-300x167.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-23T15:38:39+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954351230/0/fabbaloo/default~DIANA-Initiative-Aims-to-Transform-Naval-Logistics-With-OnDemand-D-Printing",
+    "forced_tags": [],
+    "title_en": "DIANA Initiative Aims to Transform Naval Logistics With On-Demand 3D Printing",
+    "summary_bullets_en": [
+      "ROBOZE has entered into a strategic partnership with the Italian military to integrate advanced 3D printing technology.",
+      "The initiative focuses on optimizing naval logistics through on-demand production of critical components.",
+      "This collaboration aims to reduce supply chain dependencies and increase operational readiness at sea.",
+      "The project is part of the broader DIANA initiative, highlighting the role of additive manufacturing in modern defense strategies."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ROBOZE uzavřela strategické partnerství s italskou armádou za účelem integrace pokročilé technologie 3D tisku.",
+      "Iniciativa se zaměřuje na optimalizaci námořní logistiky prostřednictvím výroby kritických komponentů na vyžádání.",
+      "Tato spolupráce má za cíl snížit závislost na dodavatelských řetězcích a zvýšit operační připravenost na moři.",
+      "Projekt je součástí širší iniciativy DIANA, která zdůrazňuje roli aditivní výroby v moderních obranných strategiích."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "ROBOZE",
+      "Italian Navy",
+      "DIANA Initiative",
+      "Defense",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Velká Británie zahajuje vyšetřování bezpečnostních rizik 3D tiskáren čínské výroby",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954350063/0/fabbaloo/default~UK-Launches-Inquiry-Into-Security-Risks-of-ChineseMade-D-Printing-Equipment\" rel=\"nofollow\" title=\"UK Launches Inquiry Into Security Risks of Chinese-Made 3D Printing Equipment\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/uk-defense-investigation-cover-1-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The UK is now investigating the use of Chinese 3D printers by its military.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954350063/0/fabbaloo/default~UK-Launches-Inquiry-Into-Security-Risks-of-ChineseMade-D-Printing-Equipment\" rel=\"nofollow\">UK Launches Inquiry Into Security Risks of Chinese-Made 3D Printing Equipment</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/uk-defense-investigation-cover-1-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-23T15:27:46+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954350063/0/fabbaloo/default~UK-Launches-Inquiry-Into-Security-Risks-of-ChineseMade-D-Printing-Equipment",
+    "forced_tags": [],
+    "title_en": "UK Launches Inquiry Into Security Risks of Chinese-Made 3D Printing Equipment",
+    "summary_bullets_en": [
+      "The UK government has initiated a formal investigation into the use of Chinese-manufactured 3D printers within its military infrastructure.",
+      "Concerns are focused on potential security vulnerabilities and the risk of espionage associated with foreign-made additive manufacturing hardware.",
+      "The inquiry aims to assess whether these devices could compromise sensitive defense data or operational security."
+    ],
+    "summary_bullets_cs": [
+      "Britská vláda zahájila oficiální vyšetřování využívání 3D tiskáren čínské výroby v rámci své vojenské infrastruktury.",
+      "Obavy se soustředí na potenciální bezpečnostní zranitelnosti a riziko špionáže spojené se zahraničním hardwarem pro aditivní výrobu.",
+      "Cílem šetření je posoudit, zda tato zařízení mohou ohrozit citlivá obranná data nebo operační bezpečnost."
+    ],
+    "tags": [
+      "Hardware",
+      "Security",
+      "Defense",
+      "UK Government",
+      "Supply Chain",
+      "Geopolitics"
+    ]
+  },
+  {
+    "title": "Iniciativa DIANA se snaží transformovat námořní logistiku pomocí 3D tisku na vyžádání",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954349076/0/fabbaloo/default~DIANA-Initiative-Aims-to-Transform-Naval-Logistics-With-OnDemand-D-Printing\" rel=\"nofollow\" title=\"DIANA Initiative Aims to Transform Naval Logistics With On-Demand 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/italian-navy-cover-300x167.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>ROBOZE announced an unusual arrangement with the Italian military.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954349076/0/fabbaloo/default~DIANA-Initiative-Aims-to-Transform-Naval-Logistics-With-OnDemand-D-Printing\" rel=\"nofollow\">DIANA Initiative Aims to Transform Naval Logistics With On-Demand 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/italian-navy-cover-300x167.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-23T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954349076/0/fabbaloo/default~DIANA-Initiative-Aims-to-Transform-Naval-Logistics-With-OnDemand-D-Printing",
+    "forced_tags": [],
+    "title_en": "DIANA Initiative Aims to Transform Naval Logistics With On-Demand 3D Printing",
+    "summary_bullets_en": [
+      "ROBOZE has entered into a strategic partnership with the Italian military to modernize naval logistics.",
+      "The initiative focuses on implementing on-demand 3D printing to produce critical components directly in the field.",
+      "This move aims to reduce supply chain dependencies and increase operational readiness for naval forces.",
+      "The collaboration highlights the growing importance of additive manufacturing in defense and military applications."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ROBOZE uzavřela strategické partnerství s italskou armádou za účelem modernizace námořní logistiky.",
+      "Iniciativa se zaměřuje na zavedení 3D tisku na vyžádání pro výrobu kritických komponent přímo v místě potřeby.",
+      "Cílem tohoto kroku je snížit závislost na dodavatelských řetězcích a zvýšit operační připravenost námořních sil.",
+      "Spolupráce podtrhuje rostoucí význam aditivní výroby v obranném a vojenském sektoru."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "ROBOZE",
+      "Italian Navy",
+      "Defense",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Velká Británie zahajuje vyšetřování bezpečnostních rizik 3D tiskáren čínské výroby",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954342110/0/fabbaloo/default~UK-Launches-Inquiry-Into-Security-Risks-of-ChineseMade-D-Printing-Equipment\" rel=\"nofollow\" title=\"UK Launches Inquiry Into Security Risks of Chinese-Made 3D Printing Equipment\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/uk-defense-investigation-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The UK is now investigating the use of Chinese 3D printers by its military.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954342110/0/fabbaloo/default~UK-Launches-Inquiry-Into-Security-Risks-of-ChineseMade-D-Printing-Equipment\" rel=\"nofollow\">UK Launches Inquiry Into Security Risks of Chinese-Made 3D Printing Equipment</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/uk-defense-investigation-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-23T13:50:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954342110/0/fabbaloo/default~UK-Launches-Inquiry-Into-Security-Risks-of-ChineseMade-D-Printing-Equipment",
+    "forced_tags": [],
+    "title_en": "UK Launches Inquiry Into Security Risks of Chinese-Made 3D Printing Equipment",
+    "summary_bullets_en": [
+      "The UK government has initiated a formal investigation into the use of Chinese-manufactured 3D printing equipment within its military.",
+      "The inquiry focuses on potential security vulnerabilities and risks associated with foreign-made additive manufacturing hardware.",
+      "Authorities are assessing whether these devices could pose threats to national security or sensitive defense data."
+    ],
+    "summary_bullets_cs": [
+      "Britská vláda zahájila oficiální vyšetřování využívání 3D tiskáren čínské výroby v rámci své armády.",
+      "Šetření se zaměřuje na potenciální bezpečnostní zranitelnosti a rizika spojená s hardwarem pro aditivní výrobu zahraniční provenience.",
+      "Úřady posuzují, zda tato zařízení mohou představovat hrozbu pro národní bezpečnost nebo citlivá obranná data."
+    ],
+    "tags": [
+      "Hardware",
+      "Security",
+      "Defense",
+      "UK Military",
+      "Geopolitics",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost MX3D dokončila projekt PIONEER a prokázala, že hybridní technologie WAAM je připravena pro rozsáhlé stavební inženýrství",
+    "summary": "MX3D, a Dutch company specializing in robotic Wire Arc Additive Manufacturing (WAAM), has announced the conclusion of the PIONEER project, an EU Horizon-funded initiative in which the company served as a pilot line leader within a broader European consortium. The effort centered on industrializing automated design, fabrication, and certification workflows for structurally optimized, load-bearing hybrid&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-15.08.29-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-23T13:29:03+00:00",
+    "url": "https://3dprintingindustry.com/news/mx3d-completes-pioneer-project-proving-hybrid-waam-ready-for-civil-engineering-at-scale-250753/?utm_source=rss&utm_medium=rss&utm_campaign=mx3d-completes-pioneer-project-proving-hybrid-waam-ready-for-civil-engineering-at-scale",
+    "forced_tags": [],
+    "title_en": "MX3D Completes PIONEER Project, Proving Hybrid WAAM Ready for Civil Engineering at Scale",
+    "summary_bullets_en": [
+      "MX3D successfully concluded the EU-funded PIONEER project, focusing on industrializing WAAM technology for civil engineering.",
+      "The project established automated workflows for the design, fabrication, and certification of load-bearing hybrid structures.",
+      "The initiative demonstrates that large-scale robotic additive manufacturing is now ready for real-world structural applications.",
+      "The project involved a broad European consortium aimed at advancing the adoption of metal 3D printing in the construction sector."
+    ],
+    "summary_bullets_cs": [
+      "Společnost MX3D úspěšně uzavřela projekt PIONEER financovaný EU, který se zaměřil na industrializaci technologie WAAM pro stavebnictví.",
+      "Projekt vytvořil automatizované pracovní postupy pro návrh, výrobu a certifikaci nosných hybridních konstrukcí.",
+      "Iniciativa dokazuje, že robotická aditivní výroba ve velkém měřítku je nyní připravena pro reálné strukturální aplikace.",
+      "Na projektu spolupracovalo široké evropské konsorcium s cílem podpořit zavádění kovového 3D tisku ve stavebním sektoru."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "MX3D",
+      "WAAM",
+      "PIONEER",
+      "Civil Engineering",
+      "Metal 3D Printing"
+    ]
+  },
+  {
+    "title": "Výzkumníci z Fraunhoferova institutu vytiskli 3D biomimetickou náhradu tkáně a podali patent",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/fraunhofer-researchers-3d-print-biomimetic-tissue-substitute-file-patent/\" target=\"_blank\">Fraunhofer Researchers 3D Print Biomimetic Tissue Substitute, File Patent</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">April 23</span></div><div><img alt=\"Fraunhofer Researchers 3D Print Biomimetic Tissue Substitute, File Patent\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/Gewebeersatz-klein-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/Gewebeersatz-klein-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-04-23T13:02:19+00:00",
+    "url": "https://3dprinting.com/news/fraunhofer-researchers-3d-print-biomimetic-tissue-substitute-file-patent/",
+    "forced_tags": [],
+    "title_en": "Fraunhofer Researchers 3D Print Biomimetic Tissue Substitute, File Patent",
+    "summary_bullets_en": [
+      "Researchers at the Fraunhofer Institute have developed a 3D printing process to create biomimetic tissue substitutes that closely replicate human tissue structures.",
+      "The technology utilizes specialized bio-inks and advanced printing techniques to mimic the mechanical and biological properties of natural tissue.",
+      "The team has officially filed a patent for this innovation, marking a significant step toward clinical applications in regenerative medicine.",
+      "This development aims to improve the accuracy of drug testing and potentially reduce the need for animal testing in pharmaceutical research."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Fraunhoferova institutu vyvinuli proces 3D tisku pro tvorbu biomimetických náhrad tkání, které věrně napodobují strukturu lidské tkáně.",
+      "Technologie využívá speciální bio-inkousty a pokročilé tiskové metody k replikaci mechanických a biologických vlastností přirozené tkáně.",
+      "Tým si na tuto inovaci podal patent, což představuje významný krok směrem ke klinickému využití v regenerativní medicíně.",
+      "Cílem tohoto vývoje je zvýšit přesnost testování léků a potenciálně snížit potřebu testování na zvířatech ve farmaceutickém výzkumu."
+    ],
+    "tags": [
+      "Material",
+      "Bioprinting",
+      "Fraunhofer",
+      "Medical",
+      "Regenerative Medicine"
+    ]
+  },
+  {
+    "title": "Návrat povstání Semicap: APES předvádí Matrix6D naživo na veletrhu RAPID + TCT",
+    "summary": "I didn&#8217;t attend RAPID + TCT this year, so I missed getting to see the Matrix6D platform operating live on the show floor. Thankfully, the CEO and founder of Advanced...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/APES-Rapid2026-2.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-23T12:30:34+00:00",
+    "url": "https://3dprint.com/325523/semicap-insurrection-revisited-apes-demonstrates-matrix6d-live-at-rapid-tct/",
+    "forced_tags": [],
+    "title_en": "Semicap Insurrection Revisited: APES Demonstrates Matrix6D Live at RAPID + TCT",
+    "summary_bullets_en": [
+      "The author missed the live demonstration of the Matrix6D platform at this year's RAPID + TCT event.",
+      "The CEO and founder of Advanced Printing & Engineering Solutions (APES) provided insights into the technology.",
+      "The Matrix6D platform represents a significant development in the additive manufacturing landscape.",
+      "The article revisits the 'Semicap Insurrection' concept in the context of new hardware capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Autor se letos nezúčastnil veletrhu RAPID + TCT, a proto neviděl platformu Matrix6D v přímém provozu.",
+      "Generální ředitel a zakladatel společnosti Advanced Printing & Engineering Solutions (APES) poskytl vhled do této technologie.",
+      "Platforma Matrix6D představuje významný posun v oblasti aditivní výroby.",
+      "Článek se vrací ke konceptu „Semicap Insurrection“ v kontextu nových hardwarových možností."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "APES",
+      "Matrix6D",
+      "RAPID + TCT"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 22. dubna 2026: Ceny DINO, post-processing, aditivní výroba pro letecké konstrukce a další",
+    "summary": "We&#8217;ll start with event news in today&#8217;s 3D Printing News Briefs, as AMUG presented its DINO Award to six members at this year&#8217;s conference, and Axtra3D celebrated its five-year anniversary...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/AMUG_2026_DINOs-1024x634.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-23T12:00:21+00:00",
+    "url": "https://3dprint.com/325520/3d-printing-news-briefs-4-22-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, April 22, 2026: DINOs, Post-Processing, AM for Aerostructures, & More",
+    "summary_bullets_en": [
+      "AMUG honored six industry members with the prestigious DINO Award during their annual conference.",
+      "Axtra3D marked a significant milestone by celebrating its five-year anniversary.",
+      "The industry update covers advancements in post-processing techniques and the application of additive manufacturing for aerostructures."
+    ],
+    "summary_bullets_cs": [
+      "Organizace AMUG udělila během své letošní konference prestižní cenu DINO šesti svým členům.",
+      "Společnost Axtra3D oslavila páté výročí svého založení.",
+      "Přehled novinek se zaměřuje na pokroky v oblasti post-processingu a využití aditivní výroby pro letecké konstrukce."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "AMUG",
+      "DINO Award",
+      "Axtra3D",
+      "Aerostructures",
+      "Post-processing"
+    ]
+  },
+  {
+    "title": "Americký ponorkový boom: Jak aditivní výroba pohání „zlatou flotilu“",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954332096/0/fabbaloo/default~Americas-Submarine-Surge-How-Additive-Manufacturing-Is-Powering-the-Golden-Fleet\" rel=\"nofollow\" title=\"America&#8217;s Submarine Surge: How Additive Manufacturing Is Powering the Golden Fleet\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/Filename-_38-300x204.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Andressa Bonafe explore how workforce scaling, new production models, and R&#38;D incentives are converging to power the next era of U.S. naval dominance.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954332096/0/fabbaloo/default~Americas-Submarine-Surge-How-Additive-Manufacturing-Is-Powering-the-Golden-Fleet\" rel=\"nofollow\">America&#8217;s Submarine Surge: How Additive Manufacturing Is Powering the Golden Fleet</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/Filename-_38-300x204.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-23T11:02:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954332096/0/fabbaloo/default~Americas-Submarine-Surge-How-Additive-Manufacturing-Is-Powering-the-Golden-Fleet",
+    "forced_tags": [],
+    "title_en": "America’s Submarine Surge: How Additive Manufacturing Is Powering the Golden Fleet",
+    "summary_bullets_en": [
+      "Additive manufacturing is playing a critical role in accelerating the production of the U.S. Navy's next-generation submarine fleet.",
+      "The strategy combines workforce scaling and innovative production models to overcome traditional manufacturing bottlenecks.",
+      "New R&D incentives are driving technological advancements, ensuring long-term naval dominance and supply chain resilience."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba hraje klíčovou roli při zrychlování produkce ponorek nové generace pro americké námořnictvo.",
+      "Strategie kombinuje rozšiřování pracovní síly a inovativní výrobní modely k překonání tradičních úzkých hrdel ve výrobě.",
+      "Nové pobídky pro výzkum a vývoj pohánějí technologický pokrok a zajišťují dlouhodobou námořní dominanci a odolnost dodavatelského řetězce."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Manufacturing",
+      "U.S. Navy",
+      "Defense Industry",
+      "Submarine Production"
+    ]
+  },
+  {
+    "title": "Hybridní inkoustové elektrody na 3D tištěných dílech",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954320822/0/fabbaloo/default~Hybrid-Inkjet-Electrodes-On-D-Printed-Parts\" rel=\"nofollow\" title=\"Hybrid Inkjet Electrodes On 3D Printed Parts\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/electrode-printing-cover-1-300x117.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new study shows inkjet-printed electrodes built directly on 3D printed parts, pointing to faster, cheaper custom electrochemical devices.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954320822/0/fabbaloo/default~Hybrid-Inkjet-Electrodes-On-D-Printed-Parts\" rel=\"nofollow\">Hybrid Inkjet Electrodes On 3D Printed Parts</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/electrode-printing-cover-1-300x117.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-04-23T08:36:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954320822/0/fabbaloo/default~Hybrid-Inkjet-Electrodes-On-D-Printed-Parts",
+    "forced_tags": [],
+    "title_en": "Hybrid Inkjet Electrodes On 3D Printed Parts",
+    "summary_bullets_en": [
+      "Researchers have developed a method to print inkjet electrodes directly onto 3D printed substrates.",
+      "This hybrid approach enables the rapid and cost-effective production of custom electrochemical devices.",
+      "The integration of these technologies simplifies the manufacturing process for specialized electronic components."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie představuje metodu tisku inkoustových elektrod přímo na 3D tištěné součásti.",
+      "Tento hybridní přístup umožňuje rychlejší a levnější výrobu zakázkových elektrochemických zařízení.",
+      "Integrace těchto technologií zjednodušuje výrobní proces specializovaných elektronických komponentů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Inkjet Printing",
+      "Electronics",
+      "Electrochemistry"
+    ]
+  },
+  {
+    "title": "Stratasys rozšiřuje portfolio PolyJet, softwaru a materiálů",
+    "summary": "3D printer manufacturer Stratasys has expanded its product lineup with a new PolyJet printer, new software tools for GrabCAD, a new medical silicone for Origin systems, and a new PA12 powder for SAF production. Announced together, the updates target functional prototyping, patient-specific medical devices, automated tooling design, and industrial powder bed manufacturing. At the hardware&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/SAF_PA12_drone_with_Reinforce3D_1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-23T07:29:16+00:00",
+    "url": "https://3dprintingindustry.com/news/stratasys-expands-polyjet-software-and-materials-portfolio-250864/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-expands-polyjet-software-and-materials-portfolio",
+    "forced_tags": [],
+    "title_en": "Stratasys expands PolyJet, software, and materials portfolio",
+    "summary_bullets_en": [
+      "Stratasys introduced a new PolyJet 3D printer alongside enhanced GrabCAD software tools.",
+      "The company launched a new medical-grade silicone for Origin systems and PA12 powder for SAF technology.",
+      "These updates aim to improve functional prototyping, medical device customization, and industrial manufacturing efficiency."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce 3D tiskáren Stratasys představil novou tiskárnu PolyJet a vylepšené softwarové nástroje pro platformu GrabCAD.",
+      "Společnost uvedla na trh nový lékařský silikon pro systémy Origin a prášek PA12 pro produkční technologii SAF.",
+      "Aktualizace jsou zaměřeny na funkční prototypování, výrobu zdravotnických prostředků na míru a průmyslovou aditivní výrobu."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Stratasys",
+      "PolyJet",
+      "GrabCAD",
+      "Origin",
+      "SAF"
+    ]
+  },
+  {
+    "title": "3D tištěný motorový člun Vortek je nyní dostupný v Dubaji",
+    "summary": "Dubai-based company Innoventive 3D has released the Vortek, a 3D printed speedboat. The same firm previously made the Cyberfin, reportedly from marine waste. The Vortex looks kind of like it...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/Vorte-2.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-23T07:00:32+00:00",
+    "url": "https://3dprint.com/325491/3d-printed-vortek-speedboat-now-available-in-dubai/",
+    "forced_tags": [],
+    "title_en": "3D Printed Vortek Speedboat Now Available in Dubai",
+    "summary_bullets_en": [
+      "Dubai-based Innoventive 3D has launched the Vortek, a new 3D printed speedboat.",
+      "The design follows the company's previous project, the Cyberfin, which was crafted from marine waste.",
+      "The Vortek shares a similar aesthetic design language with its predecessor."
+    ],
+    "summary_bullets_cs": [
+      "Dubajská společnost Innoventive 3D uvedla na trh Vortek, nový 3D tištěný motorový člun.",
+      "Design navazuje na předchozí projekt firmy, Cyberfin, který byl vyroben z mořského odpadu.",
+      "Vortek sdílí podobný estetický vzhled jako jeho předchůdce."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Innoventive 3D",
+      "Vortek",
+      "Cyberfin",
+      "3D Printing",
+      "Marine Technology"
+    ]
+  },
+  {
+    "title": "Společnost BLT pomáhá vyvíjet pant pro OPPO Find N6 pomocí 3D tisku z titanu",
+    "summary": "Bright Laser Technologies (BLT), a Chinese metal additive manufacturing company, collaborated in the development of smartphone manufacturer OPPO’s Find N6 foldable smartphone by producing titanium 3D printed hinge components used to improve display flatness and minimize creasing. The project followed BLT’s earlier work on the hinge system for the OPPO Find N5 and focused on&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/oppo-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-23T06:29:26+00:00",
+    "url": "https://3dprintingindustry.com/news/blt-helps-develop-oppo-find-n6-hinge-with-titanium-3d-printing-250871/?utm_source=rss&utm_medium=rss&utm_campaign=blt-helps-develop-oppo-find-n6-hinge-with-titanium-3d-printing",
+    "forced_tags": [],
+    "title_en": "BLT helps develop OPPO Find N6 hinge with titanium 3D printing",
+    "summary_bullets_en": [
+      "Bright Laser Technologies (BLT) partnered with OPPO to manufacture titanium 3D printed hinge components for the Find N6 foldable smartphone.",
+      "The additive manufacturing process was utilized to enhance display flatness and significantly reduce the visibility of the screen crease.",
+      "This project builds upon the companies' previous collaboration on the hinge system for the earlier OPPO Find N5 model."
+    ],
+    "summary_bullets_cs": [
+      "Čínská společnost Bright Laser Technologies (BLT) spolupracovala s výrobcem smartphonů OPPO na vývoji skládacího telefonu Find N6, pro který vyrobila 3D tištěné titanové komponenty pantu.",
+      "Cílem využití aditivní výroby bylo zlepšení rovinnosti displeje a minimalizace viditelného přehybu v místě ohybu.",
+      "Tento projekt navazuje na předchozí spolupráci obou firem při vývoji pantu pro model OPPO Find N5."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "BLT",
+      "OPPO",
+      "3D Printing",
+      "Titanium",
+      "Foldable Smartphones"
+    ]
+  },
+  {
+    "title": "Fraunhofer IAP a NMI dosáhly biomimetické mechaniky tkání",
+    "summary": "Fraunhofer Institute for Applied Polymer Research (IAP) and NMI Natural and Medical Sciences Institute have jointly developed a patent-pending biomimetic tissue substitute that uses 3D printing as its structural backbone, and is now ready for industrial translation.  The material, developed under the PolyKARD project, addresses one of biomedical engineering&#8217;s most persistent challenges: replicating the nonlinear&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/Gewebeersatz-klein-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-23T06:10:03+00:00",
+    "url": "https://3dprintingindustry.com/news/fraunhofer-iap-and-nmi-achieve-biomimetic-tissue-mechanics-250845/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-iap-and-nmi-achieve-biomimetic-tissue-mechanics",
+    "forced_tags": [],
+    "title_en": "Fraunhofer IAP and NMI Achieve Biomimetic Tissue Mechanics",
+    "summary_bullets_en": [
+      "Fraunhofer IAP and NMI have developed a patent-pending biomimetic tissue substitute using 3D printing.",
+      "The project, known as PolyKARD, focuses on replicating complex nonlinear tissue mechanics.",
+      "The technology has successfully moved past the research phase and is now ready for industrial application."
+    ],
+    "summary_bullets_cs": [
+      "Fraunhoferův institut pro aplikovaný výzkum polymerů (IAP) a institut NMI vyvinuly biomimetickou náhradu tkáně, která využívá 3D tisk jako svou strukturální kostru.",
+      "Projekt PolyKARD řeší jeden z největších problémů biomedicínského inženýrství: replikaci nelineárních mechanických vlastností živých tkání.",
+      "Technologie je nyní připravena pro průmyslové využití a přechod do komerční sféry."
+    ],
+    "tags": [
+      "Material",
+      "Biomedical Engineering",
+      "3D Printing",
+      "Fraunhofer IAP",
+      "NMI",
+      "PolyKARD",
+      "Biomimetics"
+    ]
+  },
+  {
     "title": "Společnost Farsoon posouvá 3D tisk slitin mědi vpřed díky rychlosti, přesnosti a škálovatelnosti",
     "summary": "Copper alloys have long been among the most coveted yet most difficult materials in additive manufacturing. Their extraordinary thermal and electrical properties make them indispensable for aerospace, electronics, and advanced energy systems, but their high reflectivity to near-infrared lasers has historically caused defects, instability, and scalability constraints. Chinese 3D printer manufacturer Farsoon Technologies is addressing&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/Figure_1_FS621M-Cu-150x100.jpg",
