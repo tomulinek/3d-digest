@@ -1,5 +1,492 @@
 [
   {
+    "title": "ARC a ORNL uzavřely partnerství pro urychlení výroby s podporou AI pro obranný průmysl",
+    "summary": "Last year, Autonomous Resource Corporation (ARC) became the surprising owner of Desktop Metal&#8217;s (DM&#8217;s) assets following the bankruptcy of the one-time additive manufacturing (AM) unicorn, an acquisition that cost ARC...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/ORNL_s_MedUSA_wire_arc_additive_manufacturing_machine.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-24T18:26:04+00:00",
+    "url": "https://3dprint.com/325604/arc-ornl-partner-to-accelerate-ai-enabled-manufacturing-for-defense/",
+    "forced_tags": [],
+    "title_en": "ARC & ORNL Form Partnership to Accelerate AI-Enabled Manufacturing for Defense",
+    "summary_bullets_en": [
+      "Autonomous Resource Corporation (ARC) has partnered with Oak Ridge National Laboratory (ORNL) to advance AI-driven manufacturing technologies.",
+      "The collaboration focuses on integrating artificial intelligence into defense-related additive manufacturing processes.",
+      "This move follows ARC's recent acquisition of Desktop Metal's assets after the company's bankruptcy."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Autonomous Resource Corporation (ARC) navázala spolupráci s Oak Ridge National Laboratory (ORNL) za účelem rozvoje výrobních technologií řízených umělou inteligencí.",
+      "Partnerství se zaměřuje na integraci AI do procesů aditivní výroby využívaných v obranném sektoru.",
+      "Tento krok následuje po nedávné akvizici aktiv společnosti Desktop Metal ze strany ARC po jejím bankrotu."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "ARC",
+      "ORNL",
+      "Desktop Metal",
+      "Additive Manufacturing",
+      "Artificial Intelligence",
+      "Defense"
+    ]
+  },
+  {
+    "title": "Prusa zahajuje prodej vylepšení INDX pro 3D tisk bez odpadu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954428324/0/fabbaloo/default~Prusa-Opens-Orders-for-INDX-WasteFree-D-Printing-Upgrade\" rel=\"nofollow\" title=\"Prusa Opens Orders for INDX Waste-Free 3D Printing Upgrade\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/prusa-core-one-indx-mod-cover-300x188.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prusa Research has finally opened up orders for their INDX system today.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954428324/0/fabbaloo/default~Prusa-Opens-Orders-for-INDX-WasteFree-D-Printing-Upgrade\" rel=\"nofollow\">Prusa Opens Orders for INDX Waste-Free 3D Printing Upgrade</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/prusa-core-one-indx-mod-cover-300x188.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-24T16:15:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954428324/0/fabbaloo/default~Prusa-Opens-Orders-for-INDX-WasteFree-D-Printing-Upgrade",
+    "forced_tags": [],
+    "title_en": "Prusa Opens Orders for INDX Waste-Free 3D Printing Upgrade",
+    "summary_bullets_en": [
+      "Prusa Research has officially launched the ordering process for its new INDX system.",
+      "The INDX technology is designed to enable waste-free 3D printing.",
+      "This upgrade represents a significant step forward in sustainable additive manufacturing for Prusa users."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Prusa Research dnes oficiálně spustila příjem objednávek na svůj nový systém INDX.",
+      "Technologie INDX je navržena tak, aby umožnila 3D tisk bez vzniku odpadu.",
+      "Toto vylepšení představuje pro uživatele tiskáren Prusa významný posun směrem k udržitelné aditivní výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Sustainability",
+      "Prusa Research",
+      "INDX",
+      "3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Globální problémy s dodávkami ropy mohou vést k vyšším cenám materiálů pro 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954425039/0/fabbaloo/default~Global-Oil-Supply-Issues-May-Lead-to-Higher-Prices-for-D-Printing-Materials\" rel=\"nofollow\" title=\"Global Oil Supply Issues May Lead to Higher Prices for 3D Printing Materials\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/china-tanker-cover-300x167.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The 3D print industry could be facing material shortages.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954425039/0/fabbaloo/default~Global-Oil-Supply-Issues-May-Lead-to-Higher-Prices-for-D-Printing-Materials\" rel=\"nofollow\">Global Oil Supply Issues May Lead to Higher Prices for 3D Printing Materials</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/china-tanker-cover-300x167.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-24T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954425039/0/fabbaloo/default~Global-Oil-Supply-Issues-May-Lead-to-Higher-Prices-for-D-Printing-Materials",
+    "forced_tags": [],
+    "title_en": "Global Oil Supply Issues May Lead to Higher Prices for 3D Printing Materials",
+    "summary_bullets_en": [
+      "The 3D printing industry is facing potential material shortages due to global oil supply instability.",
+      "Rising oil prices are expected to directly impact the production costs of polymer-based 3D printing filaments.",
+      "Manufacturers and hobbyists may soon see an increase in the retail price of printing materials.",
+      "The dependency of the additive manufacturing sector on petrochemical feedstocks remains a significant vulnerability."
+    ],
+    "summary_bullets_cs": [
+      "Průmysl 3D tisku čelí potenciálnímu nedostatku materiálů kvůli nestabilitě globálních dodávek ropy.",
+      "Očekává se, že rostoucí ceny ropy přímo ovlivní výrobní náklady polymerových filamentů pro 3D tisk.",
+      "Výrobci i hobby uživatelé mohou brzy zaznamenat nárůst maloobchodních cen tiskových materiálů.",
+      "Závislost odvětví aditivní výroby na petrochemických surovinách zůstává významnou slabinou."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing Industry",
+      "Supply Chain",
+      "Petrochemicals",
+      "Manufacturing Costs"
+    ]
+  },
+  {
+    "title": "Největší 3D tiskárna na světě a zrušené IPO – kuriózní případ společnosti Eplus3D",
+    "summary": "The Atomic Layers: 00317",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/9c6b2647-c79a-44ce-9351-6b8ccdaf27a9_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-04-24T14:42:26+00:00",
+    "url": "https://www.3dprintingjournal.com/p/the-worlds-largest-3d-printer-and",
+    "forced_tags": [],
+    "title_en": "The world’s largest 3D printer and a cancelled IPO - the curious case of Eplus3D",
+    "summary_bullets_en": [
+      "Eplus3D has unveiled an exceptionally large-format metal 3D printer, pushing the boundaries of industrial additive manufacturing.",
+      "Despite its technological advancements, the company faces significant challenges following the cancellation of its planned IPO.",
+      "The situation highlights the volatility and complex financial landscape currently surrounding major players in the 3D printing industry."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Eplus3D představila mimořádně velkoformátovou 3D tiskárnu na kov, čímž posouvá hranice průmyslové aditivní výroby.",
+      "Navzdory technologickému pokroku čelí firma značným problémům po zrušení plánované primární veřejné nabídky akcií (IPO).",
+      "Tato situace poukazuje na volatilitu a složité finanční prostředí, které v současnosti obklopuje významné hráče v odvětví 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Industrial 3D Printing",
+      "Metal Additive Manufacturing",
+      "Eplus3D",
+      "IPO",
+      "Business"
+    ]
+  },
+  {
+    "title": "Centralizovaná knihovna předvoleb od Polymakeru zjednodušuje ladění tiskových strun",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954419495/0/fabbaloo/default~Polymakers-Centralized-Preset-Library-Simplifies-Filament-Tuning\" rel=\"nofollow\" title=\"Polymaker&#8217;s Centralized Preset Library Simplifies Filament Tuning\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/polymaker-presets-cover-300x173.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Polymaker is making a big deal of their presets, and so they should.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954419495/0/fabbaloo/default~Polymakers-Centralized-Preset-Library-Simplifies-Filament-Tuning\" rel=\"nofollow\">Polymaker&#8217;s Centralized Preset Library Simplifies Filament Tuning</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/polymaker-presets-cover-300x173.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-24T13:40:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954419495/0/fabbaloo/default~Polymakers-Centralized-Preset-Library-Simplifies-Filament-Tuning",
+    "forced_tags": [],
+    "title_en": "Polymaker’s Centralized Preset Library Simplifies Filament Tuning",
+    "summary_bullets_en": [
+      "Polymaker has launched a centralized library of optimized print presets for their filament range.",
+      "The initiative aims to eliminate the trial-and-error process for users when configuring new materials.",
+      "This move significantly improves the user experience by ensuring consistent print quality across different 3D printers.",
+      "The library serves as a standardized resource to streamline the filament tuning workflow."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Polymaker spustila centralizovanou knihovnu optimalizovaných tiskových předvoleb pro své struny.",
+      "Cílem této iniciativy je odstranit zdlouhavé pokusy a omyly uživatelů při nastavování nových materiálů.",
+      "Tento krok výrazně zlepšuje uživatelskou zkušenost a zajišťuje konzistentní kvalitu tisku na různých 3D tiskárnách.",
+      "Knihovna slouží jako standardizovaný zdroj pro zefektivnění procesu ladění tiskových strun."
+    ],
+    "tags": [
+      "Material",
+      "Software",
+      "Polymaker",
+      "3D Printing",
+      "Filament",
+      "Slicing"
+    ]
+  },
+  {
+    "title": "Společnost Colibrium Additive získala kontrakt od NAVAIR v hodnotě 31 milionů dolarů",
+    "summary": "Colibrium Additive has been awarded a $31 million contract by the Naval Air Systems Command (NAVAIR). The contract is part of the Additive Manufacturing Capability initiative, focused on qualification and...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/COADPR001b_26131621.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-24T13:30:26+00:00",
+    "url": "https://3dprint.com/325572/colibrium-additive-gets-31-million-navair-contract/",
+    "forced_tags": [],
+    "title_en": "Colibrium Additive Gets $31 Million NAVAIR Contract",
+    "summary_bullets_en": [
+      "Colibrium Additive secured a $31 million contract from the Naval Air Systems Command (NAVAIR).",
+      "The project is part of the Additive Manufacturing Capability initiative.",
+      "The primary focus is on the qualification and certification of additive manufacturing processes for naval aviation."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Colibrium Additive získala zakázku v hodnotě 31 milionů dolarů od velitelství Naval Air Systems Command (NAVAIR).",
+      "Kontrakt je součástí iniciativy pro rozvoj schopností aditivní výroby.",
+      "Hlavním cílem projektu je kvalifikace a certifikace procesů aditivní výroby pro potřeby námořního letectva."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Colibrium Additive",
+      "NAVAIR",
+      "Additive Manufacturing",
+      "Defense"
+    ]
+  },
+  {
+    "title": "RAPID 2026: Domácí kovové prášky a plán konsolidace společnosti 6K Additive",
+    "summary": "6K Additive (ASX: 6KA), a U.S. supplier and manufacturer of metal powders for additive manufacturing (AM), has been very busy lately. I caught up with CEO Frank Roberts and Chief...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/Roberts-and-Reschenthaler-with-a-UniMelt-7601013.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-24T13:00:07+00:00",
+    "url": "https://3dprint.com/325581/rapid-2026-6k-additives-domestic-metal-powders-consolidation-plan/",
+    "forced_tags": [],
+    "title_en": "RAPID 2026: 6K Additive’s Domestic Metal Powders & Consolidation Plan",
+    "summary_bullets_en": [
+      "6K Additive is focusing on strengthening its domestic U.S. supply chain for high-quality metal powders.",
+      "The company is implementing a strategic consolidation plan to streamline its manufacturing operations.",
+      "CEO Frank Roberts and leadership discussed future growth and market positioning during the RAPID 2026 event."
+    ],
+    "summary_bullets_cs": [
+      "Společnost 6K Additive se zaměřuje na posílení domácího dodavatelského řetězce vysoce kvalitních kovových prášků v USA.",
+      "Firma zavádí strategický plán konsolidace s cílem zefektivnit své výrobní operace.",
+      "Generální ředitel Frank Roberts a vedení společnosti diskutovali o budoucím růstu a pozici na trhu během akce RAPID 2026."
+    ],
+    "tags": [
+      "Material",
+      "6K Additive",
+      "Metal Additive Manufacturing",
+      "Supply Chain",
+      "RAPID 2026"
+    ]
+  },
+  {
+    "title": "Aditivní kurník, část I: Milionové Petriho misky",
+    "summary": "After decades of tinkering with our individual technologies, billions were poured into speculative claims and optimism. Now the attention is gone, and sometimes it can seem like we&#8217;re surrounded by...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/tikes.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-24T12:30:04+00:00",
+    "url": "https://3dprint.com/325073/the-additive-chicken-coop-part-i-million-dollar-petri-dishes/",
+    "forced_tags": [],
+    "title_en": "The Additive Chicken Coop, Part I: Million Dollar Petri Dishes",
+    "summary_bullets_en": [
+      "The additive manufacturing industry is facing a reality check after years of excessive hype and speculative investment.",
+      "Technological development has matured, but the initial wave of optimism has faded, leaving the sector in a more sober state.",
+      "The current landscape reflects a transition from experimental 'petri dish' projects to a need for sustainable, practical applications."
+    ],
+    "summary_bullets_cs": [
+      "Průmysl aditivní výroby čelí po letech přehnaného očekávání a spekulativních investic vystřízlivění.",
+      "Technologický vývoj dospěl, ale počáteční vlna optimismu opadla, což zanechalo sektor v mnohem střízlivějším stavu.",
+      "Současná situace odráží přechod od experimentálních projektů k potřebě udržitelných a praktických aplikací."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Additive Manufacturing",
+      "Industry Analysis",
+      "Investment"
+    ]
+  },
+  {
+    "title": "Scrap Labs představuje na Colorado Maker Festivalu kovovou 3D tiskárnu za cenu pod 13 000 dolarů",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/scrap-labs-brings-sub-13000-metal-3d-printer-to-public-at-colorado-maker-festival/\" target=\"_blank\">Scrap Labs Brings Sub-$13,000 Metal 3D Printer to Public at Colorado Maker Festival</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">April 24</span></div><div><img alt=\"Scrap Labs Brings Sub-$13,000 Metal 3D Printer to Public at Colorado Maker Festival\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/url2Fassets2FScrap20120Product20Photo-01-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/url2Fassets2FScrap20120Product20Photo-01-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-04-24T12:01:32+00:00",
+    "url": "https://3dprinting.com/news/scrap-labs-brings-sub-13000-metal-3d-printer-to-public-at-colorado-maker-festival/",
+    "forced_tags": [],
+    "title_en": "Scrap Labs Brings Sub-$13,000 Metal 3D Printer to Public at Colorado Maker Festival",
+    "summary_bullets_en": [
+      "Scrap Labs unveiled an affordable metal 3D printer priced under $13,000 at the Colorado Maker Festival.",
+      "The machine aims to make metal additive manufacturing more accessible to hobbyists, small businesses, and educational institutions.",
+      "This launch represents a significant shift in the market, challenging the high cost typically associated with industrial metal printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Scrap Labs představila na festivalu Colorado Maker Festival cenově dostupnou kovovou 3D tiskárnu s cenovkou pod 13 000 dolarů.",
+      "Cílem stroje je zpřístupnit aditivní výrobu z kovů pro kutily, malé firmy a vzdělávací instituce.",
+      "Toto uvedení na trh představuje významný posun, který zpochybňuje vysoké náklady obvykle spojené s průmyslovou technologií tisku z kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "Scrap Labs",
+      "Additive Manufacturing",
+      "Affordable 3D Printing"
+    ]
+  },
+  {
+    "title": "Akcie HP rostou díky zájmu o 3D tisk",
+    "summary": "HP (NYSE: HPQ) had its best day in over a year this week, with shares jumping more than 7% on Tuesday. Interestingly, the move was quickly tied to 3D printing,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/IMG_3156-scaled.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-24T12:00:14+00:00",
+    "url": "https://3dprint.com/325555/hp-stock-jumps-on-3d-printing-buzz/",
+    "forced_tags": [],
+    "title_en": "HP Stock Jumps on 3D Printing Buzz",
+    "summary_bullets_en": [
+      "HP shares experienced their strongest performance in over a year, rising by more than 7% on Tuesday.",
+      "Market analysts and investors quickly linked this significant stock surge to the company's 3D printing division.",
+      "The positive market reaction highlights growing investor confidence in HP's additive manufacturing strategy."
+    ],
+    "summary_bullets_cs": [
+      "Akcie společnosti HP zažily tento týden nejlepší den za více než rok, když v úterý posílily o více než 7 %.",
+      "Tento pohyb na trhu byl rychle spojen s aktivitami společnosti v oblasti 3D tisku.",
+      "Pozitivní reakce investorů podtrhuje rostoucí důvěru v strategii HP v segmentu aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "HP",
+      "Stock Market",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Rolls-Royce otevírá v Bristolu centrum pro aditivní výrobu s podporou britského ministerstva obrany",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/rolls-royce-opens-additive-manufacturing-cell-in-bristol-with-uk-defence-funding/\" target=\"_blank\">Rolls-Royce Opens Additive Manufacturing Cell in Bristol With UK Defence Funding</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">April 24</span></div><div><img alt=\"Rolls-Royce Opens Additive Manufacturing Cell in Bristol With UK Defence Funding\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"300\" src=\"https://3dprinting.com/wp-content/uploads/68479890883.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"480\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/68479890883.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-04-24T11:52:31+00:00",
+    "url": "https://3dprinting.com/news/rolls-royce-opens-additive-manufacturing-cell-in-bristol-with-uk-defence-funding/",
+    "forced_tags": [],
+    "title_en": "Rolls-Royce Opens Additive Manufacturing Cell in Bristol With UK Defence Funding",
+    "summary_bullets_en": [
+      "Rolls-Royce has launched a new dedicated additive manufacturing facility in Bristol to advance aerospace and defense production.",
+      "The project is supported by funding from the UK Ministry of Defence, highlighting the strategic importance of 3D printing for national security.",
+      "The cell focuses on developing complex, high-performance components to improve supply chain resilience and manufacturing efficiency.",
+      "This initiative marks a significant step in integrating advanced industrial 3D printing technologies into the UK's defense manufacturing ecosystem."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Rolls-Royce otevřela v Bristolu nové specializované pracoviště pro aditivní výrobu, které má posunout produkci v letectví a obraně.",
+      "Projekt je financován britským ministerstvem obrany, což podtrhuje strategický význam 3D tisku pro národní bezpečnost.",
+      "Centrum se zaměřuje na vývoj komplexních, vysoce výkonných komponentů s cílem zvýšit odolnost dodavatelského řetězce a efektivitu výroby.",
+      "Tato iniciativa představuje významný krok v integraci pokročilých průmyslových technologií 3D tisku do britského obranného průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Rolls-Royce",
+      "Aerospace",
+      "Defence",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "BIQU Panda Shelter je nízkonákladové řešení krytu pro 3D tiskárny",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954413192/0/fabbaloo/default~The-BIQU-Panda-Shelter-is-a-LowCost-Enclosure-Solution\" rel=\"nofollow\" title=\"The BIQU Panda Shelter is a Low-Cost Enclosure Solution\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/panda-shelter-cover-300x300.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>BIQU has come up with another fascinating Bambu Lab add-on: the Panda Shelter.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954413192/0/fabbaloo/default~The-BIQU-Panda-Shelter-is-a-LowCost-Enclosure-Solution\" rel=\"nofollow\">The BIQU Panda Shelter is a Low-Cost Enclosure Solution</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/panda-shelter-cover-300x300.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-24T11:39:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954413192/0/fabbaloo/default~The-BIQU-Panda-Shelter-is-a-LowCost-Enclosure-Solution",
+    "forced_tags": [],
+    "title_en": "The BIQU Panda Shelter is a Low-Cost Enclosure Solution",
+    "summary_bullets_en": [
+      "BIQU has introduced the Panda Shelter, a new accessory designed for Bambu Lab 3D printers.",
+      "The product serves as a cost-effective enclosure solution for users looking to improve their printing environment.",
+      "This release continues BIQU's trend of developing specialized add-ons for the popular Bambu Lab ecosystem."
+    ],
+    "summary_bullets_cs": [
+      "Společnost BIQU představila Panda Shelter, nové příslušenství určené pro 3D tiskárny Bambu Lab.",
+      "Produkt slouží jako cenově dostupné řešení krytu pro uživatele, kteří chtějí vylepšit své tiskové prostředí.",
+      "Toto uvedení na trh navazuje na trend společnosti BIQU vyvíjet specializované doplňky pro populární ekosystém Bambu Lab."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "BIQU",
+      "Bambu Lab",
+      "Enclosure",
+      "Accessories"
+    ]
+  },
+  {
+    "title": "Nová data od CONTEXT ukazují strukturální změny, které přetvářejí hardware pro aditivní výrobu",
+    "summary": "The 2026 edition of our AMA: Energy online conference returns on April 30th. Register now! Market intelligence firm CONTEXT has published its Q4 2025 analysis of global 3D printer hardware shipments, with growth concentrated at opposite ends of the price spectrum. The numbers point to a market that has stopped growing uniformly and started reorganizing around two&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/CONTEXTChart1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-24T10:21:25+00:00",
+    "url": "https://3dprintingindustry.com/news/new-context-data-shows-structural-shifts-reshaping-am-hardware-250940/?utm_source=rss&utm_medium=rss&utm_campaign=new-context-data-shows-structural-shifts-reshaping-am-hardware",
+    "forced_tags": [],
+    "title_en": "New CONTEXT Data Shows Structural Shifts Reshaping AM Hardware",
+    "summary_bullets_en": [
+      "Global 3D printer shipments in Q4 2025 show a shift toward a polarized market structure.",
+      "Growth is currently concentrated at the extreme ends of the price spectrum rather than the mid-range.",
+      "The additive manufacturing hardware sector is undergoing a significant structural reorganization.",
+      "Industry stakeholders are invited to discuss these trends at the upcoming AMA: Energy online conference on April 30th."
+    ],
+    "summary_bullets_cs": [
+      "Globální dodávky 3D tiskáren za 4. čtvrtletí 2025 ukazují posun směrem k polarizované struktuře trhu.",
+      "Růst se v současnosti soustředí na opačné konce cenového spektra, nikoliv na střední třídu.",
+      "Sektor hardwaru pro aditivní výrobu prochází významnou strukturální reorganizací.",
+      "Zástupci průmyslu jsou zváni k diskuzi o těchto trendech na nadcházející online konferenci AMA: Energy, která se koná 30. dubna."
+    ],
+    "tags": [
+      "Hardware",
+      "Market Analysis",
+      "CONTEXT",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Industry Trends"
+    ]
+  },
+  {
+    "title": "SLA závislá na vlnové délce: 3D tištěné akční grafy",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954403763/0/fabbaloo/default~WavelengthDependent-SLA-D-Printed-Action-Plots\" rel=\"nofollow\" title=\"Wavelength-Dependent SLA: 3D Printed Action Plots\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/sla-wavelength-cover-300x184.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have introduced “3D printed action plots” to map how resin cure responds to different wavelengths, offering a new tool for dialing in vat photopolymerization.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954403763/0/fabbaloo/default~WavelengthDependent-SLA-D-Printed-Action-Plots\" rel=\"nofollow\">Wavelength-Dependent SLA: 3D Printed Action Plots</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/sla-wavelength-cover-300x184.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-24T08:42:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954403763/0/fabbaloo/default~WavelengthDependent-SLA-D-Printed-Action-Plots",
+    "forced_tags": [],
+    "title_en": "Wavelength-Dependent SLA: 3D Printed Action Plots",
+    "summary_bullets_en": [
+      "Researchers have developed a new method called '3D printed action plots' to analyze resin curing behavior.",
+      "The technique maps how photopolymer resins respond to specific light wavelengths during the printing process.",
+      "This innovation provides a precise tool for optimizing vat photopolymerization settings and material performance."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci představili metodu „3D tištěných akčních grafů“ pro analýzu vytvrzování pryskyřic.",
+      "Technika mapuje, jak fotopolymerní pryskyřice reagují na různé vlnové délky světla během tisku.",
+      "Tato inovace nabízí nový nástroj pro přesné nastavení parametrů u technologií využívajících nádržovou fotopolymerizaci."
+    ],
+    "tags": [
+      "Material",
+      "Hardware",
+      "SLA",
+      "Vat Photopolymerization",
+      "Resin",
+      "3D Printing Research"
+    ]
+  },
+  {
+    "title": "MOVA AtomForm představuje Palette 300 na veletrhu RAPID + TCT 2026: Přepínání mezi 12 tryskami cílí na snížení odpadu při vícebarevném tisku",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/mova-atomform-debuts-palette-300-at-rapid-tct-2026-12-nozzle-switching-takes-aim-at-multi-color-waste/\" target=\"_blank\">MOVA AtomForm Debuts Palette 300 at RAPID + TCT 2026: 12-Nozzle Switching Takes Aim at Multi-Color Waste</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">April 24</span></div><div><img alt=\"\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/atomform-palette-500x500.png\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/atomform-palette-500x500.png",
+    "source": "3DPrinting.com",
+    "published": "2026-04-24T07:27:48+00:00",
+    "url": "https://3dprinting.com/news/mova-atomform-debuts-palette-300-at-rapid-tct-2026-12-nozzle-switching-takes-aim-at-multi-color-waste/",
+    "forced_tags": [],
+    "title_en": "MOVA AtomForm Debuts Palette 300 at RAPID + TCT 2026: 12-Nozzle Switching Takes Aim at Multi-Color Waste",
+    "summary_bullets_en": [
+      "MOVA AtomForm introduced the Palette 300 at RAPID + TCT 2026, featuring an innovative 12-nozzle switching system.",
+      "The technology is specifically designed to minimize material waste typically associated with multi-color and multi-material 3D printing.",
+      "This advancement aims to improve efficiency and sustainability in additive manufacturing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Společnost MOVA AtomForm uvedla na veletrhu RAPID + TCT 2026 zařízení Palette 300, které využívá inovativní systém přepínání mezi 12 tryskami.",
+      "Tato technologie je navržena tak, aby minimalizovala plýtvání materiálem, ke kterému běžně dochází při vícebarevném a více-materiálovém 3D tisku.",
+      "Cílem této novinky je zvýšení efektivity a udržitelnosti v procesech aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "MOVA AtomForm",
+      "Palette 300",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Multi-color Printing"
+    ]
+  },
+  {
+    "title": "3D tištěná baterie pohání prediktivní údržbu při výrobě oceli",
+    "summary": "A collaborative initiative called 3Dstore, spearheaded by the Catalonia Institute for Energy Research (IREC) alongside the Universitat Oberta de Catalunya (UOC) and steelmaking giant CELSA, has brought an unconventional solution to a persistent industrial challenge: unplanned machinery failures.&#160; The consortium has engineered a monitoring system driven by a solid oxide battery fabricated through additive manufacturing,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/1776337371487-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-24T07:24:27+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printed-battery-powers-predictive-maintenance-in-steel-production-250923/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-battery-powers-predictive-maintenance-in-steel-production",
+    "forced_tags": [],
+    "title_en": "3D Printed Battery Powers Predictive Maintenance in Steel Production",
+    "summary_bullets_en": [
+      "The 3Dstore consortium, led by IREC, UOC, and CELSA, developed a 3D-printed solid oxide battery to address unplanned industrial machinery failures.",
+      "The project integrates additive manufacturing to create energy solutions for advanced monitoring systems.",
+      "This innovation aims to enhance predictive maintenance in the steel industry, reducing downtime and operational costs."
+    ],
+    "summary_bullets_cs": [
+      "Konsorcium 3Dstore, vedené IREC, UOC a ocelářským gigantem CELSA, vyvinulo 3D tištěnou baterii s pevným oxidem pro řešení neplánovaných poruch strojů.",
+      "Projekt využívá aditivní výrobu k vytvoření energetických řešení pro pokročilé monitorovací systémy.",
+      "Tato inovace má za cíl zlepšit prediktivní údržbu v ocelářském průmyslu, čímž se sníží prostoje a provozní náklady."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Energy Storage",
+      "Predictive Maintenance",
+      "Steel Industry",
+      "IREC",
+      "UOC",
+      "CELSA"
+    ]
+  },
+  {
+    "title": "Itálie sází na distribuovanou aditivní výrobu pro námořní připravenost v rámci obranného programu DIANA",
+    "summary": "Naval spare parts logistics, built around centralized warehouses and extended supply chains, has long been a structural vulnerability in defense readiness. 3D printer manufacturer ROBOZE is leading DIgitales partes Ad Necessitatem Armatorum (DIANA), a research and development initiative backed by the Italian Ministry of Defence under the National Military Research Plan, to dismantle that dependency. &#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/1776763652597-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-24T06:20:04+00:00",
+    "url": "https://3dprintingindustry.com/news/italy-bets-on-distributed-am-for-naval-readiness-with-the-diana-defense-program-250911/?utm_source=rss&utm_medium=rss&utm_campaign=italy-bets-on-distributed-am-for-naval-readiness-with-the-diana-defense-program",
+    "forced_tags": [],
+    "title_en": "Italy Bets on Distributed AM for Naval Readiness with the DIANA Defense Program",
+    "summary_bullets_en": [
+      "The DIANA initiative aims to reduce reliance on centralized naval spare parts logistics through distributed additive manufacturing.",
+      "Led by ROBOZE, the project is supported by the Italian Ministry of Defence under the National Military Research Plan.",
+      "The program seeks to enhance defense readiness by enabling on-demand production of critical components."
+    ],
+    "summary_bullets_cs": [
+      "Iniciativa DIANA si klade za cíl snížit závislost na centralizované logistice náhradních dílů pro námořnictvo prostřednictvím distribuované aditivní výroby.",
+      "Projekt, který vede společnost ROBOZE, je podporován italským ministerstvem obrany v rámci Národního plánu vojenského výzkumu.",
+      "Program usiluje o posílení obranyschopnosti umožněním výroby kritických komponentů přímo na vyžádání."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "ROBOZE",
+      "Additive Manufacturing",
+      "Defense",
+      "Supply Chain"
+    ]
+  },
+  {
     "title": "DTU využívá keramický 3D tisk od Lithoz k výrobě gyroidních palivových článků",
     "summary": "Researchers at the Technical University of Denmark (DTU) have developed monolithic solid oxide fuel cells with 3D printed gyroid architectures made from 8YSZ, reporting power-to-weight ratios of about 1 W g⁻¹. According to the team, conventional planar SOFC architectures typically deliver around 0.2 W g⁻¹, making the new design roughly five times higher on that&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/LITHOZ_DTU_SOFC-150x100.jpg",
