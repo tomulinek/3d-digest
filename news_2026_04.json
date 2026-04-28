@@ -1,5 +1,526 @@
 [
   {
+    "title": "Prime3D umožňuje plnobarevný tisk u FFF 3D tiskáren",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954651296/0/fabbaloo/default~PrimeD-Enables-FullColor-Images-in-FFF-D-Printing\" rel=\"nofollow\" title=\"Prime3D Enables Full-Color Images in FFF 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/prime3d-cover-300x209.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Is it possible to 3D print full-colour images with filament? Apparently, it is now.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954651296/0/fabbaloo/default~PrimeD-Enables-FullColor-Images-in-FFF-D-Printing\" rel=\"nofollow\">Prime3D Enables Full-Color Images in FFF 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/prime3d-cover-300x209.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-27T16:46:25+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954651296/0/fabbaloo/default~PrimeD-Enables-FullColor-Images-in-FFF-D-Printing",
+    "forced_tags": [],
+    "title_en": "Prime3D Enables Full-Color Images in FFF 3D Printing",
+    "summary_bullets_en": [
+      "Prime3D introduces a new technology capable of producing full-color images using standard FFF 3D printing.",
+      "The innovation overcomes traditional limitations of filament-based printing, which typically relies on single-color or limited-color material swaps.",
+      "This development marks a significant step forward in achieving high-fidelity color reproduction in desktop 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Prime3D představila novou technologii, která umožňuje vytvářet plnobarevné obrazy pomocí běžného FFF 3D tisku.",
+      "Tato inovace překonává tradiční omezení tiskáren na bázi filamentu, které jsou obvykle limitovány jednobarevným tiskem nebo složitou výměnou materiálů.",
+      "Tento pokrok představuje významný krok vpřed v dosažení vysoké věrnosti barev u stolních 3D tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Prime3D",
+      "FFF 3D Printing",
+      "Full-color printing"
+    ]
+  },
+  {
+    "title": "AMA: Energy 2026: Pelagus obhajuje digitální skladování v energetice a námořním průmyslu",
+    "summary": "Energy meets innovation. Ahead of AMA: Energy 2026, 3D Printing Industry goes deep on additive manufacturing in one of the world&#8217;s most critical sectors. Energy giant Equinor once calculated that it was sitting on €2.5 billion worth of spare parts, “most of which will never be used,” a figure on-demand manufacturer Pelagus’ Abedin Gagani cited&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/4-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-27T15:51:48+00:00",
+    "url": "https://3dprintingindustry.com/news/ama-energy-2026-pelagus-makes-the-case-for-digital-inventory-in-energy-and-maritime-250637/?utm_source=rss&utm_medium=rss&utm_campaign=ama-energy-2026-pelagus-makes-the-case-for-digital-inventory-in-energy-and-maritime",
+    "forced_tags": [],
+    "title_en": "AMA: Energy 2026: Pelagus Makes The Case for Digital Inventory in Energy and Maritime",
+    "summary_bullets_en": [
+      "Pelagus highlights the inefficiency of traditional spare parts management, citing Equinor's €2.5 billion in stagnant inventory.",
+      "Digital inventory and on-demand additive manufacturing are presented as key solutions to reduce waste and capital lock-up.",
+      "The article explores the integration of 3D printing within the energy and maritime sectors ahead of the AMA: Energy 2026 event."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Pelagus poukazuje na neefektivitu tradiční správy náhradních dílů, přičemž cituje energetického giganta Equinor, který drží skladové zásoby v hodnotě 2,5 miliardy eur.",
+      "Digitální inventář a aditivní výroba na vyžádání jsou představeny jako klíčová řešení pro snížení plýtvání a vázaného kapitálu.",
+      "Článek zkoumá integraci 3D tisku v energetickém a námořním sektoru v rámci příprav na nadcházející událost AMA: Energy 2026."
+    ],
+    "tags": [
+      "Services",
+      "Digital Inventory",
+      "Additive Manufacturing",
+      "Energy",
+      "Maritime",
+      "Pelagus",
+      "Equinor"
+    ]
+  },
+  {
+    "title": "Společnost Eplus3D prolomila třímetrovou hranici v technologii spékání kovového prášku",
+    "summary": "Hangzhou-based metal 3D printing manufacturer Eplus3D has launched the EP-M3050, a metal powder bed fusion system that surpasses the long-standing three-meter barrier with a 3,050 x 3,050 mm build area, up to 256 lasers, and a five-meter Z-axis, making single-build production of industrial-scale metal components a commercial reality. “Scaling metal PBF beyond three meters is&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-27T15:51:24+00:00",
+    "url": "https://3dprintingindustry.com/news/eplus3d-shatters-the-three-meter-ceiling-in-metal-powder-bed-fusion-250915/?utm_source=rss&utm_medium=rss&utm_campaign=eplus3d-shatters-the-three-meter-ceiling-in-metal-powder-bed-fusion",
+    "forced_tags": [],
+    "title_en": "Eplus3D Shatters the Three-Meter Ceiling in Metal Powder Bed Fusion",
+    "summary_bullets_en": [
+      "Eplus3D has introduced the EP-M3050, a massive metal powder bed fusion system with a 3,050 x 3,050 mm build area.",
+      "The machine features up to 256 lasers and a five-meter Z-axis, enabling the production of large-scale industrial metal parts.",
+      "This development marks a significant milestone by overcoming the previous three-meter size limitation in metal additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce Eplus3D představil systém EP-M3050 pro 3D tisk z kovů s tiskovou plochou 3 050 x 3 050 mm.",
+      "Stroj využívá až 256 laserů a osu Z o délce pěti metrů, což umožňuje výrobu rozměrných průmyslových kovových komponent v jednom celku.",
+      "Tato inovace představuje zásadní milník, neboť překonává dosavadní třímetrový limit v aditivní výrobě kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "Powder Bed Fusion",
+      "Eplus3D",
+      "Industrial Manufacturing",
+      "Large-scale Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Volkmann uvádí systém pro manipulaci s práškem vPort pro HP Metal Jet S100",
+    "summary": "Volkmann GmbH, a Germany-based manufacturer of metal powder conveying equipment, has introduced the vPort, a semi-automated, contained powder handling system developed in partnership with HP Additive Manufacturing Solutions. Announced on April 7, 2026, the system is designed specifically for the HP Metal Jet S100 series of binder jet 3D printers and is now available in&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/image-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-27T15:51:06+00:00",
+    "url": "https://3dprintingindustry.com/news/volkmann-launches-vport-powder-handling-system-for-hp-metal-jet-s100-250995/?utm_source=rss&utm_medium=rss&utm_campaign=volkmann-launches-vport-powder-handling-system-for-hp-metal-jet-s100",
+    "forced_tags": [],
+    "title_en": "Volkmann launches vPort powder handling system for HP Metal Jet S100",
+    "summary_bullets_en": [
+      "Volkmann GmbH introduced the vPort, a semi-automated powder handling system for metal 3D printing.",
+      "The system was developed in collaboration with HP specifically for the Metal Jet S100 series.",
+      "It focuses on contained and efficient powder management for binder jetting workflows.",
+      "The product was officially announced on April 7, 2026, and is now commercially available."
+    ],
+    "summary_bullets_cs": [
+      "Německý výrobce Volkmann GmbH představil vPort, poloautomatický systém pro manipulaci s kovovým práškem.",
+      "Systém byl vyvinut ve spolupráci s HP speciálně pro řadu 3D tiskáren Metal Jet S100.",
+      "Zařízení zajišťuje uzavřenou a bezpečnou manipulaci s práškovým materiálem při procesu binder jettingu.",
+      "Novinka byla oznámena 7. dubna 2026 a je již dostupná na trhu."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "Powder Handling",
+      "Volkmann",
+      "HP",
+      "Binder Jetting"
+    ]
+  },
+  {
+    "title": "Elegoo získalo dalších 70 milionů dolarů v investičním kole B+",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954644426/0/fabbaloo/default~Elegoo-Raises-Additional-M-in-B-Round\" rel=\"nofollow\" title=\"Elegoo Raises Additional $70M in B+ Round\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/elegoo-chen-bo-cover-300x160.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Elegoo has raised even more cash.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954644426/0/fabbaloo/default~Elegoo-Raises-Additional-M-in-B-Round\" rel=\"nofollow\">Elegoo Raises Additional $70M in B+ Round</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/elegoo-chen-bo-cover-300x160.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-27T15:09:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954644426/0/fabbaloo/default~Elegoo-Raises-Additional-M-in-B-Round",
+    "forced_tags": [],
+    "title_en": "Elegoo Raises Additional $70M in B+ Round",
+    "summary_bullets_en": [
+      "Elegoo has successfully secured an additional $70 million in a B+ funding round.",
+      "This significant capital injection highlights the company's continued growth in the 3D printing market.",
+      "The investment will likely support further expansion and development of their hardware portfolio."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Elegoo úspěšně získala dalších 70 milionů dolarů v investičním kole typu B+.",
+      "Tato významná finanční injekce podtrhuje pokračující růst společnosti na trhu 3D tisku.",
+      "Investice pravděpodobně podpoří další expanzi a vývoj jejich portfolia hardwaru."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Elegoo",
+      "Investment",
+      "Funding",
+      "Business"
+    ]
+  },
+  {
+    "title": "Firma RecyclingFabrik zabývající se recyklací pro 3D tisk pozastavuje příjem materiálu kvůli vývoji procesu nové generace",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954631625/0/fabbaloo/default~D-Print-Recycling-Firm-RecyclingFabrik-Pauses-Intake-to-Develop-NextGeneration-Process\" rel=\"nofollow\" title=\"3D Print Recycling Firm RecyclingFabrik Pauses Intake to Develop Next-Generation Process\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/recyclingfabrik-2.0-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>RecyclingFabrik is expanding.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954631625/0/fabbaloo/default~D-Print-Recycling-Firm-RecyclingFabrik-Pauses-Intake-to-Develop-NextGeneration-Process\" rel=\"nofollow\">3D Print Recycling Firm RecyclingFabrik Pauses Intake to Develop Next-Generation Process</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/recyclingfabrik-2.0-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-27T13:08:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954631625/0/fabbaloo/default~D-Print-Recycling-Firm-RecyclingFabrik-Pauses-Intake-to-Develop-NextGeneration-Process",
+    "forced_tags": [],
+    "title_en": "3D Print Recycling Firm RecyclingFabrik Pauses Intake to Develop Next-Generation Process",
+    "summary_bullets_en": [
+      "RecyclingFabrik has temporarily stopped accepting new plastic waste for recycling.",
+      "The pause is necessary to implement a new, more efficient processing system.",
+      "The company is scaling up operations to handle future demand more effectively.",
+      "This strategic move aims to improve the overall sustainability and quality of their recycled 3D printing materials."
+    ],
+    "summary_bullets_cs": [
+      "Společnost RecyclingFabrik dočasně zastavila příjem nového plastového odpadu k recyklaci.",
+      "Přestávka je nezbytná pro implementaci nového, efektivnějšího systému zpracování.",
+      "Firma rozšiřuje své kapacity, aby dokázala lépe zvládat budoucí poptávku.",
+      "Tento strategický krok má za cíl zlepšit celkovou udržitelnost a kvalitu jejich recyklovaných materiálů pro 3D tisk."
+    ],
+    "tags": [
+      "Services",
+      "Material",
+      "RecyclingFabrik",
+      "Sustainability",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Jak 12tryskový systém společnosti AtomForm snižuje odpad při přechodu barev u FDM tisku až o 90 %",
+    "summary": "Pull up the print stats on multi-color FDM jobs. The number that stings isn&#8217;t time; it&#8217;s material efficiency. On six-color models, single-nozzle systems consume significant filament during transition flushing, expelling...",
+    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-27T13:00:17+00:00",
+    "url": "https://3dprint.com/325614/how-atomforms-12-nozzle-system-cuts-multi-color-fdm-transition-waste-by-up-to-90/",
+    "forced_tags": [],
+    "title_en": "How AtomForm’s 12-Nozzle System Cuts Multi-Color FDM Transition Waste by Up to 90%",
+    "summary_bullets_en": [
+      "AtomForm introduces a 12-nozzle system designed to drastically improve material efficiency in multi-color FDM printing.",
+      "The technology addresses the high waste generated by traditional single-nozzle flushing during color transitions.",
+      "By utilizing multiple nozzles, the system reduces filament waste by up to 90% on complex multi-color models."
+    ],
+    "summary_bullets_cs": [
+      "Společnost AtomForm představila 12tryskový systém navržený k výraznému zvýšení materiálové efektivity u vícebarevného FDM tisku.",
+      "Technologie řeší problém vysokého plýtvání materiálem, ke kterému dochází u běžných jedno-tryskových systémů při proplachování barev.",
+      "Díky využití více trysek systém snižuje odpad filamentu u komplexních vícebarevných modelů až o 90 %."
+    ],
+    "tags": [
+      "Hardware",
+      "FDM",
+      "3D Printing",
+      "AtomForm",
+      "Sustainability",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "RAPID 2026: Demokratizace 3D tisku metodou Laser Powder Bed Fusion s firmou Mastrex",
+    "summary": "Aside from a quick mention in an episode of our Printing Money podcast, I didn&#8217;t know much about Mastrex. But when I heard that the U.S.-based company had developed a...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/IMG_3301-1024x768.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-27T12:00:38+00:00",
+    "url": "https://3dprint.com/325627/rapid-democratizing-metal-lpbf-mastrex/",
+    "forced_tags": [],
+    "title_en": "RAPID 2026: Democratizing Metal Laser Powder Bed Fusion 3D Printing with Mastrex",
+    "summary_bullets_en": [
+      "Mastrex is emerging as a key player in the metal additive manufacturing sector.",
+      "The company aims to democratize Laser Powder Bed Fusion (LPBF) technology.",
+      "Their new development promises to make high-end metal 3D printing more accessible.",
+      "The innovation was a highlight of the RAPID 2026 industry event."
+    ],
+    "summary_bullets_cs": [
+      "Kromě krátké zmínky v našem podcastu Printing Money jsem o společnosti Mastrex mnoho nevěděl.",
+      "Když jsem se však dozvěděl, že tato americká firma vyvinula novou technologii...",
+      "Jejich cílem je zpřístupnit 3D tisk kovů pomocí technologie Laser Powder Bed Fusion širšímu okruhu uživatelů."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "LPBF",
+      "Mastrex",
+      "RAPID 2026",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Design týdne: Cyklistické sedlo AERIS",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954624113/0/fabbaloo/default~Design-of-the-Week-AERIS-Bike-Saddle\" rel=\"nofollow\" title=\"Design of the Week: AERIS Bike Saddle\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/AERIS-cover-300x164.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>This week’s selection is the AERIS bike saddle by Mahdi Naïm Studio.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954624113/0/fabbaloo/default~Design-of-the-Week-AERIS-Bike-Saddle\" rel=\"nofollow\">Design of the Week: AERIS Bike Saddle</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/AERIS-cover-300x164.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-27T11:06:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954624113/0/fabbaloo/default~Design-of-the-Week-AERIS-Bike-Saddle",
+    "forced_tags": [],
+    "title_en": "Design of the Week: AERIS Bike Saddle",
+    "summary_bullets_en": [
+      "Mahdi Naïm Studio has unveiled the AERIS bike saddle as the featured design of the week.",
+      "The project highlights innovative approaches to bicycle component design.",
+      "The saddle showcases how advanced manufacturing techniques can be applied to cycling ergonomics."
+    ],
+    "summary_bullets_cs": [
+      "Studio Mahdi Naïm představilo cyklistické sedlo AERIS jako design týdne.",
+      "Projekt vyzdvihuje inovativní přístupy k navrhování komponentů pro jízdní kola.",
+      "Sedlo ukazuje, jak lze pokročilé výrobní techniky aplikovat na ergonomii v cyklistice."
+    ],
+    "tags": [
+      "Hardware",
+      "Design",
+      "Cycling",
+      "Mahdi Naïm Studio",
+      "AERIS"
+    ]
+  },
+  {
+    "title": "Společnost Colibrium Additive získala zakázku od NAVAIR na urychlení certifikace kovového 3D tisku",
+    "summary": "The U.S. Naval Air Systems Command (NAVAIR) has awarded Colibrium Additive, a subsidiary of GE Aerospace, a $31 million contract as part of its Additive Manufacturing Capability initiative. The program targets a persistent challenge in military aviation: accelerating the testing, qualification, and certification of metal additively manufactured components to keep fleet aircraft mission-ready. Building the&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/collibrium-additive-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-27T10:30:57+00:00",
+    "url": "https://3dprintingindustry.com/news/colibrium-additive-secures-navair-deal-to-advance-metal-am-certification-250961/?utm_source=rss&utm_medium=rss&utm_campaign=colibrium-additive-secures-navair-deal-to-advance-metal-am-certification",
+    "forced_tags": [],
+    "title_en": "Colibrium Additive Secures NAVAIR Deal to Advance Metal AM Certification",
+    "summary_bullets_en": [
+      "Colibrium Additive, a GE Aerospace subsidiary, won a $31 million contract from the U.S. Naval Air Systems Command (NAVAIR).",
+      "The initiative focuses on accelerating the qualification and certification process for metal 3D printed aerospace components.",
+      "The goal is to improve military fleet readiness by streamlining the integration of additive manufacturing into aviation maintenance."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Colibrium Additive, dceřiná firma GE Aerospace, získala od amerického velitelství námořních leteckých systémů (NAVAIR) kontrakt v hodnotě 31 milionů dolarů.",
+      "Program se zaměřuje na urychlení testování, kvalifikace a certifikace kovových komponentů vyrobených aditivní technologií.",
+      "Cílem iniciativy je zajistit připravenost vojenských letadel k misím prostřednictvím efektivnějšího využívání 3D tisku v letectví."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Colibrium Additive",
+      "GE Aerospace",
+      "NAVAIR",
+      "Metal AM",
+      "Aerospace"
+    ]
+  },
+  {
+    "title": "Společnost ICON spouští divizi ICON Prime pro rozvoj 3D tištěných staveb pro armádu a vesmírnou infrastrukturu",
+    "summary": "ICON, a U.S.-based developer of robotic construction technologies and large-scale 3D printing systems, has announced the launch of ICON Prime, a dedicated defense and space-focused business unit. The new division is intended to deploy ICON’s additive construction systems for U.S. military infrastructure and NASA-led space programs, while supporting the company’s expansion into government and national&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/image-3-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-27T10:29:34+00:00",
+    "url": "https://3dprintingindustry.com/news/icon-launches-icon-prime-defense-unit-to-scale-3d-printed-construction-for-military-and-space-infrastructure-250986/?utm_source=rss&utm_medium=rss&utm_campaign=icon-launches-icon-prime-defense-unit-to-scale-3d-printed-construction-for-military-and-space-infrastructure",
+    "forced_tags": [],
+    "title_en": "ICON launches ICON Prime defense unit to scale 3D printed construction for military and space infrastructure",
+    "summary_bullets_en": [
+      "ICON has established a new division called ICON Prime, specifically targeting defense and space sectors.",
+      "The unit aims to utilize the company's large-scale 3D printing technology for U.S. military infrastructure projects.",
+      "ICON Prime will also collaborate on NASA-led space initiatives, focusing on extraterrestrial construction.",
+      "This move marks a strategic expansion of ICON's additive manufacturing capabilities into government and national security markets."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ICON, americký vývojář robotických stavebních technologií, oznámila vznik divize ICON Prime zaměřené na obranu a vesmír.",
+      "Nová divize má za úkol nasadit systémy aditivní výroby pro potřeby infrastruktury americké armády a vesmírné programy pod vedením NASA.",
+      "Tento krok představuje strategickou expanzi společnosti do vládního sektoru a národní bezpečnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "ICON",
+      "ICON Prime",
+      "NASA",
+      "3D Construction",
+      "Defense",
+      "Space Exploration"
+    ]
+  },
+  {
+    "title": "AMA Energy Insights: Lithoz a Evove nově definují těžbu lithia pomocí SeparonicsTM",
+    "summary": "With AMA: Energy 2026 just around the corner, 3D Printing Industry is taking a closer look at the role of additive manufacturing in the energy sector. Lithium demand is accelerating as electric vehicles and grid-scale energy storage become pillars of the global energy transiton. Yet much of today’s lithium supply still depends on brine extraction methods that&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/4-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-27T10:29:11+00:00",
+    "url": "https://3dprintingindustry.com/news/ama-energy-insights-lithoz-and-evove-redefine-lithium-extraction-with-separonicstm-250779/?utm_source=rss&utm_medium=rss&utm_campaign=ama-energy-insights-lithoz-and-evove-redefine-lithium-extraction-with-separonicstm",
+    "forced_tags": [],
+    "title_en": "AMA Energy Insights: Lithoz and Evove Redefine Lithium Extraction with SeparonicsTM",
+    "summary_bullets_en": [
+      "Lithoz and Evove are leveraging additive manufacturing to revolutionize lithium extraction processes.",
+      "The new SeparonicsTM technology addresses the inefficiencies of traditional brine extraction methods.",
+      "This innovation is critical for meeting the surging global demand for lithium in EVs and energy storage.",
+      "The collaboration highlights the growing strategic importance of 3D printing in the energy transition sector."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti Lithoz a Evove využívají aditivní výrobu k revoluci v procesech těžby lithia.",
+      "Nová technologie SeparonicsTM řeší neefektivitu tradičních metod těžby ze solanky.",
+      "Tato inovace je klíčová pro uspokojení rostoucí globální poptávky po lithiu pro elektromobily a skladování energie.",
+      "Spolupráce podtrhuje rostoucí strategický význam 3D tisku v sektoru energetické transformace."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Lithoz",
+      "Evove",
+      "Separonics",
+      "Energy",
+      "Lithium Extraction",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "AMUG ocenila šest lídrů v aditivní výrobě cenou DINO 2026",
+    "summary": "The Additive Manufacturing Users Group (AMUG) has named six new recipients of its DINO (Distinguished INnovator Operator) Award, one of the industry&#8217;s most recognized honors for long-term contribution and community service. The announcements were made at the 37th annual AMUG Conference, held March 15–19, 2026, in Reno, Nevada. The DINO Award is not given for&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/1776774587065-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-04-27T10:27:27+00:00",
+    "url": "https://3dprintingindustry.com/news/amug-honors-six-additive-manufacturing-leaders-with-2026-dino-award-250966/?utm_source=rss&utm_medium=rss&utm_campaign=amug-honors-six-additive-manufacturing-leaders-with-2026-dino-award",
+    "forced_tags": [],
+    "title_en": "AMUG Honors Six Additive Manufacturing Leaders with 2026 DINO Award",
+    "summary_bullets_en": [
+      "The Additive Manufacturing Users Group (AMUG) awarded six industry leaders with the prestigious DINO Award.",
+      "The recognition highlights long-term contributions and dedicated service to the additive manufacturing community.",
+      "The awards were presented during the 37th annual AMUG Conference held in Reno, Nevada, in March 2026."
+    ],
+    "summary_bullets_cs": [
+      "Skupina uživatelů aditivní výroby (AMUG) udělila šesti lídrům v oboru prestižní ocenění DINO.",
+      "Toto uznání vyzdvihuje dlouhodobý přínos a obětavou práci pro komunitu v oblasti 3D tisku.",
+      "Ceny byly předány během 37. ročníku konference AMUG, která se konala v březnu 2026 v Renu v Nevadě."
+    ],
+    "tags": [
+      "Services",
+      "Additive Manufacturing",
+      "AMUG",
+      "DINO Award",
+      "Industry Recognition",
+      "3D Printing Community"
+    ]
+  },
+  {
+    "title": "AMA: Energetické poznatky – Nanoe nastiňuje příležitosti keramického 3D tisku pro nové energetické aplikace",
+    "summary": "As the AMA:Energy conference returns this week to focus on qualified parts, real-world deployment, and energy-sector constraints, ceramic additive manufacturing is becoming increasingly relevant to these discussions. At the AMA: Energy 2025, speakers highlighted the challenges of moving beyond prototyping toward certified components capable of operating in extreme environments. In this context, Nanoe presented its&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/4-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-04-27T09:59:59+00:00",
+    "url": "https://3dprintingindustry.com/news/ama-energy-insights-nanoe-outlines-ceramic-additive-manufacturing-opportunities-for-new-energy-applications-250901/?utm_source=rss&utm_medium=rss&utm_campaign=ama-energy-insights-nanoe-outlines-ceramic-additive-manufacturing-opportunities-for-new-energy-applications",
+    "forced_tags": [],
+    "title_en": "AMA: Energy Insights Nanoe outlines ceramic additive manufacturing opportunities for new energy applications",
+    "summary_bullets_en": [
+      "The AMA: Energy 2025 conference focuses on transitioning from prototypes to certified, real-world components for the energy sector.",
+      "Ceramic additive manufacturing is gaining traction as a key solution for operating in extreme energy environments.",
+      "Nanoe showcased its latest advancements and strategic opportunities for ceramic materials in new energy applications.",
+      "Industry experts emphasized the importance of meeting strict qualification standards and overcoming sector-specific constraints."
+    ],
+    "summary_bullets_cs": [
+      "Konference AMA: Energy 2025 se zaměřuje na přechod od prototypů k certifikovaným komponentům pro reálné nasazení v energetice.",
+      "Keramický 3D tisk se stává stále důležitějším řešením pro provoz v extrémních energetických podmínkách.",
+      "Společnost Nanoe představila své nejnovější pokroky a strategické příležitosti pro keramické materiály v nových energetických aplikacích.",
+      "Odborníci zdůraznili nutnost splnění přísných kvalifikačních norem a překonání specifických omezení v tomto odvětví."
+    ],
+    "tags": [
+      "Material",
+      "Ceramic Additive Manufacturing",
+      "Nanoe",
+      "AMA: Energy",
+      "Energy Sector"
+    ]
+  },
+  {
+    "title": "Rotační 3D tisk umožňuje vytvářet programovatelné mřížky měnící tvar",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/954615233/0/fabbaloo/default~Rotational-D-Printing-Can-Create-Programmable-Shape-Morphing-Lattices\" rel=\"nofollow\" title=\"Rotational 3D Printing Can Create Programmable Shape Morphing Lattices\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/rotational-4d-cover-300x201.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers developed a rotational 3D printing method that builds lattices with programmable shape morphing, an advance that could quickly advance 4D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954615233/0/fabbaloo/default~Rotational-D-Printing-Can-Create-Programmable-Shape-Morphing-Lattices\" rel=\"nofollow\">Rotational 3D Printing Can Create Programmable Shape Morphing Lattices</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/rotational-4d-cover-300x201.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-04-27T08:34:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/954615233/0/fabbaloo/default~Rotational-D-Printing-Can-Create-Programmable-Shape-Morphing-Lattices",
+    "forced_tags": [],
+    "title_en": "Rotational 3D Printing Can Create Programmable Shape Morphing Lattices",
+    "summary_bullets_en": [
+      "Researchers have introduced a novel rotational 3D printing technique for creating complex lattice structures.",
+      "These structures are capable of programmable shape morphing, allowing them to change form on demand.",
+      "This breakthrough represents a significant step forward in the field of 4D printing technology.",
+      "The method enables precise control over material behavior, opening new possibilities for adaptive engineering."
+    ],
+    "summary_bullets_cs": [
+      "Vědci vyvinuli novou metodu rotačního 3D tisku pro tvorbu komplexních mřížkových struktur.",
+      "Tyto struktury jsou schopny programovatelné změny tvaru, což jim umožňuje měnit podobu podle potřeby.",
+      "Tento pokrok představuje významný krok vpřed v oblasti technologie 4D tisku.",
+      "Metoda umožňuje přesnou kontrolu nad chováním materiálu a otevírá nové možnosti pro adaptivní inženýrství."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "4D Printing",
+      "Lattice Structures",
+      "Shape Morphing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Většina uživatelů 3D tiskáren ještě 3D tisk vlastně nepoužila",
+    "summary": "3DP War Journal #95",
+    "image": "https://substackcdn.com/image/fetch/$s_!0elo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd11b93be-8c65-4b0c-b961-1721418fac93_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-04-27T08:01:04+00:00",
+    "url": "https://www.3dprintingjournal.com/p/most-3d-printer-users-havent-used",
+    "forced_tags": [],
+    "title_en": "Most 3D printer users haven’t used 3D printing yet",
+    "summary_bullets_en": [
+      "The article highlights a paradox where many individuals own 3D printers but rarely utilize them for actual production.",
+      "It explores the gap between the initial excitement of purchasing hardware and the technical barriers that prevent consistent usage.",
+      "The author suggests that the industry needs to focus more on user experience and accessibility to turn owners into active makers."
+    ],
+    "summary_bullets_cs": [
+      "Článek poukazuje na paradox, kdy mnoho lidí vlastní 3D tiskárnu, ale téměř ji nevyužívají k reálné výrobě.",
+      "Zkoumá propast mezi počátečním nadšením z koupě hardwaru a technickými překážkami, které brání pravidelnému používání.",
+      "Autor naznačuje, že se průmysl musí více zaměřit na uživatelskou přívětivost a dostupnost, aby se z majitelů stali aktivní tvůrci."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "3D Printing Industry",
+      "User Experience",
+      "Consumer Electronics"
+    ]
+  },
+  {
+    "title": "Společnost VBN Components využívá slinutý karbid pro kalová čerpadla",
+    "summary": "Swedish firm VBN Components has been making high-performance, high-wear additive powders for a number of years now. Usually working with high-carbide-content materials, the company has brought the hardest 3D printing...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/07/VBN-Components.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-27T07:30:04+00:00",
+    "url": "https://3dprint.com/325497/vbn-components-used-for-cemented-carbide-slurry-pumps/",
+    "forced_tags": [],
+    "title_en": "VBN Components Used for Cemented Carbide Slurry Pumps",
+    "summary_bullets_en": [
+      "Swedish company VBN Components specializes in high-performance, wear-resistant additive manufacturing powders.",
+      "The firm focuses on materials with high carbide content to enhance component durability.",
+      "They have successfully introduced some of the hardest 3D printing materials currently available on the market.",
+      "These advanced materials are now being utilized for the production of industrial slurry pumps."
+    ],
+    "summary_bullets_cs": [
+      "Švédská firma VBN Components se již několik let specializuje na vysoce výkonné prášky pro aditivní výrobu odolné proti opotřebení.",
+      "Společnost se zaměřuje na materiály s vysokým obsahem karbidů, které zvyšují životnost komponentů.",
+      "Na trh přinesli jedny z nejtvrdších materiálů pro 3D tisk, jaké jsou v současnosti dostupné.",
+      "Tyto pokročilé materiály jsou nyní využívány při výrobě průmyslových kalových čerpadel."
+    ],
+    "tags": [
+      "Material",
+      "Hardware",
+      "VBN Components",
+      "Additive Manufacturing",
+      "Cemented Carbide",
+      "Industrial Pumps"
+    ]
+  },
+  {
+    "title": "Společnost LOOP 3D představila 3D tiskárnu navrženou pro maximální průmyslové využití",
+    "summary": "LOOP 3D has released the LOOP PRO X+ TURBO Gen2. This version has been improved to meet the needs of manufacturing clients. The printer is meant to be a production unit...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/Image-10.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-04-27T07:00:55+00:00",
+    "url": "https://3dprint.com/325565/loop-3d-reveals-the-loop-pro-x-turbo-gen2/",
+    "forced_tags": [],
+    "title_en": "LOOP 3D Reveals 3D Printer Designed for Industrial Uptime",
+    "summary_bullets_en": [
+      "LOOP 3D launched the LOOP PRO X+ TURBO Gen2, an upgraded 3D printer.",
+      "The machine is specifically engineered to meet the high-demand requirements of industrial manufacturing.",
+      "The focus of this new generation is to maximize production uptime and reliability.",
+      "It serves as a dedicated production unit for professional manufacturing environments."
+    ],
+    "summary_bullets_cs": [
+      "Společnost LOOP 3D uvedla na trh vylepšenou 3D tiskárnu LOOP PRO X+ TURBO Gen2.",
+      "Stroj byl speciálně zkonstruován tak, aby splňoval náročné požadavky průmyslové výroby.",
+      "Hlavním cílem této nové generace je maximalizace provozuschopnosti a spolehlivosti při výrobě.",
+      "Tiskárna je určena jako plnohodnotná výrobní jednotka pro profesionální prostředí."
+    ],
+    "tags": [
+      "Hardware",
+      "LOOP 3D",
+      "LOOP PRO X+ TURBO Gen2",
+      "Industrial 3D Printing",
+      "Manufacturing"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 26. dubna 2026",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/954556811/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-April\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, April 26, 2026\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/biggest-cover-300x171.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954556811/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-April\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, April 26, 2026</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/biggest-cover-300x171.jpg",
