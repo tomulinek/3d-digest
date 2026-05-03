@@ -1,5 +1,66 @@
 [
   {
+    "title": "Novinky ze světa 3D tisku, 2. května 2026: Měkká robotika, zemědělský odpad a další",
+    "summary": "In this weekend&#8217;s 3D Printing News Briefs, we&#8217;ll start off with a multi-laser metal powder bed fusion 3D printer and post-processing news. We&#8217;ll end with research into soft robotics and...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/1-1024x768.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-02T12:30:03+00:00",
+    "url": "https://3dprint.com/325763/3d-printing-news-briefs-may-2-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, May 2, 2026: Soft Robots, Agricultural Waste, & More",
+    "summary_bullets_en": [
+      "Introduction of a new multi-laser metal powder bed fusion 3D printer.",
+      "Updates regarding the latest advancements in post-processing technologies.",
+      "Exploration of innovative research focused on soft robotics.",
+      "Utilization of agricultural waste materials in additive manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "Představení nového 3D tiskárny pro tavení kovového prášku v loži s více lasery.",
+      "Aktuality ohledně nejnovějších pokroků v technologiích následného zpracování (post-processingu).",
+      "Výzkum zaměřený na inovativní oblast měkké robotiky.",
+      "Využití zemědělského odpadu jako materiálu pro procesy aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Research",
+      "Metal 3D Printing",
+      "Soft Robotics",
+      "Sustainability"
+    ]
+  },
+  {
+    "title": "Video ukázka z české praxe: 3D tisk při laserovém svařování",
+    "summary": "Krátká ukázka z praxe: jak 3D tisk pomáhá rychle vyrobit přesné pomůcky a držáky pro konkrétní pracoviště, včetně laserového svařování.",
+    "image": "https://blog.aditivni.cz/_astro/3d-tisk-laserove-svarovani.4mqBlxpf.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-05-01T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/3d-tisk-prumyslova-praxe-laserove-svarovani/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Video Showcase from Czech Industry: 3D Printing in Laser Welding",
+    "summary_bullets_en": [
+      "Practical demonstration of 3D printing integration in industrial workflows.",
+      "Focus on rapid production of custom jigs and fixtures for specific workstations.",
+      "Highlighting the efficiency of additive manufacturing in laser welding processes."
+    ],
+    "summary_bullets_cs": [
+      "Praktická ukázka integrace 3D tisku do průmyslových procesů.",
+      "Zaměřeno na rychlou výrobu zakázkových přípravků a držáků pro konkrétní pracoviště.",
+      "Představení efektivity aditivní výroby při operacích laserového svařování."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Printing",
+      "Laser Welding",
+      "Industrial Automation",
+      "Jigs and Fixtures",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Evropský soud zamítl žádost společnosti Stratasys o předběžné opatření proti Bambu Lab",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/954981353/0/fabbaloo/default~European-Court-Denies-Stratasys-Injunction-Request-Against-Bambu-Lab\" rel=\"nofollow\" title=\"European Court Denies Stratasys Injunction Request Against Bambu Lab\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2025/11/h2c-release-cover-300x219.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The Stratasys / Bambu Lab patent dispute continues — in Europe. Readers may recall that in 2024, Stratasys launched a patent infringement lawsuit against Bambu Lab. We suspected at the time that Stratasys may have believed that Bambu Lab was cutting into their business, and therefore it was time to leverage the several patents Stratasys&#8230; <a class=\"more-link\" href=\"https://feeds.fabbaloo.com/~/954981353/0/fabbaloo/default~European-Court-Denies-Stratasys-Injunction-Request-Against-Bambu-Lab\" rel=\"nofollow\">Continue reading <span class=\"screen-reader-text\">European Court Denies Stratasys Injunction Request Against Bambu Lab</span></a></p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/954981353/0/fabbaloo/default~European-Court-Denies-Stratasys-Injunction-Request-Against-Bambu-Lab\" rel=\"nofollow\">European Court Denies Stratasys Injunction Request Against Bambu Lab</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2025/11/h2c-release-cover-300x219.jpg",
