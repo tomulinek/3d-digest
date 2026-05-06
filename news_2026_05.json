@@ -1,5 +1,532 @@
 [
   {
+    "title": "America Makes spouští dvě výzvy pro projekty aditivní výroby v hodnotě 25,6 milionu dolarů",
+    "summary": "America Makes, a US public-private partnership focused on additive manufacturing, and the National Center for Defense Manufacturing and Machining (NCDMM) have announced two project calls worth a combined $25.6 million. The funding is split between the $12.4 million Maturation Initiative for Additive Metals Interchangeability (MIAMI) and the $13.2 million INtegrated System for In-situ Testing &#38;&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/04/videoStill-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-05-05T17:28:42+00:00",
+    "url": "https://3dprintingindustry.com/news/america-makes-launches-two-additive-manufacturing-project-calls-worth-25-6m-251229/?utm_source=rss&utm_medium=rss&utm_campaign=america-makes-launches-two-additive-manufacturing-project-calls-worth-25-6m",
+    "forced_tags": [],
+    "title_en": "America Makes Launches Two Additive Manufacturing Project Calls Worth $25.6M",
+    "summary_bullets_en": [
+      "America Makes and NCDMM have announced two new project calls totaling $25.6 million in funding.",
+      "The $12.4 million MIAMI initiative focuses on the maturation and interchangeability of additive metals.",
+      "The remaining $13.2 million is allocated to the INtegrated System for In-situ Testing project.",
+      "These initiatives aim to advance additive manufacturing capabilities for industrial and defense applications."
+    ],
+    "summary_bullets_cs": [
+      "Organizace America Makes a NCDMM oznámily dvě nové projektové výzvy s celkovou dotací 25,6 milionu dolarů.",
+      "Iniciativa MIAMI v hodnotě 12,4 milionu dolarů se zaměřuje na vyspělost a zaměnitelnost aditivních kovů.",
+      "Zbývajících 13,2 milionu dolarů je určeno pro projekt integrovaného systému pro testování in-situ.",
+      "Cílem těchto iniciativ je posunout možnosti aditivní výroby pro průmyslové a obranné účely."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "America Makes",
+      "NCDMM",
+      "Additive Manufacturing",
+      "Metal 3D Printing",
+      "In-situ Testing"
+    ]
+  },
+  {
+    "title": "Společnost Rosswag instaluje systém Eplus3D v rámci nového partnerství v oblasti kovového 3D tisku",
+    "summary": "Eplus3D, a manufacturer of industrial metal additive manufacturing systems, Rosswag Engineering, the additive manufacturing division of German metal processing company Rosswag GmbH, and qualloy, a supplier and marketplace for metal powders used in additive manufacturing, have signed a memorandum of understanding to jointly advance next-generation metal additive manufacturing systems and supply chains. As part of&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/Poster-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-05-05T17:26:52+00:00",
+    "url": "https://3dprintingindustry.com/news/rosswag-to-install-eplus3d-system-under-new-metal-am-partnership-251234/?utm_source=rss&utm_medium=rss&utm_campaign=rosswag-to-install-eplus3d-system-under-new-metal-am-partnership",
+    "forced_tags": [],
+    "title_en": "Rosswag to install Eplus3D system under new metal AM partnership",
+    "summary_bullets_en": [
+      "Eplus3D, Rosswag Engineering, and qualloy have formed a strategic partnership to advance metal additive manufacturing.",
+      "The collaboration focuses on developing next-generation metal AM systems and optimizing supply chains.",
+      "Rosswag will integrate a new Eplus3D metal printing system into its production facility.",
+      "The partnership aims to leverage collective expertise in hardware, engineering, and metal powder supply."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce průmyslových systémů pro 3D tisk kovů Eplus3D, divize Rosswag Engineering a dodavatel kovových prášků qualloy podepsali memorandum o spolupráci.",
+      "Cílem partnerství je společný rozvoj systémů pro 3D tisk kovů nové generace a optimalizace dodavatelských řetězců.",
+      "Součástí dohody je instalace nového systému Eplus3D v provozech společnosti Rosswag."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Material",
+      "Eplus3D",
+      "Rosswag Engineering",
+      "qualloy",
+      "Metal AM"
+    ]
+  },
+  {
+    "title": "Společnost Chromatic 3D Materials dosáhla průlomu v oblasti 3D tištěného raketového paliva",
+    "summary": "Chromatic 3D Materials, a company developing additively manufactured elastomeric and propulsion materials, has announced successful prototype printing and static fire testing of its 3D printed rocket propellant at the Integrated Solutions for Systems (IS4S) test range in Opelika, Alabama. Tests showed the material sustained combustion pressures above 1,800 psi without structural failure, marking a milestone&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/IS4STestPictureforPressRelease-4.2026-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-05-05T17:26:36+00:00",
+    "url": "https://3dprintingindustry.com/news/chromatic-3d-materials-achieves-breakthrough-in-3d-printed-rocket-propellant-251243/?utm_source=rss&utm_medium=rss&utm_campaign=chromatic-3d-materials-achieves-breakthrough-in-3d-printed-rocket-propellant",
+    "forced_tags": [],
+    "title_en": "Chromatic 3D Materials achieves breakthrough in 3D printed rocket propellant",
+    "summary_bullets_en": [
+      "Chromatic 3D Materials successfully printed and static-fire tested a new 3D printed rocket propellant.",
+      "The tests were conducted at the IS4S facility in Alabama, confirming the material's structural integrity.",
+      "The propellant withstood combustion pressures exceeding 1,800 psi, proving its viability for aerospace applications."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Chromatic 3D Materials úspěšně vytiskla a otestovala prototyp 3D tištěného raketového paliva při statickém zážehu.",
+      "Testy proběhly na střelnici IS4S v Alabamě a potvrdily strukturální integritu materiálu.",
+      "Palivo odolalo spalovacím tlakům přesahujícím 1 800 psi, což představuje významný milník pro využití v letectví a kosmonautice."
+    ],
+    "tags": [
+      "Material",
+      "Aerospace",
+      "3D Printing",
+      "Rocketry",
+      "Chromatic 3D Materials",
+      "IS4S"
+    ]
+  },
+  {
+    "title": "Prusa si patentuje automatizovaný pracovní postup pro resinový tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955323521/0/fabbaloo/default~Prusa-Patents-Automated-Resin-Print-Workflow\" rel=\"nofollow\" title=\"Prusa Patents Automated Resin Print Workflow\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/prusa-resin-patent-cover-300x214.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A Czech patent application by Prusa Research proposes a more coordinated resin printing workflow built around shared process data.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955323521/0/fabbaloo/default~Prusa-Patents-Automated-Resin-Print-Workflow\" rel=\"nofollow\">Prusa Patents Automated Resin Print Workflow</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/prusa-resin-patent-cover-300x214.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-05T16:53:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955323521/0/fabbaloo/default~Prusa-Patents-Automated-Resin-Print-Workflow",
+    "forced_tags": [],
+    "title_en": "Prusa Patents Automated Resin Print Workflow",
+    "summary_bullets_en": [
+      "Prusa Research has filed a patent for a new, highly automated resin 3D printing workflow.",
+      "The system focuses on improving coordination by utilizing shared process data throughout the printing cycle.",
+      "This innovation aims to streamline the resin printing experience, potentially reducing manual intervention."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Prusa Research podala patentovou přihlášku na nový, vysoce automatizovaný pracovní postup pro 3D tisk z resinu.",
+      "Systém se zaměřuje na lepší koordinaci celého procesu díky využívání sdílených dat o tisku.",
+      "Tato inovace má za cíl zefektivnit proces resinového tisku a potenciálně snížit potřebu manuálních zásahů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Prusa Research",
+      "Resin Printing",
+      "Automation",
+      "Patent"
+    ]
+  },
+  {
+    "title": "Britská služba mění odpad z desktopového 3D tisku na filament",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955319000/0/fabbaloo/default~UK-Service-Turns-Desktop-D-Printing-Waste-Into-Filament\" rel=\"nofollow\" title=\"UK Service Turns Desktop 3D Printing Waste Into Filament\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/3d-printing-waste-cover-300x188.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A UK company provides a regional recycling loop for desktop 3D printing waste.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955319000/0/fabbaloo/default~UK-Service-Turns-Desktop-D-Printing-Waste-Into-Filament\" rel=\"nofollow\">UK Service Turns Desktop 3D Printing Waste Into Filament</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/3d-printing-waste-cover-300x188.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-05T15:39:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955319000/0/fabbaloo/default~UK-Service-Turns-Desktop-D-Printing-Waste-Into-Filament",
+    "forced_tags": [],
+    "title_en": "UK Service Turns Desktop 3D Printing Waste Into Filament",
+    "summary_bullets_en": [
+      "A UK-based company has launched a new service to address the growing issue of desktop 3D printing waste.",
+      "The initiative creates a regional recycling loop by collecting plastic waste from users.",
+      "Collected waste is processed and transformed back into usable 3D printing filament.",
+      "This service promotes a circular economy within the local 3D printing community."
+    ],
+    "summary_bullets_cs": [
+      "Britská společnost spustila novou službu, která řeší narůstající problém s odpadem z desktopového 3D tisku.",
+      "Iniciativa vytváří regionální recyklační smyčku sběrem plastového odpadu od uživatelů.",
+      "Sesbíraný odpad je zpracován a přeměněn zpět na použitelný filament pro 3D tisk.",
+      "Tato služba podporuje cirkulární ekonomiku v rámci místní komunity 3D tiskařů."
+    ],
+    "tags": [
+      "Services",
+      "Material",
+      "Sustainability",
+      "Recycling",
+      "3D Printing",
+      "Filament"
+    ]
+  },
+  {
+    "title": "Společnost Titomic získala objednávku na systém studeného nástřiku ISB-11 od Iowa State University",
+    "summary": "Titomic Limited, an Australian cold spray additive manufacturing company listed on the ASX as TTT, has received a purchase order from Iowa State University for a Titomic 623 ISB-11 system. Part of its turnkey Integrated Spray Booth solutions, the equipment will support research and development at the university. Students and researchers are expected to use&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/T-Blog-Post-Image-Iowa-State-University-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-05-05T15:11:26+00:00",
+    "url": "https://3dprintingindustry.com/news/titomic-receives-iowa-state-university-order-for-isb-11-cold-spray-system-251248/?utm_source=rss&utm_medium=rss&utm_campaign=titomic-receives-iowa-state-university-order-for-isb-11-cold-spray-system",
+    "forced_tags": [],
+    "title_en": "Titomic receives Iowa State University order for ISB-11 cold spray system",
+    "summary_bullets_en": [
+      "Australian company Titomic Limited has secured an order for its ISB-11 cold spray system from Iowa State University.",
+      "The equipment is part of Titomic's turnkey Integrated Spray Booth solutions designed for industrial and research applications.",
+      "The system will be utilized by students and researchers at the university to advance additive manufacturing R&D."
+    ],
+    "summary_bullets_cs": [
+      "Australská společnost Titomic Limited obdržela objednávku na systém studeného nástřiku (cold spray) ISB-11 od Iowa State University.",
+      "Zařízení je součástí řešení „Integrated Spray Booth“ na klíč, které je určeno pro průmyslové a výzkumné účely.",
+      "Systém budou využívat studenti a vědci na univerzitě k podpoře výzkumu a vývoje v oblasti aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "Cold Spray",
+      "Titomic",
+      "Iowa State University",
+      "R&D"
+    ]
+  },
+  {
+    "title": "Finanční výsledky 3D tisku: Růst společnosti Align pohání objem výroby",
+    "summary": "Align Technology (Nasdaq: ALGN) kicked off 2026 with steady financial results, with most of the growth coming from its core high-volume 3D printing business. The maker of Invisalign reported first-quarter...",
+    "image": "https://3dprint.com/wp-content/uploads/2024/01/1703016620187-e1704398495363.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-05T13:30:13+00:00",
+    "url": "https://3dprint.com/325735/3d-printing-financials-aligns-growth-runs-on-volume/",
+    "forced_tags": [],
+    "title_en": "3D Printing Financials: Align’s Growth Runs on Volume",
+    "summary_bullets_en": [
+      "Align Technology reported stable financial results for the first quarter of 2026.",
+      "The company's growth is primarily driven by its high-volume 3D printing operations.",
+      "As the manufacturer of Invisalign, Align continues to leverage additive manufacturing for its core business model."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Align Technology vykázala za první čtvrtletí roku 2026 stabilní finanční výsledky.",
+      "Růst firmy je tažen především jejími velkoobjemovými operacemi v oblasti 3D tisku.",
+      "Výrobce systému Invisalign nadále využívá aditivní výrobu jako klíčový pilíř svého obchodního modelu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Align Technology",
+      "Invisalign",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "UltiMaker vylepšuje výkon tiskáren S6 a S8",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955307048/0/fabbaloo/default~UltiMaker-Enhances-S-and-S-Performance\" rel=\"nofollow\" title=\"UltiMaker Enhances S6 and S8 Performance\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/ultimaker-cheetah-upgrade-cover-300x173.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>UltiMaker just announced some interesting upgrades for their S6 and S8 3D printers.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955307048/0/fabbaloo/default~UltiMaker-Enhances-S-and-S-Performance\" rel=\"nofollow\">UltiMaker Enhances S6 and S8 Performance</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/ultimaker-cheetah-upgrade-cover-300x173.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-05T13:19:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955307048/0/fabbaloo/default~UltiMaker-Enhances-S-and-S-Performance",
+    "forced_tags": [],
+    "title_en": "UltiMaker Enhances S6 and S8 Performance",
+    "summary_bullets_en": [
+      "UltiMaker has officially announced new performance upgrades for their S6 and S8 3D printer models.",
+      "These improvements aim to boost the efficiency and reliability of the existing S-series hardware.",
+      "The update reflects the company's ongoing commitment to supporting their professional user base."
+    ],
+    "summary_bullets_cs": [
+      "Společnost UltiMaker oznámila nová vylepšení výkonu pro své 3D tiskárny modelových řad S6 a S8.",
+      "Tato vylepšení jsou zaměřena na zvýšení efektivity a spolehlivosti stávajícího hardwaru řady S.",
+      "Aktualizace potvrzuje dlouhodobý závazek společnosti podporovat svou profesionální uživatelskou základnu."
+    ],
+    "tags": [
+      "Hardware",
+      "UltiMaker",
+      "3D Printing",
+      "S-series",
+      "Performance Upgrade"
+    ]
+  },
+  {
+    "title": "Společnost Phillips Federal se účastní cvičení námořní pěchoty",
+    "summary": "Phillips Federal will participate in a Marine Corps exercise that will use several additive manufacturing technologies. The 1st Maintenance Battalion, 1st Marine Logistics Group, I Marine Expeditionary Force (IMEF), will...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/260406-M-OR796-1001-1024x576.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-05T13:00:02+00:00",
+    "url": "https://3dprint.com/325782/phillips-federal-participates-in-marine-corps-exercise/",
+    "forced_tags": [],
+    "title_en": "Phillips Federal Participates in Marine Corps Exercise",
+    "summary_bullets_en": [
+      "Phillips Federal is joining a Marine Corps exercise to demonstrate advanced additive manufacturing capabilities.",
+      "The collaboration involves the 1st Maintenance Battalion of the 1st Marine Logistics Group.",
+      "The initiative focuses on integrating 3D printing technologies into expeditionary military operations.",
+      "The exercise aims to enhance field maintenance and logistics efficiency through on-demand manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Phillips Federal se zapojí do cvičení námořní pěchoty, kde využije několik technologií aditivní výroby.",
+      "Na cvičení se podílí 1. prapor údržby, 1. skupina logistiky námořní pěchoty a I. expediční síly námořní pěchoty (IMEF).",
+      "Cílem je integrace 3D tisku do expedičních vojenských operací pro zvýšení efektivity údržby v terénu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Phillips Federal",
+      "Marine Corps",
+      "Additive Manufacturing",
+      "Defense"
+    ]
+  },
+  {
+    "title": "3Dnatives oznamuje ADDITIV Defense 2026: Globální virtuální summit o roli aditivní výroby v připravenosti armády",
+    "summary": "3Dnatives is proud to announce the inaugural edition of ADDITIV Defense, a global virtual summit dedicated to additive manufacturing in military and defense environments. The free event takes place on...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/850-150-p.gif",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-05T12:30:59+00:00",
+    "url": "https://3dprint.com/325764/3dnatives-additiv-defense-2026-a-global-virtual-summit-on-additive-manufacturings-role-in-military-readiness/",
+    "forced_tags": [],
+    "title_en": "3Dnatives Announces ADDITIV Defense 2026: A Global Virtual Summit on Additive Manufacturing’s Role in Military Readiness",
+    "summary_bullets_en": [
+      "3Dnatives is launching the first edition of ADDITIV Defense, a virtual summit focused on 3D printing in the military sector.",
+      "The event explores how additive manufacturing enhances military readiness and defense supply chains.",
+      "The summit is free to attend and brings together global experts to discuss the future of defense-related manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "3Dnatives spouští první ročník ADDITIV Defense, virtuálního summitu zaměřeného na 3D tisk ve vojenském sektoru.",
+      "Akce zkoumá, jak aditivní výroba zvyšuje připravenost armády a efektivitu obranných dodavatelských řetězců.",
+      "Summit je zdarma a sdružuje globální experty, aby diskutovali o budoucnosti výroby v obranném průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "3Dnatives",
+      "ADDITIV Defense",
+      "Additive Manufacturing",
+      "Defense Industry"
+    ]
+  },
+  {
+    "title": "Společnost Chromatic 3D Materials bude vyrábět raketové palivo",
+    "summary": "Chromatic 3D Materials makes cost-effective, tough elastomeric materials. Its process is being used to make industrial parts at scale. Now the film has turned into rocket propellant. The firm is...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/chromatic3d2.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-05T12:00:39+00:00",
+    "url": "https://3dprint.com/325717/chromatic-3d-materials-to-make-rocket-propellant/",
+    "forced_tags": [],
+    "title_en": "Chromatic 3D Materials To Make Rocket Propellant",
+    "summary_bullets_en": [
+      "Chromatic 3D Materials specializes in producing durable, cost-effective elastomeric materials for industrial-scale manufacturing.",
+      "The company is expanding its technological reach by applying its 3D printing process to the development of rocket propellant.",
+      "This innovation aims to leverage additive manufacturing to improve the production and performance of aerospace propulsion systems."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Chromatic 3D Materials se specializuje na výrobu odolných a nákladově efektivních elastomerových materiálů pro průmyslovou výrobu.",
+      "Firma rozšiřuje své technologické možnosti využitím svého procesu 3D tisku při vývoji raketového paliva.",
+      "Tato inovace má za cíl využít aditivní výrobu ke zlepšení produkce a výkonu systémů raketového pohonu."
+    ],
+    "tags": [
+      "Material",
+      "Aerospace",
+      "3D Printing",
+      "Chromatic 3D Materials",
+      "Rocket Propellant",
+      "Elastomers"
+    ]
+  },
+  {
+    "title": "Technologie za příběhem: 3D tištěné kožní štěpy a svět Scarpetty",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955301789/0/fabbaloo/default~The-Technology-Behind-the-Story-D-Skin-Grafts-and-the-World-of-Scarpetta\" rel=\"nofollow\" title=\"The Technology Behind the Story: 3D Skin Grafts and the World of Scarpetta\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/Filename-_53-240x300.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"240\" /></a><p>Charles R. Goulding and Preeti Sulibhavi examine how 3D printed skin grafts are evolving from experimental research into practical tools for treating complex wounds.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955301789/0/fabbaloo/default~The-Technology-Behind-the-Story-D-Skin-Grafts-and-the-World-of-Scarpetta\" rel=\"nofollow\">The Technology Behind the Story: 3D Skin Grafts and the World of Scarpetta</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/Filename-_53-240x300.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-05T11:53:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955301789/0/fabbaloo/default~The-Technology-Behind-the-Story-D-Skin-Grafts-and-the-World-of-Scarpetta",
+    "forced_tags": [],
+    "title_en": "The Technology Behind the Story: 3D Skin Grafts and the World of Scarpetta",
+    "summary_bullets_en": [
+      "3D printed skin grafts are transitioning from experimental laboratory research to viable clinical applications.",
+      "The technology offers new possibilities for treating complex wounds that were previously difficult to manage.",
+      "Authors Charles R. Goulding and Preeti Sulibhavi explore the intersection of advanced bioprinting and medical storytelling.",
+      "The article highlights how modern additive manufacturing is reshaping the future of regenerative medicine."
+    ],
+    "summary_bullets_cs": [
+      "3D tištěné kožní štěpy se přesouvají z experimentálního laboratorního výzkumu do praktických klinických aplikací.",
+      "Tato technologie nabízí nové možnosti pro léčbu komplexních ran, které bylo dříve obtížné řešit.",
+      "Autoři Charles R. Goulding a Preeti Sulibhavi zkoumají průnik pokročilého biotisku a lékařského vyprávění.",
+      "Článek zdůrazňuje, jak moderní aditivní výroba přetváří budoucnost regenerativní medicíny."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Bioprinting",
+      "Medical 3D Printing",
+      "Regenerative Medicine",
+      "Skin Grafts"
+    ]
+  },
+  {
+    "title": "i-Tac: Inverzní design ladí optiku a haptiku 3D tištěných elastomerů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955289018/0/fabbaloo/default~iTac-Inverse-Design-Tunes-D-Printed-Elastomers%e2%80%99-Optics-And-Haptics\" rel=\"nofollow\" title=\"i-Tac Inverse Design Tunes 3D Printed Elastomers’ Optics And Haptics\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/i-tac-cover-300x132.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A research team has introduced i-Tac, an inverse-design workflow for 3D printed tactile elastomers that could streamline how designers prototype soft touch surfaces.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955289018/0/fabbaloo/default~iTac-Inverse-Design-Tunes-D-Printed-Elastomers%e2%80%99-Optics-And-Haptics\" rel=\"nofollow\">i-Tac Inverse Design Tunes 3D Printed Elastomers’ Optics And Haptics</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/i-tac-cover-300x132.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-05T08:24:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955289018/0/fabbaloo/default~iTac-Inverse-Design-Tunes-D-Printed-Elastomers%e2%80%99-Optics-And-Haptics",
+    "forced_tags": [],
+    "title_en": "i-Tac Inverse Design Tunes 3D Printed Elastomers’ Optics And Haptics",
+    "summary_bullets_en": [
+      "Researchers developed i-Tac, an innovative inverse-design workflow for 3D printed tactile elastomers.",
+      "The system allows designers to precisely tune both the optical and haptic properties of soft 3D printed surfaces.",
+      "This new method significantly streamlines the prototyping process for soft-touch materials and functional interfaces."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumný tým představil i-Tac, inovativní pracovní postup inverzního designu pro 3D tištěné hmatové elastomery.",
+      "Systém umožňuje návrhářům přesně ladit optické i haptické vlastnosti měkkých 3D tištěných povrchů.",
+      "Tato nová metoda výrazně zefektivňuje proces prototypování materiálů příjemných na dotek a funkčních rozhraní."
+    ],
+    "tags": [
+      "Software",
+      "Material",
+      "3D Printing",
+      "Elastomers",
+      "Inverse Design",
+      "Haptics",
+      "Prototyping"
+    ]
+  },
+  {
+    "title": "Rolls-Royce otevřel vývojové centrum pro aditivní výrobu podpořené ministerstvem obrany",
+    "summary": "A new facility purpose-built for additive manufacturing has opened at the Bristol base of the British aerospace and defence company Rolls-Royce. The Additive Manufacturing Development Cell was inaugurated by Luke Pollard MP, Minister for Defence Readiness and Industry, with Claire Hazelgrove MP also in attendance. Backed by UK Ministry of Defence funding, the cell is&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/additive-manufacturing-development-cell-opens-in-bristol-image-2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-05-05T08:06:34+00:00",
+    "url": "https://3dprintingindustry.com/news/rolls-royce-inaugurates-mod-backed-additive-manufacturing-development-cell-251197/?utm_source=rss&utm_medium=rss&utm_campaign=rolls-royce-inaugurates-mod-backed-additive-manufacturing-development-cell",
+    "forced_tags": [],
+    "title_en": "Rolls-Royce Inaugurates MOD-Backed Additive Manufacturing Development Cell",
+    "summary_bullets_en": [
+      "Rolls-Royce has opened a new dedicated additive manufacturing facility at its Bristol site.",
+      "The project is supported by funding from the UK Ministry of Defence.",
+      "The facility was officially inaugurated by Minister for Defence Readiness and Industry, Luke Pollard MP.",
+      "The cell aims to advance aerospace and defence manufacturing capabilities through 3D printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Rolls-Royce otevřela v Bristolu nové zařízení specializované na aditivní výrobu.",
+      "Projekt je financován britským ministerstvem obrany.",
+      "Slavnostního otevření se zúčastnil ministr pro připravenost obrany a průmysl Luke Pollard.",
+      "Cílem centra je rozvoj schopností v oblasti 3D tisku pro letecký a obranný průmysl."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Rolls-Royce",
+      "Ministry of Defence",
+      "Aerospace",
+      "Defence",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Nová pryskyřice od BMF řeší problémy s optickou čirostí v mikro 3D tisku",
+    "summary": "Microscale 3D printer manufacturer Boston Micro Fabrication (BMF) has released BMF Clear, a photopolymer resin rated at greater than 90% light transmittance. Designed for use on its 10µm and 25µm resolution printing platforms, the material is built specifically for applications where both optical performance and dimensional accuracy at the micron-scale are simultaneously required. That combination&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/Image-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-05-05T08:04:47+00:00",
+    "url": "https://3dprintingindustry.com/news/new-bmf-resin-solves-optical-clarity-challenges-in-micro-3d-printing-251190/?utm_source=rss&utm_medium=rss&utm_campaign=new-bmf-resin-solves-optical-clarity-challenges-in-micro-3d-printing",
+    "forced_tags": [],
+    "title_en": "New BMF Resin Solves Optical Clarity Challenges in Micro 3D Printing",
+    "summary_bullets_en": [
+      "Boston Micro Fabrication (BMF) has launched BMF Clear, a new photopolymer resin.",
+      "The material achieves over 90% light transmittance, ensuring high optical clarity.",
+      "It is optimized for BMF’s 10µm and 25µm resolution printers for precise micro-scale applications.",
+      "The resin bridges the gap between high dimensional accuracy and optical performance."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce mikro 3D tiskáren Boston Micro Fabrication (BMF) uvedl na trh fotopolymerní pryskyřici BMF Clear.",
+      "Materiál dosahuje propustnosti světla přes 90 %, což zajišťuje vysokou optickou čirost.",
+      "Pryskyřice je navržena pro tiskárny s rozlišením 10 µm a 25 µm pro potřeby precizních mikroaplikací.",
+      "Novinka kombinuje vysokou rozměrovou přesnost s vynikajícími optickými vlastnostmi."
+    ],
+    "tags": [
+      "Material",
+      "Hardware",
+      "BMF",
+      "Boston Micro Fabrication",
+      "Micro 3D Printing",
+      "Photopolymer"
+    ]
+  },
+  {
+    "title": "Oxfordská univerzita vytvořila a otestovala strukturovanou lidskou mozkovou tkáň pomocí 3D tisku",
+    "summary": "Oxford University researchers have successfully built and implanted structured human brain tissue into living mouse brains. Over several years, the Oxford Martin Programme on 3D Printing for Brain Repair used stem cells, 3D printing, and microfluidics to engineer layered cortical tissue that integrated with host brain tissue, reduced lesion size in injury models, and communicated&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/3D-brain-repair-overview-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-05-05T08:04:26+00:00",
+    "url": "https://3dprintingindustry.com/news/oxford-builds-and-tests-structured-human-brain-tissue-using-3d-printing-251203/?utm_source=rss&utm_medium=rss&utm_campaign=oxford-builds-and-tests-structured-human-brain-tissue-using-3d-printing",
+    "forced_tags": [],
+    "title_en": "Oxford Builds and Tests Structured Human Brain Tissue Using 3D Printing",
+    "summary_bullets_en": [
+      "Oxford University researchers successfully 3D printed structured human cortical tissue using stem cells and microfluidics.",
+      "The engineered tissue was implanted into mouse brains, where it integrated successfully with the host tissue.",
+      "The study demonstrated that the printed tissue could reduce lesion sizes and communicate with the host brain.",
+      "This breakthrough represents a significant step forward for the Oxford Martin Programme in developing future brain repair therapies."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Oxfordské univerzity úspěšně vytiskli strukturovanou lidskou mozkovou tkáň za použití kmenových buněk a mikrofluidiky.",
+      "Uměle vytvořená tkáň byla implantována do mozků myší, kde se úspěšně propojila s hostitelskou tkání.",
+      "Studie prokázala, že vytištěná tkáň dokáže zmenšit velikost lézí a komunikovat s hostitelským mozkem.",
+      "Tento průlom představuje významný krok vpřed pro program Oxford Martin v oblasti vývoje budoucích terapií pro opravu mozku."
+    ],
+    "tags": [
+      "Material",
+      "Bioprinting",
+      "3D Printing",
+      "Stem Cells",
+      "Neuroscience",
+      "Medical Research",
+      "Oxford University"
+    ]
+  },
+  {
+    "title": "Alexander Wang uvádí Griphoria, první nositelné 3D tištěné jehlové podpatky",
+    "summary": "American designer Alexander Wang has released Griphoria, the first commercially available 3D printed stiletto, developed over six years in partnership with 3D printing company Carbon and footwear software provider HILOS.  Made almost entirely from elastomeric polyurethane using Carbon&#8217;s Digital Light Synthesis technology, the heel-forward mule retails for $795 and is available now, fabricated in Italy&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/1_D-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-05-05T08:03:51+00:00",
+    "url": "https://3dprintingindustry.com/news/alexander-wang-launches-griphoria-the-first-wearable-3d-printed-stiletto-251212/?utm_source=rss&utm_medium=rss&utm_campaign=alexander-wang-launches-griphoria-the-first-wearable-3d-printed-stiletto",
+    "forced_tags": [],
+    "title_en": "Alexander Wang Launches Griphoria, the First Wearable 3D Printed Stiletto",
+    "summary_bullets_en": [
+      "Alexander Wang introduced Griphoria, the first commercially available 3D printed stiletto.",
+      "The project was developed over six years in collaboration with Carbon and HILOS.",
+      "The footwear is crafted from elastomeric polyurethane using Carbon’s Digital Light Synthesis technology.",
+      "The heels are manufactured in Italy and are currently available for purchase at $795."
+    ],
+    "summary_bullets_cs": [
+      "Americký návrhář Alexander Wang představil Griphoria, první komerčně dostupné 3D tištěné lodičky na jehlovém podpatku.",
+      "Produkt vznikal šest let ve spolupráci se společností Carbon a poskytovatelem obuvnického softwaru HILOS.",
+      "Obuv je vyrobena téměř výhradně z elastomerního polyuretanu pomocí technologie Digital Light Synthesis od společnosti Carbon.",
+      "Model se vyrábí v Itálii, je v prodeji za 795 dolarů a vyznačuje se specifickým designem s předsunutým podpatkem."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Carbon",
+      "HILOS",
+      "Alexander Wang",
+      "3D Printed Footwear"
+    ]
+  },
+  {
+    "title": "Nike vydává vylepšené Air Max 1000.2, své nejnovější 3D tištěné tenisky",
+    "summary": "Nike has launched the Air Max 1000.2, an upgraded version of its 2024 Air Max 1000, developed in collaboration with 3D printing footwear factory Zellerfeld. The all-black sneaker goes on sale May 7 via the Snkrs app at $179, with early raffle access through Zellerfeld from May 4.&#160; Same DNA, Smarter Construction The Air Max&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/airmax-1000-2-black-details-150x100.avif",
+    "source": "3D Printing Industry",
+    "published": "2026-05-05T08:03:40+00:00",
+    "url": "https://3dprintingindustry.com/news/nike-releases-upgraded-air-max-1000-2-its-latest-3d-printed-sneaker-251221/?utm_source=rss&utm_medium=rss&utm_campaign=nike-releases-upgraded-air-max-1000-2-its-latest-3d-printed-sneaker",
+    "forced_tags": [],
+    "title_en": "Nike Releases Upgraded Air Max 1000.2, Its Latest 3D Printed Sneaker",
+    "summary_bullets_en": [
+      "Nike has unveiled the Air Max 1000.2, an improved version of the 2024 Air Max 1000 model.",
+      "The sneaker was developed in partnership with the specialized 3D printing footwear factory Zellerfeld.",
+      "The all-black shoes will be available for $179 via the Snkrs app starting May 7, with early access via Zellerfeld on May 4."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Nike představila Air Max 1000.2, vylepšenou verzi modelu Air Max 1000 z roku 2024.",
+      "Tenisky byly vyvinuty ve spolupráci s továrnou na 3D tisk obuvi Zellerfeld.",
+      "Celočerné boty budou v prodeji od 7. května v aplikaci Snkrs za 179 dolarů, s možností přednostního přístupu přes Zellerfeld od 4. května."
+    ],
+    "tags": [
+      "Services",
+      "Nike",
+      "Zellerfeld",
+      "3D Printed Footwear",
+      "Fashion Tech"
+    ]
+  },
+  {
     "title": "3D tiskárny bez odpadu by mohly změnit budoucnost barevného 3D tisku",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/955230920/0/fabbaloo/default~Waste-Free-D-Printers-Could-Transform-the-Future-of-Color-D-Printing\" rel=\"nofollow\" title=\"Waste Free 3D Printers Could Transform the Future of Color 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/complex-colors-cover-300x167.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Where are all the full-colour 3D models?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955230920/0/fabbaloo/default~Waste-Free-D-Printers-Could-Transform-the-Future-of-Color-D-Printing\" rel=\"nofollow\">Waste Free 3D Printers Could Transform the Future of Color 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/complex-colors-cover-300x167.jpg",
