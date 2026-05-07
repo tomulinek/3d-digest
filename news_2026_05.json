@@ -1,5 +1,350 @@
 [
   {
+    "title": "LOOP 3D láká na vylepšení zaměřené na produkční tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955404740/0/fabbaloo/default~LOOP-D-Teases-ProductionFocused-Upgrade\" rel=\"nofollow\" title=\"LOOP 3D Teases Production-Focused Upgrade\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/loop3d-gen2-1-300x219.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>LOOP 3D announced a new 3D printer, the LOOP PRO X+ TURBO Gen2.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955404740/0/fabbaloo/default~LOOP-D-Teases-ProductionFocused-Upgrade\" rel=\"nofollow\">LOOP 3D Teases Production-Focused Upgrade</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/loop3d-gen2-1-300x219.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-05-06T16:22:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955404740/0/fabbaloo/default~LOOP-D-Teases-ProductionFocused-Upgrade",
+    "forced_tags": [],
+    "title_en": "LOOP 3D Teases Production-Focused Upgrade",
+    "summary_bullets_en": [
+      "LOOP 3D has officially announced the upcoming launch of a new 3D printer.",
+      "The new model is identified as the LOOP PRO X+ TURBO Gen2.",
+      "The machine is specifically designed to enhance production-focused 3D printing capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Společnost LOOP 3D oznámila příchod nové 3D tiskárny.",
+      "Nový model nese označení LOOP PRO X+ TURBO Gen2.",
+      "Zařízení je navrženo tak, aby posílilo možnosti 3D tisku v průmyslové výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "LOOP 3D",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Bambu Lab si patentuje jednodušší rukojeť pro box na materiál",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955400231/0/fabbaloo/default~Bambu-Lab-Patents-Simpler-Material-Box-Handle\" rel=\"nofollow\" title=\"Bambu Lab Patents Simpler Material Box Handle\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/bambu-lab-handle-patent-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Bambu Lab has patented a more foolproof handle and latch for a 3D printer material storage box.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955400231/0/fabbaloo/default~Bambu-Lab-Patents-Simpler-Material-Box-Handle\" rel=\"nofollow\">Bambu Lab Patents Simpler Material Box Handle</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/bambu-lab-handle-patent-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-06T15:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955400231/0/fabbaloo/default~Bambu-Lab-Patents-Simpler-Material-Box-Handle",
+    "forced_tags": [],
+    "title_en": "Bambu Lab Patents Simpler Material Box Handle",
+    "summary_bullets_en": [
+      "Bambu Lab has filed a patent for a new, more intuitive handle and latch mechanism.",
+      "The design focuses on improving the user experience for 3D printer material storage boxes.",
+      "The innovation aims to make the handling of material containers more foolproof and reliable."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab si nechala patentovat novou, uživatelsky přívětivější rukojeť a západkový mechanismus.",
+      "Design se zaměřuje na zlepšení manipulace s úložnými boxy pro tiskové materiály u 3D tiskáren.",
+      "Cílem inovace je zajistit spolehlivější a jednodušší obsluhu zásobníků na filament."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing",
+      "Patent",
+      "Accessories"
+    ]
+  },
+  {
+    "title": "Split3r 1.5.0: plné barvy překračují hranice tiskové podložky",
+    "summary": "RECODE.AM #49",
+    "image": "https://substackcdn.com/image/fetch/$s_!plc5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcae2827-7fe1-45e6-be92-d2e26ba1ee93_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-05-06T14:00:37+00:00",
+    "url": "https://www.3dprintingjournal.com/p/split3r-150-full-color-goes-beyond",
+    "forced_tags": [],
+    "title_en": "Split3r 1.5.0: full color goes beyond the build plate",
+    "summary_bullets_en": [
+      "Split3r 1.5.0 introduces advanced full-color 3D printing capabilities.",
+      "The update expands printing possibilities beyond traditional build plate constraints.",
+      "RECODE.AM #49 highlights the software's role in pushing the boundaries of multi-material and color additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Split3r 1.5.0 přináší pokročilé možnosti plnobarevného 3D tisku.",
+      "Aktualizace rozšiřuje možnosti tisku za hranice běžných omezení tiskové podložky.",
+      "RECODE.AM #49 zdůrazňuje roli tohoto softwaru při posouvání limitů aditivní výroby s více materiály a barvami."
+    ],
+    "tags": [
+      "Software",
+      "3D Printing",
+      "Split3r",
+      "Full Color Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Patent na modulaci laserového paprsku cílí na chytřejší kovový PBF tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955390517/0/fabbaloo/default~Laser-Beam-Modulation-Patent-Targets-Smarter-Metal-PBF\" rel=\"nofollow\" title=\"Laser Beam Modulation Patent Targets Smarter Metal PBF\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/laser-modulation-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new patent application from GE/Concept Laser proposes tighter real time control over laser energy in powder bed fusion systems.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955390517/0/fabbaloo/default~Laser-Beam-Modulation-Patent-Targets-Smarter-Metal-PBF\" rel=\"nofollow\">Laser Beam Modulation Patent Targets Smarter Metal PBF</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/laser-modulation-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-06T13:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955390517/0/fabbaloo/default~Laser-Beam-Modulation-Patent-Targets-Smarter-Metal-PBF",
+    "forced_tags": [],
+    "title_en": "Laser Beam Modulation Patent Targets Smarter Metal PBF",
+    "summary_bullets_en": [
+      "GE/Concept Laser has filed a new patent focusing on advanced real-time control of laser energy in metal powder bed fusion (PBF) systems.",
+      "The technology aims to improve the precision and quality of 3D printed metal parts through dynamic beam modulation.",
+      "This innovation represents a significant step toward smarter, more reliable industrial additive manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "Společnost GE/Concept Laser podala novou patentovou přihlášku zaměřenou na přesnější řízení energie laseru v reálném čase u systémů pro tisk z kovových prášků (PBF).",
+      "Technologie má za cíl zvýšit přesnost a kvalitu 3D tištěných kovových dílů prostřednictvím dynamické modulace paprsku.",
+      "Tato inovace představuje významný posun směrem k chytřejším a spolehlivějším procesům v průmyslové aditivní výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "GE",
+      "Concept Laser",
+      "Metal PBF",
+      "3D Printing",
+      "Laser Technology",
+      "Industrial Manufacturing"
+    ]
+  },
+  {
+    "title": "Finanční výsledky 3D tisku: Protolabs zahajuje rok 2026 silně, v čele s kovovým tiskem",
+    "summary": "Protolabs (NYSE: PRLB) kicked off 2026 with a strong quarter, showing steady growth, better margins, and improving customer engagement, even though some parts of the business, especially 3D printing in...",
+    "image": "https://3dprint.com/wp-content/uploads/2024/08/pl-dmls-equipment-570308.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-06T13:00:56+00:00",
+    "url": "https://3dprint.com/325889/3d-printing-financials-protolabs-starts-2026-strong-metal-3d-printing-stands-out/",
+    "forced_tags": [],
+    "title_en": "3D Printing Financials: Protolabs Starts 2026 Strong, with Metal Printing Leading",
+    "summary_bullets_en": [
+      "Protolabs reported a robust start to 2026 with steady revenue growth and improved profit margins.",
+      "Metal 3D printing emerged as a key driver of performance, outperforming other segments.",
+      "The company saw increased customer engagement, signaling a positive trend for the fiscal year.",
+      "Despite overall success, some specific business segments faced challenges during the quarter."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Protolabs vykázala silný start do roku 2026 se stabilním růstem tržeb a lepšími maržemi.",
+      "Kovový 3D tisk se stal hlavním tahounem výkonnosti a překonal ostatní segmenty.",
+      "Firma zaznamenala vyšší míru zapojení zákazníků, což naznačuje pozitivní trend pro celý fiskální rok.",
+      "Navzdory celkovému úspěchu se některé části podnikání potýkaly během čtvrtletí s určitými výzvami."
+    ],
+    "tags": [
+      "Services",
+      "Metal Printing",
+      "Protolabs",
+      "Financial Results",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "Partnerství společnosti BLT se startupem ze Šen-čenu ilustruje, proč boom robotiky závisí na 3D tisku",
+    "summary": "The way that manufacturers produce goods is changing, concerning both the techniques involved, as well as the overarching strategies which organize those techniques into systems of output. Additive manufacturing (AM)...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/Group-2-1024x570.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-06T12:30:25+00:00",
+    "url": "https://3dprint.com/325861/blts-partnership-with-shenzhen-startup-illustrates-why-a-robotics-boom-depends-on-3d-printing/",
+    "forced_tags": [],
+    "title_en": "BLT’s Partnership with Shenzhen Startup Illustrates Why a Robotics Boom Depends on 3D Printing",
+    "summary_bullets_en": [
+      "The manufacturing landscape is shifting toward more flexible and efficient production strategies.",
+      "Additive manufacturing is becoming a critical enabler for the rapid development of advanced robotics.",
+      "The collaboration between BLT and a Shenzhen-based startup highlights the synergy between metal 3D printing and robotic innovation.",
+      "Strategic integration of 3D printing allows companies to overcome traditional manufacturing bottlenecks in hardware development."
+    ],
+    "summary_bullets_cs": [
+      "Výrobní prostředí se mění směrem k flexibilnějším a efektivnějším strategiím produkce.",
+      "Aditivní výroba se stává klíčovým faktorem pro rychlý vývoj pokročilé robotiky.",
+      "Spolupráce mezi společností BLT a startupem ze Šen-čenu zdůrazňuje synergii mezi kovovým 3D tiskem a inovacemi v robotice.",
+      "Strategická integrace 3D tisku umožňuje firmám překonávat tradiční výrobní překážky při vývoji hardwaru."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "BLT",
+      "Additive Manufacturing",
+      "Robotics",
+      "Shenzhen"
+    ]
+  },
+  {
+    "title": "Kanada zveřejnila knihovnu 3D modelů vojenské techniky pro válečné hry",
+    "summary": "From Reddit&#8217;s 3D printed Minis community, we learned that the government of Canada has released a 3D printing library of military vehicle Minis. Now this may seem to be a...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/1748972472289.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-06T12:00:24+00:00",
+    "url": "https://3dprint.com/325162/canada-releases-3d-printing-library-of-minis/",
+    "forced_tags": [],
+    "title_en": "Canada Releases 3D Printing Library of Minis for War Games",
+    "summary_bullets_en": [
+      "The Canadian government has officially released a digital library of 3D-printable military vehicle miniatures.",
+      "The initiative was highlighted by the 3D printing community on Reddit.",
+      "These models are intended for use in war games and educational simulations.",
+      "The project marks a unique intersection between government resources and the hobbyist 3D printing scene."
+    ],
+    "summary_bullets_cs": [
+      "Kanadská vláda uvolnila digitální knihovnu 3D modelů vojenských vozidel.",
+      "Na tuto iniciativu upozornila komunita fanoušků 3D tisku na Redditu.",
+      "Modely jsou určeny pro využití ve válečných hrách a vzdělávacích simulacích.",
+      "Projekt představuje zajímavé propojení vládních zdrojů a komunity nadšenců do 3D tisku."
+    ],
+    "tags": [
+      "Services",
+      "3D Printing",
+      "Canada",
+      "Miniatures",
+      "War Games",
+      "Open Source"
+    ]
+  },
+  {
+    "title": "Drony nad hřištěm: Jak technologie proti bezpilotním prostředkům a 3D tisk zajišťují bezpečnost na Mistrovství světa ve fotbale 2026",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955383542/0/fabbaloo/default~Drones-Over-the-Pitch-How-CounterUAS-Technology-and-D-Printing-Are-Securing-the-FIFA-World-Cup\" rel=\"nofollow\" title=\"Drones Over the Pitch: How Counter-UAS Technology and 3D Printing Are Securing the 2026 FIFA World Cup\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/04/image-1-300x287.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Andressa Bonafe cover the deployment of counter-drone security across many FIFA World Cup 2026 venues and how 3D printing can achieve new heights with these measures. </p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955383542/0/fabbaloo/default~Drones-Over-the-Pitch-How-CounterUAS-Technology-and-D-Printing-Are-Securing-the-FIFA-World-Cup\" rel=\"nofollow\">Drones Over the Pitch: How Counter-UAS Technology and 3D Printing Are Securing the 2026 FIFA World Cup</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/04/image-1-300x287.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-06T11:10:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955383542/0/fabbaloo/default~Drones-Over-the-Pitch-How-CounterUAS-Technology-and-D-Printing-Are-Securing-the-FIFA-World-Cup",
+    "forced_tags": [],
+    "title_en": "Drones Over the Pitch: How Counter-UAS Technology and 3D Printing Are Securing the 2026 FIFA World Cup",
+    "summary_bullets_en": [
+      "The 2026 FIFA World Cup is implementing advanced counter-UAS (Unmanned Aircraft Systems) technology to ensure stadium security.",
+      "3D printing plays a critical role in the rapid production of specialized components for drone detection and mitigation hardware.",
+      "Additive manufacturing allows for the agile development of custom mounts, housings, and sensor enclosures needed for security infrastructure.",
+      "The integration of 3D printing helps security teams deploy defensive measures quickly across multiple international venues."
+    ],
+    "summary_bullets_cs": [
+      "Mistrovství světa ve fotbale 2026 zavádí pokročilé technologie pro potlačení bezpilotních letounů (Counter-UAS) k zajištění bezpečnosti stadionů.",
+      "3D tisk hraje klíčovou roli při rychlé výrobě specializovaných komponentů pro hardware určený k detekci a eliminaci dronů.",
+      "Aditivní výroba umožňuje agilní vývoj zakázkových držáků, krytů a pouzder pro senzory, které jsou nezbytné pro bezpečnostní infrastrukturu.",
+      "Integrace 3D tisku pomáhá bezpečnostním týmům rychle nasadit obranná opatření na mnoha mezinárodních sportovištích."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Printing",
+      "Counter-UAS",
+      "FIFA World Cup 2026",
+      "Security Technology",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Dokáže nejnovější investiční kolo společnosti Elegoo v hodnotě 500 milionů jüanů čelit „efektu Bambu“?",
+    "summary": "Chinese 3D printer manufacturer Elegoo (Shenzhen SmartPie Technology Co., aka SmartPie) has completed a B+ round of financing worth over 500 million yuan ($73.3 million). The round was jointly backed by Meituan and its investment arm, Dragon Ball, alongside Guoce Capital, Hillhouse Capital, Minghui Zhiyuan Capital, Shenzhen Capital Group, Shanghai High-Tech Investment Group, and Yintai&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/04/ELEGOO_spotlights_3D_printing_ecosystem_RAPID___TCT_2026-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-05-06T09:38:47+00:00",
+    "url": "https://3dprintingindustry.com/news/can-elegoos-latest-500m-yuan-round-counter-the-bambu-effect-251266/?utm_source=rss&utm_medium=rss&utm_campaign=can-elegoos-latest-500m-yuan-round-counter-the-bambu-effect",
+    "forced_tags": [],
+    "title_en": "Can Elegoo’s Latest 500M Yuan Round Counter the “Bambu Effect”?",
+    "summary_bullets_en": [
+      "Elegoo has successfully secured over 500 million yuan ($73.3 million) in a B+ financing round.",
+      "The investment was led by major firms including Meituan, Dragon Ball, and Hillhouse Capital.",
+      "The capital injection aims to strengthen Elegoo's market position amidst intense competition from rivals like Bambu Lab."
+    ],
+    "summary_bullets_cs": [
+      "Čínský výrobce 3D tiskáren Elegoo úspěšně uzavřel investiční kolo B+ v hodnotě přes 500 milionů jüanů (cca 73,3 milionu dolarů).",
+      "Investici společně podpořily významné subjekty jako Meituan, Dragon Ball, Hillhouse Capital a další investiční skupiny.",
+      "Cílem financování je posílení tržní pozice společnosti v reakci na sílící konkurenci, zejména ze strany značky Bambu Lab."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Elegoo",
+      "Bambu Lab",
+      "Investment",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Lightbridge získala evropský patent na 3D tištěný design vícezónového jaderného paliva",
+    "summary": "Lightbridge Corporation, a U.S.-based nuclear technology company, has received a Notice of Allowance from the European Patent Office for a patent covering its “Multi-Zone Fuel Element” nuclear fuel design. The patent extends intellectual property protection for the company’s advanced fuel technology across 39 European contracting states, including major nuclear energy markets such as the United&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/image-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-05-06T09:37:22+00:00",
+    "url": "https://3dprintingindustry.com/news/lightbridge-secures-european-patent-allowance-for-3d-printed-multi-zone-nuclear-fuel-design-251267/?utm_source=rss&utm_medium=rss&utm_campaign=lightbridge-secures-european-patent-allowance-for-3d-printed-multi-zone-nuclear-fuel-design",
+    "forced_tags": [],
+    "title_en": "Lightbridge secures European patent allowance for 3D printed multi-zone nuclear fuel design",
+    "summary_bullets_en": [
+      "Lightbridge Corporation received a Notice of Allowance from the European Patent Office for its innovative Multi-Zone Fuel Element design.",
+      "The patent provides intellectual property protection for the company's advanced nuclear fuel technology across 39 European countries.",
+      "The technology utilizes 3D printing to create complex fuel structures aimed at improving the efficiency and safety of nuclear power plants."
+    ],
+    "summary_bullets_cs": [
+      "Americká společnost Lightbridge Corporation obdržela od Evropského patentového úřadu oznámení o udělení patentu na svůj design „vícezónového palivového článku“.",
+      "Patent rozšiřuje ochranu duševního vlastnictví pro pokročilou technologii jaderného paliva do 39 evropských zemí.",
+      "Technologie využívá 3D tisk k výrobě komplexních palivových struktur, které mají za cíl zvýšit efektivitu a bezpečnost jaderných elektráren."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Nuclear Energy",
+      "Lightbridge Corporation",
+      "3D Printing",
+      "Patent"
+    ]
+  },
+  {
+    "title": "Jak digitální korelace obrazu vylepšuje 3D tištěné polymery",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955373708/0/fabbaloo/default~How-Digital-Image-Correlation-is-Improving-D-Printed-Polymers\" rel=\"nofollow\" title=\"How Digital Image Correlation is Improving 3D Printed Polymers\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/dic-review-cover-300x147.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new research paper examines how Digital Image Correlation is changing fracture testing of 3D printed polymers.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955373708/0/fabbaloo/default~How-Digital-Image-Correlation-is-Improving-D-Printed-Polymers\" rel=\"nofollow\">How Digital Image Correlation is Improving 3D Printed Polymers</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/dic-review-cover-300x147.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-06T08:18:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955373708/0/fabbaloo/default~How-Digital-Image-Correlation-is-Improving-D-Printed-Polymers",
+    "forced_tags": [],
+    "title_en": "How Digital Image Correlation is Improving 3D Printed Polymers",
+    "summary_bullets_en": [
+      "A recent research paper explores the application of Digital Image Correlation (DIC) in testing 3D printed polymers.",
+      "The study focuses on how this advanced optical technique enhances the accuracy of fracture testing.",
+      "DIC provides detailed insights into material deformation and failure mechanisms that traditional methods might miss.",
+      "This methodology is set to improve the reliability and structural analysis of additive manufacturing components."
+    ],
+    "summary_bullets_cs": [
+      "Nový odborný článek zkoumá využití digitální korelace obrazu (DIC) při testování 3D tištěných polymerů.",
+      "Studie se zaměřuje na to, jak tato pokročilá optická metoda zvyšuje přesnost testování lomové houževnatosti.",
+      "DIC poskytuje detailní vhled do deformací materiálu a mechanismů selhání, které tradiční metody nemusí zachytit.",
+      "Tato metodika přispívá k vyšší spolehlivosti a lepší strukturální analýze dílů vyrobených aditivní technologií."
+    ],
+    "tags": [
+      "Material",
+      "Research",
+      "Digital Image Correlation",
+      "3D Printing",
+      "Polymers",
+      "Testing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Continuum Powders jmenovala Jona Cozense, aby rozšířila svůj model cirkulárních kovů",
+    "summary": "Continuum Powders has named Jon Cozens as its new chief executive officer, a move that points to a shift in where the company is headed. After spending the past few...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/IMG_3164-scaled-e1777999450620.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-06T07:00:37+00:00",
+    "url": "https://3dprint.com/325876/continuum-powders-brings-in-jon-cozens-to-scale-its-circular-metal-model/",
+    "forced_tags": [],
+    "title_en": "Continuum Powders Brings in Jon Cozens to Scale Its Circular Metal Model",
+    "summary_bullets_en": [
+      "Continuum Powders has appointed Jon Cozens as the new CEO to lead the company's growth.",
+      "The leadership change signals a strategic shift toward scaling the firm's circular metal powder production.",
+      "Cozens brings extensive industry experience to help expand the company's sustainable metal additive manufacturing solutions."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Continuum Powders jmenovala Jona Cozense novým generálním ředitelem, aby vedl další rozvoj firmy.",
+      "Tato změna ve vedení naznačuje strategický posun směrem k rozšíření výroby cirkulárních kovových prášků.",
+      "Cozens přináší bohaté zkušenosti z oboru, které mají pomoci v expanzi udržitelných řešení pro aditivní výrobu kovů."
+    ],
+    "tags": [
+      "Material",
+      "Services",
+      "Continuum Powders",
+      "Metal Additive Manufacturing",
+      "Sustainability",
+      "Circular Economy"
+    ]
+  },
+  {
     "title": "America Makes spouští dvě výzvy pro projekty aditivní výroby v hodnotě 25,6 milionu dolarů",
     "summary": "America Makes, a US public-private partnership focused on additive manufacturing, and the National Center for Defense Manufacturing and Machining (NCDMM) have announced two project calls worth a combined $25.6 million. The funding is split between the $12.4 million Maturation Initiative for Additive Metals Interchangeability (MIAMI) and the $13.2 million INtegrated System for In-situ Testing &#38;&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/04/videoStill-150x100.png",
