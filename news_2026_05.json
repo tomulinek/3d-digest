@@ -1,5 +1,63 @@
 [
   {
+    "title": "Zprávy ze světa 3D tisku, 9. května 2026: Finance, velkoformátová tiskárna, oceli a další",
+    "summary": "In 3D Printing News Briefs this weekend, 6K Additive has appointed a new COO and released its Q1 financials. Rolls-Royce opened a new AM Development Cell, and MODIX launched its...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/Brandon-Davis-1024x683.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-09T12:30:59+00:00",
+    "url": "https://3dprint.com/325932/3d-printing-news-briefs-may-9-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, May 9, 2026: Financials, Large-Format Printer, Steels, & More",
+    "summary_bullets_en": [
+      "6K Additive announced a new COO appointment alongside their Q1 financial results.",
+      "Rolls-Royce expanded its manufacturing capabilities by opening a new AM Development Cell.",
+      "MODIX introduced a new large-format 3D printer to their product lineup."
+    ],
+    "summary_bullets_cs": [
+      "Společnost 6K Additive oznámila jmenování nového provozního ředitele (COO) a zveřejnila finanční výsledky za první čtvrtletí.",
+      "Rolls-Royce rozšířil své výrobní kapacity otevřením nového vývojového centra pro aditivní výrobu (AM Development Cell).",
+      "Společnost MODIX uvedla na trh novou velkoformátovou 3D tiskárnu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Material",
+      "6K Additive",
+      "Rolls-Royce",
+      "MODIX"
+    ]
+  },
+  {
+    "title": "Generativní rovnátka přecházejí na kov: Rozhovor s Jamesem Lawtonem ze společnosti LightForce",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955616888/0/fabbaloo/default~Generative-Braces-Move-Into-Metal-An-Interview-with-LightForce%e2%80%99s-James-Lawton\" rel=\"nofollow\" title=\"Generative Braces Move Into Metal: An Interview with LightForce’s James Lawton\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/Filename-_103-300x199.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Andressa Bonafe detail the R&#38;D tax credit implications for medical device innovators who overcome manufacturing uncertainties to produce unique brackets individualized across six distinct dimensions.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955616888/0/fabbaloo/default~Generative-Braces-Move-Into-Metal-An-Interview-with-LightForce%e2%80%99s-James-Lawton\" rel=\"nofollow\">Generative Braces Move Into Metal: An Interview with LightForce’s James Lawton</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/Filename-_103-300x199.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-09T12:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955616888/0/fabbaloo/default~Generative-Braces-Move-Into-Metal-An-Interview-with-LightForce%e2%80%99s-James-Lawton",
+    "forced_tags": [],
+    "title_en": "Generative Braces Move Into Metal: An Interview with LightForce’s James Lawton",
+    "summary_bullets_en": [
+      "LightForce is advancing orthodontic technology by transitioning to metal 3D printing for individualized braces.",
+      "The company utilizes generative design to create brackets that are customized across six distinct dimensions for each patient.",
+      "The article explores the R&D tax credit opportunities for medical device innovators overcoming complex manufacturing challenges."
+    ],
+    "summary_bullets_cs": [
+      "Společnost LightForce posouvá ortodontickou technologii vpřed přechodem na 3D tisk z kovu pro výrobu individuálních rovnátek.",
+      "Firma využívá generativní design k vytváření zámků, které jsou pro každého pacienta přizpůsobeny v šesti různých dimenzích.",
+      "Článek se zabývá možnostmi daňových úlev na výzkum a vývoj pro inovátory v oblasti zdravotnických prostředků, kteří překonávají složité výrobní výzvy."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "LightForce",
+      "3D Printing",
+      "Orthodontics",
+      "Generative Design",
+      "Medical Devices"
+    ]
+  },
+  {
     "title": "RAPID + TCT 2026: Nová tiskárna HP MJF 1200 a aktualizace napříč platformami",
     "summary": "Multinational printing firm HP’s additive manufacturing division used RAPID + TCT 2026 to announce its smallest Multi Jet Fusion (MJF) 3D printer yet, alongside updates across its polymer and metal platforms. The centerpiece announcement is the HP MJF 1200 3D Printer, a compact system with a 12-liter build volume. HP is positioning it as an&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/HP-MJF-1200-3D-Printer-Solution-_Enviro-Image_8-150x100.jpg",
