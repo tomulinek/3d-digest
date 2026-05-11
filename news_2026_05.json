@@ -1,5 +1,65 @@
 [
   {
+    "title": "Případová studie 3D People podrobně popisuje vývoj 3D tištěného POV kamerového rigu",
+    "summary": "A POV, or Point of View, camera rig, is a wearable support system that helps filmographers capture first-person footage, making the images more immersive. Some good examples of movies shot...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/Cyclops-2-1024x744.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-10T12:30:40+00:00",
+    "url": "https://3dprint.com/325952/3d-people-details-development-of-3d-printed-pov-camera-rig/",
+    "forced_tags": [],
+    "title_en": "3D People Case Study Details Development of 3D Printed POV Camera Rig",
+    "summary_bullets_en": [
+      "3D People explores the creation of a custom, wearable POV camera rig designed for immersive first-person cinematography.",
+      "The project highlights how 3D printing enables the production of lightweight, ergonomic, and highly specialized film equipment.",
+      "The case study demonstrates the advantages of rapid prototyping in developing complex camera support systems for professional filmmakers."
+    ],
+    "summary_bullets_cs": [
+      "POV (Point of View) kamerový rig je nosný systém, který filmařům pomáhá zachytit záběry z první osoby a zvyšuje jejich imerzivitu.",
+      "Článek se zaměřuje na využití 3D tisku při vývoji nositelného vybavení pro profesionální filmaře.",
+      "Projekt ukazuje, jak aditivní výroba umožňuje vytvářet lehké a ergonomické konstrukce na míru pro specifické potřeby natáčení."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D People",
+      "POV Camera Rig",
+      "Additive Manufacturing",
+      "Prototyping",
+      "Filmmaking"
+    ]
+  },
+  {
+    "title": "Kdo je největší v 3D tisku, 10. května 2026",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955680107/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-May\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, May 10, 2026\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/biggest-cover-300x171.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955680107/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-May\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, May 10, 2026</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/biggest-cover-300x171.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-10T12:07:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955680107/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-May",
+    "forced_tags": [],
+    "title_en": "Who’s The Biggest In 3D Printing, May 10, 2026",
+    "summary_bullets_en": [
+      "The article provides a recurring analysis of the market valuations for major 3D printing companies.",
+      "It tracks the financial performance and shifts in the industry over the past week.",
+      "The report serves as a snapshot of the current competitive landscape among key players in the additive manufacturing sector."
+    ],
+    "summary_bullets_cs": [
+      "Článek přináší pravidelný přehled tržních ohodnocení hlavních společností v oboru 3D tisku.",
+      "Sleduje finanční výkonnost a změny v odvětví za uplynulý týden.",
+      "Zpráva slouží jako aktuální vhled do konkurenčního prostředí mezi klíčovými hráči v oblasti aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Market Analysis",
+      "Additive Manufacturing",
+      "Industry Trends",
+      "Desktop Metal",
+      "Stratasys",
+      "3D Systems",
+      "Markforged",
+      "Velo3D"
+    ]
+  },
+  {
     "title": "Zprávy ze světa 3D tisku, 9. května 2026: Finance, velkoformátová tiskárna, oceli a další",
     "summary": "In 3D Printing News Briefs this weekend, 6K Additive has appointed a new COO and released its Q1 financials. Rolls-Royce opened a new AM Development Cell, and MODIX launched its...",
     "image": "https://3dprint.com/wp-content/uploads/2026/05/Brandon-Davis-1024x683.jpg",
