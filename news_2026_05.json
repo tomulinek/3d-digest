@@ -1,5 +1,588 @@
 [
   {
+    "title": "Bambu Lab uvádí na trh filament bezpečný pro styk s potravinami… zatím jen v Číně",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955750370/0/fabbaloo/default~Bambu-Lab-Launches-Food-Safe-Filament-%e2%80%a6-In-China\" rel=\"nofollow\" title=\"Bambu Lab Launches Food Safe Filament … In China\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/bambu-lab-pure-pla-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Bambu Lab announced the availability of a line of food-safe 3D printer filament materials.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955750370/0/fabbaloo/default~Bambu-Lab-Launches-Food-Safe-Filament-%e2%80%a6-In-China\" rel=\"nofollow\">Bambu Lab Launches Food Safe Filament … In China</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/bambu-lab-pure-pla-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-11T16:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955750370/0/fabbaloo/default~Bambu-Lab-Launches-Food-Safe-Filament-%e2%80%a6-In-China",
+    "forced_tags": [],
+    "title_en": "Bambu Lab Launches Food Safe Filament … In China",
+    "summary_bullets_en": [
+      "Bambu Lab has officially introduced a new line of food-safe 3D printing filaments.",
+      "The product launch is currently limited exclusively to the Chinese market.",
+      "This development marks a significant step for the company in expanding its material ecosystem for specialized applications."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab oficiálně představila novou řadu 3D tiskových strun, které jsou certifikovány jako bezpečné pro styk s potravinami.",
+      "Uvedení produktu na trh je v současné době omezeno výhradně na čínský trh.",
+      "Tento krok představuje pro společnost významný posun v rozšiřování nabídky materiálů pro specializované využití."
+    ],
+    "tags": [
+      "Material",
+      "Bambu Lab",
+      "3D Printing",
+      "Food Safe",
+      "PLA"
+    ]
+  },
+  {
+    "title": "DMG MORI uvádí na trh LASERTEC 65 DED hybrid 2 pro aditivní a subtraktivní výrobu kovů",
+    "summary": "DMG MORI UK, the British division of machine tool manufacturer DMG MORI, has introduced the LASERTEC 65 DED hybrid 2, a second-generation production centre combining directed energy deposition (DED) with 5-axis machining and measurement in a single setup. Launched earlier this year at the company’s open house in Pfronten, southern Germany, the system is designed&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/image-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-05-11T14:52:13+00:00",
+    "url": "https://3dprintingindustry.com/news/dmg-mori-launches-lasertec-65-ded-hybrid-2-for-additive-and-subtractive-metal-manufacturing-251354/?utm_source=rss&utm_medium=rss&utm_campaign=dmg-mori-launches-lasertec-65-ded-hybrid-2-for-additive-and-subtractive-metal-manufacturing",
+    "forced_tags": [],
+    "title_en": "DMG MORI launches LASERTEC 65 DED hybrid 2 for additive and subtractive metal manufacturing",
+    "summary_bullets_en": [
+      "DMG MORI has unveiled the LASERTEC 65 DED hybrid 2, a second-generation machine for metal manufacturing.",
+      "The system integrates directed energy deposition (DED) with 5-axis milling and measurement capabilities.",
+      "It allows for both additive and subtractive processes to be performed within a single machine setup.",
+      "The technology was officially introduced at the company's open house event in Pfronten, Germany."
+    ],
+    "summary_bullets_cs": [
+      "Britská divize DMG MORI představila LASERTEC 65 DED hybrid 2, výrobní centrum druhé generace pro zpracování kovů.",
+      "Systém kombinuje technologii nanášení materiálu pomocí laseru (DED) s pětiosým obráběním a měřením v jednom stroji.",
+      "Zařízení bylo představeno začátkem letošního roku na firemní akci v německém Pfrontenu.",
+      "Stroj je navržen tak, aby umožnil kompletní výrobní proces v rámci jednoho nastavení."
+    ],
+    "tags": [
+      "Hardware",
+      "DMG MORI",
+      "DED",
+      "Metal Additive Manufacturing",
+      "Hybrid Manufacturing",
+      "CNC Machining"
+    ]
+  },
+  {
+    "title": "Singapurští vědci nastínili pokroky formující biofabrikaci a biovýrobu",
+    "summary": "Researchers in Singapore have published a review mapping the country’s recent contributions to biofabrication and biomanufacturing, from waste-derived biomaterials and 3D bioprinting to cultivated food, regenerative medicine, microneedles, and bioelectronics. Published in Bio-Design and Manufacturing, the review examines work led by Singapore-based research groups across three areas: bio-derived materials, enabling manufacturing technologies, and emerging applications.&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/image-7-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-05-11T14:51:23+00:00",
+    "url": "https://3dprintingindustry.com/news/singapore-researchers-outline-advances-shaping-biofabrication-and-biomanufacturing-251349/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-researchers-outline-advances-shaping-biofabrication-and-biomanufacturing",
+    "forced_tags": [],
+    "title_en": "Singapore researchers outline advances shaping biofabrication and biomanufacturing",
+    "summary_bullets_en": [
+      "Singaporean researchers published a comprehensive review of local advancements in biofabrication and biomanufacturing.",
+      "The study covers diverse fields including waste-derived biomaterials, 3D bioprinting, and cultivated food production.",
+      "Key research areas highlighted are bio-derived materials, innovative manufacturing technologies, and emerging applications like bioelectronics.",
+      "The review showcases Singapore's growing influence in regenerative medicine and advanced medical device development."
+    ],
+    "summary_bullets_cs": [
+      "Singapurští vědci publikovali přehledovou studii mapující nedávné příspěvky země v oblasti biofabrikace a biovýroby.",
+      "Výzkum zahrnuje širokou škálu témat od biomateriálů z odpadu a 3D biotisku až po kultivované potraviny a regenerativní medicínu.",
+      "Článek v časopise Bio-Design and Manufacturing analyzuje práci singapurských skupin ve třech klíčových oblastech: bio-materiály, výrobní technologie a nové aplikace.",
+      "Studie se zaměřuje také na inovace v oblasti mikrojehliček a bioelektroniky."
+    ],
+    "tags": [
+      "Material",
+      "Services",
+      "Biofabrication",
+      "Biomanufacturing",
+      "3D Bioprinting",
+      "Regenerative Medicine",
+      "Bioelectronics"
+    ]
+  },
+  {
+    "title": "Květnový výprodej Revopoint 2026: Ušetřete až 28 % na 3D skenerech a balíčcích, plus extra 2 % pro čtenáře 3DPrinting.com",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/revopoint-may-sale-2026/\" target=\"_blank\">Revopoint May Sale 2026: Save Up to 28% on 3D Scanners and Bundles, Plus an Extra 2% for 3DPrinting.com Readers</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">May 11</span></div><div><img alt=\"Revopoint May Sale 2026 featured image showing the MetroY, MIRACO, and INSPIRE scanners around a laptop running Revo Design.\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/Revopoint-May-Sale-2026-Featured-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/Revopoint-May-Sale-2026-Featured-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-05-11T14:37:53+00:00",
+    "url": "https://3dprinting.com/news/revopoint-may-sale-2026/",
+    "forced_tags": [],
+    "title_en": "Revopoint May Sale 2026: Save Up to 28% on 3D Scanners and Bundles, Plus an Extra 2% for 3DPrinting.com Readers",
+    "summary_bullets_en": [
+      "Revopoint has launched its May 2026 sale, offering discounts of up to 28% on various 3D scanners and accessory bundles.",
+      "The promotion includes popular models such as the MetroY, MIRACO, and INSPIRE scanners.",
+      "Readers of 3DPrinting.com can benefit from an additional 2% discount on their purchases during this event."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Revopoint spustila květnový výprodej 2026, který nabízí slevy až 28 % na vybrané 3D skenery a sady příslušenství.",
+      "Akce se vztahuje na oblíbené modely skenerů, jako jsou MetroY, MIRACO a INSPIRE.",
+      "Čtenáři portálu 3DPrinting.com mohou během této akce využít dodatečnou slevu ve výši 2 %."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Scanning",
+      "Revopoint",
+      "Discounts",
+      "Promotion"
+    ]
+  },
+  {
+    "title": "Roboze posiluje strategii digitálního dodavatelského řetězce akvizicí společnosti DiManEx",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955740749/0/fabbaloo/default~Roboze-Strengthens-Digital-Supply-Chain-Strategy-With-Acquisition-of-DiManEx\" rel=\"nofollow\" title=\"Roboze Strengthens Digital Supply Chain Strategy With Acquisition of DiManEx\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/roboze-dimanex-cover-300x217.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Roboze has acquired DiManEx. Wait, who are they?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955740749/0/fabbaloo/default~Roboze-Strengthens-Digital-Supply-Chain-Strategy-With-Acquisition-of-DiManEx\" rel=\"nofollow\">Roboze Strengthens Digital Supply Chain Strategy With Acquisition of DiManEx</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/roboze-dimanex-cover-300x217.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-11T13:09:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955740749/0/fabbaloo/default~Roboze-Strengthens-Digital-Supply-Chain-Strategy-With-Acquisition-of-DiManEx",
+    "forced_tags": [],
+    "title_en": "Roboze Strengthens Digital Supply Chain Strategy With Acquisition of DiManEx",
+    "summary_bullets_en": [
+      "Roboze has officially acquired the digital supply chain platform DiManEx.",
+      "The acquisition aims to bolster Roboze's capabilities in distributed manufacturing and digital inventory management.",
+      "This strategic move allows Roboze to offer more comprehensive end-to-end solutions for industrial 3D printing customers."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Roboze oficiálně převzala platformu pro digitální dodavatelské řetězce DiManEx.",
+      "Cílem akvizice je posílit kapacity Roboze v oblasti distribuované výroby a správy digitálních skladových zásob.",
+      "Tento strategický krok umožní společnosti Roboze nabízet komplexnější řešení pro průmyslové zákazníky v oblasti 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Roboze",
+      "DiManEx",
+      "Digital Supply Chain",
+      "Distributed Manufacturing"
+    ]
+  },
+  {
+    "title": "Kam směřují peníze: Nová podoba infrastruktury",
+    "summary": "This is Part 1 of a two-part PRO series examining where infrastructure investment is flowing and how those trends are reshaping manufacturing, energy, logistics, and additive manufacturing. Part 2, by...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/PRO-STORY-IMAGWE1-1024x683.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-11T13:00:36+00:00",
+    "url": "https://3dprint.com/325846/where-the-money-is-going-the-new-infrastructure-landscape/",
+    "forced_tags": [],
+    "title_en": "Where the Money Is Going: The New Infrastructure Landscape",
+    "summary_bullets_en": [
+      "The article explores current shifts in global infrastructure investment and their direct impact on industrial sectors.",
+      "It analyzes how evolving trends in energy, logistics, and manufacturing are creating new opportunities for additive manufacturing.",
+      "This is the first part of a two-part series providing a strategic outlook on the future of industrial production."
+    ],
+    "summary_bullets_cs": [
+      "Článek zkoumá současné posuny v globálních investicích do infrastruktury a jejich přímý dopad na průmyslová odvětví.",
+      "Analyzuje, jak vyvíjející se trendy v energetice, logistice a výrobě vytvářejí nové příležitosti pro aditivní výrobu.",
+      "Jedná se o první část dvoudílné série, která poskytuje strategický pohled na budoucnost průmyslové produkce."
+    ],
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Infrastructure",
+      "Logistics",
+      "Energy",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "3D tisk a dominance dronů: Rychlost, výkon a eliminace rizik v dodavatelském řetězci",
+    "summary": "A shift is underway in drone manufacturing. Government programs like the U.S. Department of War’s Drone Dominance, a $1.1 billion effort to deliver low-cost, one-way attack (OWA) sUAS at scale,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/Picture1.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-11T12:30:29+00:00",
+    "url": "https://3dprint.com/325962/3d-printing-drone-dominance-speed-performance-and-derisking-the-supply-chain/",
+    "forced_tags": [],
+    "title_en": "3D Printing & Drone Dominance: Speed, Performance, and Derisking the Supply Chain",
+    "summary_bullets_en": [
+      "The drone manufacturing industry is shifting toward additive manufacturing to meet the demands of large-scale government initiatives.",
+      "The U.S. Department of Defense's $1.1 billion 'Drone Dominance' program aims to mass-produce low-cost, one-way attack drones.",
+      "3D printing is being leveraged to accelerate production speeds, enhance performance, and mitigate supply chain vulnerabilities.",
+      "This transition highlights the critical role of advanced manufacturing in modern defense strategies and rapid deployment capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Výroba dronů prochází transformací směrem k aditivní výrobě, aby dokázala uspokojit požadavky rozsáhlých vládních programů.",
+      "Program amerického ministerstva obrany „Drone Dominance“ v hodnotě 1,1 miliardy dolarů se zaměřuje na masovou produkci levných útočných dronů typu OWA.",
+      "3D tisk je využíván k urychlení výrobních procesů, zvýšení výkonu a snížení závislosti na rizikových dodavatelských řetězcích.",
+      "Tento posun podtrhuje klíčovou roli moderních výrobních technologií v obranných strategiích a schopnosti rychlého nasazení."
+    ],
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "3D Printing",
+      "Defense",
+      "Drones",
+      "Supply Chain",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "První kontejnerový systém od AML3D je nyní v provozu v centru AM CoE amerického námořnictva",
+    "summary": "Shipbuilding giant Austal USA recently announced the launch of the Digital SEA (Secure Exchange for Additive) platform, which should play a major role in expanding accessibility to the sorts of...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/260506_AML3D_portable_Arcemy_system_delivery_AMCoE-3-1024x768.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-11T12:00:10+00:00",
+    "url": "https://3dprint.com/325937/first-containerized-aml3d-system-operational-at-us-navy-am-coe/",
+    "forced_tags": [],
+    "title_en": "First Containerized System from AML3D Now Operational at US Navy AM CoE",
+    "summary_bullets_en": [
+      "AML3D has successfully deployed its first containerized wire arc additive manufacturing (WAAM) system at the US Navy's Additive Manufacturing Center of Excellence.",
+      "The mobile unit is designed to provide on-demand, industrial-scale metal 3D printing capabilities directly to naval operations.",
+      "This deployment marks a significant step in integrating advanced manufacturing into defense supply chains to improve logistical efficiency.",
+      "Austal USA's Digital SEA platform will further support this initiative by streamlining the secure exchange of additive manufacturing data."
+    ],
+    "summary_bullets_cs": [
+      "Společnost AML3D úspěšně zprovoznila svůj první kontejnerový systém pro aditivní výrobu pomocí elektrického oblouku (WAAM) v centru excelence aditivní výroby amerického námořnictva.",
+      "Mobilní jednotka je navržena tak, aby poskytovala průmyslový 3D tisk kovů na vyžádání přímo pro potřeby námořních operací.",
+      "Toto nasazení představuje významný krok v integraci pokročilé výroby do dodavatelských řetězců obranného průmyslu za účelem zvýšení logistické efektivity.",
+      "Platforma Digital SEA od společnosti Austal USA bude tuto iniciativu dále podporovat zefektivněním bezpečné výměny dat pro aditivní výrobu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "AML3D",
+      "US Navy",
+      "Austal USA",
+      "WAAM",
+      "Defense"
+    ]
+  },
+  {
+    "title": "Design týdne: Spooletarium",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955735571/0/fabbaloo/default~Design-of-the-Week-Spooletarium\" rel=\"nofollow\" title=\"Design of the Week: Spooletarium\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/spooletarium-cover-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>This week’s selection is the Spooletarium by Printables contributor M4NU.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955735571/0/fabbaloo/default~Design-of-the-Week-Spooletarium\" rel=\"nofollow\">Design of the Week: Spooletarium</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/spooletarium-cover-300x225.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-11T11:07:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955735571/0/fabbaloo/default~Design-of-the-Week-Spooletarium",
+    "forced_tags": [],
+    "title_en": "Design of the Week: Spooletarium",
+    "summary_bullets_en": [
+      "The Spooletarium has been selected as the Design of the Week.",
+      "The project was created by Printables contributor M4NU.",
+      "This design highlights creative solutions within the 3D printing community."
+    ],
+    "summary_bullets_cs": [
+      "Projekt Spooletarium byl vybrán jako design týdne.",
+      "Autorem tohoto návrhu je přispěvatel M4NU z platformy Printables.",
+      "Tento počin vyzdvihuje kreativní řešení v rámci komunity 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Printables",
+      "Design",
+      "Maker Community"
+    ]
+  },
+  {
+    "title": "Lockheed Martin rozšiřuje využití LPBF pro komponenty tepelného managementu v hypersonických a leteckých systémech",
+    "summary": "Lockheed Martin, the US aerospace and defense company, is advancing laser powder-bed fusion additive manufacturing to enable faster operational readiness for next-generation aircraft, hypersonic systems, and electric propulsion platforms. The effort is tied to supply chain resilience and to shorter design-to-flight timelines for thermal management components used in aerospace and defense manufacturing. High-performance electronics and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/Additive-Manufacturing-1000.jpg.pc-adaptive.1280.medium-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-05-11T09:18:07+00:00",
+    "url": "https://3dprintingindustry.com/news/lockheed-martin-scales-lpbf-for-thermal-management-parts-in-hypersonic-and-aircraft-systems-251310/?utm_source=rss&utm_medium=rss&utm_campaign=lockheed-martin-scales-lpbf-for-thermal-management-parts-in-hypersonic-and-aircraft-systems",
+    "forced_tags": [],
+    "title_en": "Lockheed Martin Scales LPBF for Thermal Management Parts in Hypersonic and Aircraft Systems",
+    "summary_bullets_en": [
+      "Lockheed Martin is scaling laser powder-bed fusion (LPBF) to accelerate the production of thermal management components.",
+      "The initiative aims to enhance supply chain resilience and shorten design-to-flight timelines for advanced aerospace platforms.",
+      "The technology supports next-generation aircraft, hypersonic systems, and electric propulsion platforms.",
+      "The focus is on integrating high-performance electronics within complex aerospace structures."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Lockheed Martin rozšiřuje technologii laserového spékání prášku (LPBF) pro urychlení výroby komponentů tepelného managementu.",
+      "Cílem iniciativy je posílení odolnosti dodavatelského řetězce a zkrácení doby od návrhu k letu u pokročilých leteckých platforem.",
+      "Technologie podporuje vývoj letadel nové generace, hypersonických systémů a platforem s elektrickým pohonem.",
+      "Důraz je kladen na integraci vysoce výkonné elektroniky do komplexních leteckých struktur."
+    ],
+    "tags": [
+      "Hardware",
+      "Lockheed Martin",
+      "LPBF",
+      "Additive Manufacturing",
+      "Aerospace",
+      "Hypersonics",
+      "Thermal Management"
+    ]
+  },
+  {
+    "title": "Studie štěpení kapek poháněného odpařováním ukazuje potenciál pro nanovýrobu",
+    "summary": "Research from King Abdullah University of Science and Technology, Okinawa Institute of Science and Technology Graduate University, and the Max Planck Institute for Polymer Research shows that ordinary pipetting can leave evaporating water drops carrying enough charge to undergo repeated Coulomb fissions on lubricated surfaces, a result that could inform nanoscale fabrication and other droplet-based&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/Evaporation-drives-periodic-Coulomb-fissions-and-drop-oscillations.-Image-via-Proceedings-of-the-National-Academy-of-Sciences-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-05-11T09:17:59+00:00",
+    "url": "https://3dprintingindustry.com/news/evaporation-driven-droplet-fission-study-points-to-nanoscale-fabrication-potential-251321/?utm_source=rss&utm_medium=rss&utm_campaign=evaporation-driven-droplet-fission-study-points-to-nanoscale-fabrication-potential",
+    "forced_tags": [],
+    "title_en": "Evaporation-Driven Droplet Fission Study Points to Nanoscale Fabrication Potential",
+    "summary_bullets_en": [
+      "Researchers discovered that evaporating water droplets on lubricated surfaces can accumulate enough charge to undergo repeated Coulomb fissions.",
+      "This phenomenon occurs naturally during standard pipetting processes without the need for external electrical fields.",
+      "The findings offer a new mechanism for controlling droplet behavior, which could revolutionize nanoscale fabrication and microfluidic technologies."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci zjistili, že odpařující se kapky vody na lubrikovaných površích mohou akumulovat dostatečný náboj k opakovanému Coulombovu štěpení.",
+      "Tento jev probíhá přirozeně během běžného pipetování, aniž by byly potřeba vnější elektrická pole.",
+      "Zjištění nabízejí nový mechanismus pro řízení chování kapek, což by mohlo přinést revoluci v nanovýrobě a mikrofluidních technologiích."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Nanotechnology",
+      "Microfluidics",
+      "Droplet-based fabrication",
+      "Physics"
+    ]
+  },
+  {
+    "title": "3D tištěná silikonová mřížka kombinuje odolnost proti plísním s tlumením vibrací",
+    "summary": "Researchers from Jiangnan University, a research university in Wuxi, China, and Jiangda Vibration Isolator Co., Ltd., a vibration-control manufacturer based in the same city, have developed a 3D printed silicone rubber lattice designed to resist fungal growth while absorbing vibration and repeated compression in marine environments. Reported in a study published in Advanced Composites and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/Engineered-lattice-architecture-of-the-hBN-SR-elastomer-composite-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-05-11T09:15:20+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printed-silicone-lattice-mixes-antifungal-resistance-with-vibration-isolation-251326/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-silicone-lattice-mixes-antifungal-resistance-with-vibration-isolation",
+    "forced_tags": [],
+    "title_en": "3D Printed Silicone Lattice Mixes Antifungal Resistance with Vibration Isolation",
+    "summary_bullets_en": [
+      "Researchers from Jiangnan University and Jiangda Vibration Isolator Co. developed a 3D printed silicone rubber lattice.",
+      "The material is engineered to resist fungal growth, making it ideal for harsh marine environments.",
+      "The structure effectively combines vibration isolation with high durability under repeated compression.",
+      "The study, published in Advanced Composites and Hybrid Materials, highlights potential applications in marine infrastructure."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Jiangnan University a společnosti Jiangda Vibration Isolator Co. vyvinuli 3D tištěnou mřížku ze silikonového kaučuku.",
+      "Materiál je navržen tak, aby odolával růstu plísní, což je ideální pro náročné mořské prostředí.",
+      "Struktura efektivně kombinuje schopnost tlumit vibrace s vysokou odolností při opakovaném stlačování.",
+      "Studie publikovaná v časopise Advanced Composites and Hybrid Materials zdůrazňuje potenciální využití v námořní infrastruktuře."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Silicone",
+      "Lattice Structures",
+      "Marine Engineering",
+      "Vibration Isolation",
+      "Antifungal Materials"
+    ]
+  },
+  {
+    "title": "Nový rámec by mohl standardizovat 3D tištěné stavby v oblastech ohrožených zemětřesením",
+    "summary": "Researchers at the Indian Institute of Technology Guwahati (IIT Guwahati) have tested full-scale 3D printed concrete walls under simulated earthquake conditions and experimentally validated a design framework for seismic applications. Published in the Journal of Building Engineering, the study addresses a procedural gap that has constrained the technology’s reach: no standardised building code specifically addresses&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/Shaking-table-article-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-05-11T09:15:09+00:00",
+    "url": "https://3dprintingindustry.com/news/new-framework-could-standardize-3d-printed-construction-in-earthquake-zones-251309/?utm_source=rss&utm_medium=rss&utm_campaign=new-framework-could-standardize-3d-printed-construction-in-earthquake-zones",
+    "forced_tags": [],
+    "title_en": "New Framework Could Standardize 3D Printed Construction in Earthquake Zones",
+    "summary_bullets_en": [
+      "Researchers at IIT Guwahati successfully tested full-scale 3D printed concrete walls under simulated seismic conditions.",
+      "The study introduces a validated design framework to address the lack of standardized building codes for 3D printed structures.",
+      "This breakthrough aims to overcome regulatory barriers that have previously limited the use of 3D printing in earthquake-prone regions.",
+      "The findings, published in the Journal of Building Engineering, provide a critical step toward safer, code-compliant additive manufacturing in construction."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Indického technologického institutu v Guwahati (IIT Guwahati) úspěšně otestovali 3D tištěné betonové stěny v plném měřítku v simulovaných podmínkách zemětřesení.",
+      "Studie představuje validovaný konstrukční rámec, který řeší absenci standardizovaných stavebních předpisů pro 3D tištěné konstrukce.",
+      "Tento průlom má za cíl překonat regulační bariéry, které dosud omezovaly využití 3D tisku v seismicky aktivních oblastech.",
+      "Výsledky publikované v Journal of Building Engineering představují zásadní krok směrem k bezpečnější a normami podložené aditivní výrobě ve stavebnictví."
+    ],
+    "tags": [
+      "Material",
+      "Construction",
+      "3D Concrete Printing",
+      "Seismic Engineering",
+      "IIT Guwahati",
+      "Research & Development"
+    ]
+  },
+  {
+    "title": "Vědci vyvinuli metodu volumetrického 3D tisku pod jednu sekundu pomocí holografických světelných polí",
+    "summary": "Researchers at Tsinghua University have developed a volumetric 3D printing method that produced millimetre-scale polymer structures in as little as 0.6 seconds. Called digital incoherent synthesis of holographic light fields (DISH), the method uses holographically optimized light projections delivered through a high-speed rotating periscope, removing the need to rotate the resin container during printing. Published&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/image-2-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-05-11T09:14:55+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-develop-sub-second-volumetric-3d-printing-method-using-holographic-light-fields-251344/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-develop-sub-second-volumetric-3d-printing-method-using-holographic-light-fields",
+    "forced_tags": [],
+    "title_en": "Researchers develop sub-second volumetric 3D printing method using holographic light fields",
+    "summary_bullets_en": [
+      "Tsinghua University researchers created a volumetric 3D printing technique called DISH.",
+      "The method produces millimetre-scale polymer structures in just 0.6 seconds.",
+      "It utilizes holographically optimized light projections via a high-speed rotating periscope.",
+      "This approach eliminates the need to rotate the resin container, significantly increasing printing efficiency."
+    ],
+    "summary_bullets_cs": [
+      "Vědci z univerzity Tsinghua vyvinuli metodu volumetrického 3D tisku s názvem DISH.",
+      "Tato metoda dokáže vytvořit milimetrové polymerové struktury za pouhých 0,6 sekundy.",
+      "Využívá holograficky optimalizované světelné projekce přenášené vysokorychlostním rotujícím periskopem.",
+      "Díky tomuto řešení není nutné během tisku otáčet nádobou s pryskyřicí, což zvyšuje rychlost a efektivitu procesu."
+    ],
+    "tags": [
+      "Hardware",
+      "Volumetric 3D Printing",
+      "DISH",
+      "Tsinghua University",
+      "Additive Manufacturing",
+      "Holography"
+    ]
+  },
+  {
+    "title": "Počítačové vidění a detekce vad pomocí strojového učení v 3D tisku betonu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/955728119/0/fabbaloo/default~Computer-Vision-And-ML-Defect-Detection-In-Concrete-AM\" rel=\"nofollow\" title=\"Computer Vision And ML Defect Detection In Concrete AM\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/3dcp-quality-visualization-cover-300x155.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new research review looks at how computer vision and machine learning could be used to spot defects in 3D printed concrete.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/955728119/0/fabbaloo/default~Computer-Vision-And-ML-Defect-Detection-In-Concrete-AM\" rel=\"nofollow\">Computer Vision And ML Defect Detection In Concrete AM</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/3dcp-quality-visualization-cover-300x155.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-05-11T08:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/955728119/0/fabbaloo/default~Computer-Vision-And-ML-Defect-Detection-In-Concrete-AM",
+    "forced_tags": [],
+    "title_en": "Computer Vision And ML Defect Detection In Concrete AM",
+    "summary_bullets_en": [
+      "A new research review explores the integration of computer vision and machine learning in 3D concrete printing.",
+      "These technologies are being developed to automatically identify structural defects during the additive manufacturing process.",
+      "The study highlights how AI-driven monitoring can improve quality control and safety in large-scale construction projects."
+    ],
+    "summary_bullets_cs": [
+      "Nový výzkumný přehled zkoumá využití počítačového vidění a strojového učení při 3D tisku z betonu.",
+      "Tyto technologie jsou vyvíjeny za účelem automatické identifikace strukturálních vad během procesu aditivní výroby.",
+      "Studie zdůrazňuje, jak může monitorování řízené umělou inteligencí zlepšit kontrolu kvality a bezpečnost u rozsáhlých stavebních projektů."
+    ],
+    "tags": [
+      "Software",
+      "Material",
+      "3D Concrete Printing",
+      "Computer Vision",
+      "Machine Learning",
+      "Quality Control",
+      "Construction"
+    ]
+  },
+  {
+    "title": "Odchod společnosti Materialise z trhu s brýlemi potvrzuje „I Market Law“ v aditivní výrobě",
+    "summary": "3DP War Journal #97",
+    "image": "https://substackcdn.com/image/fetch/$s_!uGDi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6db47542-ccbc-4a1c-a082-850775e06345_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-05-11T08:01:39+00:00",
+    "url": "https://www.3dprintingjournal.com/p/materialises-exit-from-eyewear-proves",
+    "forced_tags": [],
+    "title_en": "Materialise’s exit from eyewear proves The I Market Law of Additive Manufacturing",
+    "summary_bullets_en": [
+      "Materialise has decided to discontinue its dedicated eyewear manufacturing services, signaling a strategic shift in its business model.",
+      "The move highlights the 'I Market Law' of additive manufacturing, which suggests that specialized consumer markets often struggle to sustain high-volume 3D printing production.",
+      "This development reflects broader industry challenges in scaling niche applications from prototyping to mass-market commercialization.",
+      "The decision underscores the necessity for 3D printing companies to focus on core competencies rather than over-extending into highly competitive consumer goods sectors."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Materialise se rozhodla ukončit své specializované služby v oblasti výroby brýlí, což značí strategický posun v jejím obchodním modelu.",
+      "Tento krok poukazuje na tzv. „I Market Law“ v aditivní výrobě, podle kterého mají specializované spotřebitelské trhy často problém udržet velkoobjemovou produkci pomocí 3D tisku.",
+      "Vývoj odráží širší průmyslové výzvy při škálování úzce zaměřených aplikací z fáze prototypování do masové komerční výroby.",
+      "Rozhodnutí podtrhuje nutnost, aby se firmy v oboru 3D tisku soustředily na své hlavní kompetence namísto přílišné expanze do vysoce konkurenčních sektorů spotřebního zboží."
+    ],
+    "tags": [
+      "Services",
+      "Materialise",
+      "Additive Manufacturing",
+      "Eyewear",
+      "Business Strategy"
+    ]
+  },
+  {
+    "title": "Výzkumníci z MIT vytiskli na 3D tiskárně koncept třístranného zipu",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/mit-researchers-3d-print-a-three-sided-zipper-concept/\" target=\"_blank\">MIT Researchers 3D Print a Three-Sided Zipper Concept</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">May 11</span></div><div><img alt=\"MIT Researchers 3D Print a Three-Sided Zipper Concept\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/8648784798-500x500.png\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/8648784798-500x500.png",
+    "source": "3DPrinting.com",
+    "published": "2026-05-11T07:41:02+00:00",
+    "url": "https://3dprinting.com/news/mit-researchers-3d-print-a-three-sided-zipper-concept/",
+    "forced_tags": [],
+    "title_en": "MIT Researchers 3D Print a Three-Sided Zipper Concept",
+    "summary_bullets_en": [
+      "Researchers at MIT have developed a novel three-sided zipper concept using 3D printing technology.",
+      "The design challenges traditional two-sided fastening mechanisms, allowing for more complex geometric connections.",
+      "This innovation demonstrates the potential of additive manufacturing to create functional, interlocking mechanical parts in a single print."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z MIT vyvinuli inovativní koncept třístranného zipu s využitím technologie 3D tisku.",
+      "Tento design představuje výzvu pro tradiční oboustranné spojovací mechanismy a umožňuje vytvářet komplexnější geometrická spojení.",
+      "Inovace demonstruje potenciál aditivní výroby při vytváření funkčních, do sebe zapadajících mechanických dílů v rámci jednoho tiskového procesu."
+    ],
+    "tags": [
+      "Hardware",
+      "MIT",
+      "3D Printing",
+      "Mechanical Engineering",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Společnost Tectonic 3D přebírá portfolio materiálů pro 3D tisk od firmy Solvay",
+    "summary": "High-performance 3D printing materials company Tectonic 3D has bought the 3D printing materials portfolio of Solvay. The Syensqo portfolio, including PEEK AM Filament MS NT1, PEEK CF10 LS1, PPSU, NT1 HC,...",
+    "image": "https://3dprint.com/wp-content/uploads/2019/11/Solvay-AM-ready-Filaments.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-11T07:30:46+00:00",
+    "url": "https://3dprint.com/325903/tectonic-3d-takes-over-solvay-3d-printing-materials-portfolio/",
+    "forced_tags": [],
+    "title_en": "Tectonic 3D Takes Over Solvay 3D Printing Materials Portfolio",
+    "summary_bullets_en": [
+      "Tectonic 3D has acquired the 3D printing materials portfolio previously held by Solvay.",
+      "The deal includes high-performance materials such as PEEK AM Filament, PPSU, and other specialized polymers.",
+      "This strategic move expands Tectonic 3D's capabilities in the high-performance additive manufacturing sector.",
+      "The portfolio transition involves products formerly associated with the Syensqo brand."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Tectonic 3D odkoupila portfolio materiálů pro 3D tisk od firmy Solvay.",
+      "Akvizice zahrnuje vysoce výkonné materiály, jako jsou PEEK AM Filament, PPSU a další specializované polymery.",
+      "Tento strategický krok rozšiřuje možnosti společnosti Tectonic 3D v oblasti aditivní výroby vysoce odolných dílů.",
+      "Převod portfolia se týká produktů, které byly dříve spojovány se značkou Syensqo."
+    ],
+    "tags": [
+      "Material",
+      "Tectonic 3D",
+      "Solvay",
+      "Syensqo",
+      "PEEK",
+      "PPSU"
+    ]
+  },
+  {
+    "title": "Finanční výsledky 3D tisku: Stratasys sází na obranu a drony, zatímco prodeje tiskáren zpomalují",
+    "summary": "Stratasys (Nasdaq: SSYS) started 2026 with lower revenue and a larger loss as customers continued to slow down spending on new 3D printers. Still, the company pointed to stable recurring...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/IMG_3213-scaled.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-05-11T07:00:09+00:00",
+    "url": "https://3dprint.com/325959/3d-printing-financials-stratasys-bets-on-defense-and-drones-as-printer-sales-slow/",
+    "forced_tags": [],
+    "title_en": "3D Printing Financials: Stratasys Bets on Defense and Drones as Printer Sales Slow",
+    "summary_bullets_en": [
+      "Stratasys reported a decline in revenue and increased losses for early 2026 due to reduced customer spending on new hardware.",
+      "The company is pivoting its strategy to focus on high-growth sectors, specifically defense and drone manufacturing.",
+      "Despite the slump in printer sales, Stratasys highlighted the stability of its recurring revenue streams."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Stratasys zahájila rok 2026 s nižšími příjmy a vyšší ztrátou, protože zákazníci omezili investice do nových 3D tiskáren.",
+      "Firma se v rámci nové strategie zaměřuje na perspektivní odvětví obranného průmyslu a výroby dronů.",
+      "Navzdory poklesu prodejů tiskáren společnost zdůraznila stabilitu svých opakujících se příjmů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Stratasys",
+      "Defense Industry",
+      "Drones"
+    ]
+  },
+  {
+    "title": "Kladivem do kompozitu",
+    "summary": "Tradiční strojařina nikam nemizí, aditivní výroba ji nenahrazuje – jen šikovně doplňuje. Pojďme uvést na pravou míru zažité mýty o 3D tisku v průmyslu.",
+    "image": "https://blog.aditivni.cz/_astro/hero-background03.dRCcRo1T.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-05-10T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/kladivem-do-kompozitu/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Hammering the Composite",
+    "summary_bullets_en": [
+      "Traditional engineering remains essential and is not being replaced by additive manufacturing.",
+      "3D printing serves as a strategic complement to conventional production methods rather than a total substitute.",
+      "The article aims to debunk common myths surrounding the role of 3D printing in modern industry."
+    ],
+    "summary_bullets_cs": [
+      "Tradiční strojírenství zůstává nezbytným základem a aditivní výroba jej nenahrazuje.",
+      "3D tisk funguje jako strategický doplněk konvenčních výrobních postupů, nikoliv jako jejich náhrada.",
+      "Článek uvádí na pravou míru zažité mýty o roli 3D tisku v moderním průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Additive Manufacturing",
+      "Industrial Engineering",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Případová studie 3D People podrobně popisuje vývoj 3D tištěného POV kamerového rigu",
     "summary": "A POV, or Point of View, camera rig, is a wearable support system that helps filmographers capture first-person footage, making the images more immersive. Some good examples of movies shot...",
     "image": "https://3dprint.com/wp-content/uploads/2026/05/Cyclops-2-1024x744.jpg",
