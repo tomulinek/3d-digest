@@ -1,5 +1,518 @@
 [
   {
+    "title": "Nová 3D tiskárna Bambu Lab A2L: Technické specifikace a cena",
+    "summary": "Chinese 3D printer manufacturer Bambu Lab has finally revealed the A2L, an open-frame large-format 3D printer with a 330 x 320 x 325 mm build volume. The machine adds hands-free leveling and offset adjustment, multi-color printing, blade cutting, pen plotting, and indoor air quality certification to the company’s open-frame printer range. A2L provides 105% more&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/BBL-A2L-00-hero-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-02T05:22:12+00:00",
+    "url": "https://3dprintingindustry.com/news/new-bambu-lab-a2l-3d-printer-technical-specifications-and-pricing-252057/?utm_source=rss&utm_medium=rss&utm_campaign=new-bambu-lab-a2l-3d-printer-technical-specifications-and-pricing",
+    "forced_tags": [],
+    "title_en": "New Bambu Lab A2L 3D printer: Technical Specifications and Pricing",
+    "summary_bullets_en": [
+      "Bambu Lab introduces the A2L, a new open-frame 3D printer featuring a large 330 x 320 x 325 mm build volume.",
+      "The device includes advanced features like hands-free leveling, multi-color printing, and integrated blade cutting and pen plotting.",
+      "It offers a 105% increase in build volume compared to previous models and includes indoor air quality certification."
+    ],
+    "summary_bullets_cs": [
+      "Čínský výrobce Bambu Lab představil A2L, 3D tiskárnu s otevřeným rámem a velkým tiskovým objemem 330 x 320 x 325 mm.",
+      "Stroj přináší automatické vyrovnávání podložky, vícebarevný tisk, řezání čepelí, kreslení perem a certifikaci kvality vnitřního ovzduší.",
+      "Model A2L nabízí o 105 % větší tiskový prostor oproti předchozím modelům v řadě otevřených tiskáren této značky."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing",
+      "FDM",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "AMA: Zdravotnictví: Nová definice preklinického testování: Inovativní přístup k biofabrici na Newcastle University",
+    "summary": "3D Printing for Healthcare is the topic of our next online event, AMA: Healthcare 2026 on June 4th. At the center of that discussion is work being done not in a clinical setting, but at the intersection of materials science, cellular biology, and additive fabrication. Dr. Priscila Melo, Lecturer in Bioengineering at Newcastle University and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/AMAHealthcare-2026--150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-01T18:30:00+00:00",
+    "url": "https://3dprintingindustry.com/news/ama-healthcare-redefining-preclinical-testing-new-biofabrication-approach-at-newcastle-university-251622/?utm_source=rss&utm_medium=rss&utm_campaign=ama-healthcare-redefining-preclinical-testing-new-biofabrication-approach-at-newcastle-university",
+    "forced_tags": [],
+    "title_en": "AMA: Healthcare: Redefining Preclinical Testing: New Biofabrication Approach at Newcastle University",
+    "summary_bullets_en": [
+      "Newcastle University is pioneering a new biofabrication method that merges materials science, cellular biology, and 3D printing.",
+      "The research focuses on transforming preclinical testing processes through advanced additive manufacturing.",
+      "Dr. Priscila Melo will discuss these innovations during the upcoming AMA: Healthcare 2026 event on June 4th."
+    ],
+    "summary_bullets_cs": [
+      "Newcastle University vyvíjí novou metodu biofabrici, která propojuje materiálové vědy, buněčnou biologii a 3D tisk.",
+      "Výzkum se zaměřuje na transformaci procesů preklinického testování pomocí pokročilé aditivní výroby.",
+      "Dr. Priscila Melo představí tyto inovace během nadcházející akce AMA: Healthcare 2026, která se koná 4. června."
+    ],
+    "tags": [
+      "Material",
+      "Services",
+      "Biofabrication",
+      "3D Bioprinting",
+      "Healthcare",
+      "Newcastle University",
+      "Preclinical Testing"
+    ]
+  },
+  {
+    "title": "Bambu Lab představuje velkoformátovou stolní 3D tiskárnu A2L",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957618383/0/fabbaloo/default~Bambu-Lab-Unveils-AL-LargeFormat-Desktop-D-Printer\" rel=\"nofollow\" title=\"Bambu Lab Unveils A2L Large-Format Desktop 3D Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/bambu-lab-a2l-cover-300x209.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Bambu Lab announced a new and larger desktop FFF 3D printer, the A2L.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957618383/0/fabbaloo/default~Bambu-Lab-Unveils-AL-LargeFormat-Desktop-D-Printer\" rel=\"nofollow\">Bambu Lab Unveils A2L Large-Format Desktop 3D Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/bambu-lab-a2l-cover-300x209.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-01T16:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957618383/0/fabbaloo/default~Bambu-Lab-Unveils-AL-LargeFormat-Desktop-D-Printer",
+    "forced_tags": [],
+    "title_en": "Bambu Lab Unveils A2L Large-Format Desktop 3D Printer",
+    "summary_bullets_en": [
+      "Bambu Lab has officially announced the launch of their new A2L 3D printer.",
+      "The A2L model is designed as a large-format desktop FFF (Fused Filament Fabrication) machine.",
+      "This release expands the company's current portfolio of high-speed desktop 3D printers."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab oficiálně oznámila uvedení své nové 3D tiskárny A2L.",
+      "Model A2L je navržen jako velkoformátová stolní tiskárna využívající technologii FFF.",
+      "Tímto krokem firma rozšiřuje své stávající portfolio vysokorychlostních stolních 3D tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing",
+      "FFF",
+      "Desktop 3D Printer"
+    ]
+  },
+  {
+    "title": "Bambu uvádí A2L: Co nová tiskárna odhaluje o jejich strategii",
+    "summary": "Bambu Lab continues its relentless march for 3D printing domination with the launch of the A2L. The 330 × 320 × 325 mm printer will have a nozzle temperature of...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/A2L-06-1024x1024.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-01T14:00:53+00:00",
+    "url": "https://3dprint.com/326389/d-embargo-june-1-2026-1000-am-edt-bambu-launches-a2l-analysis/",
+    "forced_tags": [],
+    "title_en": "Bambu Launches A2L: What the New Printer Reveals About Its Strategy",
+    "summary_bullets_en": [
+      "Bambu Lab expands its market presence with the new A2L 3D printer.",
+      "The device features a build volume of 330 × 320 × 325 mm.",
+      "The printer introduces advanced technical specifications, including high nozzle temperature capabilities.",
+      "The launch signals Bambu Lab's ongoing strategy to dominate the consumer and prosumer 3D printing sectors."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab pokračuje ve svém neúnavném tažení za ovládnutím trhu 3D tisku uvedením modelu A2L.",
+      "Tiskárna nabídne tiskový prostor o rozměrech 330 × 320 × 325 mm.",
+      "Zařízení bude disponovat vysokou teplotou trysky, což naznačuje zaměření na pokročilé materiály."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Nová legislativa státu New York ohledně 3D tisku vyvolává otázky o své proveditelnosti",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957613091/0/fabbaloo/default~New-York%e2%80%99s-New-D-Printing-Legislation-Raises-Questions-About-Feasibility\" rel=\"nofollow\" title=\"New York’s New 3D Printing Legislation Raises Questions About Feasibility\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/new-york-signed-cover-300x125.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>It happened last week: New York State actually passed their unbelievably infeasible 3D-printed weapon legislation.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957613091/0/fabbaloo/default~New-York%e2%80%99s-New-D-Printing-Legislation-Raises-Questions-About-Feasibility\" rel=\"nofollow\">New York’s New 3D Printing Legislation Raises Questions About Feasibility</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/new-york-signed-cover-300x125.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-01T13:53:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957613091/0/fabbaloo/default~New-York%e2%80%99s-New-D-Printing-Legislation-Raises-Questions-About-Feasibility",
+    "forced_tags": [],
+    "title_en": "New York’s New 3D Printing Legislation Raises Questions About Feasibility",
+    "summary_bullets_en": [
+      "New York State has officially passed legislation targeting 3D-printed weapons.",
+      "The new law faces significant criticism regarding its practical implementation and technical feasibility.",
+      "Industry experts and observers are questioning how such regulations can be effectively enforced in the era of desktop manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Stát New York oficiálně schválil legislativu zaměřenou na 3D tištěné zbraně.",
+      "Nový zákon čelí značné kritice ohledně své praktické implementace a technické proveditelnosti.",
+      "Odborníci z oboru a pozorovatelé zpochybňují, jak lze takové předpisy efektivně vymáhat v éře stolní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Legislation",
+      "3D Printing Policy",
+      "New York State",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Creality představuje systém pro výměnu trysek KliTek",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957613094/0/fabbaloo/default~Creality-Reveals-KliTek-NozzleSwapping-System\" rel=\"nofollow\" title=\"Creality Reveals KliTek Nozzle-Swapping System\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/creality-klitek-cover-300x182.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Creality has joined the no-waste 3D printing club with the surprise announcement of “KliTek”.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957613094/0/fabbaloo/default~Creality-Reveals-KliTek-NozzleSwapping-System\" rel=\"nofollow\">Creality Reveals KliTek Nozzle-Swapping System</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/creality-klitek-cover-300x182.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-01T13:51:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957613094/0/fabbaloo/default~Creality-Reveals-KliTek-NozzleSwapping-System",
+    "forced_tags": [],
+    "title_en": "Creality Reveals KliTek Nozzle-Swapping System",
+    "summary_bullets_en": [
+      "Creality has officially introduced KliTek, a new nozzle-swapping system.",
+      "The system aims to reduce material waste during the 3D printing process.",
+      "This move positions Creality among other manufacturers focusing on efficient, modular nozzle solutions."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Creality oficiálně představila KliTek, nový systém pro snadnou výměnu trysek.",
+      "Cílem tohoto systému je snížení plýtvání materiálem během procesu 3D tisku.",
+      "Tímto krokem se Creality připojuje k výrobcům, kteří se zaměřují na efektivní a modulární řešení tiskových hlav."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "KliTek",
+      "3D Printing",
+      "Nozzle Technology"
+    ]
+  },
+  {
+    "title": "AMA: Zdravotnictví: Průmyslová škálovatelnost pro výrobu ortéz a protéz",
+    "summary": "With AMA: Healthcare 2026 on June 4th putting 3D printing in healthcare under the spotlight, voices from across the industry are weighing in on where the technology is heading. Among the clearest is EOS, the Munich-founded laser powder bed technology company, which is making the case that the orthotics and prosthetics industry has spent long&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/AMAHealthcare-2026--150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-01T13:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/ama-healthcare-industrial-scalability-for-op-production-252007/?utm_source=rss&utm_medium=rss&utm_campaign=ama-healthcare-industrial-scalability-for-op-production",
+    "forced_tags": [],
+    "title_en": "AMA: Healthcare: Industrial Scalability for O&P Production",
+    "summary_bullets_en": [
+      "The upcoming AMA: Healthcare 2026 event on June 4th will focus on the future of 3D printing in the medical sector.",
+      "EOS is highlighting the transition of the orthotics and prosthetics (O&P) industry from manual processes to industrial-scale additive manufacturing.",
+      "The industry is moving toward greater scalability and efficiency through advanced laser powder bed fusion technology."
+    ],
+    "summary_bullets_cs": [
+      "Nadcházející akce AMA: Healthcare 2026, která se koná 4. června, se zaměří na budoucnost 3D tisku ve zdravotnictví.",
+      "Společnost EOS zdůrazňuje přechod odvětví ortotiky a protetiky (O&P) od manuálních procesů k průmyslové aditivní výrobě.",
+      "Odvětví směřuje k vyšší škálovatelnosti a efektivitě díky pokročilé technologii spékání prášku laserem."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "EOS",
+      "Healthcare",
+      "Orthotics and Prosthetics",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Negar Movahed ze Stratasys Dental říká, že jsou „otevřeni partnerstvím“",
+    "summary": "According to &#8220;3D Printing for Dentistry 2025: Market Study and Forecast&#8221; by AM Research, the dental 3D printing market generated $5.2 billion in revenue in 2024—that&#8217;s nearly one third of...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/04/IMG_3214-1024x768.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-01T13:00:00+00:00",
+    "url": "https://3dprint.com/325652/stratasys-dentals-negar-movahed-says-theyre-open-for-partnerships/",
+    "forced_tags": [],
+    "title_en": "Stratasys Dental’s Negar Movahed Says They’re “Open for Partnerships”",
+    "summary_bullets_en": [
+      "The dental 3D printing market reached $5.2 billion in revenue in 2024, accounting for nearly one-third of the total additive manufacturing industry.",
+      "Stratasys Dental is actively seeking new strategic partnerships to expand its influence in the rapidly growing dental sector.",
+      "The industry is experiencing significant growth driven by the increasing adoption of digital dentistry solutions.",
+      "Negar Movahed emphasizes the importance of collaboration in scaling dental 3D printing technologies."
+    ],
+    "summary_bullets_cs": [
+      "Trh s 3D tiskem ve stomatologii vygeneroval v roce 2024 příjmy ve výši 5,2 miliardy dolarů, což představuje téměř třetinu celého odvětví aditivní výroby.",
+      "Společnost Stratasys Dental aktivně hledá nová strategická partnerství pro posílení své pozice v rychle rostoucím stomatologickém sektoru.",
+      "Odvětví zažívá výrazný růst díky rostoucímu využívání řešení digitální stomatologie.",
+      "Negar Movahed zdůrazňuje význam spolupráce při rozšiřování technologií 3D tisku v zubním lékařství."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Stratasys",
+      "Dental 3D Printing",
+      "AM Research"
+    ]
+  },
+  {
+    "title": "Finanční výsledky 3D tisku: XTPL získává v 1. čtvrtletí 2026 nové zákazníky v oblasti polovodičů a obrany",
+    "summary": "Polish microprinting company XTPL (WSE: XTP) reported first-quarter 2026 revenue of PLN 1.6 million (roughly $441,000) as the company expands into the semiconductor and advanced electronics markets, while also launching...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/Filip-Granek_CEO-1024x948.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-01T12:30:04+00:00",
+    "url": "https://3dprint.com/326329/3d-printing-financials-xtpl-adds-new-semiconductor-and-defense-customers-in-q1-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing Financials: XTPL Adds New Semiconductor and Defense Customers in Q1 2026",
+    "summary_bullets_en": [
+      "XTPL reported Q1 2026 revenue of PLN 1.6 million, reflecting steady growth.",
+      "The company is successfully expanding its microprinting technology into the semiconductor and defense sectors.",
+      "Strategic focus remains on advanced electronics markets and new product launches."
+    ],
+    "summary_bullets_cs": [
+      "Polská společnost XTPL zabývající se mikro-tiskem vykázala za první čtvrtletí roku 2026 tržby ve výši 1,6 milionu PLN (zhruba 441 000 USD).",
+      "Firma expanduje na trhy s polovodiči a pokročilou elektronikou.",
+      "Společnost zároveň zahájila uvádění nových produktů na trh."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "XTPL",
+      "Semiconductors",
+      "Microprinting",
+      "Defense"
+    ]
+  },
+  {
+    "title": "3DPOD 301: Jay Rogers o robotické 3D tištěné výrobě ve společnosti Haddy a mnohem více",
+    "summary": "Jay Rogers was in the Marine Corps, consulting, and sailed around the world. He first came to additive through his company, Local Motors. He talks us through that firm&#8217;s promise...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-01T12:00:46+00:00",
+    "url": "https://3dprint.com/325521/3dpod-300-jay-rogers-on-haddys-robotic-3d-printed-manufacturing-and-a-lot-more/",
+    "forced_tags": [],
+    "title_en": "3DPOD 301: Jay Rogers on Haddy’s Robotic 3D Printed Manufacturing, and a Lot More",
+    "summary_bullets_en": [
+      "Jay Rogers shares his professional journey from the Marine Corps and global sailing to the additive manufacturing industry.",
+      "The discussion focuses on the vision and challenges of his company, Local Motors, in the 3D printing space.",
+      "The episode explores the integration of robotics and 3D printing technologies at his new venture, Haddy.",
+      "Rogers provides insights into the future of decentralized, automated manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "Jay Rogers vypráví o své profesní cestě od námořní pěchoty a plavby kolem světa až k aditivní výrobě.",
+      "Diskuse se zaměřuje na vizi a výzvy jeho společnosti Local Motors v oblasti 3D tisku.",
+      "Epizoda zkoumá integraci robotiky a technologií 3D tisku v jeho novém projektu Haddy.",
+      "Rogers nabízí vhled do budoucnosti decentralizovaných a automatizovaných výrobních procesů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Manufacturing",
+      "Robotics",
+      "Local Motors",
+      "Haddy",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Design týdne: Manual",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957609455/0/fabbaloo/default~Design-of-the-Week-Manual\" rel=\"nofollow\" title=\"Design of the Week: Manual\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/manual-cover-300x210.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>This week’s selection is “Manual”, a 3D printed book by Hyperpress.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957609455/0/fabbaloo/default~Design-of-the-Week-Manual\" rel=\"nofollow\">Design of the Week: Manual</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/manual-cover-300x210.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-01T11:52:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957609455/0/fabbaloo/default~Design-of-the-Week-Manual",
+    "forced_tags": [],
+    "title_en": "Design of the Week: Manual",
+    "summary_bullets_en": [
+      "Hyperpress has released a unique 3D printed book titled 'Manual'.",
+      "The project showcases the intersection of traditional publishing and additive manufacturing.",
+      "It has been selected as the featured design of the week by Fabbaloo."
+    ],
+    "summary_bullets_cs": [
+      "Vydavatelství Hyperpress představilo unikátní 3D tištěnou knihu s názvem „Manual“.",
+      "Projekt demonstruje propojení tradičního knižního vydavatelství a aditivní výroby.",
+      "Tento počin byl redakcí Fabbaloo vybrán jako design týdne."
+    ],
+    "tags": [
+      "Services",
+      "3D Printing",
+      "Hyperpress",
+      "Design",
+      "Publishing"
+    ]
+  },
+  {
+    "title": "AMA: Zdravotnický LMM kovový 3D tisk: Od laboratoře k dílům klinické kvality",
+    "summary": "3D Printing for Healthcare is the focus of AMA: Healthcare 2026 on June 4th,  register now to join the conversation. Two companies are making a coordinated push to move lithography-based metal manufacturing out of the research lab and onto the factory floor. During AMA Healthcare 2025, Dr. Gerald Mitteramskogler, CEO and founder of Vienna-based Incus&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/AMAHealthcare-2026--150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-01T10:35:28+00:00",
+    "url": "https://3dprintingindustry.com/news/ama-healthcare-lmm-metal-am-from-lab-to-clinical-grade-parts-251999/?utm_source=rss&utm_medium=rss&utm_campaign=ama-healthcare-lmm-metal-am-from-lab-to-clinical-grade-parts",
+    "forced_tags": [],
+    "title_en": "AMA: Healthcare LMM Metal AM: From Lab to Clinical-Grade Parts",
+    "summary_bullets_en": [
+      "The upcoming AMA: Healthcare 2026 event on June 4th will focus on the future of 3D printing in the medical sector.",
+      "Industry leaders are collaborating to transition lithography-based metal manufacturing (LMM) from research environments to industrial clinical production.",
+      "Dr. Gerald Mitteramskogler, CEO of Incus, will lead discussions on scaling high-precision metal parts for healthcare applications."
+    ],
+    "summary_bullets_cs": [
+      "Nadcházející akce AMA: Healthcare 2026, která se koná 4. června, se zaměří na budoucnost 3D tisku ve zdravotnictví.",
+      "Lídři v oboru spolupracují na přechodu výroby kovů na bázi litografie (LMM) z výzkumných laboratoří do průmyslové klinické výroby.",
+      "Dr. Gerald Mitteramskogler, generální ředitel společnosti Incus, povede diskuse o škálování vysoce přesných kovových dílů pro zdravotnické účely."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "LMM",
+      "Incus",
+      "Metal AM",
+      "Healthcare"
+    ]
+  },
+  {
+    "title": "Přeupsané IPO společnosti Creality vyneslo 177 milionů dolarů, čímž výrobce desktopových 3D tiskáren dosáhl tržní hodnoty 1,12 miliardy dolarů",
+    "summary": "Creality, a Shenzhen-based maker of consumer 3D printing products, listed on the Main Board of the Hong Kong Stock Exchange under ticker 3388.HK, issuing 73,427,550 H-shares and raising net proceeds of about HK$1.272 billion. Shares opened at HK$33.88, about 80% above the IPO price. Creality described itself as the first consumer 3D printing company to&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/Inside-the-trading-hall-of-the-Hong-Kong-Stock-Exchange-Crealitys-management-team-rang-the-ceremonial-listing-gong-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-01T09:59:17+00:00",
+    "url": "https://3dprintingindustry.com/news/oversubscribed-creality-ipo-raises-177m-valuing-desktop-3d-printing-company-at-1-12-billion-252037/?utm_source=rss&utm_medium=rss&utm_campaign=oversubscribed-creality-ipo-raises-177m-valuing-desktop-3d-printing-company-at-1-12-billion",
+    "forced_tags": [],
+    "title_en": "Oversubscribed Creality IPO raises $177M, valuing desktop 3D printing company at $1.12 billion",
+    "summary_bullets_en": [
+      "Creality successfully listed on the Hong Kong Stock Exchange (3388.HK), raising approximately $177 million.",
+      "The company's shares surged by 80% upon opening, reaching a market valuation of $1.12 billion.",
+      "Creality claims to be the first consumer-focused 3D printing manufacturer to achieve this milestone on the Main Board."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Creality úspěšně vstoupila na hlavní trh hongkongské burzy (3388.HK) a získala přibližně 177 milionů dolarů.",
+      "Akcie společnosti při zahájení obchodování vzrostly o 80 %, čímž tržní hodnota firmy dosáhla 1,12 miliardy dolarů.",
+      "Creality se označuje za první společnost zaměřenou na spotřebitelský 3D tisk, která dosáhla tohoto milníku na hlavní burzovní desce."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "IPO",
+      "3D Printing",
+      "Stock Market",
+      "Consumer Electronics"
+    ]
+  },
+  {
+    "title": "Společnost Peopoly představuje peletovou 3D tiskárnu GIGA 800",
+    "summary": "3D printer manufacturer Peopoly has introduced the GIGA 800 FGF Printer, a large-format pellet-extrusion system for industrial tooling, composite mold making, automotive fixtures, and architectural design. Base pricing starts at $15,000 USD (EXW). Build volume measures 800 x 800 x 800 mm. Product materials place the machine within a workflow built around Klipper, Orca Slicer,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/Giga_FGF_Printer_blog_2_8e9768c5-5fd6-46d5-843f-d063235faa0c_1200x-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-06-01T09:18:57+00:00",
+    "url": "https://3dprintingindustry.com/news/peopoly-introduces-giga-800-pellet-3d-printer-252029/?utm_source=rss&utm_medium=rss&utm_campaign=peopoly-introduces-giga-800-pellet-3d-printer",
+    "forced_tags": [],
+    "title_en": "Peopoly Introduces GIGA 800 Pellet 3D Printer",
+    "summary_bullets_en": [
+      "Peopoly launched the GIGA 800, a large-format pellet-extrusion 3D printer designed for industrial applications.",
+      "The machine features a substantial build volume of 800 x 800 x 800 mm.",
+      "It is optimized for professional workflows using Klipper firmware and Orca Slicer.",
+      "The base price for the system starts at $15,000 USD."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce 3D tiskáren Peopoly uvedl na trh GIGA 800, velkoformátový systém pro vytlačování pelet určený pro průmyslové nástroje, formy a automobilové přípravky.",
+      "Tiskárna nabízí pracovní prostor o rozměrech 800 x 800 x 800 mm.",
+      "Stroj je integrován do pracovního postupu založeného na firmwaru Klipper a softwaru Orca Slicer.",
+      "Základní cena zařízení začíná na 15 000 USD (EXW)."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Peopoly",
+      "GIGA 800",
+      "Pellet Extrusion",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "AMA: Zdravotnictví: Lidská „digitální dvojčata“ jako vrstva pro masovou personalizaci ve zdravotnictví",
+    "summary": "With AMA: Healthcare 2026 on June 4th putting 3D printing in healthcare under the spotlight, voices from across the industry are weighing in on where the technology is heading. The term &#8220;digital twin&#8221; has long been synonymous with sprawling factory floors, aerospace assembly lines, and industrial automation, virtual replicas of physical processes generating continuous feedback&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/AMAHealthcare-2026--150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-01T09:04:37+00:00",
+    "url": "https://3dprintingindustry.com/news/ama-healthcare-human-digital-twins-as-the-mass-customization-layer-in-healthcare-251632/?utm_source=rss&utm_medium=rss&utm_campaign=ama-healthcare-human-digital-twins-as-the-mass-customization-layer-in-healthcare",
+    "forced_tags": [],
+    "title_en": "AMA: Healthcare: Human “Digital Twins” as the Mass-Customization Layer in Healthcare",
+    "summary_bullets_en": [
+      "The upcoming AMA: Healthcare 2026 conference on June 4th will highlight the evolving role of 3D printing in the medical sector.",
+      "Industry experts are exploring the concept of 'digital twins'—traditionally used in industrial manufacturing—as a transformative tool for personalized healthcare.",
+      "The integration of virtual replicas of human anatomy aims to enable mass-customization in medical treatments and device production."
+    ],
+    "summary_bullets_cs": [
+      "Nadcházející konference AMA: Healthcare 2026, která se koná 4. června, se zaměří na rostoucí roli 3D tisku ve zdravotnictví.",
+      "Odborníci z oboru zkoumají koncept „digitálních dvojčat“ – technologii známou z průmyslové výroby – jako nástroj pro personalizovanou medicínu.",
+      "Využití virtuálních replik lidské anatomie má umožnit masovou personalizaci léčebných postupů a výrobu zdravotnických prostředků."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "3D Printing",
+      "Healthcare",
+      "Digital Twins",
+      "Mass-Customization"
+    ]
+  },
+  {
+    "title": "Společnost Ottobock uvádí na trh 3D tištěnou silikonovou vložku, která řeší problémy s usazením protéz u 68 % uživatelů",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/ottobock-launches-3d-printed-silicone-liner-to-address-prosthesis-fit-problems-affecting-68-of-users/\" target=\"_blank\">Ottobock Launches 3D Printed Silicone Liner to Address Prosthesis Fit Problems Affecting 68% of Users</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 1</span></div><div><img alt=\"Ottobock Launches 3D Printed Silicone Liner to Address Prosthesis Fit Problems Affecting 68% of Users\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/864979840809-1-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/864979840809-1-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2026-06-01T08:27:20+00:00",
+    "url": "https://3dprinting.com/news/ottobock-launches-3d-printed-silicone-liner-to-address-prosthesis-fit-problems-affecting-68-of-users/",
+    "forced_tags": [],
+    "title_en": "Ottobock Launches 3D Printed Silicone Liner to Address Prosthesis Fit Problems Affecting 68% of Users",
+    "summary_bullets_en": [
+      "Ottobock has introduced a new 3D printed silicone liner designed to improve comfort and fit for prosthetic users.",
+      "The product aims to solve fit-related issues that currently affect approximately 68% of amputees.",
+      "By utilizing additive manufacturing, the company can create highly customized liners tailored to individual patient anatomy.",
+      "This innovation represents a significant shift toward personalized medical devices in the prosthetics industry."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Ottobock představila novou 3D tištěnou silikonovou vložku navrženou pro vyšší pohodlí a lepší usazení protéz.",
+      "Produkt se zaměřuje na řešení problémů s nesedícími protézami, které v současnosti trápí přibližně 68 % uživatelů.",
+      "Díky využití aditivní výroby může společnost vytvářet vysoce přizpůsobené vložky na míru anatomii konkrétního pacienta.",
+      "Tato inovace představuje významný posun směrem k personalizovaným zdravotnickým prostředkům v protetickém průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Ottobock",
+      "Medical",
+      "Prosthetics",
+      "Silicone"
+    ]
+  },
+  {
+    "title": "Studie upozorňuje na uniformitu FFF filamentů pro elektrody",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957603680/0/fabbaloo/default~Study-Flags-FFF-Filament-Uniformity-For-Electrodes\" rel=\"nofollow\" title=\"Study Flags FFF Filament Uniformity For Electrodes\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/electrode-research-cover-300x193.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new study digs into how Fused Filament Fabrication (FFF) changes the performance of carbon-loaded plastics used as 3D printed electrodes.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957603680/0/fabbaloo/default~Study-Flags-FFF-Filament-Uniformity-For-Electrodes\" rel=\"nofollow\">Study Flags FFF Filament Uniformity For Electrodes</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/electrode-research-cover-300x193.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-01T08:19:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957603680/0/fabbaloo/default~Study-Flags-FFF-Filament-Uniformity-For-Electrodes",
+    "forced_tags": [],
+    "title_en": "Study Flags FFF Filament Uniformity For Electrodes",
+    "summary_bullets_en": [
+      "A recent study investigates how the Fused Filament Fabrication (FFF) process affects the performance of carbon-loaded 3D printing filaments.",
+      "The research highlights critical issues regarding the uniformity of conductive materials when extruded through standard FFF nozzles.",
+      "Findings suggest that the printing process can alter the electrical properties of the resulting electrodes, impacting their efficiency.",
+      "The study provides insights for engineers looking to optimize 3D printed components for electrochemical applications."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie zkoumá, jak proces FFF (tavení struny) ovlivňuje výkon plastů plněných uhlíkem používaných jako 3D tištěné elektrody.",
+      "Výzkum poukazuje na zásadní problémy týkající se rovnoměrnosti vodivých materiálů při jejich vytlačování standardními tryskami.",
+      "Zjištění naznačují, že proces tisku může měnit elektrické vlastnosti výsledných elektrod, což ovlivňuje jejich efektivitu.",
+      "Studie nabízí cenné poznatky pro inženýry, kteří chtějí optimalizovat 3D tištěné komponenty pro elektrochemické aplikace."
+    ],
+    "tags": [
+      "Material",
+      "Research",
+      "FFF",
+      "3D Printing",
+      "Electrodes",
+      "Carbon-loaded filaments"
+    ]
+  },
+  {
+    "title": "Když vytvoříte technologii, o které všichni mluví, ale skoro nikdo ji nepoužívá",
+    "summary": "Three reasons Markforged ended up in the hands of Stratasys for next to nothing",
+    "image": "https://substackcdn.com/image/fetch/$s_!ntR8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb630c37a-c182-4bf8-8a3d-c725925bf0fe_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-06-01T08:02:18+00:00",
+    "url": "https://www.3dprintingjournal.com/p/when-you-create-a-technology-everyone",
+    "forced_tags": [],
+    "title_en": "When you create a technology everyone talks about, but hardly anyone uses",
+    "summary_bullets_en": [
+      "Markforged struggled to transition from niche industrial hype to widespread commercial adoption.",
+      "High operational costs and limited market scalability led to a significant devaluation of the company.",
+      "The acquisition by Stratasys highlights the ongoing consolidation trend within the professional 3D printing sector.",
+      "The company failed to convert its technological innovation into sustainable long-term profitability."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Markforged nedokázala přejít od úzce zaměřeného průmyslového zájmu k masovému komerčnímu využití.",
+      "Vysoké provozní náklady a omezená škálovatelnost na trhu vedly k výraznému znehodnocení firmy.",
+      "Akvizice společností Stratasys podtrhuje současný trend konsolidace v sektoru profesionálního 3D tisku.",
+      "Firma nedokázala přetavit své technologické inovace v udržitelnou dlouhodobou ziskovost."
+    ],
+    "tags": [
+      "Hardware",
+      "Business",
+      "Markforged",
+      "Stratasys",
+      "Industry Consolidation",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Sandvik opouští 3D tisk: Analýza",
     "summary": "Global materials company Sandvik has left the 3D printing market; the Osprey must now fly from the Sandy Bay. Sandvik started engaging with the 3D printing market in the mid-2010s....",
     "image": "https://3dprint.com/wp-content/uploads/2022/04/Cemented-Carbide-Components-by-Sandvik-2-1024x674.jpg",
