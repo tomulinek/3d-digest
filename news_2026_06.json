@@ -1,5 +1,356 @@
 [
   {
+    "title": "Google zveřejnil CAD výkresy pro Fitbit Air, aby pomohl uživatelům s 3D tiskem vlastního příslušenství",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/google-releases-fitbit-air-cad-blueprints-to-help-users-3d-print-custom-accessories/\" target=\"_blank\">Google Releases Fitbit Air CAD Blueprints to Help Users 3D Print Custom Accessories</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 3</span></div><div><img alt=\"Google Releases Fitbit Air CAD Blueprints to Help Users 3D Print Custom Accessories\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"438\" src=\"https://3dprinting.com/wp-content/uploads/intro-1780474581-500x438.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/intro-1780474581-500x438.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-06-03T19:30:13+00:00",
+    "url": "https://3dprinting.com/news/google-releases-fitbit-air-cad-blueprints-to-help-users-3d-print-custom-accessories/",
+    "forced_tags": [],
+    "title_en": "Google Releases Fitbit Air CAD Blueprints to Help Users 3D Print Custom Accessories",
+    "summary_bullets_en": [
+      "Google has released official CAD blueprints for the Fitbit Air, enabling users to design and 3D print their own custom accessories.",
+      "The initiative aims to foster a community of makers and provide more personalization options for Fitbit wearable devices.",
+      "By sharing these technical files, Google is embracing open-source hardware principles to extend the utility and style of their products."
+    ],
+    "summary_bullets_cs": [
+      "Google vydal oficiální CAD výkresy pro Fitbit Air, které uživatelům umožňují navrhovat a 3D tisknout vlastní doplňky.",
+      "Cílem této iniciativy je podpořit komunitu tvůrců a nabídnout širší možnosti personalizace nositelné elektroniky Fitbit.",
+      "Sdílením těchto technických souborů Google využívá principy open-source hardwaru k rozšíření využitelnosti a stylu svých produktů."
+    ],
+    "tags": [
+      "Hardware",
+      "Google",
+      "Fitbit",
+      "3D Printing",
+      "CAD",
+      "Wearables",
+      "Open Source"
+    ]
+  },
+  {
+    "title": "Praktický test filtračního systému pro 3D tiskárny Mintion V1",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957695831/0/fabbaloo/default~Hands-On-with-the-Mintion-D-Printer-Filtration-System-V\" rel=\"nofollow\" title=\"Hands On with the Mintion 3D Printer Filtration System V1\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/00-mintion-filter-cover1-1-300x169.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>We’ve been testing the new 3D Printer Filtration System V1 from Mintion.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957695831/0/fabbaloo/default~Hands-On-with-the-Mintion-D-Printer-Filtration-System-V\" rel=\"nofollow\">Hands On with the Mintion 3D Printer Filtration System V1</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/00-mintion-filter-cover1-1-300x169.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-06-03T16:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957695831/0/fabbaloo/default~Hands-On-with-the-Mintion-D-Printer-Filtration-System-V",
+    "forced_tags": [],
+    "title_en": "Hands On with the Mintion 3D Printer Filtration System V1",
+    "summary_bullets_en": [
+      "Mintion has released a new filtration system designed for 3D printers.",
+      "The device aims to improve air quality by capturing emissions during the printing process.",
+      "The Fabbaloo team has conducted a hands-on review to evaluate its performance and usability."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Mintion uvedla na trh nový filtrační systém určený pro 3D tiskárny.",
+      "Zařízení se zaměřuje na zlepšení kvality ovzduší zachycováním emisí během procesu tisku.",
+      "Redakce Fabbaloo provedla praktický test, aby zhodnotila výkon a použitelnost tohoto systému."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Mintion",
+      "Air Filtration",
+      "Safety"
+    ]
+  },
+  {
+    "title": "Kumovis si patentuje hladší porézní implantáty",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957693335/0/fabbaloo/default~Kumovis-Patents-Smoother-Porous-Implants\" rel=\"nofollow\" title=\"Kumovis Patents Smoother Porous Implants\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/kumovis-patent-cover-300x210.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Kumovis has a new European patent application that digs into a very specific FFF problem: how to print parts with regions that transform smoothly from porous to solid.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957693335/0/fabbaloo/default~Kumovis-Patents-Smoother-Porous-Implants\" rel=\"nofollow\">Kumovis Patents Smoother Porous Implants</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/kumovis-patent-cover-300x210.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-03T15:10:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957693335/0/fabbaloo/default~Kumovis-Patents-Smoother-Porous-Implants",
+    "forced_tags": [],
+    "title_en": "Kumovis Patents Smoother Porous Implants",
+    "summary_bullets_en": [
+      "Kumovis has filed a new European patent addressing the challenge of transitioning between porous and solid structures in FFF 3D printing.",
+      "The technology focuses on creating smoother gradients within medical implants to improve their structural integrity and integration.",
+      "This innovation aims to solve specific manufacturing limitations inherent in current fused filament fabrication processes for medical applications."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Kumovis podala novou evropskou patentovou přihlášku, která se zabývá problémem přechodu mezi porézní a pevnou strukturou při 3D tisku metodou FFF.",
+      "Technologie se zaměřuje na vytváření hladších přechodů v lékařských implantátech pro zlepšení jejich strukturální integrity a integrace v těle.",
+      "Tato inovace má za cíl vyřešit specifická výrobní omezení současných procesů tavení strun (FFF) při výrobě zdravotnických prostředků."
+    ],
+    "tags": [
+      "Hardware",
+      "Medical",
+      "3D Printing",
+      "FFF",
+      "Kumovis",
+      "Patents",
+      "Implants"
+    ]
+  },
+  {
+    "title": "ELEGOO vyvíjí rychlejší systém výměny trysek pro FFF tiskárny",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957686207/0/fabbaloo/default~ELEGOO-Develops-Faster-FFF-Nozzle-Switching-System\" rel=\"nofollow\" title=\"ELEGOO Develops Faster FFF Nozzle Switching System\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/elegoo-faster-nozzle-patent-cover2-300x232.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new ELEGOO patent application describes a mechanical approach to making multi nozzle FFF 3D printers easier to set up and switch.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957686207/0/fabbaloo/default~ELEGOO-Develops-Faster-FFF-Nozzle-Switching-System\" rel=\"nofollow\">ELEGOO Develops Faster FFF Nozzle Switching System</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/elegoo-faster-nozzle-patent-cover2-300x232.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-03T13:04:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957686207/0/fabbaloo/default~ELEGOO-Develops-Faster-FFF-Nozzle-Switching-System",
+    "forced_tags": [],
+    "title_en": "ELEGOO Develops Faster FFF Nozzle Switching System",
+    "summary_bullets_en": [
+      "ELEGOO has filed a patent for a new mechanical system designed to simplify and accelerate nozzle changes in FFF 3D printers.",
+      "The technology aims to make multi-nozzle setups more user-friendly and efficient for operators.",
+      "This innovation highlights the company's ongoing efforts to improve the hardware accessibility of their desktop 3D printing ecosystem."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ELEGOO podala patent na nový mechanický systém, který má zjednodušit a urychlit výměnu trysek u FFF 3D tiskáren.",
+      "Technologie je navržena tak, aby usnadnila nastavení a používání tiskáren s více tryskami.",
+      "Tato inovace potvrzuje snahu společnosti o vylepšení hardwarové přístupnosti jejich ekosystému 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "ELEGOO",
+      "FFF",
+      "3D Printing",
+      "Nozzle",
+      "Patent"
+    ]
+  },
+  {
+    "title": "Lasery dospěly – nyní se bojuje o software",
+    "summary": "How Ursa Major is rewriting the metal 3D printing workflow",
+    "image": "https://substackcdn.com/image/fetch/$s_!bxjj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff14f07c2-3fc1-4772-9ac9-2c81f7183693_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-06-03T13:01:14+00:00",
+    "url": "https://www.3dprintingjournal.com/p/lasers-have-matured-now-the-battle",
+    "forced_tags": [],
+    "title_en": "Lasers have matured - now the battle is about software",
+    "summary_bullets_en": [
+      "Metal 3D printing hardware has reached a level of maturity where the primary competitive advantage is shifting toward software.",
+      "Ursa Major is revolutionizing the industry by developing a proprietary software stack that optimizes the entire metal additive manufacturing workflow.",
+      "The company focuses on reducing complexity and increasing reliability to make metal 3D printing more accessible and efficient for industrial applications."
+    ],
+    "summary_bullets_cs": [
+      "Hardware pro 3D tisk kovů dosáhl úrovně vyspělosti, kdy se hlavní konkurenční výhoda přesouvá směrem k softwaru.",
+      "Společnost Ursa Major přináší revoluci v oboru vývojem vlastního softwarového řešení, které optimalizuje celý pracovní postup aditivní výroby kovů.",
+      "Firma se zaměřuje na snižování složitosti a zvyšování spolehlivosti, aby byl 3D tisk kovů dostupnější a efektivnější pro průmyslové využití."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Ursa Major",
+      "Metal 3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Zlatá horečka v oblasti dlouhověkosti by se mohla stát velkou příležitostí pro biotisk",
+    "summary": "Longevity has suddenly become one of the hottest areas in technology and healthcare. Billionaires, pharmaceutical companies, AI startups, and venture capital firms are pouring billions into the idea that humans...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/Bioprinting-Image.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-03T13:00:52+00:00",
+    "url": "https://3dprint.com/326270/the-longevity-gold-rush-could-become-a-major-opportunity-for-bioprinting/",
+    "forced_tags": [],
+    "title_en": "The Longevity Gold Rush Could Become a Major Opportunity for Bioprinting",
+    "summary_bullets_en": [
+      "Longevity research is attracting massive investments from tech giants, pharma companies, and venture capitalists.",
+      "Bioprinting is emerging as a critical technology to address age-related organ failure and tissue degeneration.",
+      "The convergence of AI and 3D bioprinting is accelerating the development of personalized regenerative therapies.",
+      "This sector represents a significant market opportunity for advanced manufacturing in healthcare."
+    ],
+    "summary_bullets_cs": [
+      "Výzkum dlouhověkosti přitahuje masivní investice od technologických gigantů, farmaceutických firem a rizikového kapitálu.",
+      "Biotisk se stává klíčovou technologií pro řešení selhávání orgánů a degenerace tkání spojených se stářím.",
+      "Propojení umělé inteligence a 3D biotisku urychluje vývoj personalizovaných regenerativních terapií.",
+      "Tento sektor představuje významnou tržní příležitost pro pokročilou výrobu ve zdravotnictví."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Bioprinting",
+      "Longevity",
+      "Biotech",
+      "Regenerative Medicine",
+      "AI"
+    ]
+  },
+  {
+    "title": "Flashforge uvádí na trh 3D tiskárnu na vosk",
+    "summary": "Flashforge has released a wax 3D printer. Wax printing was pioneered by Solidscape, a company acquired by Stratasys and later sold to Prodways before being shuttered in 2024. That firm&#8217;s wax jetting...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/wa3dprinters-e1780335290797.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-03T12:30:42+00:00",
+    "url": "https://3dprint.com/326375/flashforge-unleashes-wax-3d-printer/",
+    "forced_tags": [],
+    "title_en": "Flashforge Unleashes Wax 3D Printer",
+    "summary_bullets_en": [
+      "Flashforge has officially entered the wax 3D printing market with a new machine.",
+      "The technology follows the legacy of wax jetting pioneered by Solidscape.",
+      "This release comes shortly after the closure of Prodways' Solidscape division in 2024."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Flashforge oficiálně vstoupila na trh 3D tisku z vosku se svým novým zařízením.",
+      "Technologie navazuje na odkaz voskového tryskového tisku, jehož průkopníkem byla firma Solidscape.",
+      "K uvedení novinky dochází krátce poté, co byla v roce 2024 uzavřena divize Solidscape pod společností Prodways."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Flashforge",
+      "Solidscape",
+      "Stratasys",
+      "Prodways"
+    ]
+  },
+  {
+    "title": "Federální aditivní stavební výroba přechází od experimentů k nasazení: Klíčové poznatky z webináře AMC",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957683150/0/fabbaloo/default~Federal-Additive-Manufacturing-Construction-Moves-From-Experiment-to-Deployment-Key-Insights-From-the-AMC-Webinar\" rel=\"nofollow\" title=\"Federal Additive Manufacturing Construction Moves From Experiment to Deployment: Key Insights From the AMC Webinar\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/Filename-_124-300x160.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi break down how federal additive manufacturing is moving from concept to battlefield-ready infrastructure, where 3D printed concrete and earth-based materials could soon replace tents with hardened, rapidly built military structures.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957683150/0/fabbaloo/default~Federal-Additive-Manufacturing-Construction-Moves-From-Experiment-to-Deployment-Key-Insights-From-the-AMC-Webinar\" rel=\"nofollow\">Federal Additive Manufacturing Construction Moves From Experiment to Deployment: Key Insights From the AMC Webinar</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/Filename-_124-300x160.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-03T11:31:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957683150/0/fabbaloo/default~Federal-Additive-Manufacturing-Construction-Moves-From-Experiment-to-Deployment-Key-Insights-From-the-AMC-Webinar",
+    "forced_tags": [],
+    "title_en": "Federal Additive Manufacturing Construction Moves From Experiment to Deployment: Key Insights From the AMC Webinar",
+    "summary_bullets_en": [
+      "Federal additive manufacturing is transitioning from experimental concepts to practical, battlefield-ready infrastructure.",
+      "The focus is shifting toward using 3D printed concrete and earth-based materials for rapid construction.",
+      "New technologies aim to replace traditional military tents with durable, hardened structures built on-site.",
+      "Insights from the recent AMC webinar highlight the strategic shift toward deploying these advanced construction methods."
+    ],
+    "summary_bullets_cs": [
+      "Federální aditivní výroba se posouvá od experimentálních konceptů k praktické infrastruktuře připravené pro bojiště.",
+      "Důraz je kladen na využití 3D tištěného betonu a materiálů na bázi zeminy pro rychlou výstavbu.",
+      "Nové technologie mají za cíl nahradit tradiční vojenské stany odolnými, zpevněnými strukturami postavenými přímo na místě.",
+      "Poznatky z nedávného webináře AMC zdůrazňují strategický posun směrem k nasazení těchto pokročilých stavebních metod."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Additive Manufacturing",
+      "Construction",
+      "Military",
+      "3D Concrete Printing",
+      "Infrastructure"
+    ]
+  },
+  {
+    "title": "Tým z Chemnitz využívá AI k řízení toku u FFF tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957677318/0/fabbaloo/default~Chemnitz-Team-Uses-AI-To-Control-FFF-Flow\" rel=\"nofollow\" title=\"Chemnitz Team Uses AI To Control FFF Flow\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/fff-dynamics-cover-300x202.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Chemnitz researchers just showed a low cost, vision and AI approach that models and controls Fused Filament Fabrication (FFF) extrusion to improve accuracy without endless slicer tweaks.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957677318/0/fabbaloo/default~Chemnitz-Team-Uses-AI-To-Control-FFF-Flow\" rel=\"nofollow\">Chemnitz Team Uses AI To Control FFF Flow</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/fff-dynamics-cover-300x202.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-03T08:28:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957677318/0/fabbaloo/default~Chemnitz-Team-Uses-AI-To-Control-FFF-Flow",
+    "forced_tags": [],
+    "title_en": "Chemnitz Team Uses AI To Control FFF Flow",
+    "summary_bullets_en": [
+      "Researchers in Chemnitz developed a low-cost AI-driven system to monitor and control FFF extrusion.",
+      "The technology uses computer vision to model material flow in real-time.",
+      "This approach significantly improves print accuracy without requiring manual slicer adjustments."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Chemnitz představili nízkonákladové řešení využívající AI a počítačové vidění pro řízení extruze u FFF 3D tisku.",
+      "Systém v reálném čase modeluje tok materiálu, čímž zvyšuje přesnost výtisků.",
+      "Nová technologie eliminuje potřebu neustálého ručního ladění nastavení ve sliceru."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Artificial Intelligence",
+      "FFF",
+      "3D Printing",
+      "Computer Vision",
+      "Process Control"
+    ]
+  },
+  {
+    "title": "AMA: Zdravotnictví: Když se simulátor stává učitelem: Jak 3D tisk mění chirurgický trénink",
+    "summary": "3D Printing for Healthcare is the topic of our next event, AMA: Healthcare 2026 on June 4th. A French collaborative team presented the case for 3D printed surgical simulators at AMA: Healthcare 2025, walking attendees through the development of Otosurg, a multi-material ear surgery training model that combines clinical realism, anatomical customization, and validated competency&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/05/AMAHealthcare-2026--150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-03T08:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/ama-healthcare-when-the-simulator-becomes-the-teacher-how-3d-printing-is-redefining-surgical-training-251563/?utm_source=rss&utm_medium=rss&utm_campaign=ama-healthcare-when-the-simulator-becomes-the-teacher-how-3d-printing-is-redefining-surgical-training",
+    "forced_tags": [],
+    "title_en": "AMA: Healthcare: When the Simulator Becomes the Teacher: How 3D Printing Is Redefining Surgical Training",
+    "summary_bullets_en": [
+      "The upcoming AMA: Healthcare 2026 event on June 4th will focus on the transformative role of 3D printing in the medical field.",
+      "A French research team showcased 'Otosurg', a sophisticated multi-material 3D printed model designed for ear surgery training.",
+      "The project emphasizes the importance of clinical realism, anatomical customization, and validated competency in surgical education.",
+      "3D printed simulators are increasingly replacing traditional training methods by providing highly accurate and repeatable practice environments."
+    ],
+    "summary_bullets_cs": [
+      "Nadcházející akce AMA: Healthcare 2026, která se koná 4. června, se zaměří na revoluční roli 3D tisku ve zdravotnictví.",
+      "Francouzský tým představil projekt 'Otosurg', pokročilý multimateriálový 3D tištěný model určený pro nácvik operací ucha.",
+      "Projekt klade důraz na klinický realismus, anatomickou přizpůsobitelnost a validované ověřování dovedností v chirurgickém vzdělávání.",
+      "3D tištěné simulátory stále častěji nahrazují tradiční výukové metody díky poskytování vysoce přesných a opakovatelných tréninkových podmínek."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Medical 3D Printing",
+      "Surgical Simulation",
+      "Otosurg",
+      "Healthcare Innovation"
+    ]
+  },
+  {
+    "title": "Zabijácké aplikace 3D tisku: Negativní formy pro nářadí a skrytá příležitost v organizaci nástrojů",
+    "summary": "Sometimes, nothing is the product. Hand tools, electric tools, factory tools, surgical tools, gardening tools, hobbyist tools, firefighter tools, and many other specialized tools can be found all over the...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/0H6A8485-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-03T07:00:22+00:00",
+    "url": "https://3dprint.com/326131/killer-3d-printing-applications-the-hidden-opportunity-in-tool-storage/",
+    "forced_tags": [],
+    "title_en": "Killer 3D Printing Applications: Tool Voids and The Hidden Opportunity in Tool Storage",
+    "summary_bullets_en": [
+      "3D printing allows for the creation of custom 'tool voids' or organizers that perfectly fit specific toolsets.",
+      "Optimized storage solutions reduce clutter and improve efficiency across various industries, from workshops to surgical suites.",
+      "The 'negative space' created by additive manufacturing provides a high-value, low-cost opportunity for organizational improvement.",
+      "Custom inserts protect expensive equipment and ensure that every tool has a dedicated, secure place."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk umožňuje vytváření vlastních „negativních forem“ (výplní), které přesně pasují na konkrétní sady nářadí.",
+      "Optimalizovaná řešení skladování snižují nepořádek a zvyšují efektivitu v různých odvětvích, od dílen až po chirurgické sály.",
+      "Využití „negativního prostoru“ pomocí aditivní výroby představuje vysoce hodnotnou a nízkonákladovou příležitost pro zlepšení organizace.",
+      "Vlastní vložky chrání drahé vybavení a zajišťují, že každý nástroj má své vyhrazené a bezpečné místo."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Printing",
+      "Tool Organization",
+      "Additive Manufacturing",
+      "Customization",
+      "Workflow Optimization"
+    ]
+  },
+  {
+    "title": "Sandvik ustupuje z AM: Strategický odchod po letech investic do aditivní výroby",
+    "summary": "Sandvik AB has announced the sale of its Additive Manufacturing business unit to Mimir, a Sweden-based global investment firm. The unit, which sits within Sandvik&#8217;s Machining business area,&#160; produces metal powders for additive manufacturing, metal injection molding, and hot isostatic pressing, along with controlled expansion alloys for niche industrial uses. The transaction is expected to&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/06/EIGA2C_Malin_B-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-03T06:07:48+00:00",
+    "url": "https://3dprintingindustry.com/news/sandvik-steps-back-from-am-a-strategic-exit-after-years-of-am-investment-252080/?utm_source=rss&utm_medium=rss&utm_campaign=sandvik-steps-back-from-am-a-strategic-exit-after-years-of-am-investment",
+    "forced_tags": [],
+    "title_en": "Sandvik Steps Back from AM: A Strategic Exit After Years of AM Investment",
+    "summary_bullets_en": [
+      "Sandvik AB is selling its Additive Manufacturing business unit to the Swedish investment firm Mimir.",
+      "The divested unit specializes in metal powders for AM, metal injection molding, and hot isostatic pressing.",
+      "This move marks a strategic shift for Sandvik as it exits the AM sector after years of significant investment.",
+      "The transaction is expected to be finalized following standard regulatory approvals."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Sandvik AB prodává svou divizi aditivní výroby švédské investiční firmě Mimir.",
+      "Prodávaná jednotka se specializuje na výrobu kovových prášků pro 3D tisk, vstřikování kovů a izostatické lisování za tepla.",
+      "Tento krok představuje strategický odklon společnosti Sandvik, která po letech investic z oboru AM odchází.",
+      "Očekává se, že transakce bude dokončena po získání standardních regulačních schválení."
+    ],
+    "tags": [
+      "Material",
+      "Services",
+      "Sandvik",
+      "Mimir",
+      "Metal Powder",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Časová osa: Sága fúzí společností Stratasys, Nano Dimension, Desktop Metal a Markforged",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/957653723/0/fabbaloo/default~Timeline-The-Stratasys-Nano-Dimension-Desktop-Metal-and-Markforged-Merger-Saga\" rel=\"nofollow\" title=\"Timeline: The Stratasys, Nano Dimension, Desktop Metal, and Markforged Merger Saga\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/stratasys-wins-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Let’s look at the timeline of the startling corporate moves involving Stratasys and Nano Dimension.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957653723/0/fabbaloo/default~Timeline-The-Stratasys-Nano-Dimension-Desktop-Metal-and-Markforged-Merger-Saga\" rel=\"nofollow\">Timeline: The Stratasys, Nano Dimension, Desktop Metal, and Markforged Merger Saga</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/stratasys-wins-cover-300x169.jpg",
