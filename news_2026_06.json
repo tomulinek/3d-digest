@@ -1,5 +1,469 @@
 [
   {
+    "title": "3D tisk a éra autonomie: Nejnovější proměna obranných technologií",
+    "summary": "When we last checked in on the broad defense tech landscape and the role of the additive manufacturing (AM) industry in that environment, it became clear that the connecting thread...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/hyperion-systems-2.jpeg.avif",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-05T06:00:50+00:00",
+    "url": "https://3dprint.com/326469/3d-printing-the-autonomous-era-defense-techs-latest-mutation/",
+    "forced_tags": [],
+    "title_en": "3D Printing & the Autonomous Era: Defense Tech’s Latest Mutation",
+    "summary_bullets_en": [
+      "Additive manufacturing is becoming a critical pillar in the evolution of modern defense technology.",
+      "The integration of 3D printing enables faster production cycles for autonomous systems and military hardware.",
+      "Defense sectors are increasingly relying on AM to solve supply chain vulnerabilities and accelerate rapid prototyping.",
+      "The synergy between autonomous platforms and advanced manufacturing is reshaping the future of global defense strategies."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba se stává klíčovým pilířem vývoje moderních obranných technologií.",
+      "Integrace 3D tisku umožňuje rychlejší výrobní cykly pro autonomní systémy a vojenské vybavení.",
+      "Obranný sektor stále více spoléhá na 3D tisk při řešení zranitelnosti dodavatelských řetězců a zrychlení prototypování.",
+      "Synergie mezi autonomními platformami a pokročilou výrobou přetváří budoucnost globálních obranných strategií."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Defense Tech",
+      "Additive Manufacturing",
+      "Autonomous Systems",
+      "Supply Chain"
+    ]
+  },
+  {
+    "title": "Flashforge představuje vysokorychlostní voskovou tiskárnu WJ51C",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957739739/0/fabbaloo/default~Flashforge-Introduces-HighResolution-WJC-Wax-Printer\" rel=\"nofollow\" title=\"Flashforge Introduces High-Resolution WJ51C Wax Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/flashforge-wj51c-cover-300x222.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Flashforge announced a new 3D printer for the jewellery industry: the WJ51C wax printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957739739/0/fabbaloo/default~Flashforge-Introduces-HighResolution-WJC-Wax-Printer\" rel=\"nofollow\">Flashforge Introduces High-Resolution WJ51C Wax Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/flashforge-wj51c-cover-300x222.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-04T16:21:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957739739/0/fabbaloo/default~Flashforge-Introduces-HighResolution-WJC-Wax-Printer",
+    "forced_tags": [],
+    "title_en": "Flashforge Introduces High-Resolution WJ51C Wax Printer",
+    "summary_bullets_en": [
+      "Flashforge has launched the new WJ51C, a specialized 3D printer designed for the jewelry industry.",
+      "The machine utilizes wax-based printing technology to achieve high-resolution results.",
+      "This new hardware aims to streamline the production of intricate jewelry models."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Flashforge uvedla na trh novou 3D tiskárnu WJ51C určenou pro šperkařský průmysl.",
+      "Zařízení využívá technologii tisku z vosku pro dosažení vysokého rozlišení detailů.",
+      "Tento nový hardware je navržen tak, aby zefektivnil výrobu složitých šperkařských modelů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Flashforge",
+      "Jewelry",
+      "Wax Printing",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Prusament Resin Model+ umožňuje rychlejší a bezpečnější SLA tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957737105/0/fabbaloo/default~Prusament-Resin-Model-Enables-Faster-Safer-SLA\" rel=\"nofollow\" title=\"Prusament Resin Model+ Enables Faster, Safer SLA\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/prusament-resinplus-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prusa has updated its flagship resin into “Model+”, for faster prints, tougher parts, and a safer chemistry without making the material harder to use.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957737105/0/fabbaloo/default~Prusament-Resin-Model-Enables-Faster-Safer-SLA\" rel=\"nofollow\">Prusament Resin Model+ Enables Faster, Safer SLA</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/prusament-resinplus-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-04T15:09:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957737105/0/fabbaloo/default~Prusament-Resin-Model-Enables-Faster-Safer-SLA",
+    "forced_tags": [],
+    "title_en": "Prusament Resin Model+ Enables Faster, Safer SLA",
+    "summary_bullets_en": [
+      "Prusa Research has upgraded its flagship resin to the new 'Model+' formula.",
+      "The material offers faster printing speeds and increased mechanical toughness.",
+      "The updated chemistry prioritizes user safety without compromising ease of use."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Prusa aktualizovala svou vlajkovou loď mezi resiny na verzi „Model+“.",
+      "Materiál nabízí rychlejší tisk a vyšší mechanickou odolnost výtisků.",
+      "Nové složení klade důraz na vyšší bezpečnost uživatele, aniž by se snížila snadnost použití."
+    ],
+    "tags": [
+      "Material",
+      "SLA",
+      "Prusa Research",
+      "Prusament",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "TNO si patentuje více-materiálovou semi-solidní extruzi",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957732224/0/fabbaloo/default~TNO-Patents-a-Multi-Material-Semi-Solid-Extrusion\" rel=\"nofollow\" title=\"TNO Patents a Multi Material Semi Solid Extrusion\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/tno-multimaterial-solid-cover-300x281.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>TNO has published a patent application describing a compact printhead for multi material semi solid extrusion.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957732224/0/fabbaloo/default~TNO-Patents-a-Multi-Material-Semi-Solid-Extrusion\" rel=\"nofollow\">TNO Patents a Multi Material Semi Solid Extrusion</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/tno-multimaterial-solid-cover-300x281.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-04T13:06:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957732224/0/fabbaloo/default~TNO-Patents-a-Multi-Material-Semi-Solid-Extrusion",
+    "forced_tags": [],
+    "title_en": "TNO Patents a Multi Material Semi Solid Extrusion",
+    "summary_bullets_en": [
+      "TNO has filed a patent for a new, compact printhead design.",
+      "The technology focuses on multi-material semi-solid extrusion capabilities.",
+      "This innovation aims to advance the precision and versatility of additive manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "Organizace TNO zveřejnila patentovou přihlášku popisující kompaktní tiskovou hlavu.",
+      "Technologie se zaměřuje na proces semi-solidní extruze umožňující tisk z více materiálů najednou.",
+      "Tento vývoj představuje významný krok vpřed v oblasti přesnosti a flexibility 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "TNO",
+      "3D Printing",
+      "Extrusion",
+      "Multi-material",
+      "Patents"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 4. června 2026: Výročí, námořní průmysl, mořské organismy a další",
+    "summary": "In today&#8217;s 3D Printing News Briefs, Snapmaker is celebrating 10 years with a series of updates. XJet is collaborating with eqops for sales and support across the UK and Ireland,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/8EFNbQ4-1024x444.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-04T13:00:43+00:00",
+    "url": "https://3dprint.com/326455/3d-printing-news-briefs-6-4-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, June 4, 2026: Anniversary, Maritime, Marine Organisms, & More",
+    "summary_bullets_en": [
+      "Snapmaker celebrates its 10th anniversary with a series of new product and service updates.",
+      "XJet partners with eqops to expand its sales and technical support network across the UK and Ireland.",
+      "The industry news highlights advancements in maritime applications and research involving marine organisms."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Snapmaker slaví 10 let své existence sérií aktualizací a novinek.",
+      "XJet navazuje spolupráci se společností eqops za účelem prodeje a technické podpory ve Velké Británii a Irsku.",
+      "Aktuality z oboru se zaměřují na pokroky v námořních aplikacích a výzkum využívající mořské organismy."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Snapmaker",
+      "XJet",
+      "eqops",
+      "Maritime",
+      "Research"
+    ]
+  },
+  {
+    "title": "3Dnatives představí ADDITIV Metals 2026: Řešení klíčových bariér pro škálování kovové aditivní výroby",
+    "summary": "As the metal additive manufacturing sector prepares for a massive leap—with market valuations expected to climb from $6.02 billion to $7.02 billion this year—the industry is shifting its focus from...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/AdobeStock_269052211-1024x683.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-04T12:30:39+00:00",
+    "url": "https://3dprint.com/326470/3dnatives-to-present-additiv-metals-2026-resolving-key-barriers-to-scaling-metal-additive-manufacturing/",
+    "forced_tags": [],
+    "title_en": "3Dnatives to Present ADDITIV Metals 2026: Resolving Key Barriers to Scaling Metal Additive Manufacturing",
+    "summary_bullets_en": [
+      "The metal additive manufacturing market is projected to grow significantly, reaching $7.02 billion this year.",
+      "Industry focus is shifting from initial adoption to overcoming technical and operational barriers to scaling.",
+      "3Dnatives is organizing the ADDITIV Metals 2026 event to address these challenges and foster industry growth."
+    ],
+    "summary_bullets_cs": [
+      "Odvětví kovové aditivní výroby se připravuje na velký skok, přičemž tržní hodnota by měla letos vzrůst ze 6,02 miliardy na 7,02 miliardy dolarů.",
+      "Průmysl přesouvá svou pozornost od počátečního zavádění technologií k překonávání technických a provozních překážek, které brání masovému škálování."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Metal Additive Manufacturing",
+      "3Dnatives",
+      "ADDITIV Metals 2026",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Příběhy, které nScrypt nemůže vyprávět; a proč na tom záleží",
+    "summary": "This article is Part 3 of a three-part series based on 3DPrint.com’s visit to nScrypt’s Orlando headquarters and conversations with Ken Church. There’s an interesting dynamic inside nScrypt’s Orlando headquarters. The...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/IMG_2330-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-04T12:00:34+00:00",
+    "url": "https://3dprint.com/326140/the-stories-nscrypt-cant-tell-and-why-that-matters/",
+    "forced_tags": [],
+    "title_en": "The Stories nScrypt Can’t Tell; and Why That Matters",
+    "summary_bullets_en": [
+      "The article explores the unique operational culture and secrecy surrounding nScrypt's advanced manufacturing projects.",
+      "It highlights the tension between the company's innovative R&D capabilities and the restrictive nature of their defense and aerospace contracts.",
+      "The piece emphasizes how these 'untellable' stories reflect the high-stakes, classified environment in which nScrypt operates.",
+      "It concludes by discussing why this lack of public transparency is a critical factor in understanding the company's market position."
+    ],
+    "summary_bullets_cs": [
+      "Článek zkoumá unikátní firemní kulturu a utajení obklopující pokročilé výrobní projekty společnosti nScrypt.",
+      "Zdůrazňuje napětí mezi inovačními schopnostmi výzkumu a vývoje společnosti a omezující povahou jejich kontraktů v oblasti obrany a letectví.",
+      "Text poukazuje na to, jak tyto „nevyprávitelné“ příběhy odrážejí vysoce rizikové a utajené prostředí, ve kterém nScrypt působí.",
+      "Závěrem rozebírá, proč je tento nedostatek veřejné transparentnosti klíčovým faktorem pro pochopení postavení společnosti na trhu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "nScrypt",
+      "3D Printing",
+      "Defense",
+      "Aerospace",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "CarboWells: 3D tištěný beton řeší problém netěsnících ropných vrtů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957729800/0/fabbaloo/default~CarboWells-D-Printed-Concrete-Meets-the-Challenge-of-Leaking-Oil-Wells\" rel=\"nofollow\" title=\"CarboWells: 3D Printed Concrete Meets the Challenge of Leaking Oil Wells\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/Filename-_127-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi report on the Y-Prize-winning CarboWells concept, which combines advanced materials and 3D printing to improve the long-term safety of abandoned oil wells.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957729800/0/fabbaloo/default~CarboWells-D-Printed-Concrete-Meets-the-Challenge-of-Leaking-Oil-Wells\" rel=\"nofollow\">CarboWells: 3D Printed Concrete Meets the Challenge of Leaking Oil Wells</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/Filename-_127-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-04T11:46:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957729800/0/fabbaloo/default~CarboWells-D-Printed-Concrete-Meets-the-Challenge-of-Leaking-Oil-Wells",
+    "forced_tags": [],
+    "title_en": "CarboWells: 3D Printed Concrete Meets the Challenge of Leaking Oil Wells",
+    "summary_bullets_en": [
+      "The CarboWells project, a Y-Prize winner, focuses on securing abandoned oil wells to prevent environmental leaks.",
+      "The concept utilizes advanced materials and 3D printing technology to create more durable and reliable sealing solutions.",
+      "This innovation addresses the long-term safety and environmental risks associated with aging oil infrastructure."
+    ],
+    "summary_bullets_cs": [
+      "Projekt CarboWells, vítěz soutěže Y-Prize, se zaměřuje na zabezpečení opuštěných ropných vrtů, aby se zabránilo únikům do životního prostředí.",
+      "Koncept využívá pokročilé materiály a technologii 3D tisku k vytvoření odolnějších a spolehlivějších těsnicích řešení.",
+      "Tato inovace řeší dlouhodobou bezpečnost a environmentální rizika spojená se stárnoucí ropnou infrastrukturou."
+    ],
+    "tags": [
+      "Material",
+      "Services",
+      "3D Printing",
+      "CarboWells",
+      "Sustainability",
+      "Oil and Gas",
+      "Construction"
+    ]
+  },
+  {
+    "title": "Jednošnekový extrudér cílí na filament z ABS, karbonu a kevlaru",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957723608/0/fabbaloo/default~Single-Screw-Extruder-Targets-ABS-Carbon-Kevlar-Filament\" rel=\"nofollow\" title=\"Single Screw Extruder Targets ABS Carbon Kevlar Filament\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/extruder-screw-cover-300x239.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new paper describes a single screw extruder concept for producing ABS composite filament reinforced with carbon and Kevlar fibers, a combination that could deliver tougher, stiffer feedstock for FFF users.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957723608/0/fabbaloo/default~Single-Screw-Extruder-Targets-ABS-Carbon-Kevlar-Filament\" rel=\"nofollow\">Single Screw Extruder Targets ABS Carbon Kevlar Filament</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/extruder-screw-cover-300x239.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-04T08:39:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957723608/0/fabbaloo/default~Single-Screw-Extruder-Targets-ABS-Carbon-Kevlar-Filament",
+    "forced_tags": [],
+    "title_en": "Single Screw Extruder Targets ABS Carbon Kevlar Filament",
+    "summary_bullets_en": [
+      "A new research paper introduces a single screw extruder design specifically for composite filaments.",
+      "The system focuses on combining ABS with carbon and Kevlar fibers.",
+      "This innovation aims to produce stronger and stiffer feedstock for FFF 3D printing.",
+      "The development could significantly enhance the mechanical properties of parts printed via fused filament fabrication."
+    ],
+    "summary_bullets_cs": [
+      "Nový odborný článek představuje koncept jednošnekového extrudéru pro výrobu kompozitních filamentů.",
+      "Systém se zaměřuje na kombinaci ABS s uhlíkovými a kevlarovými vlákny.",
+      "Tato inovace má za cíl vytvořit pevnější a tužší tiskový materiál pro uživatele FFF tiskáren.",
+      "Vývoj by mohl výrazně zlepšit mechanické vlastnosti dílů tištěných metodou FFF."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Extrusion",
+      "ABS",
+      "Carbon Fiber",
+      "Kevlar",
+      "FFF",
+      "Composite Materials"
+    ]
+  },
+  {
+    "title": "Finsko, Švédsko, Norsko a Dánsko se spojují v nové alianci pro aditivní výrobu",
+    "summary": "The Nordic Additive Manufacturing Alliance (NAMA) marks the first time Finland, Sweden, Norway, and Denmark have formally united their expertise in additive manufacturing under a single cooperative framework.&#160; Backed by Nordic Innovation through the Nordic Forward: Competitiveness and Resilience for 2050 program, the initiative runs from 2026 to 2028 and brings together four national pillars:&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/additive-manufacturing-3D-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-04T08:01:16+00:00",
+    "url": "https://3dprintingindustry.com/news/finland-sweden-norway-and-denmark-unite-under-new-am-alliance-252090/?utm_source=rss&utm_medium=rss&utm_campaign=finland-sweden-norway-and-denmark-unite-under-new-am-alliance",
+    "forced_tags": [],
+    "title_en": "Finland, Sweden, Norway and Denmark Unite Under New AM Alliance",
+    "summary_bullets_en": [
+      "The Nordic Additive Manufacturing Alliance (NAMA) establishes the first formal cross-border cooperation in AM for Finland, Sweden, Norway, and Denmark.",
+      "The initiative is supported by Nordic Innovation under the 'Nordic Forward: Competitiveness and Resilience for 2050' program.",
+      "The project is scheduled to run from 2026 to 2028, aiming to integrate national expertise and strengthen regional industrial competitiveness."
+    ],
+    "summary_bullets_cs": [
+      "Nordic Additive Manufacturing Alliance (NAMA) představuje první formální propojení odborných znalostí v oblasti aditivní výroby mezi Finskem, Švédskem, Norskem a Dánskem.",
+      "Iniciativa je podporována organizací Nordic Innovation v rámci programu 'Nordic Forward: Competitiveness and Resilience for 2050'.",
+      "Projekt poběží v letech 2026 až 2028 a jeho cílem je sjednotit čtyři národní pilíře pro posílení regionální konkurenceschopnosti."
+    ],
+    "tags": [
+      "Services",
+      "Additive Manufacturing",
+      "NAMA",
+      "Nordic Innovation",
+      "Industry 4.0"
+    ]
+  },
+  {
+    "title": "Společnost 3D Spark získala certifikaci ISO/IEC 27001:2022 pro řízení bezpečnosti informací",
+    "summary": "Hamburg-based 3D Spark GmbH has obtained ISO/IEC 27001:2022 certification for its information security management practices. The company&#8217;s SaaS platform serves industrial organizations navigating manufacturing, procurement, and supply chain decisions — converting 2D inputs into 3D models, evaluating production technologies, estimating costs, lead times, and environmental impact, and helping teams determine make-or-buy strategies for components. As&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/3D-Spark-ISO-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-04T07:25:46+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-spark-obtains-iso-iec-270012022-certification-for-information-security-management-252074/?utm_source=rss&utm_medium=rss&utm_campaign=3d-spark-obtains-iso-iec-270012022-certification-for-information-security-management",
+    "forced_tags": [],
+    "title_en": "3D Spark Obtains ISO/IEC 27001:2022 Certification for Information Security Management",
+    "summary_bullets_en": [
+      "Hamburg-based 3D Spark has achieved the ISO/IEC 27001:2022 certification for its information security management system.",
+      "The company provides a SaaS platform that assists industrial firms with manufacturing, procurement, and supply chain decision-making.",
+      "The software converts 2D files into 3D models and analyzes production costs, lead times, and environmental impacts.",
+      "This certification underscores the company's commitment to data security for its industrial clients."
+    ],
+    "summary_bullets_cs": [
+      "Společnost 3D Spark se sídlem v Hamburku získala certifikaci ISO/IEC 27001:2022 pro své postupy v oblasti řízení bezpečnosti informací.",
+      "Její SaaS platforma pomáhá průmyslovým organizacím při rozhodování o výrobě, nákupu a dodavatelském řetězci.",
+      "Software převádí 2D vstupy na 3D modely a vyhodnocuje výrobní technologie, náklady, dodací lhůty i dopady na životní prostředí.",
+      "Certifikace potvrzuje vysoký standard zabezpečení dat, který firma poskytuje svým průmyslovým partnerům."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "3D Spark",
+      "ISO Certification",
+      "SaaS",
+      "Supply Chain",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "AMPulse Asia: IPO společnosti Creality dominuje přehledu trhu 3D tisku v APAC",
+    "summary": "Asia&#8217;s additive manufacturing sector spent the back half of May moving capital and capacity, not just demos. Chinese desktop and consumer printer makers pushed onto public markets, metal powder producers...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/Creality.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-04T07:00:16+00:00",
+    "url": "https://3dprint.com/326412/ampulse-asia-creality-ipo-headlines-apac-3d-printing-market-roundup/",
+    "forced_tags": [],
+    "title_en": "AMPulse Asia: Creality IPO Headlines APAC 3D Printing Market Roundup",
+    "summary_bullets_en": [
+      "The Asian additive manufacturing sector focused on capital expansion and production capacity in late May.",
+      "Major Chinese consumer 3D printer manufacturers are actively pursuing public market listings.",
+      "Metal powder producers are scaling operations to meet growing industrial demand in the region."
+    ],
+    "summary_bullets_cs": [
+      "Sektor aditivní výroby v Asii se v druhé polovině května zaměřil na přesun kapitálu a navyšování výrobních kapacit.",
+      "Čínští výrobci stolních a spotřebitelských 3D tiskáren směřují na veřejné akciové trhy.",
+      "Výrobci kovových prášků rozšiřují své provozy, aby uspokojili rostoucí průmyslovou poptávku v regionu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Creality",
+      "APAC",
+      "Additive Manufacturing",
+      "IPO"
+    ]
+  },
+  {
+    "title": "Společnost Superfeet přináší 3D tištěné vložky na míru přímo zákazníkům díky skenování iPhonem",
+    "summary": "US company Superfeet has expanded its ME3D platform to allow consumers to generate personalized, 3D printed insoles directly from an iPhone scan on superfeet.com, no specialist equipment, no clinic visit required.&#160; The underlying technology is driven by a proprietary algorithm built on podiatric data and biomechanical research. After completing a guided foot scan, users can&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/1780495230681-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-04T06:58:39+00:00",
+    "url": "https://3dprintingindustry.com/news/superfeet-takes-custom-3d-printed-insoles-direct-to-consumer-with-iphone-scanning-252093/?utm_source=rss&utm_medium=rss&utm_campaign=superfeet-takes-custom-3d-printed-insoles-direct-to-consumer-with-iphone-scanning",
+    "forced_tags": [],
+    "title_en": "Superfeet Takes Custom 3D Printed Insoles Direct to Consumer With iPhone Scanning",
+    "summary_bullets_en": [
+      "Superfeet has launched a direct-to-consumer platform for personalized 3D printed insoles.",
+      "The process uses iPhone scanning technology, eliminating the need for clinic visits or specialized equipment.",
+      "Custom insoles are generated using a proprietary algorithm based on extensive podiatric and biomechanical data."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Superfeet rozšířila svou platformu ME3D, která umožňuje zákazníkům nechat si vyrobit 3D tištěné vložky na míru přímo přes webové stránky.",
+      "Celý proces probíhá pomocí skenování chodidla iPhonem, což eliminuje nutnost návštěvy kliniky nebo použití speciálního vybavení.",
+      "Výroba vložek využívá proprietární algoritmus založený na podiatrických datech a biomechanickém výzkumu."
+    ],
+    "tags": [
+      "Services",
+      "Software",
+      "Superfeet",
+      "3D Printing",
+      "Personalization",
+      "Footwear"
+    ]
+  },
+  {
+    "title": "Harvard vytiskl 3D vlákna, která se ohýbají a stahují jako biologické svaly",
+    "summary": "Researchers at Harvard&#8217;s John A. Paulson School of Engineering and Applied Sciences have developed a 3D printing method capable of producing hair-thin filaments that bend, twist, expand, or contract in response to temperature, behaving, in essence, like programmable artificial muscles. The work, published in Proceedings of the National Academy of Sciences, comes from the lab&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/pnas.2537250123fig05-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-04T06:41:04+00:00",
+    "url": "https://3dprintingindustry.com/news/harvard-3d-prints-filaments-that-bend-and-contract-like-biological-muscle-252097/?utm_source=rss&utm_medium=rss&utm_campaign=harvard-3d-prints-filaments-that-bend-and-contract-like-biological-muscle",
+    "forced_tags": [],
+    "title_en": "Harvard 3D Prints Filaments That Bend and Contract Like Biological Muscle",
+    "summary_bullets_en": [
+      "Harvard researchers developed a 3D printing technique to create hair-thin filaments that mimic biological muscle movement.",
+      "These filaments can bend, twist, expand, or contract in response to temperature changes.",
+      "The programmable artificial muscles were detailed in a study published in the Proceedings of the National Academy of Sciences.",
+      "This innovation opens new possibilities for soft robotics and responsive material design."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Harvardovy univerzity vyvinuli metodu 3D tisku schopnou vytvářet vlákna tenká jako vlas, která napodobují pohyb biologických svalů.",
+      "Tato vlákna se dokážou ohýbat, kroutit, rozpínat nebo stahovat v reakci na změnu teploty.",
+      "Práce, publikovaná v časopise Proceedings of the National Academy of Sciences, představuje průlom v oblasti programovatelných umělých svalů."
+    ],
+    "tags": [
+      "Material",
+      "Research",
+      "3D Printing",
+      "Soft Robotics",
+      "Harvard University",
+      "Biomimicry"
+    ]
+  },
+  {
+    "title": "Společnost Kila uvádí na trh verzi 2.0 svých běžeckých vložek na míru",
+    "summary": "Kila has launched Version 2.0 of its custom running insoles, built around NanoPEBA — a proprietary foam compound from the same Peba material family used in elite carbon-plated racing shoes. Runners scan their feet at home via iPhone FaceID technology, and the insoles are manufactured at Kila&#8217;s new San Diego facility before being shipped directly&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/Kila-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-04T06:17:11+00:00",
+    "url": "https://3dprintingindustry.com/news/kila-launches-version-2-0-of-custom-running-insoles-252104/?utm_source=rss&utm_medium=rss&utm_campaign=kila-launches-version-2-0-of-custom-running-insoles",
+    "forced_tags": [],
+    "title_en": "Kila Launches Version 2.0 of Custom Running Insoles",
+    "summary_bullets_en": [
+      "Kila introduced Version 2.0 of their custom running insoles featuring the proprietary NanoPEBA foam.",
+      "The material is derived from the same high-performance Peba family used in elite carbon-plated racing footwear.",
+      "Users can create custom insoles by scanning their feet at home using iPhone FaceID technology.",
+      "Manufacturing takes place at Kila's new San Diego facility with direct-to-consumer shipping."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Kila představila verzi 2.0 svých běžeckých vložek na míru, které využívají patentovanou pěnovou směs NanoPEBA.",
+      "Materiál vychází ze stejné rodiny Peba, která se používá u špičkové závodní obuvi s karbonovými pláty.",
+      "Běžci si mohou nechat vložky vyrobit na základě skenu chodidel pořízeného pomocí technologie FaceID na iPhonu.",
+      "Výroba probíhá v novém závodě společnosti v San Diegu, odkud jsou vložky zasílány přímo zákazníkům."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Kila",
+      "3D Printing",
+      "Footwear",
+      "NanoPEBA"
+    ]
+  },
+  {
+    "title": "Inženýři z NMIS předvedli výrobní postup pro měděné raketové trysky",
+    "summary": "A team of engineers at the National Manufacturing Institute Scotland (NMIS) has demonstrated a manufacturing pathway for copper rocket nozzles using high-pressure cold spray (HPCS) technology. The results point to the technique&#8217;s potential as a faster, more scalable alternative to conventional production methods, one that could reduce costs and lead times for high-performance aerospace components,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/Netherton_ReMake_CopperNozzle_2026_2-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-04T06:07:01+00:00",
+    "url": "https://3dprintingindustry.com/news/nmis-engineers-demonstrate-manufacturing-pathway-for-copper-rocket-nozzles-252113/?utm_source=rss&utm_medium=rss&utm_campaign=nmis-engineers-demonstrate-manufacturing-pathway-for-copper-rocket-nozzles",
+    "forced_tags": [],
+    "title_en": "NMIS Engineers Demonstrate Manufacturing Pathway for Copper Rocket Nozzles",
+    "summary_bullets_en": [
+      "NMIS engineers successfully utilized high-pressure cold spray (HPCS) technology to manufacture copper rocket nozzles.",
+      "This innovative method offers a faster and more scalable alternative to traditional aerospace production techniques.",
+      "The process aims to significantly reduce both manufacturing costs and lead times for high-performance components."
+    ],
+    "summary_bullets_cs": [
+      "Tým inženýrů z National Manufacturing Institute Scotland (NMIS) demonstroval výrobní postup měděných raketových trysek pomocí technologie vysokotlakého studeného nástřiku (HPCS).",
+      "Výsledky ukazují potenciál této techniky jako rychlejší a škálovatelnější alternativy ke konvenčním výrobním metodám.",
+      "Tento postup by mohl snížit náklady a zkrátit dodací lhůty u vysoce výkonných leteckých a kosmických komponentů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "NMIS",
+      "Cold Spray",
+      "Aerospace",
+      "Copper",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Google zveřejnil CAD výkresy pro Fitbit Air, aby pomohl uživatelům s 3D tiskem vlastního příslušenství",
     "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/google-releases-fitbit-air-cad-blueprints-to-help-users-3d-print-custom-accessories/\" target=\"_blank\">Google Releases Fitbit Air CAD Blueprints to Help Users 3D Print Custom Accessories</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 3</span></div><div><img alt=\"Google Releases Fitbit Air CAD Blueprints to Help Users 3D Print Custom Accessories\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"438\" src=\"https://3dprinting.com/wp-content/uploads/intro-1780474581-500x438.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
     "image": "https://3dprinting.com/wp-content/uploads/intro-1780474581-500x438.jpg",
