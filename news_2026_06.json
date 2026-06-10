@@ -1,5 +1,375 @@
 [
   {
+    "title": "Společnost Continuum Powders otevírá novou platformu pro zákazníky se speciálními slitinami a malosériovou výrobou",
+    "summary": "With the launch of Custom Foundry Runtime (CFR), Continuum Powders is making its plasma-gas atomization infrastructure available to manufacturers, researchers, and advanced materials developers on their terms, covering everything from specialty alloy development and small-batch production runs to the processing of high-value and precious metal materials. The offering formalizes a capability Continuum has long applied&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/1780495298146-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-09T17:12:26+00:00",
+    "url": "https://3dprintingindustry.com/news/continuum-powders-opens-new-platform-to-specialty-alloy-and-small-batch-customers-252180/?utm_source=rss&utm_medium=rss&utm_campaign=continuum-powders-opens-new-platform-to-specialty-alloy-and-small-batch-customers",
+    "forced_tags": [],
+    "title_en": "Continuum Powders Opens New Platform to Specialty Alloy and Small-Batch Customers",
+    "summary_bullets_en": [
+      "Continuum Powders launched the Custom Foundry Runtime (CFR) platform to provide open access to its plasma-gas atomization infrastructure.",
+      "The service caters to researchers and manufacturers needing specialty alloy development and small-batch production.",
+      "The platform supports the processing of high-value and precious metals, formalizing the company's existing material expertise.",
+      "CFR offers flexible terms for advanced materials developers to scale their projects from R&D to production."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Continuum Powders spustila platformu Custom Foundry Runtime (CFR), která zpřístupňuje její infrastrukturu pro plazmovou atomizaci plynem.",
+      "Služba je určena výrobcům a výzkumníkům, kteří potřebují vyvíjet speciální slitiny nebo realizovat malosériovou výrobu.",
+      "Platforma umožňuje zpracování vysoce hodnotných a drahých kovů a formalizuje tak dlouhodobé zkušenosti společnosti v oblasti pokročilých materiálů.",
+      "CFR nabízí flexibilní podmínky pro vývojáře materiálů, od fáze výzkumu až po samotnou produkci."
+    ],
+    "tags": [
+      "Material",
+      "Services",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Continuum Powders",
+      "Metal Powders",
+      "Plasma Atomization"
+    ]
+  },
+  {
+    "title": "Formlabs uvádí na trh SLS 3D tiskárnu Fuse X1 zaměřenou na velkoobjemovou výrobu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957901223/0/fabbaloo/default~Formlabs-Launches-Fuse-X-SLS-D-Printer-Targeting-HighVolume-Manufacturing-Applications\" rel=\"nofollow\" title=\"Formlabs Launches Fuse X1 SLS 3D Printer Targeting High-Volume Manufacturing Applications\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/fuse-x1-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Formlabs announced a major new 3D printer, the Fuse X1.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957901223/0/fabbaloo/default~Formlabs-Launches-Fuse-X-SLS-D-Printer-Targeting-HighVolume-Manufacturing-Applications\" rel=\"nofollow\">Formlabs Launches Fuse X1 SLS 3D Printer Targeting High-Volume Manufacturing Applications</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/fuse-x1-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-09T16:19:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957901223/0/fabbaloo/default~Formlabs-Launches-Fuse-X-SLS-D-Printer-Targeting-HighVolume-Manufacturing-Applications",
+    "forced_tags": [],
+    "title_en": "Formlabs Launches Fuse X1 SLS 3D Printer Targeting High-Volume Manufacturing Applications",
+    "summary_bullets_en": [
+      "Formlabs has officially unveiled the Fuse X1, a new SLS 3D printer.",
+      "The machine is specifically engineered to meet the demands of high-volume manufacturing environments.",
+      "This launch expands Formlabs' portfolio in the industrial selective laser sintering market."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Formlabs oficiálně představila novou SLS 3D tiskárnu s názvem Fuse X1.",
+      "Stroj je navržen tak, aby splňoval náročné požadavky prostředí velkoobjemové výroby.",
+      "Toto uvedení na trh rozšiřuje portfolio společnosti Formlabs v oblasti průmyslového selektivního laserového spékání."
+    ],
+    "tags": [
+      "Hardware",
+      "Formlabs",
+      "SLS",
+      "3D Printing",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "Nový nástroj ColorMix Shading aplikuje na 3D výtisky barevné efekty založené na osvětlení",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957898904/0/fabbaloo/default~New-ColorMix-Shading-Utility-Applies-LightingBased-Color-Effects-to-D-Prints\" rel=\"nofollow\" title=\"New ColorMix Shading Utility Applies Lighting-Based Color Effects to 3D Prints\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/prusa-colormix-shading-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prusa Research just released one of the most interesting 3D print utilities: ColorMix Shading.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957898904/0/fabbaloo/default~New-ColorMix-Shading-Utility-Applies-LightingBased-Color-Effects-to-D-Prints\" rel=\"nofollow\">New ColorMix Shading Utility Applies Lighting-Based Color Effects to 3D Prints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/prusa-colormix-shading-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-09T15:16:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957898904/0/fabbaloo/default~New-ColorMix-Shading-Utility-Applies-LightingBased-Color-Effects-to-D-Prints",
+    "forced_tags": [],
+    "title_en": "New ColorMix Shading Utility Applies Lighting-Based Color Effects to 3D Prints",
+    "summary_bullets_en": [
+      "Prusa Research has launched a new utility called ColorMix Shading.",
+      "The tool allows users to apply sophisticated lighting-based color effects to their 3D prints.",
+      "This utility represents a significant advancement in how color is integrated into the 3D printing workflow."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Prusa Research vydala nový zajímavý nástroj s názvem ColorMix Shading.",
+      "Tento software umožňuje uživatelům aplikovat na 3D modely pokročilé barevné efekty simulující reálné osvětlení.",
+      "Nástroj představuje inovativní přístup k práci s barvami v procesu 3D tisku."
+    ],
+    "tags": [
+      "Software",
+      "3D Printing",
+      "Prusa Research",
+      "ColorMix Shading",
+      "Post-processing"
+    ]
+  },
+  {
+    "title": "Formlabs uvádí X1: Máme to zabalit?",
+    "summary": "I&#8217;d like to share my disappointment. When Formlabs teased that something big was coming, I really hoped the firm would finally get around to making CNC machines, as it always...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/Optimized_For_Web_JPEG-Formlabs-2026_FUSE-1_SLS-Printer_019.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-09T13:30:49+00:00",
+    "url": "https://3dprint.com/326523/analysis-formlabs-launches-the-x1-lets-pack-it-in/",
+    "forced_tags": [],
+    "title_en": "Formlabs Launches the X1: Let’s Pack It In?",
+    "summary_bullets_en": [
+      "The author expresses disappointment regarding the recent Formlabs announcement.",
+      "There was an expectation that Formlabs would expand into CNC machining.",
+      "The new X1 product launch did not meet the author's high hopes for the company's diversification."
+    ],
+    "summary_bullets_cs": [
+      "Autor vyjadřuje zklamání nad nedávným oznámením společnosti Formlabs.",
+      "Panovalo očekávání, že se Formlabs konečně pustí do výroby CNC strojů.",
+      "Uvedení nového produktu X1 nesplnilo autorovo očekávání ohledně diverzifikace portfolia firmy."
+    ],
+    "tags": [
+      "Hardware",
+      "Formlabs",
+      "CNC",
+      "3D Printing",
+      "Industry News"
+    ]
+  },
+  {
+    "title": "Patent společnosti Flashforge se zaměřuje na chytřejší rychlost odlepování pryskyřice",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957891431/0/fabbaloo/default~Flashforge-Patent-Targets-Smarter-Resin-Peel-Speeds\" rel=\"nofollow\" title=\"Flashforge Patent Targets Smarter Resin Peel Speeds\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/flashforge-resin-patent-cover-300x180.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Flashforge appears to be looking at a smarter way to control resin 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957891431/0/fabbaloo/default~Flashforge-Patent-Targets-Smarter-Resin-Peel-Speeds\" rel=\"nofollow\">Flashforge Patent Targets Smarter Resin Peel Speeds</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/flashforge-resin-patent-cover-300x180.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-09T13:13:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957891431/0/fabbaloo/default~Flashforge-Patent-Targets-Smarter-Resin-Peel-Speeds",
+    "forced_tags": [],
+    "title_en": "Flashforge Patent Targets Smarter Resin Peel Speeds",
+    "summary_bullets_en": [
+      "Flashforge has filed a new patent focusing on optimizing the resin peeling process in 3D printing.",
+      "The technology aims to introduce smarter control mechanisms for peel speeds during the printing cycle.",
+      "This innovation could lead to more reliable and efficient resin-based 3D printing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Flashforge si nechala patentovat novou metodu pro optimalizaci procesu odlepování pryskyřice při 3D tisku.",
+      "Technologie se zaměřuje na zavedení inteligentních řídicích mechanismů pro rychlost odlepování během tiskového cyklu.",
+      "Tato inovace by mohla vést ke spolehlivějším a efektivnějším postupům při 3D tisku z pryskyřice."
+    ],
+    "tags": [
+      "Hardware",
+      "Flashforge",
+      "Resin 3D Printing",
+      "Patents",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Proč kalifornský zákon o 3D tiskárnách znepokojuje průmysl: David Tobin říká, že „reguluje nástroj, nikoliv zločin“",
+    "summary": "California’s AB 2047, a bill aimed at stopping the use of 3D printers to make firearms and illegal firearm parts, has passed the state Assembly and is now headed to...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/669819961_18418742347127049_6595018244957725636_n.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-09T12:30:34+00:00",
+    "url": "https://3dprint.com/326441/why-californias-3d-printer-bill-worries-the-industry-david-tobin-says-it-regulates-a-tool-not-the-crime/",
+    "forced_tags": [],
+    "title_en": "Why California’s 3D Printer Bill Worries the Industry: David Tobin Says “It Regulates a Tool, Not the Crime”",
+    "summary_bullets_en": [
+      "California’s AB 2047 bill seeks to curb the production of 3D-printed firearms and illegal components.",
+      "Industry experts, including David Tobin, argue that the legislation unfairly targets the technology rather than criminal behavior.",
+      "Critics fear the bill could impose burdensome regulations on manufacturers and hobbyists alike.",
+      "The bill has passed the state Assembly and is moving forward in the legislative process."
+    ],
+    "summary_bullets_cs": [
+      "Kalifornský návrh zákona AB 2047 se snaží omezit výrobu 3D tištěných střelných zbraní a nelegálních komponentů.",
+      "Odborníci z oboru, včetně Davida Tobina, tvrdí, že legislativa nespravedlivě cílí na technologii namísto kriminálního chování.",
+      "Kritici se obávají, že zákon by mohl zavést zatěžující regulace pro výrobce i hobby uživatele.",
+      "Návrh zákona prošel státním shromážděním a pokračuje v legislativním procesu."
+    ],
+    "tags": [
+      "Hardware",
+      "Legislation",
+      "3D Printing Policy",
+      "California",
+      "AB 2047",
+      "Firearms Regulation"
+    ]
+  },
+  {
+    "title": "Společnost Breezm vydává kolekci sportovních 3D tištěných slunečních brýlí",
+    "summary": "Korean 3D printed eyewear firm Breezm makes customized sunglasses using laser powder bed fusion (LPBF) 3D printing and its own app. I&#8217;ve tried out the app, and the process of...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/urbanshade_05.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-09T12:00:31+00:00",
+    "url": "https://3dprint.com/326495/breezm-releases-active-wear-collection/",
+    "forced_tags": [],
+    "title_en": "Breezm Releases Activewear Collection of Custom 3D Printed Sunglasses",
+    "summary_bullets_en": [
+      "Korean company Breezm has launched a new line of activewear sunglasses tailored for sports enthusiasts.",
+      "The eyewear is produced using advanced laser powder bed fusion (LPBF) 3D printing technology.",
+      "Customers can achieve a perfect fit through a proprietary mobile app that scans their facial features.",
+      "The process combines personalized design with the durability required for high-performance athletic activities."
+    ],
+    "summary_bullets_cs": [
+      "Korejská firma Breezm uvedla na trh novou řadu sportovních slunečních brýlí přizpůsobených na míru.",
+      "Brýle jsou vyráběny pomocí pokročilé technologie 3D tisku laserovým spékáním prášku (LPBF).",
+      "Zákazníci mohou dosáhnout dokonalého usazení díky vlastní mobilní aplikaci, která naskenuje rysy jejich obličeje.",
+      "Proces kombinuje personalizovaný design s odolností potřebnou pro náročné sportovní aktivity."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Breezm",
+      "LPBF",
+      "3D Printed Eyewear"
+    ]
+  },
+  {
+    "title": "3D tisk v jaderné renesanci: Jak aditivní výroba pohání energetickou síť pro AI a daňové úlevy na výzkum a vývoj",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957889163/0/fabbaloo/default~D-Printing-the-Nuclear-Renaissance-How-Additive-Manufacturing-Fuels-the-AI-Power-Grid-and-RD-Credits\" rel=\"nofollow\" title=\"3D Printing the Nuclear Renaissance: How Additive Manufacturing Fuels the AI Power Grid and R&amp;D Credits\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/Filename-_133-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles G. Goulding explains how the convergence of AI data center energy demands and advanced nuclear engineering has turned additive manufacturing into a critical pathway for securing lucrative Federal R&#38;D Tax Credits.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957889163/0/fabbaloo/default~D-Printing-the-Nuclear-Renaissance-How-Additive-Manufacturing-Fuels-the-AI-Power-Grid-and-RD-Credits\" rel=\"nofollow\">3D Printing the Nuclear Renaissance: How Additive Manufacturing Fuels the AI Power Grid and R&amp;D Credits</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/Filename-_133-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-09T11:36:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957889163/0/fabbaloo/default~D-Printing-the-Nuclear-Renaissance-How-Additive-Manufacturing-Fuels-the-AI-Power-Grid-and-RD-Credits",
+    "forced_tags": [],
+    "title_en": "3D Printing the Nuclear Renaissance: How Additive Manufacturing Fuels the AI Power Grid and R&D Credits",
+    "summary_bullets_en": [
+      "The surge in energy demand from AI data centers is driving a renewed interest in advanced nuclear engineering.",
+      "Additive manufacturing is becoming a vital technology for accelerating the development and deployment of next-generation nuclear reactors.",
+      "Companies utilizing 3D printing in this sector can leverage federal R&D tax credits to offset innovation costs.",
+      "The convergence of nuclear energy and 3D printing creates a strategic pathway for sustainable infrastructure growth."
+    ],
+    "summary_bullets_cs": [
+      "Rostoucí energetické nároky datových center pro umělou inteligenci vedou k obnovenému zájmu o pokročilé jaderné inženýrství.",
+      "Aditivní výroba se stává klíčovou technologií pro urychlení vývoje a nasazení jaderných reaktorů nové generace.",
+      "Společnosti využívající 3D tisk v tomto odvětví mohou využít federální daňové úlevy na výzkum a vývoj k pokrytí nákladů na inovace.",
+      "Propojení jaderné energetiky a 3D tisku vytváří strategickou cestu pro udržitelný rozvoj infrastruktury."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Manufacturing",
+      "Nuclear Energy",
+      "AI Infrastructure",
+      "R&D Tax Credits"
+    ]
+  },
+  {
+    "title": "Společnost XJet jmenovala 3D-Werk Black Forest svým prodejcem s přidanou hodnotou, čímž otevírá novou cestu do německého průmyslu",
+    "summary": "Israeli firm XJet has formalized a Value-Added Reseller agreement with 3D-Werk Black Forest GmbH, positioning the Black Forest-based firm as the primary point of entry for German manufacturers looking to adopt the company&#8217;s NanoParticle Jetting technology.&#160; The move grants manufacturers in aerospace, defense, and medical devices a local partner with hands-on evaluation capability, including access&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/DSC03860-760x374-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-09T08:58:35+00:00",
+    "url": "https://3dprintingindustry.com/news/xjet-names-3d-werk-black-forest-as-var-opening-a-new-route-into-german-manufacturing-252177/?utm_source=rss&utm_medium=rss&utm_campaign=xjet-names-3d-werk-black-forest-as-var-opening-a-new-route-into-german-manufacturing",
+    "forced_tags": [],
+    "title_en": "XJet Names 3D-Werk Black Forest as VAR, Opening a New Route Into German Manufacturing",
+    "summary_bullets_en": [
+      "XJet has partnered with 3D-Werk Black Forest to act as its primary Value-Added Reseller in Germany.",
+      "The collaboration aims to provide German manufacturers with easier access to XJet’s proprietary NanoParticle Jetting (NPJ) technology.",
+      "Local clients in sectors like aerospace, defense, and medical devices will now benefit from hands-on evaluation and support services."
+    ],
+    "summary_bullets_cs": [
+      "Izraelská firma XJet uzavřela dohodu o prodeji s přidanou hodnotou (VAR) se společností 3D-Werk Black Forest GmbH.",
+      "Němečtí výrobci z oborů letectví, obrany a zdravotnických prostředků získávají lokálního partnera pro adopci technologie NanoParticle Jetting.",
+      "Partnerství umožňuje místním firmám přímý přístup k praktickému testování a hodnocení technologie XJet."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "XJet",
+      "3D-Werk Black Forest",
+      "NanoParticle Jetting",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Norsk Titanium a Airbus posouvají technologii RPD od testování k sériové výrobě",
+    "summary": "Norwegian additive manufacturer Norsk Titanium has signed a Cooperation &#38; Research Agreement (CRA) with Airbus, moving their relationship from program-specific supply into a structured, multi-year industrialization effort. The agreement targets the qualification of Norsk Titanium&#8217;s proprietary Rapid Plasma Deposition technology for fatigue-critical structural titanium parts,  a category that represents some of the most demanding certification&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/1780378421648-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-09T08:57:43+00:00",
+    "url": "https://3dprintingindustry.com/news/norsk-titanium-and-airbus-take-rpd-from-proof-to-production-252173/?utm_source=rss&utm_medium=rss&utm_campaign=norsk-titanium-and-airbus-take-rpd-from-proof-to-production",
+    "forced_tags": [],
+    "title_en": "Norsk Titanium and Airbus Take RPD from Proof to Production",
+    "summary_bullets_en": [
+      "Norsk Titanium and Airbus have signed a multi-year Cooperation & Research Agreement (CRA).",
+      "The partnership focuses on industrializing the proprietary Rapid Plasma Deposition (RPD) technology.",
+      "The goal is to qualify RPD for the production of fatigue-critical structural titanium parts in aerospace.",
+      "This move marks a transition from program-specific supply to a long-term strategic industrial collaboration."
+    ],
+    "summary_bullets_cs": [
+      "Norský výrobce aditivních technologií Norsk Titanium podepsal s Airbusem dohodu o spolupráci a výzkumu (CRA).",
+      "Partnerství se zaměřuje na industrializaci patentované technologie Rapid Plasma Deposition (RPD).",
+      "Cílem je certifikace technologie RPD pro výrobu strukturálních titanových dílů kritických z hlediska únavy materiálu.",
+      "Spolupráce představuje přechod od dodávek pro konkrétní programy k dlouhodobému strategickému průmyslovému úsilí."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Norsk Titanium",
+      "Airbus",
+      "Rapid Plasma Deposition",
+      "Aerospace",
+      "Titanium"
+    ]
+  },
+  {
+    "title": "ExxonMobil využívá drátový 3D tisk kovů ke snížení výrobních nákladů",
+    "summary": "At the Baton Rouge refinery in Louisiana, ExxonMobil faced a recurring challenge: protecting instrument cabinets from oil contamination traveling up thermocouple wires. The component responsible — an anti-wicking device — had design limitations that made it expensive and slow to produce through conventional machining. Switching to Meltio&#8217;s wire-based Laser Metal Deposition (LMD) system, the M600,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/exxonMobil_2_1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-09T08:56:46+00:00",
+    "url": "https://3dprintingindustry.com/news/exxonmobil-uses-wire-based-metal-3d-printing-to-cut-production-costs-252170/?utm_source=rss&utm_medium=rss&utm_campaign=exxonmobil-uses-wire-based-metal-3d-printing-to-cut-production-costs",
+    "forced_tags": [],
+    "title_en": "ExxonMobil Uses Wire-Based Metal 3D Printing to Cut Production Costs",
+    "summary_bullets_en": [
+      "ExxonMobil struggled with costly and slow production of anti-wicking devices for instrument cabinets at its Baton Rouge refinery.",
+      "The company transitioned from traditional machining to Meltio’s M600 wire-based Laser Metal Deposition (LMD) technology.",
+      "This shift significantly reduced production costs and improved the manufacturing efficiency of critical components."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ExxonMobil čelila v rafinerii v Baton Rouge problémům s nákladnou a pomalou výrobou zařízení proti vzlínání oleje pro přístrojové skříně.",
+      "Firma přešla od konvenčního obrábění k technologii laserového nanášení kovů (LMD) pomocí drátu na systému M600 od společnosti Meltio.",
+      "Tento přechod vedl k výraznému snížení výrobních nákladů a zefektivnění produkce klíčových komponent."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "Laser Metal Deposition",
+      "Meltio",
+      "ExxonMobil",
+      "Industrial Manufacturing"
+    ]
+  },
+  {
+    "title": "Interpretovatelný FFF model předpovídá čas tisku a spotřebu filamentu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957884486/0/fabbaloo/default~Interpretable-FFF-Model-Predicts-Print-Time-And-Filament\" rel=\"nofollow\" title=\"Interpretable FFF Model Predicts Print Time And Filament\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/interpretable-fff-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A team has proposed an interpretable machine learning approach that predicts print time and filament use for FFF, potentially sharpening quotes, schedules, and configuration decisions before you slice.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957884486/0/fabbaloo/default~Interpretable-FFF-Model-Predicts-Print-Time-And-Filament\" rel=\"nofollow\">Interpretable FFF Model Predicts Print Time And Filament</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/interpretable-fff-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-09T08:05:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957884486/0/fabbaloo/default~Interpretable-FFF-Model-Predicts-Print-Time-And-Filament",
+    "forced_tags": [],
+    "title_en": "Interpretable FFF Model Predicts Print Time And Filament",
+    "summary_bullets_en": [
+      "Researchers have developed a new machine learning model designed to accurately predict FFF 3D printing time and material consumption.",
+      "The model is 'interpretable,' meaning it provides transparent insights into how it reaches its predictions, unlike traditional 'black-box' AI.",
+      "This tool aims to improve the accuracy of cost quotes, production scheduling, and print configuration before the slicing process begins."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumný tým představil model strojového učení, který dokáže přesně předpovědět čas tisku a spotřebu materiálu u FFF 3D tiskáren.",
+      "Model je „interpretovatelný“, což znamená, že na rozdíl od běžných systémů typu „černá skříňka“ poskytuje transparentní vhled do toho, jak ke svým výsledkům dospěl.",
+      "Tento nástroj pomůže zpřesnit cenové nabídky, plánování výroby a nastavení parametrů tisku ještě před samotným slicováním."
+    ],
+    "tags": [
+      "Software",
+      "FFF",
+      "Machine Learning",
+      "3D Printing",
+      "Optimization"
+    ]
+  },
+  {
+    "title": "Finance v 3D tisku: Navýšení kapitálu, restrukturalizace portfolia a tržní tlak",
+    "summary": "It&#8217;s been busy for publicly traded 3D printing companies, with new stock offerings, dealmaking, and investor updates showing how companies are working to strengthen their financial positions. Xometry raised $225...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/11/3D-Systems-formnet-2025.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-09T07:00:33+00:00",
+    "url": "https://3dprint.com/326517/3d-printing-financials-capital-raises-portfolio-reshuffling-and-market-pressure/",
+    "forced_tags": [],
+    "title_en": "3D Printing Financials: Capital Raises, Portfolio Reshuffling, and Market Pressure",
+    "summary_bullets_en": [
+      "Publicly traded 3D printing firms are actively strengthening their financial positions through new stock offerings and strategic dealmaking.",
+      "Xometry successfully raised $225 million to bolster its capital reserves.",
+      "Companies are undergoing portfolio reshuffling to navigate current market pressures and investor expectations."
+    ],
+    "summary_bullets_cs": [
+      "Veřejně obchodované společnosti v oblasti 3D tisku aktivně posilují svou finanční pozici prostřednictvím nových emisí akcií a strategických obchodů.",
+      "Společnost Xometry úspěšně získala 225 milionů dolarů na posílení svých kapitálových rezerv.",
+      "Firmy procházejí restrukturalizací portfolia, aby se vyrovnaly se současným tržním tlakem a očekáváními investorů."
+    ],
+    "tags": [
+      "Services",
+      "Financials",
+      "Xometry",
+      "Market Trends",
+      "Investment"
+    ]
+  },
+  {
     "title": "Společnost TOP.E uvede na trh velkoformátovou uzavřenou 5osou FFF 3D tiskárnu",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/957868961/0/fabbaloo/default~TOPE-To-Launch-Large-Enclosed-Axis-FFF-D-Printer\" rel=\"nofollow\" title=\"TOP.E To Launch Large, Enclosed 5-Axis FFF 3D Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/top.e.r1-cover-300x188.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new five-axis FFF 3D printer is set to appear on Kickstarter soon.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957868961/0/fabbaloo/default~TOPE-To-Launch-Large-Enclosed-Axis-FFF-D-Printer\" rel=\"nofollow\">TOP.E To Launch Large, Enclosed 5-Axis FFF 3D Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/top.e.r1-cover-300x188.jpg",
