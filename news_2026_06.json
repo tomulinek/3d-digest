@@ -1,5 +1,494 @@
 [
   {
+    "title": "Meshy spouští beta verzi 3D Agenta a představuje konverzační AI pracovní postupy pro tvorbu 3D modelů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957928889/0/fabbaloo/default~Meshy-Launches-D-Agent-Beta-Introducing-Conversational-AI-Workflows-for-D-Model-Creation\" rel=\"nofollow\" title=\"Meshy Launches 3D Agent Beta, Introducing Conversational AI Workflows for 3D Model Creation\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/meshy-agent-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Meshy announced a new agent capability.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957928889/0/fabbaloo/default~Meshy-Launches-D-Agent-Beta-Introducing-Conversational-AI-Workflows-for-D-Model-Creation\" rel=\"nofollow\">Meshy Launches 3D Agent Beta, Introducing Conversational AI Workflows for 3D Model Creation</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/meshy-agent-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-10T16:28:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957928889/0/fabbaloo/default~Meshy-Launches-D-Agent-Beta-Introducing-Conversational-AI-Workflows-for-D-Model-Creation",
+    "forced_tags": [],
+    "title_en": "Meshy Launches 3D Agent Beta, Introducing Conversational AI Workflows for 3D Model Creation",
+    "summary_bullets_en": [
+      "Meshy has introduced a new 3D Agent feature currently in beta testing.",
+      "The platform now supports conversational AI workflows to streamline the 3D modeling process.",
+      "This update aims to simplify model creation by allowing users to interact with the AI through natural language."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Meshy představila novou funkci 3D Agenta, která je aktuálně ve fázi beta testování.",
+      "Platforma nyní podporuje konverzační AI pracovní postupy pro zefektivnění procesu 3D modelování.",
+      "Tato aktualizace má za cíl zjednodušit tvorbu modelů tím, že uživatelům umožňuje komunikovat s AI pomocí přirozeného jazyka."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "3D Modeling",
+      "Meshy",
+      "Generative AI"
+    ]
+  },
+  {
+    "title": "Patent naznačuje nízkonákladové automatizované odebírání výtisků",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957926789/0/fabbaloo/default~Patent-Suggests-Low-Cost-Automated-Part-Removal\" rel=\"nofollow\" title=\"Patent Suggests Low Cost Automated Part Removal\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/low-cost-removal-cover-300x203.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new German patent application proposes a simpler way to automate part removal in 3D printers: use the motion system already inside the machine.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957926789/0/fabbaloo/default~Patent-Suggests-Low-Cost-Automated-Part-Removal\" rel=\"nofollow\">Patent Suggests Low Cost Automated Part Removal</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/low-cost-removal-cover-300x203.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-10T15:21:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957926789/0/fabbaloo/default~Patent-Suggests-Low-Cost-Automated-Part-Removal",
+    "forced_tags": [],
+    "title_en": "Patent Suggests Low Cost Automated Part Removal",
+    "summary_bullets_en": [
+      "A new German patent application introduces a cost-effective method for automated 3D printed part removal.",
+      "The proposed solution leverages the printer's existing motion system to eject finished parts.",
+      "This approach aims to simplify automation without the need for complex or expensive external robotics."
+    ],
+    "summary_bullets_cs": [
+      "Nová německá patentová přihláška představuje nákladově efektivní metodu pro automatizované odebírání 3D výtisků.",
+      "Navržené řešení využívá stávající pohybový systém tiskárny k odstranění hotových dílů z podložky.",
+      "Tento přístup má za cíl zjednodušit automatizaci bez nutnosti instalace složité a drahé externí robotiky."
+    ],
+    "tags": [
+      "Hardware",
+      "Automation",
+      "3D Printing",
+      "Patent",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "TDK sází na infrastrukturu pro AI akvizicí společnosti Fabric8Labs v hodnotě až 400 milionů dolarů",
+    "summary": "As I described in a recent PRO article, the bulk of global investment is currently premised on a bet that an AI infrastructure buildout can eventually result in a workable...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/high-purity-components.jpg-2.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-10T15:17:28+00:00",
+    "url": "https://3dprint.com/326720/tdk-makes-sound-ai-infrastructure-bet-witj-fabric8labs-acquisition-worth-up-to-400m/",
+    "forced_tags": [],
+    "title_en": "TDK Makes Sound AI Infrastructure Bet with Fabric8Labs Acquisition Worth Up to $400M",
+    "summary_bullets_en": [
+      "TDK has acquired Fabric8Labs, a metal 3D printing startup, in a deal valued at up to $400 million.",
+      "The acquisition is strategically aimed at bolstering TDK's AI infrastructure capabilities.",
+      "Fabric8Labs utilizes a unique electrochemical additive manufacturing process that offers high precision and scalability.",
+      "This move reflects a broader industry trend where major tech players are investing heavily in advanced manufacturing to support the AI hardware ecosystem."
+    ],
+    "summary_bullets_cs": [
+      "Společnost TDK koupila startup Fabric8Labs zaměřený na 3D tisk kovů v transakci v hodnotě až 400 milionů dolarů.",
+      "Akvizice je strategicky zaměřena na posílení schopností TDK v oblasti infrastruktury pro umělou inteligenci.",
+      "Fabric8Labs využívá unikátní proces elektrochemické aditivní výroby, který nabízí vysokou přesnost a škálovatelnost.",
+      "Tento krok odráží širší průmyslový trend, kdy velcí technologičtí hráči masivně investují do pokročilé výroby na podporu hardwarového ekosystému AI."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "TDK",
+      "Fabric8Labs",
+      "AI Infrastructure",
+      "Metal 3D Printing",
+      "Electrochemical Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "NeoSander přichází na trh s funkcemi pro precizní broušení složitých 3D tištěných dílů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957922787/0/fabbaloo/default~NeoSander-Launches-With-Precision-Sanding-Features-for-Complex-D-Printed-Parts\" rel=\"nofollow\" title=\"NeoSander Launches With Precision Sanding Features for Complex 3D Printed Parts\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/neosander-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Need a way to sand detail areas on your 3D prints? There’s a tool for that.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957922787/0/fabbaloo/default~NeoSander-Launches-With-Precision-Sanding-Features-for-Complex-D-Printed-Parts\" rel=\"nofollow\">NeoSander Launches With Precision Sanding Features for Complex 3D Printed Parts</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/neosander-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-10T13:21:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957922787/0/fabbaloo/default~NeoSander-Launches-With-Precision-Sanding-Features-for-Complex-D-Printed-Parts",
+    "forced_tags": [],
+    "title_en": "NeoSander Launches With Precision Sanding Features for Complex 3D Printed Parts",
+    "summary_bullets_en": [
+      "NeoSander is a new specialized tool designed for post-processing 3D printed parts.",
+      "It focuses on sanding intricate details and complex geometries that are difficult to reach manually.",
+      "The device aims to improve the surface finish quality of 3D printed objects with high precision."
+    ],
+    "summary_bullets_cs": [
+      "NeoSander je nový specializovaný nástroj určený pro post-processing 3D tištěných dílů.",
+      "Zaměřuje se na broušení detailních oblastí a složitých geometrií, které jsou ručně obtížně dostupné.",
+      "Zařízení má za cíl zvýšit kvalitu povrchové úpravy 3D tištěných objektů s vysokou přesností."
+    ],
+    "tags": [
+      "Hardware",
+      "Post-processing",
+      "3D Printing Tools",
+      "NeoSander",
+      "Finishing"
+    ]
+  },
+  {
+    "title": "Nejdražší bezplatný designér na světě",
+    "summary": "Fable 5 can design a 3D-printable model. The question is: who will pay for the tokens?",
+    "image": "https://substackcdn.com/image/fetch/$s_!ygAW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F231b6caf-003e-4897-a5b6-4ff8cd00e524_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-06-10T13:01:49+00:00",
+    "url": "https://www.3dprintingjournal.com/p/the-worlds-most-expensive-free-designer",
+    "forced_tags": [],
+    "title_en": "The world’s most expensive free designer",
+    "summary_bullets_en": [
+      "Fable 5 is an AI-powered tool capable of generating complex 3D-printable models.",
+      "While the software is marketed as free, it relies on a token-based system for processing.",
+      "The core debate centers on the hidden costs and the economic sustainability of using such AI designers.",
+      "Users must consider whether the convenience of AI-generated designs justifies the ongoing expense of tokens."
+    ],
+    "summary_bullets_cs": [
+      "Fable 5 je nástroj poháněný umělou inteligencí, který dokáže navrhovat 3D modely připravené k tisku.",
+      "Ačkoliv je software prezentován jako bezplatný, jeho provoz je závislý na systému tokenů.",
+      "Hlavní otázkou zůstává, kdo bude za tyto tokeny platit a zda je model dlouhodobě udržitelný.",
+      "Uživatelé musí zvážit, zda pohodlí AI designu vyváží náklady spojené s nákupem kreditů."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "3D Printing",
+      "Generative Design",
+      "Fable 5"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 10. června 2026: Slavnostní otevření, fotopryskyřice, obuv a další",
+    "summary": "We&#8217;re starting with some exciting news in today&#8217;s 3D Printing News Briefs: Stratasys just celebrated the opening of its new North American headquarters in Minnesota. Moving on, Nanoscribe is scaling...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/1_ARCH_opening_in_Minnetonka-1024x768.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-10T13:00:26+00:00",
+    "url": "https://3dprint.com/326563/3d-printing-news-briefs-6-10-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, June 10, 2026: Grand Opening, Photoresins, Footwear, & More",
+    "summary_bullets_en": [
+      "Stratasys has officially opened its new North American headquarters located in Minnesota.",
+      "Nanoscribe is focusing on scaling its operations and technology.",
+      "The industry news covers advancements in photoresins and innovative developments in the footwear sector."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Stratasys slavnostně otevřela své nové severoamerické sídlo v Minnesotě.",
+      "Společnost Nanoscribe se zaměřuje na rozšiřování svých provozů a technologií.",
+      "Zprávy z oboru pokrývají pokroky ve fotopryskyřicích a inovativní vývoj v oblasti obuvnického průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Materials",
+      "Services",
+      "Stratasys",
+      "Nanoscribe"
+    ]
+  },
+  {
+    "title": "NX Atomics a Sciaky spolupracují na 3D tisku jaderných komponent",
+    "summary": "For decades, the nuclear industry has quietly experimented with and implemented additive. Bouyed by the likes of ORNL, companies such as Westinghouse have 3D printed components serially. We have an...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/am-eamples.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-10T12:30:01+00:00",
+    "url": "https://3dprint.com/326597/nx-atomics-sciaky-3d-print-nuclear-components/",
+    "forced_tags": [],
+    "title_en": "NX Atomics and Sciaky Collaborating to 3D Print Nuclear Components",
+    "summary_bullets_en": [
+      "NX Atomics and Sciaky have partnered to advance the additive manufacturing of critical nuclear components.",
+      "The collaboration leverages Sciaky's specialized metal 3D printing technology to meet the rigorous standards of the nuclear industry.",
+      "This initiative builds upon a growing trend of nuclear sector adoption, following successful implementations by organizations like ORNL and Westinghouse."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti NX Atomics a Sciaky navázaly partnerství s cílem pokročit v aditivní výrobě kritických jaderných komponent.",
+      "Spolupráce využívá specializovanou technologii 3D tisku kovů od společnosti Sciaky, aby splnila přísné standardy jaderného průmyslu.",
+      "Tato iniciativa navazuje na rostoucí trend využívání 3D tisku v jaderném sektoru, na který již dříve úspěšně navázaly organizace jako ORNL a Westinghouse."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "NX Atomics",
+      "Sciaky",
+      "Nuclear Industry",
+      "Metal 3D Printing"
+    ]
+  },
+  {
+    "title": "Vědci kombinují AI a biotisk k vytváření drobných sítí krevních cév",
+    "summary": "If 2026 has a theme in bioprinting, it may be blood vessels. Researchers can already print incredibly sophisticated tissues. The harder part is keeping those tissues alive. Without a network...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.11.11-PM.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-10T12:00:45+00:00",
+    "url": "https://3dprint.com/326484/researchers-combine-ai-and-bioprinting-to-create-tiny-blood-vessel-networks/",
+    "forced_tags": [],
+    "title_en": "Researchers Combine AI and Bioprinting to Create Tiny Blood Vessel Networks",
+    "summary_bullets_en": [
+      "Bioprinting is currently focused on overcoming the challenge of keeping complex tissues alive.",
+      "Researchers are integrating AI to design and construct intricate blood vessel networks.",
+      "These vascular systems are essential for supplying nutrients and oxygen to printed tissues.",
+      "This breakthrough addresses a major bottleneck in the long-term viability of bioprinted organs."
+    ],
+    "summary_bullets_cs": [
+      "Biotisk se v roce 2026 zaměřuje především na výzvu, jak udržet komplexní tkáně naživu.",
+      "Vědci integrují umělou inteligenci pro návrh a konstrukci složitých sítí krevních cév.",
+      "Tyto cévní systémy jsou nezbytné pro zásobování vytištěných tkání živinami a kyslíkem.",
+      "Tento průlom řeší zásadní překážku v dlouhodobé životaschopnosti tištěných orgánů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Bioprinting",
+      "Artificial Intelligence",
+      "Tissue Engineering",
+      "Biotechnology"
+    ]
+  },
+  {
+    "title": "Google a FANUC chtějí postavit první skutečně inteligentní tovární roboty",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957921017/0/fabbaloo/default~Google-and-FANUC-Want-to-Build-the-First-Truly-Intelligent-Factory-Robots\" rel=\"nofollow\" title=\"Google and FANUC Want to Build the First Truly Intelligent Factory Robots\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/Filename-_137-300x240.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi analyze how AI-enabled FANUC robots could transform automation, additive manufacturing, and factory intelligence.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957921017/0/fabbaloo/default~Google-and-FANUC-Want-to-Build-the-First-Truly-Intelligent-Factory-Robots\" rel=\"nofollow\">Google and FANUC Want to Build the First Truly Intelligent Factory Robots</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/Filename-_137-300x240.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-10T11:54:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957921017/0/fabbaloo/default~Google-and-FANUC-Want-to-Build-the-First-Truly-Intelligent-Factory-Robots",
+    "forced_tags": [],
+    "title_en": "Google and FANUC Want to Build the First Truly Intelligent Factory Robots",
+    "summary_bullets_en": [
+      "Google and FANUC are collaborating to integrate advanced AI into industrial robotics.",
+      "The partnership aims to create truly intelligent factory robots capable of autonomous decision-making.",
+      "This initiative is set to significantly impact the future of automation and additive manufacturing processes.",
+      "The integration of AI will enhance factory intelligence, efficiency, and operational adaptability."
+    ],
+    "summary_bullets_cs": [
+      "Google a FANUC spolupracují na integraci pokročilé umělé inteligence do průmyslové robotiky.",
+      "Cílem partnerství je vytvořit skutečně inteligentní tovární roboty schopné autonomního rozhodování.",
+      "Tato iniciativa výrazně ovlivní budoucnost automatizace a procesů aditivní výroby.",
+      "Integrace AI zvýší inteligenci továren, efektivitu a provozní přizpůsobivost."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Automation",
+      "Google",
+      "FANUC",
+      "Artificial Intelligence",
+      "Additive Manufacturing",
+      "Industrial Robotics"
+    ]
+  },
+  {
+    "title": "Additive Manufacturing Advantage: Oznámeni řečníci pro Aerospace, Space and Defense 2026",
+    "summary": "The largest specialist event of its kind, AMA: Aerospace, Space and Defense, returns on July 9th. Additive manufacturing in aerospace and defense has entered a more demanding phase. The question is no longer whether metal AM, wire arc additive manufacturing, electron beam powder bed fusion, or advanced materials can produce impressive parts. The harder question&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/AMAA-Banner-2024-full-size-1200-x-627-px-1440-x-810-px-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-10T10:05:25+00:00",
+    "url": "https://3dprintingindustry.com/news/additive-manufacturing-advantage-aerospace-space-and-defense-2026-speakers-announced-252218/?utm_source=rss&utm_medium=rss&utm_campaign=additive-manufacturing-advantage-aerospace-space-and-defense-2026-speakers-announced",
+    "forced_tags": [],
+    "title_en": "Additive Manufacturing Advantage: Aerospace, Space and Defense 2026 Speakers Announced",
+    "summary_bullets_en": [
+      "The AMA: Aerospace, Space and Defense event returns on July 9th as the leading specialist conference in the sector.",
+      "The industry is shifting focus from proving the capability of AM technologies to addressing complex production challenges.",
+      "Key topics include metal AM, wire arc additive manufacturing, electron beam powder bed fusion, and advanced materials.",
+      "The event aims to explore the next phase of industrial maturity in aerospace and defense manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Největší specializovaná akce svého druhu, AMA: Aerospace, Space and Defense, se vrací 9. července.",
+      "Aditivní výroba v letectví a obraně vstoupila do náročnější fáze, kde již není otázkou, zda technologie fungují.",
+      "Hlavním tématem je nyní efektivní využití metod, jako je kovový 3D tisk, navařování (WAAM) či tavení v práškovém loži elektronovým paprskem.",
+      "Konference se zaměří na řešení komplexních výzev spojených s pokročilými materiály a průmyslovou produkcí."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Aerospace",
+      "Defense",
+      "Metal AM",
+      "Wire Arc Additive Manufacturing",
+      "Electron Beam Powder Bed Fusion"
+    ]
+  },
+  {
+    "title": "Formlabs uvádí Fuse X1: Technické specifikace a cena",
+    "summary": "Supplier of professional stereolithography (SLA) and selective laser sintering (SLS) 3D printers Formlabs has introduced the Fuse X1, a large-format SLS ecosystem aimed at bringing industrial-grade powder bed fusion within reach of engineering teams, manufacturers, product developers, and service bureaus. Announced June 9, 2026, the machine is priced from $84,999, can be ordered immediately, and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/Optimized_For_Web_JPEG-Formlabs-2026_FUSE-X1_SLS-Printer_002-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-10T08:28:25+00:00",
+    "url": "https://3dprintingindustry.com/news/formlabs-launches-fuse-x1-technical-specifications-and-pricing-252208/?utm_source=rss&utm_medium=rss&utm_campaign=formlabs-launches-fuse-x1-technical-specifications-and-pricing",
+    "forced_tags": [],
+    "title_en": "Formlabs Launches Fuse X1: Technical Specifications and Pricing",
+    "summary_bullets_en": [
+      "Formlabs has unveiled the Fuse X1, a new large-format SLS 3D printer designed for industrial-grade production.",
+      "The system targets engineering teams, manufacturers, and service bureaus looking for accessible powder bed fusion technology.",
+      "The machine is available for order starting June 9, 2026, with a base price of $84,999."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Formlabs představila Fuse X1, velkoformátový SLS 3D tiskový ekosystém určený pro průmyslovou výrobu.",
+      "Zařízení je zaměřeno na inženýrské týmy, výrobce a servisní střediska, kterým má zpřístupnit technologii spékání prášku (powder bed fusion).",
+      "Tiskárnu lze objednávat od 9. června 2026 za cenu začínající na 84 999 USD."
+    ],
+    "tags": [
+      "Hardware",
+      "Formlabs",
+      "SLS",
+      "3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Mastrex uvádí MX300, označuje ji za nejdostupnější průmyslovou LPBF 3D tiskárnu na kovy",
+    "summary": "Mastrex, a US provider of additive manufacturing systems, has launched the MX300, a new industrial metal 3D printer built on Laser Powder Bed Fusion technology. Priced at $185,000, the system is being introduced as the industry’s most affordable LPBF metal 3D printer. MX300 is aimed at manufacturers seeking precision, scalability, and dependable production performance across&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/MX300-press-release-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-10T08:27:40+00:00",
+    "url": "https://3dprintingindustry.com/news/mastrex-launches-mx300-calls-it-industrys-most-affordable-lpbf-metal-3d-printer-252022/?utm_source=rss&utm_medium=rss&utm_campaign=mastrex-launches-mx300-calls-it-industrys-most-affordable-lpbf-metal-3d-printer",
+    "forced_tags": [],
+    "title_en": "Mastrex Launches MX300, Calls It Industry’s Most Affordable LPBF Metal 3D Printer",
+    "summary_bullets_en": [
+      "Mastrex introduced the MX300, a new industrial metal 3D printer utilizing Laser Powder Bed Fusion (LPBF) technology.",
+      "The system is positioned as the most affordable LPBF metal printer on the market with a price tag of $185,000.",
+      "The machine is designed for manufacturers requiring high precision, scalability, and reliable production performance."
+    ],
+    "summary_bullets_cs": [
+      "Americký výrobce Mastrex představil MX300, novou průmyslovou 3D tiskárnu na kovy využívající technologii Laser Powder Bed Fusion (LPBF).",
+      "Systém je uváděn na trh jako cenově nejdostupnější LPBF tiskárna v oboru s pořizovací cenou 185 000 USD.",
+      "Tiskárna MX300 je určena výrobcům, kteří hledají vysokou přesnost, škálovatelnost a spolehlivý výkon při produkci."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "LPBF",
+      "Additive Manufacturing",
+      "Mastrex",
+      "Industrial Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnosti Velo3D a Aurelia Technologies uzavřely partnerství v oblasti aditivní výroby malých plynových turbín",
+    "summary": "Metal additive manufacturing company Velo3D and Aurelia Technologies, a Texas-based developer of fuel-flexible, high-efficiency small-scale gas turbines, have announced a strategic partnership to expand the use of 3D printing in gas turbine systems. The agreement fits into Aurelia&#8217;s broader continuous-improvement roadmap, built around consolidating designs, iterating faster, strengthening supply chain resilience, and lowering costs over&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/1780989931088-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-10T08:25:49+00:00",
+    "url": "https://3dprintingindustry.com/news/velo3d-and-aurelia-technologies-partner-on-additive-manufacturing-for-small-scale-gas-turbines-252204/?utm_source=rss&utm_medium=rss&utm_campaign=velo3d-and-aurelia-technologies-partner-on-additive-manufacturing-for-small-scale-gas-turbines",
+    "forced_tags": [],
+    "title_en": "Velo3D and Aurelia Technologies Partner on Additive Manufacturing for Small-Scale Gas Turbines",
+    "summary_bullets_en": [
+      "Velo3D and Aurelia Technologies have formed a strategic partnership to integrate metal 3D printing into gas turbine production.",
+      "The collaboration aims to consolidate complex designs and accelerate the iteration process for high-efficiency turbines.",
+      "Key goals include strengthening supply chain resilience and reducing overall manufacturing costs.",
+      "This initiative is part of Aurelia’s long-term roadmap for continuous technological improvement."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti Velo3D a Aurelia Technologies oznámily strategické partnerství zaměřené na rozšíření využití 3D tisku v systémech plynových turbín.",
+      "Spolupráce je součástí plánu společnosti Aurelia na zefektivnění výroby, zrychlení inovací a posílení odolnosti dodavatelského řetězce.",
+      "Cílem partnerství je konsolidace konstrukčních návrhů a snížení nákladů na výrobu vysoce účinných malých plynových turbín."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Velo3D",
+      "Aurelia Technologies",
+      "Metal Additive Manufacturing",
+      "Gas Turbines"
+    ]
+  },
+  {
+    "title": "DuAlumin-3D z ORNL: Slitina hliníku pro 3D tisk, která si zachovává pevnost při 400 °C",
+    "summary": "Researchers at the US Department of Energy&#8216;s Manufacturing Demonstration Facility at Oak Ridge National Laboratory (ORNL) have developed DuAlumin-3D, a 3D printable aluminum alloy engineered to survive temperatures far beyond the reach of conventional aluminum. Designed for high-performance automotive and aerospace components, the alloy went from concept to full-scale prototype automotive pistons in under three&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/header-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-10T08:24:55+00:00",
+    "url": "https://3dprintingindustry.com/news/ornls-dualumin-3d-a-printable-aluminum-alloy-that-holds-its-strength-at-400c-252199/?utm_source=rss&utm_medium=rss&utm_campaign=ornls-dualumin-3d-a-printable-aluminum-alloy-that-holds-its-strength-at-400c",
+    "forced_tags": [],
+    "title_en": "ORNL’s DuAlumin-3D: A Printable Aluminum Alloy That Holds Its Strength at 400°C",
+    "summary_bullets_en": [
+      "Researchers at ORNL developed DuAlumin-3D, a new aluminum alloy optimized for 3D printing.",
+      "The material maintains structural integrity at extreme temperatures reaching 400°C.",
+      "It is specifically engineered for high-performance applications in the automotive and aerospace sectors.",
+      "The development process from initial concept to functional automotive pistons took less than three months."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z ORNL vyvinuli DuAlumin-3D, novou hliníkovou slitinu optimalizovanou pro 3D tisk.",
+      "Materiál si zachovává strukturální integritu při extrémních teplotách dosahujících až 400 °C.",
+      "Slitina je navržena speciálně pro vysoce výkonné komponenty v automobilovém a leteckém průmyslu.",
+      "Vývojový proces od konceptu až po funkční automobilové písty trval méně než tři měsíce."
+    ],
+    "tags": [
+      "Material",
+      "Research",
+      "ORNL",
+      "3D Printing",
+      "Aluminum Alloy",
+      "Automotive",
+      "Aerospace"
+    ]
+  },
+  {
+    "title": "Studie zkoumá 3D tištěné gyroidní implantáty pro kosti",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957916301/0/fabbaloo/default~Study-Probes-D-Printed-Gyroid-Implants-For-Bone\" rel=\"nofollow\" title=\"Study Probes 3D Printed Gyroid Implants For Bone\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/gyroid-implants-cover-300x152.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new study evaluates the mechanical and biological behavior of 3D printed gyroid implants aimed at improving bone integration.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957916301/0/fabbaloo/default~Study-Probes-D-Printed-Gyroid-Implants-For-Bone\" rel=\"nofollow\">Study Probes 3D Printed Gyroid Implants For Bone</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/gyroid-implants-cover-300x152.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-10T08:08:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957916301/0/fabbaloo/default~Study-Probes-D-Printed-Gyroid-Implants-For-Bone",
+    "forced_tags": [],
+    "title_en": "Study Probes 3D Printed Gyroid Implants For Bone",
+    "summary_bullets_en": [
+      "Researchers are investigating the mechanical and biological performance of 3D printed gyroid structures.",
+      "The study focuses on how these complex lattice designs enhance osseointegration in medical implants.",
+      "Gyroid geometries are being evaluated for their potential to mimic natural bone properties and improve patient recovery."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie hodnotí mechanické a biologické chování 3D tištěných gyroidních implantátů.",
+      "Cílem výzkumu je zlepšení integrace implantátů do kostní tkáně.",
+      "Gyroidní struktury jsou zkoumány pro svou schopnost napodobovat přirozené vlastnosti kostí."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Medical 3D Printing",
+      "Gyroid Structures",
+      "Osseointegration",
+      "Biomedical Engineering"
+    ]
+  },
+  {
+    "title": "Formlabs uvádí na trh průmyslovou SLS tiskárnu Fuse X1 s cenou od 84 999 USD",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/formlabs-launches-fuse-x1-industrial-sls-printer-starting-at-84999/\" target=\"_blank\">Formlabs Launches Fuse X1 Industrial SLS Printer Starting at $84,999</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 10</span></div><div><img alt=\"Formlabs Launches Fuse X1 Industrial SLS Printer Starting at $84,999\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/397080930-e1781076396716-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/397080930-e1781076396716-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2026-06-10T07:25:36+00:00",
+    "url": "https://3dprinting.com/news/formlabs-launches-fuse-x1-industrial-sls-printer-starting-at-84999/",
+    "forced_tags": [],
+    "title_en": "Formlabs Launches Fuse X1 Industrial SLS Printer Starting at $84,999",
+    "summary_bullets_en": [
+      "Formlabs has introduced the Fuse X1, a new industrial-grade SLS 3D printer designed for high-throughput production.",
+      "The system is positioned as an accessible industrial solution with a starting price of $84,999.",
+      "It aims to bridge the gap between desktop convenience and industrial performance, focusing on reliability and workflow efficiency."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Formlabs představila Fuse X1, novou průmyslovou SLS 3D tiskárnu určenou pro vysokokapacitní výrobu.",
+      "Systém je prezentován jako dostupné průmyslové řešení se základní cenou 84 999 USD.",
+      "Cílem tiskárny je propojit uživatelskou přívětivost stolních zařízení s výkonem průmyslových strojů, přičemž klade důraz na spolehlivost a efektivitu pracovního postupu."
+    ],
+    "tags": [
+      "Hardware",
+      "Formlabs",
+      "SLS",
+      "3D Printing",
+      "Industrial Manufacturing"
+    ]
+  },
+  {
+    "title": "Zabijácké aplikace 3D tisku: Nářadí",
+    "summary": "A previous Killer 3D Printing Applications article looks at tool voids and tool storage. With 3D printing, we can connect different sets and make cases to organize tools. We can...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/mt55cc_anwendung04_2017_zoom_19201920.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-10T07:00:46+00:00",
+    "url": "https://3dprint.com/326170/killer-3d-printing-applications-tools/",
+    "forced_tags": [],
+    "title_en": "Killer 3D Printing Applications: Tools",
+    "summary_bullets_en": [
+      "3D printing allows for the creation of custom tool storage solutions and organizers.",
+      "Users can bridge different tool sets by designing modular cases and specific inserts.",
+      "Additive manufacturing enables the optimization of workspace efficiency through bespoke tool voids.",
+      "The technology provides flexibility to adapt storage systems to unique tool shapes and sizes."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk umožňuje vytvářet řešení pro ukládání nářadí a organizéry na míru.",
+      "Uživatelé mohou propojovat různé sady nářadí pomocí návrhu modulárních kufříků a vložek.",
+      "Aditivní výroba umožňuje optimalizovat efektivitu pracovního prostoru pomocí přesných výřezů pro nářadí.",
+      "Tato technologie poskytuje flexibilitu při přizpůsobování úložných systémů specifickým tvarům a velikostem nástrojů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Tooling",
+      "Organization",
+      "Customization",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Společnost Continuum Powders otevírá novou platformu pro zákazníky se speciálními slitinami a malosériovou výrobou",
     "summary": "With the launch of Custom Foundry Runtime (CFR), Continuum Powders is making its plasma-gas atomization infrastructure available to manufacturers, researchers, and advanced materials developers on their terms, covering everything from specialty alloy development and small-batch production runs to the processing of high-value and precious metal materials. The offering formalizes a capability Continuum has long applied&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/1780495298146-150x100.jpeg",
