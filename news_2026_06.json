@@ -1,5 +1,415 @@
 [
   {
+    "title": "Projekt Titan společnosti IperionX vykazuje čistou současnou hodnotu 813 milionů dolarů pro dodávky titanu",
+    "summary": "American titanium manufacturer IperionX has released the Definitive Feasibility Study (DFS) for its Titan Critical Minerals Project (Titan) in west Tennessee, confirming a mine plan designed to anchor a fully domestic U.S. titanium supply chain — one the company intends to route through its proprietary powder production technologies and into additive manufacturing (AM) markets. The&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/Titan-Project-1--150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-12T05:56:22+00:00",
+    "url": "https://3dprintingindustry.com/news/iperionx-titan-project-models-813m-npv-for-titanium-supply-252263/?utm_source=rss&utm_medium=rss&utm_campaign=iperionx-titan-project-models-813m-npv-for-titanium-supply",
+    "forced_tags": [],
+    "title_en": "IperionX Titan Project models $813M NPV for titanium supply",
+    "summary_bullets_en": [
+      "IperionX released a Definitive Feasibility Study for its Titan Critical Minerals Project in Tennessee.",
+      "The project aims to establish a fully domestic U.S. titanium supply chain.",
+      "The company plans to utilize its proprietary powder production technologies to supply the additive manufacturing sector.",
+      "The project demonstrates strong economic potential with an estimated net present value (NPV) of $813 million."
+    ],
+    "summary_bullets_cs": [
+      "Americký výrobce titanu IperionX zveřejnil studii proveditelnosti (DFS) pro svůj projekt Titan Critical Minerals v západním Tennessee.",
+      "Cílem projektu je vytvořit plně domácí americký dodavatelský řetězec titanu.",
+      "Společnost hodlá využít své vlastní technologie výroby prášku pro zásobování trhů s aditivní výrobou (3D tiskem)."
+    ],
+    "tags": [
+      "Material",
+      "IperionX",
+      "Titanium",
+      "Additive Manufacturing",
+      "Supply Chain",
+      "Mining"
+    ]
+  },
+  {
+    "title": "Google uvolnil návrhy pro 3D tisk řemínků Fitbit Air Band",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957958130/0/fabbaloo/default~Google-Releases-Enables-D-Printed-Fitbit-Air-Band-Designs\" rel=\"nofollow\" title=\"Google Releases Enables 3D Printed Fitbit Air Band Designs\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/google-fitbit-band-cover-300x172.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Google has stepped into the world of 3D printing in a big way.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957958130/0/fabbaloo/default~Google-Releases-Enables-D-Printed-Fitbit-Air-Band-Designs\" rel=\"nofollow\">Google Releases Enables 3D Printed Fitbit Air Band Designs</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/google-fitbit-band-cover-300x172.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-11T16:37:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957958130/0/fabbaloo/default~Google-Releases-Enables-D-Printed-Fitbit-Air-Band-Designs",
+    "forced_tags": [],
+    "title_en": "Google Releases Enables 3D Printed Fitbit Air Band Designs",
+    "summary_bullets_en": [
+      "Google has officially entered the 3D printing space by releasing design files for Fitbit accessories.",
+      "The initiative focuses on 'Air Band' designs, allowing users to customize their wearable devices.",
+      "This move highlights a growing trend of major tech companies embracing additive manufacturing for consumer hardware customization."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Google oficiálně vstoupila do světa 3D tisku zveřejněním návrhů pro příslušenství k hodinkám Fitbit.",
+      "Iniciativa se zaměřuje na designy „Air Band“, které uživatelům umožňují přizpůsobit si vzhled svých nositelných zařízení.",
+      "Tento krok potvrzuje rostoucí trend velkých technologických firem využívat aditivní výrobu pro personalizaci spotřebního hardwaru."
+    ],
+    "tags": [
+      "Hardware",
+      "Google",
+      "Fitbit",
+      "Wearables",
+      "Additive Manufacturing",
+      "Consumer Electronics"
+    ]
+  },
+  {
+    "title": "Patent na selektivní vytvrzování SLA cílí na variabilní vlastnosti",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957956303/0/fabbaloo/default~Selective-SLA-Curing-Patent-Targets-Variable-Properties\" rel=\"nofollow\" title=\"Selective SLA Curing Patent Targets Variable Properties\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/sprintray-sla-patent-cover-300x245.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A patent application proposes a more selective way to post-cure stereolithography parts.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957956303/0/fabbaloo/default~Selective-SLA-Curing-Patent-Targets-Variable-Properties\" rel=\"nofollow\">Selective SLA Curing Patent Targets Variable Properties</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/sprintray-sla-patent-cover-300x245.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-11T15:30:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957956303/0/fabbaloo/default~Selective-SLA-Curing-Patent-Targets-Variable-Properties",
+    "forced_tags": [],
+    "title_en": "Selective SLA Curing Patent Targets Variable Properties",
+    "summary_bullets_en": [
+      "A new patent application introduces a method for selective post-curing of stereolithography (SLA) parts.",
+      "The technology aims to achieve variable material properties within a single printed object.",
+      "By controlling the curing process locally, users can customize the mechanical characteristics of specific part regions.",
+      "This innovation could significantly enhance the functional versatility of 3D printed components."
+    ],
+    "summary_bullets_cs": [
+      "Nová patentová přihláška představuje metodu selektivního dodatečného vytvrzování dílů vyrobených stereolitografií (SLA).",
+      "Technologie má za cíl dosáhnout proměnlivých materiálových vlastností v rámci jednoho vytištěného objektu.",
+      "Díky lokálnímu řízení procesu vytvrzování mohou uživatelé přizpůsobit mechanické charakteristiky konkrétních částí dílu.",
+      "Tato inovace by mohla výrazně zvýšit funkční všestrannost 3D tištěných komponent."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "SLA",
+      "3D Printing",
+      "Post-processing",
+      "SprintRay"
+    ]
+  },
+  {
+    "title": "TDK získá firmu Fabric8Labs zabývající se 3D tiskem za částku až 400 milionů dolarů",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/tdk-to-acquire-3d-printing-firm-fabric8labs-for-up-to-400-million/\" target=\"_blank\">TDK to Acquire 3D Printing Firm Fabric8Labs for Up to $400 Million</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 11</span></div><div><img alt=\"TDK to Acquire 3D Printing Firm Fabric8Labs for Up to $400 Million\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/639797983-1-500x500.png\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/639797983-1-500x500.png",
+    "source": "3DPrinting.com",
+    "published": "2026-06-11T14:30:24+00:00",
+    "url": "https://3dprinting.com/news/tdk-to-acquire-3d-printing-firm-fabric8labs-for-up-to-400-million/",
+    "forced_tags": [],
+    "title_en": "TDK to Acquire 3D Printing Firm Fabric8Labs for Up to $400 Million",
+    "summary_bullets_en": [
+      "Japanese electronics giant TDK has announced its intent to acquire the additive manufacturing startup Fabric8Labs.",
+      "The deal is valued at up to $400 million, highlighting the growing strategic importance of advanced 3D printing technologies.",
+      "Fabric8Labs is known for its proprietary electrochemical additive manufacturing (ECAM) process, which enables high-precision metal printing.",
+      "This acquisition aims to integrate Fabric8Labs' innovative manufacturing capabilities into TDK’s extensive electronics and components portfolio."
+    ],
+    "summary_bullets_cs": [
+      "Japonský elektronický gigant TDK oznámil záměr převzít startup Fabric8Labs, který se specializuje na aditivní výrobu.",
+      "Hodnota transakce dosahuje až 400 milionů dolarů, což podtrhuje rostoucí strategický význam pokročilých technologií 3D tisku.",
+      "Společnost Fabric8Labs je známá svým patentovaným procesem elektrochemické aditivní výroby (ECAM), který umožňuje vysoce přesný tisk kovů.",
+      "Cílem akvizice je integrace inovativních výrobních schopností Fabric8Labs do rozsáhlého portfolia elektroniky a komponent společnosti TDK."
+    ],
+    "tags": [
+      "Hardware",
+      "TDK",
+      "Fabric8Labs",
+      "Additive Manufacturing",
+      "Metal 3D Printing",
+      "ECAM"
+    ]
+  },
+  {
+    "title": "Patent na samočisticí ventilátor cílí na chlazení 3D tiskáren",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957951941/0/fabbaloo/default~Self-Cleaning-Fan-Patent-Targets-D-Printer-Cooling\" rel=\"nofollow\" title=\"Self Cleaning Fan Patent Targets 3D Printer Cooling\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/self-cleaning-fan-patent-cover-300x175.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A Chinese utility model patent proposes a simple way to keep 3D printer cooling fans from slowly degrading: clean the fan blades while they spin.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957951941/0/fabbaloo/default~Self-Cleaning-Fan-Patent-Targets-D-Printer-Cooling\" rel=\"nofollow\">Self Cleaning Fan Patent Targets 3D Printer Cooling</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/self-cleaning-fan-patent-cover-300x175.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-11T13:32:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957951941/0/fabbaloo/default~Self-Cleaning-Fan-Patent-Targets-D-Printer-Cooling",
+    "forced_tags": [],
+    "title_en": "Self Cleaning Fan Patent Targets 3D Printer Cooling",
+    "summary_bullets_en": [
+      "A new Chinese utility model patent introduces a mechanism to keep 3D printer cooling fans clean.",
+      "The design focuses on removing dust and debris from fan blades while they are in operation.",
+      "This innovation aims to prevent the gradual performance degradation of cooling systems in 3D printers."
+    ],
+    "summary_bullets_cs": [
+      "Čínský užitný vzor představuje jednoduchý způsob, jak zabránit postupnému zhoršování výkonu chladicích ventilátorů u 3D tiskáren.",
+      "Princip spočívá v čištění lopatek ventilátoru přímo během jejich rotace.",
+      "Cílem technologie je udržet efektivní chlazení tiskárny bez nutnosti manuální údržby."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Cooling Systems",
+      "Patent",
+      "Maintenance"
+    ]
+  },
+  {
+    "title": "Co nám pracovní síla v aditivní výrobě říká o prioritách růstu v oboru",
+    "summary": "The most interesting workforce trends in additive manufacturing have little to do with salaries and everything to do with where companies are placing their bets. One of the clearest signs...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/Picture-2.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-11T13:00:56+00:00",
+    "url": "https://3dprint.com/326617/what-the-am-workforce-is-telling-us-about-the-industrys-growth-priorities/",
+    "forced_tags": [],
+    "title_en": "What the AM Workforce Is Telling Us About the Industry’s Growth Priorities",
+    "summary_bullets_en": [
+      "Workforce trends in additive manufacturing are shifting focus from salary concerns to strategic industry investments.",
+      "Companies are prioritizing specific technological sectors, signaling where the future of 3D printing growth lies.",
+      "The current hiring landscape serves as a key indicator of which AM segments are scaling most rapidly.",
+      "Talent acquisition patterns reveal a clear roadmap of corporate priorities and long-term market bets."
+    ],
+    "summary_bullets_cs": [
+      "Trendy v oblasti pracovní síly v aditivní výrobě se přesouvají od otázek platů k tomu, kam firmy strategicky investují.",
+      "Společnosti upřednostňují konkrétní technologické sektory, což naznačuje, kde leží budoucnost růstu 3D tisku.",
+      "Současná situace na trhu práce slouží jako klíčový ukazatel toho, které segmenty AM se nejrychleji rozvíjejí.",
+      "Vzorce náboru talentů odhalují jasný přehled o firemních prioritách a dlouhodobých sázkách na trhu."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Additive Manufacturing",
+      "Workforce Trends",
+      "Industry Growth"
+    ]
+  },
+  {
+    "title": "Společnost DEEP Manufacturing spolupracuje s Fortius Metals na demonstraci technologie WAAM ve velkém měřítku",
+    "summary": "DEEP Manufacturing is trying to build pressure vessels and marine habitats at scale with DED technology. Using commercial robot arms and wire arc additive manufacturing (WAAM), the company is hoping...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/contact-756x1024.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-11T12:00:11+00:00",
+    "url": "https://3dprint.com/326549/deep-manufacturing-and-fortius-collaborate/",
+    "forced_tags": [],
+    "title_en": "DEEP Manufacturing Collaborating with Fortius Metals to Demonstrate WAAM at Scale",
+    "summary_bullets_en": [
+      "DEEP Manufacturing is leveraging DED technology to produce large-scale pressure vessels and marine habitats.",
+      "The project utilizes commercial robotic arms combined with Wire Arc Additive Manufacturing (WAAM).",
+      "The collaboration with Fortius Metals aims to push the boundaries of additive manufacturing for extreme environments.",
+      "This initiative focuses on scaling up production capabilities for complex underwater infrastructure."
+    ],
+    "summary_bullets_cs": [
+      "Společnost DEEP Manufacturing využívá technologii DED k výrobě tlakových nádob a podmořských habitatů ve velkém měřítku.",
+      "Projekt využívá komerční robotická ramena v kombinaci s technologií navařování kovovým drátem (WAAM).",
+      "Spolupráce se společností Fortius Metals má za cíl posunout hranice aditivní výroby pro extrémní prostředí.",
+      "Iniciativa se zaměřuje na rozšíření výrobních kapacit pro komplexní podmořskou infrastrukturu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "DEEP Manufacturing",
+      "Fortius Metals",
+      "WAAM",
+      "DED",
+      "Robotics"
+    ]
+  },
+  {
+    "title": "Od zakázkových protéz k digitální péči: Nejnovější inovace 3D tisku od společnosti Ottobock signalizuje posun ve zdravotnictví",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957949082/0/fabbaloo/default~From-Custom-Prosthetics-to-Digital-Care-Ottobock%e2%80%99s-Latest-D-Printing-Innovation-Signals-a-Healthcare-Shift\" rel=\"nofollow\" title=\"From Custom Prosthetics to Digital Care: Ottobock’s Latest 3D Printing Innovation Signals a Healthcare Shift\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/Filename-_200-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi examine how Ottobock’s new 3D printed silicone prosthetic liner reflects a broader movement toward mass-customized healthcare enabled by additive manufacturing and digital workflows.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957949082/0/fabbaloo/default~From-Custom-Prosthetics-to-Digital-Care-Ottobock%e2%80%99s-Latest-D-Printing-Innovation-Signals-a-Healthcare-Shift\" rel=\"nofollow\">From Custom Prosthetics to Digital Care: Ottobock’s Latest 3D Printing Innovation Signals a Healthcare Shift</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/Filename-_200-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-11T11:39:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957949082/0/fabbaloo/default~From-Custom-Prosthetics-to-Digital-Care-Ottobock%e2%80%99s-Latest-D-Printing-Innovation-Signals-a-Healthcare-Shift",
+    "forced_tags": [],
+    "title_en": "From Custom Prosthetics to Digital Care: Ottobock’s Latest 3D Printing Innovation Signals a Healthcare Shift",
+    "summary_bullets_en": [
+      "Ottobock has introduced a new 3D printed silicone prosthetic liner, marking a significant advancement in medical device manufacturing.",
+      "The innovation highlights a broader industry trend toward mass-customized healthcare solutions.",
+      "Digital workflows and additive manufacturing are becoming central to improving patient outcomes and prosthetic personalization."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Ottobock představila novou 3D tištěnou silikonovou vložku do protéz, což představuje významný pokrok ve výrobě zdravotnických prostředků.",
+      "Tato inovace podtrhuje širší průmyslový trend směřující k masově přizpůsobeným řešením ve zdravotnictví.",
+      "Digitální pracovní postupy a aditivní výroba se stávají klíčovými pro zlepšování výsledků pacientů a personalizaci protéz."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Ottobock",
+      "3D Printing",
+      "Prosthetics",
+      "Healthcare"
+    ]
+  },
+  {
+    "title": "DEEP Manufacturing a Fortius Metals se zaměřují na multimodální WAAM v produkčním měřítku",
+    "summary": "DEEP Manufacturing, a specialist in wire arc additive manufacturing (WAAM) for safety-critical structures, has partnered with Colorado-based Fortius Metals to print a complex, multi-material metal cylinder using large-format metal 3D printing. Announced on June 4, 2026, the project will combine DEEP’s synchronized multi-robot WAAM system with Fortius’ expertise in simulation, toolpath design, and advanced welding&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/image-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-11T10:04:49+00:00",
+    "url": "https://3dprintingindustry.com/news/deep-manufacturing-and-fortius-metals-target-production-scale-multi-material-waam-252251/?utm_source=rss&utm_medium=rss&utm_campaign=deep-manufacturing-and-fortius-metals-target-production-scale-multi-material-waam",
+    "forced_tags": [],
+    "title_en": "DEEP Manufacturing and Fortius Metals target production-scale multi-material WAAM",
+    "summary_bullets_en": [
+      "DEEP Manufacturing and Fortius Metals have partnered to advance large-format, multi-material metal 3D printing.",
+      "The project utilizes DEEP’s synchronized multi-robot WAAM system for safety-critical applications.",
+      "Fortius Metals provides expertise in simulation and toolpath design to optimize the complex printing process.",
+      "The collaboration aims to demonstrate production-scale capabilities for manufacturing complex metal cylinders."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti DEEP Manufacturing a Fortius Metals navázaly partnerství pro pokročilý velkoformátový 3D tisk z více kovových materiálů.",
+      "Projekt využívá synchronizovaný robotický systém WAAM od společnosti DEEP pro výrobu komponentů kritických z hlediska bezpečnosti.",
+      "Fortius Metals přináší své odborné znalosti v oblasti simulací a návrhu drah nástrojů pro optimalizaci složitého tiskového procesu.",
+      "Cílem spolupráce je prokázat schopnost výroby komplexních kovových válců v průmyslovém měřítku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "DEEP Manufacturing",
+      "Fortius Metals",
+      "WAAM",
+      "Metal 3D Printing"
+    ]
+  },
+  {
+    "title": "Neurální optimalizace tvaru by mohla omezit podpory u 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957944684/0/fabbaloo/default~Neural-Shape-Optimization-Could-Cut-D-Print-Supports\" rel=\"nofollow\" title=\"Neural Shape Optimization Could Cut 3D Print Supports\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/03/shape-optimization-cover-300x120.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new neural field-based optimization method aims to reshape parts to reduce overhangs and, in turn, minimize the need for 3D printing support structures.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957944684/0/fabbaloo/default~Neural-Shape-Optimization-Could-Cut-D-Print-Supports\" rel=\"nofollow\">Neural Shape Optimization Could Cut 3D Print Supports</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/03/shape-optimization-cover-300x120.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-11T08:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957944684/0/fabbaloo/default~Neural-Shape-Optimization-Could-Cut-D-Print-Supports",
+    "forced_tags": [],
+    "title_en": "Neural Shape Optimization Could Cut 3D Print Supports",
+    "summary_bullets_en": [
+      "A new optimization method utilizes neural fields to automatically reshape 3D models.",
+      "The primary goal is to reduce overhangs, which are the main cause of complex support structures.",
+      "By minimizing the need for supports, this technology promises faster prints and less material waste."
+    ],
+    "summary_bullets_cs": [
+      "Nová optimalizační metoda využívá neurální pole k automatické úpravě tvaru 3D modelů.",
+      "Hlavním cílem je redukce převisů, které jsou hlavní příčinou nutnosti používat složité podpůrné struktury.",
+      "Díky minimalizaci potřebných podpor slibuje tato technologie rychlejší tisk a menší plýtvání materiálem."
+    ],
+    "tags": [
+      "Software",
+      "3D Printing",
+      "Neural Networks",
+      "Shape Optimization",
+      "Generative Design",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "AM Asia Watch: Čína vyvezla za čtyři měsíce 2,46 milionu 3D tiskáren",
+    "summary": "China&#8217;s consumer 3D printer industry seems to be reaching a new level of global dominance. According to Chinese state media outlet China Global Television Network (CGTN), China exported 2.46 million...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/1780049840404.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-11T07:30:14+00:00",
+    "url": "https://3dprint.com/326568/am-asia-watch-china-exported-2-46-million-3d-printers-in-four-months/",
+    "forced_tags": [],
+    "title_en": "AM Asia Watch: China Exported 2.46 Million 3D Printers in Four Months",
+    "summary_bullets_en": [
+      "China has exported 2.46 million 3D printers within a four-month period.",
+      "The data highlights the growing global dominance of the Chinese consumer 3D printing industry.",
+      "The report was published by the Chinese state media outlet CGTN."
+    ],
+    "summary_bullets_cs": [
+      "Čína vyvezla během čtyř měsíců celkem 2,46 milionu 3D tiskáren.",
+      "Tato data potvrzují rostoucí globální dominanci čínského průmyslu spotřebitelských 3D tiskáren.",
+      "Zprávu zveřejnila čínská státní média prostřednictvím stanice China Global Television Network (CGTN)."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "China",
+      "Consumer Electronics",
+      "Export",
+      "CGTN"
+    ]
+  },
+  {
+    "title": "S rostoucím zájmem o dlouhověkost získala společnost Rem3dy Health 14 milionů liber na 3D tištěnou výživu",
+    "summary": "Longevity hack or healthcare trend? The answer may depend on who you ask, but investor interest in personalized nutrition is growing as consumers search for the next longevity hack. Now,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/image_processing20250925-8-fu15uf.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-11T07:00:20+00:00",
+    "url": "https://3dprint.com/326748/as-longevity-gains-momentum-rem3dy-health-raises-14-million-for-3d-printed-nutrition/",
+    "forced_tags": [],
+    "title_en": "As Longevity Gains Momentum, Rem3dy Health Raises £14 Million for 3D Printed Nutrition",
+    "summary_bullets_en": [
+      "Rem3dy Health has successfully secured £14 million in funding to advance its personalized 3D printed nutrition technology.",
+      "The investment reflects a growing market trend where consumers are increasingly seeking tailored health solutions for longevity.",
+      "The company aims to leverage this capital to scale its production capabilities and expand its reach in the personalized wellness sector."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Rem3dy Health úspěšně získala investici ve výši 14 milionů liber na rozvoj své technologie 3D tištěné personalizované výživy.",
+      "Investice odráží rostoucí tržní trend, kdy spotřebitelé stále častěji vyhledávají řešení na míru pro podporu dlouhověkosti.",
+      "Společnost plánuje využít kapitál k rozšíření výrobních kapacit a posílení své pozice v sektoru personalizovaného zdraví."
+    ],
+    "tags": [
+      "Services",
+      "3D Printing",
+      "Personalized Nutrition",
+      "Rem3dy Health",
+      "Longevity",
+      "HealthTech"
+    ]
+  },
+  {
+    "title": "America Makes uděluje 2 miliony dolarů na pokrok v kvalifikaci materiálů pomocí AI",
+    "summary": "America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have named the recipients of a project call funded by the Office of the Under Secretary of War for Research and Engineering, Manufacturing Technology Office (OSW ManTech), with a combined award of $2M. The initiative, titled Artificial Intelligence for Material Allowables in Additive&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/America-Makes-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-11T06:57:37+00:00",
+    "url": "https://3dprintingindustry.com/news/america-makes-awards-2m-to-advance-ai-based-material-qualification-252240/?utm_source=rss&utm_medium=rss&utm_campaign=america-makes-awards-2m-to-advance-ai-based-material-qualification",
+    "forced_tags": [],
+    "title_en": "America Makes Awards $2M to Advance AI-Based Material Qualification",
+    "summary_bullets_en": [
+      "America Makes and NCDMM have awarded $2 million in funding for AI-driven additive manufacturing research.",
+      "The project is supported by the Office of the Under Secretary of Defense for Research and Engineering.",
+      "The initiative focuses on accelerating the qualification process for materials used in 3D printing.",
+      "This effort aims to streamline the certification of additive manufacturing materials for defense applications."
+    ],
+    "summary_bullets_cs": [
+      "Organizace America Makes a NCDMM rozdělily 2 miliony dolarů na výzkum v oblasti aditivní výroby řízené umělou inteligencí.",
+      "Projekt je financován úřadem náměstka ministra obrany pro výzkum a inženýrství (OSD R&E).",
+      "Iniciativa se zaměřuje na zrychlení procesu kvalifikace materiálů používaných v 3D tisku.",
+      "Cílem projektu je zefektivnit certifikaci materiálů pro aditivní výrobu v obranném průmyslu."
+    ],
+    "tags": [
+      "Software",
+      "Material",
+      "Services",
+      "America Makes",
+      "NCDMM",
+      "Artificial Intelligence",
+      "Additive Manufacturing",
+      "Defense"
+    ]
+  },
+  {
+    "title": "Nový 3D tiskárna na věžovém jeřábu od společnosti Luyten: Technické specifikace a ceny",
+    "summary": "Australian construction technology company Luyten 3D has launched the ASCEND A27, described as the “world’s first” tower crane-mounted concrete 3D printer designed to build structures up to 100 m tall. That claim rests on a structural departure from how concrete 3D printers have worked until now. Conventional systems use gantry frames, which move along fixed&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/ASCEND-series-cincrete-printer-150x100.avif",
+    "source": "3D Printing Industry",
+    "published": "2026-06-11T06:51:23+00:00",
+    "url": "https://3dprintingindustry.com/news/luytens-new-tower-crane-mounted-3d-printer-technical-specifications-and-pricing-252215/?utm_source=rss&utm_medium=rss&utm_campaign=luytens-new-tower-crane-mounted-3d-printer-technical-specifications-and-pricing",
+    "forced_tags": [],
+    "title_en": "Luyten’s New Tower Crane-Mounted 3D Printer: Technical Specifications and Pricing",
+    "summary_bullets_en": [
+      "Australian firm Luyten 3D introduced the ASCEND A27, the world's first concrete 3D printer mounted on a tower crane.",
+      "The system is designed to construct buildings up to 100 meters in height, significantly exceeding the limits of traditional gantry-based printers.",
+      "This innovation marks a major shift in construction technology by moving away from fixed-frame setups to crane-integrated printing."
+    ],
+    "summary_bullets_cs": [
+      "Australská technologická společnost Luyten 3D představila ASCEND A27, první 3D tiskárnu na beton na světě, která je namontována na věžovém jeřábu.",
+      "Systém je navržen pro stavbu konstrukcí vysokých až 100 metrů, což překonává limity běžných portálových tiskáren.",
+      "Tato inovace představuje zásadní posun ve stavebních technologiích díky přechodu od pevných rámových konstrukcí k tisku integrovanému přímo na jeřábu."
+    ],
+    "tags": [
+      "Hardware",
+      "Construction Technology",
+      "3D Concrete Printing",
+      "Luyten 3D",
+      "ASCEND A27",
+      "Automation"
+    ]
+  },
+  {
     "title": "Meshy spouští beta verzi 3D Agenta a představuje konverzační AI pracovní postupy pro tvorbu 3D modelů",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/957928889/0/fabbaloo/default~Meshy-Launches-D-Agent-Beta-Introducing-Conversational-AI-Workflows-for-D-Model-Creation\" rel=\"nofollow\" title=\"Meshy Launches 3D Agent Beta, Introducing Conversational AI Workflows for 3D Model Creation\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/meshy-agent-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Meshy announced a new agent capability.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957928889/0/fabbaloo/default~Meshy-Launches-D-Agent-Beta-Introducing-Conversational-AI-Workflows-for-D-Model-Creation\" rel=\"nofollow\">Meshy Launches 3D Agent Beta, Introducing Conversational AI Workflows for 3D Model Creation</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/meshy-agent-cover-300x169.jpg",
