@@ -1,5 +1,400 @@
 [
   {
+    "title": "Plnobarevný tisk se rozšiřuje v desktopovém FFF, ale někteří velcí výrobci chybí",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957987860/0/fabbaloo/default~Full-Color-Printing-Expands-in-Desktop-FFF-But-Some-Major-Manufacturers-are-AWOL\" rel=\"nofollow\" title=\"Full Color Printing Expands in Desktop FFF, But Some Major Manufacturers are AWOL\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/awol-full-color-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The new “full colour” capabilities to FFF 3D printing are creating some interesting reactions.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957987860/0/fabbaloo/default~Full-Color-Printing-Expands-in-Desktop-FFF-But-Some-Major-Manufacturers-are-AWOL\" rel=\"nofollow\">Full Color Printing Expands in Desktop FFF, But Some Major Manufacturers are AWOL</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/awol-full-color-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-12T16:40:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957987860/0/fabbaloo/default~Full-Color-Printing-Expands-in-Desktop-FFF-But-Some-Major-Manufacturers-are-AWOL",
+    "forced_tags": [],
+    "title_en": "Full Color Printing Expands in Desktop FFF, But Some Major Manufacturers are AWOL",
+    "summary_bullets_en": [
+      "Full-color FFF 3D printing technology is rapidly evolving and gaining new capabilities.",
+      "The industry is seeing a surge in interest and innovation regarding multi-color desktop solutions.",
+      "Despite this trend, several leading 3D printer manufacturers have yet to adopt or integrate these full-color features into their product lines."
+    ],
+    "summary_bullets_cs": [
+      "Technologie plnobarevného FFF 3D tisku se rychle vyvíjí a získává nové možnosti.",
+      "V oboru roste zájem a inovace v oblasti vícebarevných desktopových řešení.",
+      "Navzdory tomuto trendu se řada předních výrobců 3D tiskáren zatím k integraci těchto plnobarevných funkcí do svých produktových řad neodhodlala."
+    ],
+    "tags": [
+      "Hardware",
+      "FFF 3D Printing",
+      "Full Color Printing",
+      "Desktop 3D Printers",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "IPO SpaceX přivádí na Wall Street giganta v oblasti 3D tisku",
+    "summary": "SpaceX officially began trading on the Nasdaq today under the ticker symbol SPCX, marking one of the most anticipated and largest public offerings in Wall Street history. The company priced...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/HKn5_0WsAASCIu.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-12T15:49:26+00:00",
+    "url": "https://3dprint.com/326801/spacex-ipo-puts-a-major-3d-printing-powerhouse-on-wall-street/",
+    "forced_tags": [],
+    "title_en": "SpaceX IPO Puts a Major 3D Printing Powerhouse on Wall Street",
+    "summary_bullets_en": [
+      "SpaceX has officially launched its IPO on the Nasdaq under the ticker symbol SPCX.",
+      "The event is recognized as one of the largest and most anticipated public offerings in history.",
+      "The company's entry into the stock market highlights its significant role as a leader in industrial 3D printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Společnost SpaceX dnes oficiálně vstoupila na burzu Nasdaq pod symbolem SPCX.",
+      "Jde o jednu z nejočekávanějších a největších veřejných nabídek akcií v historii Wall Street.",
+      "Vstup společnosti na burzu podtrhuje její klíčové postavení v oblasti průmyslového 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "SpaceX",
+      "Nasdaq",
+      "Aerospace",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Čínský patent popisuje nastavitelnou trysku pro FFF tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957985166/0/fabbaloo/default~Chinese-Patent-Describes-Adjustable-FFF-Nozzle\" rel=\"nofollow\" title=\"Chinese Patent Describes Adjustable FFF Nozzle\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/adjustable-nozzle-cover-300x202.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A newly granted Chinese utility patent proposes a variable extrusion head for FFF 3D printers, aimed at avoiding one of the oldest annoyances in desktop and industrial extrusion printing: changing nozzles.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957985166/0/fabbaloo/default~Chinese-Patent-Describes-Adjustable-FFF-Nozzle\" rel=\"nofollow\">Chinese Patent Describes Adjustable FFF Nozzle</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/adjustable-nozzle-cover-300x202.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-12T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957985166/0/fabbaloo/default~Chinese-Patent-Describes-Adjustable-FFF-Nozzle",
+    "forced_tags": [],
+    "title_en": "Chinese Patent Describes Adjustable FFF Nozzle",
+    "summary_bullets_en": [
+      "A new Chinese utility patent introduces a variable extrusion head design for FFF 3D printers.",
+      "The technology aims to eliminate the need for manual nozzle changes, which is a common pain point in 3D printing.",
+      "This innovation could significantly streamline workflows for both desktop and industrial extrusion systems."
+    ],
+    "summary_bullets_cs": [
+      "Nový čínský užitný vzor představuje design variabilní vytlačovací hlavy pro FFF 3D tiskárny.",
+      "Technologie má za cíl odstranit nutnost manuální výměny trysek, což je jeden z nejčastějších problémů při 3D tisku.",
+      "Tato inovace by mohla výrazně zefektivnit pracovní postupy u stolních i průmyslových vytlačovacích systémů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "FFF",
+      "Extrusion",
+      "Patent",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "ORNL využívá aditivní výrobu ke snížení nákladů u malých vodních elektráren",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957981488/0/fabbaloo/default~ORNL-Uses-Additive-Manufacturing-to-Reduce-Costs-for-SmallScale-Hydroelectric-Installations\" rel=\"nofollow\" title=\"ORNL Uses Additive Manufacturing to Reduce Costs for Small-Scale Hydroelectric Installations\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/cadens-model-300x240.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>ORNL has been working on an interesting partnership to develop a 3D-printed micro-hydro system.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957981488/0/fabbaloo/default~ORNL-Uses-Additive-Manufacturing-to-Reduce-Costs-for-SmallScale-Hydroelectric-Installations\" rel=\"nofollow\">ORNL Uses Additive Manufacturing to Reduce Costs for Small-Scale Hydroelectric Installations</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/cadens-model-300x240.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-12T13:39:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957981488/0/fabbaloo/default~ORNL-Uses-Additive-Manufacturing-to-Reduce-Costs-for-SmallScale-Hydroelectric-Installations",
+    "forced_tags": [],
+    "title_en": "ORNL Uses Additive Manufacturing to Reduce Costs for Small-Scale Hydroelectric Installations",
+    "summary_bullets_en": [
+      "Oak Ridge National Laboratory (ORNL) is collaborating on the development of a 3D-printed micro-hydroelectric system.",
+      "The project aims to leverage additive manufacturing to significantly lower the costs associated with small-scale hydro installations.",
+      "This initiative highlights the growing potential of 3D printing in the renewable energy sector for customized, cost-effective infrastructure."
+    ],
+    "summary_bullets_cs": [
+      "Oak Ridge National Laboratory (ORNL) spolupracuje na vývoji 3D tištěného mikro-hydroelektrického systému.",
+      "Cílem projektu je využít aditivní výrobu k výraznému snížení nákladů spojených s instalací malých vodních elektráren.",
+      "Tato iniciativa zdůrazňuje rostoucí potenciál 3D tisku v sektoru obnovitelných zdrojů energie pro tvorbu přizpůsobené a nákladově efektivní infrastruktury."
+    ],
+    "tags": [
+      "Hardware",
+      "Renewable Energy",
+      "ORNL",
+      "Additive Manufacturing",
+      "Micro-hydro",
+      "Sustainability"
+    ]
+  },
+  {
+    "title": "Zásadní okamžik: Analýza vstupu společnosti Creality na burzu a možné dopady",
+    "summary": "Something super important happened just a few days ago, and too few people paid attention. Creality, a pioneer in low-cost desktop material extrusion printers, went public. Creality is now listed...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/Creality.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-12T12:30:15+00:00",
+    "url": "https://3dprint.com/326431/the-seminal-moment-crealitys-ipo-analysis-possible-effects/",
+    "forced_tags": [],
+    "title_en": "The Seminal Moment: Creality’s IPO Analysis & Possible Effects",
+    "summary_bullets_en": [
+      "Creality, a leader in affordable desktop 3D printing, has officially gone public.",
+      "The IPO marks a significant shift in the consumer 3D printing market landscape.",
+      "Industry analysts are evaluating the long-term impact of this move on competition and innovation.",
+      "The listing signals the maturation of the hobbyist 3D printing sector into a major financial player."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Creality, průkopník v oblasti cenově dostupných stolních 3D tiskáren, oficiálně vstoupila na burzu.",
+      "Tento krok představuje významný posun v prostředí trhu se spotřebitelským 3D tiskem.",
+      "Analytici z oboru nyní hodnotí dlouhodobý dopad tohoto kroku na konkurenci a inovace.",
+      "Vstup na burzu signalizuje dospívání sektoru hobby 3D tisku v významného finančního hráče."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "IPO",
+      "3D Printing Industry",
+      "Desktop 3D Printers"
+    ]
+  },
+  {
+    "title": "Spectrum ukončuje pětiletou ságu neustálého vyprodání zásob...",
+    "summary": "Spectrum Filaments secures its first-ever investment to strengthen its position in Europe",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/4d59658b-7e6c-43cf-8a19-c58231c7e9a2_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-06-12T12:10:07+00:00",
+    "url": "https://www.3dprintingjournal.com/p/spectrum-is-about-to-end-five-years",
+    "forced_tags": [],
+    "title_en": "Spectrum is about to end five years of constant \"out of stock” saga...",
+    "summary_bullets_en": [
+      "Spectrum Filaments has secured its first external investment to scale production.",
+      "The funding aims to resolve long-standing supply chain issues and frequent stock shortages.",
+      "The company plans to significantly strengthen its market position across Europe.",
+      "This strategic move marks a new chapter for the filament manufacturer after five years of growth."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Spectrum Filaments získala svou první investici na posílení výroby.",
+      "Cílem financování je vyřešit dlouhodobé problémy s dodavatelským řetězcem a častým nedostatkem zboží.",
+      "Firma plánuje výrazně upevnit svou pozici na evropském trhu.",
+      "Tento strategický krok představuje novou kapitolu pro výrobce filamentů po pěti letech růstu."
+    ],
+    "tags": [
+      "Material",
+      "Spectrum Filaments",
+      "3D Printing",
+      "Manufacturing",
+      "Investment"
+    ]
+  },
+  {
+    "title": "Společnost Photocentric vyčlenila divizi CosmicMaker pro výrobu ve vesmíru",
+    "summary": "UK-based 3D printing company Photocentric has spun out its space manufacturing activities into a separate business called CosmicMaker, after the successful demonstration of its 3D printing technology aboard a series...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/jhgdf.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-12T12:00:53+00:00",
+    "url": "https://3dprint.com/326832/photocentric-spins-out-cosmicmaker-to-pursue-in-space-manufacturing/",
+    "forced_tags": [],
+    "title_en": "Photocentric Spins Out CosmicMaker to Pursue In-Space Manufacturing",
+    "summary_bullets_en": [
+      "Photocentric has established a new independent company, CosmicMaker, focused exclusively on space-based 3D printing.",
+      "The spin-out follows successful demonstrations of the company's proprietary 3D printing technology in orbit.",
+      "CosmicMaker aims to advance in-space manufacturing capabilities for future aerospace and industrial applications."
+    ],
+    "summary_bullets_cs": [
+      "Britská společnost Photocentric vyčlenila své aktivity v oblasti vesmírné výroby do samostatného podniku s názvem CosmicMaker.",
+      "K tomuto kroku došlo po úspěšném otestování jejich technologie 3D tisku během série misí na oběžné dráze.",
+      "Nová firma se bude plně soustředit na rozvoj výrobních kapacit přímo ve vesmírném prostoru."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Photocentric",
+      "CosmicMaker",
+      "In-Space Manufacturing",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Systém 3D tisku staveb Luyten Tower Crane dokáže tisknout konstrukce až do výšky 100 metrů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957978827/0/fabbaloo/default~Luytens-Tower-Crane-DCP-System-Capable-of-Printing-Structures-Up-to-Meters\" rel=\"nofollow\" title=\"Luyten&#8217;s Tower Crane 3DCP System Capable of Printing Structures Up to 100 Meters\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/ascend-a27-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Luyten has produced a most unusual 3DCP printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957978827/0/fabbaloo/default~Luytens-Tower-Crane-DCP-System-Capable-of-Printing-Structures-Up-to-Meters\" rel=\"nofollow\">Luyten&#8217;s Tower Crane 3DCP System Capable of Printing Structures Up to 100 Meters</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/ascend-a27-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-12T11:43:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957978827/0/fabbaloo/default~Luytens-Tower-Crane-DCP-System-Capable-of-Printing-Structures-Up-to-Meters",
+    "forced_tags": [],
+    "title_en": "Luyten’s Tower Crane 3DCP System Capable of Printing Structures Up to 100 Meters",
+    "summary_bullets_en": [
+      "Luyten has introduced a unique 3D construction printing (3DCP) system integrated into a tower crane.",
+      "The system is designed to print large-scale structures reaching heights of up to 100 meters.",
+      "This innovation represents a significant shift in how high-rise buildings could be constructed using additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Luyten představila neobvyklý systém pro 3D tisk staveb (3DCP) integrovaný do věžového jeřábu.",
+      "Systém je navržen tak, aby umožňoval tisk rozměrných konstrukcí až do výšky 100 metrů.",
+      "Tato inovace představuje zásadní posun v možnostech výstavby výškových budov pomocí aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Construction",
+      "3DCP",
+      "Luyten",
+      "Additive Manufacturing",
+      "Large-scale Printing"
+    ]
+  },
+  {
+    "title": "Společnost Voltage uvádí na trh Eclipse X9, kompozit z recyklovaného PETG a čedičových vláken pro LFAM",
+    "summary": "Voltage Vessels, based in Hawaii, has released Eclipse X9, a composite that combines recycled PETG with basalt fiber reinforcement for large-format additive manufacturing (LFAM). After several years of development, the material is now commercially available as both pellets and filament, and is undergoing evaluation at several LFAM facilities across different printer platforms. The company is&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/1780588673312-1-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-12T09:28:47+00:00",
+    "url": "https://3dprintingindustry.com/news/voltage-launches-eclipse-x9-a-basalt-recycled-petg-composite-for-lfam-252291/?utm_source=rss&utm_medium=rss&utm_campaign=voltage-launches-eclipse-x9-a-basalt-recycled-petg-composite-for-lfam",
+    "forced_tags": [],
+    "title_en": "Voltage launches Eclipse X9, a Basalt-Recycled PETG Composite for LFAM",
+    "summary_bullets_en": [
+      "Voltage Vessels introduced Eclipse X9, a new composite material blending recycled PETG with basalt fiber.",
+      "The material is specifically engineered for large-format additive manufacturing (LFAM) applications.",
+      "It is currently available in both pellet and filament forms and is being tested across various industrial printer platforms."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Voltage Vessels z Havaje představila Eclipse X9, kompozitní materiál kombinující recyklované PETG s výztuží z čedičových vláken.",
+      "Materiál je určen pro velkoformátovou aditivní výrobu (LFAM) a je výsledkem několikaletého vývoje.",
+      "Novinka je komerčně dostupná ve formě granulátu i filamentu a v současnosti probíhá její testování v různých LFAM provozech."
+    ],
+    "tags": [
+      "Material",
+      "LFAM",
+      "Voltage Vessels",
+      "Eclipse X9",
+      "Recycled PETG",
+      "Basalt Fiber"
+    ]
+  },
+  {
+    "title": "Studie zkoumá kompozity z PLA a dřevěného prachu pro FFF tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/957973847/0/fabbaloo/default~Study-Probes-PLA-and-Wood-Dust-FFF-Composites\" rel=\"nofollow\" title=\"Study Probes PLA and Wood Dust FFF Composites\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/05/wood-dust–reinforced-cover-300x219.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers evaluated how wood dust affects PLA parts printed by FFF, and the results could change how makers and manufacturers approach bio-filled filaments.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/957973847/0/fabbaloo/default~Study-Probes-PLA-and-Wood-Dust-FFF-Composites\" rel=\"nofollow\">Study Probes PLA and Wood Dust FFF Composites</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/05/wood-dust–reinforced-cover-300x219.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-12T08:18:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/957973847/0/fabbaloo/default~Study-Probes-PLA-and-Wood-Dust-FFF-Composites",
+    "forced_tags": [],
+    "title_en": "Study Probes PLA and Wood Dust FFF Composites",
+    "summary_bullets_en": [
+      "Researchers investigated the impact of wood dust additives on the mechanical properties of PLA parts produced via FFF 3D printing.",
+      "The study aims to provide insights into how bio-filled filaments perform compared to standard PLA.",
+      "Findings from this research could influence future manufacturing practices and the development of sustainable composite materials.",
+      "The results offer valuable data for both hobbyist makers and industrial manufacturers using bio-composites."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci hodnotili, jak příměs dřevěného prachu ovlivňuje vlastnosti PLA dílů tištěných technologií FFF.",
+      "Studie poskytuje nové poznatky o chování bio-plněných filamentů v porovnání se standardním PLA.",
+      "Výsledky mohou změnit přístup výrobců a kutilů k využívání udržitelných kompozitních materiálů v 3D tisku."
+    ],
+    "tags": [
+      "Material",
+      "FFF",
+      "PLA",
+      "Wood Composite",
+      "Bio-filaments",
+      "3D Printing Research"
+    ]
+  },
+  {
+    "title": "Parivas Exo.1 představuje monolitické 3D tištěné pouzdro typu exoskeleton",
+    "summary": "Parivas, an independent watchmaker based in Los Angeles, has presented the Exo.1, a luxury timepiece whose case is produced as one continuous 3D printed structure. Launched on May 18, 2026, as the opening piece of the brand&#8217;s Genesis Collection, the watch is the company&#8217;s attempt to establish what it calls &#8220;additive watch design,&#8221; building a&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/Parivas_exo1_additive_mfg_stainless_steel-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-12T07:31:59+00:00",
+    "url": "https://3dprintingindustry.com/news/parivas-exo-1-debuts-a-monolithic-3d-printed-exoskeleton-case-252286/?utm_source=rss&utm_medium=rss&utm_campaign=parivas-exo-1-debuts-a-monolithic-3d-printed-exoskeleton-case",
+    "forced_tags": [],
+    "title_en": "Parivas Exo.1 Debuts A Monolithic 3D Printed Exoskeleton Case",
+    "summary_bullets_en": [
+      "Los Angeles-based watchmaker Parivas launched the Exo.1, a luxury timepiece featuring a monolithic 3D printed exoskeleton case.",
+      "Released on May 18, 2026, the watch serves as the inaugural piece of the brand's Genesis Collection.",
+      "The project aims to pioneer 'additive watch design,' utilizing advanced 3D printing to create complex, continuous structural forms."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce hodinek Parivas z Los Angeles představil Exo.1, luxusní časomíru s pouzdrem vytvořeným jako jedna souvislá 3D tištěná struktura.",
+      "Hodinky byly uvedeny na trh 18. května 2026 jako první kousek z kolekce Genesis.",
+      "Společnost se tímto projektem snaží definovat tzv. „aditivní design hodinek“ a využít 3D tisk k vytváření komplexních, celistvých konstrukčních prvků."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "3D Printing",
+      "Luxury Watches",
+      "Parivas",
+      "Exo.1",
+      "Genesis Collection"
+    ]
+  },
+  {
+    "title": "Interspectral a Pankl prohlubují partnerství s cílem industrializovat kontrolu kvality v kovovém 3D tisku",
+    "summary": "Swedish software company Interspectral AB and Austrian high-performance component maker Pankl Racing Systems AG announced an expanded strategic collaboration focused on speeding up the industrialization of metal additive manufacturing. The agreement builds on several years of joint work and centers on improving process monitoring, quality assurance, and data-driven production workflows. Under the new arrangement, Pankl&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/1-2-1024x576.png-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-06-12T07:15:10+00:00",
+    "url": "https://3dprintingindustry.com/news/interspectral-and-pankl-deepen-partnership-to-industrialize-metal-3d-printing-quality-assurance-252279/?utm_source=rss&utm_medium=rss&utm_campaign=interspectral-and-pankl-deepen-partnership-to-industrialize-metal-3d-printing-quality-assurance",
+    "forced_tags": [],
+    "title_en": "Interspectral and Pankl Deepen Partnership to Industrialize Metal 3D Printing Quality Assurance",
+    "summary_bullets_en": [
+      "Interspectral and Pankl Racing Systems have expanded their strategic partnership to accelerate the industrialization of metal additive manufacturing.",
+      "The collaboration focuses on enhancing process monitoring and quality assurance systems for high-performance components.",
+      "The companies aim to implement data-driven production workflows to improve efficiency and reliability in metal 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Švédská softwarová společnost Interspectral AB a rakouský výrobce komponentů Pankl Racing Systems AG rozšířily strategickou spolupráci zaměřenou na urychlení industrializace aditivní výroby kovů.",
+      "Partnerství staví na dlouholeté spolupráci a zaměřuje se na vylepšení monitorování procesů, zajištění kvality a datově orientované výrobní postupy.",
+      "Cílem nové dohody je zefektivnění a zvýšení spolehlivosti produkce vysoce výkonných dílů pomocí pokročilých softwarových řešení."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Metal Additive Manufacturing",
+      "Interspectral",
+      "Pankl Racing Systems",
+      "Quality Assurance",
+      "Process Monitoring"
+    ]
+  },
+  {
+    "title": "Spectrum Filaments získává investici: Jak mohou ovládnout trh s filamenty",
+    "summary": "Spectrum Filaments is a long-time high-quality filament supplier based in Poland. With good tolerances, roundness, and consistency coupled with affordable pricing, the firm has been a mainstay for makers, industrial...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/Spectrum_2.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-12T07:00:20+00:00",
+    "url": "https://3dprint.com/326606/spectrum-filaments-gets-investment-how-they-could-win-in-filament/",
+    "forced_tags": [],
+    "title_en": "Spectrum Filaments Gets Investment: How They Could Win in Filament",
+    "summary_bullets_en": [
+      "Polish manufacturer Spectrum Filaments has secured a new investment to scale its operations.",
+      "The company is recognized for its high-quality, consistent, and affordable 3D printing materials.",
+      "This funding positions them to strengthen their market presence among both hobbyists and industrial users."
+    ],
+    "summary_bullets_cs": [
+      "Polský výrobce Spectrum Filaments získal novou investici pro rozšíření svých operací.",
+      "Společnost je známá svými vysoce kvalitními, konzistentními a cenově dostupnými materiály pro 3D tisk.",
+      "Toto financování jim umožní posílit postavení na trhu mezi hobby uživateli i v průmyslovém sektoru."
+    ],
+    "tags": [
+      "Material",
+      "Spectrum Filaments",
+      "3D Printing",
+      "Investment",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Rem3dy Health získala 14 milionů liber na expanzi do USA, regionu MENA a Indie",
+    "summary": "British company Rem3dy Health has closed a £14 million (approx. $18.8 million) funding round to finance its international growth. The capital was raised through a Simple Agreement for Future Equity (SAFE), with the final commitments received earlier this year and converted into shares this month. The round values the Birmingham-headquartered business at £84 million. The&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/571d83c352144248ef4fd3f5684bb70b-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-12T06:12:16+00:00",
+    "url": "https://3dprintingindustry.com/news/rem3dy-health-raises-14m-for-us-mena-and-india-expansion-252271/?utm_source=rss&utm_medium=rss&utm_campaign=rem3dy-health-raises-14m-for-us-mena-and-india-expansion",
+    "forced_tags": [],
+    "title_en": "Rem3dy Health Raises £14M for US, MENA and India Expansion",
+    "summary_bullets_en": [
+      "British 3D printing firm Rem3dy Health secured £14 million in a new funding round.",
+      "The capital will support the company's international expansion into the US, MENA, and India markets.",
+      "The funding was raised via a SAFE agreement, valuing the Birmingham-based business at £84 million."
+    ],
+    "summary_bullets_cs": [
+      "Britská společnost Rem3dy Health uzavřela investiční kolo v hodnotě 14 milionů liber (cca 18,8 milionu dolarů).",
+      "Finanční prostředky budou využity k podpoře mezinárodní expanze na trhy v USA, regionu MENA a v Indii.",
+      "Investice proběhla formou dohody SAFE a ohodnotila firmu se sídlem v Birminghamu na 84 milionů liber."
+    ],
+    "tags": [
+      "Services",
+      "3D Printing",
+      "HealthTech",
+      "Rem3dy Health",
+      "Investment",
+      "Expansion"
+    ]
+  },
+  {
     "title": "Projekt Titan společnosti IperionX vykazuje čistou současnou hodnotu 813 milionů dolarů pro dodávky titanu",
     "summary": "American titanium manufacturer IperionX has released the Definitive Feasibility Study (DFS) for its Titan Critical Minerals Project (Titan) in west Tennessee, confirming a mine plan designed to anchor a fully domestic U.S. titanium supply chain — one the company intends to route through its proprietary powder production technologies and into additive manufacturing (AM) markets. The&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/Titan-Project-1--150x100.jpg",
