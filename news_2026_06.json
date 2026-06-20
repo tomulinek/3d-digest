@@ -1,5 +1,345 @@
 [
   {
+    "title": "Austrálie se obrací k 3D tisku, aby zajistila své průmyslové základy",
+    "summary": "A new policy report from the Australian Strategic Policy Institute (ASPI), authored by Steven Camilleri, co-founder and CTO of metal 3D printing company SPEE3D, argues that national resilience is not a political ambition but an engineering problem. Titled Make Stuff Here… Or Else, the report introduces the concept of the &#8220;Sovereignty Countdown&#8221;: the measured window&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-16.49.43-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-20T06:00:16+00:00",
+    "url": "https://3dprintingindustry.com/news/australia-is-turning-to-3d-printing-to-secure-its-industrial-foundation-252432/?utm_source=rss&utm_medium=rss&utm_campaign=australia-is-turning-to-3d-printing-to-secure-its-industrial-foundation",
+    "forced_tags": [],
+    "title_en": "Australia Is Turning to 3D Printing to Secure Its Industrial Foundation",
+    "summary_bullets_en": [
+      "The Australian Strategic Policy Institute (ASPI) report argues that national industrial resilience is primarily an engineering challenge rather than just a political one.",
+      "Authored by Steven Camilleri of SPEE3D, the report emphasizes the urgent need for domestic manufacturing capabilities.",
+      "It introduces the 'Sovereignty Countdown' concept, highlighting the critical time window Australia has to secure its supply chains through advanced manufacturing.",
+      "The paper advocates for the adoption of metal 3D printing to reduce reliance on foreign imports and strengthen national security."
+    ],
+    "summary_bullets_cs": [
+      "Zpráva Australského institutu pro strategickou politiku (ASPI) tvrdí, že národní průmyslová odolnost je spíše inženýrským problémem než politickou ambicí.",
+      "Zpráva, jejímž autorem je Steven Camilleri ze společnosti SPEE3D, zdůrazňuje naléhavou potřebu posílení domácích výrobních kapacit.",
+      "Představuje koncept „odpočtu suverenity“ (Sovereignty Countdown), který vymezuje časové okno pro zajištění dodavatelských řetězců pomocí pokročilé výroby.",
+      "Dokument prosazuje využití kovového 3D tisku jako klíčového nástroje pro snížení závislosti na zahraničních dovozech a posílení národní bezpečnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Metal 3D Printing",
+      "SPEE3D",
+      "Additive Manufacturing",
+      "Supply Chain Resilience",
+      "Industrial Policy"
+    ]
+  },
+  {
+    "title": "Společnost Havelar vytiskla veřejnou budovu za devět dní a dodržela rozpočet",
+    "summary": "Portuguese firm Havelar erected a 500 m² recycling center office at the Ecocentro de Perafita in Porto for the Matosinhos municipality using a COBOD BOD2 3D printer, a four-person crew, and nine working days. More unusually still, the project came in on budget, a feat the partners themselves described as rare for public works in&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/Havelar-x-COBOD_1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-20T05:51:06+00:00",
+    "url": "https://3dprintingindustry.com/news/havelar-prints-a-public-building-in-nine-days-and-delivers-it-on-budget-252428/?utm_source=rss&utm_medium=rss&utm_campaign=havelar-prints-a-public-building-in-nine-days-and-delivers-it-on-budget",
+    "forced_tags": [],
+    "title_en": "Havelar Prints a Public Building in Nine Days and Delivers It on Budget",
+    "summary_bullets_en": [
+      "Portuguese firm Havelar constructed a 500 m² recycling center office in Porto using 3D printing technology.",
+      "The project utilized a COBOD BOD2 printer and a small team of four people to complete the structure in just nine working days.",
+      "The build was successfully delivered within the allocated budget, a notable achievement for public infrastructure projects."
+    ],
+    "summary_bullets_cs": [
+      "Portugalská firma Havelar postavila 500 m² kancelářských prostor pro recyklační centrum v Portu pomocí 3D tisku.",
+      "Projekt byl realizován s využitím tiskárny COBOD BOD2 a čtyřčlenného týmu, přičemž hrubá stavba byla hotová za devět pracovních dnů.",
+      "Stavba byla dokončena v rámci stanoveného rozpočtu, což je u projektů veřejných zakázek považováno za výjimečný úspěch."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Construction",
+      "COBOD",
+      "Havelar",
+      "3D Concrete Printing"
+    ]
+  },
+  {
+    "title": "Praktické zkušenosti s PLA Pure",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958201757/0/fabbaloo/default~Hands-on-with-PLA-Pure\" rel=\"nofollow\" title=\"Hands on with PLA Pure\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/pla-pure-cover-1-300x143.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>We’ve been quietly testing Bambu Lab’s new PLA Pure filament.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958201757/0/fabbaloo/default~Hands-on-with-PLA-Pure\" rel=\"nofollow\">Hands on with PLA Pure</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/pla-pure-cover-1-300x143.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-06-19T16:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958201757/0/fabbaloo/default~Hands-on-with-PLA-Pure",
+    "forced_tags": [],
+    "title_en": "Hands on with PLA Pure",
+    "summary_bullets_en": [
+      "The Fabbaloo team has been conducting quiet, hands-on testing of the new PLA Pure filament.",
+      "The material is the latest addition to the Bambu Lab filament ecosystem.",
+      "The review focuses on evaluating the performance and quality of this specific PLA variant."
+    ],
+    "summary_bullets_cs": [
+      "Tým Fabbaloo v tichosti testoval nový filament PLA Pure.",
+      "Tento materiál je nejnovějším přírůstkem do ekosystému filamentů společnosti Bambu Lab.",
+      "Recenze se zaměřuje na vyhodnocení výkonu a kvality této konkrétní varianty PLA."
+    ],
+    "tags": [
+      "Material",
+      "Bambu Lab",
+      "3D Printing",
+      "Filament"
+    ]
+  },
+  {
+    "title": "Patent na tiskárnu pro protetiku cílí na lepší přesnost v ose Z",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958199798/0/fabbaloo/default~Prosthetic-Printer-Patent-Targets-Better-Z-Accuracy\" rel=\"nofollow\" title=\"Prosthetic Printer Patent Targets Better Z Accuracy\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/prosthetic-printer-cover-300x227.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new Chinese utility model patent describes a compact high speed FFF 3D printer aimed specifically at prosthetic and orthotic manufacturing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958199798/0/fabbaloo/default~Prosthetic-Printer-Patent-Targets-Better-Z-Accuracy\" rel=\"nofollow\">Prosthetic Printer Patent Targets Better Z Accuracy</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/prosthetic-printer-cover-300x227.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-19T15:26:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958199798/0/fabbaloo/default~Prosthetic-Printer-Patent-Targets-Better-Z-Accuracy",
+    "forced_tags": [],
+    "title_en": "Prosthetic Printer Patent Targets Better Z Accuracy",
+    "summary_bullets_en": [
+      "A new Chinese utility model patent introduces a compact, high-speed FFF 3D printer.",
+      "The technology is specifically engineered for the production of prosthetics and orthotics.",
+      "The primary focus of the patent is to achieve superior Z-axis accuracy in printed parts."
+    ],
+    "summary_bullets_cs": [
+      "Nový čínský užitný vzor představuje kompaktní vysokorychlostní FFF 3D tiskárnu.",
+      "Technologie je navržena speciálně pro výrobu protetických a ortotických pomůcek.",
+      "Hlavním cílem patentu je dosažení vyšší přesnosti tisku v ose Z."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Prosthetics",
+      "Orthotics",
+      "FFF",
+      "Patent",
+      "Z-axis accuracy"
+    ]
+  },
+  {
+    "title": "Sinterit uvádí na trh SLS 3D tiskárnu BIANCO2 s CO2 laserem pro bílé materiály",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958196324/0/fabbaloo/default~Sinterit-Launches-BIANCO-SLS-D-Printer-With-CO-Laser-for-White-Materials\" rel=\"nofollow\" title=\"Sinterit Launches BIANCO2 SLS 3D Printer With CO2 Laser for White Materials\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/bianco2-cover-300x227.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Sinterit announced a new SLS 3D printer, the BIANCO2.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958196324/0/fabbaloo/default~Sinterit-Launches-BIANCO-SLS-D-Printer-With-CO-Laser-for-White-Materials\" rel=\"nofollow\">Sinterit Launches BIANCO2 SLS 3D Printer With CO2 Laser for White Materials</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/bianco2-cover-300x227.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-19T13:35:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958196324/0/fabbaloo/default~Sinterit-Launches-BIANCO-SLS-D-Printer-With-CO-Laser-for-White-Materials",
+    "forced_tags": [],
+    "title_en": "Sinterit Launches BIANCO2 SLS 3D Printer With CO2 Laser for White Materials",
+    "summary_bullets_en": [
+      "Sinterit has officially unveiled the BIANCO2, a new SLS 3D printer.",
+      "The machine features a CO2 laser specifically optimized for processing white materials.",
+      "This addition expands Sinterit's portfolio of selective laser sintering solutions."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Sinterit oficiálně představila novou SLS 3D tiskárnu s názvem BIANCO2.",
+      "Stroj je vybaven CO2 laserem, který je speciálně optimalizován pro zpracování bílých materiálů.",
+      "Tato novinka rozšiřuje portfolio řešení pro selektivní laserové spékání od společnosti Sinterit."
+    ],
+    "tags": [
+      "Hardware",
+      "Sinterit",
+      "SLS",
+      "3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Foundation Alloy získala 22 milionů dolarů v investičním kole série A pro výrobu molybdenu v pevném stavu",
+    "summary": "Foundation Alloy has just raised $22 million in Series A financing. The alloy company is trying to create a platform that will enable the solid state manufacturing of alloys. In...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/2025_03-FoundationAlloyHero-02367E-ForScreens-1-1024x683.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-19T12:30:16+00:00",
+    "url": "https://3dprint.com/327105/foundation-alloy-raises-22m-for-solid-state-molybdenum/",
+    "forced_tags": [],
+    "title_en": "Foundation Alloy Raises $22M in Series A for Solid State Molybdenum",
+    "summary_bullets_en": [
+      "Foundation Alloy secured $22 million in Series A funding to advance its manufacturing technology.",
+      "The company is developing a platform focused on the solid-state manufacturing of advanced alloys.",
+      "The primary goal is to innovate the production process for molybdenum and other high-performance materials."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Foundation Alloy získala 22 milionů dolarů v investičním kole série A na rozvoj své výrobní technologie.",
+      "Firma vyvíjí platformu zaměřenou na výrobu slitin v pevném stavu (solid-state manufacturing).",
+      "Hlavním cílem je inovovat proces výroby molybdenu a dalších vysoce výkonných materiálů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Foundation Alloy",
+      "Solid State Manufacturing",
+      "Molybdenum",
+      "Investment"
+    ]
+  },
+  {
+    "title": "Opravdu skvělý týden pro kovový 3D tisk",
+    "summary": "Divergent is making promises. EOS is making sales. China is preparing to launch something that, frankly, shouldn&#8217;t be possible",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/2dc6ca17-cf3c-4110-80b2-4f7d19c50e26_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-06-19T12:02:45+00:00",
+    "url": "https://www.3dprintingjournal.com/p/a-really-great-week-for-metal-am",
+    "forced_tags": [],
+    "title_en": "A really great week for metal AM",
+    "summary_bullets_en": [
+      "Divergent Technologies is setting ambitious new goals for the industry.",
+      "EOS continues to demonstrate strong market performance through consistent sales.",
+      "China is on the verge of unveiling a metal additive manufacturing breakthrough that challenges current technical expectations."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Divergent přichází s ambiciózními přísliby pro budoucnost oboru.",
+      "Firma EOS potvrzuje svou silnou pozici na trhu úspěšnými prodeji.",
+      "Čína se chystá představit technologický pokrok v 3D tisku kovů, který by podle dosavadních předpokladů neměl být možný."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Divergent",
+      "EOS",
+      "Metal AM"
+    ]
+  },
+  {
+    "title": "AM Asia Watch: Čínský boom 3D tisku vytváří novou třídu mikro-výrobců",
+    "summary": "China&#8217;s additive manufacturing (AM) industry has spent years trying to reduce its reliance on foreign technology. In polymer 3D printing, domestic companies have already become major players. In metal AM,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/1773753590397.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-19T12:00:57+00:00",
+    "url": "https://3dprint.com/326656/am-asia-watch-chinas-3d-printing-boom-is-creating-a-new-class-of-micro-manufacturers/",
+    "forced_tags": [],
+    "title_en": "AM Asia Watch: China’s 3D Printing Boom Is Creating a New Class of Micro-Manufacturers",
+    "summary_bullets_en": [
+      "China is aggressively reducing its dependence on foreign additive manufacturing technology.",
+      "Domestic companies have achieved significant dominance in the polymer 3D printing sector.",
+      "The industry is now shifting its focus toward scaling capabilities in metal additive manufacturing.",
+      "The rapid growth of local AM infrastructure is fostering a new ecosystem of specialized micro-manufacturers."
+    ],
+    "summary_bullets_cs": [
+      "Čínský průmysl aditivní výroby se dlouhodobě snaží snížit svou závislost na zahraničních technologiích.",
+      "V oblasti polymerového 3D tisku se domácí společnosti již staly významnými hráči na trhu.",
+      "Čína nyní zaměřuje své úsilí na rozvoj a škálování technologií v oblasti kovového 3D tisku.",
+      "Rychlý rozvoj lokální infrastruktury 3D tisku umožňuje vznik nové generace specializovaných mikro-výrobců."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Manufacturing",
+      "China",
+      "Polymer 3D Printing",
+      "Metal 3D Printing"
+    ]
+  },
+  {
+    "title": "Čínský patent cílí na čistší kompozitní tisk s více tryskami",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958193180/0/fabbaloo/default~Chinese-Patent-Targets-Cleaner-Multi-Nozzle-Composite-Printing\" rel=\"nofollow\" title=\"Chinese Patent Targets Cleaner Multi Nozzle Composite Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/cleaner-nozzle-cover-300x163.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A Chinese patent application describes a multi nozzle composite 3D printer that tries to fix what happens when hot material is left in a nozzle.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958193180/0/fabbaloo/default~Chinese-Patent-Targets-Cleaner-Multi-Nozzle-Composite-Printing\" rel=\"nofollow\">Chinese Patent Targets Cleaner Multi Nozzle Composite Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/cleaner-nozzle-cover-300x163.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-19T11:23:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958193180/0/fabbaloo/default~Chinese-Patent-Targets-Cleaner-Multi-Nozzle-Composite-Printing",
+    "forced_tags": [],
+    "title_en": "Chinese Patent Targets Cleaner Multi Nozzle Composite Printing",
+    "summary_bullets_en": [
+      "A new Chinese patent introduces a solution for multi-nozzle 3D printers.",
+      "The technology focuses on preventing issues caused by residual hot material inside the nozzles.",
+      "It aims to improve the reliability and cleanliness of composite material printing processes."
+    ],
+    "summary_bullets_cs": [
+      "Nový čínský patent představuje řešení pro 3D tiskárny s více tryskami.",
+      "Technologie se zaměřuje na prevenci problémů způsobených zbytkovým horkým materiálem v tryskách.",
+      "Cílem je zvýšit spolehlivost a čistotu procesu tisku z kompozitních materiálů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Patent",
+      "Multi-nozzle",
+      "Composite Printing"
+    ]
+  },
+  {
+    "title": "Výzkumníci vyvinuli metodu pěnění TPE pomocí mikrokuliček pro velkoformátový 3D tisk (LSAM)",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958188620/0/fabbaloo/default~Researchers-Develop-LSAM-Foaming-Of-TPE-With-Microspheres\" rel=\"nofollow\" title=\"Researchers Develop LSAM Foaming Of TPE With Microspheres\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/lsam-foam-cover-300x173.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers in Germany have shown how to 3D print foamed thermoplastic elastomers at large scale using thermally expandable microspheres.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958188620/0/fabbaloo/default~Researchers-Develop-LSAM-Foaming-Of-TPE-With-Microspheres\" rel=\"nofollow\">Researchers Develop LSAM Foaming Of TPE With Microspheres</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/lsam-foam-cover-300x173.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-19T08:37:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958188620/0/fabbaloo/default~Researchers-Develop-LSAM-Foaming-Of-TPE-With-Microspheres",
+    "forced_tags": [],
+    "title_en": "Researchers Develop LSAM Foaming Of TPE With Microspheres",
+    "summary_bullets_en": [
+      "German researchers have successfully demonstrated a method for 3D printing foamed thermoplastic elastomers (TPE) at a large scale.",
+      "The process utilizes thermally expandable microspheres integrated into the material to create a foamed structure during the LSAM (Large Scale Additive Manufacturing) process.",
+      "This innovation allows for the production of lightweight, flexible, and durable large-format parts."
+    ],
+    "summary_bullets_cs": [
+      "Němečtí vědci úspěšně demonstrovali metodu 3D tisku pěnových termoplastických elastomerů (TPE) ve velkém měřítku.",
+      "Proces využívá tepelně expandovatelné mikrokuličky integrované do materiálu, které během procesu LSAM (Large Scale Additive Manufacturing) vytvářejí pěnovou strukturu.",
+      "Tato inovace umožňuje výrobu lehkých, flexibilních a odolných velkoformátových dílů."
+    ],
+    "tags": [
+      "Material",
+      "Hardware",
+      "LSAM",
+      "3D Printing",
+      "TPE",
+      "Additive Manufacturing",
+      "Foaming"
+    ]
+  },
+  {
+    "title": "Vynikající stolní vstřikování plastů, vyrobeno v Itálii společností Robot Factory",
+    "summary": "I was captivated when I saw my first Robot Factory 3D printer. The robust, precise machine was built to last. And this was in an era of very flimsy, disposable,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/Stampo-Make-1024x938.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-19T07:30:53+00:00",
+    "url": "https://3dprint.com/326684/excellent-desktop-injection-molding-made-in-italy-by-robot-factory/",
+    "forced_tags": [],
+    "title_en": "Excellent Desktop Injection Molding, Made in Italy by Robot Factory",
+    "summary_bullets_en": [
+      "Robot Factory stands out for its robust and precise 3D printing hardware.",
+      "The company distinguishes itself from the era of disposable, flimsy machines.",
+      "Their focus has expanded to include high-quality desktop injection molding solutions.",
+      "Italian engineering ensures durability and professional-grade performance."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Robot Factory vyniká svým robustním a precizním hardwarem pro 3D tisk.",
+      "Firma se odlišuje od éry nekvalitních a jednorázových strojů.",
+      "Jejich zaměření se rozšířilo o vysoce kvalitní řešení pro stolní vstřikování plastů.",
+      "Italské inženýrství zajišťuje dlouhou životnost a profesionální výkon."
+    ],
+    "tags": [
+      "Hardware",
+      "Robot Factory",
+      "Injection Molding",
+      "Desktop Manufacturing",
+      "Italian Engineering"
+    ]
+  },
+  {
+    "title": "Bambu Lab chce, aby domácí 3D tisk nepůsobil jako dílna, uvádí PLA Pure",
+    "summary": "As desktop 3D printers become increasingly common in homes, Bambu Lab is focusing attention on something beyond print speed and hardware features. This week, the company launched a new filament,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/Hero-Pic-scaled.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-19T07:00:54+00:00",
+    "url": "https://3dprint.com/327181/bambu-lab-wants-home-3d-printing-to-feel-less-like-a-workshop/",
+    "forced_tags": [],
+    "title_en": "Bambu Lab Wants Home 3D Printing to Feel Less Like a Workshop with PLA Pure",
+    "summary_bullets_en": [
+      "Bambu Lab is shifting its focus from hardware performance to improving the user experience for home 3D printing.",
+      "The company has introduced a new filament line called PLA Pure to simplify the printing process.",
+      "This initiative aims to make 3D printing more accessible and less intimidating for casual home users.",
+      "The move highlights a broader industry trend of prioritizing ease-of-use alongside print speed."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab přesouvá pozornost od výkonu hardwaru ke zlepšení uživatelské přívětivosti domácího 3D tisku.",
+      "Firma představila novou řadu filamentů s názvem PLA Pure, která má zjednodušit proces tisku.",
+      "Tato iniciativa má za cíl učinit 3D tisk přístupnějším a méně náročným pro běžné domácí uživatele.",
+      "Krok podtrhuje širší trend v oboru, kde se vedle rychlosti tisku klade důraz na snadné používání."
+    ],
+    "tags": [
+      "Material",
+      "Bambu Lab",
+      "3D Printing",
+      "PLA Pure",
+      "Consumer Electronics"
+    ]
+  },
+  {
     "title": "Dohoda mezi TDK a Fabric8Labs ukazuje význam aplikací v 3D tisku",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/958167158/0/fabbaloo/default~The-TDKFabricLabs-Deal-Shows-the-Importance-of-D-Print-Applications\" rel=\"nofollow\" title=\"The TDK-Fabric8Labs Deal Shows the Importance of 3D Print Applications\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/fabric8labs-tdk-cover-300x155.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>TDK’s surprise acquisition of Fabric8Labs last week shows how applications truly drive the 3D printing industry.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958167158/0/fabbaloo/default~The-TDKFabricLabs-Deal-Shows-the-Importance-of-D-Print-Applications\" rel=\"nofollow\">The TDK-Fabric8Labs Deal Shows the Importance of 3D Print Applications</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/fabric8labs-tdk-cover-300x155.jpg",
