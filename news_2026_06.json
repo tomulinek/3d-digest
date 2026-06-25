@@ -1,5 +1,443 @@
 [
   {
+    "title": "Čína má nyní 29 univerzit nabízejících inženýrské tituly v aditivní výrobě",
+    "summary": "As China&#8217;s national college entrance examination (Gaokao) concludes, millions of students and parents are once again focused on university admissions and future career choices. Computer science, artificial intelligence (AI), and...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/2EE3E9E595E1EFE193F7E206597_283B3988_109D1.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-25T06:00:59+00:00",
+    "url": "https://3dprint.com/327109/china-now-has-29-universities-offering-additive-manufacturing-engineering-degrees/",
+    "forced_tags": [],
+    "title_en": "China Now Has 29 Universities Offering Additive Manufacturing Engineering Degrees",
+    "summary_bullets_en": [
+      "China has expanded its academic focus on additive manufacturing, with 29 universities now offering specialized engineering degrees in the field.",
+      "The move comes as students evaluate future career paths following the national Gaokao examination.",
+      "Additive manufacturing is gaining prominence alongside traditional high-demand fields like AI and computer science.",
+      "This initiative reflects China's strategic commitment to building a skilled workforce for advanced industrial production."
+    ],
+    "summary_bullets_cs": [
+      "Čína rozšířila své akademické zaměření na aditivní výrobu, přičemž 29 univerzit nyní nabízí specializované inženýrské tituly v tomto oboru.",
+      "Tento krok přichází v době, kdy studenti po národní zkoušce Gaokao zvažují své budoucí profesní dráhy.",
+      "Aditivní výroba získává na významu po boku tradičně žádaných oborů, jako je umělá inteligence a informatika.",
+      "Tato iniciativa odráží strategický závazek Číny vybudovat kvalifikovanou pracovní sílu pro pokročilou průmyslovou výrobu."
+    ],
+    "tags": [
+      "Education",
+      "Additive Manufacturing",
+      "China",
+      "Engineering",
+      "Services"
+    ]
+  },
+  {
+    "title": "Elegoo uvádí na trh řadu Centauri 2",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958370954/0/fabbaloo/default~Elegoo-Launches-Centauri-Series\" rel=\"nofollow\" title=\"Elegoo Launches Centauri 2 Series\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/elegoo-centauri2-cover-300x231.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Elegoo suddenly announced a new series of desktop FFF 3D printers, the Centauri 2.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958370954/0/fabbaloo/default~Elegoo-Launches-Centauri-Series\" rel=\"nofollow\">Elegoo Launches Centauri 2 Series</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/elegoo-centauri2-cover-300x231.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-24T16:10:28+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958370954/0/fabbaloo/default~Elegoo-Launches-Centauri-Series",
+    "forced_tags": [],
+    "title_en": "Elegoo Launches Centauri 2 Series",
+    "summary_bullets_en": [
+      "Elegoo has officially unveiled its new Centauri 2 series of desktop FFF 3D printers.",
+      "The announcement came as a surprise to the 3D printing community.",
+      "This new line expands Elegoo's existing portfolio of filament-based additive manufacturing hardware."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Elegoo nečekaně oznámila novou řadu stolních FFF 3D tiskáren s názvem Centauri 2.",
+      "Toto oznámení rozšiřuje stávající nabídku tiskáren výrobce zaměřených na tisk z filamentu."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "FFF",
+      "Elegoo",
+      "Desktop 3D Printers"
+    ]
+  },
+  {
+    "title": "Patenty společnosti Bosch naznačují kontinuální 3D tisk z granulátu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958369235/0/fabbaloo/default~Bosch-Patents-Suggest-Continuous-Pellet-D-Printing\" rel=\"nofollow\" title=\"Bosch Patents Suggest Continuous Pellet 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/bosch-patents-cover-300x186.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Bosch has published three related German patent applications that point toward a rather interesting 3D printing concept: a pellet-based extrusion system designed to keep printing while its printheads are being refilled.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958369235/0/fabbaloo/default~Bosch-Patents-Suggest-Continuous-Pellet-D-Printing\" rel=\"nofollow\">Bosch Patents Suggest Continuous Pellet 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/bosch-patents-cover-300x186.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-24T15:19:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958369235/0/fabbaloo/default~Bosch-Patents-Suggest-Continuous-Pellet-D-Printing",
+    "forced_tags": [],
+    "title_en": "Bosch Patents Suggest Continuous Pellet 3D Printing",
+    "summary_bullets_en": [
+      "Bosch has filed three German patent applications detailing a new pellet-based 3D printing concept.",
+      "The technology focuses on an extrusion system designed to maintain continuous operation during material refills.",
+      "This innovation aims to eliminate downtime by allowing printheads to be replenished without stopping the printing process."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bosch podala tři německé patentové přihlášky, které představují koncept 3D tisku založený na granulátu.",
+      "Technologie se zaměřuje na vytlačovací systém navržený tak, aby udržel tisk v chodu i během doplňování materiálu.",
+      "Tato inovace má za cíl eliminovat prostoje tím, že umožňuje doplňování tiskových hlav bez nutnosti přerušit tiskový proces."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Bosch",
+      "Pellet Extrusion",
+      "3D Printing Innovation",
+      "Industrial Manufacturing"
+    ]
+  },
+  {
+    "title": "Trendy v podávání patentů odhalují dominanci Číny v duševním vlastnictví 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958363460/0/fabbaloo/default~Patent-Filing-Trends-Reveal-China%e2%80%99s-Dominance-in-D-Printing-Intellectual-Property\" rel=\"nofollow\" title=\"Patent Filing Trends Reveal China’s Dominance in 3D Printing Intellectual Property\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/patent-analysis-2026-cover-300x184.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>I did some analysis on 3D print patents to understand where innovation seems to be occurring.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958363460/0/fabbaloo/default~Patent-Filing-Trends-Reveal-China%e2%80%99s-Dominance-in-D-Printing-Intellectual-Property\" rel=\"nofollow\">Patent Filing Trends Reveal China’s Dominance in 3D Printing Intellectual Property</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/patent-analysis-2026-cover-300x184.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-24T13:15:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958363460/0/fabbaloo/default~Patent-Filing-Trends-Reveal-China%e2%80%99s-Dominance-in-D-Printing-Intellectual-Property",
+    "forced_tags": [],
+    "title_en": "Patent Filing Trends Reveal China’s Dominance in 3D Printing Intellectual Property",
+    "summary_bullets_en": [
+      "Recent analysis of 3D printing patent filings highlights a significant shift in global innovation trends.",
+      "Data indicates that China has established a dominant position in the intellectual property landscape for additive manufacturing.",
+      "The study aims to identify key regions and entities driving the future of 3D printing technology through patent activity."
+    ],
+    "summary_bullets_cs": [
+      "Nedávná analýza patentových přihlášek v oblasti 3D tisku poukazuje na výrazný posun v globálních inovačních trendech.",
+      "Data naznačují, že Čína zaujala dominantní postavení v oblasti duševního vlastnictví pro aditivní výrobu.",
+      "Studie se zaměřuje na identifikaci klíčových regionů a subjektů, které prostřednictvím patentové aktivity určují budoucnost technologie 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "3D Printing",
+      "Intellectual Property",
+      "Patents",
+      "China",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Vytiskni si to sám",
+    "summary": "Six months ago, I wrote about a crowdfunding campaign for a 3D-printed boombox. Now the project is available to everyone for free.",
+    "image": "https://substackcdn.com/image/fetch/$s_!Qr9r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70f24966-216c-42ce-940f-cb92c98a1422_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-06-24T13:02:13+00:00",
+    "url": "https://www.3dprintingjournal.com/p/print-it-yourself",
+    "forced_tags": [],
+    "title_en": "Print it yourself",
+    "summary_bullets_en": [
+      "A 3D-printed boombox project previously featured in a crowdfunding campaign is now open-source.",
+      "The design files are available for free to the public.",
+      "This shift allows anyone with a 3D printer to manufacture the device at home."
+    ],
+    "summary_bullets_cs": [
+      "Projekt 3D tištěného boomboxu, který byl dříve součástí crowdfundingové kampaně, je nyní dostupný zdarma.",
+      "Veškeré podklady pro tisk jsou nyní volně ke stažení pro širokou veřejnost.",
+      "Tento krok umožňuje komukoliv s 3D tiskárnou vyrobit si vlastní zařízení v domácích podmínkách."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Open Source",
+      "DIY",
+      "Audio"
+    ]
+  },
+  {
+    "title": "Origami z ORNL vytváří velké skládací struktury",
+    "summary": "Oak Ridge National Laboratory (ORNL) is using a hybrid 3D printing method to make foldable panels. At the Department of Energy’s (DOE) Manufacturing Demonstration Facility (MDF) at ORNL, researchers turned...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/ornlorigami.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-24T13:00:01+00:00",
+    "url": "https://3dprint.com/327385/ornl-origami-creates-large-foldable-structures/",
+    "forced_tags": [],
+    "title_en": "ORNL Origami Creates Large Foldable Structures",
+    "summary_bullets_en": [
+      "Researchers at ORNL developed a hybrid 3D printing technique to produce large, foldable panels.",
+      "The project utilizes the Manufacturing Demonstration Facility to innovate structural design through origami-inspired geometry.",
+      "This method enables the creation of complex, space-efficient structures that can be easily transported and deployed."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z ORNL vyvinuli hybridní metodu 3D tisku pro výrobu velkých skládacích panelů.",
+      "Projekt využívá zařízení Manufacturing Demonstration Facility k inovaci konstrukčního návrhu prostřednictvím geometrie inspirované origami.",
+      "Tato metoda umožňuje vytvářet komplexní a prostorově úsporné struktury, které lze snadno přepravovat a rozkládat."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "ORNL",
+      "3D Printing",
+      "Origami",
+      "Hybrid Manufacturing"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 24. června 2026: Změna názvu, digitální slévárenství a kvasinky",
+    "summary": "In today&#8217;s 3D Printing News Briefs, we&#8217;re starting with a formal name change for an African industrial technology company that&#8217;s a major user of additive manufacturing (AM) in the oil...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/Arride-Launch-SM-KV1-1-LI.jpg-1024x535.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-24T12:30:57+00:00",
+    "url": "https://3dprint.com/327529/3d-printing-news-briefs-6-24-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, June 24, 2026: Name Change, Digital Foundry, & Yeast",
+    "summary_bullets_en": [
+      "An African industrial technology firm specializing in oil and gas additive manufacturing has officially rebranded.",
+      "New developments in digital foundry processes are enhancing precision in industrial 3D printing.",
+      "Researchers are exploring innovative bio-printing applications using yeast-based materials."
+    ],
+    "summary_bullets_cs": [
+      "Africká průmyslová technologická společnost, která je významným uživatelem aditivní výroby v ropném průmyslu, oficiálně změnila svůj název.",
+      "Pokroky v oblasti digitálního slévárenství přinášejí vyšší přesnost do průmyslového 3D tisku.",
+      "Výzkumníci zkoumají inovativní možnosti biotisku s využitím materiálů na bázi kvasinek."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Additive Manufacturing",
+      "Bio-printing",
+      "Industrial Technology"
+    ]
+  },
+  {
+    "title": "CEO společnosti Fathom, Rush LaSelle, o tom, proč aditivní výroba dospívá",
+    "summary": "For years, the additive manufacturing (AM) industry promised to reinvent production. But as the technology matured, the real challenge turned out to be proving that 3D printed parts could be...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-16-at-13.37.04.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-24T12:00:14+00:00",
+    "url": "https://3dprint.com/327007/fathom-ceo-rush-laselle-on-why-additive-manufacturing-is-growing-up/",
+    "forced_tags": [],
+    "title_en": "Fathom CEO Rush LaSelle on Why Additive Manufacturing Is Growing Up",
+    "summary_bullets_en": [
+      "Additive manufacturing is shifting from a prototyping tool to a reliable solution for end-use production.",
+      "The industry is overcoming skepticism by focusing on rigorous quality standards and repeatable processes.",
+      "Scaling 3D printing requires a strategic balance between advanced technology and operational expertise.",
+      "Fathom emphasizes the importance of proving the reliability and economic viability of printed parts to industrial clients."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba se mění z nástroje pro prototypování na spolehlivé řešení pro finální produkci.",
+      "Průmysl překonává skepsi tím, že se zaměřuje na přísné standardy kvality a opakovatelné procesy.",
+      "Škálování 3D tisku vyžaduje strategickou rovnováhu mezi pokročilou technologií a provozními zkušenostmi.",
+      "Společnost Fathom klade důraz na prokazování spolehlivosti a ekonomické životaschopnosti tištěných dílů pro průmyslové klienty."
+    ],
+    "tags": [
+      "Services",
+      "Additive Manufacturing",
+      "Fathom",
+      "Industrial Production",
+      "Quality Assurance"
+    ]
+  },
+  {
+    "title": "Zachycování uhlíku, aditivní výroba a nová infrastruktura vedle turbín",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958359686/0/fabbaloo/default~Carbon-Capture-Additive-Manufacturing-and-the-New-Infrastructure-Beside-the-Turbine\" rel=\"nofollow\" title=\"Carbon Capture, Additive Manufacturing, and the New Infrastructure Beside the Turbine\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/Filename-_172-300x182.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles G. Goulding investigates how industrial data center developers deploy modular carbon-capture technology beside gas turbines to overcome environmental permitting roadblocks and secure federal tax incentives.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958359686/0/fabbaloo/default~Carbon-Capture-Additive-Manufacturing-and-the-New-Infrastructure-Beside-the-Turbine\" rel=\"nofollow\">Carbon Capture, Additive Manufacturing, and the New Infrastructure Beside the Turbine</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/Filename-_172-300x182.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-24T11:21:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958359686/0/fabbaloo/default~Carbon-Capture-Additive-Manufacturing-and-the-New-Infrastructure-Beside-the-Turbine",
+    "forced_tags": [],
+    "title_en": "Carbon Capture, Additive Manufacturing, and the New Infrastructure Beside the Turbine",
+    "summary_bullets_en": [
+      "Industrial data center developers are integrating modular carbon-capture systems directly next to gas turbines.",
+      "This infrastructure strategy helps companies bypass strict environmental permitting challenges.",
+      "Additive manufacturing plays a key role in producing the complex, compact components required for these modular carbon-capture units.",
+      "The deployment is further incentivized by the availability of significant federal tax credits."
+    ],
+    "summary_bullets_cs": [
+      "Vývojáři průmyslových datových center integrují modulární systémy pro zachycování uhlíku přímo vedle plynových turbín.",
+      "Tato strategie infrastruktury pomáhá společnostem překonávat přísné překážky v oblasti environmentálního povolování.",
+      "Aditivní výroba hraje klíčovou roli při produkci komplexních a kompaktních komponentů potřebných pro tyto modulární jednotky.",
+      "Nasazení těchto technologií je navíc motivováno dostupností významných federálních daňových úlev."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Carbon Capture",
+      "Additive Manufacturing",
+      "Data Centers",
+      "Sustainability",
+      "Energy Infrastructure"
+    ]
+  },
+  {
+    "title": "Společnost E3D uvádí na trh ozubená kola s povrchovou úpravou Bastion pro tiskárny Bambu Lab",
+    "summary": "UK-based extrusion system specialist E3D has launched Bastion Coated Gears, a hardened steel extruder gear and hobb upgrade for Bambu Lab desktop 3D printers. The new components are compatible with the Bambu Lab X1C, X1E, P1P, and P1S.  Bastion Coated Gears combine precision-machined hardened steel gears and hobbs with E3D’s Diamond-Like Carbon (DLC) coating. E3D&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/E3d-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-24T10:17:51+00:00",
+    "url": "https://3dprintingindustry.com/news/e3d-launches-bastion-coated-gears-for-bambu-lab-printers-252504/?utm_source=rss&utm_medium=rss&utm_campaign=e3d-launches-bastion-coated-gears-for-bambu-lab-printers",
+    "forced_tags": [],
+    "title_en": "E3D launches Bastion coated gears for Bambu Lab printers",
+    "summary_bullets_en": [
+      "E3D has released new Bastion Coated Gears designed as an upgrade for Bambu Lab 3D printers.",
+      "The components feature precision-machined hardened steel with a Diamond-Like Carbon (DLC) coating for increased durability.",
+      "The gears are fully compatible with the Bambu Lab X1C, X1E, P1P, and P1S models.",
+      "This upgrade aims to improve the reliability and longevity of the extrusion system."
+    ],
+    "summary_bullets_cs": [
+      "Britská společnost E3D představila ozubená kola Bastion Coated Gears, která slouží jako vylepšení extruderu pro stolní 3D tiskárny Bambu Lab.",
+      "Nové komponenty kombinují precizně opracovanou kalenou ocel s povrchovou úpravou Diamond-Like Carbon (DLC).",
+      "Součástky jsou plně kompatibilní s modely Bambu Lab X1C, X1E, P1P a P1S.",
+      "Cílem novinky je zvýšit odolnost a životnost vytlačovacího systému tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "E3D",
+      "Bambu Lab",
+      "3D Printing",
+      "Extruder",
+      "Upgrades"
+    ]
+  },
+  {
+    "title": "Tři organizace podepsaly dohodu o vybudování centra pro výzkum materiálů v Singapuru",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/three-organizations-sign-agreement-to-build-materials-research-hub-in-singapore/\" target=\"_blank\">Three Organizations Sign Agreement to Build Materials Research Hub in Singapore</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 24</span></div><div><img alt=\"Three Organizations Sign Agreement to Build Materials Research Hub in Singapore\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/763879883-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/763879883-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-06-24T08:48:25+00:00",
+    "url": "https://3dprinting.com/news/three-organizations-sign-agreement-to-build-materials-research-hub-in-singapore/",
+    "forced_tags": [],
+    "title_en": "Three Organizations Sign Agreement to Build Materials Research Hub in Singapore",
+    "summary_bullets_en": [
+      "A new collaborative research hub is being established in Singapore to advance materials science for additive manufacturing.",
+      "The agreement involves three key organizations aiming to accelerate the development and commercialization of innovative 3D printing materials.",
+      "This initiative seeks to strengthen Singapore's position as a global leader in advanced manufacturing and industrial research.",
+      "The hub will focus on bridging the gap between laboratory research and industrial-scale production applications."
+    ],
+    "summary_bullets_cs": [
+      "V Singapuru vzniká nové výzkumné centrum zaměřené na pokrok v oblasti vědy o materiálech pro aditivní výrobu.",
+      "Dohoda zahrnuje tři klíčové organizace, které chtějí urychlit vývoj a komercializaci inovativních materiálů pro 3D tisk.",
+      "Tato iniciativa má za cíl posílit pozici Singapuru jako globálního lídra v pokročilé výrobě a průmyslovém výzkumu.",
+      "Centrum se zaměří na propojení laboratorního výzkumu s aplikacemi v průmyslové velkovýrobě."
+    ],
+    "tags": [
+      "Material",
+      "Services",
+      "Research",
+      "Singapore",
+      "Additive Manufacturing",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Analýza mapuje 3D tištěný beton pro vesmírné habitaty",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958354529/0/fabbaloo/default~Review-Maps-D-Printed-Concrete-For-Space-Habitats\" rel=\"nofollow\" title=\"Review Maps 3D Printed Concrete For Space Habitats\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/space-regolith-manufacturing-cover-300x167.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new research review lays out how 3D printed, regolith based concretes could enable lunar and Martian structures — and where the toughest engineering gaps remain.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958354529/0/fabbaloo/default~Review-Maps-D-Printed-Concrete-For-Space-Habitats\" rel=\"nofollow\">Review Maps 3D Printed Concrete For Space Habitats</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/space-regolith-manufacturing-cover-300x167.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-24T08:38:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958354529/0/fabbaloo/default~Review-Maps-D-Printed-Concrete-For-Space-Habitats",
+    "forced_tags": [],
+    "title_en": "Review Maps 3D Printed Concrete For Space Habitats",
+    "summary_bullets_en": [
+      "A new research review explores the potential of using 3D printed, regolith-based concrete for constructing habitats on the Moon and Mars.",
+      "The study highlights how local extraterrestrial materials can be utilized to reduce the need for transporting building supplies from Earth.",
+      "Researchers identify critical engineering challenges and knowledge gaps that must be addressed to make off-world construction viable."
+    ],
+    "summary_bullets_cs": [
+      "Nový výzkumný přehled zkoumá potenciál využití 3D tištěného betonu na bázi regolitu pro stavbu obydlí na Měsíci a Marsu.",
+      "Studie zdůrazňuje, jak lze využít místní mimozemské materiály ke snížení potřeby dopravy stavebních zásob ze Země.",
+      "Vědci identifikují kritické inženýrské výzvy a mezery ve znalostech, které je třeba vyřešit, aby byla výstavba mimo Zemi proveditelná."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Space Exploration",
+      "Regolith",
+      "Construction",
+      "Lunar Habitats",
+      "Mars"
+    ]
+  },
+  {
+    "title": "Rheinmetall využívá pro tanky Challenger 3 potrubí vyrobené na tiskárnách Minifactory",
+    "summary": "Rheinmetall UK is using Minifactory Material Extusion as the primary production method for tank ducting on the Challenger 3 Main Battle Tank program. The Challenger 3 is the UK&#8217;s formidable...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/Rheinmetall-miniFactory-air-ducting.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-24T07:00:34+00:00",
+    "url": "https://3dprint.com/327371/rheinmetall-uses-ducting-made-with-minifactory-for-challenger-3-tanks/",
+    "forced_tags": [],
+    "title_en": "Rheinmetall Uses Ducting Made with Minifactory for Challenger 3 Tanks",
+    "summary_bullets_en": [
+      "Rheinmetall UK has integrated Minifactory's material extrusion 3D printing technology into the production of ducting for the Challenger 3 main battle tank.",
+      "This adoption highlights the shift toward additive manufacturing for critical components in heavy military defense platforms.",
+      "The use of high-performance materials via Minifactory ensures the durability and precision required for modern armored vehicle systems."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Rheinmetall UK zavedla technologii extruze materiálu od firmy Minifactory jako hlavní metodu výroby potrubí pro hlavní bojové tanky Challenger 3.",
+      "Challenger 3 představuje klíčový prvek britských obrněných sil, přičemž využití 3D tisku podtrhuje modernizaci vojenské výroby.",
+      "Tato technologie umožňuje efektivní produkci odolných komponentů přímo pro potřeby náročného vojenského programu."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "Rheinmetall",
+      "Minifactory",
+      "Defense",
+      "Military",
+      "Challenger 3"
+    ]
+  },
+  {
+    "title": "SMRRF 2027 se uskuteční na Manchester Metropolitan University",
+    "summary": "The Sanjay Mortimer RepRap Festival (SMRRF) has confirmed its 2027 edition for 6–7 March at the Dalton Building, Manchester Metropolitan University. Organized by the Sanjay Mortimer Foundation (SMF), a registered charity supporting neurodivergent young people in STEM, the event draws engineers, educators, hobbyists, and industry professionals over two days. The 2026 edition attracted more than&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/SMRRF-2027--150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-06-24T06:03:17+00:00",
+    "url": "https://3dprintingindustry.com/news/smrrf-2027-to-be-held-at-manchester-metropolitan-university-252491/?utm_source=rss&utm_medium=rss&utm_campaign=smrrf-2027-to-be-held-at-manchester-metropolitan-university",
+    "forced_tags": [],
+    "title_en": "SMRRF 2027 To Be Held at Manchester Metropolitan University",
+    "summary_bullets_en": [
+      "The Sanjay Mortimer RepRap Festival (SMRRF) 2027 is scheduled for March 6–7 at Manchester Metropolitan University.",
+      "The event is hosted by the Sanjay Mortimer Foundation, a charity dedicated to supporting neurodivergent youth in STEM fields.",
+      "The festival serves as a hub for engineers, educators, and 3D printing enthusiasts to connect and share innovations."
+    ],
+    "summary_bullets_cs": [
+      "Festival Sanjay Mortimer RepRap (SMRRF) 2027 se bude konat 6.–7. března v budově Dalton na Manchester Metropolitan University.",
+      "Akci pořádá nadace Sanjay Mortimer Foundation, která podporuje neurodivergentní mladé lidi v oborech STEM.",
+      "Dvoudenní festival propojuje inženýry, pedagogy, hobby nadšence a profesionály z oboru 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Events",
+      "3D Printing",
+      "SMRRF",
+      "Sanjay Mortimer Foundation",
+      "STEM",
+      "Education"
+    ]
+  },
+  {
+    "title": "Vytiskněte si díly tehdy a tam, kde jsou potřeba",
+    "summary": "Ponorka tisíce kilometrů od základny a chybějící náhradní díl. Aditivní výroba zkrátila čekání z měsíců na týdny – a stejný princip dnes mění ekonomiku běžného strojírenství.",
+    "image": "https://blog.aditivni.cz/_astro/Ponorka_3d_tisk.CffPtt5L.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-06-23T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/vytiskni-dily-tehdy-a-tam-kde-jsou-potreba/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Print parts whenever and wherever they are needed",
+    "summary_bullets_en": [
+      "Additive manufacturing is revolutionizing logistics by enabling on-site production of spare parts.",
+      "The technology has drastically reduced lead times for critical components from months to weeks.",
+      "This shift is transforming the economic model of traditional mechanical engineering.",
+      "Remote operations, such as submarines, now benefit from increased self-sufficiency through 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba mění logistiku tím, že umožňuje produkci náhradních dílů přímo v místě potřeby.",
+      "Technologie zkrátila čekací doby na kritické komponenty z měsíců na pouhé týdny.",
+      "Tento posun zásadně transformuje ekonomický model běžného strojírenství.",
+      "Vzdálené provozy, jako jsou ponorky, nyní díky 3D tisku dosahují vyšší míry soběstačnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Manufacturing",
+      "Supply Chain",
+      "Engineering",
+      "On-demand Production",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Společnost Prometheus získala miliardy na vývoj „umělého generálního inženýra“ pro tvorbu fyzických produktů",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/958330946/0/fabbaloo/default~Prometheus-Raises-Billions-to-Develop-%e2%80%98Artificial-General-Engineer%e2%80%99-for-Physical-Product-Creation\" rel=\"nofollow\" title=\"Prometheus Raises Billions to Develop ‘Artificial General Engineer’ for Physical Product Creation\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/prometheus-cover-300x180.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prometheus Industries is a company that might become very important to additive manufacturing in the future.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958330946/0/fabbaloo/default~Prometheus-Raises-Billions-to-Develop-%e2%80%98Artificial-General-Engineer%e2%80%99-for-Physical-Product-Creation\" rel=\"nofollow\">Prometheus Raises Billions to Develop ‘Artificial General Engineer’ for Physical Product Creation</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/prometheus-cover-300x180.jpg",
