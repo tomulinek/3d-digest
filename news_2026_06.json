@@ -1,5 +1,553 @@
 [
   {
+    "title": "CECIMO spouští AM-Europe s cílem sjednotit evropský ekosystém aditivní výroby",
+    "summary": "CECIMO, the European Association of Manufacturing Technologies, has officially unveiled AM-Europe, a dedicated continental platform designed to consolidate and amplify the additive manufacturing (AM) sector&#8217;s presence across Europe. The initiative marks a deliberate structural shift, transforming CECIMO&#8217;s longstanding but internally-focused AM activities into an outward-facing, inclusive ecosystem with a distinct European identity. Rather than a&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/1744278675291-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-27T05:07:19+00:00",
+    "url": "https://3dprintingindustry.com/news/cecimo-launches-am-europe-to-unify-the-continents-additive-manufacturing-ecosystem-252600/?utm_source=rss&utm_medium=rss&utm_campaign=cecimo-launches-am-europe-to-unify-the-continents-additive-manufacturing-ecosystem",
+    "forced_tags": [],
+    "title_en": "CECIMO Launches AM-Europe to Unify the Continent’s Additive Manufacturing Ecosystem",
+    "summary_bullets_en": [
+      "CECIMO has launched AM-Europe, a new platform aimed at consolidating the European additive manufacturing sector.",
+      "The initiative shifts from internal activities to an outward-facing, inclusive ecosystem for the industry.",
+      "The goal is to strengthen the European identity and amplify the collective voice of AM stakeholders across the continent."
+    ],
+    "summary_bullets_cs": [
+      "Evropská asociace výrobních technologií CECIMO představila platformu AM-Europe, která má za úkol propojit a posílit sektor aditivní výroby v Evropě.",
+      "Iniciativa představuje strukturální změnu, kdy se dosavadní interní aktivity CECIMO transformují v otevřený a inkluzivní ekosystém.",
+      "Cílem projektu je vytvořit silnou evropskou identitu a zvýšit vliv aditivní výroby na celoevropské úrovni."
+    ],
+    "tags": [
+      "Services",
+      "CECIMO",
+      "AM-Europe",
+      "Additive Manufacturing",
+      "European Industry"
+    ]
+  },
+  {
+    "title": "CU Boulder a Kolumbijská univerzita našly biopolymerní recepturu pro 3D tisk z hlíny",
+    "summary": "Researchers at the University of Colorado Boulder, working alongside scientists from Columbia University, have identified a surprising solution to one of additive manufacturing&#8217;s more unconventional frontiers: getting natural earthen materials like clay and sand to behave reliably inside a 3D printer. The answer, it turns out, has long been sitting in the ice cream aisle.&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/P1035884-150x100.avif",
+    "source": "3D Printing Industry",
+    "published": "2026-06-27T04:55:52+00:00",
+    "url": "https://3dprintingindustry.com/news/cu-boulder-and-columbia-university-find-a-biopolymer-formula-for-3d-printable-earth-252605/?utm_source=rss&utm_medium=rss&utm_campaign=cu-boulder-and-columbia-university-find-a-biopolymer-formula-for-3d-printable-earth",
+    "forced_tags": [],
+    "title_en": "CU Boulder and Columbia University Find a Biopolymer Formula for 3D Printable Earth",
+    "summary_bullets_en": [
+      "Researchers from CU Boulder and Columbia University developed a method to make natural materials like clay and sand reliably 3D printable.",
+      "The breakthrough involves using a specific biopolymer additive commonly found in food products like ice cream.",
+      "This innovation paves the way for more sustainable, eco-friendly construction methods using locally sourced earthen materials."
+    ],
+    "summary_bullets_cs": [
+      "Vědci z CU Boulder a Kolumbijské univerzity vyvinuli metodu, díky které lze spolehlivě 3D tisknout z přírodních materiálů, jako je hlína a písek.",
+      "Průlom spočívá ve využití specifické biopolymerní přísady, která se běžně vyskytuje v potravinářských výrobcích, například ve zmrzlině.",
+      "Tato inovace otevírá cestu k udržitelnějším stavebním metodám využívajícím lokálně dostupné přírodní materiály."
+    ],
+    "tags": [
+      "Material",
+      "Construction",
+      "Sustainability",
+      "Biopolymers",
+      "Additive Manufacturing",
+      "Research"
+    ]
+  },
+  {
+    "title": "Technologie CF3D míří do výroby raket pro americkou armádu v rámci nového víceletého kontraktu",
+    "summary": "Continuous Composites (CCI) has secured a multi-year contract with the U.S. Army DEVCOM Aviation and Missile Center (AvMC) to apply its proprietary CF3D technology to the development of components for current and future missile platforms.  The effort is being executed in collaboration with the U.S. Army&#8217;s Manufacturing Technology (ManTech) program and coordinated through America Makes,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2021/07/60f9fe21f886cef2e7b4218c_website-photo-p-800-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-06-27T04:46:12+00:00",
+    "url": "https://3dprintingindustry.com/news/cf3d-technology-targets-u-s-army-missile-production-under-new-multi-year-contract-252593/?utm_source=rss&utm_medium=rss&utm_campaign=cf3d-technology-targets-u-s-army-missile-production-under-new-multi-year-contract",
+    "forced_tags": [],
+    "title_en": "CF3D Technology Targets U.S. Army Missile Production Under New Multi-Year Contract",
+    "summary_bullets_en": [
+      "Continuous Composites (CCI) has signed a multi-year contract with the U.S. Army DEVCOM AvMC to utilize its proprietary CF3D technology.",
+      "The project focuses on developing advanced components for both current and future missile platforms.",
+      "The initiative is supported by the U.S. Army’s Manufacturing Technology (ManTech) program and coordinated via America Makes."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Continuous Composites (CCI) uzavřela víceletou smlouvu s výzkumným centrem americké armády DEVCOM AvMC na využití své patentované technologie CF3D.",
+      "Projekt se zaměřuje na vývoj komponentů pro stávající i budoucí raketové platformy.",
+      "Iniciativa je realizována ve spolupráci s programem americké armády pro výrobní technologie (ManTech) a koordinována prostřednictvím organizace America Makes."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Continuous Composites",
+      "CF3D",
+      "U.S. Army",
+      "America Makes",
+      "Defense",
+      "Composites"
+    ]
+  },
+  {
+    "title": "Bambu Lab uvádí na trh PLA Pure, nový filament navržený pro bezpečnější domácí tisk",
+    "summary": "Shenzhen-based desktop 3D printer manufacturer Bambu Lab has introduced PLA Pure, a new filament developed for consumer 3D printing environments where safety, air quality and material traceability are priorities. The launch is positioned as a response to growing demand for cleaner, more transparent materials as desktop printers become increasingly common in homes, shared spaces and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/image1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-27T04:37:47+00:00",
+    "url": "https://3dprintingindustry.com/news/bambu-lab-launches-pla-pure-a-new-filament-engineered-for-safer-home-printing-252515/?utm_source=rss&utm_medium=rss&utm_campaign=bambu-lab-launches-pla-pure-a-new-filament-engineered-for-safer-home-printing",
+    "forced_tags": [],
+    "title_en": "Bambu Lab Launches PLA Pure, a New Filament Engineered for Safer Home Printing",
+    "summary_bullets_en": [
+      "Bambu Lab has released PLA Pure, a new filament designed specifically for safer indoor 3D printing.",
+      "The product focuses on improved air quality and material traceability for home and shared office environments.",
+      "This launch addresses the increasing consumer demand for cleaner and more transparent 3D printing materials."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab představila PLA Pure, nový filament vyvinutý pro bezpečnější prostředí domácího 3D tisku.",
+      "Produkt klade důraz na kvalitu ovzduší a sledovatelnost materiálu, což je klíčové pro domácnosti a sdílené prostory.",
+      "Uvedení na trh reaguje na rostoucí poptávku po čistších a transparentnějších materiálech pro stolní 3D tiskárny."
+    ],
+    "tags": [
+      "Material",
+      "Bambu Lab",
+      "PLA Pure",
+      "3D Printing",
+      "Safety"
+    ]
+  },
+  {
+    "title": "Qingdao si patentuje multimateriálový gradientní tisk z pryskyřice",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958483943/0/fabbaloo/default~Qingdao-Patents-Multimaterial-Gradient-Resin-Printing\" rel=\"nofollow\" title=\"Qingdao Patents Multimaterial Gradient Resin Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/gradient-printing-cover-300x166.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Qingdao University of Technology has filed a patent application for a light curing 3D printing method for functional gradient materials.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958483943/0/fabbaloo/default~Qingdao-Patents-Multimaterial-Gradient-Resin-Printing\" rel=\"nofollow\">Qingdao Patents Multimaterial Gradient Resin Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/gradient-printing-cover-300x166.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-27T01:25:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958483943/0/fabbaloo/default~Qingdao-Patents-Multimaterial-Gradient-Resin-Printing",
+    "forced_tags": [],
+    "title_en": "Qingdao Patents Multimaterial Gradient Resin Printing",
+    "summary_bullets_en": [
+      "Qingdao University of Technology has developed a new light-curing 3D printing method.",
+      "The technology focuses on the production of functional gradient materials.",
+      "A patent application has been filed to protect this innovative resin-based printing process."
+    ],
+    "summary_bullets_cs": [
+      "Technologická univerzita v Qingdao vyvinula novou metodu 3D tisku vytvrzováním světlem.",
+      "Technologie se zaměřuje na výrobu funkčních gradientních materiálů.",
+      "Byla podána patentová přihláška na ochranu tohoto inovativního procesu tisku z pryskyřice."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Resin Printing",
+      "Qingdao University of Technology",
+      "Gradient Materials",
+      "Patent"
+    ]
+  },
+  {
+    "title": "Text-To-CAD se stává realitou, ale ještě tam nejsme.",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958467767/0/fabbaloo/default~TextToCAD-Is-Getting-More-Real-But-Its-Not-There-Yet\" rel=\"nofollow\" title=\"Text-To-CAD Is Getting More Real, But It&#8217;s Not There Yet. \"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/text-to-cad-ideas-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Text-to-CAD tools are beginning to generate useful 3D models from prompts, but the most important missing feature is not geometry — it is intent.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958467767/0/fabbaloo/default~TextToCAD-Is-Getting-More-Real-But-Its-Not-There-Yet\" rel=\"nofollow\">Text-To-CAD Is Getting More Real, But It&#8217;s Not There Yet. </a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/text-to-cad-ideas-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-26T16:18:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958467767/0/fabbaloo/default~TextToCAD-Is-Getting-More-Real-But-Its-Not-There-Yet",
+    "forced_tags": [],
+    "title_en": "Text-To-CAD Is Getting More Real, But It’s Not There Yet.",
+    "summary_bullets_en": [
+      "Text-to-CAD tools are increasingly capable of generating functional 3D models from simple text prompts.",
+      "The current technology excels at creating basic geometry but struggles with complex design requirements.",
+      "The primary obstacle for these tools is the lack of 'intent'—the ability to understand the functional purpose and engineering constraints of a design."
+    ],
+    "summary_bullets_cs": [
+      "Nástroje typu Text-to-CAD jsou stále schopnější generovat funkční 3D modely na základě jednoduchých textových zadání.",
+      "Současná technologie vyniká v tvorbě základní geometrie, ale naráží u komplexních konstrukčních požadavků.",
+      "Hlavní překážkou těchto nástrojů je absence „záměru“ – tedy schopnosti pochopit funkční účel a inženýrská omezení návrhu."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "3D Modeling",
+      "CAD",
+      "Generative Design"
+    ]
+  },
+  {
+    "title": "Společnost GLB představila podivnou „spotřebitelskou“ kovovou 3D tiskárnu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958465265/0/fabbaloo/default~GLB-Announces-Strange-%e2%80%9cConsumer%e2%80%9d-Metal-D-Printer\" rel=\"nofollow\" title=\"GLB Announces Strange &#8220;Consumer&#8221; Metal 3D Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/glb-dpc1-cover-300x192.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new consumer-level metal 3D printer has just been announced in China.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958465265/0/fabbaloo/default~GLB-Announces-Strange-%e2%80%9cConsumer%e2%80%9d-Metal-D-Printer\" rel=\"nofollow\">GLB Announces Strange &#8220;Consumer&#8221; Metal 3D Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/glb-dpc1-cover-300x192.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-26T15:18:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958465265/0/fabbaloo/default~GLB-Announces-Strange-%e2%80%9cConsumer%e2%80%9d-Metal-D-Printer",
+    "forced_tags": [],
+    "title_en": "GLB Announces Strange “Consumer” Metal 3D Printer",
+    "summary_bullets_en": [
+      "A new metal 3D printer targeting the consumer market has been announced in China.",
+      "The device represents a unique entry into the affordable metal additive manufacturing space.",
+      "Details regarding the specific technology and accessibility of this machine are currently emerging."
+    ],
+    "summary_bullets_cs": [
+      "V Číně byla oznámena nová 3D tiskárna na kov určená pro spotřebitelský trh.",
+      "Zařízení představuje unikátní přírůstek do segmentu cenově dostupného aditivního zpracování kovů.",
+      "Podrobnosti o konkrétní technologii a dostupnosti tohoto stroje se teprve začínají objevovat."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "GLB",
+      "Consumer Electronics",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Americká armáda zadala zakázku na 3D tištěné komponenty pro rakety společnosti Continuous Composites",
+    "summary": "Despite the very loud, indignant claims from American defense officials that the US hasn&#8217;t depleted a significant portion of its munitions stockpiles, the US has depleted a significant portion of...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/Robot_graphic-20481152.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-26T13:30:53+00:00",
+    "url": "https://3dprint.com/327571/us-army-awards-continuous-composites-3d-printed-missile-component-contract/",
+    "forced_tags": [],
+    "title_en": "US Army Awards Continuous Composites 3D Printed Missile Component Contract",
+    "summary_bullets_en": [
+      "The US Army has awarded a contract to Continuous Composites to develop 3D printed missile components.",
+      "This initiative comes as the US military seeks to replenish munitions stockpiles that have been significantly depleted.",
+      "The partnership leverages advanced composite 3D printing technology to accelerate defense manufacturing capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Navzdory hlasitým a rozhořčeným tvrzením amerických představitelů obrany, že USA nevyčerpaly významnou část svých zásob munice, USA skutečně vyčerpaly významnou část...",
+      "Americká armáda uzavřela smlouvu se společností Continuous Composites na vývoj 3D tištěných raketových komponentů.",
+      "Tato iniciativa je reakcí na potřebu doplnit zásoby munice a využít pokročilé technologie 3D tisku kompozitů pro zefektivnění obranné výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Continuous Composites",
+      "US Army",
+      "Defense",
+      "3D Printing",
+      "Composites",
+      "Missile Technology"
+    ]
+  },
+  {
+    "title": "Beehive objednává 30 nových tiskáren EOS M4 ONYX v rámci obchodu za 50 milionů dolarů",
+    "summary": "US-based propulsion manufacturer Beehive Industries has signed an agreement to buy 30 EOS M4 ONYX metal 3D printers for $50 million.&#160; The systems will be installed at the company’s Colorado and Tennessee facilities over the next 12 months, raising Beehive’s total fleet of EOS metal 3D printers to 50. That capacity is meant to support&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/Frenzy-Profile-View-2-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-26T13:02:07+00:00",
+    "url": "https://3dprintingindustry.com/news/beehive-orders-30-new-eos-m4-onyx-printers-in-50m-deal-252595/?utm_source=rss&utm_medium=rss&utm_campaign=beehive-orders-30-new-eos-m4-onyx-printers-in-50m-deal",
+    "forced_tags": [],
+    "title_en": "Beehive Orders 30 New EOS M4 ONYX Printers in $50M Deal",
+    "summary_bullets_en": [
+      "Beehive Industries has committed $50 million to acquire 30 EOS M4 ONYX metal 3D printers.",
+      "The new systems will be deployed across Colorado and Tennessee facilities within the next year.",
+      "This expansion brings Beehive's total fleet of EOS metal printers to 50 units.",
+      "The investment aims to significantly scale the company's propulsion manufacturing capacity."
+    ],
+    "summary_bullets_cs": [
+      "Americký výrobce pohonných systémů Beehive Industries podepsal smlouvu na nákup 30 kovových 3D tiskáren EOS M4 ONYX v hodnotě 50 milionů dolarů.",
+      "Systémy budou instalovány v závodech společnosti v Coloradu a Tennessee během následujících 12 měsíců.",
+      "Tato akvizice zvýší celkový počet kovových 3D tiskáren EOS ve flotile společnosti na 50 kusů.",
+      "Navýšení kapacity má podpořit rozvoj výroby pohonných jednotek."
+    ],
+    "tags": [
+      "Hardware",
+      "Beehive Industries",
+      "EOS",
+      "Metal 3D Printing",
+      "Propulsion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "Proč se kvalifikace stává novou hranicí pro aditivní výrobu v energetice",
+    "summary": "The energy industry doesn&#8217;t have much room for failure. Components used in power generation often operate under extreme temperatures and pressures, sometimes for decades at a time. That&#8217;s one reason...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/UPDATE1-scaled-1.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-26T13:00:40+00:00",
+    "url": "https://3dprint.com/327403/why-qualification-is-becoming-the-next-frontier-for-am-in-energy/",
+    "forced_tags": [],
+    "title_en": "Why Qualification Is Becoming the Next Frontier for AM in Energy",
+    "summary_bullets_en": [
+      "The energy sector demands extreme reliability due to harsh operating conditions and long service lifespans.",
+      "Standardizing and qualifying 3D printed parts is now the critical hurdle for wider adoption in power generation.",
+      "Rigorous testing and certification processes are essential to ensure safety and performance in mission-critical energy infrastructure."
+    ],
+    "summary_bullets_cs": [
+      "Energetický průmysl vyžaduje extrémní spolehlivost kvůli náročným provozním podmínkám a dlouhé životnosti komponent.",
+      "Standardizace a kvalifikace 3D tištěných dílů je nyní klíčovou překážkou pro jejich širší využití při výrobě energie.",
+      "Přísné testování a certifikační procesy jsou nezbytné pro zajištění bezpečnosti a výkonu u kritické energetické infrastruktury."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Manufacturing",
+      "Energy Industry",
+      "Quality Assurance",
+      "Certification",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Solukon vydává SPR-Pathfinder PRO – a chytrou softwarovou strategii",
+    "summary": "Large-format LPBF darling Solukon Maschinenbau launches SPR-Pathfinder PRO, an upgrade to its depowdering software. This is a smart play because it enables the company to keep ahead of potential competition...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/PM_Pathfinder-PRO_2026_Sequenz-video-20481152.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-26T12:30:49+00:00",
+    "url": "https://3dprint.com/327552/solukon-releases-spr-pathfinder-pro-and-a-smart-software-strategy/",
+    "forced_tags": [],
+    "title_en": "Solukon Releases SPR-Pathfinder PRO—and a Smart Software Strategy",
+    "summary_bullets_en": [
+      "Solukon has launched SPR-Pathfinder PRO, a significant upgrade to its automated depowdering software.",
+      "The new software enhances the efficiency and precision of powder removal for complex LPBF parts.",
+      "This strategic move strengthens Solukon's market position by creating a competitive barrier through advanced software integration.",
+      "The update reflects a broader industry trend of prioritizing intelligent software solutions to optimize post-processing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Solukon Maschinenbau uvedla na trh SPR-Pathfinder PRO, vylepšenou verzi svého softwaru pro odstraňování prášku.",
+      "Tento krok je strategickým tahem, který firmě umožňuje udržet si náskok před konkurencí v oblasti post-processingu.",
+      "Nový software optimalizuje proces čištění složitých dílů vyrobených technologií LPBF.",
+      "Solukon tímto potvrzuje svůj důraz na inteligentní softwarová řešení jako klíčový prvek pro efektivní 3D tisk."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Solukon",
+      "LPBF",
+      "Post-processing",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Stolní kovová tiskárna za 4 888 USD. PolyJet pod 2 000 USD. Důvěřuj, ale prověřuj.",
+    "summary": "Glorious Platinum and HeyGears have revealed their pricing for the first time",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/0b13c7d5-5e3a-4623-9dd1-6809de615ee3_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-06-26T12:03:14+00:00",
+    "url": "https://www.3dprintingjournal.com/p/desktop-metal-printer-for-4888-polyjet",
+    "forced_tags": [],
+    "title_en": "Desktop metal printer for $4,888. PolyJet for under $2,000. Trust, but verify.",
+    "summary_bullets_en": [
+      "Glorious Platinum has introduced a desktop metal 3D printer priced at $4,888.",
+      "HeyGears has unveiled a new PolyJet-style 3D printing solution for under $2,000.",
+      "The industry is reacting with cautious optimism, emphasizing the need for real-world performance verification.",
+      "These aggressive price points signal a potential shift in accessibility for professional-grade additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Glorious Platinum poprvé odhalila cenu své stolní kovové 3D tiskárny, která činí 4 888 USD.",
+      "Firma HeyGears představila řešení pro 3D tisk typu PolyJet s cenovkou pod 2 000 USD.",
+      "Odborníci na tyto novinky reagují s opatrným optimismem a zdůrazňují nutnost ověření reálného výkonu v praxi."
+    ],
+    "tags": [
+      "Hardware",
+      "Glorious Platinum",
+      "HeyGears",
+      "Metal 3D Printing",
+      "PolyJet",
+      "Desktop Manufacturing"
+    ]
+  },
+  {
+    "title": "Snění v Daytonu: Sympozium DREAM se věnuje aditivní výrobě, AI, dodavatelským řetězcům a dalším tématům",
+    "summary": "This month, I attended a manufacturing industry event, like I often do. But instead of getting on a plane to New York City, or driving four hours to Youngstown, I...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/IMG_3845-1024x768.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-26T12:00:29+00:00",
+    "url": "https://3dprint.com/326751/dream-symposium-covers-am-ai-supply-chain-more/",
+    "forced_tags": [],
+    "title_en": "DREAMing in Dayton: DREAM Symposium Covers AM, AI, Supply Chain, & More",
+    "summary_bullets_en": [
+      "The DREAM Symposium in Dayton explored the intersection of additive manufacturing, artificial intelligence, and supply chain resilience.",
+      "The event highlighted local manufacturing innovation, moving away from typical industry hubs like New York or Youngstown.",
+      "Key discussions focused on how emerging technologies are reshaping production workflows and industrial efficiency.",
+      "Attendees gained insights into the future of digital manufacturing and the strategic importance of regional industrial ecosystems."
+    ],
+    "summary_bullets_cs": [
+      "Sympozium DREAM v Daytonu zkoumalo průnik aditivní výroby, umělé inteligence a odolnosti dodavatelských řetězců.",
+      "Akce vyzdvihla lokální výrobní inovace a zaměřila se na regiony mimo tradiční průmyslová centra, jako je New York nebo Youngstown.",
+      "Klíčové diskuse se soustředily na to, jak nové technologie mění výrobní procesy a průmyslovou efektivitu.",
+      "Účastníci získali vhled do budoucnosti digitální výroby a strategického významu regionálních průmyslových ekosystémů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Additive Manufacturing",
+      "AI",
+      "Supply Chain",
+      "DREAM Symposium"
+    ]
+  },
+  {
+    "title": "Patent z Che-feje cílí na čistší více-pryskyřičný SLA tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958456154/0/fabbaloo/default~Hefei-Patent-Targets-Cleaner-Multi-Resin-SLA-Printing\" rel=\"nofollow\" title=\"Hefei Patent Targets Cleaner Multi Resin SLA Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/cleaner-resin-patent-cover-300x187.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new patent proposes a more practical way to switch materials in resin 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958456154/0/fabbaloo/default~Hefei-Patent-Targets-Cleaner-Multi-Resin-SLA-Printing\" rel=\"nofollow\">Hefei Patent Targets Cleaner Multi Resin SLA Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/cleaner-resin-patent-cover-300x187.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-26T11:18:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958456154/0/fabbaloo/default~Hefei-Patent-Targets-Cleaner-Multi-Resin-SLA-Printing",
+    "forced_tags": [],
+    "title_en": "Hefei Patent Targets Cleaner Multi Resin SLA Printing",
+    "summary_bullets_en": [
+      "A new patent from Hefei introduces a more efficient method for switching materials in SLA 3D printing.",
+      "The technology aims to solve the common issue of contamination and waste when using multiple resins in a single print job.",
+      "This innovation could significantly improve the practicality and cleanliness of multi-material resin workflows."
+    ],
+    "summary_bullets_cs": [
+      "Nový patent z Che-feje představuje praktičtější způsob střídání materiálů při SLA 3D tisku.",
+      "Technologie se zaměřuje na řešení problémů s kontaminací a plýtváním materiálem při používání více pryskyřic v rámci jednoho tiskového procesu.",
+      "Tato inovace by mohla výrazně zvýšit efektivitu a čistotu práce s více materiály u resinových tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "SLA",
+      "3D Printing",
+      "Resin",
+      "Patent",
+      "Hefei"
+    ]
+  },
+  {
+    "title": "Deep learning odhaluje vady 3D tisku přímo během procesu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958451627/0/fabbaloo/default~Deep-Learning-Spots-D-Print-Defects-In-Process\" rel=\"nofollow\" title=\"Deep Learning Spots 3D Print Defects In Process\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/visual-deep-learning-cover-300x129.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new study explores deep learning for image-based defect detection during 3D printing, looking to catch bad builds.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958451627/0/fabbaloo/default~Deep-Learning-Spots-D-Print-Defects-In-Process\" rel=\"nofollow\">Deep Learning Spots 3D Print Defects In Process</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/visual-deep-learning-cover-300x129.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-26T08:40:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958451627/0/fabbaloo/default~Deep-Learning-Spots-D-Print-Defects-In-Process",
+    "forced_tags": [],
+    "title_en": "Deep Learning Spots 3D Print Defects In Process",
+    "summary_bullets_en": [
+      "A new research study investigates the use of deep learning for real-time defect detection in 3D printing.",
+      "The technology utilizes image-based analysis to identify errors while the build is still in progress.",
+      "This approach aims to reduce material waste and save time by catching failed prints before they are completed."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie zkoumá využití hlubokého učení pro detekci vad při 3D tisku v reálném čase.",
+      "Technologie využívá analýzu obrazu k identifikaci chyb, zatímco tisk stále probíhá.",
+      "Tento přístup má za cíl snížit plýtvání materiálem a ušetřit čas tím, že zachytí nepovedené výtisky ještě před jejich dokončením."
+    ],
+    "tags": [
+      "Software",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Quality Control",
+      "3D Printing",
+      "Process Monitoring"
+    ]
+  },
+  {
+    "title": "IU Health otevírá 3D tiskové studio s certifikací FDA, zkracuje dobu výroby modelů na 24 hodin",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/iu-health-opens-fda-cleared-3d-print-studio-cutting-model-turnaround-to-24-hours/\" target=\"_blank\">IU Health Opens FDA-Cleared 3D Print Studio, Cutting Model Turnaround to 24 Hours</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">June 26</span></div><div><img alt=\"IU Health Opens FDA-Cleared 3D Print Studio, Cutting Model Turnaround to 24 Hours\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/8639798029-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/8639798029-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2026-06-26T07:41:33+00:00",
+    "url": "https://3dprinting.com/news/iu-health-opens-fda-cleared-3d-print-studio-cutting-model-turnaround-to-24-hours/",
+    "forced_tags": [],
+    "title_en": "IU Health Opens FDA-Cleared 3D Print Studio, Cutting Model Turnaround to 24 Hours",
+    "summary_bullets_en": [
+      "Indiana University Health has launched a new in-house 3D printing facility that has received official FDA clearance.",
+      "The studio significantly improves clinical efficiency by reducing the production time for anatomical models to just 24 hours.",
+      "This facility allows surgeons to better prepare for complex procedures using patient-specific 3D-printed models.",
+      "The initiative marks a major step forward in integrating advanced additive manufacturing directly into hospital workflows."
+    ],
+    "summary_bullets_cs": [
+      "Indiana University Health spustila nové interní 3D tiskové pracoviště, které získalo oficiální certifikaci FDA.",
+      "Studio výrazně zvyšuje efektivitu klinické péče tím, že zkracuje dobu výroby anatomických modelů na pouhých 24 hodin.",
+      "Nové zázemí umožňuje chirurgům lépe se připravit na složité zákroky pomocí modelů vytištěných na míru konkrétním pacientům.",
+      "Tato iniciativa představuje významný pokrok v přímé integraci pokročilé aditivní výroby do nemocničních procesů."
+    ],
+    "tags": [
+      "Services",
+      "Healthcare",
+      "Medical 3D Printing",
+      "FDA",
+      "IU Health",
+      "Anatomical Models"
+    ]
+  },
+  {
+    "title": "Společnost Titan America uvádí na trh xForm3D, technologii pro 3D tisk z betonu",
+    "summary": "Cement and building materials company Titan America has launched xForm3D, a U.S.-patented 3D printable concrete technology designed for automated construction across residential, commercial, infrastructure, and coastal applications. The company positioned the product as a direct response to labor shortages, demand for faster project delivery, and the need for more affordable housing solutions. “This solution underscores&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/concrete-print-6-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-26T07:41:30+00:00",
+    "url": "https://3dprintingindustry.com/news/titan-america-launches-xform3d-a-3d-printable-concrete-technology-252564/?utm_source=rss&utm_medium=rss&utm_campaign=titan-america-launches-xform3d-a-3d-printable-concrete-technology",
+    "forced_tags": [],
+    "title_en": "Titan America Launches xForm3D, a 3D Printable Concrete Technology",
+    "summary_bullets_en": [
+      "Titan America introduced xForm3D, a patented 3D printable concrete technology for automated construction.",
+      "The solution targets residential, commercial, infrastructure, and coastal building projects.",
+      "It aims to address critical industry challenges, including labor shortages and the need for faster, more affordable housing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Titan America představila xForm3D, patentovanou technologii pro 3D tisk z betonu určenou pro automatizovanou výstavbu.",
+      "Technologie je navržena pro široké využití v rezidenčních, komerčních, infrastrukturních i pobřežních projektech.",
+      "Produkt reaguje na nedostatek pracovních sil, poptávku po rychlejší realizaci projektů a potřebu dostupnějšího bydlení."
+    ],
+    "tags": [
+      "Material",
+      "Construction",
+      "Titan America",
+      "xForm3D",
+      "3D Concrete Printing"
+    ]
+  },
+  {
+    "title": "NCAME spolupracuje s 6K Additive na odstranění nedostatku dat, který brzdí opravy pomocí technologie cold spray",
+    "summary": "Researchers at Auburn University&#8217;s National Center for Additive Manufacturing Excellence (NCAME) have launched a study with metal powder producer 6K Additive to evaluate how cold spray feedstock materials perform under demanding conditions, targeting the lack of mechanical performance data that has kept the technology from wider adoption in repair applications. “This project is about understanding&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/NCAME_6KAdditive-7-of-131-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-06-26T07:26:29+00:00",
+    "url": "https://3dprintingindustry.com/news/ncame-partners-with-6k-additive-to-close-the-data-gap-holding-back-cold-spray-repair-252571/?utm_source=rss&utm_medium=rss&utm_campaign=ncame-partners-with-6k-additive-to-close-the-data-gap-holding-back-cold-spray-repair",
+    "forced_tags": [],
+    "title_en": "NCAME Partners with 6K Additive to Close the Data Gap Holding Back Cold Spray Repair",
+    "summary_bullets_en": [
+      "NCAME at Auburn University is collaborating with 6K Additive to study cold spray feedstock performance.",
+      "The research aims to bridge the critical data gap regarding mechanical properties in repair applications.",
+      "Lack of standardized performance data has historically hindered the wider industrial adoption of cold spray technology.",
+      "The project focuses on evaluating how metal powders behave under demanding operational conditions."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z NCAME na Auburn University zahájili studii s výrobcem kovových prášků 6K Additive, aby vyhodnotili vlastnosti materiálů pro technologii cold spray.",
+      "Cílem projektu je doplnit chybějící data o mechanickém výkonu, která dosud bránila širšímu využití této technologie v opravárenství.",
+      "Výzkum se zaměřuje na pochopení chování materiálů v náročných podmínkách."
+    ],
+    "tags": [
+      "Material",
+      "Services",
+      "NCAME",
+      "6K Additive",
+      "Cold Spray",
+      "Additive Manufacturing",
+      "Repair"
+    ]
+  },
+  {
+    "title": "Aalto University a Stanford testují novou architekturu pro 6G povrchy",
+    "summary": "Researchers at Stanford University and Aalto University have built and tested a 3D printed panel that simultaneously handles six wireless signals across different frequencies, angles, and polarizations, boosting signal strength and channel capacity, with no active components of any kind. The research was conducted by Mohammad M. Asgari, Shuai S. A. Yuan, and Viktar Asadchy&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/41467_2026_73019_Fig1_HTML-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-06-26T07:06:32+00:00",
+    "url": "https://3dprintingindustry.com/news/aalto-university-and-stanford-test-a-new-architecture-for-6g-surfaces-252578/?utm_source=rss&utm_medium=rss&utm_campaign=aalto-university-and-stanford-test-a-new-architecture-for-6g-surfaces",
+    "forced_tags": [],
+    "title_en": "Aalto University and Stanford Test a New Architecture for 6G Surfaces",
+    "summary_bullets_en": [
+      "Researchers from Stanford and Aalto University developed a 3D printed panel capable of managing six simultaneous wireless signals.",
+      "The device operates across various frequencies, angles, and polarizations to significantly improve signal strength and channel capacity.",
+      "A key innovation is that the panel functions entirely as a passive structure, requiring no active electronic components."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci ze Stanfordu a Aalto University vyvinuli 3D tištěný panel schopný současně zpracovávat šest bezdrátových signálů.",
+      "Zařízení pracuje s různými frekvencemi, úhly a polarizacemi, čímž výrazně zvyšuje sílu signálu a kapacitu kanálu.",
+      "Klíčovou inovací je, že panel funguje zcela pasivně a nevyžaduje žádné aktivní elektronické komponenty."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "6G Technology",
+      "Wireless Communication",
+      "Metasurfaces",
+      "Aalto University",
+      "Stanford University"
+    ]
+  },
+  {
     "title": "Praktické zkušenosti s 3D tiskárnou Bambu Lab A2L, 3. část",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/958419392/0/fabbaloo/default~Hands-On-With-The-Bambu-Lab-AL-D-Printer-Part\" rel=\"nofollow\" title=\"Hands On With The Bambu Lab A2L 3D Printer, Part 3\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/00-a2l-cover4-1-300x169.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Our look at the Bambu Lab A2L 3D printer concludes with Operations and Final Thoughts.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958419392/0/fabbaloo/default~Hands-On-With-The-Bambu-Lab-AL-D-Printer-Part\" rel=\"nofollow\">Hands On With The Bambu Lab A2L 3D Printer, Part 3</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/00-a2l-cover4-1-300x169.jpeg",
