@@ -1,5 +1,63 @@
 [
   {
+    "title": "Zprávy ze světa 3D tisku, 27. června 2026: Nanoměřítkový 3D tisk, obranná připravenost a další",
+    "summary": "We&#8217;re starting with a story about a grant for advanced nanoscale 3D printing in this weekend&#8217;s 3D Printing News Briefs, and then on to metal additive manufacturing (AM) for defense...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/moody-brian-illo-uc-santa-barbara-1024x559.avif",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-06-27T12:30:51+00:00",
+    "url": "https://3dprint.com/327677/3d-printing-news-briefs-6-27-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, June 27, 2026: Nanoscale 3D Printing, Defense Readiness, & More",
+    "summary_bullets_en": [
+      "Researchers received a new grant to advance nanoscale 3D printing technologies.",
+      "The industry is focusing on metal additive manufacturing to improve defense readiness.",
+      "The news brief covers additional updates and developments in the global 3D printing sector."
+    ],
+    "summary_bullets_cs": [
+      "Začínáme příběhem o grantu na pokročilý 3D tisk v nanoměřítku.",
+      "Pokračujeme využitím aditivní výroby kovů pro potřeby obranného průmyslu.",
+      "Přehled obsahuje i další novinky a vývoj v oblasti 3D tisku z tohoto víkendu."
+    ],
+    "tags": [
+      "Hardware",
+      "Nanoscale 3D Printing",
+      "Metal Additive Manufacturing",
+      "Defense Industry",
+      "Research & Development"
+    ]
+  },
+  {
+    "title": "3D tištěné měděné desky — řešení jednoho z největších problémů AI",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958502057/0/fabbaloo/default~D-Printed-Copper-Plates-%e2%80%94-Solving-One-of-AI%e2%80%99s-Biggest-Problems\" rel=\"nofollow\" title=\"3D Printed Copper Plates — Solving One of AI’s Biggest Problems\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/Filename-_175-300x201.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles G. Goulding examines how advanced 3D printing and copper engineering could unlock the next phase of AI expansion while easing pressure on power grids and critical infrastructure.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958502057/0/fabbaloo/default~D-Printed-Copper-Plates-%e2%80%94-Solving-One-of-AI%e2%80%99s-Biggest-Problems\" rel=\"nofollow\">3D Printed Copper Plates — Solving One of AI’s Biggest Problems</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/Filename-_175-300x201.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-06-27T11:54:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958502057/0/fabbaloo/default~D-Printed-Copper-Plates-%e2%80%94-Solving-One-of-AI%e2%80%99s-Biggest-Problems",
+    "forced_tags": [],
+    "title_en": "3D Printed Copper Plates — Solving One of AI’s Biggest Problems",
+    "summary_bullets_en": [
+      "Advanced 3D printing of copper components is emerging as a key solution for the thermal management challenges in AI hardware.",
+      "Efficient cooling through custom copper plates can significantly reduce the energy consumption of massive AI data centers.",
+      "This technology helps alleviate the strain on power grids and critical infrastructure caused by the rapid expansion of AI computing.",
+      "Charles G. Goulding highlights the intersection of additive manufacturing and electrical engineering as a catalyst for the next phase of AI growth."
+    ],
+    "summary_bullets_cs": [
+      "Pokročilý 3D tisk měděných komponent se ukazuje jako klíčové řešení pro problémy s chlazením hardwaru využívaného v AI.",
+      "Efektivní chlazení pomocí měděných desek na míru může výrazně snížit energetickou náročnost velkých datových center.",
+      "Tato technologie pomáhá zmírnit zátěž elektrických sítí a kritické infrastruktury, kterou způsobuje rychlý rozvoj AI výpočetní techniky.",
+      "Charles G. Goulding zdůrazňuje propojení aditivní výroby a elektrotechniky jako katalyzátor pro další fázi rozvoje umělé inteligence."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Copper",
+      "AI Infrastructure",
+      "Thermal Management",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "CECIMO spouští AM-Europe s cílem sjednotit evropský ekosystém aditivní výroby",
     "summary": "CECIMO, the European Association of Manufacturing Technologies, has officially unveiled AM-Europe, a dedicated continental platform designed to consolidate and amplify the additive manufacturing (AM) sector&#8217;s presence across Europe. The initiative marks a deliberate structural shift, transforming CECIMO&#8217;s longstanding but internally-focused AM activities into an outward-facing, inclusive ecosystem with a distinct European identity. Rather than a&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/1744278675291-150x100.jpeg",
