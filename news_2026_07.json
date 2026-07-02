@@ -1,5 +1,384 @@
 [
   {
+    "title": "AM Asia Watch: Čínská společnost tvrdí, že dosáhla pokroku u titanového prášku pro teploty nad 700 °C",
+    "summary": "They&#8217;re a familiar sight at trade shows: Chinese powder companies with barren stands lacking parts. There&#8217;s maybe some glass vessel with powder in it and a semi-complete data sheet, but...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/alloy.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-02T06:00:27+00:00",
+    "url": "https://3dprint.com/327993/am-asia-watch-chinese-company-claims-advances-in-titanium-powder-beyond-700c/",
+    "forced_tags": [],
+    "title_en": "AM Asia Watch: Chinese Company Claims Advances in Titanium Powder Beyond 700C",
+    "summary_bullets_en": [
+      "Chinese powder manufacturers often exhibit at trade shows with limited physical evidence or parts.",
+      "A specific Chinese company is now claiming significant technical breakthroughs in titanium powder performance.",
+      "The reported advancement involves the material's ability to maintain integrity at temperatures exceeding 700°C.",
+      "Industry skepticism remains due to the common trend of sparse data and lack of tangible demonstrations from such suppliers."
+    ],
+    "summary_bullets_cs": [
+      "Čínští výrobci prášků jsou na veletrzích známí tím, že často vystavují bez konkrétních ukázek vytištěných dílů.",
+      "Jedna z čínských firem nyní hlásí významný technický pokrok v oblasti vlastností titanového prášku.",
+      "Uváděné zlepšení se týká schopnosti materiálu zachovat si své vlastnosti při teplotách přesahujících 700 °C.",
+      "V oboru přetrvává skepse, protože tito dodavatelé často prezentují pouze kusé údaje a chybí jim hmatatelné důkazy o funkčnosti."
+    ],
+    "tags": [
+      "Material",
+      "Metal AM",
+      "Titanium Powder",
+      "Additive Manufacturing",
+      "Industry Trends"
+    ]
+  },
+  {
+    "title": "Tisk horizontálních přesahů bez podpěr pomocí vlnových drah nástroje u FFF tiskáren",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958838948/0/fabbaloo/default~SupportFree-Horizontal-FFF-Overhangs-with-WaveBased-Toolpaths\" rel=\"nofollow\" title=\"Support-Free Horizontal FFF Overhangs with Wave-Based Toolpaths\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/wave-supports-cover-300x116.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have shown a way to 3D print horizontal FFF overhangs without supports.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958838948/0/fabbaloo/default~SupportFree-Horizontal-FFF-Overhangs-with-WaveBased-Toolpaths\" rel=\"nofollow\">Support-Free Horizontal FFF Overhangs with Wave-Based Toolpaths</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/wave-supports-cover-300x116.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-01T16:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958838948/0/fabbaloo/default~SupportFree-Horizontal-FFF-Overhangs-with-WaveBased-Toolpaths",
+    "forced_tags": [],
+    "title_en": "Support-Free Horizontal FFF Overhangs with Wave-Based Toolpaths",
+    "summary_bullets_en": [
+      "Researchers have developed a new method to print horizontal overhangs using FFF technology without the need for support structures.",
+      "The technique utilizes innovative wave-based toolpaths to stabilize the extruded material during the printing process.",
+      "This advancement could significantly reduce material waste and post-processing time in 3D printing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci představili novou metodu, která umožňuje 3D tisk horizontálních přesahů technologií FFF bez nutnosti použití podpůrných struktur.",
+      "Technika využívá inovativní vlnové dráhy nástroje, které stabilizují vytlačovaný materiál během procesu tisku.",
+      "Tento pokrok by mohl výrazně snížit plýtvání materiálem a zkrátit čas potřebný pro následné opracování výtisků."
+    ],
+    "tags": [
+      "Software",
+      "FFF",
+      "3D Printing",
+      "Toolpath Optimization",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Operátoři objevili závažný problém u tiskárny Flashforge Creator 5 Pro",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958836776/0/fabbaloo/default~Operators-Discover-Signficant-Issue-with-the-Flashforge-Creator-Pro\" rel=\"nofollow\" title=\"Operators Discover Signficant Issue with the Flashforge Creator 5 Pro\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/flashforge-creator5pro-issues-cover-300x204.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>It seems that the new Flashforge Creator 5 Pro has a potential safety issue.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958836776/0/fabbaloo/default~Operators-Discover-Signficant-Issue-with-the-Flashforge-Creator-Pro\" rel=\"nofollow\">Operators Discover Signficant Issue with the Flashforge Creator 5 Pro</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/flashforge-creator5pro-issues-cover-300x204.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-01T15:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958836776/0/fabbaloo/default~Operators-Discover-Signficant-Issue-with-the-Flashforge-Creator-Pro",
+    "forced_tags": [],
+    "title_en": "Operators Discover Significant Issue with the Flashforge Creator 5 Pro",
+    "summary_bullets_en": [
+      "Users have identified a potential safety concern regarding the new Flashforge Creator 5 Pro 3D printer.",
+      "The discovery highlights critical operational risks that may affect current owners of the device.",
+      "Further investigation is recommended for those using this specific hardware model."
+    ],
+    "summary_bullets_cs": [
+      "Uživatelé identifikovali potenciální bezpečnostní problém u nové 3D tiskárny Flashforge Creator 5 Pro.",
+      "Tento objev poukazuje na kritická provozní rizika, která mohou ovlivnit současné majitele zařízení.",
+      "Uživatelům tohoto konkrétního modelu hardwaru se doporučuje další prověření situace."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Flashforge",
+      "Creator 5 Pro",
+      "Safety Issue"
+    ]
+  },
+  {
+    "title": "Austal, Curtin University a AMCRC spolupracují na výzkumu a vývoji",
+    "summary": "Australia&#8217;s Additive Manufacturing Cooperative Research Centre (AMCRC) works with 70 industry partners to deliver collaborative R&#38;D projects. They also work on workforce development and technology transfer. It&#8217;s kind of analogous...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/Austal_CoE_AMCRC-Project2-1024x682.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-01T13:30:46+00:00",
+    "url": "https://3dprint.com/327714/austal-curtin-university-and-amcrc-work-on-rd-together/",
+    "forced_tags": [],
+    "title_en": "Austal, Curtin University and AMCRC Work on R&D Together",
+    "summary_bullets_en": [
+      "The Additive Manufacturing Cooperative Research Centre (AMCRC) is partnering with 70 industry entities to drive collaborative R&D.",
+      "The initiative focuses on advancing additive manufacturing technologies through strategic industry-academic cooperation.",
+      "Key objectives include workforce development, technology transfer, and fostering innovation in the Australian manufacturing sector.",
+      "Austal and Curtin University are key participants in these joint research efforts."
+    ],
+    "summary_bullets_cs": [
+      "Australské centrum pro kooperativní výzkum aditivní výroby (AMCRC) spolupracuje se 70 průmyslovými partnery na společných projektech výzkumu a vývoje.",
+      "Organizace se zaměřuje na rozvoj pracovní síly, transfer technologií a inovace v oblasti 3D tisku.",
+      "Spolupráce mezi Austal, Curtin University a AMCRC má za cíl posílit technologické kapacity v regionu."
+    ],
+    "tags": [
+      "Services",
+      "Research and Development",
+      "Additive Manufacturing",
+      "AMCRC",
+      "Austal",
+      "Curtin University"
+    ]
+  },
+  {
+    "title": "IBM si patentuje využití AI pro řízení 3D tiskáren",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958831877/0/fabbaloo/default~IBM-Patent-Applies-AI-To-D-Printer-Control\" rel=\"nofollow\" title=\"IBM Patent Applies AI To 3D Printer Control\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/ibm-ai-patent-cover-300x191.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>IBM has published a patent application describing an AI decision engine for managing 3D printers.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958831877/0/fabbaloo/default~IBM-Patent-Applies-AI-To-D-Printer-Control\" rel=\"nofollow\">IBM Patent Applies AI To 3D Printer Control</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/ibm-ai-patent-cover-300x191.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-01T13:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958831877/0/fabbaloo/default~IBM-Patent-Applies-AI-To-D-Printer-Control",
+    "forced_tags": [],
+    "title_en": "IBM Patent Applies AI To 3D Printer Control",
+    "summary_bullets_en": [
+      "IBM has filed a new patent detailing an AI-driven decision engine for 3D printing.",
+      "The technology aims to optimize and manage the operational processes of 3D printers.",
+      "This innovation highlights the growing integration of artificial intelligence in additive manufacturing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Společnost IBM zveřejnila patentovou přihlášku popisující rozhodovací engine na bázi umělé inteligence pro správu 3D tiskáren.",
+      "Technologie je navržena tak, aby automatizovala a optimalizovala procesy řízení 3D tisku.",
+      "Tento krok potvrzuje trend integrace pokročilé AI do světa aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "IBM",
+      "Artificial Intelligence",
+      "Patent",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Caltech využívá 3D tisk k přehodnocení lithium-iontových baterií",
+    "summary": "For more than two decades, lithium-ion batteries have powered almost everything around us. They are inside smartphones, laptops, electric vehicles, drones, and even many medical devices. Batteries have improved a...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/Summer_2025_1.width-450.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-01T12:30:31+00:00",
+    "url": "https://3dprint.com/327954/caltech-uses-3d-printing-to-rethink-the-lithium-ion-battery/",
+    "forced_tags": [],
+    "title_en": "Caltech Uses 3D Printing to Rethink the Lithium-Ion Battery",
+    "summary_bullets_en": [
+      "Researchers at Caltech are leveraging 3D printing technology to innovate the architecture of lithium-ion batteries.",
+      "The project aims to overcome long-standing limitations in battery performance and energy density.",
+      "Additive manufacturing allows for complex internal structures that were previously impossible to create with traditional methods.",
+      "This breakthrough could lead to more efficient and longer-lasting power sources for electronics and electric vehicles."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Caltechu využívají technologii 3D tisku k inovaci architektury lithium-iontových baterií.",
+      "Projekt se zaměřuje na překonání dlouhodobých omezení v oblasti výkonu a hustoty energie baterií.",
+      "Aditivní výroba umožňuje vytvářet komplexní vnitřní struktury, které byly dříve tradičními metodami nedosažitelné.",
+      "Tento průlom by mohl vést k efektivnějším a trvanlivějším zdrojům energie pro elektroniku a elektromobily."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Caltech",
+      "3D Printing",
+      "Lithium-ion Batteries",
+      "Energy Storage",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 1. července 2026: Protézy, podávání léků a další",
+    "summary": "We&#8217;re focused on healthcare and research in today&#8217;s 3D Printing News Briefs, including 3D printed prosthetics, patient-specific implants, drug delivery, and more. Read on for all the details! Students from...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/3d-Prosthetics.jpg-1024x683.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-01T12:00:42+00:00",
+    "url": "https://3dprint.com/327898/3d-printing-news-briefs-7-1-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, July 1, 2026: Prosthetics, Drug Delivery, & More",
+    "summary_bullets_en": [
+      "Advancements in 3D printed prosthetics and patient-specific implants are transforming personalized healthcare.",
+      "New research highlights innovative methods for 3D printed drug delivery systems.",
+      "Students and researchers are driving the integration of additive manufacturing in medical applications."
+    ],
+    "summary_bullets_cs": [
+      "Pokroky v 3D tištěných protézách a implantátech na míru pacientům mění podobu personalizované zdravotní péče.",
+      "Nový výzkum představuje inovativní metody pro systémy 3D tištěného podávání léků.",
+      "Studenti a vědci se podílejí na integraci aditivní výroby do medicínských aplikací."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Healthcare",
+      "Prosthetics",
+      "Bioprinting",
+      "Medical Implants"
+    ]
+  },
+  {
+    "title": "Tisk nesmrtelnosti? Pohled do ruského miliardového úsilí o dlouhověkost a bioinženýrské orgány",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958827947/0/fabbaloo/default~Printing-Immortality-Inside-Russia%e2%80%99s-BillionDollar-Push-for-Longevity-and-Bioengineered-Organs\" rel=\"nofollow\" title=\"Printing Immortality? Inside Russia’s Billion-Dollar Push for Longevity and Bioengineered Organs\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/Filename-_181-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi take a closer look at Russia’s longevity program, separating the scientific realities of 3D bioprinting from the hype surrounding claims of life-extending technologies.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958827947/0/fabbaloo/default~Printing-Immortality-Inside-Russia%e2%80%99s-BillionDollar-Push-for-Longevity-and-Bioengineered-Organs\" rel=\"nofollow\">Printing Immortality? Inside Russia’s Billion-Dollar Push for Longevity and Bioengineered Organs</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/Filename-_181-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-01T11:25:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958827947/0/fabbaloo/default~Printing-Immortality-Inside-Russia%e2%80%99s-BillionDollar-Push-for-Longevity-and-Bioengineered-Organs",
+    "forced_tags": [],
+    "title_en": "Printing Immortality? Inside Russia’s Billion-Dollar Push for Longevity and Bioengineered Organs",
+    "summary_bullets_en": [
+      "Russia is investing heavily in a national longevity program focused on advanced biotechnology.",
+      "The initiative aims to leverage 3D bioprinting to create functional human organs.",
+      "Experts Charles R. Goulding and Preeti Sulibhavi analyze the gap between scientific potential and current marketing hype.",
+      "The report evaluates the feasibility of these life-extending technologies within the Russian research landscape."
+    ],
+    "summary_bullets_cs": [
+      "Rusko masivně investuje do národního programu dlouhověkosti zaměřeného na pokročilé biotechnologie.",
+      "Iniciativa se snaží využít 3D biotisk k vytváření funkčních lidských orgánů.",
+      "Experti Charles R. Goulding a Preeti Sulibhavi analyzují rozdíl mezi vědeckým potenciálem a současným mediálním humbukem.",
+      "Zpráva hodnotí proveditelnost těchto technologií prodlužujících život v rámci ruského výzkumného prostředí."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Bioprinting",
+      "Longevity",
+      "Biotechnology",
+      "Medical Research"
+    ]
+  },
+  {
+    "title": "Rotterdamské studio pokrylo nizozemskou trafostanici 322 keramickými dlaždicemi tištěnými na 3D tiskárně",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/rotterdam-studio-covers-dutch-transformer-station-in-322-custom-3d-printed-ceramic-tiles/\" target=\"_blank\">Rotterdam Studio Covers Dutch Transformer Station in 322 Custom 3D Printed Ceramic Tiles</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 1</span></div><div><img alt=\"Rotterdam Studio Covers Dutch Transformer Station in 322 Custom 3D Printed Ceramic Tiles\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/Pim-Top-photographer_StudioRAP_002-Large-500x500.webp\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/Pim-Top-photographer_StudioRAP_002-Large-500x500.webp",
+    "source": "3DPrinting.com",
+    "published": "2026-07-01T11:15:22+00:00",
+    "url": "https://3dprinting.com/news/rotterdam-studio-covers-dutch-transformer-station-in-322-custom-3d-printed-ceramic-tiles/",
+    "forced_tags": [],
+    "title_en": "Rotterdam Studio Covers Dutch Transformer Station in 322 Custom 3D Printed Ceramic Tiles",
+    "summary_bullets_en": [
+      "Rotterdam-based Studio RAP transformed a mundane transformer station in the Netherlands using 322 unique, 3D-printed ceramic tiles.",
+      "The project utilizes advanced computational design and robotic 3D printing to create complex, organic geometries that would be impossible with traditional manufacturing.",
+      "Each tile features a distinct, intricate pattern, demonstrating how additive manufacturing can elevate urban infrastructure into public art.",
+      "This installation highlights the growing trend of integrating large-scale 3D printed architectural elements into functional city environments."
+    ],
+    "summary_bullets_cs": [
+      "Rotterdamské studio RAP proměnilo běžnou trafostanici v Nizozemsku pomocí 322 unikátních keramických dlaždic vyrobených 3D tiskem.",
+      "Projekt využívá pokročilý výpočetní design a robotický 3D tisk k vytvoření komplexních organických tvarů, které by tradičními metodami nebyly proveditelné.",
+      "Každá dlaždice má svůj vlastní složitý vzor, což ukazuje, jak může aditivní výroba povýšit městskou infrastrukturu na veřejné umění.",
+      "Tato instalace podtrhuje rostoucí trend integrace velkoformátových 3D tištěných architektonických prvků do funkčního městského prostředí."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Ceramics",
+      "Architecture",
+      "Studio RAP",
+      "Robotic 3D Printing"
+    ]
+  },
+  {
+    "title": "AMAA 2026: Nádrže z jednoho kusu od Northropu vytvořily novou výzvu pro certifikaci",
+    "summary": "In additive manufacturing for space hardware, the parts easiest to print are often the hardest to certify. A forging and a weld seam unified into one printed piece sounds like pure upside, until someone has to prove it will not fail under pressure in orbit. That was the case Andrew Thompson, Manager of Northrop Grumman’s&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/AMAA-Banner-2024-full-size-1200-x-627-px-1440-x-810-px-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-07-01T11:06:17+00:00",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-northrops-single-piece-tanks-created-a-new-certification-challenge-252513/?utm_source=rss&utm_medium=rss&utm_campaign=amaa-2026-northrops-single-piece-tanks-created-a-new-certification-challenge",
+    "forced_tags": [],
+    "title_en": "AMAA 2026: Northrop’s Single Piece Tanks Created a New Certification Challenge",
+    "summary_bullets_en": [
+      "Additive manufacturing allows for the consolidation of complex forged and welded parts into single-piece space hardware.",
+      "While design consolidation offers significant performance benefits, it creates major hurdles for traditional aerospace certification processes.",
+      "Northrop Grumman is navigating the challenge of proving the structural integrity of these printed tanks under orbital pressure.",
+      "The case highlights the ongoing tension between innovative 3D printing capabilities and rigorous safety standards in the space industry."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba umožňuje sloučit složité kované a svařované díly do jednoho kusu vesmírného hardwaru.",
+      "Ačkoliv konsolidace designu přináší značné výhody, vytváří zároveň velké překážky pro tradiční certifikační procesy v letectví a kosmonautice.",
+      "Společnost Northrop Grumman řeší výzvu, jak prokázat strukturální integritu těchto tištěných nádrží pod tlakem na oběžné dráze.",
+      "Tento případ zdůrazňuje přetrvávající napětí mezi inovativními možnostmi 3D tisku a přísnými bezpečnostními standardy v kosmickém průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Northrop Grumman",
+      "Aerospace",
+      "Additive Manufacturing",
+      "Certification",
+      "Space Exploration"
+    ]
+  },
+  {
+    "title": "NNSA představuje Aires Tide, své první letadlo navržené umělou inteligencí v rámci mise Genesis",
+    "summary": "A new flight test vehicle from the Department of Energy&#8217;s National Nuclear Security Administration (NNSA) shows what happens when AI, supercomputing, and 3D printing get folded into a single design pipeline. Called Aires Tide, the proof-of-concept aircraft was engineered to test whether national security hardware can move from blueprint to airborne test article on a&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/KCNMO_printing_display_model__9HI0831-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-01T09:07:36+00:00",
+    "url": "https://3dprintingindustry.com/news/nnsa-unveils-aires-tide-its-first-ai-designed-flight-vehicle-under-the-genesis-mission-252727/?utm_source=rss&utm_medium=rss&utm_campaign=nnsa-unveils-aires-tide-its-first-ai-designed-flight-vehicle-under-the-genesis-mission",
+    "forced_tags": [],
+    "title_en": "NNSA Unveils Aires Tide, Its First AI-Designed Flight Vehicle Under the Genesis Mission",
+    "summary_bullets_en": [
+      "The NNSA introduced Aires Tide, a proof-of-concept flight vehicle developed through the Genesis mission.",
+      "The project integrates AI, supercomputing, and 3D printing to accelerate the design and manufacturing pipeline.",
+      "The initiative aims to drastically reduce the time required to move national security hardware from initial blueprints to flight testing.",
+      "Aires Tide serves as a benchmark for modernizing defense engineering processes using advanced digital and additive technologies."
+    ],
+    "summary_bullets_cs": [
+      "NNSA představila Aires Tide, koncepční letový prostředek vyvinutý v rámci mise Genesis.",
+      "Projekt integruje umělou inteligenci, superpočítače a 3D tisk pro zrychlení vývojového a výrobního procesu.",
+      "Cílem iniciativy je výrazně zkrátit dobu potřebnou k přechodu od návrhu hardwaru pro národní bezpečnost k jeho letovým zkouškám.",
+      "Aires Tide slouží jako měřítko pro modernizaci inženýrských procesů v obraně pomocí pokročilých digitálních a aditivních technologií."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "NNSA",
+      "Aires Tide",
+      "Genesis Mission",
+      "AI",
+      "3D Printing",
+      "Aerospace"
+    ]
+  },
+  {
+    "title": "DLR vyvíjí hliníkovou slitinu pro LPBF tisk z kovového odpadu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/958821752/0/fabbaloo/default~DLR-Develops-LPBF-Aluminum-Alloy-From-Scraps\" rel=\"nofollow\" title=\"DLR Develops LPBF Aluminum Alloy From Scraps\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/sem-micrograph-scrap-cover-300x140.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers at DLR say they have identified a LBPF aluminum alloy made from scrap that prints crack free with low porosity.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958821752/0/fabbaloo/default~DLR-Develops-LPBF-Aluminum-Alloy-From-Scraps\" rel=\"nofollow\">DLR Develops LPBF Aluminum Alloy From Scraps</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/sem-micrograph-scrap-cover-300x140.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-01T08:18:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/958821752/0/fabbaloo/default~DLR-Develops-LPBF-Aluminum-Alloy-From-Scraps",
+    "forced_tags": [],
+    "title_en": "DLR Develops LPBF Aluminum Alloy From Scraps",
+    "summary_bullets_en": [
+      "Researchers at the German Aerospace Center (DLR) have successfully created a new aluminum alloy using recycled scrap metal.",
+      "The material is specifically designed for Laser Powder Bed Fusion (LPBF) 3D printing technology.",
+      "Tests confirm that the alloy produces high-quality prints that are crack-free and exhibit low porosity."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z německého střediska pro letectví a kosmonautiku (DLR) úspěšně vytvořili novou hliníkovou slitinu z recyklovaného kovového šrotu.",
+      "Materiál je speciálně navržen pro technologii 3D tisku pomocí laserového tavení v práškovém loži (LPBF).",
+      "Testy potvrzují, že slitina umožňuje tisk vysoce kvalitních dílů bez trhlin a s nízkou porézností."
+    ],
+    "tags": [
+      "Material",
+      "LPBF",
+      "DLR",
+      "Aluminum",
+      "Sustainability",
+      "Metal 3D Printing"
+    ]
+  },
+  {
+    "title": "AM Solutions cílí na menší 3D tiskové laboratoře s novým zařízením S1 Basic",
+    "summary": "AM Solutions is releasing the S1 Basic, a small automated depowdering tool. The Rösler subsidiary is looking to make its products more accessible. The unit could be used in low-volume...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/IMG_S1-Basic_2-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-01T07:00:44+00:00",
+    "url": "https://3dprint.com/327699/am-solutions-targets-smaller-am-labs-with-new-s1-basic/",
+    "forced_tags": [],
+    "title_en": "AM Solutions Targets Smaller AM Labs with New S1 Basic",
+    "summary_bullets_en": [
+      "AM Solutions, a subsidiary of Rösler, has launched the S1 Basic, a compact automated depowdering system.",
+      "The new unit is designed to make professional post-processing technology more accessible to smaller labs.",
+      "It is specifically optimized for low-volume production environments.",
+      "The release aims to expand the company's market reach by offering a more affordable entry-level solution."
+    ],
+    "summary_bullets_cs": [
+      "Společnost AM Solutions, dceřiná firma Rösler, uvádí na trh S1 Basic, kompaktní automatizované zařízení pro odstraňování prášku.",
+      "Cílem novinky je zpřístupnit profesionální technologie následného zpracování menším laboratořím.",
+      "Jednotka je navržena pro efektivní využití v provozech s nízkým objemem výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Post-processing",
+      "AM Solutions",
+      "Rösler",
+      "Depowdering"
+    ]
+  },
+  {
     "title": "Systém HeyGears G1X kombinuje plnobarevný 3D tisk a UV tisk",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/958795712/0/fabbaloo/default~The-HeyGears-GX-FullD-System-CombinesFullColor-D-Printing-and-UV-Printing\" rel=\"nofollow\" title=\"The HeyGears G1X Full-3D System CombinesFull-Color 3D Printing and UV Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/heygears-full-color-g1x-cover-300x170.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>HeyGears announced a very different device that offers true, full-colour 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/958795712/0/fabbaloo/default~The-HeyGears-GX-FullD-System-CombinesFullColor-D-Printing-and-UV-Printing\" rel=\"nofollow\">The HeyGears G1X Full-3D System CombinesFull-Color 3D Printing and UV Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/heygears-full-color-g1x-cover-300x170.jpeg",
