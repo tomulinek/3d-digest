@@ -1,5 +1,613 @@
 [
   {
+    "title": "AMAA 2026: SMS z loděnice na výrobní linku – role technologie WAAM",
+    "summary": "Interested in the future of manufacturing? Don&#8217;t miss Additive Manufacturing Advantage: Aerospace, Space and Defense 2026, taking place on July 9th. Mark your calendar and secure your spot at the event redefining what&#8217;s possible in aerospace, space, and defense manufacturing. Lincoln Electric, 130 years old and generating over $4 billion in 2024 revenue, entered the&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/AMAA-2026-AM-for-Aerospace-Defense-and-Space-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-07-08T17:48:32+00:00",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-sms-from-shipyard-to-production-floor-waams-role-252890/?utm_source=rss&utm_medium=rss&utm_campaign=amaa-2026-sms-from-shipyard-to-production-floor-waams-role",
+    "forced_tags": [],
+    "title_en": "AMAA 2026: SMS From Shipyard to Production Floor WAAM’s Role",
+    "summary_bullets_en": [
+      "The Additive Manufacturing Advantage: Aerospace, Space and Defense 2026 conference is scheduled for July 9th.",
+      "The event focuses on cutting-edge manufacturing innovations within the aerospace and defense sectors.",
+      "Lincoln Electric, a major industry player with $4 billion in revenue, is highlighting its transition into advanced additive manufacturing technologies like WAAM."
+    ],
+    "summary_bullets_cs": [
+      "Konference Additive Manufacturing Advantage: Aerospace, Space and Defense 2026 se uskuteční 9. července.",
+      "Akce se zaměřuje na inovace ve výrobě pro letecký, kosmický a obranný průmysl.",
+      "Společnost Lincoln Electric, lídr s obratem přes 4 miliardy dolarů, představuje svůj posun k pokročilým technologiím aditivní výroby, konkrétně WAAM."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Lincoln Electric",
+      "WAAM",
+      "Aerospace",
+      "Defense"
+    ]
+  },
+  {
+    "title": "MX3D tvrdí, že závod Framatome představuje „novou éru“ pro jaderný WAAM",
+    "summary": "French nuclear energy business Framatome has inaugurated a 6,000 m2 additive manufacturing center in Romans-sur-Isère, France.&#160; The facility, which opened on July 2, produces metal components for the primary circuits of French nuclear reactors using wire arc additive manufacturing (WAAM) systems supplied by Amsterdam-based MX3D.&#160; Named the Amiral Bernard-Antoine Morio de l’Isle Additive Manufacturing Center,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/MX3D-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-07-08T17:47:12+00:00",
+    "url": "https://3dprintingindustry.com/news/mx3d-says-framatome-facility-marks-new-era-for-nuclear-waam-252919/?utm_source=rss&utm_medium=rss&utm_campaign=mx3d-says-framatome-facility-marks-new-era-for-nuclear-waam",
+    "forced_tags": [],
+    "title_en": "MX3D Says Framatome Facility Marks ‘New Era’ for Nuclear WAAM",
+    "summary_bullets_en": [
+      "Framatome has opened a new 6,000 m2 additive manufacturing center in France dedicated to nuclear energy components.",
+      "The facility utilizes advanced WAAM technology provided by the Dutch company MX3D.",
+      "The center focuses on producing critical metal parts for the primary circuits of French nuclear reactors.",
+      "The project represents a significant shift toward industrial-scale 3D printing in the nuclear sector."
+    ],
+    "summary_bullets_cs": [
+      "Francouzská společnost Framatome otevřela ve městě Romans-sur-Isère nové centrum pro aditivní výrobu o rozloze 6 000 m².",
+      "Zařízení využívá systémy pro navařování kovů elektrickým obloukem (WAAM) od amsterdamské firmy MX3D.",
+      "Výroba se zaměřuje na kovové komponenty pro primární okruhy francouzských jaderných reaktorů.",
+      "Centrum nese název „Amiral Bernard-Antoine Morio de l’Isle Additive Manufacturing Center“."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "MX3D",
+      "Framatome",
+      "WAAM",
+      "Nuclear Energy",
+      "Metal Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "CurifyLabs získává 14 milionů dolarů na rozšíření personalizované medicíny do dalších lékáren",
+    "summary": "Helsinki-based health technology firm CurifyLabs has closed a $14 million Series A round to grow its automated system for producing personalized medications. The round was co-led by Sandwater and HealthCap, with Tesi and existing backers including Lifeline Ventures joining, alongside participation from U.S. customers and employees. The company, which also operates out of Jacksonville, Florida,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/1783291084414-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-08T17:45:40+00:00",
+    "url": "https://3dprintingindustry.com/news/curifylabs-secures-14m-to-bring-personalized-medicine-to-more-pharmacies-252934/?utm_source=rss&utm_medium=rss&utm_campaign=curifylabs-secures-14m-to-bring-personalized-medicine-to-more-pharmacies",
+    "forced_tags": [],
+    "title_en": "CurifyLabs Secures $14M to Bring Personalized Medicine to More Pharmacies",
+    "summary_bullets_en": [
+      "Helsinki-based CurifyLabs raised $14 million in a Series A funding round.",
+      "The capital will be used to scale their automated 3D printing technology for personalized medications.",
+      "The round was co-led by Sandwater and HealthCap, with support from existing investors and U.S. partners.",
+      "The company aims to expand its footprint in pharmacies to improve patient-specific drug manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Finská technologická společnost CurifyLabs uzavřela investiční kolo série A v hodnotě 14 milionů dolarů.",
+      "Finanční prostředky budou využity k rozvoji automatizovaného systému pro 3D tisk personalizovaných léků.",
+      "Investiční kolo vedly společnosti Sandwater a HealthCap za účasti stávajících investorů a amerických partnerů.",
+      "Cílem firmy je zpřístupnit výrobu léků na míru přímo v lékárnách."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "CurifyLabs",
+      "3D Printing",
+      "Personalized Medicine",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "title": "Společnost AMufacture označila veřejné zakázky za hlavní výzvu v oblasti obrany",
+    "summary": "Portsmouth-based 3D print contract manufacturer AMufacture has called on the government to overhaul defense procurement, warning that slow, traditional purchasing processes could prevent UK manufacturers from delivering on the Defence Investment Plan’s (DIP) objectives. The response puts a specific industrial lens on a policy document that commits £5 billion to autonomous systems but leaves open&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/A-3D-printed-drones-with-Bambu-Lab-3D-printer-in-the-background.-Photo-via-the-British-Army-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-08T17:44:43+00:00",
+    "url": "https://3dprintingindustry.com/news/amufacture-identifies-procurement-as-a-major-defense-challenge-252927/?utm_source=rss&utm_medium=rss&utm_campaign=amufacture-identifies-procurement-as-a-major-defense-challenge",
+    "forced_tags": [],
+    "title_en": "AMufacture Identifies Procurement as a Major Defense Challenge",
+    "summary_bullets_en": [
+      "AMufacture warns that outdated procurement processes hinder the UK's ability to meet Defence Investment Plan goals.",
+      "The company argues that traditional purchasing methods are too slow to support modern autonomous systems.",
+      "There is a call for government reform to better integrate agile 3D printing capabilities into the defense supply chain."
+    ],
+    "summary_bullets_cs": [
+      "Společnost AMufacture se sídlem v Portsmouthu vyzvala vládu k reformě obranných zakázek.",
+      "Varuje, že pomalé a tradiční nákupní procesy mohou bránit britským výrobcům v naplnění cílů Plánu investic do obrany (DIP).",
+      "Reakce firmy zdůrazňuje potřebu modernizace procesů pro efektivní dodávky autonomních systémů v hodnotě 5 miliard liber."
+    ],
+    "tags": [
+      "Services",
+      "Defense",
+      "3D Printing",
+      "Supply Chain",
+      "UK Government",
+      "AMufacture"
+    ]
+  },
+  {
+    "title": "BIQU představuje Panda Sense Pro, ale funguje to vůbec?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/959776190/0/fabbaloo/default~BIQU-Introduces-Panda-Sense-Pro-But-Does-It-Really-Work\" rel=\"nofollow\" title=\"BIQU Introduces Panda Sense Pro, But Does It Really Work? \"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/panda-sense-pro-cover-300x194.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>BIQU has released another oddball 3D print accessory: the Panda Sense Pro.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/959776190/0/fabbaloo/default~BIQU-Introduces-Panda-Sense-Pro-But-Does-It-Really-Work\" rel=\"nofollow\">BIQU Introduces Panda Sense Pro, But Does It Really Work? </a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/panda-sense-pro-cover-300x194.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-08T16:45:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/959776190/0/fabbaloo/default~BIQU-Introduces-Panda-Sense-Pro-But-Does-It-Really-Work",
+    "forced_tags": [],
+    "title_en": "BIQU Introduces Panda Sense Pro, But Does It Really Work?",
+    "summary_bullets_en": [
+      "BIQU has launched a new 3D printing accessory called the Panda Sense Pro.",
+      "The device is described as an unconventional addition to the company's product lineup.",
+      "Industry experts are questioning the actual effectiveness and utility of this new hardware."
+    ],
+    "summary_bullets_cs": [
+      "Společnost BIQU uvedla na trh nové příslušenství pro 3D tisk s názvem Panda Sense Pro.",
+      "Zařízení je označováno za další netradiční doplněk v produktovém portfoliu této firmy.",
+      "Odborníci z oboru vyjadřují pochybnosti nad skutečnou efektivitou a přínosem tohoto nového hardwaru."
+    ],
+    "tags": [
+      "Hardware",
+      "BIQU",
+      "3D Printing Accessories",
+      "Panda Sense Pro"
+    ]
+  },
+  {
+    "title": "Pět 3D tištěných útesových habitatů bylo instalováno u pobřeží Itálie",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/959762630/0/fabbaloo/default~Five-DPrinted-Reef-Habitats-Deployed-Off-Italy%e2%80%99s-Coast\" rel=\"nofollow\" title=\"Five 3D-Printed Reef Habitats Deployed Off Italy’s Coast\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/dini-reef-install-300x208.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Several 3D-printed structures now make up an artificial reef in Italy.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/959762630/0/fabbaloo/default~Five-DPrinted-Reef-Habitats-Deployed-Off-Italy%e2%80%99s-Coast\" rel=\"nofollow\">Five 3D-Printed Reef Habitats Deployed Off Italy’s Coast</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/dini-reef-install-300x208.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-07-08T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/959762630/0/fabbaloo/default~Five-DPrinted-Reef-Habitats-Deployed-Off-Italy%e2%80%99s-Coast",
+    "forced_tags": [],
+    "title_en": "Five 3D-Printed Reef Habitats Deployed Off Italy’s Coast",
+    "summary_bullets_en": [
+      "Five 3D-printed structures have been successfully installed to form an artificial reef off the coast of Italy.",
+      "These structures are designed to support marine biodiversity and restore local underwater ecosystems.",
+      "The project highlights the growing application of 3D printing technology in environmental conservation and marine engineering."
+    ],
+    "summary_bullets_cs": [
+      "U italského pobřeží bylo úspěšně instalováno pět 3D tištěných struktur, které tvoří umělý útes.",
+      "Tyto struktury jsou navrženy tak, aby podporovaly mořskou biodiverzitu a pomáhaly obnovovat místní podmořské ekosystémy.",
+      "Projekt zdůrazňuje rostoucí využití technologie 3D tisku v oblasti ochrany životního prostředí a námořního inženýrství."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Printing",
+      "Marine Conservation",
+      "Artificial Reefs",
+      "Sustainability",
+      "Italy"
+    ]
+  },
+  {
+    "title": "Patent společnosti FlashForge popisuje metodu pro hladší dokování tiskové hlavy",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/959750771/0/fabbaloo/default~FlashForge-Patent-Describes-a-Method-for-Smoother-Toolhead-Docking\" rel=\"nofollow\" title=\"FlashForge Patent Describes a Method for Smoother Toolhead Docking\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/flashforge-swapping-patent-cover-300x178.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>FlashForge has patented a new way to make detachable FFF toolheads dock more reliably.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/959750771/0/fabbaloo/default~FlashForge-Patent-Describes-a-Method-for-Smoother-Toolhead-Docking\" rel=\"nofollow\">FlashForge Patent Describes a Method for Smoother Toolhead Docking</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/flashforge-swapping-patent-cover-300x178.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-08T13:52:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/959750771/0/fabbaloo/default~FlashForge-Patent-Describes-a-Method-for-Smoother-Toolhead-Docking",
+    "forced_tags": [],
+    "title_en": "FlashForge Patent Describes a Method for Smoother Toolhead Docking",
+    "summary_bullets_en": [
+      "FlashForge has filed a patent for a new mechanism to improve the reliability of detachable FFF toolheads.",
+      "The technology focuses on optimizing the docking process to ensure smoother and more precise toolhead swaps.",
+      "This innovation aims to reduce mechanical errors and wear during automated tool changing in 3D printers."
+    ],
+    "summary_bullets_cs": [
+      "Společnost FlashForge si nechala patentovat nový mechanismus pro zvýšení spolehlivosti odnímatelných FFF tiskových hlav.",
+      "Technologie se zaměřuje na optimalizaci procesu dokování, aby bylo zajištěno hladší a přesnější střídání nástrojů.",
+      "Tato inovace má za cíl snížit mechanické chyby a opotřebení během automatické výměny tiskových hlav u 3D tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "FlashForge",
+      "FFF",
+      "Toolhead",
+      "Patent",
+      "Automation"
+    ]
+  },
+  {
+    "title": "Akce Addidex Connect přilákala téměř 200 lidí do 3D Makers Zone v Haarlemu",
+    "summary": "Amsterdam-based Addidex is focused on robotic large-format additive manufacturing, and recently held a two-day symposium that was only about robots printing things. Addidex Connect brought 170 additive folks to the...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/Addide-366-1024x683.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-08T13:30:29+00:00",
+    "url": "https://3dprint.com/328337/addidex-connect-draws-170-to-haarlem/",
+    "forced_tags": [],
+    "title_en": "Addidex Connect Event Draws Nearly 200 to 3D Makers Zone in Haarlem",
+    "summary_bullets_en": [
+      "Addidex hosted a two-day symposium in Haarlem focused exclusively on robotic large-format additive manufacturing.",
+      "The event, named Addidex Connect, attracted 170 industry professionals to the 3D Makers Zone.",
+      "The symposium highlighted the growing integration of robotics in industrial 3D printing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Addidex se sídlem v Amsterdamu uspořádala dvoudenní sympozium zaměřené výhradně na robotický velkoformátový 3D tisk.",
+      "Akce s názvem Addidex Connect přilákala 170 odborníků z oboru aditivní výroby do prostor 3D Makers Zone.",
+      "Sympozium zdůraznilo rostoucí význam integrace robotiky do procesů průmyslového 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Addidex",
+      "Robotic Additive Manufacturing",
+      "Large-format 3D Printing"
+    ]
+  },
+  {
+    "title": "Ekonomika dronů potřebovala škálovatelnou výrobní základnu. ADDMAN ji vybudoval",
+    "summary": "When ADDMAN closed its acquisition of Forecast 3D in January 2026, the headlines focused on fleet size and Southern California footprint. Six months later, those metrics feel almost beside the...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/1728322484897.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-08T13:00:49+00:00",
+    "url": "https://3dprint.com/328358/the-drone-economy-needed-a-scalable-manufacturing-backbone-addman-built-one/",
+    "forced_tags": [],
+    "title_en": "The Drone Economy Needed a Scalable Manufacturing Backbone. ADDMAN Built One",
+    "summary_bullets_en": [
+      "ADDMAN's acquisition of Forecast 3D has evolved beyond simple fleet expansion into a strategic move to support the drone industry.",
+      "The company is positioning itself as a scalable manufacturing backbone capable of meeting the high-volume demands of the drone sector.",
+      "Six months post-acquisition, the focus has shifted from physical footprint to integrated, end-to-end production capabilities.",
+      "This consolidation aims to solve the supply chain bottlenecks currently hindering the rapid scaling of drone manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Akvizice společnosti Forecast 3D firmou ADDMAN se vyvinula z pouhého rozšíření flotily ve strategický krok na podporu odvětví dronů.",
+      "Společnost se profiluje jako škálovatelná výrobní základna schopná uspokojit vysoké objemové nároky sektoru bezpilotních letounů.",
+      "Šest měsíců po akvizici se pozornost přesunula od fyzické kapacity k integrovaným výrobním procesům typu „end-to-end“.",
+      "Tato konsolidace má za cíl vyřešit úzká hrdla v dodavatelském řetězci, která v současnosti brzdí rychlé rozšiřování výroby dronů."
+    ],
+    "tags": [
+      "Services",
+      "Hardware",
+      "ADDMAN",
+      "Forecast 3D",
+      "Drone Manufacturing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Phillips Corporation přejmenovala svou divizi Additive Hybrid na Phillips Advanced Manufacturing",
+    "summary": "Phillips Corporation announced that it will rebrand its Additive Hybrid division to become Phillips Advanced Manufacturing. The focus will now be on advanced manufacturing in the broadest sense. Brian Kristaponis...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/1000ss-Haas-Phillips-Hybrid-1024x910.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-08T12:30:04+00:00",
+    "url": "https://3dprint.com/328330/phillips-corporation-rebrands-hybrid-now-called-phillips-advanced-manufacturing/",
+    "forced_tags": [],
+    "title_en": "Phillips Corporation Rebrands Additive Hybrid Division, Now Called Phillips Advanced Manufacturing",
+    "summary_bullets_en": [
+      "Phillips Corporation is rebranding its Additive Hybrid division to Phillips Advanced Manufacturing.",
+      "The company is shifting its strategic focus toward a broader scope of advanced manufacturing solutions.",
+      "Brian Kristaponis will lead the newly rebranded division to drive future growth and innovation."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Phillips Corporation oznámila rebranding své divize Additive Hybrid na Phillips Advanced Manufacturing.",
+      "Hlavním zaměřením se nyní stává pokročilá výroba v nejširším možném smyslu.",
+      "Brian Kristaponis povede nově pojmenovanou divizi s cílem rozšířit portfolio služeb v oblasti moderních výrobních technologií."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Phillips Corporation",
+      "Phillips Advanced Manufacturing",
+      "Additive Manufacturing",
+      "Advanced Manufacturing"
+    ]
+  },
+  {
+    "title": "Joel Telling vytvořil software pro svou vlastní tiskovou farmu. Poté ho zdarma poskytl veřejnosti.",
+    "summary": "Open-source print farm software helps amatour makers manage multi-brand 3D printers, automate workflows, and scale production efficiently",
+    "image": "https://substackcdn.com/image/fetch/$s_!-Olg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9dcfa79-bd1a-44c8-8b56-eff4e4f77921_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-07-08T12:03:17+00:00",
+    "url": "https://www.3dprintingjournal.com/p/joel-telling-built-software-for-his",
+    "forced_tags": [],
+    "title_en": "Joel Telling built software for his own print farm. Then he gave it away for free.",
+    "summary_bullets_en": [
+      "3D printing influencer Joel Telling developed custom software to streamline his personal print farm operations.",
+      "The tool is designed to manage diverse printer brands within a single, unified workflow.",
+      "By releasing the software as open-source, Telling aims to help hobbyists and small businesses scale their production efficiently.",
+      "The platform focuses on automation and simplifying the complexities of managing multiple 3D printers simultaneously."
+    ],
+    "summary_bullets_cs": [
+      "Open-source software pro tiskové farmy pomáhá amatérským tvůrcům spravovat 3D tiskárny různých značek.",
+      "Nástroj umožňuje automatizaci pracovních postupů a efektivní škálování produkce.",
+      "Software je navržen tak, aby zjednodušil správu komplexních tiskových operací pro širokou komunitu uživatelů."
+    ],
+    "tags": [
+      "Software",
+      "3D Printing",
+      "Print Farm",
+      "Open Source",
+      "Automation",
+      "Joel Telling"
+    ]
+  },
+  {
+    "title": "Průmysl dronů ukazuje, kde 3D tisk přináší skutečnou hodnotu, uvádí výzkumná zpráva o AM",
+    "summary": "The rapid rise of drones is creating one of the biggest opportunities for additive manufacturing (AM). Whether they&#8217;re used on battlefields, inspecting bridges or crops, or delivering supplies, drones need...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/chart.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-08T12:00:30+00:00",
+    "url": "https://3dprint.com/328321/the-drone-industry-is-showing-where-3d-printing-delivers-real-value-am-research-report-finds/",
+    "forced_tags": [],
+    "title_en": "The Drone Industry is Showing Where 3D Printing Delivers Real Value, AM Research Report Finds",
+    "summary_bullets_en": [
+      "The drone sector is emerging as a primary growth driver for additive manufacturing due to the need for rapid innovation.",
+      "3D printing enables the production of lightweight, complex, and customized drone components that are difficult to manufacture traditionally.",
+      "The technology is essential for various drone applications, ranging from military operations and infrastructure inspection to logistics and agriculture.",
+      "Additive manufacturing provides significant value by accelerating prototyping cycles and optimizing supply chains for drone manufacturers."
+    ],
+    "summary_bullets_cs": [
+      "Rychlý rozmach dronů vytváří jednu z největších příležitostí pro aditivní výrobu (AM).",
+      "Ať už jsou drony využívány na bojištích, při inspekcích mostů či plodin, nebo při doručování zásob, vyžadují specifické komponenty.",
+      "3D tisk umožňuje výrobu lehkých a komplexních dílů, které jsou pro tradiční metody výroby příliš náročné.",
+      "Aditivní výroba pomáhá výrobcům dronů zrychlit vývoj a optimalizovat dodavatelské řetězce."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "Drones",
+      "Prototyping",
+      "Supply Chain",
+      "Aerospace"
+    ]
+  },
+  {
+    "title": "Moment jako z Jurského parku pro 3D tisk?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/959727149/0/fabbaloo/default~A-Jurassic-Park-Moment-for-D-Printing\" rel=\"nofollow\" title=\"A Jurassic Park Moment for 3D Printing?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/Filename-_199-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Andressa Bonafe show how a successful 3D printed incubation platform for bird embryos could mark a “Jurassic Park moment” for additive manufacturing, opening new possibilities in both wildlife restoration and life sciences.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/959727149/0/fabbaloo/default~A-Jurassic-Park-Moment-for-D-Printing\" rel=\"nofollow\">A Jurassic Park Moment for 3D Printing?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/Filename-_199-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-08T11:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/959727149/0/fabbaloo/default~A-Jurassic-Park-Moment-for-D-Printing",
+    "forced_tags": [],
+    "title_en": "A Jurassic Park Moment for 3D Printing?",
+    "summary_bullets_en": [
+      "Charles R. Goulding and Andressa Bonafe explore a breakthrough 3D printed incubation platform for bird embryos.",
+      "This innovation demonstrates how additive manufacturing can be applied to complex biological life support systems.",
+      "The technology holds significant potential for wildlife conservation efforts and advancements in life sciences.",
+      "The authors draw a parallel to 'Jurassic Park,' highlighting the transformative power of 3D printing in biological research."
+    ],
+    "summary_bullets_cs": [
+      "Charles R. Goulding a Andressa Bonafe představují průlomovou 3D tištěnou inkubační platformu pro ptačí embrya.",
+      "Tato inovace ukazuje, jak lze aditivní výrobu využít pro komplexní systémy podpory života v biologii.",
+      "Technologie nabízí významný potenciál pro záchranu ohrožených druhů a pokroky ve vědách o živé přírodě.",
+      "Autoři přirovnávají tento úspěch k „Jurskému parku“ a zdůrazňují transformační sílu 3D tisku v biologickém výzkumu."
+    ],
+    "tags": [
+      "Hardware",
+      "Life Sciences",
+      "Bioprinting",
+      "Wildlife Conservation",
+      "Additive Manufacturing",
+      "Research & Development"
+    ]
+  },
+  {
+    "title": "Revopoint Trackit SR: Bezdrátové 3D skenování bez nutnosti markerů pro průmyslovou metrologii",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/revopoint-trackit-sr-marker-free-wireless-3d-scanning-built-for-industrial-metrology/\" target=\"_blank\">Revopoint Trackit SR: Marker-Free, Wireless 3D Scanning Built for Industrial Metrology</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 8</span></div><div><img alt=\"\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/667-×-720-500x500.png\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/667-×-720-500x500.png",
+    "source": "3DPrinting.com",
+    "published": "2026-07-08T10:31:22+00:00",
+    "url": "https://3dprinting.com/news/revopoint-trackit-sr-marker-free-wireless-3d-scanning-built-for-industrial-metrology/",
+    "forced_tags": [],
+    "title_en": "Revopoint Trackit SR: Marker-Free, Wireless 3D Scanning Built for Industrial Metrology",
+    "summary_bullets_en": [
+      "Revopoint introduces the Trackit SR, a professional 3D scanner designed specifically for industrial metrology applications.",
+      "The device features marker-free scanning technology, significantly streamlining the workflow by eliminating the need for manual reference points.",
+      "It offers a wireless, portable design that enhances flexibility and ease of use in complex industrial environments.",
+      "The scanner is engineered to deliver high-precision data, catering to quality control and reverse engineering requirements."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Revopoint představuje Trackit SR, profesionální 3D skener navržený speciálně pro potřeby průmyslové metrologie.",
+      "Zařízení využívá technologii skenování bez markerů, což výrazně zefektivňuje pracovní proces díky eliminaci nutnosti ručního umísťování referenčních bodů.",
+      "Nabízí bezdrátový a přenosný design, který zvyšuje flexibilitu a usnadňuje manipulaci v náročných průmyslových prostředích.",
+      "Skener je zkonstruován tak, aby poskytoval vysoce přesná data, čímž splňuje náročné požadavky na kontrolu kvality a reverzní inženýrství."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Scanning",
+      "Metrology",
+      "Revopoint",
+      "Industrial Design"
+    ]
+  },
+  {
+    "title": "Texas A&M předvádí 3D nanoprinting kovů s využitím pikojoulů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/959700353/0/fabbaloo/default~Texas-AM-Demonstrates-Picojoule-D-Metal-Nanoprinting\" rel=\"nofollow\" title=\"Texas A&#038;M Demonstrates Picojoule 3D Metal Nanoprinting\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/nanoprintng-metals-cover-300x158.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Texas A&#038;M researchers unveiled a picojoule, maskless method for 3D printing pure metal nanostructures with sub-250 nm resolution.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/959700353/0/fabbaloo/default~Texas-AM-Demonstrates-Picojoule-D-Metal-Nanoprinting\" rel=\"nofollow\">Texas A&#038;M Demonstrates Picojoule 3D Metal Nanoprinting</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/nanoprintng-metals-cover-300x158.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-08T08:10:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/959700353/0/fabbaloo/default~Texas-AM-Demonstrates-Picojoule-D-Metal-Nanoprinting",
+    "forced_tags": [],
+    "title_en": "Texas A&M Demonstrates Picojoule 3D Metal Nanoprinting",
+    "summary_bullets_en": [
+      "Researchers at Texas A&M University have developed a new maskless 3D printing technique for pure metal nanostructures.",
+      "The process achieves high-precision results with a resolution of less than 250 nanometers.",
+      "The method is notable for its extreme energy efficiency, operating at the picojoule scale."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Texas A&M University představili novou metodu 3D tisku čistých kovových nanostruktur bez použití masek.",
+      "Proces dosahuje vysoké přesnosti s rozlišením pod 250 nanometrů.",
+      "Metoda vyniká extrémní energetickou úsporností, neboť pracuje na úrovni pikojoulů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Nanotechnology",
+      "3D Printing",
+      "Metal Additive Manufacturing",
+      "Texas A&M University"
+    ]
+  },
+  {
+    "title": "Výzkumníci vytiskli na 3D tiskárně hybridní bateriovou elektrodu se sedminásobným nárůstem kapacity",
+    "summary": "Researchers at the University of California and National Tsing Hua University in Taiwan have reported two 3D printing-enabled advances in energy storage: a zinc-ion hybrid battery that stores more than seven times the charge of comparable devices, and a low-cost, sealed test cell that delivers markedly more reliable lab measurements than the open-beaker setups most&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/Nano2_mid-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-08T07:13:17+00:00",
+    "url": "https://3dprintingindustry.com/news/researchers-3d-print-hybrid-battery-electrode-with-sevenfold-capacity-gain-252865/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-3d-print-hybrid-battery-electrode-with-sevenfold-capacity-gain",
+    "forced_tags": [],
+    "title_en": "Researchers 3D Print Hybrid Battery Electrode With Sevenfold Capacity Gain",
+    "summary_bullets_en": [
+      "Researchers from UC and National Tsing Hua University developed a 3D-printed zinc-ion hybrid battery.",
+      "The new electrode design achieves a sevenfold increase in energy storage capacity compared to existing devices.",
+      "The team also introduced a low-cost, sealed test cell that improves the reliability of laboratory energy storage measurements."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Kalifornské univerzity a Národní univerzity Čching-chua na Tchaj-wanu vyvinuli 3D tištěnou zinkovo-iontovou hybridní baterii.",
+      "Nový design elektrody dosahuje sedminásobného zvýšení kapacity úložiště energie ve srovnání s běžnými zařízeními.",
+      "Tým rovněž představil nízkonákladový uzavřený testovací článek, který zajišťuje výrazně spolehlivější laboratorní měření než dosavadní otevřené systémy."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Energy Storage",
+      "Zinc-ion Battery",
+      "Research & Development"
+    ]
+  },
+  {
+    "title": "AFIT a Oak Ridge využívají 3D tisk pro rychlejší a levnější detektory záření",
+    "summary": "A project funded by the Department of Energy&#8216;s NNSA DNN R&#38;D program and based at Oak Ridge National Laboratory (ORNL) has turned to additive manufacturing to produce pixelated plastic scintillator arrays, seeking to cut both the time and expense of fabricating these radiation-sensing components. The contribution from the Air Force Institute of Technology (AFIT), part&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/3D-printing-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-07-08T07:12:15+00:00",
+    "url": "https://3dprintingindustry.com/news/afit-and-oak-ridge-turn-to-3d-printing-for-faster-cheaper-radiation-detectors-252870/?utm_source=rss&utm_medium=rss&utm_campaign=afit-and-oak-ridge-turn-to-3d-printing-for-faster-cheaper-radiation-detectors",
+    "forced_tags": [],
+    "title_en": "AFIT and Oak Ridge Turn to 3D Printing for Faster, Cheaper Radiation Detectors",
+    "summary_bullets_en": [
+      "Researchers at ORNL and AFIT are using additive manufacturing to produce pixelated plastic scintillator arrays.",
+      "The project aims to significantly reduce the production time and costs associated with radiation-sensing components.",
+      "The initiative is supported by the Department of Energy’s NNSA DNN R&D program."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z ORNL a AFIT využívají aditivní výrobu k produkci pixelových plastových scintilačních polí.",
+      "Projekt se zaměřuje na výrazné snížení času a nákladů spojených s výrobou komponentů pro detekci záření.",
+      "Iniciativa je financována programem NNSA DNN R&D Ministerstva energetiky USA."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Additive Manufacturing",
+      "ORNL",
+      "AFIT",
+      "Radiation Detection",
+      "Scintillators"
+    ]
+  },
+  {
+    "title": "Pokročilá výroba VA navrhla adaptivní bowlingovou hůl pro veterány",
+    "summary": "A retired Air Force veteran and amputee Francine Goode has returned to the bowling lane with the help of a 3D printed tool built specifically for her by the Department of Veterans Affairs.&#160; The project began when a recreational therapist at the Perry Point VA Medical Center in Maryland spotted a shortfall in the adaptive&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/BowlingBallPushPic2_r2-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-07-08T07:11:35+00:00",
+    "url": "https://3dprintingindustry.com/news/va-advanced-manufacturing-designs-adaptive-bowling-stick-for-veterans-252873/?utm_source=rss&utm_medium=rss&utm_campaign=va-advanced-manufacturing-designs-adaptive-bowling-stick-for-veterans",
+    "forced_tags": [],
+    "title_en": "VA Advanced Manufacturing Designs Adaptive Bowling Stick for Veterans",
+    "summary_bullets_en": [
+      "Retired Air Force veteran Francine Goode regained her ability to bowl thanks to a custom 3D printed adaptive tool.",
+      "The device was developed by the Department of Veterans Affairs (VA) Advanced Manufacturing team.",
+      "A recreational therapist at the Perry Point VA Medical Center identified the need for specialized equipment to assist amputee patients.",
+      "This project highlights the impact of additive manufacturing in improving accessibility and quality of life for veterans."
+    ],
+    "summary_bullets_cs": [
+      "Vysloužilá veteránka letectva Francine Goode se vrátila k bowlingu díky speciální 3D tištěné pomůcce.",
+      "Zařízení vyvinul tým pokročilé výroby Ministerstva pro záležitosti veteránů (VA).",
+      "Projekt vznikl poté, co terapeut v lékařském centru Perry Point VA identifikoval potřebu adaptivního vybavení pro pacienty po amputaci.",
+      "Iniciativa ukazuje, jak 3D tisk pomáhá zlepšovat dostupnost sportovních aktivit a kvalitu života veteránů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Printing",
+      "Healthcare",
+      "Veterans Affairs",
+      "Adaptive Technology",
+      "Assistive Devices"
+    ]
+  },
+  {
+    "title": "Tlak normy Euro 7 pohání alianci mezi Fraunhofer ILT a Etxetar v oblasti laserového nanášení kovů",
+    "summary": "Germany&#8217;s Fraunhofer ILT and Spanish machine-tool builder Etxetar have signed a memorandum of understanding to broaden the industrial applications of laser metal deposition (LMD) and extreme high-speed laser material deposition (EHLA). The agreement pools the research institute&#8217;s process knowledge with the company&#8217;s industrial engineering capabilities, aiming at sectors where regulatory change, high-value repair, and the&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/pm-etxetar-bild-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-08T07:10:55+00:00",
+    "url": "https://3dprintingindustry.com/news/euro-7-pressure-drives-fraunhofer-ilt-etxetar-laser-deposition-alliance-252899/?utm_source=rss&utm_medium=rss&utm_campaign=euro-7-pressure-drives-fraunhofer-ilt-etxetar-laser-deposition-alliance",
+    "forced_tags": [],
+    "title_en": "Euro 7 Pressure Drives Fraunhofer ILT–Etxetar Laser Deposition Alliance",
+    "summary_bullets_en": [
+      "Fraunhofer ILT and Etxetar have signed a memorandum of understanding to advance LMD and EHLA laser technologies.",
+      "The partnership combines Fraunhofer's research expertise with Etxetar's industrial engineering capabilities.",
+      "The collaboration focuses on addressing regulatory pressures like Euro 7 and improving high-value component repair."
+    ],
+    "summary_bullets_cs": [
+      "Německý institut Fraunhofer ILT a španělský výrobce obráběcích strojů Etxetar podepsali memorandum o spolupráci v oblasti technologií LMD a EHLA.",
+      "Dohoda propojuje výzkumné know-how institutu s průmyslovými inženýrskými schopnostmi společnosti Etxetar.",
+      "Cílem partnerství je reagovat na regulatorní změny, jako je norma Euro 7, a zaměřit se na opravy vysoce hodnotných komponentů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Fraunhofer ILT",
+      "Etxetar",
+      "LMD",
+      "EHLA",
+      "Laser Metal Deposition"
+    ]
+  },
+  {
+    "title": "Pilotní projekt 3D tisku se zaměřuje na výrobu protetických lůžek v Gambii",
+    "summary": "British charity STAND has begun a pilot program in The Gambia that applies 3D scanning and printing to the production of prosthetic sockets, the custom-made part that joins an amputee&#8217;s residual limb to an artificial leg. The initiative, co-financed by the European Union, is intended to test whether digital fabrication can offer a quicker, simpler,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-12.33.28-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-07-08T07:10:17+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printing-pilot-targets-prosthetic-socket-production-in-the-gambia-252903/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printing-pilot-targets-prosthetic-socket-production-in-the-gambia",
+    "forced_tags": [],
+    "title_en": "3D Printing Pilot Targets Prosthetic Socket Production in The Gambia",
+    "summary_bullets_en": [
+      "British charity STAND launched a pilot program in The Gambia using 3D scanning and printing for prosthetic sockets.",
+      "The project aims to streamline the creation of custom-made parts connecting residual limbs to artificial legs.",
+      "Co-financed by the EU, the initiative seeks to determine if digital fabrication provides a faster and more accessible alternative to traditional methods."
+    ],
+    "summary_bullets_cs": [
+      "Britská charitativní organizace STAND zahájila v Gambii pilotní program využívající 3D skenování a tisk pro výrobu protetických lůžek.",
+      "Iniciativa se zaměřuje na zefektivnění výroby dílů, které spojují pahýl amputované končetiny s umělou nohou.",
+      "Projekt spolufinancovaný Evropskou unií má za cíl ověřit, zda digitální výroba nabízí rychlejší a jednodušší alternativu k tradičním postupům."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Printing",
+      "Prosthetics",
+      "Healthcare",
+      "STAND",
+      "The Gambia"
+    ]
+  },
+  {
+    "title": "Společnost Revopoint vydala bezdrátový 3D skener Trackit SR",
+    "summary": "3D scanner manufacturer Revopoint has launched the Trackit SR, a wireless, marker-free optical tracking 3D scanner with a stated single-frame accuracy of 0.02 mm. According to the company, the system is designed to address common constraints in traditional metrology workflows, including setup time, cabling, the application of marker points, and limited maneuverability around large or&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/Marker-free-Scans-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-07-08T07:09:39+00:00",
+    "url": "https://3dprintingindustry.com/news/revopoint-releases-trackit-sr-a-wireless-3d-scanner-252908/?utm_source=rss&utm_medium=rss&utm_campaign=revopoint-releases-trackit-sr-a-wireless-3d-scanner",
+    "forced_tags": [],
+    "title_en": "Revopoint Releases Trackit SR, a Wireless 3D Scanner",
+    "summary_bullets_en": [
+      "Revopoint has introduced the Trackit SR, a new wireless 3D scanner featuring marker-free optical tracking.",
+      "The device offers high precision with a single-frame accuracy of 0.02 mm.",
+      "It is designed to streamline metrology workflows by eliminating the need for cables and marker points.",
+      "The scanner aims to improve maneuverability and reduce setup time when scanning large or complex objects."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce 3D skenerů Revopoint uvedl na trh Trackit SR, bezdrátový optický 3D skener, který nevyžaduje značky (markery).",
+      "Systém nabízí vysokou přesnost jednoho snímku až 0,02 mm.",
+      "Zařízení je navrženo tak, aby zefektivnilo metrologické procesy odstraněním nutnosti kabeláže a aplikace referenčních bodů.",
+      "Skener řeší omezení tradičních metod a zlepšuje manévrovatelnost při práci s velkými objekty."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Scanning",
+      "Metrology",
+      "Revopoint",
+      "Trackit SR"
+    ]
+  },
+  {
     "title": "Výměník nástrojů INDX se blíží k širší distribuci",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/959584688/0/fabbaloo/default~INDX-Toolchanger-Nears-Wider-Shipping\" rel=\"nofollow\" title=\"INDX Toolchanger Nears Wider Shipping\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/indx-update-cover-300x206.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prusa Research says Bondtech’s INDX Founder’s Edition is now shipping, and the standard INDX Conversion Kit for the Prusa CORE One+ is next.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/959584688/0/fabbaloo/default~INDX-Toolchanger-Nears-Wider-Shipping\" rel=\"nofollow\">INDX Toolchanger Nears Wider Shipping</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/indx-update-cover-300x206.jpg",
