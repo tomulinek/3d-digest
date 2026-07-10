@@ -1,5 +1,439 @@
 [
   {
+    "title": "Uvnitř prvního propojeného chirurgického ekosystému ve Vietnamu a role, kterou v něm hraje 3D tisk",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/vinmec-3d-printing-surgery-network/\" target=\"_blank\">Inside Vietnam’s First Connected Surgical Ecosystem, and the Role 3D Printing Plays Within It</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 10</span></div><div><img alt=\"\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/3-1-2-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/3-1-2-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-07-10T05:31:19+00:00",
+    "url": "https://3dprinting.com/news/vinmec-3d-printing-surgery-network/",
+    "forced_tags": [],
+    "title_en": "Inside Vietnam’s First Connected Surgical Ecosystem, and the Role 3D Printing Plays Within It",
+    "summary_bullets_en": [
+      "Vinmec International Hospital has launched Vietnam's first connected surgical ecosystem, integrating advanced digital technologies into clinical practice.",
+      "3D printing serves as a cornerstone of this ecosystem, enabling the creation of patient-specific anatomical models and surgical guides.",
+      "The initiative aims to improve surgical precision, reduce operation times, and enhance overall patient outcomes through personalized medical solutions.",
+      "The project highlights the growing importance of additive manufacturing in modern healthcare infrastructure within Southeast Asia."
+    ],
+    "summary_bullets_cs": [
+      "Mezinárodní nemocnice Vinmec spustila první propojený chirurgický ekosystém ve Vietnamu, který integruje pokročilé digitální technologie do klinické praxe.",
+      "3D tisk tvoří základní kámen tohoto ekosystému a umožňuje tvorbu anatomických modelů na míru pacientům a chirurgických vodítek.",
+      "Cílem iniciativy je zlepšit chirurgickou přesnost, zkrátit dobu operací a zvýšit celkové výsledky léčby pacientů prostřednictvím personalizovaných medicínských řešení.",
+      "Projekt zdůrazňuje rostoucí význam aditivní výroby v moderní zdravotnické infrastruktuře v rámci jihovýchodní Asie."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Medical 3D Printing",
+      "Vinmec",
+      "Healthcare",
+      "Surgical Planning"
+    ]
+  },
+  {
+    "title": "Praktický test ohřívače Sunlu AMS Lite",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/959928662/0/fabbaloo/default~Hands-on-with-the-Sunlu-AMS-Lite-Heater\" rel=\"nofollow\" title=\"Hands on with the Sunlu AMS Lite Heater\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/00-sunlu-heater-lite-cover-1-300x169.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>We were able to test SUNLU’s new Bambu Lab A1 accessory: the AMS Lite Heater.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/959928662/0/fabbaloo/default~Hands-on-with-the-Sunlu-AMS-Lite-Heater\" rel=\"nofollow\">Hands on with the Sunlu AMS Lite Heater</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/00-sunlu-heater-lite-cover-1-300x169.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-07-09T16:10:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/959928662/0/fabbaloo/default~Hands-on-with-the-Sunlu-AMS-Lite-Heater",
+    "forced_tags": [],
+    "title_en": "Hands on with the Sunlu AMS Lite Heater",
+    "summary_bullets_en": [
+      "Sunlu has released a new heating accessory designed specifically for the Bambu Lab AMS Lite system.",
+      "The device aims to improve filament performance by providing active heating during the printing process.",
+      "The review provides a hands-on perspective on the installation and effectiveness of this new hardware add-on."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Sunlu uvedla na trh nové příslušenství určené speciálně pro systém Bambu Lab AMS Lite.",
+      "Zařízení má za cíl zlepšit vlastnosti filamentu tím, že zajišťuje jeho aktivní ohřev během tisku.",
+      "Článek přináší praktické zkušenosti s instalací a efektivitou tohoto nového hardwarového doplňku."
+    ],
+    "tags": [
+      "Hardware",
+      "Sunlu",
+      "Bambu Lab",
+      "3D Printing Accessories",
+      "Filament Management"
+    ]
+  },
+  {
+    "title": "Manuven spouští platformu pro kvalifikaci řízenou umělou inteligencí pro zefektivnění AM výroby",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/959922719/0/fabbaloo/default~Manuven-Launches-AIPowered-Qualification-Platform-to-Streamline-AM-Production\" rel=\"nofollow\" title=\"Manuven Launches AI-Powered Qualification Platform to Streamline AM Production\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/manuven-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Manuven is a new organization offering “qualification as a service”.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/959922719/0/fabbaloo/default~Manuven-Launches-AIPowered-Qualification-Platform-to-Streamline-AM-Production\" rel=\"nofollow\">Manuven Launches AI-Powered Qualification Platform to Streamline AM Production</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/manuven-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-09T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/959922719/0/fabbaloo/default~Manuven-Launches-AIPowered-Qualification-Platform-to-Streamline-AM-Production",
+    "forced_tags": [],
+    "title_en": "Manuven Launches AI-Powered Qualification Platform to Streamline AM Production",
+    "summary_bullets_en": [
+      "Manuven has introduced a new platform that provides 'qualification as a service' for additive manufacturing.",
+      "The solution leverages artificial intelligence to simplify and accelerate the qualification process for 3D printed parts.",
+      "The platform aims to streamline production workflows and improve efficiency in industrial AM environments."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Manuven představila novou platformu, která nabízí „kvalifikaci jako službu“ pro aditivní výrobu.",
+      "Řešení využívá umělou inteligenci k zjednodušení a urychlení procesu kvalifikace 3D tištěných dílů.",
+      "Cílem platformy je zefektivnit výrobní procesy a zvýšit produktivitu v průmyslovém 3D tisku."
+    ],
+    "tags": [
+      "Services",
+      "Software",
+      "Artificial Intelligence",
+      "Additive Manufacturing",
+      "Manuven",
+      "Quality Control"
+    ]
+  },
+  {
+    "title": "UAS Additive Strategies ukazuje, jak rychle se mění výroba dronů",
+    "summary": "The recent UAS Additive Strategies online event, hosted by 3DPrint.com and Additive Manufacturing Research (AM Research), brought together leaders from across the additive manufacturing (AM) and drone industries to discuss...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/UAS-2.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-09T13:30:43+00:00",
+    "url": "https://3dprint.com/328406/uas-additive-strategies-shows-how-fast-drone-manufacturing-is-changing/",
+    "forced_tags": [],
+    "title_en": "UAS Additive Strategies Shows How Fast Drone Manufacturing Is Changing",
+    "summary_bullets_en": [
+      "Industry leaders gathered at the UAS Additive Strategies event to explore the integration of 3D printing in drone production.",
+      "The discussions highlighted how additive manufacturing accelerates design cycles and enables complex, lightweight drone geometries.",
+      "Experts examined the shift from prototyping to end-use part production in the unmanned aerial systems sector.",
+      "The event emphasized the critical role of new materials and advanced hardware in meeting the evolving demands of the drone market."
+    ],
+    "summary_bullets_cs": [
+      "Lídři z oboru se sešli na akci UAS Additive Strategies, aby prozkoumali integraci 3D tisku do výroby dronů.",
+      "Diskuse zdůraznily, jak aditivní výroba zrychluje cykly návrhu a umožňuje vytvářet komplexní a lehké geometrie dronů.",
+      "Odborníci analyzovali přechod od prototypování k výrobě finálních dílů v sektoru bezpilotních systémů.",
+      "Akce vyzdvihla klíčovou roli nových materiálů a pokročilého hardwaru při plnění vyvíjejících se požadavků trhu s drony."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "3DPrint.com",
+      "Additive Manufacturing Research",
+      "UAS",
+      "Drones"
+    ]
+  },
+  {
+    "title": "Patent na „lezoucí“ 3D tiskárnu cílí na velké FFF výtisky",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/959908106/0/fabbaloo/default~Crawling-D-Printer-Patent-Targets-Large-FFF-Parts\" rel=\"nofollow\" title=\"Crawling 3D Printer Patent Targets Large FFF Parts\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/rolling-printer-patent-cover-300x231.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A Chinese patent application describes a crawling FFF 3D printer that can print beyond a fixed build volume.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/959908106/0/fabbaloo/default~Crawling-D-Printer-Patent-Targets-Large-FFF-Parts\" rel=\"nofollow\">Crawling 3D Printer Patent Targets Large FFF Parts</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/rolling-printer-patent-cover-300x231.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-09T13:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/959908106/0/fabbaloo/default~Crawling-D-Printer-Patent-Targets-Large-FFF-Parts",
+    "forced_tags": [],
+    "title_en": "Crawling 3D Printer Patent Targets Large FFF Parts",
+    "summary_bullets_en": [
+      "A new Chinese patent introduces a crawling FFF 3D printer design.",
+      "The device is capable of moving across a surface to print objects larger than its own physical build volume.",
+      "This technology aims to overcome the size limitations inherent in traditional stationary 3D printers."
+    ],
+    "summary_bullets_cs": [
+      "Čínská patentová přihláška popisuje koncept 3D tiskárny typu FFF, která se dokáže pohybovat po povrchu.",
+      "Tento stroj umožňuje tisk objektů, které přesahují rozměry jeho vlastního tiskového prostoru.",
+      "Inovace řeší omezení velikosti výtisků u běžných stacionárních 3D tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "FFF",
+      "Patent",
+      "Large-scale Printing",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Smluvní výrobce EBM Zenith Tecnica byl odkoupen novou vlastnickou skupinou",
+    "summary": "New Zealand-based Zenith Tecnica has been acquired by a new ownership group. The firm was an early Electron Beam Melting (EBM) pioneer and has played an outsized role in the...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/Medical-Parts-RESIZED-1-1080720.jpg-1024x683.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-09T13:00:47+00:00",
+    "url": "https://3dprint.com/328445/zenith-tecnica-acquired/",
+    "forced_tags": [],
+    "title_en": "EBM Contract Manufacturer Zenith Tecnica Acquired by Ownership Group",
+    "summary_bullets_en": [
+      "New Zealand-based Zenith Tecnica has been acquired by a new ownership group.",
+      "The company is recognized as an early pioneer in Electron Beam Melting (EBM) technology.",
+      "Zenith Tecnica has played a significant role in advancing metal additive manufacturing solutions."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Zenith Tecnica se sídlem na Novém Zélandu byla odkoupena novou vlastnickou skupinou.",
+      "Firma je považována za jednoho z průkopníků technologie tavení elektronovým paprskem (EBM).",
+      "Zenith Tecnica sehrála významnou roli v rozvoji řešení pro aditivní výrobu kovů."
+    ],
+    "tags": [
+      "Services",
+      "Hardware",
+      "EBM",
+      "Zenith Tecnica",
+      "Metal Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Výrobce 3D tištěných obalů XTPL získal dalšího japonského zákazníka",
+    "summary": "These things can change at any moment nowadays, but the biggest economic story of the year might not be elevated energy prices, after all. Elevated prices for memory chips may...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/copper-teaser-final0.jpg-1024x576.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-09T12:30:31+00:00",
+    "url": "https://3dprint.com/328482/3d-printed-packaging-oem-xtpl-adds-another-japanese-customer/",
+    "forced_tags": [],
+    "title_en": "3D Printed Packaging OEM XTPL Adds Another Japanese Customer",
+    "summary_bullets_en": [
+      "XTPL has secured a new contract with a Japanese customer for its advanced 3D printing packaging technology.",
+      "The company continues to expand its footprint in the Asian market despite global economic volatility.",
+      "Rising costs of memory chips are currently identified as a more significant economic challenge than energy prices."
+    ],
+    "summary_bullets_cs": [
+      "Společnost XTPL získala novou zakázku od japonského zákazníka na svou technologii pro 3D tisk obalů.",
+      "Firma pokračuje v rozšiřování své působnosti na asijském trhu navzdory globální ekonomické nestabilitě.",
+      "Rostoucí ceny paměťových čipů jsou v současnosti považovány za významnější ekonomický problém než ceny energií."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "XTPL",
+      "3D Printing",
+      "Semiconductors"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 9. července 2026: RIMPAC 2026, software, bydlení a další",
+    "summary": "In today&#8217;s 3D Printing News Briefs, Massivit continues its focus on aerospace and defense manufacturing, and Meltio is collaborating with Phillips Corporation for RIMPAC 2026. Moving on to software, AMIS...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/RapidWings-by-Massivit-24001350-1024x576.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-09T12:00:49+00:00",
+    "url": "https://3dprint.com/328384/3d-printing-news-briefs-7-9-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, July 9, 2026: RIMPAC 2026, Software, Housing, & More",
+    "summary_bullets_en": [
+      "Massivit is expanding its strategic focus on aerospace and defense manufacturing applications.",
+      "Meltio has partnered with Phillips Corporation to showcase additive manufacturing capabilities at the RIMPAC 2026 exercise.",
+      "The industry update covers new developments in 3D printing software and innovative housing construction solutions."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Massivit nadále posiluje své zaměření na výrobu v oblasti letectví a obranného průmyslu.",
+      "Firma Meltio spolupracuje se společností Phillips Corporation na cvičení RIMPAC 2026.",
+      "Přehled novinek se věnuje pokrokům v softwaru pro aditivní výrobu a inovativním řešením v oblasti výstavby obytných budov."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Massivit",
+      "Meltio",
+      "Phillips Corporation",
+      "Aerospace",
+      "Defense",
+      "Construction"
+    ]
+  },
+  {
+    "title": "Společnost Auxilium Biotechnologies vytiskla na ISS tkáně ledvin a jater",
+    "summary": "Auxilium Biotechnologies, a clinical-stage biotechnology company, has bioprinted kidney and liver tissue aboard the International Space Station (ISS), marking the first time either tissue type has been manufactured in orbit. The tissues, along with cartilage and 28 nerve repair implants, were produced using the company&#8217;s AMP-1 bioprinting platform during Mission AXLM-3, which launched on SpaceX-34&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/Bioprinted_Liver_Tissue-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-09T12:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/auxilium-biotechnologies-bioprints-kidney-and-liver-tissue-aboard-the-iss-252912/?utm_source=rss&utm_medium=rss&utm_campaign=auxilium-biotechnologies-bioprints-kidney-and-liver-tissue-aboard-the-iss",
+    "forced_tags": [],
+    "title_en": "Auxilium Biotechnologies Bioprints Kidney and Liver Tissue Aboard the ISS",
+    "summary_bullets_en": [
+      "Auxilium Biotechnologies successfully bioprinted kidney and liver tissue in orbit for the first time.",
+      "The mission also produced cartilage and 28 nerve repair implants using the proprietary AMP-1 platform.",
+      "The experiments were conducted during the AXLM-3 mission, launched via SpaceX-34 to the International Space Station."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Auxilium Biotechnologies poprvé v historii úspěšně vytiskla tkáně ledvin a jater v oběžné dráze.",
+      "Kromě těchto tkání byly pomocí platformy AMP-1 vyrobeny také chrupavky a 28 implantátů pro opravu nervů.",
+      "Experimenty proběhly v rámci mise AXLM-3, která byla vynesena na Mezinárodní vesmírnou stanici (ISS) pomocí SpaceX-34."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Bioprinting",
+      "Auxilium Biotechnologies",
+      "SpaceX",
+      "ISS",
+      "Medical"
+    ]
+  },
+  {
+    "title": "Cítit žár: Jak velké HVAC společnosti těží z globálních vln veder",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/959896445/0/fabbaloo/default~Feeling-the-Heat-How-Major-HVAC-Companies-are-Benefitting-from-Global-Heat-Waves\" rel=\"nofollow\" title=\"Feeling the Heat: How Major HVAC Companies are Benefitting from Global Heat Waves\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_249-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi reveal how extreme heat is accelerating air conditioner replacement cycles, driving investor interest in HVAC companies, and positioning 3D printing as a key manufacturing solution.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/959896445/0/fabbaloo/default~Feeling-the-Heat-How-Major-HVAC-Companies-are-Benefitting-from-Global-Heat-Waves\" rel=\"nofollow\">Feeling the Heat: How Major HVAC Companies are Benefitting from Global Heat Waves</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_249-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-09T11:16:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/959896445/0/fabbaloo/default~Feeling-the-Heat-How-Major-HVAC-Companies-are-Benefitting-from-Global-Heat-Waves",
+    "forced_tags": [],
+    "title_en": "Feeling the Heat: How Major HVAC Companies are Benefitting from Global Heat Waves",
+    "summary_bullets_en": [
+      "Extreme global heat waves are accelerating the replacement cycles for air conditioning units.",
+      "Increased demand for HVAC systems is driving significant investor interest in the sector.",
+      "3D printing is emerging as a critical manufacturing solution to meet the rising production needs of HVAC companies."
+    ],
+    "summary_bullets_cs": [
+      "Extrémní globální vlny veder urychlují cykly výměny klimatizačních jednotek.",
+      "Zvýšená poptávka po systémech HVAC vyvolává značný zájem investorů o tento sektor.",
+      "3D tisk se stává klíčovým výrobním řešením pro uspokojení rostoucích produkčních potřeb společností v oboru HVAC."
+    ],
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "HVAC",
+      "3D Printing",
+      "Supply Chain",
+      "Industrial Production"
+    ]
+  },
+  {
+    "title": "Optimalizace ohybových vlastností PETG pomocí metody Taguchi a umělých neuronových sítí",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/959880356/0/fabbaloo/default~PETG-Flexural-Optimization-With-Taguchi-And-ANN\" rel=\"nofollow\" title=\"PETG Flexural Optimization With Taguchi And ANN\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/petg-flexural-testing-cover-300x201.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A Moroccan research team mapped how common FFF settings drive PETG flexural behavior and then used a neural network to predict the best tradeoffs.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/959880356/0/fabbaloo/default~PETG-Flexural-Optimization-With-Taguchi-And-ANN\" rel=\"nofollow\">PETG Flexural Optimization With Taguchi And ANN</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/petg-flexural-testing-cover-300x201.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-09T08:35:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/959880356/0/fabbaloo/default~PETG-Flexural-Optimization-With-Taguchi-And-ANN",
+    "forced_tags": [],
+    "title_en": "PETG Flexural Optimization With Taguchi And ANN",
+    "summary_bullets_en": [
+      "A Moroccan research team investigated how FFF 3D printing parameters influence the flexural properties of PETG material.",
+      "The study utilized the Taguchi method to systematically map the impact of various printing settings.",
+      "Researchers implemented an Artificial Neural Network (ANN) to predict optimal parameter combinations for superior mechanical performance."
+    ],
+    "summary_bullets_cs": [
+      "Marocký výzkumný tým zkoumal, jak parametry FFF 3D tisku ovlivňují ohybové vlastnosti materiálu PETG.",
+      "Studie využila metodu Taguchi k systematickému zmapování vlivu různých nastavení tisku.",
+      "Vědci implementovali umělou neuronovou síť (ANN) k předpovídání optimálních kombinací parametrů pro dosažení lepších mechanických vlastností."
+    ],
+    "tags": [
+      "Material",
+      "Software",
+      "Research",
+      "PETG",
+      "FFF",
+      "3D Printing",
+      "Optimization",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "AMAA 2026 právě začíná: Připojte se ke komunitě aditivní výroby v letectví, kosmonautice a obraně",
+    "summary": "Additive Manufacturing Advantage: Aerospace, Space, and Defense 2026 is now live and in progress. Taking place online today, AMAA 2026 brings together leading voices from across aerospace, defense, space, advanced manufacturing, research, and industrial production to discuss how additive manufacturing is moving from promising technology into mission-critical applications. The free online event features presentations and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/AMAA-2026-AM-for-Aerospace-Defense-and-Space-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-07-09T07:32:15+00:00",
+    "url": "https://3dprintingindustry.com/news/amaa-2026-is-now-live-join-the-aerospace-space-and-defense-additive-manufacturing-community-today-252953/?utm_source=rss&utm_medium=rss&utm_campaign=amaa-2026-is-now-live-join-the-aerospace-space-and-defense-additive-manufacturing-community-today",
+    "forced_tags": [],
+    "title_en": "AMAA 2026 is now live: Join the Aerospace, Space, and Defense Additive Manufacturing community today",
+    "summary_bullets_en": [
+      "AMAA 2026 is currently underway as a free online event focused on additive manufacturing in aerospace and defense.",
+      "The conference connects industry leaders, researchers, and manufacturers to discuss the transition of 3D printing into mission-critical applications.",
+      "The program features expert presentations and insights into the future of industrial production within these high-stakes sectors."
+    ],
+    "summary_bullets_cs": [
+      "Akce AMAA 2026 právě probíhá jako bezplatná online konference zaměřená na aditivní výrobu v letectví a obraně.",
+      "Událost propojuje přední odborníky, výzkumníky a výrobce, aby diskutovali o přechodu 3D tisku od slibné technologie k aplikacím kritickým pro mise.",
+      "Program nabízí odborné prezentace a vhled do budoucnosti průmyslové výroby v těchto klíčových odvětvích."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Aerospace",
+      "Defense",
+      "Space",
+      "Additive Manufacturing",
+      "Industrial Production"
+    ]
+  },
+  {
+    "title": "Australské AMCRC financuje výzkum a vývoj 3D tisku z titanu",
+    "summary": "In terms of the global economy&#8217;s presently existing state, there is no realistic path to economic resilience that doesn&#8217;t start with critical minerals security. This is a problem for pretty...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/visual-process-steps-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-09T07:00:46+00:00",
+    "url": "https://3dprint.com/328513/australias-amcrc-funds-titanium-3d-printing-rd/",
+    "forced_tags": [],
+    "title_en": "Australia’s AMCRC Funds Titanium 3D Printing R&D",
+    "summary_bullets_en": [
+      "The AMCRC is investing in research and development for titanium 3D printing to strengthen industrial supply chains.",
+      "Securing access to critical minerals is identified as a fundamental requirement for global economic resilience.",
+      "The initiative aims to reduce dependency on external sources by advancing domestic additive manufacturing capabilities."
+    ],
+    "summary_bullets_cs": [
+      "AMCRC investuje do výzkumu a vývoje 3D tisku z titanu s cílem posílit průmyslové dodavatelské řetězce.",
+      "Zajištění přístupu ke kritickým nerostným surovinám je označováno za základní předpoklad globální ekonomické odolnosti.",
+      "Iniciativa se zaměřuje na snížení závislosti na externích zdrojích prostřednictvím rozvoje domácích kapacit aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "AMCRC",
+      "Titanium",
+      "Additive Manufacturing",
+      "Supply Chain"
+    ]
+  },
+  {
+    "title": "NSF podporuje automatizovaný 3D tisk zařízení typu „laboratoř na čipu“",
+    "summary": "George Mason University and North Carolina company Phase Inc. have been awarded a National Science Foundation STTR grant to develop a new class of 3D printed microfluidic devices. The goal is to carry the technology out of the research lab and into wider use, yielding a more dependable route to the tools that organ-on-a-chip development&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/microfluid_device_thumbnail_25-img_1981_0-150x100.avif",
+    "source": "3D Printing Industry",
+    "published": "2026-07-09T06:47:18+00:00",
+    "url": "https://3dprintingindustry.com/news/nsf-backs-automated-3d-printing-of-lab-on-a-chip-devices-252928/?utm_source=rss&utm_medium=rss&utm_campaign=nsf-backs-automated-3d-printing-of-lab-on-a-chip-devices",
+    "forced_tags": [],
+    "title_en": "NSF Backs Automated 3D Printing of Lab-on-a-Chip Devices",
+    "summary_bullets_en": [
+      "George Mason University and Phase Inc. received an NSF STTR grant for 3D printed microfluidics.",
+      "The project aims to transition lab-on-a-chip technology from research settings to broader industrial applications.",
+      "The initiative focuses on creating more reliable and scalable manufacturing processes for organ-on-a-chip devices."
+    ],
+    "summary_bullets_cs": [
+      "George Mason University a společnost Phase Inc. získaly grant NSF STTR na vývoj nové třídy 3D tištěných mikrofluidních zařízení.",
+      "Cílem projektu je přenést technologii z výzkumných laboratoří do širšího praktického využití.",
+      "Výzkum se zaměřuje na vytvoření spolehlivější cesty k výrobě nástrojů pro vývoj systémů typu „orgán na čipu“."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Printing",
+      "Microfluidics",
+      "Lab-on-a-Chip",
+      "NSF",
+      "Biotechnology",
+      "Organ-on-a-Chip"
+    ]
+  },
+  {
+    "title": "3D tištěné dlaždice z FIU přetvářejí ochranu pobřeží",
+    "summary": "A pilot installation at Morningside Park in Miami is examining whether the concrete barriers lining South Florida&#8217;s shoreline can do more than hold back water. A team from Florida International University&#8217;s Institute of Environment has mounted a set of 3D printed tiles, produced at the university&#8217;s Robotics and Digital Fabrication Lab, onto an existing seawall.&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/seawall-2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-09T06:36:08+00:00",
+    "url": "https://3dprintingindustry.com/news/fius-3d-printed-tiles-reimagine-coastal-protection-252941/?utm_source=rss&utm_medium=rss&utm_campaign=fius-3d-printed-tiles-reimagine-coastal-protection",
+    "forced_tags": [],
+    "title_en": "FIU’s 3D Printed Tiles Reimagine Coastal Protection",
+    "summary_bullets_en": [
+      "Researchers at Florida International University are testing 3D printed tiles designed to enhance coastal defense structures.",
+      "The pilot project at Miami's Morningside Park aims to transform standard concrete seawalls into more ecologically beneficial barriers.",
+      "These specialized tiles were manufactured using advanced robotics and digital fabrication techniques at the university's dedicated lab."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Floridské mezinárodní univerzity testují 3D tištěné dlaždice navržené ke zlepšení pobřežních obranných struktur.",
+      "Pilotní projekt v parku Morningside v Miami má za cíl přeměnit standardní betonové mořské hráze na ekologicky přínosnější bariéry.",
+      "Tyto specializované dlaždice byly vyrobeny pomocí pokročilé robotiky a technik digitální výroby v univerzitní laboratoři."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Sustainability",
+      "Coastal Protection",
+      "Robotics",
+      "Digital Fabrication",
+      "Florida International University"
+    ]
+  },
+  {
     "title": "AMAA 2026: SMS z loděnice na výrobní linku – role technologie WAAM",
     "summary": "Interested in the future of manufacturing? Don&#8217;t miss Additive Manufacturing Advantage: Aerospace, Space and Defense 2026, taking place on July 9th. Mark your calendar and secure your spot at the event redefining what&#8217;s possible in aerospace, space, and defense manufacturing. Lincoln Electric, 130 years old and generating over $4 billion in 2024 revenue, entered the&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/AMAA-2026-AM-for-Aerospace-Defense-and-Space-150x100.png",
