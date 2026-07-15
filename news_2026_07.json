@@ -1,5 +1,466 @@
 [
   {
+    "title": "Sciperio si patentovalo čerpadlo pro dávkování vysoce viskózních materiálů v aditivní výrobě",
+    "summary": "A newly patented pump from Sciperio, the R&#38;D arm of nScrypt, is built to let additive manufacturing (AM) systems dispense materials with viscosities above 1 million centipoise, a range Sciperio says has been difficult for conventional dispensing systems to handle without defects.&#160; The U.S. Patent and Trademark Office (USPTO) issued Patent No. 12,654,396 B2 for&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/Sciperio-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-07-14T17:55:08+00:00",
+    "url": "https://3dprintingindustry.com/news/sciperio-patents-pump-for-dispensing-high-viscosity-materials-in-am-253087/?utm_source=rss&utm_medium=rss&utm_campaign=sciperio-patents-pump-for-dispensing-high-viscosity-materials-in-am",
+    "forced_tags": [],
+    "title_en": "Sciperio Patents Pump for Dispensing High-Viscosity Materials in AM",
+    "summary_bullets_en": [
+      "Sciperio, the R&D division of nScrypt, has secured a new patent for an advanced dispensing pump.",
+      "The technology is designed to handle materials with viscosities exceeding 1 million centipoise.",
+      "This innovation addresses common defects found in conventional dispensing systems when working with highly viscous materials."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Sciperio, výzkumná divize firmy nScrypt, získala nový patent na pokročilé dávkovací čerpadlo.",
+      "Technologie je navržena pro práci s materiály, jejichž viskozita přesahuje 1 milion centipoise.",
+      "Tato inovace řeší problémy s defekty, které se běžně vyskytují u konvenčních dávkovacích systémů při zpracování vysoce viskózních látek."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Sciperio",
+      "nScrypt",
+      "Additive Manufacturing",
+      "Dispensing Technology"
+    ]
+  },
+  {
+    "title": "„Vibe coding“ přichází do světa 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960403250/0/fabbaloo/default~Vibe-Coding-Is-Coming-to-D-Printing\" rel=\"nofollow\" title=\"Vibe Coding Is Coming to 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/sketchforge-cover-300x165.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Vibe coding is now hitting the 3D print world.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960403250/0/fabbaloo/default~Vibe-Coding-Is-Coming-to-D-Printing\" rel=\"nofollow\">Vibe Coding Is Coming to 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/sketchforge-cover-300x165.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-14T16:26:23+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960403250/0/fabbaloo/default~Vibe-Coding-Is-Coming-to-D-Printing",
+    "forced_tags": [],
+    "title_en": "Vibe Coding Is Coming to 3D Printing",
+    "summary_bullets_en": [
+      "The concept of 'vibe coding' is making its way into the 3D printing industry.",
+      "This trend suggests a shift towards more intuitive, AI-driven design and programming workflows.",
+      "New tools like SketchForge are emerging to simplify the creation process for 3D printing enthusiasts."
+    ],
+    "summary_bullets_cs": [
+      "Koncept „vibe coding“ (intuitivní programování pomocí AI) proniká do odvětví 3D tisku.",
+      "Tento trend naznačuje posun směrem k intuitivnějším pracovním postupům při návrhu a programování řízeným umělou inteligencí.",
+      "Objevují se nové nástroje, jako je SketchForge, které mají za cíl zjednodušit proces tvorby pro nadšence do 3D tisku."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "Vibe Coding",
+      "SketchForge",
+      "Generative Design",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Společnost INSTATIQ si patentovala metodu pro náročný 3D tisk z betonu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960394028/0/fabbaloo/default~INSTATIQ-Patents-Method-for-Difficult-Concrete-Printing\" rel=\"nofollow\" title=\"INSTATIQ Patents Method for Difficult Concrete Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/instatiq-3dcp-patent-cover-300x223.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>INSTATIQ has patented a construction 3D printing system designed to place concrete directly against existing walls and other awkward building features.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960394028/0/fabbaloo/default~INSTATIQ-Patents-Method-for-Difficult-Concrete-Printing\" rel=\"nofollow\">INSTATIQ Patents Method for Difficult Concrete Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/instatiq-3dcp-patent-cover-300x223.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-14T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960394028/0/fabbaloo/default~INSTATIQ-Patents-Method-for-Difficult-Concrete-Printing",
+    "forced_tags": [],
+    "title_en": "INSTATIQ Patents Method for Difficult Concrete Printing",
+    "summary_bullets_en": [
+      "INSTATIQ has secured a patent for a specialized construction 3D printing system.",
+      "The technology enables the direct application of concrete against existing walls and complex architectural features.",
+      "This innovation addresses common challenges in automated construction by allowing printing in awkward or constrained spaces."
+    ],
+    "summary_bullets_cs": [
+      "Společnost INSTATIQ získala patent na systém pro 3D tisk ve stavebnictví.",
+      "Technologie umožňuje nanášení betonu přímo na stávající stěny a další složité stavební prvky.",
+      "Tato inovace řeší běžné problémy automatizované výstavby tím, že umožňuje tisk v obtížně přístupných prostorech."
+    ],
+    "tags": [
+      "Hardware",
+      "Construction",
+      "3D Concrete Printing",
+      "INSTATIQ",
+      "Automation",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Inženýři z University of Illinois sestrojili první 3D tepelný plášť pomocí 3D tištěného hliníku",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/university-of-illinois-engineers-build-first-3d-thermal-cloak-using-3d-printed-aluminum/\" target=\"_blank\">University of Illinois Engineers Build First 3D Thermal Cloak Using 3D-Printed Aluminum</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 14</span></div><div><img alt=\"University of Illinois Engineers Build First 3D Thermal Cloak Using 3D-Printed Aluminum\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/cr-738619-m-1140x760-1-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/cr-738619-m-1140x760-1-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-07-14T13:57:15+00:00",
+    "url": "https://3dprinting.com/news/university-of-illinois-engineers-build-first-3d-thermal-cloak-using-3d-printed-aluminum/",
+    "forced_tags": [],
+    "title_en": "University of Illinois Engineers Build First 3D Thermal Cloak Using 3D-Printed Aluminum",
+    "summary_bullets_en": [
+      "Engineers at the University of Illinois have developed the first 3D thermal cloak capable of manipulating heat flow.",
+      "The device was created using advanced 3D-printed aluminum, allowing for precise control over thermal conductivity.",
+      "This breakthrough could lead to innovations in electronics cooling, energy efficiency, and thermal protection systems."
+    ],
+    "summary_bullets_cs": [
+      "Inženýři z University of Illinois vyvinuli první 3D tepelný plášť, který dokáže manipulovat s tokem tepla.",
+      "Zařízení bylo vytvořeno pomocí pokročilého 3D tisku z hliníku, což umožňuje přesnou kontrolu tepelné vodivosti.",
+      "Tento průlom by mohl vést k inovacím v oblasti chlazení elektroniky, energetické účinnosti a systémů tepelné ochrany."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Thermal Engineering",
+      "Aluminum",
+      "University of Illinois"
+    ]
+  },
+  {
+    "title": "EOS to má také rád! Hliník CP1 pro všechny",
+    "summary": "EOS is adding Constellium Aheadd CP1 to its materials offering. In EOS-land, the material will be called EOS Aluminium Constellium CP1. In addition to the new CP1, Constellium&#8217;s Al5X1 material...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/EOS-Constellium_03@2.16879e41-1024x768.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-14T13:30:12+00:00",
+    "url": "https://3dprint.com/328511/eos-constellium-cp1-for-all/",
+    "forced_tags": [],
+    "title_en": "EOS Loves it Too, Yeah! Aluminium CP1 For All",
+    "summary_bullets_en": [
+      "EOS is expanding its material portfolio by adding Constellium's Aheadd CP1 aluminum alloy.",
+      "The new material will be branded as EOS Aluminium Constellium CP1 within the EOS ecosystem.",
+      "The partnership also includes the introduction of Constellium’s Al5X1 material for additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost EOS rozšiřuje svou nabídku materiálů o hliníkovou slitinu Aheadd CP1 od firmy Constellium.",
+      "V rámci portfolia EOS bude tento materiál uváděn pod názvem EOS Aluminium Constellium CP1.",
+      "Kromě nového CP1 zahrnuje spolupráce také materiál Al5X1 od společnosti Constellium určený pro aditivní výrobu."
+    ],
+    "tags": [
+      "Material",
+      "EOS",
+      "Constellium",
+      "3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Stratasys přiznal 70 000 USD za federální lobbing v oblasti obrany a financování STEM",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960377795/0/fabbaloo/default~Stratasys-Discloses-USK-in-Federal-Lobbying-for-Defense-and-STEM-Funding\" rel=\"nofollow\" title=\"Stratasys Discloses US$70K in Federal Lobbying for Defense and STEM Funding\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2023/08/stratasys-logo-wide-300x180.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Stratasys just disclosed US$70K in US federal government lobbying expenses. What might that mean?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960377795/0/fabbaloo/default~Stratasys-Discloses-USK-in-Federal-Lobbying-for-Defense-and-STEM-Funding\" rel=\"nofollow\">Stratasys Discloses US$70K in Federal Lobbying for Defense and STEM Funding</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2023/08/stratasys-logo-wide-300x180.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-14T13:22:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960377795/0/fabbaloo/default~Stratasys-Discloses-USK-in-Federal-Lobbying-for-Defense-and-STEM-Funding",
+    "forced_tags": [],
+    "title_en": "Stratasys Discloses US$70K in Federal Lobbying for Defense and STEM Funding",
+    "summary_bullets_en": [
+      "Stratasys has officially reported spending US$70,000 on federal lobbying efforts in the United States.",
+      "The lobbying activities are primarily focused on securing government support for defense-related initiatives.",
+      "A portion of the funding is also directed toward promoting STEM education and development.",
+      "This move highlights the company's strategic interest in aligning its 3D printing technology with national security and educational priorities."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Stratasys oficiálně přiznala výdaje ve výši 70 000 USD na federální lobbing ve Spojených státech.",
+      "Lobbistické aktivity jsou primárně zaměřeny na získání vládní podpory pro iniciativy v oblasti obrany.",
+      "Část prostředků je rovněž směřována na podporu vzdělávání a rozvoje v oborech STEM.",
+      "Tento krok podtrhuje strategický zájem společnosti na propojení technologií 3D tisku s národní bezpečností a prioritami ve vzdělávání."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Stratasys",
+      "Lobbying",
+      "Defense",
+      "STEM",
+      "Government"
+    ]
+  },
+  {
+    "title": "Společnost RIC Robotics zahajuje práce na komunitě v Coloradu, jejíž součástí budou desítky 3D tištěných domů",
+    "summary": "Despite years of increasing public focus on the issue of affordable housing, it wasn&#8217;t until the end of last year that US federal policymakers introduced a comprehensive bill to address...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/raas-deploy-768x1024.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-14T13:00:20+00:00",
+    "url": "https://3dprint.com/328708/ric-robotics-begins-work-on-colorado-community-including-dozens-of-3d-printed-homes/",
+    "forced_tags": [],
+    "title_en": "RIC Robotics Begins Work on Colorado Community, Including Dozens of 3D Printed Homes",
+    "summary_bullets_en": [
+      "RIC Robotics has launched a new residential project in Colorado featuring dozens of 3D printed homes.",
+      "The initiative aims to address the ongoing affordable housing crisis in the United States.",
+      "The project follows recent federal legislative efforts focused on improving housing accessibility and construction innovation."
+    ],
+    "summary_bullets_cs": [
+      "Společnost RIC Robotics zahájila v Coloradu výstavbu nové rezidenční čtvrti, která zahrnuje desítky 3D tištěných domů.",
+      "Cílem projektu je řešit přetrvávající krizi dostupného bydlení ve Spojených státech.",
+      "Iniciativa navazuje na nedávné federální legislativní snahy zaměřené na zlepšení dostupnosti bydlení a inovace ve stavebnictví."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Construction",
+      "3D Printed Housing",
+      "RIC Robotics",
+      "Affordable Housing"
+    ]
+  },
+  {
+    "title": "Stolní UV tiskárny a 3D tisk: Kurz ke střetu",
+    "summary": "UV printing has been around for ages, of course. But, since a few years ago, desktop UV printers have made their way into households, small businesses, and enterprises. These machines...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/Frame_2147226927_702b4770-6cf0-4805-955e-1ede8199e741-1024x414.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-14T12:30:29+00:00",
+    "url": "https://3dprint.com/328595/desktop-uv-printers-3d-printing-collision-course/",
+    "forced_tags": [],
+    "title_en": "Desktop UV Printers & 3D Printing: Collision Course",
+    "summary_bullets_en": [
+      "UV printing technology has evolved from industrial use to accessible desktop devices.",
+      "Small businesses and households are increasingly adopting these compact UV machines.",
+      "The convergence of desktop UV printing and 3D printing is creating new manufacturing possibilities.",
+      "This technological collision is reshaping how small-scale production and prototyping are handled."
+    ],
+    "summary_bullets_cs": [
+      "Technologie UV tisku se vyvinula z průmyslového využití až k dostupným stolním zařízením.",
+      "Malé firmy a domácnosti stále častěji využívají tyto kompaktní UV stroje.",
+      "Propojení stolního UV tisku a 3D tisku otevírá nové možnosti ve výrobě.",
+      "Tento technologický střet mění způsob, jakým přistupujeme k malosériové výrobě a prototypování."
+    ],
+    "tags": [
+      "Hardware",
+      "Desktop UV Printing",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Prototyping",
+      "Small Business Tech"
+    ]
+  },
+  {
+    "title": "Webinář zkoumá využití vysokoteplotní slitiny M247LC v technologii Metal Binder Jetting pro průmyslovou výrobu",
+    "summary": "High-temperature nickel-based superalloys like MAR-M 247LC (M247LC), the low-carbon version of MAR-M 247, are used for casting in some of the most demanding applications in the world, including gas turbines,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/AmPd-desktop-metal-machine-1-1024x756.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-14T12:00:33+00:00",
+    "url": "https://3dprint.com/328859/webinar-explores-metal-binder-jetting-high-temperature-m247lc-for-production/",
+    "forced_tags": [],
+    "title_en": "Webinar Explores Metal Binder Jetting High-Temperature M247LC for Production",
+    "summary_bullets_en": [
+      "The webinar focuses on the application of M247LC, a high-temperature nickel-based superalloy, in metal binder jetting.",
+      "M247LC is traditionally used in demanding industries like gas turbine manufacturing due to its superior thermal properties.",
+      "The session explores how additive manufacturing can overcome the challenges of processing this low-carbon superalloy for production-scale parts."
+    ],
+    "summary_bullets_cs": [
+      "Webinář se zaměřuje na využití vysokoteplotní superslitiny na bázi niklu M247LC v technologii 3D tisku Metal Binder Jetting.",
+      "M247LC se díky svým vynikajícím tepelným vlastnostem tradičně používá v nejnáročnějších odvětvích, jako je výroba plynových turbín.",
+      "Přednáška zkoumá, jak může aditivní výroba překonat výzvy spojené se zpracováním této nízkouhlíkové superslitiny pro sériovou výrobu dílů."
+    ],
+    "tags": [
+      "Material",
+      "Metal Binder Jetting",
+      "M247LC",
+      "Superalloys",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Pohled do zákulisí akvizice CIRCOR Aerospace společností Parker a jejího potenciálu v 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960364733/0/fabbaloo/default~Inside-Parker%e2%80%99s-CIRCOR-Aerospace-Deal-and-Its-D-Printing-Potential\" rel=\"nofollow\" title=\"Inside Parker’s CIRCOR Aerospace Deal and Its 3D Printing Potential\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/Filename-_210-300x219.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Andressa Bonafe analyze the strategic fit between Parker and CIRCOR Aerospace, highlighting how advanced 3D printing technologies could drive innovation, efficiency, and valuable R&#38;D tax incentives.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960364733/0/fabbaloo/default~Inside-Parker%e2%80%99s-CIRCOR-Aerospace-Deal-and-Its-D-Printing-Potential\" rel=\"nofollow\">Inside Parker’s CIRCOR Aerospace Deal and Its 3D Printing Potential</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/Filename-_210-300x219.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-14T11:30:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960364733/0/fabbaloo/default~Inside-Parker%e2%80%99s-CIRCOR-Aerospace-Deal-and-Its-D-Printing-Potential",
+    "forced_tags": [],
+    "title_en": "Inside Parker’s CIRCOR Aerospace Deal and Its 3D Printing Potential",
+    "summary_bullets_en": [
+      "Charles R. Goulding and Andressa Bonafe examine the strategic acquisition of CIRCOR Aerospace by Parker.",
+      "The analysis focuses on how integrating advanced 3D printing technologies can enhance innovation and operational efficiency.",
+      "The deal highlights significant opportunities for leveraging R&D tax incentives within the aerospace manufacturing sector."
+    ],
+    "summary_bullets_cs": [
+      "Charles R. Goulding a Andressa Bonafe analyzují strategické spojení společností Parker a CIRCOR Aerospace.",
+      "Článek zdůrazňuje, jak mohou pokročilé technologie 3D tisku podpořit inovace a efektivitu výroby.",
+      "Analýza poukazuje na možnosti využití daňových pobídek pro výzkum a vývoj v rámci této akvizice."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Parker",
+      "CIRCOR Aerospace",
+      "Aerospace",
+      "Additive Manufacturing",
+      "R&D Tax Incentives"
+    ]
+  },
+  {
+    "title": "Adidas vytiskl BB.01, stává se první 3D tištěnou basketbalovou botou na světě",
+    "summary": "Adidas Basketball has revealed the BB.01, the opening product of Project: Radical Athlete Perception (R.A.P.) and the brand&#8217;s first performance basketball shoe built on the platform. Positioned as a new approach to making athletic footwear, Project: R.A.P. relies on additive manufacturing to tailor products to individual athletes and to the specific demands of a given&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/727522_v3-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-14T11:21:57+00:00",
+    "url": "https://3dprintingindustry.com/news/adidas-prints-bb-01-becomes-the-worlds-first-3d-basketball-shoe-253043/?utm_source=rss&utm_medium=rss&utm_campaign=adidas-prints-bb-01-becomes-the-worlds-first-3d-basketball-shoe",
+    "forced_tags": [],
+    "title_en": "Adidas Prints BB.01, Becomes the World’s First 3D Basketball Shoe",
+    "summary_bullets_en": [
+      "Adidas launched the BB.01, the first performance basketball shoe created through additive manufacturing.",
+      "The product marks the debut of Project: Radical Athlete Perception (R.A.P.).",
+      "Project R.A.P. focuses on using 3D printing to customize footwear for individual athletes and specific performance needs."
+    ],
+    "summary_bullets_cs": [
+      "Adidas představil BB.01, první výkonnostní basketbalovou obuv vytvořenou pomocí aditivní výroby.",
+      "Produkt je prvním výsledkem projektu s názvem Radical Athlete Perception (R.A.P.).",
+      "Projekt R.A.P. se zaměřuje na využití 3D tisku k přizpůsobení obuvi potřebám konkrétních sportovců a specifickým nárokům na výkon."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Adidas",
+      "3D Printing",
+      "Footwear",
+      "Project R.A.P."
+    ]
+  },
+  {
+    "title": "Společnost Zenith Tecnica mění majitele a plánuje navýšení kapacity 3D tisku titanu",
+    "summary": "Zenith Tecnica, a contract manufacturer that builds titanium parts using Electron Beam Melting (EBM), has confirmed a change of ownership and, in the same breath, kicked off a plan to enlarge its production capacity. The company serves the space and medical fields along with other technically demanding industrial customers. Its buyers are an ownership group&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/Zenith-Tecnica_Press-Release_Image-01_Components-1080x721.jpg-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-07-14T11:08:07+00:00",
+    "url": "https://3dprintingindustry.com/news/zenith-tecnica-changes-hands-and-sets-out-to-grow-its-titanium-3d-printing-capacity-253049/?utm_source=rss&utm_medium=rss&utm_campaign=zenith-tecnica-changes-hands-and-sets-out-to-grow-its-titanium-3d-printing-capacity",
+    "forced_tags": [],
+    "title_en": "Zenith Tecnica Changes Hands and Sets Out to Grow Its Titanium 3D Printing Capacity",
+    "summary_bullets_en": [
+      "Zenith Tecnica, a specialist in titanium Electron Beam Melting (EBM), has officially announced a change in ownership.",
+      "The company is launching an expansion plan to significantly increase its production capacity.",
+      "The firm continues to focus on high-demand sectors, specifically aerospace, medical, and advanced industrial applications."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Zenith Tecnica, smluvní výrobce využívající technologii tavení elektronovým paprskem (EBM) pro tisk z titanu, potvrdila změnu vlastnictví.",
+      "Firma zároveň zahájila strategický plán na rozšíření svých výrobních kapacit.",
+      "Společnost se zaměřuje na náročné zákazníky z oblasti kosmonautiky, zdravotnictví a průmyslu."
+    ],
+    "tags": [
+      "Services",
+      "Hardware",
+      "Titanium",
+      "EBM",
+      "Electron Beam Melting",
+      "Zenith Tecnica",
+      "Aerospace",
+      "Medical"
+    ]
+  },
+  {
+    "title": "Od výroby čipů ke 3D tisku: Metoda jednorázové expozice z Utahu",
+    "summary": "Engineers at the University of Utah have shown off a 3D printing approach that sidesteps one of the format&#8217;s persistent weaknesses: the leaky seams left behind when an object is built up slice by slice. Rather than stacking layers, the technique relies on a nanoscale &#8220;mask&#8221; that bends laser light into a holographic version of&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/3d-Print-lattices-1-1-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-07-14T10:44:29+00:00",
+    "url": "https://3dprintingindustry.com/news/from-chip-making-to-3d-utahs-single-exposure-printing-method-253053/?utm_source=rss&utm_medium=rss&utm_campaign=from-chip-making-to-3d-utahs-single-exposure-printing-method",
+    "forced_tags": [],
+    "title_en": "From Chip-Making to 3D: Utah’s Single-Exposure Printing Method",
+    "summary_bullets_en": [
+      "Engineers at the University of Utah have developed a new 3D printing technique that eliminates traditional layer-by-layer construction.",
+      "The method uses a nanoscale mask to manipulate laser light into a holographic projection.",
+      "By printing the entire object in a single exposure, the process avoids structural weaknesses like leaky seams.",
+      "The technology draws inspiration from advanced semiconductor manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "Inženýři z University of Utah představili metodu 3D tisku, která eliminuje tradiční vrstvení objektů.",
+      "Technika využívá nanometrickou „masku“, která ohýbá laserové světlo do podoby holografické projekce.",
+      "Díky tisku celého objektu v rámci jediné expozice se předchází strukturálním slabinám, jako jsou netěsné spoje mezi vrstvami.",
+      "Tento inovativní přístup čerpá inspiraci z pokročilých procesů výroby polovodičů."
+    ],
+    "tags": [
+      "Hardware",
+      "Research",
+      "3D Printing",
+      "Holographic Printing",
+      "Nanotechnology",
+      "University of Utah"
+    ]
+  },
+  {
+    "title": "Protolabs rozšiřuje CNC obrábění a 3D tisk MJF pro výrobu dronů",
+    "summary": "Protolabs, a US-based digital manufacturing service provider, has expanded its CNC machining and Multi Jet Fusion (MJF) 3D printing capabilities for commercial and defense drone manufacturers. The company is targeting applications requiring rapid design changes, customized hardware, lightweight components, and low-volume production. The expanded offering combines quick-turn CNC machining for metal and plastic parts with&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/Protolabs-CNC_Milling_1-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-14T10:26:21+00:00",
+    "url": "https://3dprintingindustry.com/news/protolabs-expands-cnc-machining-and-mjf-3d-printing-for-drone-manufacturing-253060/?utm_source=rss&utm_medium=rss&utm_campaign=protolabs-expands-cnc-machining-and-mjf-3d-printing-for-drone-manufacturing",
+    "forced_tags": [],
+    "title_en": "Protolabs expands CNC machining and MJF 3D printing for drone manufacturing",
+    "summary_bullets_en": [
+      "Protolabs is scaling its CNC machining and Multi Jet Fusion (MJF) 3D printing services specifically for the drone industry.",
+      "The expansion focuses on supporting commercial and defense manufacturers with rapid design iterations and customized hardware.",
+      "The service aims to provide lightweight, high-performance components suitable for low-volume production runs.",
+      "The offering integrates fast-turnaround metal and plastic CNC machining with advanced additive manufacturing capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Protolabs rozšiřuje své kapacity v oblasti CNC obrábění a 3D tisku metodou Multi Jet Fusion (MJF) pro výrobce komerčních a vojenských dronů.",
+      "Cílem je podpořit aplikace vyžadující rychlé změny designu, zakázkový hardware a lehké komponenty při malosériové výrobě.",
+      "Nová nabídka kombinuje rychlé CNC obrábění kovových a plastových dílů s pokročilými možnostmi aditivní výroby."
+    ],
+    "tags": [
+      "Services",
+      "Hardware",
+      "Protolabs",
+      "CNC Machining",
+      "Multi Jet Fusion",
+      "MJF",
+      "Drones",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Od řízení laseru k návrhu mikrostruktury v kovovém 3D tisku",
+    "summary": "By Michele Pavan, Research Engineering Manager, Materialise A KU Leuven research team has demonstrated something the metal AM industry has been pursuing for years: the ability to locally influence microstructure within a single printed part during the build itself, without relying on post-build heat treatment. The results suggest a broader role for multi-laser powder bed&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/KU-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-07-14T10:00:14+00:00",
+    "url": "https://3dprintingindustry.com/news/from-laser-control-to-microstructure-design-in-metal-am-253030/?utm_source=rss&utm_medium=rss&utm_campaign=from-laser-control-to-microstructure-design-in-metal-am",
+    "forced_tags": [],
+    "title_en": "From Laser Control to Microstructure Design in Metal AM",
+    "summary_bullets_en": [
+      "A KU Leuven research team successfully manipulated metal microstructure locally during the 3D printing process.",
+      "This breakthrough eliminates the need for time-consuming post-build heat treatments.",
+      "The findings highlight the untapped potential of multi-laser powder bed fusion systems for advanced material engineering."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumný tým z KU Leuven prokázal schopnost lokálně ovlivňovat mikrostrukturu kovu přímo během procesu 3D tisku.",
+      "Tento postup umožňuje vyhnout se dodatečnému tepelnému zpracování po dokončení tisku.",
+      "Výsledky naznačují širší možnosti využití systémů s více lasery (multi-laser powder bed fusion) pro pokročilé inženýrství materiálů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Metal AM",
+      "Powder Bed Fusion",
+      "Microstructure",
+      "KU Leuven",
+      "Materialise"
+    ]
+  },
+  {
+    "title": "Studie MEX tisku z PVDF ukazuje výrazné zlepšení pórovitosti",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960346289/0/fabbaloo/default~PVDF-MEX-Study-Shows-Big-Porosity-Gains\" rel=\"nofollow\" title=\"PVDF MEX Study Shows Big Porosity Gains\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/PVDF-testing-cover-300x211.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A Greek led research team has found a practical way to improve 3D printed PVDF parts.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960346289/0/fabbaloo/default~PVDF-MEX-Study-Shows-Big-Porosity-Gains\" rel=\"nofollow\">PVDF MEX Study Shows Big Porosity Gains</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/PVDF-testing-cover-300x211.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-14T08:30:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960346289/0/fabbaloo/default~PVDF-MEX-Study-Shows-Big-Porosity-Gains",
+    "forced_tags": [],
+    "title_en": "PVDF MEX Study Shows Big Porosity Gains",
+    "summary_bullets_en": [
+      "A research team from Greece has developed a new method to enhance the properties of 3D printed PVDF parts.",
+      "The study focuses on optimizing the MEX (Material Extrusion) process for this specific polymer.",
+      "The findings demonstrate significant improvements in the porosity of the printed components, which is crucial for their performance.",
+      "This advancement could expand the practical applications of PVDF in various industrial sectors."
+    ],
+    "summary_bullets_cs": [
+      "Řecký výzkumný tým vyvinul praktický způsob, jak vylepšit vlastnosti 3D tištěných dílů z PVDF.",
+      "Studie se zaměřuje na optimalizaci procesu MEX (vytlačování materiálu) pro tento specifický polymer.",
+      "Výsledky ukazují výrazné zlepšení pórovitosti tištěných komponent, což je klíčové pro jejich výslednou kvalitu.",
+      "Tento pokrok by mohl rozšířit možnosti využití PVDF v různých průmyslových odvětvích."
+    ],
+    "tags": [
+      "Material",
+      "Research",
+      "MEX",
+      "PVDF",
+      "3D Printing"
+    ]
+  },
+  {
     "title": "Praktický test dalších 3D tištěných bot od PollyFab",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/960273194/0/fabbaloo/default~Hands-On-With-Even-More-PollyFab-D-Printed-Shoes\" rel=\"nofollow\" title=\"Hands On With Even More PollyFab 3D Printed Shoes\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/pollyfab2-cover-300x196.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>We’ve been testing a whole bunch of 3D printed shoes from PollyFab.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960273194/0/fabbaloo/default~Hands-On-With-Even-More-PollyFab-D-Printed-Shoes\" rel=\"nofollow\">Hands On With Even More PollyFab 3D Printed Shoes</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/pollyfab2-cover-300x196.jpg",
