@@ -1,5 +1,503 @@
 [
   {
+    "title": "Patent na výsuvný senzor cílí na čistší monitorování filamentu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960643286/0/fabbaloo/default~Retracting-Sensor-Patent-Targets-Cleaner-Filament-Monitoring\" rel=\"nofollow\" title=\"Retracting Sensor Patent Targets Cleaner Filament Monitoring\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/cleaner-filament-monitoring-patent-cover-300x234.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A newly granted Chinese utility model patent proposes a self-cleaning, retractable filament sensor for FFF 3D printers.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960643286/0/fabbaloo/default~Retracting-Sensor-Patent-Targets-Cleaner-Filament-Monitoring\" rel=\"nofollow\">Retracting Sensor Patent Targets Cleaner Filament Monitoring</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/cleaner-filament-monitoring-patent-cover-300x234.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-17T01:44:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960643286/0/fabbaloo/default~Retracting-Sensor-Patent-Targets-Cleaner-Filament-Monitoring",
+    "forced_tags": [],
+    "title_en": "Retracting Sensor Patent Targets Cleaner Filament Monitoring",
+    "summary_bullets_en": [
+      "A new Chinese utility model patent introduces a retractable filament sensor for FFF 3D printers.",
+      "The design features a self-cleaning mechanism to ensure more reliable filament monitoring.",
+      "This innovation aims to reduce errors caused by debris or dust accumulation on standard sensors."
+    ],
+    "summary_bullets_cs": [
+      "Nový čínský užitný vzor představuje výsuvný senzor filamentu pro FFF 3D tiskárny.",
+      "Konstrukce obsahuje samočisticí mechanismus pro zajištění spolehlivějšího sledování tiskové struny.",
+      "Tato inovace má za cíl snížit chybovost způsobenou usazováním nečistot nebo prachu na běžných senzorech."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "FFF",
+      "Filament Sensor",
+      "Patent",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Skupina CRP uvádí na trh systém digitální autentizace UniqTrust pro 3D tištěné díly",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960584891/0/fabbaloo/default~CRP-Group-Launches-UniqTrust-Digital-Authentication-System-for-D-Printed-Parts\" rel=\"nofollow\" title=\"CRP Group Launches UniqTrust Digital Authentication System for 3D Printed Parts\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/UniqTrust-cover-300x273.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>CRP Group has introduced CRP UniqTrust protocol, a method to identify 3D printed parts.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960584891/0/fabbaloo/default~CRP-Group-Launches-UniqTrust-Digital-Authentication-System-for-D-Printed-Parts\" rel=\"nofollow\">CRP Group Launches UniqTrust Digital Authentication System for 3D Printed Parts</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/UniqTrust-cover-300x273.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-16T16:49:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960584891/0/fabbaloo/default~CRP-Group-Launches-UniqTrust-Digital-Authentication-System-for-D-Printed-Parts",
+    "forced_tags": [],
+    "title_en": "CRP Group Launches UniqTrust Digital Authentication System for 3D Printed Parts",
+    "summary_bullets_en": [
+      "CRP Group has unveiled the UniqTrust protocol, a new digital authentication system.",
+      "The technology is designed to reliably identify and verify 3D printed components.",
+      "This solution aims to enhance traceability and security for additive manufacturing parts."
+    ],
+    "summary_bullets_cs": [
+      "Skupina CRP představila protokol CRP UniqTrust, metodu pro identifikaci 3D tištěných dílů.",
+      "Tento systém slouží k digitálnímu ověřování pravosti a sledovatelnosti komponent vyrobených aditivní technologií."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "CRP Group",
+      "UniqTrust",
+      "Digital Authentication",
+      "Additive Manufacturing",
+      "Traceability"
+    ]
+  },
+  {
+    "title": "NASA financuje výzkumný projekt Phase3D pro pokročilé monitorování kovového 3D tisku v reálném čase",
+    "summary": "Garbage in, garbage out: that cliche is currently associated most often with AI, but it really refers to the universal principle whereby a final outcome is only as useful as...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/img_024-1024x684.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-16T16:00:06+00:00",
+    "url": "https://3dprint.com/328908/nasa-funds-phase3d-research-project-to-advance-in-situ-monitoring-for-metal-am/",
+    "forced_tags": [],
+    "title_en": "NASA Funds Phase3D Research Project to Advance In-Situ Monitoring for Metal AM",
+    "summary_bullets_en": [
+      "NASA is funding Phase3D to improve real-time quality monitoring in metal additive manufacturing.",
+      "The project focuses on addressing the 'garbage in, garbage out' challenge by ensuring data integrity during the printing process.",
+      "Advanced in-situ monitoring aims to reduce defects and increase reliability for aerospace-grade metal parts.",
+      "This initiative highlights the growing importance of data-driven quality control in industrial 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "NASA financuje společnost Phase3D s cílem zlepšit monitorování kvality kovové aditivní výroby v reálném čase.",
+      "Projekt se zaměřuje na řešení problému „odpad dovnitř, odpad ven“ zajištěním integrity dat během procesu tisku.",
+      "Pokročilé monitorování přímo v tiskárně má za cíl snížit počet defektů a zvýšit spolehlivost kovových dílů pro letecký průmysl.",
+      "Tato iniciativa podtrhuje rostoucí význam kontroly kvality založené na datech v průmyslovém 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "NASA",
+      "Phase3D",
+      "Metal AM",
+      "In-situ Monitoring",
+      "Aerospace"
+    ]
+  },
+  {
+    "title": "Na obzoru jsou odolnější elastomery",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960574091/0/fabbaloo/default~Tougher-Elastomers-On-The-Way\" rel=\"nofollow\" title=\"Tougher Elastomers On The Way\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/gtr-particles-cover-1-300x175.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have found a way to make flexible 3D material far more durable.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960574091/0/fabbaloo/default~Tougher-Elastomers-On-The-Way\" rel=\"nofollow\">Tougher Elastomers On The Way</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/gtr-particles-cover-1-300x175.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-16T15:03:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960574091/0/fabbaloo/default~Tougher-Elastomers-On-The-Way",
+    "forced_tags": [],
+    "title_en": "Tougher Elastomers On The Way",
+    "summary_bullets_en": [
+      "Researchers have developed a new method to significantly increase the durability of flexible 3D printing materials.",
+      "This breakthrough addresses common limitations in the mechanical strength of traditional elastomers.",
+      "The innovation promises to expand the range of industrial applications for soft and flexible 3D printed parts."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci objevili způsob, jak výrazně zvýšit odolnost flexibilních materiálů pro 3D tisk.",
+      "Tento průlom řeší běžná omezení mechanické pevnosti u tradičních elastomerů.",
+      "Inovace slibuje rozšíření možností průmyslového využití měkkých a pružných 3D tištěných dílů."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Elastomers",
+      "Research",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Měřený růst AM signalizuje vyspělejší průmysl",
+    "summary": "The AM market is projected to reach $20.3 billion by 2030, but growth is shifting toward proven applications, production value, and disciplined investment. In 2025, the additive manufacturing market’s growth...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/Aires-Tide-576x1024.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-16T13:00:17+00:00",
+    "url": "https://3dprint.com/328753/ams-measured-growth-signals-a-more-mature-industry/",
+    "forced_tags": [],
+    "title_en": "AM’s Measured Growth Signals a More Mature Industry",
+    "summary_bullets_en": [
+      "The additive manufacturing market is forecasted to hit $20.3 billion by 2030.",
+      "Industry growth is transitioning from hype toward practical, proven industrial applications.",
+      "Investment strategies are becoming more disciplined, focusing on long-term production value.",
+      "The year 2025 marks a pivotal shift toward a more mature and stable AM ecosystem."
+    ],
+    "summary_bullets_cs": [
+      "Trh s aditivní výrobou by měl do roku 2030 dosáhnout hodnoty 20,3 miliardy dolarů.",
+      "Růst odvětví se přesouvá od očekávání k praktickým a ověřeným průmyslovým aplikacím.",
+      "Investiční strategie jsou nyní disciplinovanější a zaměřují se na reálnou produkční hodnotu.",
+      "Rok 2025 představuje klíčový posun směrem k vyspělejšímu a stabilnějšímu ekosystému 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Additive Manufacturing",
+      "Industry 4.0",
+      "Investment"
+    ]
+  },
+  {
+    "title": "Aktuality ze světa 3D tisku, 16. července 2026: Indexy Russell, úpravy automobilů a další",
+    "summary": "We&#8217;ve got a lot to cover in today&#8217;s 3D Printing News Briefs, from business and additive manufacturing (AM) in Europe to automotive 3D printing, and generative design. Read on for...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/Velo3D_Logo.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-16T12:00:54+00:00",
+    "url": "https://3dprint.com/328749/3d-printing-news-briefs-7-16-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, July 16, 2026: Russell Indexes, Car Customization, & More",
+    "summary_bullets_en": [
+      "Analysis of the latest business developments and additive manufacturing trends across Europe.",
+      "New advancements in automotive 3D printing and vehicle customization technologies.",
+      "Exploration of generative design applications in modern industrial manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "V dnešních aktualitách ze světa 3D tisku se podíváme na byznys a aditivní výrobu v Evropě.",
+      "Zaměříme se na 3D tisk v automobilovém průmyslu a možnosti úprav vozidel.",
+      "Prozkoumáme využití generativního designu v moderní průmyslové výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Additive Manufacturing",
+      "Automotive",
+      "Generative Design",
+      "Russell Indexes"
+    ]
+  },
+  {
+    "title": "Jako Beckham: Od hvězdy světového šampionátu k nové generaci inovací v 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960546575/0/fabbaloo/default~Make-It-Like-Beckham-From-World-Cup-Stardom-to-the-Next-Generation-of-D-Printed-Innovation\" rel=\"nofollow\" title=\"Make It Like Beckham: From World Cup Stardom to the Next Generation of 3D Printed Innovation\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_271-222x300.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"222\" /></a><p>Charles R. Goulding and Preeti Sulibhavi look at how Beckham's global brand, the explosive growth of soccer in North America, and advances in 3D printing are converging to create new opportunities for innovation and business.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960546575/0/fabbaloo/default~Make-It-Like-Beckham-From-World-Cup-Stardom-to-the-Next-Generation-of-D-Printed-Innovation\" rel=\"nofollow\">Make It Like Beckham: From World Cup Stardom to the Next Generation of 3D Printed Innovation</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_271-222x300.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-16T11:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960546575/0/fabbaloo/default~Make-It-Like-Beckham-From-World-Cup-Stardom-to-the-Next-Generation-of-D-Printed-Innovation",
+    "forced_tags": [],
+    "title_en": "Make It Like Beckham: From World Cup Stardom to the Next Generation of 3D Printed Innovation",
+    "summary_bullets_en": [
+      "David Beckham's global brand and the rising popularity of soccer in North America are driving new market opportunities.",
+      "The intersection of sports branding and additive manufacturing is fostering innovation in equipment and fan engagement.",
+      "Authors Charles R. Goulding and Preeti Sulibhavi explore how 3D printing technologies can capitalize on this sports-business synergy."
+    ],
+    "summary_bullets_cs": [
+      "Globální značka Davida Beckhama a rostoucí popularita fotbalu v Severní Americe otevírají nové obchodní příležitosti.",
+      "Propojení sportovního marketingu a aditivní výroby přináší inovace ve sportovním vybavení i v zapojení fanoušků.",
+      "Autoři Charles R. Goulding a Preeti Sulibhavi zkoumají, jak může 3D tisk těžit z této synergie mezi sportem a byznysem."
+    ],
+    "tags": [
+      "Services",
+      "3D Printing",
+      "Sports Technology",
+      "Additive Manufacturing",
+      "Innovation",
+      "David Beckham"
+    ]
+  },
+  {
+    "title": "3D tištěný elastomer z EPFL odolává lomu i únavě materiálu",
+    "summary": "A new study in Science Advances finds that a rubbery material first engineered for 3D printing may resolve a problem that has long dogged materials science: producing printable elastomers that are simultaneously tough and durable.&#160; Researchers at EPFL&#8217;s Soft Materials Laboratory (SMaL) report that the same architecture giving their double network granular elastomers (DNGEs) exceptional&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/1016x572-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-16T10:42:51+00:00",
+    "url": "https://3dprintingindustry.com/news/epfls-3d-printed-elastomer-resists-both-fracture-and-fatigue-253116/?utm_source=rss&utm_medium=rss&utm_campaign=epfls-3d-printed-elastomer-resists-both-fracture-and-fatigue",
+    "forced_tags": [],
+    "title_en": "EPFL’s 3D Printed Elastomer Resists Both Fracture and Fatigue",
+    "summary_bullets_en": [
+      "Researchers at EPFL have developed a new 3D-printable elastomer that overcomes the traditional trade-off between toughness and durability.",
+      "The material, known as double network granular elastomers (DNGEs), utilizes a unique architecture to resist both fracture and fatigue.",
+      "This breakthrough addresses a long-standing challenge in materials science, enabling the creation of robust, flexible 3D-printed components."
+    ],
+    "summary_bullets_cs": [
+      "Vědci z EPFL vyvinuli nový 3D tisknutelný elastomer, který překonává tradiční kompromis mezi houževnatostí a odolností.",
+      "Materiál, známý jako dvojitě síťované granulární elastomery (DNGE), využívá unikátní architekturu k odolnosti vůči lomu i únavě.",
+      "Tento průlom řeší dlouhodobý problém v materiálových vědách a umožňuje tvorbu robustních a flexibilních 3D tištěných komponentů."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Elastomers",
+      "EPFL",
+      "Soft Materials Laboratory",
+      "Research & Development"
+    ]
+  },
+  {
+    "title": "SkyDefense představuje CobraJet, 3D tištěný VTOL interceptor",
+    "summary": "Colorado-based defense company SkyDefense has introduced CobraJet, an AI-controlled vertical takeoff and landing (VTOL) aircraft designed to detect, identify, track, and destroy hostile drones at speed. The autonomous multirole jet targets the growing threat that unmanned systems pose to critical infrastructure, borders, airports, military bases, and public venues. Inside the CobraJet Lineup The aircraft comes&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-15.35.21-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-07-16T10:28:17+00:00",
+    "url": "https://3dprintingindustry.com/news/skydefense-unveils-cobrajet-a-3d-printed-vtol-interceptor-253112/?utm_source=rss&utm_medium=rss&utm_campaign=skydefense-unveils-cobrajet-a-3d-printed-vtol-interceptor",
+    "forced_tags": [],
+    "title_en": "SkyDefense Unveils CobraJet, a 3D Printed VTOL Interceptor",
+    "summary_bullets_en": [
+      "SkyDefense has launched CobraJet, an AI-driven VTOL aircraft designed for autonomous drone interception.",
+      "The jet is manufactured using 3D printing technology to address security threats to critical infrastructure and public spaces.",
+      "It features advanced capabilities for detecting, tracking, and neutralizing hostile unmanned aerial systems at high speeds."
+    ],
+    "summary_bullets_cs": [
+      "Společnost SkyDefense představila CobraJet, letoun s kolmým startem a přistáním (VTOL) řízený umělou inteligencí, určený k zachytávání nepřátelských dronů.",
+      "Stroj využívá technologie 3D tisku a je navržen k ochraně kritické infrastruktury, hranic a veřejných prostor před hrozbami bezpilotních systémů.",
+      "Autonomní letoun disponuje schopností detekovat, identifikovat, sledovat a likvidovat cíle vysokou rychlostí."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Defense Technology",
+      "3D Printing",
+      "VTOL",
+      "AI",
+      "Drones",
+      "SkyDefense"
+    ]
+  },
+  {
+    "title": "Vytiskněte si vlastní příslušenství: Pohled do výzvy Insta360 × Bambu Lab Luna Ultra",
+    "summary": "Insta360 and Bambu Lab&#8217;s MakerWorld have teamed up on the Luna Ultra Design Challenge, a global call for makers, designers, and creators to dream up fresh accessories, mods, and concepts for the Luna Ultra, Insta360&#8217;s flagship dual-lens 8K gimbal camera. The competition puts more than US$11,000 in prizes on the table, giving entrants a chance&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/z03_2w-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-07-16T10:15:57+00:00",
+    "url": "https://3dprintingindustry.com/news/print-your-own-gear-inside-the-insta360-x-bambu-lab-luna-ultra-challenge-253124/?utm_source=rss&utm_medium=rss&utm_campaign=print-your-own-gear-inside-the-insta360-x-bambu-lab-luna-ultra-challenge",
+    "forced_tags": [],
+    "title_en": "Print Your Own Gear: Inside the Insta360 × Bambu Lab Luna Ultra Challenge",
+    "summary_bullets_en": [
+      "Insta360 and Bambu Lab's MakerWorld have launched the Luna Ultra Design Challenge for creators.",
+      "Participants are invited to design innovative accessories and mods for the new 8K dual-lens gimbal camera.",
+      "The competition features a prize pool exceeding US$11,000 for the best design concepts.",
+      "This collaboration highlights the growing synergy between consumer electronics and desktop 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti Insta360 a MakerWorld od Bambu Lab spojily síly v designové výzvě Luna Ultra Challenge.",
+      "Tvůrci a designéři mají za úkol navrhnout nové doplňky, modifikace a koncepty pro vlajkovou loď, 8K gimbal kameru Luna Ultra.",
+      "Soutěž nabízí ceny v celkové hodnotě přes 11 000 USD pro nejlepší návrhy.",
+      "Projekt propojuje svět špičkové záznamové techniky s možnostmi domácího 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Insta360",
+      "Bambu Lab",
+      "MakerWorld",
+      "3D Printing",
+      "Design Challenge"
+    ]
+  },
+  {
+    "title": "Kompozity z PA12 a recyklované gumy z pneumatik prošly zátěžovým testem SLS",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960526262/0/fabbaloo/default~PA-Tire-Rubber-Composites-Get-SLS-Stress-Test\" rel=\"nofollow\" title=\"PA12 Tire Rubber Composites Get SLS Stress Test\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/gtr-particles-cover-300x175.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have tested PA12 and ground tire rubber composites for Selective Laser Sintering.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960526262/0/fabbaloo/default~PA-Tire-Rubber-Composites-Get-SLS-Stress-Test\" rel=\"nofollow\">PA12 Tire Rubber Composites Get SLS Stress Test</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/gtr-particles-cover-300x175.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-16T08:02:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960526262/0/fabbaloo/default~PA-Tire-Rubber-Composites-Get-SLS-Stress-Test",
+    "forced_tags": [],
+    "title_en": "PA12 Tire Rubber Composites Get SLS Stress Test",
+    "summary_bullets_en": [
+      "Researchers are investigating the use of ground tire rubber (GTR) mixed with PA12 powder for SLS 3D printing.",
+      "The study focuses on evaluating the mechanical properties and stress resistance of these sustainable composite materials.",
+      "This development aims to improve the circular economy in additive manufacturing by repurposing waste rubber."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci testují využití drcené gumy z pneumatik v kombinaci s práškem PA12 pro technologii selektivního laserového sintrování (SLS).",
+      "Studie se zaměřuje na vyhodnocení mechanických vlastností a odolnosti těchto udržitelných kompozitních materiálů.",
+      "Cílem vývoje je podpora cirkulární ekonomiky v aditivní výrobě prostřednictvím opětovného využití odpadní pryže."
+    ],
+    "tags": [
+      "Material",
+      "SLS",
+      "PA12",
+      "Sustainability",
+      "Additive Manufacturing",
+      "Composite Materials"
+    ]
+  },
+  {
+    "title": "3D tištěný betonový most z MIT ukazuje, že omezujícím faktorem je hardware tiskárny, nikoliv beton",
+    "summary": "<div style=\"display: flex;\"><div><h2><a href=\"https://3dprinting.com/news/mits-3d-printed-concrete-bridge-shows-printer-hardware-not-concrete-is-the-limiting-factor/\" target=\"_blank\">MIT&#8217;s 3D-Printed Concrete Bridge Shows Printer Hardware, Not Concrete, Is the Limiting Factor</a></h2><span style=\"color: #777; font-size: 14px; margin-top: auto;\">July 16</span></div><div><img alt=\"MIT&#039;s 3D-Printed Concrete Bridge Shows Printer Hardware, Not Concrete, Is the Limiting Factor\" class=\"attachment-singular-featured-thumb size-singular-featured-thumb wp-post-image\" height=\"500\" src=\"https://3dprinting.com/wp-content/uploads/68389908048-500x500.jpg\" style=\"border-radius: 10px; overflow: hidden;\" width=\"500\" /></div></div>",
+    "image": "https://3dprinting.com/wp-content/uploads/68389908048-500x500.jpg",
+    "source": "3DPrinting.com",
+    "published": "2026-07-16T07:43:22+00:00",
+    "url": "https://3dprinting.com/news/mits-3d-printed-concrete-bridge-shows-printer-hardware-not-concrete-is-the-limiting-factor/",
+    "forced_tags": [],
+    "title_en": "MIT’s 3D-Printed Concrete Bridge Shows Printer Hardware, Not Concrete, Is the Limiting Factor",
+    "summary_bullets_en": [
+      "Researchers at MIT have successfully 3D printed a full-scale concrete bridge, demonstrating the viability of the technology for infrastructure.",
+      "The study reveals that the primary bottleneck in large-scale concrete printing is the mechanical hardware of the printer, rather than the concrete material itself.",
+      "Advancements in robotic systems and print head design are identified as the key areas for future development to improve speed and structural reliability.",
+      "This project highlights a shift in focus from material chemistry to mechanical engineering to overcome current industry limitations."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z MIT úspěšně vytiskli na 3D tiskárně betonový most v plném měřítku, čímž prokázali životaschopnost této technologie pro infrastrukturu.",
+      "Studie odhaluje, že hlavním úzkým hrdlem při velkoformátovém tisku z betonu je mechanický hardware tiskárny, nikoliv samotný betonový materiál.",
+      "Pokroky v robotických systémech a konstrukci tiskových hlav jsou identifikovány jako klíčové oblasti pro budoucí vývoj, které mají zvýšit rychlost a strukturální spolehlivost.",
+      "Tento projekt zdůrazňuje posun v zaměření od chemie materiálů ke strojnímu inženýrství s cílem překonat současná omezení v oboru."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Construction",
+      "MIT",
+      "Concrete 3D Printing",
+      "Robotics",
+      "Infrastructure"
+    ]
+  },
+  {
+    "title": "USS Essex tiskne vlastní náhradní díly přímo na moři: RIMPAC 2026",
+    "summary": "At sea, a broken component can&#8217;t simply be reordered and delivered the next morning. Some items take weeks to reach a deployed ship, and others are no longer produced at all. To ease that strain, the Wasp-class amphibious assault ship USS Essex (LHD 2), working alongside Combat Logistics Battalion 13 of the 13th Marine Expeditionary&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/1000w_q95-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-07-16T07:02:49+00:00",
+    "url": "https://3dprintingindustry.com/news/uss-essex-prints-its-own-parts-at-sea-rimpac-2026-253121/?utm_source=rss&utm_medium=rss&utm_campaign=uss-essex-prints-its-own-parts-at-sea-rimpac-2026",
+    "forced_tags": [],
+    "title_en": "USS Essex Prints Its Own Parts at Sea: RIMPAC 2026",
+    "summary_bullets_en": [
+      "The USS Essex is utilizing 3D printing technology to overcome logistical delays in receiving replacement parts while deployed at sea.",
+      "The initiative addresses the challenge of sourcing obsolete components that are no longer in production.",
+      "The project involves a collaboration between the Wasp-class amphibious assault ship and the 13th Marine Expeditionary Unit's Combat Logistics Battalion."
+    ],
+    "summary_bullets_cs": [
+      "Loď USS Essex využívá technologii 3D tisku k překonání logistických potíží při získávání náhradních dílů během námořních misí.",
+      "Tato iniciativa řeší problém nedostupnosti zastaralých komponentů, které se již běžně nevyrábějí.",
+      "Na projektu spolupracuje výsadková útočná loď třídy Wasp s logistickým praporem 13. expediční jednotky námořní pěchoty."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "USS Essex",
+      "RIMPAC 2026",
+      "Military 3D Printing",
+      "Additive Manufacturing",
+      "Logistics"
+    ]
+  },
+  {
+    "title": "Společnost SWISSto12 uzavřela investiční kolo série C v hodnotě 70 milionů dolarů",
+    "summary": "Swiss satellite manufacturer SWISSto12 has closed a $70 million Series C round. This follows $84.8 million that the company received from ESA and ESA member states, and previous rounds that...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/09/Global-horn-bracket-1.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-16T07:00:41+00:00",
+    "url": "https://3dprint.com/328919/swissto12-closes-70m-round/",
+    "forced_tags": [],
+    "title_en": "SWISSto12 Closes $70 Million Series C Round",
+    "summary_bullets_en": [
+      "Swiss satellite manufacturer SWISSto12 successfully secured $70 million in Series C funding.",
+      "The new capital follows previous support of $84.8 million provided by the ESA and its member states.",
+      "The company continues to scale its operations and technology development in the aerospace sector."
+    ],
+    "summary_bullets_cs": [
+      "Švýcarský výrobce satelitů SWISSto12 úspěšně uzavřel investiční kolo série C v hodnotě 70 milionů dolarů.",
+      "Tato investice navazuje na předchozí finanční podporu ve výši 84,8 milionu dolarů od Evropské kosmické agentury (ESA) a jejích členských států.",
+      "Společnost díky těmto prostředkům dále rozšiřuje své operace a technologický vývoj v oblasti letectví a kosmonautiky."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "SWISSto12",
+      "Aerospace",
+      "Satellite Technology",
+      "Investment"
+    ]
+  },
+  {
+    "title": "Designtech, Caracol a LAMÁQUINA otevírají v Miláně centrum pro robotický 3D tisk",
+    "summary": "Designtech, Caracol, and LAMÁQUINA have partnered to open Milan&#8217;s first permanent hub dedicated to large-format robotic additive manufacturing (LFAM) for the design sector. According to the announcement, the space gives designers, studios, and brands ongoing access to large-scale robotic fabrication and engineering support, rather than a project-by-project service arrangement. The venture, announced July 8, 2026,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/CoFactory_005-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-16T06:48:48+00:00",
+    "url": "https://3dprintingindustry.com/news/designtech-caracol-and-lamaquina-open-robotic-am-hub-in-milan-253128/?utm_source=rss&utm_medium=rss&utm_campaign=designtech-caracol-and-lamaquina-open-robotic-am-hub-in-milan",
+    "forced_tags": [],
+    "title_en": "Designtech, Caracol, and LAMÁQUINA Open Robotic AM Hub in Milan",
+    "summary_bullets_en": [
+      "Designtech, Caracol, and LAMÁQUINA have launched Milan's first permanent hub for large-format robotic additive manufacturing (LFAM).",
+      "The facility provides designers and brands with continuous access to robotic fabrication and expert engineering support.",
+      "The initiative moves away from traditional project-by-project service models toward a more integrated, ongoing collaboration."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti Designtech, Caracol a LAMÁQUINA otevřely v Miláně první stálé centrum zaměřené na velkoformátovou robotickou aditivní výrobu (LFAM).",
+      "Prostor nabízí designérům, studiím a značkám trvalý přístup k robotické výrobě a inženýrské podpoře.",
+      "Projekt nahrazuje běžný model jednorázových zakázek dlouhodobou spoluprací a sdílenou infrastrukturou."
+    ],
+    "tags": [
+      "Services",
+      "Hardware",
+      "LFAM",
+      "Robotic Additive Manufacturing",
+      "Designtech",
+      "Caracol",
+      "LAMÁQUINA"
+    ]
+  },
+  {
+    "title": "Čínský patent navrhuje neobvyklou magnetickou FFF platformu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960517346/0/fabbaloo/default~Chinese-Patent-Proposes-Unusual-Magnetic-FFF-Platform\" rel=\"nofollow\" title=\"Chinese Patent Proposes Unusual Magnetic FFF Platform\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/masterbatch-patent-cover-300x241.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A newly granted Chinese utility patent describes an unusual FFF 3D printer arrangement combining a magnetically driven platform, a rotating work area and a vertically actuated extrusion head.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960517346/0/fabbaloo/default~Chinese-Patent-Proposes-Unusual-Magnetic-FFF-Platform\" rel=\"nofollow\">Chinese Patent Proposes Unusual Magnetic FFF Platform</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/masterbatch-patent-cover-300x241.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-16T02:26:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960517346/0/fabbaloo/default~Chinese-Patent-Proposes-Unusual-Magnetic-FFF-Platform",
+    "forced_tags": [],
+    "title_en": "Chinese Patent Proposes Unusual Magnetic FFF Platform",
+    "summary_bullets_en": [
+      "A new Chinese utility patent introduces a unique FFF 3D printing configuration.",
+      "The design features a magnetically driven platform combined with a rotating work area.",
+      "The system utilizes a vertically actuated extrusion head to manage the printing process.",
+      "This innovative arrangement suggests a departure from traditional Cartesian or delta printer architectures."
+    ],
+    "summary_bullets_cs": [
+      "Nový čínský užitný vzor představuje unikátní konfiguraci pro FFF 3D tisk.",
+      "Design využívá magneticky poháněnou platformu v kombinaci s rotující pracovní plochou.",
+      "Systém pracuje s vertikálně ovládanou tiskovou hlavou pro řízení procesu nanášení materiálu.",
+      "Tento inovativní koncept naznačuje odklon od tradičních kartézských nebo delta tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "FFF",
+      "Patent",
+      "Innovation",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Znáte klíčové díly ve své výrobě? A co s nimi, když se polámou?",
+    "summary": "Nejkritičtější díl vůbec nemusí být ten nejdražší. Často je to nenápadný plastový kryt, doraz, držák, ozubené kolečko nebo součást staršího stroje, kterou už původní výrobce nedodává.",
+    "image": "https://blog.aditivni.cz/_astro/kriticky-dil.BDl28Kme.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-07-15T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/znate-klicove-dily-ve-sve-vyrobe/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Do you know your critical production parts? And what to do when they break?",
+    "summary_bullets_en": [
+      "Critical production parts are often inexpensive, inconspicuous components rather than complex assemblies.",
+      "Common failure points include plastic covers, stops, brackets, and gears.",
+      "3D printing offers a vital solution for replacing obsolete parts that are no longer supported by original manufacturers.",
+      "Identifying these critical components is essential for maintaining operational continuity."
+    ],
+    "summary_bullets_cs": [
+      "Klíčové díly ve výrobě nemusí být ty nejdražší, často jde o nenápadné součástky.",
+      "Mezi nejčastější kritické prvky patří plastové kryty, dorazy, držáky či ozubená kola.",
+      "3D tisk představuje ideální řešení pro náhradu dílů ke starším strojům, které již výrobci nedodávají.",
+      "Včasná identifikace těchto součástek je zásadní pro prevenci odstávek výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Spare Parts",
+      "Maintenance",
+      "Industrial 3D Printing",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Funbox: Stolní 3D tiskárna zaměřená na děti",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/960310539/0/fabbaloo/default~The-Funbox-a-KidFocused-Desktop-D-Printer\" rel=\"nofollow\" title=\"The Funbox, a Kid-Focused Desktop 3D Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/funbox-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Hong Kong-based Ugee announced a new desktop FFF 3D printer specifically designed for kids: the Funbox.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960310539/0/fabbaloo/default~The-Funbox-a-KidFocused-Desktop-D-Printer\" rel=\"nofollow\">The Funbox, a Kid-Focused Desktop 3D Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/funbox-cover-300x169.jpg",
@@ -17,6 +515,34 @@
       "Společnost Ugee se sídlem v Hongkongu představila novou stolní FFF 3D tiskárnu s názvem Funbox.",
       "Zařízení je speciálně navrženo a určeno pro děti.",
       "Cílem tiskárny je zpřístupnit 3D tisk mladším uživatelům bezpečným a jednoduchým způsobem."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Education",
+      "Ugee",
+      "Funbox",
+      "Desktop 3D Printer"
+    ]
+  },
+  {
+    "title": "Funbox: Stolní 3D tiskárna zaměřená na děti",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960503948/0/fabbaloo/default~The-Funbox-a-KidFocused-Desktop-D-Printer\" rel=\"nofollow\" title=\"The Funbox, a Kid-Focused Desktop 3D Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/funbox-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Hong Kong-based Ugee announced a new desktop FFF 3D printer specifically designed for kids: the Funbox.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960503948/0/fabbaloo/default~The-Funbox-a-KidFocused-Desktop-D-Printer\" rel=\"nofollow\">The Funbox, a Kid-Focused Desktop 3D Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/funbox-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-15T16:38:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960503948/0/fabbaloo/default~The-Funbox-a-KidFocused-Desktop-D-Printer",
+    "forced_tags": [],
+    "title_en": "The Funbox, a Kid-Focused Desktop 3D Printer",
+    "summary_bullets_en": [
+      "Hong Kong-based company Ugee has introduced a new desktop FFF 3D printer called Funbox.",
+      "The device is specifically engineered and designed to be accessible for children.",
+      "This launch aims to bring 3D printing technology into the hands of younger users."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Ugee se sídlem v Hongkongu představila novou stolní FFF 3D tiskárnu s názvem Funbox.",
+      "Zařízení je speciálně navrženo a zkonstruováno tak, aby bylo přístupné a bezpečné pro děti.",
+      "Cílem tohoto uvedení na trh je zpřístupnit technologii 3D tisku mladším uživatelům."
     ],
     "tags": [
       "Hardware",
