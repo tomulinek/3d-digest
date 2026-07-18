@@ -1,5 +1,402 @@
 [
   {
+    "title": "Společnost Würth zhasla světla ve své divizi aditivní výroby",
+    "summary": "Five years of 3D printing at W&#252;rth's U.S. division ended with a 50-word LinkedIn post and a mailbox called \"Closing Office\"",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/c0139c1c-df46-4101-9b8a-2ca070d4d2d9_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-07-17T20:27:40+00:00",
+    "url": "https://www.3dprintingjournal.com/p/wurth-turned-off-the-lights-at-additive",
+    "forced_tags": [],
+    "title_en": "Würth turned off the lights at Additive Group",
+    "summary_bullets_en": [
+      "Würth has officially shut down its U.S.-based additive manufacturing division after five years of operation.",
+      "The closure was announced abruptly via a brief 50-word LinkedIn post.",
+      "The company redirected all inquiries to a generic 'Closing Office' email address, signaling a complete exit from the sector."
+    ],
+    "summary_bullets_cs": [
+      "Pětileté působení divize 3D tisku společnosti Würth v USA skončilo.",
+      "Konec byl oznámen strohým příspěvkem na síti LinkedIn o rozsahu 50 slov.",
+      "Veškerá komunikace byla přesměrována na e-mailovou schránku s názvem „Closing Office“."
+    ],
+    "tags": [
+      "Services",
+      "Additive Manufacturing",
+      "Würth",
+      "Industry News",
+      "Business Strategy"
+    ]
+  },
+  {
+    "title": "MIT optimalizuje 3D tisk betonu pro lepší vyrobitelnost",
+    "summary": "Researchers at MIT have developed a design framework that optimizes concrete structures while accounting for the physical limits of 3D printers. The research also reveals that printer hardware, not concrete, is the key bottleneck to achieving lighter structures. Concrete is the world&#8217;s most-used construction material and one of the single largest sources of carbon emissions.&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/mit-cee-concrete-bridge-tackowiak-schemmer-00-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-17T17:23:30+00:00",
+    "url": "https://3dprintingindustry.com/news/mit-optimizes-concrete-3d-printing-for-manufacturability-253179/?utm_source=rss&utm_medium=rss&utm_campaign=mit-optimizes-concrete-3d-printing-for-manufacturability",
+    "forced_tags": [],
+    "title_en": "MIT optimizes concrete 3D printing for manufacturability",
+    "summary_bullets_en": [
+      "MIT researchers created a design framework that aligns concrete structures with the physical constraints of 3D printers.",
+      "The study identifies printer hardware, rather than the concrete material itself, as the primary limitation for creating lighter structures.",
+      "This innovation aims to reduce the environmental impact of concrete, which is a major contributor to global carbon emissions."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z MIT vyvinuli návrhový rámec, který optimalizuje betonové konstrukce s ohledem na fyzikální limity 3D tiskáren.",
+      "Výzkum odhalil, že hlavním úzkým hrdlem pro tvorbu lehčích konstrukcí je hardware tiskárny, nikoliv samotný beton.",
+      "Beton je nejpoužívanějším stavebním materiálem na světě a zároveň jedním z největších zdrojů emisí uhlíku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Construction",
+      "MIT",
+      "Concrete 3D Printing",
+      "Sustainability"
+    ]
+  },
+  {
+    "title": "Společnost SWISSto12 získala 70 milionů dolarů, aby udržela krok s poptávkou po satelitech",
+    "summary": "Swiss satellite and payload maker SWISSto12 has closed a $70 million (€61 million) Series C, funding it says will expand manufacturing as orders climb across commercial and government customers.&#160; The Series C lands after a stretch of steep revenue gains. SWISSto12 reported $140 million (€121 million) in 2025 revenue, and its cumulative contract value has&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/HummingSat_dramatic-1-1024x577-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-17T17:04:33+00:00",
+    "url": "https://3dprintingindustry.com/news/swissto12-raises-70m-to-keep-pace-with-multi-orbit-demand-253161/?utm_source=rss&utm_medium=rss&utm_campaign=swissto12-raises-70m-to-keep-pace-with-multi-orbit-demand",
+    "forced_tags": [],
+    "title_en": "SWISSto12 Raises $70M to keep pace with multi-orbit demand",
+    "summary_bullets_en": [
+      "SWISSto12 secured $70 million in Series C funding to scale up its satellite and payload manufacturing capabilities.",
+      "The company is experiencing rapid growth, reporting $140 million in revenue for 2025.",
+      "The new capital will support increasing demand from both commercial and government sectors for multi-orbit satellite solutions."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce satelitů a technologií SWISSto12 uzavřel investiční kolo Series C v hodnotě 70 milionů dolarů (61 milionů eur).",
+      "Finanční prostředky budou využity k rozšíření výroby v reakci na rostoucí počet zakázek od komerčních i vládních zákazníků.",
+      "Společnost zaznamenala strmý růst tržeb, které v roce 2025 dosáhly 140 milionů dolarů (121 milionů eur)."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "SWISSto12",
+      "Satellite Technology",
+      "Aerospace",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Výzkumníci z Concordia využívají 4D tisk kompozitů k výrobě listů větrných turbín na plochých formách",
+    "summary": "Researchers at Concordia University have developed an inverse 4D printing of composites method for producing curved vertical-axis wind turbine blades from carbon fiber-reinforced epoxy. The process forms the blades on a flat mold, removing the need for tooling that matches the final curved geometry. The method, detailed in Polymer Composites by Emad Fakhimi and Suong&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/image-6-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-07-17T16:53:39+00:00",
+    "url": "https://3dprintingindustry.com/news/concordia-researchers-use-4d-printing-of-composites-to-produce-wind-turbine-blades-on-flat-molds-253156/?utm_source=rss&utm_medium=rss&utm_campaign=concordia-researchers-use-4d-printing-of-composites-to-produce-wind-turbine-blades-on-flat-molds",
+    "forced_tags": [],
+    "title_en": "Concordia researchers use 4D printing of composites to produce wind turbine blades on flat molds",
+    "summary_bullets_en": [
+      "Researchers at Concordia University developed an inverse 4D printing method for carbon fiber-reinforced epoxy composites.",
+      "The process allows for the creation of curved wind turbine blades using only flat molds.",
+      "This innovation eliminates the need for expensive, complex tooling that matches the final geometry of the blades.",
+      "The study, led by Emad Fakhimi and Suong Hoa, was recently published in the journal Polymer Composites."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Concordia University vyvinuli metodu inverzního 4D tisku kompozitů z epoxidové pryskyřice vyztužené uhlíkovými vlákny.",
+      "Proces umožňuje tvarování listů turbín na plochých formách, čímž odpadá nutnost výroby drahých forem odpovídajících finálnímu zakřivení.",
+      "Metoda, kterou podrobně popsali Emad Fakhimi a Suong Hoa v časopise Polymer Composites, představuje významný posun v efektivitě výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "4D Printing",
+      "Composites",
+      "Wind Energy",
+      "Carbon Fiber",
+      "Concordia University"
+    ]
+  },
+  {
+    "title": "Které společnosti vyrábějící 3D tiskárny lobbují u vlády USA?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960757619/0/fabbaloo/default~Which-D-Printer-Companies-Lobby-the-US-Government\" rel=\"nofollow\" title=\"Which 3D Printer Companies Lobby the US Government? \"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/lobbying-cover-1-300x205.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Our story earlier this week about Stratasys’ government lobbying efforts got me thinking.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960757619/0/fabbaloo/default~Which-D-Printer-Companies-Lobby-the-US-Government\" rel=\"nofollow\">Which 3D Printer Companies Lobby the US Government? </a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/lobbying-cover-1-300x205.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-07-17T16:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960757619/0/fabbaloo/default~Which-D-Printer-Companies-Lobby-the-US-Government",
+    "forced_tags": [],
+    "title_en": "Which 3D Printer Companies Lobby the US Government?",
+    "summary_bullets_en": [
+      "The article investigates which major 3D printing companies are actively engaging in lobbying efforts within the US government.",
+      "It follows up on recent reports regarding Stratasys and their specific political influence activities.",
+      "The piece aims to shed light on how additive manufacturing firms seek to shape federal policy and industry regulations."
+    ],
+    "summary_bullets_cs": [
+      "Článek zkoumá, které velké společnosti v oblasti 3D tisku se aktivně zapojují do lobbingu u americké vlády.",
+      "Navazuje na nedávné zprávy týkající se společnosti Stratasys a jejích aktivit v oblasti politického vlivu.",
+      "Cílem textu je osvětlit, jak se firmy z oboru aditivní výroby snaží ovlivňovat federální politiku a průmyslové regulace."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Stratasys",
+      "3D Printing Industry",
+      "Government Relations",
+      "Lobbying"
+    ]
+  },
+  {
+    "title": "Prodeje 3D tiskáren pro začátečníky prudce rostou, tržby v odvětví vzrostly o 32 %",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960750794/0/fabbaloo/default~EntryLevel-D-Printer-Sales-Surge-as-Industry-Revenue-Climbs\" rel=\"nofollow\" title=\"Entry-Level 3D Printer Sales Surge as Industry Revenue Climbs 32%\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/context-q2-2026-cover-300x191.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There’s a new 3D print industry report from CONTEXT, which now shows entry-level 3D printers as the biggest market segment.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960750794/0/fabbaloo/default~EntryLevel-D-Printer-Sales-Surge-as-Industry-Revenue-Climbs\" rel=\"nofollow\">Entry-Level 3D Printer Sales Surge as Industry Revenue Climbs 32%</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/context-q2-2026-cover-300x191.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-17T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960750794/0/fabbaloo/default~EntryLevel-D-Printer-Sales-Surge-as-Industry-Revenue-Climbs",
+    "forced_tags": [],
+    "title_en": "Entry-Level 3D Printer Sales Surge as Industry Revenue Climbs 32%",
+    "summary_bullets_en": [
+      "A new report from CONTEXT highlights a significant 32% growth in total 3D printing industry revenue.",
+      "Entry-level 3D printers have officially become the largest market segment by volume.",
+      "The data indicates a shift in market dynamics, with consumer-grade hardware driving widespread adoption."
+    ],
+    "summary_bullets_cs": [
+      "Nová zpráva od společnosti CONTEXT ukazuje na výrazný 32% nárůst celkových tržeb v odvětví 3D tisku.",
+      "3D tiskárny pro začátečníky se oficiálně staly největším tržním segmentem z hlediska objemu prodejů.",
+      "Data naznačují změnu v dynamice trhu, kde masové rozšíření pohání především cenově dostupný hardware."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing Industry",
+      "Market Analysis",
+      "Entry-Level Printers",
+      "CONTEXT"
+    ]
+  },
+  {
+    "title": "Patent navrhuje samo-zatahovací kryt trysky pro FFF tiskárny",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960732587/0/fabbaloo/default~Patent-Proposes-Self-Retracting-FFF-Nozzle-Guard\" rel=\"nofollow\" title=\"Patent Proposes Self Retracting FFF Nozzle Guard\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/nozzle-protection-patent-cover-300x210.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A newly published Chinese patent proposes an unusually elaborate way to protect an FFF 3D printer nozzle when the machine is idle.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960732587/0/fabbaloo/default~Patent-Proposes-Self-Retracting-FFF-Nozzle-Guard\" rel=\"nofollow\">Patent Proposes Self Retracting FFF Nozzle Guard</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/nozzle-protection-patent-cover-300x210.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-17T13:01:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960732587/0/fabbaloo/default~Patent-Proposes-Self-Retracting-FFF-Nozzle-Guard",
+    "forced_tags": [],
+    "title_en": "Patent Proposes Self Retracting FFF Nozzle Guard",
+    "summary_bullets_en": [
+      "A new Chinese patent introduces a mechanism to protect FFF 3D printer nozzles during idle states.",
+      "The design features a self-retracting guard that shields the nozzle when not in use.",
+      "This innovation aims to prevent damage and potential clogging issues associated with exposed hotends."
+    ],
+    "summary_bullets_cs": [
+      "Nový čínský patent představuje mechanismus pro ochranu trysky FFF 3D tiskárny v době nečinnosti.",
+      "Konstrukce využívá samo-zatahovací kryt, který trysku chrání, když zrovna netiskne.",
+      "Tato inovace má za cíl předcházet poškození trysky a problémům s ucpáváním, které vznikají při odkrytém hotendu."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "FFF",
+      "Nozzle",
+      "Patent",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Zaha Hadid Architects vytiskli 6metrový model pomocí robotických ramen od společnosti WASP",
+    "summary": "Zaha Hadid Architects (ZHA) have successfully used WASP 3D printers to make a 6-meter-tall model of an aircraft control tower. Zaha Hadid Architects’ Tech Lab made the tower in-house for the ZHAviation...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/Zaha_Hadid_Architects_Tech_Lab_3D_printing-1024x743.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-17T13:00:21+00:00",
+    "url": "https://3dprint.com/328538/zha-print-6m-model-with-wasp/",
+    "forced_tags": [],
+    "title_en": "Zaha Hadid Architects Print 6M Model with WASP’s Robotic Arm Solutions",
+    "summary_bullets_en": [
+      "Zaha Hadid Architects (ZHA) utilized WASP robotic 3D printing technology to construct a 6-meter-tall model of an aircraft control tower.",
+      "The project was executed in-house by the ZHA Tech Lab as part of their ZHAviation initiative.",
+      "This collaboration highlights the potential of large-scale robotic additive manufacturing in architectural prototyping and aviation infrastructure."
+    ],
+    "summary_bullets_cs": [
+      "Architektonické studio Zaha Hadid Architects (ZHA) využilo 3D tiskárny WASP k vytvoření 6 metrů vysokého modelu řídicí věže letiště.",
+      "Model byl vyroben přímo v interní laboratoři ZHA Tech Lab v rámci jejich iniciativy ZHAviation.",
+      "Projekt demonstruje možnosti velkoformátového robotického 3D tisku v oblasti architektonického prototypování a letecké infrastruktury."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Zaha Hadid Architects",
+      "WASP",
+      "Robotic 3D Printing",
+      "Large-scale Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Nová zubní laboratoř: „Tři technici zvládnou stovku oblouků,“ říká expert na digitální stomatologii Josh Jakson",
+    "summary": "Josh Jakson’s path into digital dentistry started long before he had a job title. He grew up around it. His father, a Polish immigrant, started the family’s dental laboratory in...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/Joshua-Jakson-headshot.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-17T12:30:11+00:00",
+    "url": "https://3dprint.com/326288/the-new-dental-lab-three-technicians-can-handle-a-hundred-arches-says-digital-dentistry-expert-josh-jakson/",
+    "forced_tags": [],
+    "title_en": "The New Dental Lab: “Three Technicians Can Handle a Hundred Arches,” Says Digital Dentistry Expert Josh Jakson",
+    "summary_bullets_en": [
+      "Josh Jakson leverages his lifelong experience in his family's dental lab to advocate for digital transformation in dentistry.",
+      "The integration of advanced 3D printing technology allows a small team of three technicians to process up to a hundred dental arches efficiently.",
+      "Digital workflows are replacing traditional methods, significantly increasing productivity and precision in modern dental laboratories."
+    ],
+    "summary_bullets_cs": [
+      "Josh Jakson využívá své celoživotní zkušenosti z rodinné zubní laboratoře k prosazování digitální transformace ve stomatologii.",
+      "Integrace pokročilé technologie 3D tisku umožňuje malému týmu tří techniků efektivně zpracovat až stovku zubních oblouků.",
+      "Digitální pracovní postupy nahrazují tradiční metody, což výrazně zvyšuje produktivitu a přesnost v moderních zubních laboratořích."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Digital Dentistry",
+      "3D Printing",
+      "Dental Lab"
+    ]
+  },
+  {
+    "title": "Proč by řízení paprsku mohlo redefinovat budoucnost EB-PBF",
+    "summary": "In Part 1, Ulf Lindhe examined how advances in beam control, point melting strategies, and process monitoring are changing the way engineers think about electron beam powder bed fusion (EB-PBF)....",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/dYQKwVK2DoDBv00U7mfC6hL3gCpetI3hBAzcCjELA-10GgdEzpGiYPoZ6Wk9kAjAIInEbpg5PMsGodvgV0g_gD2dGIETaMJbc4kiKa9oEkDNmdeGl36URlAOG1r6cqb8eC3y8cdCPy1YJQSsfDLqT8cjVMaG2D6zSaL2tbBbVNnlFjny9WcSNljWDv.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-17T12:00:34+00:00",
+    "url": "https://3dprint.com/326804/why-beam-control-could-redefine-the-future-of-eb-pbf/",
+    "forced_tags": [],
+    "title_en": "Why Beam Control Could Redefine the Future of EB-PBF",
+    "summary_bullets_en": [
+      "Explores how advanced beam control is transforming EB-PBF technology.",
+      "Highlights the impact of innovative point melting strategies on production efficiency.",
+      "Discusses the role of real-time process monitoring in enhancing part quality.",
+      "Examines how these technical shifts are changing engineering perspectives on metal additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Zkoumá, jak pokročilé řízení paprsku transformuje technologii EB-PBF.",
+      "Zdůrazňuje dopad inovativních strategií bodového tavení na efektivitu výroby.",
+      "Diskutuje o roli monitorování procesu v reálném čase při zvyšování kvality dílů.",
+      "Analyzuje, jak tyto technické posuny mění pohled inženýrů na aditivní výrobu kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "EB-PBF",
+      "Electron Beam Melting",
+      "Additive Manufacturing",
+      "Metal 3D Printing",
+      "Process Monitoring"
+    ]
+  },
+  {
+    "title": "MarineLab3D poskytuje majitelům lodí parametrické 3D modely na vyžádání",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960723089/0/fabbaloo/default~MarineLabD-Provides-OnDemand-Parametric-D-Models-to-Boat-Owners\" rel=\"nofollow\" title=\"MarineLab3D Provides On-Demand Parametric 3D Models to Boat Owners\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/marinelab3d-logo-300x108.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There’s a new 3D model repository: MarineLab3D.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960723089/0/fabbaloo/default~MarineLabD-Provides-OnDemand-Parametric-D-Models-to-Boat-Owners\" rel=\"nofollow\">MarineLab3D Provides On-Demand Parametric 3D Models to Boat Owners</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/marinelab3d-logo-300x108.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-07-17T11:53:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960723089/0/fabbaloo/default~MarineLabD-Provides-OnDemand-Parametric-D-Models-to-Boat-Owners",
+    "forced_tags": [],
+    "title_en": "MarineLab3D Provides On-Demand Parametric 3D Models to Boat Owners",
+    "summary_bullets_en": [
+      "MarineLab3D has launched as a new specialized repository for 3D printable models.",
+      "The platform focuses on providing parametric designs tailored for boat owners.",
+      "It offers on-demand solutions to address specific maintenance and customization needs in the marine industry."
+    ],
+    "summary_bullets_cs": [
+      "Byl spuštěn MarineLab3D, nový specializovaný repozitář pro 3D tisknutelné modely.",
+      "Platforma se zaměřuje na poskytování parametrických návrhů přizpůsobených potřebám majitelů lodí.",
+      "Nabízí řešení na vyžádání pro údržbu a úpravy v námořním průmyslu."
+    ],
+    "tags": [
+      "Services",
+      "Software",
+      "3D Modeling",
+      "Marine Industry",
+      "Parametric Design",
+      "On-Demand Manufacturing"
+    ]
+  },
+  {
+    "title": "Tlakové trupy z 3D tisku čelí testům imploze",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/960695216/0/fabbaloo/default~Metal-D-Printed-Hulls-Face-Implosion-Tests\" rel=\"nofollow\" title=\"Metal 3D Printed Hulls Face Implosion Tests\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/implosion-setup-cover-300x197.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have put metal 3D printed pressure cylinders through a rather unforgiving test.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960695216/0/fabbaloo/default~Metal-D-Printed-Hulls-Face-Implosion-Tests\" rel=\"nofollow\">Metal 3D Printed Hulls Face Implosion Tests</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/implosion-setup-cover-300x197.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-17T08:30:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/960695216/0/fabbaloo/default~Metal-D-Printed-Hulls-Face-Implosion-Tests",
+    "forced_tags": [],
+    "title_en": "Metal 3D Printed Hulls Face Implosion Tests",
+    "summary_bullets_en": [
+      "Researchers are conducting rigorous stress tests on metal 3D printed pressure cylinders.",
+      "The study focuses on evaluating the structural integrity and failure points of additive manufactured hulls under extreme pressure.",
+      "These tests are critical for determining the viability of 3D printed components in deep-sea or aerospace environments."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci podrobují tlakové válce vyrobené 3D tiskem z kovu náročným zátěžovým zkouškám.",
+      "Studie se zaměřuje na vyhodnocení strukturální integrity a bodů selhání aditivně vyráběných trupů pod extrémním tlakem.",
+      "Tyto testy jsou zásadní pro určení životaschopnosti 3D tištěných komponent v hlubinném nebo leteckém průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Metal 3D Printing",
+      "Pressure Testing",
+      "Additive Manufacturing",
+      "Structural Engineering"
+    ]
+  },
+  {
+    "title": "Aditivní výroba na rozcestí",
+    "summary": "Additive manufacturing is at a crossroads. Simultaneously, we find ourselves between certain very different modalities, applications, and industries. Rather than being able to explore them all, companies will now have...",
+    "image": "https://3dprint.com/wp-content/uploads/2015/07/MakerBot_Replicator2_Front_View-700x466-1.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-17T07:00:28+00:00",
+    "url": "https://3dprint.com/327686/additive-manufacturing-at-a-crossroads/",
+    "forced_tags": [],
+    "title_en": "Additive Manufacturing at a Crossroads",
+    "summary_bullets_en": [
+      "Additive manufacturing is currently navigating a critical turning point between diverse technologies and industrial applications.",
+      "Companies are facing the challenge of strategic focus rather than attempting to explore every available modality.",
+      "The industry is shifting towards more specialized and targeted implementation strategies to ensure long-term viability."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba se nachází v kritickém bodě zlomu mezi různými technologiemi a průmyslovými aplikacemi.",
+      "Firmy nyní čelí výzvě strategického zaměření, místo aby se snažily prozkoumat všechny dostupné možnosti současně.",
+      "Průmysl se posouvá směrem ke specializovanějším a cílenějším implementačním strategiím pro zajištění dlouhodobé životaschopnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Additive Manufacturing",
+      "Industry Strategy",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Společnost Solukon uvádí SPR-Pathfinder PRO pro simulaci odstraňování prášku u komplexních LPBF dílů",
+    "summary": "Solukon, a German manufacturer of automated depowdering systems, has launched SPR-Pathfinder PRO, an upgraded software package for planning and simulating powder removal from complex laser powder bed fusion parts. The software is intended particularly for components with fine internal channels and densely packed surfaces. The PRO edition removes the previous voxel limit, increases the particle-simulation&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/image-1-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-17T06:54:21+00:00",
+    "url": "https://3dprintingindustry.com/news/solukon-launches-spr-pathfinder-pro-for-complex-lpbf-depowdering-simulation-253145/?utm_source=rss&utm_medium=rss&utm_campaign=solukon-launches-spr-pathfinder-pro-for-complex-lpbf-depowdering-simulation",
+    "forced_tags": [],
+    "title_en": "Solukon launches SPR-Pathfinder PRO for complex LPBF depowdering simulation",
+    "summary_bullets_en": [
+      "Solukon introduced SPR-Pathfinder PRO, an advanced software for simulating powder removal in LPBF parts.",
+      "The PRO version removes previous voxel limitations and enhances particle-simulation capabilities.",
+      "It is specifically designed to optimize depowdering for components with intricate internal channels and dense surfaces."
+    ],
+    "summary_bullets_cs": [
+      "Německý výrobce Solukon představil SPR-Pathfinder PRO, vylepšený softwarový balíček pro plánování a simulaci odstraňování prášku z dílů vyrobených technologií LPBF.",
+      "Software je určen zejména pro komponenty s jemnými vnitřními kanálky a hustě uspořádanými povrchy.",
+      "Verze PRO odstraňuje předchozí limity voxelů a zvyšuje výkon simulace částic."
+    ],
+    "tags": [
+      "Software",
+      "Solukon",
+      "LPBF",
+      "3D Printing",
+      "Depowdering",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Patent na výsuvný senzor cílí na čistší monitorování filamentu",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/960643286/0/fabbaloo/default~Retracting-Sensor-Patent-Targets-Cleaner-Filament-Monitoring\" rel=\"nofollow\" title=\"Retracting Sensor Patent Targets Cleaner Filament Monitoring\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/cleaner-filament-monitoring-patent-cover-300x234.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A newly granted Chinese utility model patent proposes a self-cleaning, retractable filament sensor for FFF 3D printers.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/960643286/0/fabbaloo/default~Retracting-Sensor-Patent-Targets-Cleaner-Filament-Monitoring\" rel=\"nofollow\">Retracting Sensor Patent Targets Cleaner Filament Monitoring</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/cleaner-filament-monitoring-patent-cover-300x234.jpg",
@@ -25,6 +422,39 @@
       "Filament Sensor",
       "Patent",
       "Innovation"
+    ]
+  },
+  {
+    "title": "Když nejzkušenější člověk ve výrobě vyrábí provizorní držák",
+    "summary": "Zkušený údržbář, technolog nebo seřizovač nemá opakovaně vyrábět stejné provizorní pomůcky. Jak je standardizovat a uvolnit ruce nejlepším lidem ve výrobě?",
+    "image": "https://blog.aditivni.cz/_astro/Nejzkusenejsi-dela-opravy.DQ09iD7D.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-07-16T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/kdyz-nejzkusenejsi-clovek-vyrabi-provizorni-drzak/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "When the most experienced production expert is making a makeshift holder",
+    "summary_bullets_en": [
+      "Highly skilled workers should not waste time repeatedly manufacturing identical makeshift tools.",
+      "Standardizing custom production aids is essential for operational efficiency.",
+      "3D printing offers a scalable way to digitize and automate the creation of workshop fixtures.",
+      "Freeing up top experts from manual tasks allows them to focus on high-value production challenges."
+    ],
+    "summary_bullets_cs": [
+      "Vysoce kvalifikovaní pracovníci by neměli ztrácet čas opakovanou výrobou stejných provizorních pomůcek.",
+      "Standardizace zakázkových výrobních pomůcek je klíčová pro efektivitu provozu.",
+      "3D tisk nabízí škálovatelný způsob, jak digitalizovat a automatizovat tvorbu dílenských přípravků.",
+      "Uvolnění rukou nejlepším odborníkům od rutinních úkolů jim umožní soustředit se na řešení náročnějších výrobních výzev."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Additive Manufacturing",
+      "Industry 4.0",
+      "Process Optimization",
+      "Jigs and Fixtures",
+      "ADITIVNI.cz"
     ]
   },
   {
