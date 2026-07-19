@@ -1,5 +1,63 @@
 [
   {
+    "title": "Zprávy ze světa 3D tisku, 18. července 2026: Patent, beton, ocelové komponenty a další",
+    "summary": "In this weekend&#8217;s 3D Printing News Briefs, Massivit has opened its first European Service Center to support its RapidWings platform, and nScrypt was granted a patent for its high-viscosity material...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/Opening-of-Europe-Service-Center-to-Support-RapidWings-Platform-CREDIT-Massivit-Reduced-1024x538.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-18T12:30:06+00:00",
+    "url": "https://3dprint.com/329042/3d-printing-news-briefs-7-18-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, July 18, 2026: Patent, Concrete, Steel Components, & More",
+    "summary_bullets_en": [
+      "Massivit has launched its inaugural European Service Center to provide dedicated support for the RapidWings platform.",
+      "nScrypt successfully secured a new patent focused on advanced high-viscosity material deposition technology.",
+      "The industry update covers diverse developments ranging from concrete construction to specialized steel component manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Massivit otevřela své první evropské servisní centrum na podporu platformy RapidWings.",
+      "Společnost nScrypt získala patent na technologii pro nanášení materiálů s vysokou viskozitou.",
+      "Aktuální přehled pokrývá různorodý vývoj od betonových konstrukcí až po výrobu specializovaných ocelových komponentů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Material",
+      "Massivit",
+      "nScrypt",
+      "RapidWings"
+    ]
+  },
+  {
+    "title": "Nový silikon umožňuje 3D tiskárnám vyrábět kontaktní čočky na míru",
+    "summary": "A team at the University of Waterloo has built a digital manufacturing system that prints custom contact lenses in roughly 20 minutes, raising the prospect that a patient could be measured, have a lens designed, and walk out wearing it after one clinic visit. The approach pairs a purpose-built silicone material with additive manufacturing, and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/sci-221-26_-_3d_printing_rigid_contact_lens_article_photos_-_shirley_tang-12-150x100.avif",
+    "source": "3D Printing Industry",
+    "published": "2026-07-18T11:31:00+00:00",
+    "url": "https://3dprintingindustry.com/news/a-new-silicone-lets-3d-printers-turn-out-custom-fit-contact-lenses-253165/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-silicone-lets-3d-printers-turn-out-custom-fit-contact-lenses",
+    "forced_tags": [],
+    "title_en": "A new silicone lets 3D printers turn out custom-fit contact lenses",
+    "summary_bullets_en": [
+      "Researchers at the University of Waterloo developed a digital system for 3D printing custom contact lenses.",
+      "The process utilizes a specialized silicone material and takes approximately 20 minutes to complete.",
+      "This innovation enables patients to receive perfectly fitted lenses during a single clinical visit.",
+      "The technology combines additive manufacturing with precise optical design to improve patient outcomes."
+    ],
+    "summary_bullets_cs": [
+      "Tým z University of Waterloo vyvinul systém digitální výroby, který tiskne kontaktní čočky na míru za zhruba 20 minut.",
+      "Tento přístup kombinuje speciálně vyvinutý silikonový materiál s aditivní výrobou.",
+      "Inovace otevírá možnost, aby pacient přišel na měření, nechal si čočku navrhnout a během jedné návštěvy kliniky s ní odešel."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Medical Technology",
+      "University of Waterloo",
+      "Contact Lenses",
+      "Silicone"
+    ]
+  },
+  {
     "title": "Společnost Würth zhasla světla ve své divizi aditivní výroby",
     "summary": "Five years of 3D printing at W&#252;rth's U.S. division ended with a 50-word LinkedIn post and a mailbox called \"Closing Office\"",
     "image": "https://substack-post-media.s3.amazonaws.com/public/images/c0139c1c-df46-4101-9b8a-2ca070d4d2d9_700x500.jpeg",
