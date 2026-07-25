@@ -1,5 +1,323 @@
 [
   {
+    "title": "ERDC integruje optická vlákna do dílů vyráběných pomocí LFAM",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/962716721/0/fabbaloo/default~ERDC-Embeds-Fiber-Optics-In-LFAM-Parts\" rel=\"nofollow\" title=\"ERDC Embeds Fiber Optics In LFAM Parts\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/erdc-lfam-cover-300x220.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>U.S. Army ERDC researchers have shown that fiber optic strain sensors can be embedded during large format additive manufacturing without changing the basic print process.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/962716721/0/fabbaloo/default~ERDC-Embeds-Fiber-Optics-In-LFAM-Parts\" rel=\"nofollow\">ERDC Embeds Fiber Optics In LFAM Parts</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/erdc-lfam-cover-300x220.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-24T20:41:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/962716721/0/fabbaloo/default~ERDC-Embeds-Fiber-Optics-In-LFAM-Parts",
+    "forced_tags": [],
+    "title_en": "ERDC Embeds Fiber Optics In LFAM Parts",
+    "summary_bullets_en": [
+      "U.S. Army ERDC researchers successfully integrated fiber optic strain sensors directly into large-format additive manufacturing (LFAM) components.",
+      "The integration process was achieved without requiring modifications to the standard 3D printing workflow.",
+      "This advancement enables real-time structural health monitoring for large-scale 3D printed parts.",
+      "The technique paves the way for smarter, self-diagnosing infrastructure and military equipment."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z U.S. Army ERDC úspěšně integrovali senzory napětí z optických vláken přímo do komponent vyráběných velkoformátovým aditivním tiskem (LFAM).",
+      "Proces integrace byl proveden bez nutnosti jakýchkoliv úprav standardního postupu 3D tisku.",
+      "Tento pokrok umožňuje sledování strukturální integrity velkorozměrových 3D tištěných dílů v reálném čase.",
+      "Technika otevírá cestu k inteligentnější infrastruktuře a vojenskému vybavení se schopností vlastní diagnostiky."
+    ],
+    "tags": [
+      "Hardware",
+      "Research",
+      "LFAM",
+      "Additive Manufacturing",
+      "Fiber Optics",
+      "Sensors",
+      "U.S. Army ERDC"
+    ]
+  },
+  {
+    "title": "Meshy představuje funkci Auto Split, zatímco investice 400 milionů USD pohání expanzi AI",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/962644133/0/fabbaloo/default~Meshy-Unveils-Auto-Split-Feature-as-USM-Funding-Fuels-AI-Expansion\" rel=\"nofollow\" title=\"Meshy Unveils Auto Split Feature as US$400M Funding Fuels AI Expansion\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/meshy-split-cover-300x263.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Two major news items from Meshy.ai this week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/962644133/0/fabbaloo/default~Meshy-Unveils-Auto-Split-Feature-as-USM-Funding-Fuels-AI-Expansion\" rel=\"nofollow\">Meshy Unveils Auto Split Feature as US$400M Funding Fuels AI Expansion</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/meshy-split-cover-300x263.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-24T16:22:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/962644133/0/fabbaloo/default~Meshy-Unveils-Auto-Split-Feature-as-USM-Funding-Fuels-AI-Expansion",
+    "forced_tags": [],
+    "title_en": "Meshy Unveils Auto Split Feature as US$400M Funding Fuels AI Expansion",
+    "summary_bullets_en": [
+      "Meshy.ai has introduced a new 'Auto Split' feature to enhance its AI-driven 3D modeling capabilities.",
+      "The company successfully secured US$400 million in new funding to accelerate its AI technology development.",
+      "These advancements aim to streamline the workflow for 3D designers and creators using generative AI tools."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Meshy.ai představila novou funkci 'Auto Split', která vylepšuje možnosti 3D modelování pomocí umělé inteligence.",
+      "Firma úspěšně získala investici ve výši 400 milionů USD, která má urychlit vývoj jejích technologií v oblasti AI.",
+      "Tato vylepšení mají za cíl zefektivnit pracovní postupy pro 3D designéry a tvůrce využívající generativní AI nástroje."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Meshy.ai",
+      "AI",
+      "3D Modeling",
+      "Generative AI"
+    ]
+  },
+  {
+    "title": "Čínský patent kombinuje ohřev materiálu ve formě granulátu a dávkované podávání",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/962625953/0/fabbaloo/default~Chinese-Patent-Combines-Pellet-Material-Heating-And-Metered-Feeding\" rel=\"nofollow\" title=\"Chinese Patent Combines Pellet Material Heating And Metered Feeding\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/pellet-heating-feeding-patent-cover-300x228.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A newly granted Chinese utility model proposes combining material heating, mixing and forced feeding inside one compact 3D printer hopper.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/962625953/0/fabbaloo/default~Chinese-Patent-Combines-Pellet-Material-Heating-And-Metered-Feeding\" rel=\"nofollow\">Chinese Patent Combines Pellet Material Heating And Metered Feeding</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/pellet-heating-feeding-patent-cover-300x228.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-24T15:20:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/962625953/0/fabbaloo/default~Chinese-Patent-Combines-Pellet-Material-Heating-And-Metered-Feeding",
+    "forced_tags": [],
+    "title_en": "Chinese Patent Combines Pellet Material Heating And Metered Feeding",
+    "summary_bullets_en": [
+      "A new Chinese utility model patent introduces an integrated system for 3D printers.",
+      "The design combines material heating, mixing, and forced feeding into a single compact hopper unit.",
+      "This innovation aims to streamline the extrusion process for pellet-based 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Nový čínský užitný vzor představuje integrovaný systém pro 3D tiskárny.",
+      "Konstrukce kombinuje ohřev materiálu, míchání a nucené podávání do jedné kompaktní násypky.",
+      "Tato inovace má za cíl zefektivnit proces vytlačování u 3D tisku využívajícího granulát."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Pellet Extrusion",
+      "Patent",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "GKN Aerospace a Pratt & Whitney využijí aditivní výrobu pro motor F135",
+    "summary": "GKN Aerospace and RTX unit Pratt &#38; Whitney will collaborate on additive manufacturing for the F135 engine. This is an important engine. The turbofan powers the F-35 Lightning II, but...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/20260720-fia2026-am-05789.jpg-1024x683.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-24T13:30:15+00:00",
+    "url": "https://3dprint.com/329233/gkn-pratt-to-use-additive-on-the-f135-engine/",
+    "forced_tags": [],
+    "title_en": "GKN Aerospace & Pratt & Whitney to Use Additive for the F135 Engine",
+    "summary_bullets_en": [
+      "GKN Aerospace and Pratt & Whitney are partnering to integrate additive manufacturing into the production of the F135 engine.",
+      "The F135 engine is the critical propulsion system for the F-35 Lightning II fighter jet.",
+      "This collaboration aims to leverage 3D printing to enhance engine performance and supply chain efficiency.",
+      "The initiative highlights the growing importance of advanced manufacturing in the aerospace and defense sectors."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti GKN Aerospace a Pratt & Whitney budou spolupracovat na využití aditivní výroby pro motor F135.",
+      "Tento motor je klíčovým pohonným systémem pro stíhací letoun F-35 Lightning II.",
+      "Cílem spolupráce je využití 3D tisku ke zvýšení výkonu motoru a zefektivnění dodavatelského řetězce.",
+      "Iniciativa podtrhuje rostoucí význam pokročilé výroby v leteckém a obranném průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "GKN Aerospace",
+      "Pratt & Whitney",
+      "RTX",
+      "F135 Engine",
+      "Aerospace",
+      "Defense"
+    ]
+  },
+  {
+    "title": "ELEGOO uvádí na trh sušičku filamentů H1 HT s vysokoteplotním sušením 85 °C",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/962589446/0/fabbaloo/default~ELEGOO-Launches-H-HT-Filament-Dryer-with-%c2%b0C-HighTemperature-Drying\" rel=\"nofollow\" title=\"ELEGOO Launches H1 HT Filament Dryer with 85°C High-Temperature Drying\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/elegoo-h1ht-cover-300x225.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>ELEGOO announced a new 3D printing peripheral: the H1 HT Filament Dryer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/962589446/0/fabbaloo/default~ELEGOO-Launches-H-HT-Filament-Dryer-with-%c2%b0C-HighTemperature-Drying\" rel=\"nofollow\">ELEGOO Launches H1 HT Filament Dryer with 85°C High-Temperature Drying</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/elegoo-h1ht-cover-300x225.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-24T13:18:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/962589446/0/fabbaloo/default~ELEGOO-Launches-H-HT-Filament-Dryer-with-%c2%b0C-HighTemperature-Drying",
+    "forced_tags": [],
+    "title_en": "ELEGOO Launches H1 HT Filament Dryer with 85°C High-Temperature Drying",
+    "summary_bullets_en": [
+      "ELEGOO has introduced the new H1 HT Filament Dryer to its 3D printing peripheral lineup.",
+      "The device is specifically designed for high-temperature drying, reaching up to 85°C.",
+      "This new hardware aims to improve print quality by effectively removing moisture from advanced 3D printing filaments."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ELEGOO rozšířila svou nabídku příslušenství pro 3D tisk o novou sušičku filamentů H1 HT.",
+      "Zařízení je navrženo pro vysokoteplotní sušení, přičemž dosahuje teploty až 85 °C.",
+      "Tento nový hardware pomáhá zlepšit kvalitu výtisků efektivním odstraňováním vlhkosti z pokročilých tiskových materiálů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "ELEGOO",
+      "Filament Dryer",
+      "Accessories"
+    ]
+  },
+  {
+    "title": "Společnost R3 Printing sází na průmyslové FFF 3D tiskárny americké výroby",
+    "summary": "For years, co-founders Paul Sieradzki and Petra Wood ran a 3D printing service bureau in New York. As they worked day to day with the printers, they experienced firsthand the...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/3R-29549-v1-1024x580.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-24T13:00:48+00:00",
+    "url": "https://3dprint.com/328270/r3-printing-bets-on-american-made-industrial-3d-printers/",
+    "forced_tags": [],
+    "title_en": "R3 Printing Bets on American-Made Industrial FFF 3D Printers",
+    "summary_bullets_en": [
+      "Co-founders Paul Sieradzki and Petra Wood transitioned from running a service bureau to manufacturing their own industrial FFF 3D printers.",
+      "The company aims to address reliability and performance issues they encountered while operating third-party machines.",
+      "R3 Printing focuses on domestic production, emphasizing American-made quality for industrial applications."
+    ],
+    "summary_bullets_cs": [
+      "Spoluzakladatelé Paul Sieradzki a Petra Wood přešli od provozování servisního střediska k výrobě vlastních průmyslových FFF 3D tiskáren.",
+      "Cílem společnosti je vyřešit problémy se spolehlivostí a výkonem, se kterými se setkávali při provozu strojů jiných výrobců.",
+      "R3 Printing se zaměřuje na domácí produkci a klade důraz na kvalitu americké výroby pro průmyslové využití."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "FFF",
+      "Industrial 3D Printing",
+      "R3 Printing",
+      "American Manufacturing"
+    ]
+  },
+  {
+    "title": "Tržby společnosti Lithoz vzrostly o 40 %, zákazníci rozšiřují keramický 3D tisk",
+    "summary": "Lithoz says that its materials revenue has risen 40% year on year. This is a good sign pointing towards higher utilization and production volumes by its customers. Service bureaus and...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/LITHOZ_Casting-Core-Range-on-Buildplatform_-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-24T12:30:06+00:00",
+    "url": "https://3dprint.com/329226/lithoz-revenue-up-40-as-customers-scale-ceramic-3d-printing/",
+    "forced_tags": [],
+    "title_en": "Lithoz Revenue Up 40% as Customers Scale Ceramic 3D Printing",
+    "summary_bullets_en": [
+      "Lithoz reported a 40% year-on-year increase in materials revenue.",
+      "The growth indicates that customers are successfully scaling their ceramic 3D printing operations.",
+      "Higher material consumption reflects increased utilization and production volumes across the industry.",
+      "Service bureaus and industrial partners are driving this upward trend in ceramic additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Lithoz oznámila meziroční nárůst tržeb za materiály o 40 %.",
+      "Tento růst naznačuje, že zákazníci úspěšně rozšiřují své kapacity v oblasti keramického 3D tisku.",
+      "Vyšší spotřeba materiálů odráží zvýšené využití technologií a objemy výroby v celém odvětví.",
+      "Tento pozitivní trend v keramické aditivní výrobě pohánějí především servisní střediska a průmysloví partneři."
+    ],
+    "tags": [
+      "Material",
+      "Services",
+      "Ceramic 3D Printing",
+      "Lithoz",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Za hranice termoplastů: Proč JuggerBot sází na hybridní aditivní výrobu",
+    "summary": "For years, thermoplastics have been the workhorse of additive manufacturing (AM). They are pretty easy to process, available, and compatible with many of today&#8217;s industrial 3D printers. From prototypes to...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/06/1726681738316.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-24T12:00:26+00:00",
+    "url": "https://3dprint.com/327510/beyond-thermoplastics-why-juggerbot-is-betting-on-hybrid-am/",
+    "forced_tags": [],
+    "title_en": "Beyond Thermoplastics: Why JuggerBot Is Betting on Hybrid AM",
+    "summary_bullets_en": [
+      "Thermoplastics have long dominated additive manufacturing due to their accessibility and ease of use.",
+      "JuggerBot 3D is shifting the industry focus toward hybrid additive manufacturing technologies.",
+      "The company aims to overcome traditional material limitations by integrating advanced processing methods.",
+      "This strategic move seeks to expand the industrial applications of 3D printing beyond standard prototyping."
+    ],
+    "summary_bullets_cs": [
+      "Termoplasty dlouho dominovaly aditivní výrobě díky své dostupnosti a snadnému zpracování.",
+      "Společnost JuggerBot 3D přesouvá pozornost průmyslu směrem k hybridním technologiím 3D tisku.",
+      "Firma se snaží překonat omezení běžných materiálů integrací pokročilých metod zpracování.",
+      "Tento strategický krok má za cíl rozšířit průmyslové využití 3D tisku nad rámec běžného prototypování."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "JuggerBot 3D",
+      "Hybrid AM",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "3D tištěná obuv by mohla vyžadovat dynamické modelování chodidla",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/962551298/0/fabbaloo/default~D-Printed-Shoes-Could-Require-Dynamic-Foot-Modeling\" rel=\"nofollow\" title=\"3D Printed Shoes Could Require Dynamic Foot Modeling\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/foot-scanning-future-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There could be a lot more to the business of 3D-printed footwear.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/962551298/0/fabbaloo/default~D-Printed-Shoes-Could-Require-Dynamic-Foot-Modeling\" rel=\"nofollow\">3D Printed Shoes Could Require Dynamic Foot Modeling</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/foot-scanning-future-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-24T11:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/962551298/0/fabbaloo/default~D-Printed-Shoes-Could-Require-Dynamic-Foot-Modeling",
+    "forced_tags": [],
+    "title_en": "3D Printed Shoes Could Require Dynamic Foot Modeling",
+    "summary_bullets_en": [
+      "3D-printed footwear innovation is moving beyond static measurements to focus on dynamic foot behavior.",
+      "Accurate modeling of how a foot moves and changes shape during activity is essential for true comfort and performance.",
+      "The future of custom footwear relies on integrating advanced motion analysis into the design process."
+    ],
+    "summary_bullets_cs": [
+      "Inovace v oblasti 3D tištěné obuvi se posouvají od statických měření k analýze dynamického pohybu chodidla.",
+      "Pro dosažení skutečného pohodlí a výkonu je nezbytné přesné modelování toho, jak se chodidlo při pohybu mění.",
+      "Budoucnost zakázkové obuvi závisí na integraci pokročilé analýzy pohybu do procesu návrhu."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "3D Printing",
+      "Footwear",
+      "Biometrics",
+      "Customization"
+    ]
+  },
+  {
+    "title": "Společnost Kind Designs získala 10 milionů dolarů v investičním kole Pre-Series A při valuaci 70 milionů dolarů na rozšíření výroby 3D tištěných mořských hrází",
+    "summary": "Miami-based Kind Designs, which 3D prints concrete seawalls designed to function as marine habitat, has closed a $10 million Pre-Series A at a $70 million valuation, doubling a round it originally set at $5 million after investor interest reached nearly $20 million. The company has now raised $21.5 million in total. NBA forward Kyle Kuzma&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/IMG_9750-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-24T07:36:55+00:00",
+    "url": "https://3dprintingindustry.com/news/kind-designs-raises-10m-pre-series-a-at-70m-valuation-to-scale-3d-printed-seawalls-253300/?utm_source=rss&utm_medium=rss&utm_campaign=kind-designs-raises-10m-pre-series-a-at-70m-valuation-to-scale-3d-printed-seawalls",
+    "forced_tags": [],
+    "title_en": "Kind Designs raises $10M Pre-Series A at $70M valuation to scale 3D printed seawalls",
+    "summary_bullets_en": [
+      "Miami-based Kind Designs secured $10 million in a Pre-Series A round, reaching a $70 million valuation.",
+      "The company specializes in 3D printing concrete seawalls that double as functional marine habitats.",
+      "Investor demand was high, leading the company to double its initial $5 million funding goal.",
+      "Total funding for the startup has now reached $21.5 million, with notable investors including NBA player Kyle Kuzma."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Kind Designs se sídlem v Miami získala 10 milionů dolarů v investičním kole Pre-Series A, čímž dosáhla valuace 70 milionů dolarů.",
+      "Firma se specializuje na 3D tisk betonových mořských hrází, které zároveň slouží jako funkční mořské habitaty.",
+      "Díky vysokému zájmu investorů společnost zdvojnásobila svůj původní cíl získat 5 milionů dolarů.",
+      "Celková investice do startupu nyní činí 21,5 milionu dolarů, mezi investory patří i hráč NBA Kyle Kuzma."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Printing",
+      "Construction",
+      "Sustainability",
+      "Kind Designs",
+      "Concrete Printing"
+    ]
+  },
+  {
+    "title": "Společnost Kalogon uvádí na trh Verro, 3D tištěný sedák na míru pro invalidní vozíky",
+    "summary": "Florida-based medical seating company Kalogon has launched Verro, a Medicare-coded custom wheelchair cushion line for people with significant postural support needs, including windswept posture, pelvic obliquity, or asymmetry.&#160; The line addresses a gap seating specialists have identified: while multi-density and contoured cushions exist, they lack the precise, body-conforming fit needed by wheelchair users with the&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/41d971_95c886f6c8764979bb1f21a2ae420973mv2-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-07-24T06:36:46+00:00",
+    "url": "https://3dprintingindustry.com/news/kalogon-launches-verro-a-3d-printed-custom-wheelchair-cushion-253310/?utm_source=rss&utm_medium=rss&utm_campaign=kalogon-launches-verro-a-3d-printed-custom-wheelchair-cushion",
+    "forced_tags": [],
+    "title_en": "Kalogon launches Verro, a 3D printed custom wheelchair cushion",
+    "summary_bullets_en": [
+      "Kalogon introduced Verro, a new line of Medicare-coded 3D printed wheelchair cushions.",
+      "The product is designed for users with complex postural needs like pelvic obliquity and asymmetry.",
+      "It fills a market gap by providing a precise, body-conforming fit that traditional multi-density cushions lack."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Kalogon se sídlem na Floridě představila Verro, řadu 3D tištěných sedáků na invalidní vozíky s certifikací Medicare.",
+      "Produkt je určen lidem se závažnými potřebami posturální podpory, jako je asymetrie pánve nebo specifické držení těla.",
+      "Novinka řeší mezeru na trhu, kde běžné sedáky postrádají přesné přizpůsobení tělu, které uživatelé vozíků potřebují."
+    ],
+    "tags": [
+      "Hardware",
+      "Medical",
+      "3D Printing",
+      "Kalogon",
+      "Assistive Technology"
+    ]
+  },
+  {
     "title": "Nový HT-PLA Pro od Polymakeru překonává PLA, ABS, PETG i PC",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/962207960/0/fabbaloo/default~Polymaker%e2%80%99s-New-HTPLA-Pro-Outperforms-PLA-ABS-PETG-and-PC\" rel=\"nofollow\" title=\"Polymaker’s New HT-PLA Pro Outperforms PLA, ABS, PETG, and PC\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/ht-pla-pro-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Polymaker just released an extremely interesting new FFF material: HT-PLA PRO.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/962207960/0/fabbaloo/default~Polymaker%e2%80%99s-New-HTPLA-Pro-Outperforms-PLA-ABS-PETG-and-PC\" rel=\"nofollow\">Polymaker’s New HT-PLA Pro Outperforms PLA, ABS, PETG, and PC</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/ht-pla-pro-cover-300x169.jpg",
