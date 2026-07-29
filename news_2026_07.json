@@ -1,5 +1,385 @@
 [
   {
+    "title": "Integrace FreeCAD MCP umožňuje ChatGPT vytvářet a upravovat 3D CAD modely",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/963971360/0/fabbaloo/default~FreeCAD-MCP-Integration-Lets-ChatGPT-Create-and-Edit-D-CAD-Models\" rel=\"nofollow\" title=\"FreeCAD MCP Integration Lets ChatGPT Create and Edit 3D CAD Models\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/freecad-mcp-cover-300x133.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Can you generate 3D CAD files with ChatGPT? It turns out you can.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/963971360/0/fabbaloo/default~FreeCAD-MCP-Integration-Lets-ChatGPT-Create-and-Edit-D-CAD-Models\" rel=\"nofollow\">FreeCAD MCP Integration Lets ChatGPT Create and Edit 3D CAD Models</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/freecad-mcp-cover-300x133.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-28T16:36:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/963971360/0/fabbaloo/default~FreeCAD-MCP-Integration-Lets-ChatGPT-Create-and-Edit-D-CAD-Models",
+    "forced_tags": [],
+    "title_en": "FreeCAD MCP Integration Lets ChatGPT Create and Edit 3D CAD Models",
+    "summary_bullets_en": [
+      "A new integration allows ChatGPT to directly interact with FreeCAD using the Model Context Protocol (MCP).",
+      "Users can now generate and modify 3D CAD models through natural language prompts.",
+      "This development bridges the gap between AI-driven text generation and professional mechanical design software."
+    ],
+    "summary_bullets_cs": [
+      "Nová integrace umožňuje ChatGPT přímo komunikovat s programem FreeCAD pomocí protokolu MCP (Model Context Protocol).",
+      "Uživatelé nyní mohou generovat a upravovat 3D CAD modely pomocí zadávání textových příkazů v přirozeném jazyce.",
+      "Tento vývoj propojuje svět generativní AI s profesionálním softwarem pro mechanické navrhování."
+    ],
+    "tags": [
+      "Software",
+      "FreeCAD",
+      "ChatGPT",
+      "AI",
+      "CAD",
+      "3D Modeling",
+      "MCP"
+    ]
+  },
+  {
+    "title": "Rafał Tomasiak se vrací do čela společnosti Zortrax",
+    "summary": "Former co-founder returns after five years to lead a barely surviving company",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/8d694693-04d0-44b5-9c26-11bf0bcf91b0_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-07-28T15:45:15+00:00",
+    "url": "https://www.3dprintingjournal.com/p/rafa-tomasiak-returns-as-ceo-of-zortrax",
+    "forced_tags": [],
+    "title_en": "Rafał Tomasiak returns as CEO of Zortrax",
+    "summary_bullets_en": [
+      "Rafał Tomasiak, co-founder of Zortrax, has returned to the CEO position after a five-year hiatus.",
+      "The company is currently facing significant financial difficulties and is struggling to survive.",
+      "Tomasiak's return is seen as a strategic move to stabilize the business and navigate the challenging market conditions."
+    ],
+    "summary_bullets_cs": [
+      "Spoluzakladatel Rafał Tomasiak se po pěti letech vrací na pozici generálního ředitele společnosti Zortrax.",
+      "Firma se v současnosti nachází ve vážných finančních potížích a bojuje o přežití.",
+      "Návrat Tomasiaka má za cíl stabilizovat společnost a pomoci jí překonat kritické období."
+    ],
+    "tags": [
+      "Hardware",
+      "Zortrax",
+      "3D Printing Industry",
+      "Business Management"
+    ]
+  },
+  {
+    "title": "3DEO a Fusion3 končí: Dvě americké společnosti zabývající se 3D tiskem vstupují do likvidace",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/963956375/0/fabbaloo/default~DEO-and-Fusion-Shut-Down-as-Two-US-D-Printing-Companies-Enter-Liquidation\" rel=\"nofollow\" title=\"3DEO and Fusion3 Shut Down as Two US 3D Printing Companies Enter Liquidation\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/3deo-fusion3-done-cover-300x178.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Two notable USA-based 3D printing companies have apparently shut down.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/963956375/0/fabbaloo/default~DEO-and-Fusion-Shut-Down-as-Two-US-D-Printing-Companies-Enter-Liquidation\" rel=\"nofollow\">3DEO and Fusion3 Shut Down as Two US 3D Printing Companies Enter Liquidation</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/3deo-fusion3-done-cover-300x178.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-28T15:31:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/963956375/0/fabbaloo/default~DEO-and-Fusion-Shut-Down-as-Two-US-D-Printing-Companies-Enter-Liquidation",
+    "forced_tags": [],
+    "title_en": "3DEO and Fusion3 Shut Down as Two US 3D Printing Companies Enter Liquidation",
+    "summary_bullets_en": [
+      "Two prominent US-based 3D printing companies, 3DEO and Fusion3, have ceased operations.",
+      "Both firms have officially entered the liquidation process.",
+      "This development marks a significant contraction within the American additive manufacturing sector."
+    ],
+    "summary_bullets_cs": [
+      "Dvě významné americké společnosti v oblasti 3D tisku, 3DEO a Fusion3, ukončily svou činnost.",
+      "Obě firmy oficiálně vstoupily do procesu likvidace.",
+      "Tato událost představuje citelný útlum v rámci amerického sektoru aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3DEO",
+      "Fusion3",
+      "Additive Manufacturing",
+      "Business News"
+    ]
+  },
+  {
+    "title": "Společnost Shining 3D si patentovala balení pryskyřice do kapslí",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/963920984/0/fabbaloo/default~Shining-D-Patent-Packages-Resin-Into-Capsules\" rel=\"nofollow\" title=\"Shining 3D Patent Packages Resin Into Capsules\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/shining3d-resin-capsule-cover-300x163.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Shining 3D has filed a European patent application for a resin printing capsule system, and the interesting part is not just the packaging.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/963920984/0/fabbaloo/default~Shining-D-Patent-Packages-Resin-Into-Capsules\" rel=\"nofollow\">Shining 3D Patent Packages Resin Into Capsules</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/shining3d-resin-capsule-cover-300x163.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-28T13:40:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/963920984/0/fabbaloo/default~Shining-D-Patent-Packages-Resin-Into-Capsules",
+    "forced_tags": [],
+    "title_en": "Shining 3D Patent Packages Resin Into Capsules",
+    "summary_bullets_en": [
+      "Shining 3D has filed a European patent for a new resin printing capsule system.",
+      "The innovation focuses on a specialized packaging method for 3D printing resins.",
+      "The system aims to improve the handling and delivery of materials in resin-based 3D printers."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Shining 3D podala evropskou patentovou přihlášku na systém kapslí pro tisk z pryskyřice.",
+      "Inovace se zaměřuje na unikátní způsob balení materiálů pro 3D tisk.",
+      "Systém má za cíl zjednodušit manipulaci s pryskyřicí a její doplňování do 3D tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Shining 3D",
+      "Resin Printing",
+      "3D Printing Patents"
+    ]
+  },
+  {
+    "title": "Safran Aero Boosters a BMT Aerospace budou 3D tisknout rozměrné titanové komponenty pro motor F135",
+    "summary": "Belgium-based Safran Aero Boosters has signed an agreement with Pratt &#38; Whitney to qualify and deliver large-scale, highly complex components for the F135 engine that powers the F-35 Lightning II. The deal was formalized at the Farnborough International Airshow on July 22, 2026, in the presence of Theo Francken, Belgium&#8217;s Minister of Defence, and Adrien&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/d8a23395-49d9-4a2c-9eb1-fb3731ffac78-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-28T13:34:22+00:00",
+    "url": "https://3dprintingindustry.com/news/safran-aero-boosters-and-bmt-aerospace-to-3d-print-large-scale-titanium-components-for-the-f135-engine-253366/?utm_source=rss&utm_medium=rss&utm_campaign=safran-aero-boosters-and-bmt-aerospace-to-3d-print-large-scale-titanium-components-for-the-f135-engine",
+    "forced_tags": [],
+    "title_en": "Safran Aero Boosters and BMT Aerospace to 3D Print Large-Scale Titanium Components for the F135 Engine",
+    "summary_bullets_en": [
+      "Safran Aero Boosters partnered with Pratt & Whitney to produce large-scale titanium components for the F135 engine.",
+      "The agreement focuses on qualifying and delivering complex 3D printed parts for the F-35 Lightning II fleet.",
+      "The deal was officially signed at the Farnborough International Airshow in July 2026 with Belgian government officials present."
+    ],
+    "summary_bullets_cs": [
+      "Belgická společnost Safran Aero Boosters uzavřela dohodu se společností Pratt & Whitney na kvalifikaci a dodávkách rozměrných a vysoce komplexních komponentů pro motor F135, který pohání letouny F-35 Lightning II.",
+      "Dohoda byla oficiálně stvrzena 22. července 2026 na mezinárodním aerosalonu ve Farnborough za přítomnosti belgického ministra obrany Thea Franckena."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Material",
+      "Safran Aero Boosters",
+      "BMT Aerospace",
+      "Pratt & Whitney",
+      "Titanium",
+      "Aerospace",
+      "F-35"
+    ]
+  },
+  {
+    "title": "Soulad produktu s trhem: CEO Nikon Advanced Manufacturing Hamid Zarringhalam o tom, jak poptávka v obranném průmyslu posouvá kovový 3D tisk k masové výrobě",
+    "summary": "After years in which the additive manufacturing (AM) industry gained a reputation for its hype outpacing its performance, an interesting development has emerged recently. In certain market segments, at least,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/grcop-42-lp.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-28T13:30:19+00:00",
+    "url": "https://3dprint.com/328666/product-market-fit-nikon-advanced-manufacturing-ceo-hamid-zarringhalam-on-how-defense-demand-is-pushing-metal-am-to-scale/",
+    "forced_tags": [],
+    "title_en": "Product Market Fit: Nikon Advanced Manufacturing CEO Hamid Zarringhalam on How Defense Demand is Pushing Metal AM to Scale",
+    "summary_bullets_en": [
+      "The additive manufacturing industry is shifting from hype-driven expectations to real-world performance and scalability.",
+      "Defense sector requirements are acting as a primary catalyst for the industrial adoption of metal 3D printing.",
+      "Nikon Advanced Manufacturing is leveraging these high-stakes demands to prove the reliability and production readiness of their metal AM technologies.",
+      "Strategic alignment with defense needs is helping bridge the gap between niche prototyping and full-scale industrial manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Odvětví aditivní výroby se posouvá od očekávání poháněných přehnaným humbukem směrem ke skutečnému výkonu a škálovatelnosti.",
+      "Požadavky sektoru obrany fungují jako hlavní katalyzátor pro průmyslové zavádění 3D tisku z kovů.",
+      "Společnost Nikon Advanced Manufacturing využívá tyto náročné požadavky k prokázání spolehlivosti a připravenosti svých technologií kovového 3D tisku pro sériovou výrobu.",
+      "Strategické sladění s potřebami obrany pomáhá překlenout propast mezi prototypováním a plnohodnotnou průmyslovou výrobou."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Nikon",
+      "Nikon SLM Solutions",
+      "Nikon Advanced Manufacturing",
+      "Metal AM",
+      "Defense Industry"
+    ]
+  },
+  {
+    "title": "IMDEA Materials a Lawrence Berkeley National Laboratory pracují na sjednocení 3D tisku",
+    "summary": "Spain&#8217;s IMDEA Materials Institute has worked with Lawrence Berkeley National Laboratory to detect and identify differences in different 3D printers. This could be important in eliminating run-to-run differences in prints and...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/Miguel-Hernandez-del-Valle-682x1024.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-28T13:00:00+00:00",
+    "url": "https://3dprint.com/329220/imdea-materials-lawrence-berkeley-national-laboratory-work-on-making-3d-printers-print-in-unison/",
+    "forced_tags": [],
+    "title_en": "IMDEA Materials & Lawrence Berkeley National Laboratory Work on Making 3D Printers Print in Unison",
+    "summary_bullets_en": [
+      "IMDEA Materials Institute and Lawrence Berkeley National Laboratory are collaborating to analyze performance variations across different 3D printers.",
+      "The research focuses on identifying and quantifying discrepancies in print quality between machines.",
+      "The goal is to standardize 3D printing processes to ensure consistent results across multiple devices and production runs."
+    ],
+    "summary_bullets_cs": [
+      "Španělský institut IMDEA Materials spolupracuje s Lawrence Berkeley National Laboratory na detekci a identifikaci rozdílů mezi různými 3D tiskárnami.",
+      "Tento výzkum by mohl být klíčový pro eliminaci odchylek mezi jednotlivými tiskovými úlohami.",
+      "Cílem je zajistit konzistentní kvalitu výtisků napříč různými stroji a výrobními cykly."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Research",
+      "3D Printing",
+      "Standardization",
+      "IMDEA Materials",
+      "Lawrence Berkeley National Laboratory"
+    ]
+  },
+  {
+    "title": "Společnost PanOptimization získala uznání od AFRL za software PanX",
+    "summary": "Published in the International Journal of Advanced Manufacturing Technology, a paper titled &#8220;Part scale prediction of residual stress through thermomechanical modeling of additively manufactured Ti-6Al-4V&#8221; seems to point to the...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/AFRL-1024x384.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-07-28T12:00:56+00:00",
+    "url": "https://3dprint.com/329339/panoptimization-gets-attaboy-from-afrl-for-panx-software/",
+    "forced_tags": [],
+    "title_en": "PanOptimization Gets Attaboy from AFRL for PanX Software",
+    "summary_bullets_en": [
+      "PanOptimization received recognition from the Air Force Research Laboratory (AFRL) for its PanX software.",
+      "The software focuses on predicting residual stress in large-scale additive manufacturing.",
+      "A recent study published in the International Journal of Advanced Manufacturing Technology validates the thermomechanical modeling approach for Ti-6Al-4V parts.",
+      "This technology aims to improve the reliability and structural integrity of 3D printed aerospace components."
+    ],
+    "summary_bullets_cs": [
+      "Společnost PanOptimization obdržela uznání od Výzkumné laboratoře letectva (AFRL) za svůj software PanX.",
+      "Software se zaměřuje na predikci zbytkového napětí u velkoformátové aditivní výroby.",
+      "Nedávná studie publikovaná v International Journal of Advanced Manufacturing Technology potvrzuje metodu termomechanického modelování pro díly z materiálu Ti-6Al-4V.",
+      "Tato technologie má za cíl zvýšit spolehlivost a strukturální integritu 3D tištěných leteckých komponentů."
+    ],
+    "tags": [
+      "Software",
+      "Material",
+      "PanOptimization",
+      "AFRL",
+      "Ti-6Al-4V",
+      "Additive Manufacturing",
+      "Simulation"
+    ]
+  },
+  {
+    "title": "Bitva stavitelů: Srovnání inovací v 3D tisku na Auburn University a University of Alabama",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/963890204/0/fabbaloo/default~Battle-of-the-Builders-Comparing-D-Printing-Innovation-at-Auburn-and-the-University-of-Alabama\" rel=\"nofollow\" title=\"Battle of the Builders: Comparing 3D Printing Innovation at Auburn and the University of Alabama\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_330-300x165.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi compare the additive manufacturing initiatives at Auburn University and the University of Alabama, revealing how each institution is contributing to Alabama's rise as an advanced manufacturing hub.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/963890204/0/fabbaloo/default~Battle-of-the-Builders-Comparing-D-Printing-Innovation-at-Auburn-and-the-University-of-Alabama\" rel=\"nofollow\">Battle of the Builders: Comparing 3D Printing Innovation at Auburn and the University of Alabama</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_330-300x165.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-28T11:26:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/963890204/0/fabbaloo/default~Battle-of-the-Builders-Comparing-D-Printing-Innovation-at-Auburn-and-the-University-of-Alabama",
+    "forced_tags": [],
+    "title_en": "Battle of the Builders: Comparing 3D Printing Innovation at Auburn and the University of Alabama",
+    "summary_bullets_en": [
+      "Charles R. Goulding and Preeti Sulibhavi analyze the additive manufacturing strategies at Auburn University and the University of Alabama.",
+      "The article highlights how both institutions are driving technological progress in the region.",
+      "The comparison showcases Alabama's growing influence as a key hub for advanced manufacturing in the United States."
+    ],
+    "summary_bullets_cs": [
+      "Charles R. Goulding a Preeti Sulibhavi analyzují strategie aditivní výroby na Auburn University a University of Alabama.",
+      "Článek zdůrazňuje, jak obě instituce pohánějí technologický pokrok v regionu.",
+      "Srovnání ukazuje rostoucí vliv Alabamy jako klíčového centra pro pokročilou výrobu ve Spojených státech."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Manufacturing",
+      "Education",
+      "Research",
+      "Alabama",
+      "Auburn University",
+      "University of Alabama"
+    ]
+  },
+  {
+    "title": "Robotické dokončování posiluje spoje 3D tištěného betonu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/963850778/0/fabbaloo/default~Robotic-Finishing-Strengthens-D-Printed-Concrete-Joints\" rel=\"nofollow\" title=\"Robotic Finishing Strengthens 3D Printed Concrete Joints\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/robotic-finishing-cover-300x184.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Robotic finishing could turn rough 3D printed concrete segments into far more reliable structural assemblies.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/963850778/0/fabbaloo/default~Robotic-Finishing-Strengthens-D-Printed-Concrete-Joints\" rel=\"nofollow\">Robotic Finishing Strengthens 3D Printed Concrete Joints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/robotic-finishing-cover-300x184.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-07-28T08:58:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/963850778/0/fabbaloo/default~Robotic-Finishing-Strengthens-D-Printed-Concrete-Joints",
+    "forced_tags": [],
+    "title_en": "Robotic Finishing Strengthens 3D Printed Concrete Joints",
+    "summary_bullets_en": [
+      "Robotic finishing techniques are being applied to improve the structural integrity of 3D printed concrete segments.",
+      "Automated post-processing helps smooth out rough surfaces, creating more reliable and durable joints.",
+      "This advancement addresses a key challenge in large-scale additive manufacturing by enhancing the connection quality between printed components."
+    ],
+    "summary_bullets_cs": [
+      "Techniky robotického dokončování se využívají ke zlepšení strukturální integrity segmentů z 3D tištěného betonu.",
+      "Automatizované následné zpracování pomáhá vyhladit hrubé povrchy, čímž vznikají spolehlivější a odolnější spoje.",
+      "Tento pokrok řeší klíčovou výzvu v aditivní výrobě velkého rozsahu tím, že zvyšuje kvalitu spojení mezi tištěnými komponenty."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Concrete Printing",
+      "Robotics",
+      "Construction",
+      "Additive Manufacturing",
+      "Automation"
+    ]
+  },
+  {
+    "title": "Grafenový filament od společnosti Lyten se stává standardním materiálem pro platformu BFP od Modovolo",
+    "summary": "Supermaterial applications company Lyten has been named the primary filament supplier for American aerospace and defense company Modovolo&#8217;s BFP platform, a transportable 3D printer built to manufacture aerospace, motorsports, and defense-grade parts outside traditional factory settings. The companies announced the partnership as a joint push toward a fully domestic additive manufacturing supply chain, from raw material&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/pr-lyten-modovolo2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-28T08:31:28+00:00",
+    "url": "https://3dprintingindustry.com/news/lytens-3d-graphene-filament-becomes-standard-material-for-modovolos-bfp-platform-253374/?utm_source=rss&utm_medium=rss&utm_campaign=lytens-3d-graphene-filament-becomes-standard-material-for-modovolos-bfp-platform",
+    "forced_tags": [],
+    "title_en": "Lyten’s 3D Graphene Filament Becomes Standard Material for Modovolo’s BFP Platform",
+    "summary_bullets_en": [
+      "Lyten has been selected as the primary filament supplier for Modovolo’s BFP platform.",
+      "The BFP platform is a portable 3D printer designed for on-site manufacturing in aerospace, defense, and motorsports.",
+      "The partnership aims to strengthen the domestic U.S. supply chain for additive manufacturing.",
+      "The collaboration focuses on utilizing advanced graphene-based materials for high-performance industrial parts."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Lyten byla vybrána jako hlavní dodavatel filamentů pro platformu BFP společnosti Modovolo.",
+      "Platforma BFP je přenosná 3D tiskárna určená pro výrobu dílů pro letectví, obranu a motoristický sport mimo tradiční tovární prostředí.",
+      "Partnerství představuje společnou snahu o vybudování plně domácího dodavatelského řetězce pro aditivní výrobu v USA."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Lyten",
+      "Modovolo",
+      "Graphene",
+      "Aerospace",
+      "Defense",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Systém AI se učí „osobnost“ každé 3D tiskárny, aby snížil výrobní vady",
+    "summary": "Researchers at IMDEA Materials Institute in Madrid, working with Lawrence Berkeley National Laboratory in the US, have developed an algorithm that detects hidden behavioral differences between supposedly identical 3D printers and automatically decides how to correct for them.&#160; The work, published in Advanced Engineering Informatics, targets a problem that grows worse as manufacturing scales: even&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/1-s2.0-S147403462600652X-ga1_lrg-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-28T08:23:40+00:00",
+    "url": "https://3dprintingindustry.com/news/ai-system-learns-each-3d-printers-personality-to-cut-manufacturing-defects-253371/?utm_source=rss&utm_medium=rss&utm_campaign=ai-system-learns-each-3d-printers-personality-to-cut-manufacturing-defects",
+    "forced_tags": [],
+    "title_en": "AI System Learns Each 3D Printer’s “Personality” to Cut Manufacturing Defects",
+    "summary_bullets_en": [
+      "Researchers developed an AI algorithm that identifies unique behavioral variations in identical 3D printers.",
+      "The system automatically adjusts printing parameters to compensate for these individual machine 'personalities'.",
+      "This innovation aims to reduce manufacturing defects, a critical challenge when scaling up industrial 3D printing production.",
+      "The study, published in Advanced Engineering Informatics, was a collaboration between IMDEA Materials Institute and Lawrence Berkeley National Laboratory."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli algoritmus AI, který detekuje skryté rozdíly v chování u zdánlivě identických 3D tiskáren.",
+      "Systém automaticky určuje, jak tyto odchylky korigovat, aby se předešlo chybám při tisku.",
+      "Technologie řeší problém, který se zhoršuje s rostoucím měřítkem výroby, kdy i drobné rozdíly mezi stroji způsobují vady.",
+      "Na výzkumu publikovaném v Advanced Engineering Informatics spolupracoval španělský IMDEA Materials Institute s americkou Lawrence Berkeley National Laboratory."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Artificial Intelligence",
+      "Additive Manufacturing",
+      "Quality Control",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "GKN Aerospace poskytuje „inovativní podporu“ opravám motorů GTF pomocí technologie DED",
+    "summary": "GKN Aerospace has won a series of multi-year repair contracts from Pratt &#38; Whitney covering more than 20 component types across the geared turbofan (GTF) engine family.&#160; The agreements run 5 to 10 years and distribute work across GKN facilities in Sweden, Malaysia, and the United States. The contract scope is broad, spanning engine cases,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/Directed-Energy-Deposition-DED-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-07-28T08:23:10+00:00",
+    "url": "https://3dprintingindustry.com/news/gkn-aerospace-provides-innovative-support-to-gtf-repairs-with-ded-253384/?utm_source=rss&utm_medium=rss&utm_campaign=gkn-aerospace-provides-innovative-support-to-gtf-repairs-with-ded",
+    "forced_tags": [],
+    "title_en": "GKN Aerospace Provides ‘Innovative Support’ to GTF Repairs with DED",
+    "summary_bullets_en": [
+      "GKN Aerospace secured multi-year repair contracts from Pratt & Whitney for over 20 GTF engine component types.",
+      "The agreements span 5 to 10 years and involve GKN facilities in Sweden, Malaysia, and the United States.",
+      "The partnership leverages Directed Energy Deposition (DED) technology to provide innovative repair solutions for engine cases and other critical parts."
+    ],
+    "summary_bullets_cs": [
+      "Společnost GKN Aerospace získala od Pratt & Whitney víceleté kontrakty na opravy více než 20 typů komponentů pro motory typu GTF.",
+      "Dohody jsou uzavřeny na 5 až 10 let a práce budou probíhat v závodech GKN ve Švédsku, Malajsii a Spojených státech.",
+      "Rozsah zakázky zahrnuje opravy skříní motorů a dalších klíčových dílů s využitím technologie navařování kovů (DED)."
+    ],
+    "tags": [
+      "Services",
+      "Hardware",
+      "GKN Aerospace",
+      "Pratt & Whitney",
+      "DED",
+      "Directed Energy Deposition",
+      "Aerospace"
+    ]
+  },
+  {
     "title": "Kare S1 je cenově dostupná vysokoteplotní 3D tiskárna, ale dokážou ji výrobci skutečně dodat?",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/963794600/0/fabbaloo/default~The-Kare-S-Is-An-Affordable-HighTemperature-D-Printer-But-Can-They-Deliver\" rel=\"nofollow\" title=\"The Kare S1 Is An Affordable High-Temperature 3D Printer, But Can They Deliver?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/kare-metal-cover-300x197.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new 3D printer on Kickstarter is able to print metal filament.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/963794600/0/fabbaloo/default~The-Kare-S-Is-An-Affordable-HighTemperature-D-Printer-But-Can-They-Deliver\" rel=\"nofollow\">The Kare S1 Is An Affordable High-Temperature 3D Printer, But Can They Deliver?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/kare-metal-cover-300x197.jpg",
