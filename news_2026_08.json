@@ -1,5 +1,181 @@
 [
   {
+    "title": "Novinky ze světa 3D tisku, 1. srpna 2026: Projektové výzvy, kontaktní čočky, židle a další",
+    "summary": "We&#8217;re starting with the winners of two America Makes project calls in this first 3D Printing News Briefs of August! Then we&#8217;ll move on to AM quality control for aerospace,...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/05/America-Makes-facility-face.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-01T12:30:43+00:00",
+    "url": "https://3dprint.com/329678/3d-printing-news-briefs-8-1-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, August 1st, 2026: Project Calls, Contact Lenses, Chairs, & More",
+    "summary_bullets_en": [
+      "America Makes announced the winners of its latest project calls to advance additive manufacturing.",
+      "New developments in quality control processes for aerospace 3D printing applications.",
+      "Innovative research and commercial updates involving 3D printed contact lenses and furniture design."
+    ],
+    "summary_bullets_cs": [
+      "Organizace America Makes vyhlásila vítěze svých nejnovějších projektových výzev zaměřených na rozvoj aditivní výroby.",
+      "Představení novinek v oblasti kontroly kvality pro aplikace 3D tisku v leteckém průmyslu.",
+      "Inovativní výzkum a komerční novinky zahrnující 3D tištěné kontaktní čočky a design nábytku."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "America Makes",
+      "Aerospace",
+      "Medical",
+      "Furniture"
+    ]
+  },
+  {
+    "title": "Za hranice chemie: Jak 3D tisk přetváří technologii baterií",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/965420750/0/fabbaloo/default~Beyond-Chemistry-How-D-Printing-Is-Reshaping-Battery-Technology\" rel=\"nofollow\" title=\"Beyond Chemistry: How 3D Printing Is Reshaping Battery Technology\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_247-300x124.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi take a technical look at the emerging world of 3D printed batteries, where advanced manufacturing is enabling entirely new energy architectures beyond the limits of conventional battery production.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/965420750/0/fabbaloo/default~Beyond-Chemistry-How-D-Printing-Is-Reshaping-Battery-Technology\" rel=\"nofollow\">Beyond Chemistry: How 3D Printing Is Reshaping Battery Technology</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_247-300x124.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-01T12:21:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/965420750/0/fabbaloo/default~Beyond-Chemistry-How-D-Printing-Is-Reshaping-Battery-Technology",
+    "forced_tags": [],
+    "title_en": "Beyond Chemistry: How 3D Printing Is Reshaping Battery Technology",
+    "summary_bullets_en": [
+      "3D printing is moving battery development beyond traditional chemical limitations by enabling complex, non-standard geometries.",
+      "Advanced manufacturing techniques allow for the creation of entirely new energy storage architectures.",
+      "The integration of additive manufacturing is set to revolutionize how batteries are designed and produced for future applications."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk posouvá vývoj baterií za hranice tradičních chemických omezení díky možnosti vytvářet komplexní a nestandardní geometrie.",
+      "Pokročilé výrobní techniky umožňují vznik zcela nových architektur pro ukládání energie.",
+      "Integrace aditivní výroby zásadně mění způsob, jakým jsou baterie navrhovány a vyráběny pro budoucí aplikace."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Battery Technology",
+      "Additive Manufacturing",
+      "Energy Storage"
+    ]
+  },
+  {
+    "title": "Společnost 3DEO vyhlásila úpadek, své patenty a stroje dává do aukce",
+    "summary": "3DEO, the Torrance, California metal 3D printing company behind the patented Intelligent Layering process, has filed for insolvency and put its entire intellectual property (IP) portfolio up for sale. Insolvency Services Group, acting as assignee for the benefit of creditors under California law, is soliciting offers for the assets, having already received a stalking horse&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2020/06/3DEO-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-08-01T07:31:08+00:00",
+    "url": "https://3dprintingindustry.com/news/3deo-enters-insolvency-puts-patents-and-machinery-up-for-auction-253432/?utm_source=rss&utm_medium=rss&utm_campaign=3deo-enters-insolvency-puts-patents-and-machinery-up-for-auction",
+    "forced_tags": [],
+    "title_en": "3DEO Enters Insolvency, Puts Patents and Machinery Up for Auction",
+    "summary_bullets_en": [
+      "California-based metal 3D printing firm 3DEO has filed for insolvency.",
+      "The company is auctioning off its entire intellectual property portfolio and machinery.",
+      "Insolvency Services Group is managing the asset sale and has already secured a stalking horse bidder."
+    ],
+    "summary_bullets_cs": [
+      "Kalifornská společnost 3DEO, zabývající se 3D tiskem kovů, vyhlásila úpadek.",
+      "Firma nabízí k prodeji celé své portfolio duševního vlastnictví a výrobní stroje.",
+      "Prodej aktiv zajišťuje společnost Insolvency Services Group, která již obdržela první nabídku od tzv. stalking horse zájemce."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3DEO",
+      "Metal 3D Printing",
+      "Intelligent Layering",
+      "Insolvency"
+    ]
+  },
+  {
+    "title": "Actble a Something Added vytiskli baletní špičky, které vydrží pětkrát déle",
+    "summary": "Actble, a German dancewear company founded by former ballet dancer Sophia Lindner, has built a modular pointe shoe with 3D printed inner soles that can be individually swapped out as they wear down, rather than requiring dancers to replace the entire shoe every 10 to 20 hours of use. The soles are manufactured in partnership&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/image-21-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-08-01T06:55:28+00:00",
+    "url": "https://3dprintingindustry.com/news/actble-and-something-added-3d-print-a-pointe-shoe-built-to-last-five-times-longer-253442/?utm_source=rss&utm_medium=rss&utm_campaign=actble-and-something-added-3d-print-a-pointe-shoe-built-to-last-five-times-longer",
+    "forced_tags": [],
+    "title_en": "Actble and Something Added 3D Print a Pointe Shoe Built to Last Five Times Longer",
+    "summary_bullets_en": [
+      "German dancewear brand Actble has developed a modular pointe shoe featuring 3D printed inner soles.",
+      "The design allows dancers to replace individual worn-out parts instead of discarding the entire shoe.",
+      "This innovation significantly extends the lifespan of the footwear, which typically lasts only 10 to 20 hours.",
+      "The project is a collaboration with the 3D printing service provider Something Added."
+    ],
+    "summary_bullets_cs": [
+      "Německá značka tanečního oblečení Actble vyvinula modulární baletní špičky s 3D tištěnými vnitřními stélkami.",
+      "Konstrukce umožňuje tanečnicím vyměňovat pouze opotřebované části namísto vyhazování celé boty.",
+      "Tato inovace výrazně prodlužuje životnost obuvi, která běžně vydrží pouze 10 až 20 hodin používání.",
+      "Projekt vznikl ve spolupráci s poskytovatelem 3D tisku, společností Something Added."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Actble",
+      "Something Added",
+      "3D Printing",
+      "Footwear",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "3iD Printing sází na automatizované post-processingové linky pro zvýšení objemu výroby",
+    "summary": "3iD Printing, a Belgian industrial 3D printing service provider, is installing an automated post-processing line supplied by Netherlands-based AM-Flow, integrating three systems, AM-Feed, AM-Vision and AM-Sort, to handle part feeding, identification and sorting without manual labeling. Closing the Post-Processing Bottleneck While 3D printing technology has advanced rapidly across the additive manufacturing industry, the steps that&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/3iDxAM-Flow-1024x535-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-08-01T06:38:12+00:00",
+    "url": "https://3dprintingindustry.com/news/3id-printing-bets-on-automated-post-processing-to-scale-production-volumes-253451/?utm_source=rss&utm_medium=rss&utm_campaign=3id-printing-bets-on-automated-post-processing-to-scale-production-volumes",
+    "forced_tags": [],
+    "title_en": "3iD Printing Bets on Automated Post-Processing to Scale Production Volumes",
+    "summary_bullets_en": [
+      "Belgian service provider 3iD Printing is implementing an automated post-processing line from AM-Flow.",
+      "The system integrates AM-Feed, AM-Vision, and AM-Sort to streamline production workflows.",
+      "This technology eliminates manual labeling and sorting, effectively removing a major bottleneck in additive manufacturing.",
+      "The investment aims to significantly increase production capacity and efficiency for industrial-scale 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Belgický poskytovatel 3D tisku 3iD Printing instaluje automatizovanou linku pro následné zpracování od nizozemské společnosti AM-Flow.",
+      "Systém integruje technologie AM-Feed, AM-Vision a AM-Sort pro automatické podávání, identifikaci a třídění dílů bez nutnosti ručního štítkování.",
+      "Tato inovace řeší kritické úzké hrdlo v aditivní výrobě, kterým je právě manuální post-processing.",
+      "Cílem investice je zefektivnit provoz a umožnit škálování výroby na průmyslovou úroveň."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3iD Printing",
+      "AM-Flow",
+      "Post-processing",
+      "Automation",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "3D tisk v interiéru? Nejde o další efektní objekt, ale o potenciál, který vidí málokdo",
+    "summary": "Organická svítidla nebo designové židle si získají pozornost, ale skutečná síla 3D tisku v interiéru je jinde: v atypických situacích, kombinaci materiálů a mezeře mezi návrhem a realizací.",
+    "image": "https://blog.aditivni.cz/_astro/Artefakt.DeLwTOwd.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-07-31T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/3d-tisk-v-interieru/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "3D Printing in Interiors? It’s Not Just About Eye-Catching Objects, But Hidden Potential",
+    "summary_bullets_en": [
+      "3D printing offers more than just aesthetic furniture; its true value lies in solving complex, atypical interior challenges.",
+      "The technology excels in bridging the gap between architectural design and final physical execution.",
+      "Innovative material combinations allow for functional customization that traditional manufacturing cannot easily achieve."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk v interiéru není jen o designových doplňcích, ale především o řešení atypických technických výzev.",
+      "Hlavní přínos spočívá v efektivním překlenutí propasti mezi digitálním návrhem a finální realizací.",
+      "Technologie umožňuje inovativní kombinování materiálů, které otevírá nové možnosti v interiérovém designu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Design",
+      "Architecture",
+      "Additive Manufacturing",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Mazací nástroj Oil Stick od Slant 3D usnadňuje údržbu 3D tiskáren",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/965045267/0/fabbaloo/default~Slant-Ds-Oil-Stick-Lubrication-Tool-Makes-D-Printer-Maintenance-Easy\" rel=\"nofollow\" title=\"Slant 3D&#8217;s Oil Stick Lubrication Tool Makes 3D Printer Maintenance Easy\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/oilstick-cover-300x238.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Slant 3D’s new Oil Stick is a simple tool every 3D printer operator should use.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/965045267/0/fabbaloo/default~Slant-Ds-Oil-Stick-Lubrication-Tool-Makes-D-Printer-Maintenance-Easy\" rel=\"nofollow\">Slant 3D&#8217;s Oil Stick Lubrication Tool Makes 3D Printer Maintenance Easy</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/oilstick-cover-300x238.jpeg",
