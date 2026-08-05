@@ -1,5 +1,323 @@
 [
   {
+    "title": "Jeff Graves hledá nového CEO 3D Systems, společnost je na rozcestí",
+    "summary": "Jeff Graves is to step down as 3D Systems&#8216; CEO once a replacement has been found, the company has announced. He will then retire as CEO and as Director of...",
+    "image": "https://3dprint.com/wp-content/uploads/2022/01/Jeff-Graves.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-05T06:00:10+00:00",
+    "url": "https://3dprint.com/329874/jeff-graves-seeks-new-3d-systems-ceo-analysis/",
+    "forced_tags": [],
+    "title_en": "Jeff Graves Seeks New 3D Systems CEO, The Company at a Crossroads",
+    "summary_bullets_en": [
+      "Jeff Graves has announced his intention to step down as CEO of 3D Systems.",
+      "He will remain in his position until a suitable successor is identified.",
+      "Upon the transition, Graves will retire from both his CEO role and his seat on the Board of Directors.",
+      "The company is currently navigating a critical period of strategic transition."
+    ],
+    "summary_bullets_cs": [
+      "Jeff Graves oznámil svůj záměr odstoupit z pozice generálního ředitele společnosti 3D Systems.",
+      "Ve své funkci setrvá, dokud nebude nalezen a jmenován jeho nástupce.",
+      "Po předání agendy Graves odejde do důchodu, a to jak z pozice CEO, tak z postu člena představenstva.",
+      "Společnost se v současnosti nachází v kritickém období strategické transformace."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Systems",
+      "Jeff Graves",
+      "Executive Leadership",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Creality uvádí na trh kapesní 3D skener Pika s technologií Gaussian Splatting",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/966261422/0/fabbaloo/default~Creality-Launches-PocketSized-Pika-D-Scanner-with-Gaussian-Splatting\" rel=\"nofollow\" title=\"Creality Launches Pocket-Sized Pika 3D Scanner with Gaussian Splatting\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/pika-cover-300x209.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Creality introduced a very different kind of 3D scanner.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/966261422/0/fabbaloo/default~Creality-Launches-PocketSized-Pika-D-Scanner-with-Gaussian-Splatting\" rel=\"nofollow\">Creality Launches Pocket-Sized Pika 3D Scanner with Gaussian Splatting</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/pika-cover-300x209.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-08-04T16:29:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/966261422/0/fabbaloo/default~Creality-Launches-PocketSized-Pika-D-Scanner-with-Gaussian-Splatting",
+    "forced_tags": [],
+    "title_en": "Creality Launches Pocket-Sized Pika 3D Scanner with Gaussian Splatting",
+    "summary_bullets_en": [
+      "Creality has unveiled the Pika, a new ultra-compact 3D scanner designed for portability.",
+      "The device distinguishes itself by integrating Gaussian Splatting technology for advanced 3D reconstruction.",
+      "This launch marks a shift for Creality into more specialized, high-tech scanning solutions."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Creality představila Pika, nový ultra-kompaktní 3D skener navržený pro maximální přenositelnost.",
+      "Zařízení se odlišuje integrací technologie Gaussian Splatting, která umožňuje pokročilou 3D rekonstrukci objektů.",
+      "Toto uvedení na trh představuje pro Creality posun směrem ke specializovanějším a technologicky vyspělým skenovacím řešením."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Scanning",
+      "Creality",
+      "Pika",
+      "Gaussian Splatting",
+      "Portable Technology"
+    ]
+  },
+  {
+    "title": "Bambu Lab si patentuje metodu pro rychlejší montáž 3D tiskáren",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/966245549/0/fabbaloo/default~Bambu-Lab-Patents-a-Method-for-Faster-D-Printer-Assembly\" rel=\"nofollow\" title=\"Bambu Lab Patents a Method for Faster 3D Printer Assembly\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/bambu-lab-assembly-patent-cover-300x273.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A newly patent application from Shenzhen Tuozhu Technology, the company behind Bambu Lab, focuses on assembling the machine itself.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/966245549/0/fabbaloo/default~Bambu-Lab-Patents-a-Method-for-Faster-D-Printer-Assembly\" rel=\"nofollow\">Bambu Lab Patents a Method for Faster 3D Printer Assembly</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/bambu-lab-assembly-patent-cover-300x273.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-04T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/966245549/0/fabbaloo/default~Bambu-Lab-Patents-a-Method-for-Faster-D-Printer-Assembly",
+    "forced_tags": [],
+    "title_en": "Bambu Lab Patents a Method for Faster 3D Printer Assembly",
+    "summary_bullets_en": [
+      "Shenzhen Tuozhu Technology, the parent company of Bambu Lab, has filed a new patent application.",
+      "The patent focuses on optimizing the manufacturing and assembly process of their 3D printers.",
+      "This move suggests a strategic effort to increase production efficiency and scale operations."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Shenzhen Tuozhu Technology, která stojí za značkou Bambu Lab, podala novou patentovou přihlášku.",
+      "Patent se zaměřuje na optimalizaci výrobního procesu a montáže jejich 3D tiskáren.",
+      "Tento krok naznačuje strategickou snahu o zvýšení efektivity výroby a škálování provozu."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "Manufacturing",
+      "3D Printing",
+      "Automation",
+      "Patents"
+    ]
+  },
+  {
+    "title": "REPORT: Bondtech „nozzlegate“",
+    "summary": "Bondtech marketed INDX nozzles as hardened, but they turned out not hardened enough to deliver what was advertised",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/de948d41-7e76-4ee2-a614-2750c2d8070f_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-08-04T14:09:42+00:00",
+    "url": "https://www.3dprintingjournal.com/p/report-bondtech-nozzlegate",
+    "forced_tags": [],
+    "title_en": "REPORT: Bondtech \"nozzlegate\"",
+    "summary_bullets_en": [
+      "Bondtech marketed their INDX nozzles as hardened components.",
+      "Users and tests revealed the nozzles lack the promised hardness levels.",
+      "The discrepancy between marketing claims and actual performance has sparked controversy.",
+      "The situation is being referred to as \"nozzlegate\" within the 3D printing community."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bondtech propagovala trysky INDX jako kalené (tvrzené).",
+      "Ukázalo se však, že trysky nejsou dostatečně tvrdé, aby splnily deklarované vlastnosti.",
+      "Rozpor mezi marketingovými sliby a realitou vyvolal v komunitě 3D tisku vlnu kritiky."
+    ],
+    "tags": [
+      "Hardware",
+      "Bondtech",
+      "3D Printing",
+      "Nozzles",
+      "Quality Control"
+    ]
+  },
+  {
+    "title": "Prompt2CAD rozšiřuje možnosti AI CAD o vylepšenou generaci modelů STEP",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/966220037/0/fabbaloo/default~PromptCAD-Expands-AI-CAD-Capabilities-with-Improved-STEP-Model-Generation\" rel=\"nofollow\" title=\"Prompt2CAD Expands AI CAD Capabilities with Improved STEP Model Generation\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/prompt2cad-chair-selection-300x173.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Remember Prompt2CAD? It’s advanced quite a bit since my last check.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/966220037/0/fabbaloo/default~PromptCAD-Expands-AI-CAD-Capabilities-with-Improved-STEP-Model-Generation\" rel=\"nofollow\">Prompt2CAD Expands AI CAD Capabilities with Improved STEP Model Generation</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/prompt2cad-chair-selection-300x173.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-04T13:25:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/966220037/0/fabbaloo/default~PromptCAD-Expands-AI-CAD-Capabilities-with-Improved-STEP-Model-Generation",
+    "forced_tags": [],
+    "title_en": "Prompt2CAD Expands AI CAD Capabilities with Improved STEP Model Generation",
+    "summary_bullets_en": [
+      "Prompt2CAD has significantly advanced its AI-driven design capabilities since its last major update.",
+      "The platform now features improved generation of STEP files, enhancing compatibility with professional CAD workflows.",
+      "These updates streamline the transition from text-based prompts to editable 3D engineering models."
+    ],
+    "summary_bullets_cs": [
+      "Platforma Prompt2CAD od poslední aktualizace výrazně pokročila ve svých schopnostech návrhu pomocí umělé inteligence.",
+      "Nástroj nyní nabízí vylepšené generování souborů ve formátu STEP, což zvyšuje kompatibilitu s profesionálními CAD systémy.",
+      "Tyto aktualizace zefektivňují proces převodu textových zadání na editovatelné 3D inženýrské modely."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "CAD",
+      "3D Modeling",
+      "STEP files",
+      "Prompt2CAD"
+    ]
+  },
+  {
+    "title": "Polský výrobce 3D tiskáren elektroniky XTPL prodal dalších 10 tiskových modulů svému prvnímu čínskému zákazníkovi",
+    "summary": "Smartphones, laptops, and all other such devices are only getting more expensive. As evidenced by Apple&#8217;s cautioning of higher prices for this year&#8217;s new iPhone line, the problem is largely...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/tpl_SM_patent_portfolio-01.png-1024x518.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-04T13:00:35+00:00",
+    "url": "https://3dprint.com/329711/polish-electronics-3d-printing-oem-xtpl-sells-10-more-printhead-modules-to-first-chinese-customer/",
+    "forced_tags": [],
+    "title_en": "Polish Electronics 3D Printing OEM XTPL Sells 10 More Printhead Modules to First Chinese Customer",
+    "summary_bullets_en": [
+      "Polish company XTPL has secured a follow-up order for 10 additional printhead modules from its first Chinese client.",
+      "The technology is aimed at addressing the rising costs and manufacturing complexities of modern consumer electronics like smartphones and laptops.",
+      "XTPL's precision printing solutions are increasingly being adopted to improve efficiency in high-tech device production."
+    ],
+    "summary_bullets_cs": [
+      "Polská společnost XTPL získala navazující objednávku na 10 dalších tiskových modulů od svého prvního čínského klienta.",
+      "Technologie je zaměřena na řešení rostoucích nákladů a výrobní složitosti moderní spotřební elektroniky, jako jsou chytré telefony a notebooky.",
+      "Přesná tisková řešení společnosti XTPL jsou stále častěji využívána ke zvýšení efektivity při výrobě high-tech zařízení."
+    ],
+    "tags": [
+      "Hardware",
+      "Electronics",
+      "3D Printing",
+      "XTPL",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Další zkouška technologie Binder Jetting: Vysokoteplotní superslitiny ve spolupráci s AmPd Labs a Continuum",
+    "summary": "Can binder jetting deliver the performance of investment casting while reducing cost, lead times, and manufacturing complexity? That&#8217;s the focus of The Future of High-Temperature Superalloys, an upcoming webinar presented...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/AmPd-desktop-metal-machine-1-1.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-04T12:30:29+00:00",
+    "url": "https://3dprint.com/328936/binder-jettings-next-test-high-temperature-superalloys-with-ampd-labs-and-continuum/",
+    "forced_tags": [],
+    "title_en": "Binder Jetting’s Next Test: High-Temperature Superalloys, with AmPd Labs and Continuum",
+    "summary_bullets_en": [
+      "The webinar explores whether binder jetting can match the performance of traditional investment casting.",
+      "Key goals include reducing manufacturing costs, lead times, and overall complexity for high-temperature superalloys.",
+      "Industry experts from AmPd Labs and Continuum will discuss the viability of this additive manufacturing process for demanding applications."
+    ],
+    "summary_bullets_cs": [
+      "Webinář zkoumá, zda technologie binder jetting dokáže dosáhnout výkonu srovnatelného s přesným litím (investment casting).",
+      "Hlavním cílem je snížení výrobních nákladů, zkrácení dodacích lhůt a zjednodušení výroby vysokoteplotních superslitin.",
+      "Odborníci z firem AmPd Labs a Continuum budou diskutovat o využitelnosti tohoto aditivního procesu v náročných průmyslových aplikacích."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Binder Jetting",
+      "AmPd Labs",
+      "Continuum",
+      "Superalloys"
+    ]
+  },
+  {
+    "title": "Cesta k 200 000 milím: Geopolitika, rizika dodavatelského řetězce a vzestup 3D tištěných autodílů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/966193598/0/fabbaloo/default~The-Road-to-Miles-Geopolitics-Supply-Chain-Risks-and-the-Rise-of-D-Printed-Auto-Parts\" rel=\"nofollow\" title=\"The Road to 200,000 Miles: Geopolitics, Supply Chain Risks, and the Rise of 3D Printed Auto Parts\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_231-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi discuss how political developments and longer vehicle lifespans are making maintenance data, repair efficiency, and digital asset management more valuable than ever.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/966193598/0/fabbaloo/default~The-Road-to-Miles-Geopolitics-Supply-Chain-Risks-and-the-Rise-of-D-Printed-Auto-Parts\" rel=\"nofollow\">The Road to 200,000 Miles: Geopolitics, Supply Chain Risks, and the Rise of 3D Printed Auto Parts</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_231-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-04T10:59:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/966193598/0/fabbaloo/default~The-Road-to-Miles-Geopolitics-Supply-Chain-Risks-and-the-Rise-of-D-Printed-Auto-Parts",
+    "forced_tags": [],
+    "title_en": "The Road to 200,000 Miles: Geopolitics, Supply Chain Risks, and the Rise of 3D Printed Auto Parts",
+    "summary_bullets_en": [
+      "Geopolitical instability and supply chain vulnerabilities are driving the automotive industry toward localized 3D printing solutions.",
+      "As vehicle lifespans increase, the demand for efficient maintenance and the availability of legacy spare parts is growing.",
+      "Digital asset management and repair efficiency are becoming critical strategic assets for manufacturers and service providers.",
+      "3D printing offers a viable path to sustain aging vehicle fleets by enabling on-demand production of discontinued components."
+    ],
+    "summary_bullets_cs": [
+      "Geopolitická nestabilita a zranitelnost dodavatelských řetězců nutí automobilový průmysl k využívání lokalizovaného 3D tisku.",
+      "S prodlužující se životností vozidel roste poptávka po efektivní údržbě a dostupnosti náhradních dílů pro starší modely.",
+      "Správa digitálních aktiv a efektivita oprav se stávají klíčovými strategickými faktory pro výrobce i servisní střediska.",
+      "3D tisk nabízí životaschopnou cestu k udržení stárnoucích vozových parků díky možnosti výroby již nevyráběných komponentů na vyžádání."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Automotive",
+      "Supply Chain",
+      "Digital Inventory",
+      "Spare Parts"
+    ]
+  },
+  {
+    "title": "Nový proces 3D tisku pro opláštění katetrových dříků od společnosti TE Connectivity",
+    "summary": "TE Connectivity has introduced an automated 3D printing process for producing catheter shafts, replacing a manual assembly step used across the industry.&#160; It was developed by the Advanced Technology Group in TE’s Medical business at the PROPELUS Prototype Center in Galway, Ireland. The step it replaces exists because a catheter shaft is not uniform along&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/cq5dam.web_.1280.1280-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-08-04T09:30:08+00:00",
+    "url": "https://3dprintingindustry.com/news/te-connectivitys-new-3d-printing-process-for-catheter-shaft-jacketing-253537/?utm_source=rss&utm_medium=rss&utm_campaign=te-connectivitys-new-3d-printing-process-for-catheter-shaft-jacketing",
+    "forced_tags": [],
+    "title_en": "TE Connectivity’s New 3D Printing Process for Catheter Shaft Jacketing",
+    "summary_bullets_en": [
+      "TE Connectivity has developed an automated 3D printing process to manufacture catheter shafts.",
+      "The new method replaces a traditional, labor-intensive manual assembly step used in the medical industry.",
+      "The technology was created by the Advanced Technology Group at the PROPELUS Prototype Center in Galway, Ireland.",
+      "The innovation addresses the challenge of non-uniformity in catheter shaft design."
+    ],
+    "summary_bullets_cs": [
+      "Společnost TE Connectivity představila automatizovaný proces 3D tisku pro výrobu dříků katetrů, který nahrazuje manuální montážní krok běžně používaný v celém odvětví.",
+      "Technologie byla vyvinuta skupinou Advanced Technology Group v rámci divize zdravotnických technologií TE v centru PROPELUS Prototype Center v irském Galway.",
+      "Tento proces řeší problém nejednotnosti dříku katetru po celé jeho délce, což byl hlavní důvod pro dosavadní manuální výrobu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "TE Connectivity",
+      "Medical 3D Printing",
+      "Automation"
+    ]
+  },
+  {
+    "title": "Nové patenty společnosti Stratasys se zaměřují na FFF i pryskyřici",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/966177737/0/fabbaloo/default~New-Stratasys-Patents-Target-Both-FFF-And-Resin\" rel=\"nofollow\" title=\"New Stratasys Patents Target Both FFF And Resin\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/stratasys-heat-retention-patent-cover-300x247.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Stratasys has surfaced in two recent patents that work on very different problems: keeping heat inside an industrial FFF machine, and making resin parts last longer after printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/966177737/0/fabbaloo/default~New-Stratasys-Patents-Target-Both-FFF-And-Resin\" rel=\"nofollow\">New Stratasys Patents Target Both FFF And Resin</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/stratasys-heat-retention-patent-cover-300x247.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-04T08:55:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/966177737/0/fabbaloo/default~New-Stratasys-Patents-Target-Both-FFF-And-Resin",
+    "forced_tags": [],
+    "title_en": "New Stratasys Patents Target Both FFF And Resin",
+    "summary_bullets_en": [
+      "Stratasys has filed two new patents addressing distinct challenges in additive manufacturing.",
+      "The first patent focuses on advanced heat retention systems for industrial FFF 3D printers.",
+      "The second patent aims to improve the durability and longevity of resin-based 3D printed parts.",
+      "These innovations highlight the company's ongoing efforts to refine both filament and liquid-based printing technologies."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Stratasys podala dva nové patenty, které řeší odlišné problémy v aditivní výrobě.",
+      "První patent se zaměřuje na systémy udržování tepla v průmyslových FFF 3D tiskárnách.",
+      "Druhý patent má za cíl prodloužit životnost a odolnost dílů tištěných z pryskyřice.",
+      "Tyto inovace podtrhují snahu společnosti o neustálé zdokonalování technologií tisku z filamentu i tekutých materiálů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Stratasys",
+      "FFF",
+      "Resin",
+      "3D Printing",
+      "Patents"
+    ]
+  },
+  {
+    "title": "Společnost EOS se připojuje ke konsorciu MAT‑H2",
+    "summary": "EOS is joining the MAT‑H2 consortium. MAT is an EU-funded group that aims to do research into a hydrogen-led economy. The thinking is that hydrogen will be a clean energy...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/h2mat-laboratorio.jpg-1024x470.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-04T07:00:09+00:00",
+    "url": "https://3dprint.com/329680/eos-joins-the-mat-h2-consortium/",
+    "forced_tags": [],
+    "title_en": "EOS Joins the MAT‑H2 Consortium",
+    "summary_bullets_en": [
+      "EOS has officially joined the EU-funded MAT-H2 consortium.",
+      "The project focuses on advancing research for a hydrogen-based economy.",
+      "The initiative aims to promote hydrogen as a sustainable and clean energy source.",
+      "EOS will leverage its 3D printing expertise to support hydrogen infrastructure development."
+    ],
+    "summary_bullets_cs": [
+      "Společnost EOS se oficiálně připojila ke konsorciu MAT-H2 financovanému EU.",
+      "Projekt se zaměřuje na pokročilý výzkum v oblasti vodíkového hospodářství.",
+      "Iniciativa si klade za cíl prosadit vodík jako čistý a udržitelný zdroj energie.",
+      "EOS využije své odborné znalosti v oblasti 3D tisku k podpoře rozvoje vodíkové infrastruktury."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "EOS",
+      "MAT-H2",
+      "Hydrogen Economy",
+      "Sustainability"
+    ]
+  },
+  {
     "title": "Prusa uvádí na trh čistý PA11 Prusament",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/966048173/0/fabbaloo/default~Prusa-Launches-Pure-PA-Prusament\" rel=\"nofollow\" title=\"Prusa Launches Pure PA11 Prusament\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/prusa-natural-pa11-cover-300x191.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prusa Research has added a “pure” PA11 Prusament filament for printing tougher, lower-friction functional parts.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/966048173/0/fabbaloo/default~Prusa-Launches-Pure-PA-Prusament\" rel=\"nofollow\">Prusa Launches Pure PA11 Prusament</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/prusa-natural-pa11-cover-300x191.jpg",
