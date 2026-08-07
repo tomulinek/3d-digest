@@ -1,5 +1,377 @@
 [
   {
+    "title": "USA Diving jmenovala FITASY oficiálním partnerem obuvi",
+    "summary": "USA Diving has named Indianapolis-based FITASY, a maker of 3D printed custom-fit recovery footwear, as its official footwear partner. The partnership launched at the Bolzano Diving Meeting in Bolzano, Italy, on July 3, 2026, where National Team athletes and coaches wore FITASY&#8217;s Strides on the pool deck during competition. USA Diving announced the deal on&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/2026-FITASY-USAD_stills-hero-wide-003_ironori-studio-LK-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-08-07T05:59:46+00:00",
+    "url": "https://3dprintingindustry.com/news/usa-diving-names-fitasy-official-footwear-partner-253627/?utm_source=rss&utm_medium=rss&utm_campaign=usa-diving-names-fitasy-official-footwear-partner",
+    "forced_tags": [],
+    "title_en": "USA Diving names FITASY official footwear partner",
+    "summary_bullets_en": [
+      "USA Diving has partnered with FITASY, a company specializing in 3D printed custom-fit recovery footwear.",
+      "The collaboration debuted at the Bolzano Diving Meeting in Italy on July 3, 2026.",
+      "National Team athletes and coaches are now utilizing FITASY's 'Strides' footwear for recovery on the pool deck."
+    ],
+    "summary_bullets_cs": [
+      "Organizace USA Diving navázala partnerství se společností FITASY, která vyrábí 3D tištěnou regenerační obuv na míru.",
+      "Spolupráce byla zahájena 3. července 2026 na mítinku Bolzano Diving Meeting v Itálii.",
+      "Sportovci a trenéři národního týmu začali při soutěžích na bazénu využívat obuv Strides od společnosti FITASY."
+    ],
+    "tags": [
+      "Services",
+      "Footwear",
+      "FITASY",
+      "USA Diving",
+      "3D Printing",
+      "Customization"
+    ]
+  },
+  {
+    "title": "3D tištěný titanový lebeční implantát z nemocnice Walter Reed je prvním zařízením schváleným FDA pro výrobu přímo v místě péče",
+    "summary": "The US Food and Drug Administration (FDA) has granted premarket clearance to a 3D printed titanium cranial plate developed at Walter Reed National Military Medical Center, marking the first time the agency has cleared an implant produced by a point-of-care institution.  The clearance, listed under submission number K253116, covers the 3D Medical Applications Center&#8217;s (3D&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/170516-D-HA257-8260-150x100.avif",
+    "source": "3D Printing Industry",
+    "published": "2026-08-07T05:54:19+00:00",
+    "url": "https://3dprintingindustry.com/news/walter-reeds-3d-printed-titanium-cranial-plate-becomes-first-implant-cleared-by-the-fda-for-a-point-of-care-institution-253587/?utm_source=rss&utm_medium=rss&utm_campaign=walter-reeds-3d-printed-titanium-cranial-plate-becomes-first-implant-cleared-by-the-fda-for-a-point-of-care-institution",
+    "forced_tags": [],
+    "title_en": "Walter Reed’s 3D Printed Titanium Cranial Plate Becomes First Implant Cleared by the FDA for a Point-of-Care Institution",
+    "summary_bullets_en": [
+      "The FDA has granted clearance for a 3D printed titanium cranial plate developed at Walter Reed National Military Medical Center.",
+      "This marks the first time the FDA has approved an implant manufactured directly at a point-of-care medical institution.",
+      "The approval, filed under submission K253116, validates the 3D Medical Applications Center's production capabilities.",
+      "This milestone sets a new regulatory precedent for on-site medical device manufacturing in hospitals."
+    ],
+    "summary_bullets_cs": [
+      "Americký úřad FDA udělil povolení pro 3D tištěný titanový lebeční implantát vyvinutý v Národním vojenském zdravotnickém centru Walter Reed.",
+      "Jde o historicky první případ, kdy úřad schválil implantát vyrobený přímo v instituci poskytující zdravotní péči (point-of-care).",
+      "Schválení pod číslem K253116 potvrzuje výrobní standardy Centra pro 3D lékařské aplikace.",
+      "Tento milník vytváří nový regulační precedens pro výrobu zdravotnických prostředků přímo v nemocničním prostředí."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Medical",
+      "FDA",
+      "Titanium",
+      "3D Printing",
+      "Walter Reed National Military Medical Center"
+    ]
+  },
+  {
+    "title": "Společnost Renishaw uvádí software LIBERTAS pro snížení počtu podpor a zlepšení povrchové úpravy v kovovém 3D tisku",
+    "summary": "Global engineering firm Renishaw has introduced LIBERTAS, a new software technology for its RenAM 500 series metal additive manufacturing (AM) systems that targets two persistent challenges in laser powder bed fusion (LPBF): rough downskin surfaces and reliance on support structures. Support structures in LPBF manage heat and distortion during a build, but they also add&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/RenishawLIBERTAS560A-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-08-07T05:18:35+00:00",
+    "url": "https://3dprintingindustry.com/news/renishaw-launches-libertas-software-to-reduce-supports-and-improve-surface-finish-in-metal-am-253619/?utm_source=rss&utm_medium=rss&utm_campaign=renishaw-launches-libertas-software-to-reduce-supports-and-improve-surface-finish-in-metal-am",
+    "forced_tags": [],
+    "title_en": "Renishaw Launches LIBERTAS Software to Reduce Supports and Improve Surface Finish in Metal AM",
+    "summary_bullets_en": [
+      "Renishaw introduced LIBERTAS software for its RenAM 500 series to optimize metal additive manufacturing.",
+      "The technology specifically targets the reduction of support structures in laser powder bed fusion (LPBF).",
+      "It significantly improves the quality of downskin surface finishes, addressing a common industry challenge.",
+      "The software aims to streamline production by minimizing post-processing requirements and material waste."
+    ],
+    "summary_bullets_cs": [
+      "Globální inženýrská firma Renishaw představila softwarovou technologii LIBERTAS pro své systémy kovového 3D tisku řady RenAM 500.",
+      "Novinka řeší dva přetrvávající problémy technologie laserového spékání prášku (LPBF): drsné povrchy spodních stran a nutnost používání podpůrných struktur.",
+      "Podpůrné struktury v LPBF sice pomáhají řídit teplo a deformace během tisku, ale zároveň zvyšují nároky na následné zpracování a spotřebu materiálu."
+    ],
+    "tags": [
+      "Software",
+      "Hardware",
+      "Renishaw",
+      "Metal AM",
+      "LPBF",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Jaké je nejoblíbenější úložiště 3D modelů v roce 2026?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/966985475/0/fabbaloo/default~What-is-the-Most-Popular-D-Model-Repository-in\" rel=\"nofollow\" title=\"What is the Most Popular 3D Model Repository in 2026?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/trends-2026-cover-300x138.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>What are the most popular 3D model repositories in mid-2026?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/966985475/0/fabbaloo/default~What-is-the-Most-Popular-D-Model-Repository-in\" rel=\"nofollow\">What is the Most Popular 3D Model Repository in 2026?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/trends-2026-cover-300x138.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-06T16:45:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/966985475/0/fabbaloo/default~What-is-the-Most-Popular-D-Model-Repository-in",
+    "forced_tags": [],
+    "title_en": "What is the Most Popular 3D Model Repository in 2026?",
+    "summary_bullets_en": [
+      "The article examines the current landscape of 3D model repositories as of mid-2026.",
+      "It identifies which platforms are currently leading in popularity among the 3D printing community.",
+      "The analysis provides insights into user preferences and trends in digital model distribution."
+    ],
+    "summary_bullets_cs": [
+      "Článek zkoumá aktuální stav úložišť 3D modelů v polovině roku 2026.",
+      "Identifikuje platformy, které v současnosti vedou v popularitě mezi komunitou 3D tisku.",
+      "Analýza poskytuje vhled do uživatelských preferencí a trendů v distribuci digitálních modelů."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "3D Printing",
+      "3D Models",
+      "Repositories",
+      "Digital Manufacturing"
+    ]
+  },
+  {
+    "title": "Xometry vylepšuje svůj AI nástroj pro doporučování výrobních procesů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/966962210/0/fabbaloo/default~Xometry-Upgrades-AI-Process-Recommender-to-Improve-Manufacturing-Choices\" rel=\"nofollow\" title=\"Xometry Upgrades AI Process Recommender to Improve Manufacturing Choices\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/xometry-ai-upgrade-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Xometry announced “comprehensive upgrades” to their AI model architecture.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/966962210/0/fabbaloo/default~Xometry-Upgrades-AI-Process-Recommender-to-Improve-Manufacturing-Choices\" rel=\"nofollow\">Xometry Upgrades AI Process Recommender to Improve Manufacturing Choices</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/xometry-ai-upgrade-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-06T15:09:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/966962210/0/fabbaloo/default~Xometry-Upgrades-AI-Process-Recommender-to-Improve-Manufacturing-Choices",
+    "forced_tags": [],
+    "title_en": "Xometry Upgrades AI Process Recommender to Improve Manufacturing Choices",
+    "summary_bullets_en": [
+      "Xometry has implemented comprehensive upgrades to its AI model architecture.",
+      "The enhanced AI process recommender aims to assist users in making better manufacturing decisions.",
+      "These improvements are designed to optimize the selection of production methods for various projects."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Xometry oznámila rozsáhlou modernizaci architektury svých modelů umělé inteligence.",
+      "Vylepšený AI systém má uživatelům pomoci při výběru nejvhodnějších výrobních postupů.",
+      "Cílem aktualizace je zefektivnit rozhodování v oblasti zakázkové výroby a 3D tisku."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Xometry",
+      "Artificial Intelligence",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "ASTM spouští video sérii „Manufacturing Unlimited“",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/966937430/0/fabbaloo/default~ASTM-Launches-%e2%80%98Manufacturing-Unlimited%e2%80%99-Video-Series\" rel=\"nofollow\" title=\"ASTM Launches ‘Manufacturing Unlimited’ Video Series\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/astm-video-series-cover-300x173.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>ASTM has launched an interesting AM video series.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/966937430/0/fabbaloo/default~ASTM-Launches-%e2%80%98Manufacturing-Unlimited%e2%80%99-Video-Series\" rel=\"nofollow\">ASTM Launches ‘Manufacturing Unlimited’ Video Series</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/astm-video-series-cover-300x173.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-06T13:38:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/966937430/0/fabbaloo/default~ASTM-Launches-%e2%80%98Manufacturing-Unlimited%e2%80%99-Video-Series",
+    "forced_tags": [],
+    "title_en": "ASTM Launches ‘Manufacturing Unlimited’ Video Series",
+    "summary_bullets_en": [
+      "ASTM International has introduced a new video series titled 'Manufacturing Unlimited'.",
+      "The series focuses on exploring the latest advancements and trends in additive manufacturing.",
+      "It aims to provide educational insights into the evolving landscape of industrial 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Organizace ASTM International představila novou video sérii s názvem „Manufacturing Unlimited“.",
+      "Série se zaměřuje na zkoumání nejnovějších pokroků a trendů v oblasti aditivní výroby.",
+      "Cílem projektu je poskytnout vzdělávací vhled do vyvíjejícího se světa průmyslového 3D tisku."
+    ],
+    "tags": [
+      "Services",
+      "ASTM",
+      "Additive Manufacturing",
+      "Education",
+      "Industry Trends"
+    ]
+  },
+  {
+    "title": "Ricoh USA prodává svou divizi 3D tisku pro zdravotnictví bývalému viceprezidentovi, firma se přejmenovává na Myrava",
+    "summary": "Japanese companies are really good at internal diversification and spin-outs, and this seems to be true even in cases involving foreign subsidiaries of Japanese multinationals. Ricoh USA recently demonstrated this...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/Innovation-Studio-pic-3.jpg.avif",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-06T13:30:45+00:00",
+    "url": "https://3dprint.com/329978/ricoh-usa-sells-3d-for-healthcare-spinout-to-former-vp-and-gm-rebrands-as-myrava/",
+    "forced_tags": [],
+    "title_en": "Ricoh USA Sells 3D for Healthcare Spinout to Former VP and GM, Rebrands as Myrava",
+    "summary_bullets_en": [
+      "Ricoh USA has spun off its 3D healthcare division into an independent company.",
+      "The new entity, rebranded as Myrava, was acquired by the division's former VP and GM.",
+      "This move reflects a strategic shift for Ricoh, allowing the new firm to focus exclusively on medical 3D printing solutions.",
+      "The spin-out highlights the trend of Japanese multinationals divesting specialized units to foster agility."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Ricoh USA vyčlenila svou divizi 3D tisku pro zdravotnictví do samostatné firmy.",
+      "Nový subjekt, který nyní nese název Myrava, odkoupil bývalý viceprezident a generální manažer divize.",
+      "Tento krok představuje strategickou změnu pro Ricoh a umožňuje nové firmě plně se soustředit na medicínská řešení 3D tisku.",
+      "Odštěpení divize potvrzuje trend japonských nadnárodních korporací, které se zbavují specializovaných jednotek pro zvýšení jejich flexibility."
+    ],
+    "tags": [
+      "Services",
+      "Healthcare",
+      "Ricoh",
+      "Myrava",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Společnost Phase3D zpřístupňuje svůj ISM hardware budoucí generaci odborníků na 3D tisk díky partnerství s DEHub",
+    "summary": "The US additive manufacturing (AM) industry faces a turning point in terms of its approach to R&#38;D. As has been the case for aggregate R&#38;D in the US economy at...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/Projection.png-2.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-06T13:00:46+00:00",
+    "url": "https://3dprint.com/329966/phase3d-puts-ism-hardware-in-the-hands-of-ams-future-workforce-with-rowan-university-partnership/",
+    "forced_tags": [],
+    "title_en": "Phase3D Puts Its ISM Hardware in the Hands of AM’s Future Workforce with DEHub Partnership",
+    "summary_bullets_en": [
+      "Phase3D is partnering with DEHub to provide students and researchers with access to advanced In-situ Monitoring (ISM) hardware.",
+      "The initiative aims to bridge the gap between academic research and industrial application in additive manufacturing.",
+      "By integrating real-time monitoring technology into educational settings, the partnership seeks to accelerate innovation and workforce readiness in the US AM sector."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Phase3D uzavřela partnerství s DEHub, aby poskytla studentům a výzkumníkům přístup ke svému hardwaru pro in-situ monitoring (ISM).",
+      "Cílem iniciativy je překlenout propast mezi akademickým výzkumem a průmyslovým využitím v aditivní výrobě.",
+      "Integrací technologie monitorování v reálném čase do vzdělávacího prostředí chce partnerství urychlit inovace a připravit novou pracovní sílu pro americký sektor 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Phase3D",
+      "DEHub",
+      "Additive Manufacturing",
+      "In-situ Monitoring",
+      "Education",
+      "R&D"
+    ]
+  },
+  {
+    "title": "China Watch #2: JLC vstupuje na burzu s valuací přes 115 miliard jüanů (a devět dalších příběhů)",
+    "summary": "JLC goes public, eSUN prints at 1000 mm/s, Bambu Lab opens a store in Thailand, and China introduces six new standards for metal 3D printing",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/0291d7a0-c410-4693-a0d8-de1bf3abeeb4_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-08-06T12:02:50+00:00",
+    "url": "https://www.3dprintingjournal.com/p/china-watch-2-jlc-goes-public-with",
+    "forced_tags": [],
+    "title_en": "China Watch #2: JLC goes public with a valuation of over RMB 115 billion (and nine other stories)",
+    "summary_bullets_en": [
+      "JLC has successfully gone public, achieving a market valuation exceeding RMB 115 billion.",
+      "eSUN has pushed performance boundaries by demonstrating 3D printing speeds of 1000 mm/s.",
+      "Bambu Lab continues its global retail expansion by opening a new store in Thailand.",
+      "China has officially implemented six new national standards for metal 3D printing technologies."
+    ],
+    "summary_bullets_cs": [
+      "Společnost JLC vstoupila na burzu s tržní hodnotou přesahující 115 miliard jüanů.",
+      "Firma eSUN posunula hranice výkonu, když představila 3D tisk rychlostí 1000 mm/s.",
+      "Bambu Lab pokračuje v globální expanzi otevřením nového obchodu v Thajsku.",
+      "Čína zavedla šest nových národních standardů pro oblast 3D tisku z kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "JLC",
+      "eSUN",
+      "Bambu Lab",
+      "Metal 3D Printing"
+    ]
+  },
+  {
+    "title": "Jeden stroj, tři světy tvorby: Pohled do série HeyGears G1",
+    "summary": "Turning a digital idea into a finished full-color physical product often requires several machines, multiple software tools, manual coloring, repeated positioning, and outsourced production. For creators and small businesses, this...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-11.50.06-PM-1024x571.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-06T12:00:07+00:00",
+    "url": "https://3dprint.com/330005/one-machine-three-worlds-of-creation-inside-the-heygears-g1-series/",
+    "forced_tags": [],
+    "title_en": "One Machine, Three Worlds of Creation: Inside the HeyGears G1 Series",
+    "summary_bullets_en": [
+      "The HeyGears G1 series streamlines the complex workflow of creating full-color physical products.",
+      "It eliminates the need for multiple machines, manual post-processing, and outsourced production.",
+      "The system integrates digital design with efficient manufacturing, empowering creators and small businesses.",
+      "It offers a unified solution for high-quality, multi-material, and full-color 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Série HeyGears G1 zjednodušuje komplexní proces výroby plnobarevných fyzických produktů.",
+      "Eliminuje potřebu používat více strojů, ruční barvení a externí výrobní kapacity.",
+      "Systém propojuje digitální návrh s efektivní výrobou, což pomáhá tvůrcům a malým firmám.",
+      "Nabízí ucelené řešení pro vysoce kvalitní 3D tisk s podporou více materiálů a barev."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "HeyGears",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Full-color Printing"
+    ]
+  },
+  {
+    "title": "Pohled na MEDevice Boston 2026: Kde se setkává MedTech a aditivní výroba",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/966903146/0/fabbaloo/default~Looking-Ahead-to-MEDevice-Boston-Where-MedTech-and-Additive-Manufacturing-Meet\" rel=\"nofollow\" title=\"Looking Ahead to MEDevice Boston 2026: Where MedTech and Additive Manufacturing Meet\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/Filename-_363-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Anthony Palumbo, Mellissa McIntyre, and Charles Goulding look ahead to MEDevice Boston 2026 and the medical-device companies applying additive manufacturing to product development and production.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/966903146/0/fabbaloo/default~Looking-Ahead-to-MEDevice-Boston-Where-MedTech-and-Additive-Manufacturing-Meet\" rel=\"nofollow\">Looking Ahead to MEDevice Boston 2026: Where MedTech and Additive Manufacturing Meet</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/Filename-_363-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-06T11:22:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/966903146/0/fabbaloo/default~Looking-Ahead-to-MEDevice-Boston-Where-MedTech-and-Additive-Manufacturing-Meet",
+    "forced_tags": [],
+    "title_en": "Looking Ahead to MEDevice Boston 2026: Where MedTech and Additive Manufacturing Meet",
+    "summary_bullets_en": [
+      "Anthony Palumbo, Mellissa McIntyre, and Charles Goulding preview the upcoming MEDevice Boston 2026 conference.",
+      "The discussion focuses on how medical device companies are integrating additive manufacturing into their product development cycles.",
+      "The event highlights the growing synergy between advanced 3D printing technologies and modern healthcare production requirements."
+    ],
+    "summary_bullets_cs": [
+      "Anthony Palumbo, Mellissa McIntyre a Charles Goulding představují nadcházející konferenci MEDevice Boston 2026.",
+      "Diskuse se zaměřuje na to, jak společnosti vyrábějící zdravotnické prostředky integrují aditivní výrobu do vývoje svých produktů.",
+      "Akce zdůrazňuje rostoucí synergii mezi pokročilými technologiemi 3D tisku a moderními požadavky na výrobu ve zdravotnictví."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "MedTech",
+      "Additive Manufacturing",
+      "Medical Devices",
+      "MEDevice Boston"
+    ]
+  },
+  {
+    "title": "Společnost Elmet instaluje nový systém pro výrobu monolitických hypersonických výměníků tepla",
+    "summary": "The Elmet Group’s subsidiary Elmet Technologies is installing a DMP Flex 350 Triple metal 3D printer from 3D Systems to produce heat exchangers for hypersonic vehicles.&#160; According to 3D Systems, the company expects to qualify and certify the system to begin production in 2026. The deployment follows eight years of joint development between Elmet and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/elmet-heat-exchanger-1.png-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-08-06T11:13:27+00:00",
+    "url": "https://3dprintingindustry.com/news/elmet-installs-new-system-to-target-monolithic-hypersonic-heat-exchangers-253583/?utm_source=rss&utm_medium=rss&utm_campaign=elmet-installs-new-system-to-target-monolithic-hypersonic-heat-exchangers",
+    "forced_tags": [],
+    "title_en": "Elmet Installs New System to Target Monolithic Hypersonic Heat Exchangers",
+    "summary_bullets_en": [
+      "Elmet Technologies is integrating a 3D Systems DMP Flex 350 Triple metal printer to manufacture advanced heat exchangers.",
+      "The project focuses on producing monolithic components specifically designed for hypersonic vehicle applications.",
+      "The company aims to complete system qualification and certification by 2026 to initiate full-scale production.",
+      "This deployment is the result of an eight-year collaborative development effort."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Elmet Technologies instaluje kovovou 3D tiskárnu DMP Flex 350 Triple od 3D Systems pro výrobu výměníků tepla pro hypersonická vozidla.",
+      "Podle 3D Systems se očekává, že systém bude kvalifikován a certifikován pro zahájení výroby v roce 2026.",
+      "Nasazení technologie je výsledkem osmiletého společného vývoje mezi společností Elmet a jejími partnery."
+    ],
+    "tags": [
+      "Hardware",
+      "Elmet Technologies",
+      "3D Systems",
+      "Metal 3D Printing",
+      "Hypersonic",
+      "Aerospace"
+    ]
+  },
+  {
+    "title": "Společnost EOS usiluje o patent na software pro 3D tisk v Číně",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/966866615/0/fabbaloo/default~EOS-Pursues-AM-Software-Patent-In-China\" rel=\"nofollow\" title=\"EOS Pursues AM Software Patent In China\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/eos-china-patent-cover-300x129.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>EOS is pursuing Chinese patent protection for additive manufacturing preflight software</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/966866615/0/fabbaloo/default~EOS-Pursues-AM-Software-Patent-In-China\" rel=\"nofollow\">EOS Pursues AM Software Patent In China</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/eos-china-patent-cover-300x129.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-06T08:57:22+00:00",
+    "url": "https://feeds.fabbaloo.com/~/966866615/0/fabbaloo/default~EOS-Pursues-AM-Software-Patent-In-China",
+    "forced_tags": [],
+    "title_en": "EOS Pursues AM Software Patent In China",
+    "summary_bullets_en": [
+      "EOS is actively seeking patent protection in China for its additive manufacturing preflight software.",
+      "The move highlights the company's focus on securing intellectual property for its digital workflow solutions.",
+      "This strategic step aims to strengthen EOS's competitive position within the rapidly growing Chinese 3D printing market."
+    ],
+    "summary_bullets_cs": [
+      "Společnost EOS aktivně usiluje o získání patentové ochrany v Číně pro svůj software určený k přípravě úloh pro aditivní výrobu.",
+      "Tento krok podtrhuje zaměření společnosti na zabezpečení duševního vlastnictví v oblasti digitálních workflow řešení.",
+      "Strategický záměr má za cíl posílit konkurenční pozici EOS na rychle se rozvíjejícím čínském trhu 3D tisku."
+    ],
+    "tags": [
+      "Software",
+      "EOS",
+      "Additive Manufacturing",
+      "Intellectual Property",
+      "China"
+    ]
+  },
+  {
     "title": "Průmyslová 3D tiskárna BigRep ONE.5X",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/966609842/0/fabbaloo/default~BigReps-ONEX-Industrial-D-Printer\" rel=\"nofollow\" title=\"BigRep&#8217;s ONE.5X Industrial 3D Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/bigrep-one5x-cover-300x215.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Today we’re taking a look at the upcoming BigRep ONE.5X industrial 3D printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/966609842/0/fabbaloo/default~BigReps-ONEX-Industrial-D-Printer\" rel=\"nofollow\">BigRep&#8217;s ONE.5X Industrial 3D Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/bigrep-one5x-cover-300x215.jpg",
