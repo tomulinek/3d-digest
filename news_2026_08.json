@@ -1,5 +1,406 @@
 [
   {
+    "title": "Další společnost zřejmě končí s výrobou 3D tiskáren",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/967290578/0/fabbaloo/default~Another-Company-Appears-to-Exit-D-Printer-Manufacturing\" rel=\"nofollow\" title=\"Another Company Appears to Exit 3D Printer Manufacturing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/longer3d-eprint-cover-300x164.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>It seems another 3D printer manufacturer is moving along to other products.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/967290578/0/fabbaloo/default~Another-Company-Appears-to-Exit-D-Printer-Manufacturing\" rel=\"nofollow\">Another Company Appears to Exit 3D Printer Manufacturing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/longer3d-eprint-cover-300x164.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-07T16:45:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/967290578/0/fabbaloo/default~Another-Company-Appears-to-Exit-D-Printer-Manufacturing",
+    "forced_tags": [],
+    "title_en": "Another Company Appears to Exit 3D Printer Manufacturing",
+    "summary_bullets_en": [
+      "A 3D printer manufacturer appears to be shifting its business focus away from hardware production.",
+      "The company is pivoting toward alternative product lines, signaling a potential exit from the 3D printing market.",
+      "This move reflects ongoing consolidation and strategic shifts within the competitive 3D printing industry."
+    ],
+    "summary_bullets_cs": [
+      "Zdá se, že další výrobce 3D tiskáren přesouvá své obchodní zaměření mimo oblast výroby hardwaru.",
+      "Společnost se orientuje na jiné produktové řady, což naznačuje možný odchod z trhu 3D tisku.",
+      "Tento krok odráží probíhající konsolidaci a strategické změny v konkurenčním odvětví 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Industry Trends",
+      "Longer3D",
+      "Business Strategy"
+    ]
+  },
+  {
+    "title": "Společnost Artec 3D uvádí na trh průmyslový skener Point II",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/967275758/0/fabbaloo/default~Artec-D-Launches-Point-II-Industrial-Scanner\" rel=\"nofollow\" title=\"Artec 3D Launches Point II Industrial Scanner\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/artec3d-point-ii-cover-300x193.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Artec 3D introduced a new industrial 3D scanner, the Artec Point II.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/967275758/0/fabbaloo/default~Artec-D-Launches-Point-II-Industrial-Scanner\" rel=\"nofollow\">Artec 3D Launches Point II Industrial Scanner</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/artec3d-point-ii-cover-300x193.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-07T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/967275758/0/fabbaloo/default~Artec-D-Launches-Point-II-Industrial-Scanner",
+    "forced_tags": [],
+    "title_en": "Artec 3D Launches Point II Industrial Scanner",
+    "summary_bullets_en": [
+      "Artec 3D has officially unveiled its latest industrial-grade 3D scanner, the Artec Point II.",
+      "The new device is designed to enhance precision and efficiency in industrial scanning workflows.",
+      "This launch expands Artec 3D's portfolio of professional metrology and inspection solutions."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Artec 3D oficiálně představila svůj nejnovější průmyslový 3D skener s názvem Artec Point II.",
+      "Nové zařízení je navrženo tak, aby zvýšilo přesnost a efektivitu v průmyslových procesech skenování.",
+      "Toto uvedení na trh rozšiřuje portfolio profesionálních metrologických a inspekčních řešení společnosti Artec 3D."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Scanning",
+      "Metrology",
+      "Artec 3D",
+      "Industrial Design"
+    ]
+  },
+  {
+    "title": "Eplus3D a UCL Rocket testují nový motor na LOX a IPA",
+    "summary": "Eplus3D has worked with UCL Rocket on liquid rocket engines. Right now, they&#8217;re working on a regenerative liquid oxygen (LOX) and isopropyl alcohol (IPA) liquid-cooled architecture. These rockets use IPA...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/Cover-scaled.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-07T13:30:05+00:00",
+    "url": "https://3dprint.com/329833/eplus3d-ucl-rocket-test-new-lox-ipa-engine/",
+    "forced_tags": [],
+    "title_en": "Eplus3D & UCL Rocket Test New LOX IPA Engine",
+    "summary_bullets_en": [
+      "Eplus3D is collaborating with UCL Rocket to develop advanced liquid rocket engine components.",
+      "The project focuses on a regenerative cooling architecture for engines using liquid oxygen (LOX) and isopropyl alcohol (IPA).",
+      "The partnership leverages 3D printing technology to optimize the design and performance of these rocket propulsion systems."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Eplus3D spolupracuje s UCL Rocket na vývoji komponent pro raketové motory na kapalná paliva.",
+      "Projekt se zaměřuje na architekturu regenerativního chlazení pro motory využívající kapalný kyslík (LOX) a isopropylalkohol (IPA).",
+      "Partnerství využívá technologie 3D tisku k optimalizaci konstrukce a výkonu těchto raketových pohonných systémů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Eplus3D",
+      "UCL Rocket",
+      "Aerospace",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Toto je možná dosud nejneobvyklejší využití 3D tištěných mřížkových struktur",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/967248776/0/fabbaloo/default~This-May-Be-the-Most-Unusual-Use-of-D-Printed-Lattices-Yet\" rel=\"nofollow\" title=\"This May Be the Most Unusual Use of 3D Printed Lattices Yet\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/thermal-cloak-cover-300x185.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have used a 3D printed metal lattice to make heat effectively disappear.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/967248776/0/fabbaloo/default~This-May-Be-the-Most-Unusual-Use-of-D-Printed-Lattices-Yet\" rel=\"nofollow\">This May Be the Most Unusual Use of 3D Printed Lattices Yet</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/thermal-cloak-cover-300x185.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-07T13:01:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/967248776/0/fabbaloo/default~This-May-Be-the-Most-Unusual-Use-of-D-Printed-Lattices-Yet",
+    "forced_tags": [],
+    "title_en": "This May Be the Most Unusual Use of 3D Printed Lattices Yet",
+    "summary_bullets_en": [
+      "Researchers have developed a novel application for 3D printed metal lattices.",
+      "The structure is designed to manipulate thermal energy in a way that makes heat effectively disappear.",
+      "This breakthrough demonstrates the advanced potential of lattice geometries beyond structural or weight-saving purposes."
+    ],
+    "summary_bullets_cs": [
+      "Vědci vyvinuli inovativní způsob využití 3D tištěných kovových mřížek.",
+      "Struktura je navržena tak, aby manipulovala s tepelnou energií způsobem, díky němuž teplo efektivně mizí.",
+      "Tento průlom ukazuje pokročilý potenciál mřížkových geometrií, který přesahuje běžné využití pro zpevnění nebo odlehčení dílů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Metal Additive Manufacturing",
+      "Lattice Structures",
+      "Thermal Engineering",
+      "Research"
+    ]
+  },
+  {
+    "title": "Finanční výsledky 3D tisku: Xometry, Protolabs a Lincoln Electric vykázaly silná čtvrtletí",
+    "summary": "The latest earnings reports from Xometry (Nasdaq: XMTR), Protolabs (NYSE: PRLB), and Lincoln Electric (Nasdaq: LECO) suggest manufacturers are still spending. All three companies reported solid results, although each tells...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/03/Screenshot-2026-03-05-at-10.41.25-AM-e1772718213824.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-07T13:00:25+00:00",
+    "url": "https://3dprint.com/330078/3d-printing-financials-xometry-protolabs-and-lincoln-electric-post-strong-quarters/",
+    "forced_tags": [],
+    "title_en": "3D Printing Financials: Xometry, Protolabs, and Lincoln Electric Post Strong Quarters",
+    "summary_bullets_en": [
+      "Xometry, Protolabs, and Lincoln Electric reported strong quarterly financial results, signaling continued investment in manufacturing.",
+      "The data indicates that despite economic uncertainties, demand for industrial manufacturing services remains robust.",
+      "Each company demonstrates a unique strategic approach to navigating the current market landscape."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti Xometry, Protolabs a Lincoln Electric oznámily silné čtvrtletní výsledky, což naznačuje, že výrobci stále investují.",
+      "Data ukazují, že navzdory ekonomické nejistotě zůstává poptávka po průmyslových výrobních službách vysoká.",
+      "Každá z firem představuje odlišný strategický přístup k navigaci v současném tržním prostředí."
+    ],
+    "tags": [
+      "Services",
+      "Manufacturing",
+      "Xometry",
+      "Protolabs",
+      "Lincoln Electric"
+    ]
+  },
+  {
+    "title": "Společnost The Barnes Global Advisors získala kontrakt na databázi kovového 3D tisku od BPMI",
+    "summary": "Other than workforce development, materials qualification is perhaps the greatest existing barrier to the scale-up of metal additive manufacturing (AM). Moreover, improving access to data on metals qualified for the...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/1782486991830.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-07T12:30:08+00:00",
+    "url": "https://3dprint.com/329840/the-barnes-global-advisors-lands-bpmi-metal-am-database-contract/",
+    "forced_tags": [],
+    "title_en": "The Barnes Global Advisors Lands BPMI Metal AM Database Contract",
+    "summary_bullets_en": [
+      "The Barnes Global Advisors (TBGA) secured a contract with the Bettis Atomic Power Laboratory (BPMI) to develop a metal additive manufacturing database.",
+      "The project aims to overcome the critical industry barrier of materials qualification in metal AM.",
+      "Improved access to standardized data is expected to accelerate the industrial scale-up of metal 3D printing technologies.",
+      "The initiative focuses on streamlining the qualification process for metals used in demanding engineering applications."
+    ],
+    "summary_bullets_cs": [
+      "Společnost The Barnes Global Advisors (TBGA) získala zakázku od Bettis Atomic Power Laboratory (BPMI) na vytvoření databáze pro aditivní výrobu kovů.",
+      "Projekt se zaměřuje na překonání jedné z největších bariér v oboru, kterou je kvalifikace materiálů pro kovový 3D tisk.",
+      "Lepší přístup k datům o kvalifikovaných kovech má za cíl urychlit průmyslové rozšíření technologií aditivní výroby.",
+      "Iniciativa pomůže zefektivnit procesy certifikace materiálů pro náročné inženýrské aplikace."
+    ],
+    "tags": [
+      "Services",
+      "Material",
+      "The Barnes Global Advisors",
+      "BPMI",
+      "Metal AM",
+      "Materials Qualification"
+    ]
+  },
+  {
+    "title": "America Makes řeší úzká hrdla v certifikaci 3D tisku pro obranu",
+    "summary": "America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have selected the winning teams for Delta Qual 2.0, a $9 million project call aimed at cutting the qualification barriers that slow additive manufacturing adoption across the U.S. defense industrial base. Three teams, led by ATI Materials, Trusted Metal, Auburn University, and The&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/America-Makes-and-NCDMM-name-winners-of-a-2M-OSW-ManTech-project-call-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-08-07T12:14:09+00:00",
+    "url": "https://3dprintingindustry.com/news/america-makes-tackles-am-qualification-bottlenecks-for-defense-253594/?utm_source=rss&utm_medium=rss&utm_campaign=america-makes-tackles-am-qualification-bottlenecks-for-defense",
+    "forced_tags": [],
+    "title_en": "America Makes Tackles AM Qualification Bottlenecks for Defense",
+    "summary_bullets_en": [
+      "America Makes and NCDMM have announced the winners of the $9 million Delta Qual 2.0 project.",
+      "The initiative aims to remove qualification barriers hindering the adoption of additive manufacturing in the defense sector.",
+      "Three selected teams, led by ATI Materials, Trusted Metal, and Auburn University, will spearhead the development efforts."
+    ],
+    "summary_bullets_cs": [
+      "Organizace America Makes a NCDMM vybraly vítězné týmy pro projekt Delta Qual 2.0 v hodnotě 9 milionů dolarů.",
+      "Cílem projektu je odstranit certifikační bariéry, které zpomalují zavádění aditivní výroby v americkém obranném průmyslu.",
+      "Na vývoji budou pracovat tři týmy vedené společnostmi ATI Materials, Trusted Metal a Auburn University."
+    ],
+    "tags": [
+      "Services",
+      "America Makes",
+      "NCDMM",
+      "Defense",
+      "Additive Manufacturing",
+      "Qualification",
+      "ATI Materials",
+      "Trusted Metal",
+      "Auburn University"
+    ]
+  },
+  {
+    "title": "Západní report č. 2: mnoho změn ve vedení a spousta AI",
+    "summary": "3D Systems is looking for Graves&#8217; successor and reports Q2 results, 6K Additive posts a record quarter, Ricoh sells its healthcare business, and the market is being flooded with AI-powered software",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/f7b1d58c-d642-4f72-b194-05628d4a2e7c_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-08-07T12:03:17+00:00",
+    "url": "https://www.3dprintingjournal.com/p/western-report-2-lots-of-executive",
+    "forced_tags": [],
+    "title_en": "Western Report #2: lots of executive changes and lots of AI",
+    "summary_bullets_en": [
+      "3D Systems is searching for a new CEO following Jeffrey Graves and has released its Q2 financial results.",
+      "6K Additive achieved a record-breaking quarter, while Ricoh decided to divest its healthcare division.",
+      "The 3D printing industry is experiencing a significant influx of new AI-driven software solutions."
+    ],
+    "summary_bullets_cs": [
+      "Společnost 3D Systems hledá nástupce Jeffreyho Gravese a zveřejnila výsledky za druhé čtvrtletí.",
+      "Firma 6K Additive zaznamenala rekordní kvartál, zatímco Ricoh prodává svou divizi zdravotnictví.",
+      "Trh s 3D tiskem je zaplavován novým softwarem poháněným umělou inteligencí."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "3D Systems",
+      "6K Additive",
+      "Ricoh",
+      "AI"
+    ]
+  },
+  {
+    "title": "Stav trhu s desktopovými filamenty v roce 2026, 3. část: Speciální hamburgerové maso",
+    "summary": "Essentially, I used a cutting-edge stealth-mode AI tool that goes far beyond the capabilities of commercially available LLMs to conduct deep research into the desktop 3D printing filament market. I...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/07/filament5.011-1024x576.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-07T12:00:42+00:00",
+    "url": "https://3dprint.com/328788/the-state-of-the-desktop-filament-market-2026-part-3-special-hamburger-meat/",
+    "forced_tags": [],
+    "title_en": "The State of the Desktop Filament Market 2026, Part 3: Special Hamburger Meat",
+    "summary_bullets_en": [
+      "The author utilized an advanced, proprietary AI tool to perform an in-depth analysis of the current desktop 3D printing filament landscape.",
+      "The research aims to uncover hidden trends and market shifts that standard large language models fail to identify.",
+      "This third installment focuses on niche material developments and the evolving quality standards within the industry.",
+      "The report challenges conventional market data by leveraging high-level data synthesis to predict future filament accessibility."
+    ],
+    "summary_bullets_cs": [
+      "Autor využil pokročilý, proprietární AI nástroj k provedení hloubkové analýzy současného trhu s filamenty pro desktopový 3D tisk.",
+      "Cílem výzkumu je odhalit skryté trendy a posuny na trhu, které běžně dostupné jazykové modely nedokážou identifikovat.",
+      "Tento třetí díl se zaměřuje na vývoj specializovaných materiálů a vyvíjející se standardy kvality v oboru.",
+      "Zpráva zpochybňuje konvenční tržní data využitím pokročilé syntézy informací k předpovědi budoucí dostupnosti filamentů."
+    ],
+    "tags": [
+      "Material",
+      "Market Analysis",
+      "3D Printing",
+      "Filament",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "title": "Cavan Sullivan se stal prvním fotbalistou, který v profesionálním zápase obul plně 3D tištěné kopačky",
+    "summary": "Philadelphia Union midfielder Cavan Sullivan made history on July 23, 2026, becoming the first footballer to wear a fully 3D printed boot in a top-level competitive match. The 16-year-old debuted Adidas&#8217; Project R.A.P. (Radical Athlete Perception) football boot during Philadelphia&#8217;s 3–1 MLS victory over the New York Red Bulls, wearing a pair custom-printed to the&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/Screenshot-2026-08-06-at-17.35.08-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-08-07T11:55:38+00:00",
+    "url": "https://3dprintingindustry.com/news/cavan-sullivan-becomes-first-footballer-to-wear-a-fully-3d-printed-boot-in-a-professional-match-253603/?utm_source=rss&utm_medium=rss&utm_campaign=cavan-sullivan-becomes-first-footballer-to-wear-a-fully-3d-printed-boot-in-a-professional-match",
+    "forced_tags": [],
+    "title_en": "Cavan Sullivan Becomes First Footballer to Wear a Fully 3D Printed Boot in a Professional Match",
+    "summary_bullets_en": [
+      "16-year-old Cavan Sullivan made history by wearing the first fully 3D printed football boots in a professional match.",
+      "The debut took place on July 23, 2026, during Philadelphia Union's 3–1 victory over the New York Red Bulls.",
+      "The footwear, known as Adidas' Project R.A.P., was custom-printed to fit the athlete's specific foot anatomy."
+    ],
+    "summary_bullets_cs": [
+      "Šestnáctiletý záložník Philadelphia Union, Cavan Sullivan, se zapsal do historie jako první hráč, který v soutěžním zápase nejvyšší úrovně nastoupil v plně 3D tištěných kopačkách.",
+      "Premiéra proběhla 23. července 2026 při vítězství Philadelphie 3:1 nad New York Red Bulls.",
+      "Sullivan v zápase debutoval s modelem Project R.A.P. od společnosti Adidas, který byl vytištěn na míru podle anatomie jeho chodidla."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Adidas",
+      "3D Printing",
+      "Footwear",
+      "Sports Tech",
+      "Customization"
+    ]
+  },
+  {
+    "title": "NIOSH vydává bezpečnostní štítky pro podporu bezpečnějšího 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/967236260/0/fabbaloo/default~NIOSH-Publishes-Safety-Labels-to-Promote-Safer-D-Printing\" rel=\"nofollow\" title=\"NIOSH Publishes Safety Labels to Promote Safer 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/cdc-stickers-cover-300x188.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The US National Institute for Occupational Safety and Health (NIOSH) has issued some important information about 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/967236260/0/fabbaloo/default~NIOSH-Publishes-Safety-Labels-to-Promote-Safer-D-Printing\" rel=\"nofollow\">NIOSH Publishes Safety Labels to Promote Safer 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/cdc-stickers-cover-300x188.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-07T11:47:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/967236260/0/fabbaloo/default~NIOSH-Publishes-Safety-Labels-to-Promote-Safer-D-Printing",
+    "forced_tags": [],
+    "title_en": "NIOSH Publishes Safety Labels to Promote Safer 3D Printing",
+    "summary_bullets_en": [
+      "The US National Institute for Occupational Safety and Health (NIOSH) has released new safety resources for the 3D printing industry.",
+      "The initiative includes printable safety labels designed to raise awareness about potential hazards in 3D printing environments.",
+      "These materials aim to help users and operators implement better safety practices when working with additive manufacturing equipment."
+    ],
+    "summary_bullets_cs": [
+      "Americký Národní institut pro bezpečnost a ochranu zdraví při práci (NIOSH) zveřejnil nové bezpečnostní materiály pro odvětví 3D tisku.",
+      "Iniciativa zahrnuje tisknutelné bezpečnostní štítky, které mají zvýšit povědomí o potenciálních rizicích v prostředí 3D tisku.",
+      "Cílem těchto materiálů je pomoci uživatelům a operátorům zavést lepší bezpečnostní postupy při práci se zařízeními pro aditivní výrobu."
+    ],
+    "tags": [
+      "Hardware",
+      "Safety",
+      "NIOSH",
+      "Additive Manufacturing",
+      "Health and Safety"
+    ]
+  },
+  {
+    "title": "Platforma CraftMake od Craft Health prochází testováním peptidů",
+    "summary": "Specialty pharmaceutical company PharmaTher Holdings is collaborating with Craft Health Pte. Ltd., a Singapore-based pharmaceutical technology company, to test whether Craft Health&#8217;s CraftMake 3D printing platform can produce personalized peptide doses. PharmaTher Holdings announced the partnership on July 29, 2026, two days after launching its Personaliz3D Peptides division. The work will focus on six peptides:&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/crarftmake-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-08-07T11:39:21+00:00",
+    "url": "https://3dprintingindustry.com/news/craft-healths-craftmake-platform-gets-a-peptide-test-run-253591/?utm_source=rss&utm_medium=rss&utm_campaign=craft-healths-craftmake-platform-gets-a-peptide-test-run",
+    "forced_tags": [],
+    "title_en": "Craft Health’s CraftMake Platform Gets a Peptide Test Run",
+    "summary_bullets_en": [
+      "PharmaTher Holdings has partnered with Craft Health to test the CraftMake 3D printing platform for personalized peptide dosing.",
+      "The collaboration follows the recent launch of PharmaTher’s Personaliz3D Peptides division.",
+      "The project will focus on the 3D printing feasibility of six specific peptide compounds."
+    ],
+    "summary_bullets_cs": [
+      "Společnost PharmaTher Holdings navázala spolupráci s firmou Craft Health, aby otestovala 3D tiskovou platformu CraftMake pro výrobu personalizovaných dávek peptidů.",
+      "Partnerství bylo oznámeno 29. července 2026, krátce po založení divize Personaliz3D Peptides společnosti PharmaTher.",
+      "Výzkum se zaměří na možnosti 3D tisku u šesti vybraných peptidových sloučenin."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "PharmaTher Holdings",
+      "Craft Health",
+      "3D Printing",
+      "Peptides",
+      "Personalized Medicine"
+    ]
+  },
+  {
+    "title": "Deep learning detekuje anomálie taveniny u LPBF tisku s 98% přesností",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/967200407/0/fabbaloo/default~Deep-Learning-Detects-LPBF-Meltpool-Anomalies-With-Accuracy\" rel=\"nofollow\" title=\"Deep Learning Detects LPBF Meltpool Anomalies With 98% Accuracy\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/deep-learning-meltpool-cover-300x209.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Rutgers researchers report a deep learning method that spots LPBF meltpool anomalies in real time.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/967200407/0/fabbaloo/default~Deep-Learning-Detects-LPBF-Meltpool-Anomalies-With-Accuracy\" rel=\"nofollow\">Deep Learning Detects LPBF Meltpool Anomalies With 98% Accuracy</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/deep-learning-meltpool-cover-300x209.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-07T08:52:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/967200407/0/fabbaloo/default~Deep-Learning-Detects-LPBF-Meltpool-Anomalies-With-Accuracy",
+    "forced_tags": [],
+    "title_en": "Deep Learning Detects LPBF Meltpool Anomalies With 98% Accuracy",
+    "summary_bullets_en": [
+      "Researchers at Rutgers University have developed a new deep learning method for monitoring LPBF 3D printing.",
+      "The system is capable of identifying meltpool anomalies in real time during the printing process.",
+      "The technology achieves an impressive 98% accuracy rate in detecting potential defects.",
+      "This advancement promises to significantly improve quality control and reduce waste in metal additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Rutgersovy univerzity vyvinuli novou metodu hlubokého učení pro monitorování LPBF 3D tisku.",
+      "Systém je schopen identifikovat anomálie v tavenině v reálném čase přímo během procesu tisku.",
+      "Technologie dosahuje působivé 98% přesnosti při detekci potenciálních vad.",
+      "Tento pokrok slibuje výrazné zlepšení kontroly kvality a snížení zmetkovosti v kovové aditivní výrobě."
+    ],
+    "tags": [
+      "Software",
+      "Hardware",
+      "LPBF",
+      "Deep Learning",
+      "Metal 3D Printing",
+      "Quality Control",
+      "Rutgers University"
+    ]
+  },
+  {
+    "title": "Společnost TBGA byla najata na podporu databáze materiálů pro aditivní výrobu společnosti BPMI",
+    "summary": "The Barnes Global Advisors (TBGA) has been contracted by Bechtel Plant Machinery, Inc. (BPMI) to support the development and management of a materials and process database for additive manufacturing (AM). The results are expected to be made public, a move intended to help align qualification efforts across the wider AM industry. BPMI, a prime contractor&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2024/03/161014-N-NF288-474-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-08-07T06:08:22+00:00",
+    "url": "https://3dprintingindustry.com/news/tbga-contracted-to-support-bpmis-am-material-database-253634/?utm_source=rss&utm_medium=rss&utm_campaign=tbga-contracted-to-support-bpmis-am-material-database",
+    "forced_tags": [],
+    "title_en": "TBGA Contracted to Support BPMI’s AM Material Database",
+    "summary_bullets_en": [
+      "The Barnes Global Advisors (TBGA) will assist Bechtel Plant Machinery, Inc. (BPMI) in building an additive manufacturing materials and process database.",
+      "The project aims to standardize qualification efforts within the AM industry.",
+      "Key findings and data from the database are expected to be released to the public."
+    ],
+    "summary_bullets_cs": [
+      "Společnost The Barnes Global Advisors (TBGA) bude pomáhat firmě Bechtel Plant Machinery, Inc. (BPMI) s vývojem a správou databáze materiálů a procesů pro aditivní výrobu (AM).",
+      "Cílem projektu je sjednotit procesy kvalifikace v rámci celého odvětví 3D tisku.",
+      "Výsledky databáze mají být zveřejněny, což má pomoci širší komunitě v oboru."
+    ],
+    "tags": [
+      "Services",
+      "Material",
+      "Additive Manufacturing",
+      "TBGA",
+      "BPMI",
+      "Qualification",
+      "Standardization"
+    ]
+  },
+  {
     "title": "USA Diving jmenovala FITASY oficiálním partnerem obuvi",
     "summary": "USA Diving has named Indianapolis-based FITASY, a maker of 3D printed custom-fit recovery footwear, as its official footwear partner. The partnership launched at the Bolzano Diving Meeting in Bolzano, Italy, on July 3, 2026, where National Team athletes and coaches wore FITASY&#8217;s Strides on the pool deck during competition. USA Diving announced the deal on&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/2026-FITASY-USAD_stills-hero-wide-003_ironori-studio-LK-150x100.jpg",
