@@ -1,5 +1,387 @@
 [
   {
+    "title": "Backflip přidává reverzní inženýrství poháněné AI pro převod mesh souborů na CAD modely",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/967805708/0/fabbaloo/default~Backflip-Adds-AIPowered-Reverse-Engineering-to-Convert-Mesh-Files-Into-CAD-Models\" rel=\"nofollow\" title=\"Backflip Adds AI-Powered Reverse Engineering to Convert Mesh Files Into CAD Models\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/backflip-reverse-cover-300x166.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Backflip announced a new capability: reverse engineering.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/967805708/0/fabbaloo/default~Backflip-Adds-AIPowered-Reverse-Engineering-to-Convert-Mesh-Files-Into-CAD-Models\" rel=\"nofollow\">Backflip Adds AI-Powered Reverse Engineering to Convert Mesh Files Into CAD Models</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/backflip-reverse-cover-300x166.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-13T16:33:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/967805708/0/fabbaloo/default~Backflip-Adds-AIPowered-Reverse-Engineering-to-Convert-Mesh-Files-Into-CAD-Models",
+    "forced_tags": [],
+    "title_en": "Backflip Adds AI-Powered Reverse Engineering to Convert Mesh Files Into CAD Models",
+    "summary_bullets_en": [
+      "Backflip has introduced a new AI-powered reverse engineering feature.",
+      "The tool enables users to convert mesh files directly into editable CAD models.",
+      "This update streamlines the workflow for designers and engineers working with 3D scan data."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Backflip představila novou funkci reverzního inženýrství využívající umělou inteligenci.",
+      "Nástroj umožňuje uživatelům převádět mesh soubory přímo na editovatelné CAD modely.",
+      "Tato aktualizace zefektivňuje pracovní postupy pro designéry a inženýry pracující s daty z 3D skenování."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "Reverse Engineering",
+      "CAD",
+      "3D Modeling",
+      "Backflip"
+    ]
+  },
+  {
+    "title": "3D tištěné elastomery z tekutých krystalů se učí rozpínat a smršťovat",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/967802774/0/fabbaloo/default~D-Printed-Liquid-Crystal-Elastomers-Learn-to-Expand-and-Contract\" rel=\"nofollow\" title=\"3D Printed Liquid Crystal Elastomers Learn to Expand and Contract\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/Smectic-lce-cover-300x182.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have developed a 3D printing technique that can program opposite actuation behaviors into different sections of the same printed filament.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/967802774/0/fabbaloo/default~D-Printed-Liquid-Crystal-Elastomers-Learn-to-Expand-and-Contract\" rel=\"nofollow\">3D Printed Liquid Crystal Elastomers Learn to Expand and Contract</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/Smectic-lce-cover-300x182.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-13T15:01:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/967802774/0/fabbaloo/default~D-Printed-Liquid-Crystal-Elastomers-Learn-to-Expand-and-Contract",
+    "forced_tags": [],
+    "title_en": "3D Printed Liquid Crystal Elastomers Learn to Expand and Contract",
+    "summary_bullets_en": [
+      "Researchers have pioneered a new 3D printing method for liquid crystal elastomers (LCEs).",
+      "The technique allows for programming opposite actuation behaviors, such as expansion and contraction, within a single filament.",
+      "This advancement enables more complex and responsive structures in soft robotics and smart materials."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli novou metodu 3D tisku pro elastomery z tekutých krystalů (LCE).",
+      "Technika umožňuje naprogramovat opačné chování, jako je rozpínání a smršťování, v různých částech téhož tištěného vlákna.",
+      "Tento pokrok umožňuje vytvářet komplexnější a citlivější struktury pro měkkou robotiku a chytré materiály."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Liquid Crystal Elastomers",
+      "Soft Robotics",
+      "Smart Materials",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 13. srpna 2026: Schválení 510(k), dentální pryskyřice, výzva k projektům a další",
+    "summary": "We&#8217;re starting off today&#8217;s 3D Printing News Briefs with a little FDA news, and then a new dental material for the Axtra3D Lumia X1. We&#8217;ll end with the winners of...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/665e474f7a50709959788e63_Saber-C-Beauty-Implant-Spikes.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-13T13:30:38+00:00",
+    "url": "https://3dprint.com/330174/3d-printing-news-briefs-8-13-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, August 13, 2026: 510(k) Clearance, Dental Resin, Project Call, & More",
+    "summary_bullets_en": [
+      "A new medical device has received FDA 510(k) clearance.",
+      "Axtra3D introduced a specialized dental resin for its Lumia X1 printer.",
+      "The announcement highlights the winners of a recent industry project call."
+    ],
+    "summary_bullets_cs": [
+      "Dnešní přehled novinek ze světa 3D tisku začínáme zprávou od FDA a následně představujeme nový dentální materiál pro tiskárnu Axtra3D Lumia X1.",
+      "Závěrem se podíváme na vítěze nedávné projektové výzvy."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Medical",
+      "Dental",
+      "FDA",
+      "Axtra3D"
+    ]
+  },
+  {
+    "title": "Patent na hybridní výrobu automatizuje dokování aditivních nástrojů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/967797788/0/fabbaloo/default~Hybrid-Manufacturing-Patent-Automates-Additive-Tool-Docking\" rel=\"nofollow\" title=\"Hybrid Manufacturing Patent Automates Additive Tool Docking\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/hybrid-tech-toolhead-patent-cover-300x154.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Hybrid Manufacturing Technologies has published a European patent application describing a way to make toolheads work like CNC tools.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/967797788/0/fabbaloo/default~Hybrid-Manufacturing-Patent-Automates-Additive-Tool-Docking\" rel=\"nofollow\">Hybrid Manufacturing Patent Automates Additive Tool Docking</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/hybrid-tech-toolhead-patent-cover-300x154.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-13T13:01:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/967797788/0/fabbaloo/default~Hybrid-Manufacturing-Patent-Automates-Additive-Tool-Docking",
+    "forced_tags": [],
+    "title_en": "Hybrid Manufacturing Patent Automates Additive Tool Docking",
+    "summary_bullets_en": [
+      "Hybrid Manufacturing Technologies has filed a European patent for automated toolhead docking.",
+      "The technology enables additive manufacturing toolheads to function similarly to standard CNC machine tools.",
+      "This innovation aims to streamline the integration of 3D printing capabilities into existing subtractive manufacturing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Hybrid Manufacturing Technologies podala evropskou patentovou přihlášku na automatizované dokování tiskových hlav.",
+      "Technologie umožňuje, aby aditivní výrobní hlavy fungovaly podobně jako běžné nástroje u CNC strojů.",
+      "Tato inovace má za cíl zefektivnit integraci 3D tisku do stávajících procesů třískového obrábění."
+    ],
+    "tags": [
+      "Hardware",
+      "Hybrid Manufacturing",
+      "CNC",
+      "Additive Manufacturing",
+      "Automation",
+      "Patent"
+    ]
+  },
+  {
+    "title": "Formlabs X1 versus HP 1200: Náklady, propustnost a 30% hustota plnění",
+    "summary": "We are at one of the most important moments in the powder bed fusion market&#8217;s entire history. EOS is on the retreat, retrenching itself in higher-volume industrial systems while dropping...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/PBF_Strategic_Tear_Down_-_Slide_3-1024x572.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-13T13:00:08+00:00",
+    "url": "https://3dprint.com/329444/the-formlabs-x1-versus-the-hp-1200-costing-throughput-30-packing-density-2/",
+    "forced_tags": [],
+    "title_en": "The Formlabs X1 Versus the HP 1200: Costing, Throughput & 30% Packing Density",
+    "summary_bullets_en": [
+      "The powder bed fusion market is undergoing a major shift as EOS pivots toward high-volume industrial systems.",
+      "The article provides a comparative analysis of the Formlabs X1 and HP 1200 platforms.",
+      "Key performance metrics such as cost-efficiency, production throughput, and 30% packing density are evaluated.",
+      "The industry landscape is evolving, forcing established players to rethink their market positioning."
+    ],
+    "summary_bullets_cs": [
+      "Trh s práškovou fúzí (PBF) prochází zásadní proměnou, zatímco společnost EOS ustupuje a zaměřuje se na velkoobjemové průmyslové systémy.",
+      "Článek nabízí srovnávací analýzu platforem Formlabs X1 a HP 1200.",
+      "Hodnoceny jsou klíčové metriky výkonu, jako je nákladová efektivita, výrobní propustnost a 30% hustota plnění.",
+      "Situace na trhu se vyvíjí, což nutí zavedené hráče přehodnotit své postavení v oboru."
+    ],
+    "tags": [
+      "Hardware",
+      "Formlabs",
+      "HP",
+      "EOS",
+      "Powder Bed Fusion",
+      "3D Printing",
+      "Industrial Manufacturing"
+    ]
+  },
+  {
+    "title": "Debata o potřebě rychlosti na MMX 2026",
+    "summary": "On the first day of the recent MMX 2026, the annual Members Meeting and Exchange held by America Makes in Youngstown, Ohio, someone asked me if I had any early...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/IMG_4220-1024x855.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-13T12:30:25+00:00",
+    "url": "https://3dprint.com/329818/talking-about-the-need-for-speed-at-mmx-2026/",
+    "forced_tags": [],
+    "title_en": "Talking About the Need for Speed at MMX 2026",
+    "summary_bullets_en": [
+      "The MMX 2026 event in Youngstown focused on the industry's growing demand for faster 3D printing production speeds.",
+      "Industry leaders and members gathered to discuss the transition from prototyping to high-speed additive manufacturing.",
+      "The conference highlighted the critical need for efficiency to remain competitive in global manufacturing markets."
+    ],
+    "summary_bullets_cs": [
+      "Akce MMX 2026 v Youngstownu se zaměřila na rostoucí poptávku průmyslu po vyšší rychlosti 3D tisku.",
+      "Lídři v oboru a členové organizace diskutovali o přechodu od prototypování k vysokorychlostní aditivní výrobě.",
+      "Konference zdůraznila kritickou potřebu efektivity pro udržení konkurenceschopnosti na globálních výrobních trzích."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "America Makes",
+      "MMX 2026",
+      "Additive Manufacturing",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "China Watch #3: Farsoon připravuje své dosud největší financování, zatímco čínský export 3D tiskáren předstihl průmyslové roboty",
+    "summary": "This edition also covers the Continuous Composites lawsuit, metal-ceramic composites from QiYu Tech, and Bambu Lab&#8217;s record graduate recruitment drive",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/b781b80b-52da-4dd9-a797-d1a63c474a0e_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-08-13T12:03:29+00:00",
+    "url": "https://www.3dprintingjournal.com/p/china-watch-3-farsoon-prepares-its",
+    "forced_tags": [],
+    "title_en": "China Watch #3: Farsoon prepares its largest-ever financing, while Chinese 3D printer exports overtake industrial robots",
+    "summary_bullets_en": [
+      "Farsoon Technologies is gearing up for its most significant financing round to date.",
+      "Chinese 3D printer exports have officially surpassed the export volume of industrial robots.",
+      "The industry is seeing new developments including a lawsuit involving Continuous Composites and innovative metal-ceramic materials from QiYu Tech.",
+      "Bambu Lab has launched an unprecedented recruitment campaign targeting university graduates."
+    ],
+    "summary_bullets_cs": [
+      "Toto vydání se také věnuje soudnímu sporu společnosti Continuous Composites.",
+      "Pokrývá novinky o kovokeramických kompozitech od QiYu Tech.",
+      "Informuje o rekordní náborové kampani absolventů společností Bambu Lab."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Farsoon",
+      "Continuous Composites",
+      "QiYu Tech",
+      "Bambu Lab"
+    ]
+  },
+  {
+    "title": "Hyundai a Kia otevírají centrum pro řešení aditivní výroby v Jižní Koreji",
+    "summary": "Hyundai Motor Group (which, in addition to owning Hyundai, holds a large ownership stake in Kia) maintains an R&#38;D center in Hwaseong, South Korea called Namyang, the company&#8217;s largest such...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/gallery-0731-03-1.jpg-1.avif",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-13T12:00:17+00:00",
+    "url": "https://3dprint.com/330242/hyundai-kia-open-additive-manufacturing-solution-center-in-south-korea/",
+    "forced_tags": [],
+    "title_en": "Hyundai & Kia Open Additive Manufacturing Solution Center in South Korea",
+    "summary_bullets_en": [
+      "Hyundai Motor Group has launched a new Additive Manufacturing Solution Center at its Namyang R&D facility.",
+      "The center aims to accelerate the integration of 3D printing technologies into automotive production and prototyping.",
+      "This initiative highlights the group's commitment to advancing manufacturing efficiency and innovation across both Hyundai and Kia brands."
+    ],
+    "summary_bullets_cs": [
+      "Skupina Hyundai Motor Group otevřela nové centrum pro aditivní výrobu ve svém výzkumném a vývojovém středisku Namyang.",
+      "Cílem centra je urychlit integraci technologií 3D tisku do automobilové výroby a prototypování.",
+      "Tato iniciativa podtrhuje závazek skupiny k rozvoji efektivity výroby a inovací napříč značkami Hyundai a Kia."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Hyundai",
+      "Kia",
+      "Additive Manufacturing",
+      "Automotive",
+      "R&D"
+    ]
+  },
+  {
+    "title": "Matematika, modely a vyřešené záhady: Jak aditivní výroba pomohla najít odpověď na Schrödingerovu teorii barev",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/967796102/0/fabbaloo/default~Math-Models-and-Mysteries-Solved-How-Additive-Manufacturing-Helped-Find-the-Answer-to-Schr%c3%b6dinger%e2%80%99s-Color-Theory\" rel=\"nofollow\" title=\"Math, Models, and Mysteries Solved: How Additive Manufacturing Helped Find the Answer to Schrödinger’s Color Theory\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_260-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Kate Esposito reveal how 3D printing transformed an abstract mathematical mystery into a tangible breakthrough, completing one of Schrödinger's unfinished scientific puzzles.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/967796102/0/fabbaloo/default~Math-Models-and-Mysteries-Solved-How-Additive-Manufacturing-Helped-Find-the-Answer-to-Schr%c3%b6dinger%e2%80%99s-Color-Theory\" rel=\"nofollow\">Math, Models, and Mysteries Solved: How Additive Manufacturing Helped Find the Answer to Schrödinger’s Color Theory</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_260-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-13T11:49:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/967796102/0/fabbaloo/default~Math-Models-and-Mysteries-Solved-How-Additive-Manufacturing-Helped-Find-the-Answer-to-Schr%c3%b6dinger%e2%80%99s-Color-Theory",
+    "forced_tags": [],
+    "title_en": "Math, Models, and Mysteries Solved: How Additive Manufacturing Helped Find the Answer to Schrödinger’s Color Theory",
+    "summary_bullets_en": [
+      "Charles R. Goulding and Kate Esposito explore how 3D printing was used to solve a long-standing scientific puzzle.",
+      "The technology transformed abstract mathematical theories into physical models, bridging the gap between theory and reality.",
+      "This breakthrough successfully completes one of Erwin Schrödinger’s unfinished investigations into color theory.",
+      "The project highlights the unique role of additive manufacturing in modern scientific research and complex problem-solving."
+    ],
+    "summary_bullets_cs": [
+      "Charles R. Goulding a Kate Esposito odhalují, jak byl 3D tisk využit k vyřešení dlouholeté vědecké záhady.",
+      "Technologie přeměnila abstraktní matematické teorie na fyzické modely, čímž překlenula propast mezi teorií a realitou.",
+      "Tento průlom úspěšně dokončuje jeden z nedokončených výzkumů Erwina Schrödingera v oblasti teorie barev.",
+      "Projekt zdůrazňuje jedinečnou roli aditivní výroby v moderním vědeckém výzkumu a řešení komplexních problémů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Additive Manufacturing",
+      "3D Printing",
+      "Scientific Research",
+      "Schrödinger",
+      "Color Theory"
+    ]
+  },
+  {
+    "title": "Mohla by PAC Bayes učinit řízení 3D tiskáren založené na učení důvěryhodnějším?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/967790960/0/fabbaloo/default~Could-PAC-Bayes-Make-Learning-Based-D-Printer-Control-More-Trustworthy\" rel=\"nofollow\" title=\"Could PAC Bayes Make Learning Based 3D Printer Control More Trustworthy?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/pac-bayes-cover-300x194.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new control theory paper offers a way to certify learning based controllers from limited data, something that could eventually matter to advanced 3D printers.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/967790960/0/fabbaloo/default~Could-PAC-Bayes-Make-Learning-Based-D-Printer-Control-More-Trustworthy\" rel=\"nofollow\">Could PAC Bayes Make Learning Based 3D Printer Control More Trustworthy?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/pac-bayes-cover-300x194.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-13T08:32:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/967790960/0/fabbaloo/default~Could-PAC-Bayes-Make-Learning-Based-D-Printer-Control-More-Trustworthy",
+    "forced_tags": [],
+    "title_en": "Could PAC Bayes Make Learning Based 3D Printer Control More Trustworthy?",
+    "summary_bullets_en": [
+      "A new research paper introduces a method to certify machine learning-based controllers using limited datasets.",
+      "The PAC-Bayes framework provides a mathematical approach to ensure reliability in autonomous systems.",
+      "This technology could significantly improve the precision and safety of advanced 3D printing control systems."
+    ],
+    "summary_bullets_cs": [
+      "Nový odborný článek o teorii řízení nabízí způsob, jak certifikovat kontroléry založené na strojovém učení s využitím omezeného množství dat.",
+      "Rámec PAC-Bayes poskytuje matematický přístup k zajištění spolehlivosti u autonomních systémů.",
+      "Tato technologie by v budoucnu mohla hrát klíčovou roli při zvyšování přesnosti a bezpečnosti pokročilých 3D tiskáren."
+    ],
+    "tags": [
+      "Software",
+      "Control Theory",
+      "Machine Learning",
+      "PAC-Bayes",
+      "Automation",
+      "3D Printing Technology"
+    ]
+  },
+  {
+    "title": "Společnost Volkmann představuje vDryer pro úpravu prášku v procesech kovového 3D tisku",
+    "summary": "Volkmann USA, a manufacturer of powder handling equipment, is highlighting its vDryer vacuum drying module as an optional addition to the vLoader 250 powder conveyor, targeting moisture-related flowability and material handling issues in metal additive manufacturing. Installed upstream of one or more 3D printers, the vDryer removes absorbed moisture from metal powders and returns them&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/image-11-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-08-13T06:53:38+00:00",
+    "url": "https://3dprintingindustry.com/news/volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows-253777/?utm_source=rss&utm_medium=rss&utm_campaign=volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows",
+    "forced_tags": [],
+    "title_en": "Volkmann highlights vDryer powder conditioning for metal AM workflows",
+    "summary_bullets_en": [
+      "Volkmann USA introduced the vDryer vacuum module to improve metal powder flowability.",
+      "The device integrates with the vLoader 250 to remove moisture from materials before printing.",
+      "It helps prevent quality issues in metal additive manufacturing caused by humidity.",
+      "The system is designed for seamless installation upstream of 3D printer setups."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Volkmann USA představila vakuový modul vDryer, který zlepšuje sypkost kovových prášků.",
+      "Zařízení se integruje s podavačem vLoader 250 a odstraňuje vlhkost z materiálů ještě před samotným tiskem.",
+      "Pomáhá předcházet problémům s kvalitou v kovové aditivní výrobě, které jsou způsobeny vlhkostí.",
+      "Systém je navržen pro snadnou instalaci před samotné 3D tiskárny."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Volkmann",
+      "Metal AM",
+      "Powder Handling",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Hybridní výrobní postupy: Integrace průmyslového 3D tisku s přesným úběrovým obráběním",
+    "summary": "Discover how combining industrial 3D printing, 5-axis CNC post-processing, and vacuum casting bridge tooling optimizes mechanical tolerances and accelerates lead times. Metal AM produces complex geometries that no subtractive process can match, but it does not produce finished parts. The real engineering challenge begins after the build plate comes out of the machine. Industrial 3D&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/ls-manufacturing-hybrid-3d-printing-cnc-milling-cover-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-08-13T06:38:07+00:00",
+    "url": "https://3dprintingindustry.com/news/hybrid-manufacturing-workflows-integrating-industrial-3d-printing-with-precision-subtractive-finishing-253737/?utm_source=rss&utm_medium=rss&utm_campaign=hybrid-manufacturing-workflows-integrating-industrial-3d-printing-with-precision-subtractive-finishing",
+    "forced_tags": [],
+    "title_en": "Hybrid Manufacturing Workflows: Integrating Industrial 3D Printing with Precision Subtractive Finishing",
+    "summary_bullets_en": [
+      "Hybrid workflows combine metal additive manufacturing with 5-axis CNC machining to achieve superior mechanical tolerances.",
+      "Post-processing is identified as the critical engineering phase for transforming complex 3D printed geometries into finished industrial components.",
+      "Integrating vacuum casting bridge tooling alongside additive processes significantly reduces overall production lead times.",
+      "The synergy between additive and subtractive methods overcomes the limitations of using either technology in isolation."
+    ],
+    "summary_bullets_cs": [
+      "Hybridní pracovní postupy kombinují aditivní výrobu kovů s pětiosým CNC obráběním pro dosažení špičkových mechanických tolerancí.",
+      "Následné zpracování (post-processing) je klíčovou inženýrskou fází pro přeměnu složitých 3D tištěných geometrií na hotové průmyslové součásti.",
+      "Integrace vakuového odlévání pro přechodové nástroje (bridge tooling) společně s aditivními procesy výrazně zkracuje dodací lhůty.",
+      "Synergie mezi aditivními a úběrovými metodami překonává omezení, která přináší použití těchto technologií samostatně."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Metal Additive Manufacturing",
+      "CNC Machining",
+      "Hybrid Manufacturing",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Jak vybrat technologii 3D tisku pro funkční plastový díl: FFF, CFR, SLA, nebo SLS? A kdy se na 3D tisk vykašlat",
+    "summary": "FFF, CFR, SLA a SLS mají každá jiné silné stránky. Průvodce výběrem technologie pro funkční plastový díl – včetně situací, kdy se 3D tisk nevyplatí vůbec.",
+    "image": "https://blog.aditivni.cz/_astro/Dily-na-stole.Cs9fdrDi.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-08-12T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/jak-vybrat-technologii-3d-tisku-pro-funkcni-plastovy-dil/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "How to Choose 3D Printing Technology for Functional Plastic Parts: FFF, CFR, SLA, or SLS? And When to Skip 3D Printing",
+    "summary_bullets_en": [
+      "Comparison of FFF, CFR, SLA, and SLS technologies based on their specific strengths for functional parts.",
+      "A practical guide to selecting the right 3D printing method for industrial applications.",
+      "Analysis of scenarios where traditional manufacturing is more efficient than 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Srovnání technologií FFF, CFR, SLA a SLS podle jejich specifických silných stránek pro funkční díly.",
+      "Praktický průvodce výběrem správné metody 3D tisku pro průmyslové využití.",
+      "Analýza situací, kdy je tradiční výroba efektivnější než 3D tisk."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "FFF",
+      "CFR",
+      "SLA",
+      "SLS",
+      "UltiMaker",
+      "Markforged",
+      "Formlabs",
+      "HP",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Velký seznam stránek s 3D modely pro rok 2026",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/967766369/0/fabbaloo/default~The-Big-List-of-D-Model-Sites\" rel=\"nofollow\" title=\"The Big List of 3D Model Sites, 2026\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/3d-model-repos-2026-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Let’s take an inventory of all the places you can find 3D models.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/967766369/0/fabbaloo/default~The-Big-List-of-D-Model-Sites\" rel=\"nofollow\">The Big List of 3D Model Sites, 2026</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/3d-model-repos-2026-cover-300x200.jpg",
