@@ -1,5 +1,315 @@
 [
   {
+    "title": "Creality uvádí na trh SPARKX i7 Nano: Technické specifikace a cena",
+    "summary": "Shenzhen-based 3D printer maker Creality has released the SPARKX i7 Nano, a desktop 3D printer that adds four-color printing to its i7 series in a smaller form factor. The 3D printer became available August 15, bundled with a new CFS nano Kit, through the Creality US Store. The i7 Nano follows the January launch of&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/Creality-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-08-20T03:15:15+00:00",
+    "url": "https://3dprintingindustry.com/news/creality-launches-sparkx-i7-nano-technical-specifications-and-pricing-253938/?utm_source=rss&utm_medium=rss&utm_campaign=creality-launches-sparkx-i7-nano-technical-specifications-and-pricing",
+    "forced_tags": [],
+    "title_en": "Creality Launches SPARKX i7 Nano: Technical Specifications and Pricing",
+    "summary_bullets_en": [
+      "Creality has introduced the SPARKX i7 Nano, a compact desktop 3D printer featuring four-color printing capabilities.",
+      "The device is sold as a bundle with the new CFS nano Kit.",
+      "The printer has been available for purchase via the Creality US Store since August 15."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Creality představila SPARKX i7 Nano, kompaktní stolní 3D tiskárnu s možností čtyřbarevného tisku.",
+      "Zařízení je prodáváno v balíčku s novou sadou CFS nano Kit.",
+      "Tiskárna je dostupná k zakoupení prostřednictvím amerického obchodu Creality od 15. srpna."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "SPARKX i7 Nano",
+      "Desktop 3D Printing",
+      "Multi-color Printing"
+    ]
+  },
+  {
+    "title": "Bambu Studio 2.8 přidává automatizované generování návodů k sestavení",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968029679/0/fabbaloo/default~Bambu-Studio-Adds-Automated-Assembly-Guide-Generation\" rel=\"nofollow\" title=\"Bambu Studio 2.8 Adds Automated Assembly Guide Generation\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/bambu-studio-assembly-guide-cover-300x210.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Bambu Lab has added a fascinating new feature to Bambu Studio: semi-automated Assembly Guide generation.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968029679/0/fabbaloo/default~Bambu-Studio-Adds-Automated-Assembly-Guide-Generation\" rel=\"nofollow\">Bambu Studio 2.8 Adds Automated Assembly Guide Generation</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/bambu-studio-assembly-guide-cover-300x210.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-19T16:32:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968029679/0/fabbaloo/default~Bambu-Studio-Adds-Automated-Assembly-Guide-Generation",
+    "forced_tags": [],
+    "title_en": "Bambu Studio 2.8 Adds Automated Assembly Guide Generation",
+    "summary_bullets_en": [
+      "Bambu Lab has introduced a new semi-automated assembly guide generation feature in Bambu Studio 2.8.",
+      "This update simplifies the process of creating instructional documentation for multi-part 3D printed projects.",
+      "The tool aims to streamline the post-printing workflow by automating the visualization of assembly steps."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab představila v Bambu Studio 2.8 novou funkci pro poloautomatické generování návodů k sestavení.",
+      "Tato aktualizace zjednodušuje proces tvorby instruktážní dokumentace pro 3D tištěné projekty složené z více dílů.",
+      "Nástroj má za cíl zefektivnit post-processingový workflow díky automatizaci vizualizace jednotlivých kroků montáže."
+    ],
+    "tags": [
+      "Software",
+      "Bambu Lab",
+      "Bambu Studio",
+      "3D Printing",
+      "Assembly Guide",
+      "Workflow Automation"
+    ]
+  },
+  {
+    "title": "Ford si patentuje výrobu 3D tištěných dílů odpružení",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968027123/0/fabbaloo/default~Ford-Patents-Production-D-Printed-Suspension-Parts\" rel=\"nofollow\" title=\"Ford Patents Production 3D Printed Suspension Parts\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/ford-channels-patent-cover-300x233.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Ford is looking at something much more interesting than 3D printing another automotive part.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968027123/0/fabbaloo/default~Ford-Patents-Production-D-Printed-Suspension-Parts\" rel=\"nofollow\">Ford Patents Production 3D Printed Suspension Parts</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/ford-channels-patent-cover-300x233.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-19T15:01:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968027123/0/fabbaloo/default~Ford-Patents-Production-D-Printed-Suspension-Parts",
+    "forced_tags": [],
+    "title_en": "Ford Patents Production 3D Printed Suspension Parts",
+    "summary_bullets_en": [
+      "Ford has filed a patent for the production of 3D printed automotive suspension components.",
+      "The technology focuses on advanced manufacturing methods beyond standard prototyping.",
+      "This move signals a shift toward integrating additive manufacturing into critical vehicle structural parts."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Ford si podala patent na výrobu 3D tištěných komponentů automobilového odpružení.",
+      "Technologie se zaměřuje na pokročilé výrobní metody, které přesahují rámec běžného prototypování.",
+      "Tento krok naznačuje posun směrem k integraci aditivní výroby do kritických konstrukčních částí vozidel."
+    ],
+    "tags": [
+      "Hardware",
+      "Automotive",
+      "Ford",
+      "Additive Manufacturing",
+      "Patents"
+    ]
+  },
+  {
+    "title": "Patent společnosti CEAD cílí na dráhy nástroje pro nepřetržitou extruzi",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968022626/0/fabbaloo/default~CEAD-Patent-Targets-Nonstop-Continuous-Extrusion-Toolpaths\" rel=\"nofollow\" title=\"CEAD Patent Targets Nonstop Continuous Extrusion Toolpaths\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/cead-continuous-patent-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>CEAD has patented an unusual slicing strategy designed for 3D printing materials that cannot easily stop flowing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968022626/0/fabbaloo/default~CEAD-Patent-Targets-Nonstop-Continuous-Extrusion-Toolpaths\" rel=\"nofollow\">CEAD Patent Targets Nonstop Continuous Extrusion Toolpaths</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/cead-continuous-patent-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-19T13:29:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968022626/0/fabbaloo/default~CEAD-Patent-Targets-Nonstop-Continuous-Extrusion-Toolpaths",
+    "forced_tags": [],
+    "title_en": "CEAD Patent Targets Nonstop Continuous Extrusion Toolpaths",
+    "summary_bullets_en": [
+      "CEAD has secured a patent for a novel slicing strategy focused on materials that are difficult to stop during extrusion.",
+      "The technology enables continuous toolpaths, preventing issues associated with starting and stopping the flow of viscous materials.",
+      "This innovation aims to improve print quality and reliability for large-scale additive manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "Společnost CEAD si nechala patentovat neobvyklou strategii krájení (slicingu) určenou pro materiály, u kterých nelze snadno zastavit tok.",
+      "Technologie umožňuje vytvářet nepřetržité dráhy nástroje, což eliminuje problémy spojené s přerušováním extruze u viskózních materiálů.",
+      "Tato inovace má za cíl zvýšit kvalitu a spolehlivost 3D tisku, zejména u velkoformátových aplikací."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "CEAD",
+      "3D Printing",
+      "Extrusion",
+      "Slicing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Software pro 3D tisk od společnosti Oqton vyhrál 2. ročník technologické výzvy ASTRO-InSPIRE",
+    "summary": "Rejoice, ye process engineers! Your raised concerns do not go in vain. Additive manufacturing (AM) materials qualification is genuinely becoming the central focal point for commercialization efforts in the industry&#8217;s...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/Image-1-scaled-1.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-19T13:00:03+00:00",
+    "url": "https://3dprint.com/330765/oqtons-3d-printing-software-wins-astro-inspires-2nd-annual-tech-challenge/",
+    "forced_tags": [],
+    "title_en": "Oqton’s 3D Printing Software Wins ASTRO-InSPIRE’s 2nd Annual Tech Challenge",
+    "summary_bullets_en": [
+      "Oqton's software solution has been recognized as the winner of the 2nd annual ASTRO-InSPIRE Tech Challenge.",
+      "The industry is increasingly prioritizing the qualification of additive manufacturing materials to accelerate commercialization.",
+      "Process engineers' feedback is driving significant advancements in software tools for industrial 3D printing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Softwarové řešení společnosti Oqton zvítězilo ve druhém ročníku technologické soutěže ASTRO-InSPIRE.",
+      "Kvalifikace materiálů pro aditivní výrobu se stává klíčovým bodem úsilí o komercializaci v celém odvětví.",
+      "Zpětná vazba od procesních inženýrů vede k významnému pokroku v softwarových nástrojích pro průmyslový 3D tisk."
+    ],
+    "tags": [
+      "Software",
+      "Oqton",
+      "ASTRO-InSPIRE",
+      "Additive Manufacturing",
+      "Materials Qualification"
+    ]
+  },
+  {
+    "title": "Společnost 3DEO likviduje továrnu, její byznys s kovovým 3D tiskem končí",
+    "summary": "Metal additive manufacturing company 3DEO is being dismantled. On Tuesday, August 18, the remaining machinery at the company&#8217;s Torrance, California, factory went up for sale in an online auction. The...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/98c9cbe1-90ad-4d78-a155-43b9a2d73460.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-19T12:30:13+00:00",
+    "url": "https://3dprint.com/330786/3deo-liquidates-factory-as-metal-3d-printing-business-is-broken-up/",
+    "forced_tags": [],
+    "title_en": "3DEO Liquidates Factory as Metal 3D Printing Business Is Broken Up",
+    "summary_bullets_en": [
+      "Metal additive manufacturing firm 3DEO is shutting down operations and dismantling its business.",
+      "The company's remaining machinery located at its Torrance, California, facility was put up for auction on August 18.",
+      "This liquidation marks a significant exit for the company from the metal 3D printing market."
+    ],
+    "summary_bullets_cs": [
+      "Firma 3DEO, zabývající se aditivní výrobou z kovů, ukončuje provoz a rozprodává svůj majetek.",
+      "Zbývající strojní vybavení v továrně v kalifornském Torrance bylo v úterý 18. srpna nabídnuto v online aukci.",
+      "Tato likvidace znamená pro společnost definitivní odchod z trhu s kovovým 3D tiskem."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Metal Additive Manufacturing",
+      "3DEO",
+      "Industry News"
+    ]
+  },
+  {
+    "title": "Backflip mění jakýkoli sken na upravitelný CAD za 10 dolarů za díl",
+    "summary": "Fewer than 1% of factory parts exist in CAD - Greg Mark wants to fix that",
+    "image": "https://substackcdn.com/image/fetch/$s_!TR1t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75820df3-7984-4dc5-af40-47e1acf0db79_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-08-19T12:03:50+00:00",
+    "url": "https://www.3dprintingjournal.com/p/backflip-turns-any-scan-into-editable",
+    "forced_tags": [],
+    "title_en": "Backflip turns any scan into editable CAD, for $10 a part",
+    "summary_bullets_en": [
+      "Greg Mark's new venture, Backflip, aims to digitize the 99% of factory parts that currently lack CAD files.",
+      "The platform uses advanced scanning and AI to convert physical objects into fully editable CAD models.",
+      "The service is positioned as a cost-effective solution, charging only $10 per part to bridge the gap between legacy hardware and modern manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Méně než 1 % továrních dílů existuje v digitální podobě (CAD) – Greg Mark chce tento problém vyřešit.",
+      "Platforma Backflip využívá skenování a AI k převodu fyzických objektů na plně upravitelné CAD modely.",
+      "Služba nabízí cenově dostupné řešení za 10 dolarů za díl, čímž propojuje starší průmyslové součástky s moderní výrobou."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "3D Scanning",
+      "CAD",
+      "Reverse Engineering",
+      "Backflip",
+      "Greg Mark"
+    ]
+  },
+  {
+    "title": "Ekonomika aditivní výroby 101, část 1: Mezi Rolexem a Ryanairem",
+    "summary": "Let&#8217;s look at what matters when we make things that matter. What considerations are there, what is important, what affects cost? Look at the levers in laser powder bed fusion,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/1-724x1024.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-19T12:00:15+00:00",
+    "url": "https://3dprint.com/330590/additive-economics-101-part-1-betwixt-rolex-and-ryanair/",
+    "forced_tags": [],
+    "title_en": "Additive Economics 101, Part 1: Betwixt Rolex and Ryanair",
+    "summary_bullets_en": [
+      "Explores the fundamental economic factors that influence the production of high-value 3D printed parts.",
+      "Analyzes the critical levers and cost drivers specifically within laser powder bed fusion (LPBF) technology.",
+      "Examines the balance between quality, precision, and manufacturing efficiency in additive processes."
+    ],
+    "summary_bullets_cs": [
+      "Zkoumá základní ekonomické faktory, které ovlivňují výrobu 3D tištěných dílů s vysokou přidanou hodnotou.",
+      "Analyzuje klíčové páky a nákladové faktory specificky v technologii laserového spékání prášku (LPBF).",
+      "Zabývá se rovnováhou mezi kvalitou, přesností a efektivitou výroby v aditivních procesech."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Manufacturing",
+      "LPBF",
+      "Cost Analysis",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Proč inženýrské služby v aditivní výrobě předstihují hardware",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968015288/0/fabbaloo/default~Why-Engineering-Services-Are-Outpacing-Hardware-in-Additive-Manufacturing\" rel=\"nofollow\" title=\"Why Engineering Services Are Outpacing Hardware in Additive Manufacturing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_279-300x165.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Andressa Bonafe explain why companies are increasingly turning to engineering-driven additive manufacturing services to strengthen supply chains, accelerate production, and unlock valuable R&#38;D tax incentives.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968015288/0/fabbaloo/default~Why-Engineering-Services-Are-Outpacing-Hardware-in-Additive-Manufacturing\" rel=\"nofollow\">Why Engineering Services Are Outpacing Hardware in Additive Manufacturing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_279-300x165.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-19T11:22:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968015288/0/fabbaloo/default~Why-Engineering-Services-Are-Outpacing-Hardware-in-Additive-Manufacturing",
+    "forced_tags": [],
+    "title_en": "Why Engineering Services Are Outpacing Hardware in Additive Manufacturing",
+    "summary_bullets_en": [
+      "Companies are shifting focus from purchasing hardware to leveraging specialized engineering services in additive manufacturing.",
+      "These services help businesses optimize supply chains and significantly accelerate production timelines.",
+      "Strategic use of engineering-driven AM allows firms to better capitalize on R&D tax incentives.",
+      "The industry is moving toward a model where expert design and process integration are more valuable than the machines themselves."
+    ],
+    "summary_bullets_cs": [
+      "Firmy přesouvají pozornost od nákupu hardwaru k využívání specializovaných inženýrských služeb v aditivní výrobě.",
+      "Tyto služby pomáhají podnikům optimalizovat dodavatelské řetězce a výrazně zrychlit výrobní procesy.",
+      "Strategické využívání inženýrsky orientované aditivní výroby umožňuje firmám lépe využít daňové úlevy na výzkum a vývoj.",
+      "Průmysl směřuje k modelu, kde mají odborný návrh a integrace procesů vyšší hodnotu než samotné stroje."
+    ],
+    "tags": [
+      "Services",
+      "Hardware",
+      "Additive Manufacturing",
+      "Supply Chain",
+      "R&D",
+      "Engineering"
+    ]
+  },
+  {
+    "title": "Jak by mohl 3D tisk proměnit kryty senzorů ve vibrační filtry",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968007101/0/fabbaloo/default~How-D-Printing-Could-Turn-Sensor-Housings-Into-Vibration-Filters\" rel=\"nofollow\" title=\"How 3D Printing Could Turn Sensor Housings Into Vibration Filters\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/vibration-sensors-cover-300x190.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new study on locally resonant metaplates points to an interesting application for 3D printing: structures that mechanically filter vibration before it reaches a sensor.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968007101/0/fabbaloo/default~How-D-Printing-Could-Turn-Sensor-Housings-Into-Vibration-Filters\" rel=\"nofollow\">How 3D Printing Could Turn Sensor Housings Into Vibration Filters</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/vibration-sensors-cover-300x190.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-19T08:55:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968007101/0/fabbaloo/default~How-D-Printing-Could-Turn-Sensor-Housings-Into-Vibration-Filters",
+    "forced_tags": [],
+    "title_en": "How 3D Printing Could Turn Sensor Housings Into Vibration Filters",
+    "summary_bullets_en": [
+      "Researchers are exploring the use of locally resonant metaplates to create advanced sensor housings.",
+      "3D printing enables the production of complex internal structures that act as mechanical vibration filters.",
+      "This technology prevents unwanted noise from reaching sensors, significantly improving data accuracy in industrial environments."
+    ],
+    "summary_bullets_cs": [
+      "Vědci zkoumají využití lokálně rezonujících metaplat k vytvoření pokročilých krytů pro senzory.",
+      "3D tisk umožňuje výrobu komplexních vnitřních struktur, které fungují jako mechanické filtry vibrací.",
+      "Tato technologie zabraňuje pronikání nežádoucího šumu k senzorům, což výrazně zvyšuje přesnost dat v průmyslovém prostředí."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Metamaterials",
+      "Sensors",
+      "Vibration Control",
+      "Engineering"
+    ]
+  },
+  {
+    "title": "Společnost LincSolution se zaměřuje na chlazení datových center s umělou inteligencí pomocí výzkumu 3D tištěných výměníků tepla",
+    "summary": "South Korean additive manufacturing company LincSolution has launched a three-year international research project to develop mass-production technology for 3D printed heat pump components, targeting entry into the AI data center cooling and electric vehicle thermal management markets. The project, called &#8220;Development of Next-Generation Heat Pump Miniaturization Technology,&#8221; runs from July 2026 through June 2029 and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/1779958133311-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-08-19T08:54:40+00:00",
+    "url": "https://3dprintingindustry.com/news/lincsolution-targets-ai-data-center-cooling-with-3d-printed-heat-exchanger-research-253916/?utm_source=rss&utm_medium=rss&utm_campaign=lincsolution-targets-ai-data-center-cooling-with-3d-printed-heat-exchanger-research",
+    "forced_tags": [],
+    "title_en": "LincSolution Targets AI Data Center Cooling With 3D Printed Heat Exchanger Research",
+    "summary_bullets_en": [
+      "South Korean firm LincSolution has initiated a three-year project to develop mass-production technology for 3D printed heat pump components.",
+      "The research aims to address cooling demands in AI data centers and thermal management for electric vehicles.",
+      "The project, titled 'Development of Next-Generation Heat Pump Miniaturization Technology,' is scheduled to run from July 2026 to June 2029."
+    ],
+    "summary_bullets_cs": [
+      "Jihokorejská společnost LincSolution zahájila tříletý mezinárodní výzkumný projekt zaměřený na vývoj technologie sériové výroby 3D tištěných komponentů tepelných čerpadel.",
+      "Cílem projektu je proniknout na trhy chlazení datových center s umělou inteligencí a tepelného managementu elektromobilů.",
+      "Projekt s názvem „Vývoj technologie miniaturizace tepelných čerpadel nové generace“ poběží od července 2026 do června 2029."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "LincSolution",
+      "Heat Exchangers",
+      "AI Data Centers",
+      "Electric Vehicles",
+      "Thermal Management"
+    ]
+  },
+  {
     "title": "Finanční výsledky 3D tisku: Creality varuje před ztrátou v prvním pololetí před zveřejněním výsledků",
     "summary": "Creality (HKG: 3388) is expecting to report a loss for the first half of 2026, just months after the 3D printer maker went public in Hong Kong. In a profit...",
     "image": "https://3dprint.com/wp-content/uploads/2026/06/1780049840404.jpg",
