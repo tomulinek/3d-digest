@@ -1,5 +1,408 @@
 [
   {
+    "title": "Prusa aktualizuje řadu 3D tiskáren XL a CORE One o nový hardware a možnosti upgradu",
+    "summary": "Prusa Research, the Czech manufacturer of desktop 3D printers, has refreshed its current hardware lineup with the Prusa XL+, CORE One L+ and CORE One+ (Gen 2). The updated machines introduce changes intended to improve print preparation, surface quality and maintenance. Common additions include integrated nozzle wipers and new GT1.5 belts, while the XL+ and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/core-one-plus-gen2-workshop-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-08-21T06:00:45+00:00",
+    "url": "https://3dprintingindustry.com/news/prusa-refreshes-xl-and-core-one-3d-printer-lineup-with-new-hardware-and-upgrade-paths-253981/?utm_source=rss&utm_medium=rss&utm_campaign=prusa-refreshes-xl-and-core-one-3d-printer-lineup-with-new-hardware-and-upgrade-paths",
+    "forced_tags": [],
+    "title_en": "Prusa refreshes XL and CORE One 3D printer lineup with new hardware and upgrade paths",
+    "summary_bullets_en": [
+      "Prusa Research has launched updated versions of its 3D printers, including the XL+, CORE One L+, and CORE One+ (Gen 2).",
+      "The new hardware focuses on enhancing print quality, simplifying maintenance, and improving the overall preparation process.",
+      "Key technical upgrades across the lineup include integrated nozzle wipers and the implementation of more durable GT1.5 belts.",
+      "The company is also offering specific upgrade paths for existing users to bring their machines up to the new standards."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Prusa Research představila aktualizované verze svých 3D tiskáren, konkrétně modely XL+, CORE One L+ a CORE One+ (Gen 2).",
+      "Nový hardware se zaměřuje na zlepšení kvality tisku, zjednodušení údržby a zefektivnění přípravy tiskových úloh.",
+      "Mezi klíčová vylepšení napříč řadou patří integrované stěrače trysek a zavedení odolnějších řemenů GT1.5.",
+      "Výrobce rovněž nabízí možnosti upgradu pro stávající uživatele, aby mohli své stroje povýšit na novou úroveň."
+    ],
+    "tags": [
+      "Hardware",
+      "Prusa Research",
+      "3D Printing",
+      "Additive Manufacturing",
+      "CORE One",
+      "Prusa XL"
+    ]
+  },
+  {
+    "title": "AxiLoop láká na 3D tiskárnu MC8 s osmibarevným tiskem a nízkým odpadem",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968061851/0/fabbaloo/default~AxiLoop-Teases-MC-D-Printer-With-EightColor-LowWaste-Printing\" rel=\"nofollow\" title=\"AxiLoop Teases MC8 3D Printer With Eight-Color, Low-Waste Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/mc8-cover-300x235.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new multilateral 3D printer has been — sort of — announced, the MC8 from AxiLoop.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968061851/0/fabbaloo/default~AxiLoop-Teases-MC-D-Printer-With-EightColor-LowWaste-Printing\" rel=\"nofollow\">AxiLoop Teases MC8 3D Printer With Eight-Color, Low-Waste Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/mc8-cover-300x235.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-08-20T16:33:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968061851/0/fabbaloo/default~AxiLoop-Teases-MC-D-Printer-With-EightColor-LowWaste-Printing",
+    "forced_tags": [],
+    "title_en": "AxiLoop Teases MC8 3D Printer With Eight-Color, Low-Waste Printing",
+    "summary_bullets_en": [
+      "AxiLoop has unveiled a teaser for their upcoming MC8 3D printer.",
+      "The machine is designed to support multi-material printing with up to eight colors.",
+      "A key feature of the new printer is its focus on minimizing material waste during the printing process."
+    ],
+    "summary_bullets_cs": [
+      "Společnost AxiLoop představila upoutávku na svou připravovanou 3D tiskárnu MC8.",
+      "Stroj je navržen pro podporu vícebarevného tisku až v osmi barvách současně.",
+      "Hlavní předností nové tiskárny je důraz na minimalizaci odpadu materiálu během tiskového procesu."
+    ],
+    "tags": [
+      "Hardware",
+      "AxiLoop",
+      "MC8",
+      "Multi-color printing",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Meshy 7 vylepšuje přesnost převodu obrázků na 3D modely díky nové technologii zarovnání geometrie",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968059613/0/fabbaloo/default~Meshy-Improves-ImagetoD-Accuracy-With-New-Geometry-Alignment-Technology\" rel=\"nofollow\" title=\"Meshy 7 Improves Image-to-3D Accuracy With New Geometry Alignment Technology\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/meshy7-cover-300x128.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Meshy has released a new version of their AI-powered image-to-3D model service.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968059613/0/fabbaloo/default~Meshy-Improves-ImagetoD-Accuracy-With-New-Geometry-Alignment-Technology\" rel=\"nofollow\">Meshy 7 Improves Image-to-3D Accuracy With New Geometry Alignment Technology</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/meshy7-cover-300x128.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-20T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968059613/0/fabbaloo/default~Meshy-Improves-ImagetoD-Accuracy-With-New-Geometry-Alignment-Technology",
+    "forced_tags": [],
+    "title_en": "Meshy 7 Improves Image-to-3D Accuracy With New Geometry Alignment Technology",
+    "summary_bullets_en": [
+      "Meshy has launched version 7 of its AI-driven image-to-3D generation platform.",
+      "The update introduces advanced geometry alignment technology to enhance model precision.",
+      "This release aims to significantly improve the accuracy of 3D assets created from 2D images."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Meshy vydala sedmou verzi své platformy pro generování 3D modelů z obrázků pomocí AI.",
+      "Aktualizace přináší pokročilou technologii zarovnání geometrie pro zvýšení přesnosti modelů.",
+      "Cílem této verze je výrazné zlepšení věrnosti 3D objektů vytvořených z 2D předloh."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Meshy",
+      "AI",
+      "3D Modeling",
+      "Generative AI"
+    ]
+  },
+  {
+    "title": "Společnost Phase3D získala kontrakt od letectva na kontrolu CMC v reálném čase",
+    "summary": "Inspection software and tooling firm Phase3D has been given a Department of the Air Force contract. Its Fringe Inspection platform will be used in ceramic matrix composites (CMCs). CMCs are...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/01/Image-2-Fringe-Operator-1024x558.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-20T14:00:15+00:00",
+    "url": "https://3dprint.com/330720/phase3d-gets-air-force-contract-for-real-time-cmc-inspection/",
+    "forced_tags": [],
+    "title_en": "Phase3D Gets Air Force Contract for Real-Time CMC Inspection",
+    "summary_bullets_en": [
+      "Phase3D secured a contract with the U.S. Department of the Air Force.",
+      "The company will deploy its Fringe Inspection platform to monitor ceramic matrix composites (CMCs).",
+      "This technology enables real-time quality control and inspection during the additive manufacturing process."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Phase3D získala zakázku od Ministerstva letectva USA.",
+      "Její platforma Fringe Inspection bude využita pro kontrolu keramických matricových kompozitů (CMC).",
+      "Technologie umožňuje kontrolu kvality v reálném čase přímo během procesu aditivní výroby."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Material",
+      "Phase3D",
+      "Air Force",
+      "CMC",
+      "Quality Control"
+    ]
+  },
+  {
+    "title": "SeaRush ukazuje další fázi velkoformátového námořního 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968054651/0/fabbaloo/default~SeaRush-Shows-the-Next-Phase-of-LargeScale-Maritime-D-Printing\" rel=\"nofollow\" title=\"SeaRush Shows the Next Phase of Large-Scale Maritime 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_289-300x179.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles Goulding and Ari Willick examine how the SeaRush project demonstrates the potential of large-scale 3D printing to accelerate maritime design through rapid prototyping, robotic manufacturing, and iterative testing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968054651/0/fabbaloo/default~SeaRush-Shows-the-Next-Phase-of-LargeScale-Maritime-D-Printing\" rel=\"nofollow\">SeaRush Shows the Next Phase of Large-Scale Maritime 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_289-300x179.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-20T13:36:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968054651/0/fabbaloo/default~SeaRush-Shows-the-Next-Phase-of-LargeScale-Maritime-D-Printing",
+    "forced_tags": [],
+    "title_en": "SeaRush Shows the Next Phase of Large-Scale Maritime 3D Printing",
+    "summary_bullets_en": [
+      "The SeaRush project highlights the transformative role of large-scale 3D printing in the maritime industry.",
+      "It leverages robotic manufacturing and rapid prototyping to significantly accelerate design cycles.",
+      "The initiative focuses on iterative testing to improve efficiency and innovation in marine vessel development."
+    ],
+    "summary_bullets_cs": [
+      "Projekt SeaRush demonstruje transformační roli velkoformátového 3D tisku v námořním průmyslu.",
+      "Využívá robotickou výrobu a rychlé prototypování k výraznému zrychlení konstrukčních cyklů.",
+      "Iniciativa se zaměřuje na iterativní testování pro zvýšení efektivity a inovací při vývoji námořních plavidel."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "SeaRush",
+      "Maritime",
+      "Large-Scale 3D Printing",
+      "Robotic Manufacturing",
+      "Rapid Prototyping"
+    ]
+  },
+  {
+    "title": "Patent společnosti Anycubic zkoumá plnobarevný 3D tisk z resinu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968054525/0/fabbaloo/default~Anycubic-Patent-Explores-Full-Color-Resin-D-Printing\" rel=\"nofollow\" title=\"Anycubic Patent Explores Full Color Resin 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/anycubic-multicolor-patent-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Anycubic has patented an unusual way to produce multicolor resin prints without painting them afterwards.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968054525/0/fabbaloo/default~Anycubic-Patent-Explores-Full-Color-Resin-D-Printing\" rel=\"nofollow\">Anycubic Patent Explores Full Color Resin 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/anycubic-multicolor-patent-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-20T13:31:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968054525/0/fabbaloo/default~Anycubic-Patent-Explores-Full-Color-Resin-D-Printing",
+    "forced_tags": [],
+    "title_en": "Anycubic Patent Explores Full Color Resin 3D Printing",
+    "summary_bullets_en": [
+      "Anycubic has filed a patent for a new method to achieve full-color resin 3D printing.",
+      "The technology aims to eliminate the need for manual post-print painting.",
+      "This innovation could significantly change how high-detail resin models are produced."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Anycubic si nechala patentovat neobvyklý způsob výroby vícebarevných resinových výtisků.",
+      "Nová technologie má umožnit tisk v barvách bez nutnosti následného ručního lakování.",
+      "Tento patent představuje významný posun v možnostech 3D tisku z fotopolymerů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Anycubic",
+      "Resin 3D Printing",
+      "Full Color Printing",
+      "Patents"
+    ]
+  },
+  {
+    "title": "Aktuality ze světa 3D tisku, 20. srpna 2026: Kovové prášky, porušování patentů, skenery a další",
+    "summary": "We&#8217;re starting with metal 3D printing business news in today&#8217;s 3D Printing News Briefs, as SBO is expanding its capacity in the US and the UK, and Continuum Powders is...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/SBO-logo.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-20T13:00:20+00:00",
+    "url": "https://3dprint.com/330700/3d-printing-news-briefs-8-20-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, August 20, 2026: Metal Powders, Patent Infringement, Scanners, & More",
+    "summary_bullets_en": [
+      "SBO is scaling up its metal 3D printing operations across the United States and the United Kingdom.",
+      "Continuum Powders is making strategic moves within the metal additive manufacturing supply chain.",
+      "The industry news covers a mix of legal developments regarding patent infringement and new advancements in 3D scanning technology."
+    ],
+    "summary_bullets_cs": [
+      "Společnost SBO rozšiřuje své kapacity v oblasti 3D tisku z kovů ve Spojených státech a Velké Británii.",
+      "Společnost Continuum Powders realizuje strategické kroky v dodavatelském řetězci kovových prášků pro aditivní výrobu.",
+      "Novinky zahrnují právní spory ohledně porušování patentů a pokroky v technologiích 3D skenování."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "SBO",
+      "Continuum Powders",
+      "Metal 3D Printing",
+      "3D Scanning"
+    ]
+  },
+  {
+    "title": "China Watch #4: Creality varuje akcionáře před provozní ztrátou",
+    "summary": "Plus: metal 3D printing is attracting serious capital, while a viral figurine is heating up China&#8217;s print farms",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/911e8e4e-b2a4-4048-85e7-272536046746_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-08-20T12:31:56+00:00",
+    "url": "https://www.3dprintingjournal.com/p/china-watch-4-creality-warns-shareholders",
+    "forced_tags": [],
+    "title_en": "China Watch #4: Creality warns shareholders of an operating loss",
+    "summary_bullets_en": [
+      "Creality has issued a financial warning to shareholders regarding an expected operating loss.",
+      "The metal 3D printing sector is seeing a significant influx of investment capital.",
+      "A viral figurine design is currently driving high demand and production activity across Chinese print farms."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Creality varovala akcionáře před očekávanou provozní ztrátou.",
+      "Odvětví 3D tisku kovů přitahuje značný investiční kapitál.",
+      "Virální figurka vyvolala v čínských tiskových farmách vlnu vysoké poptávky a produkce."
+    ],
+    "tags": [
+      "Hardware",
+      "Business",
+      "Metal 3D Printing",
+      "Creality",
+      "Investment",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "Další expediční 3D tisk na cvičení RIMPAC, tentokrát se společností SPEE3D",
+    "summary": "In my most recent post about the 2026 edition of Rim of the Pacific (RIMPAC), a biannual exhibition that constitutes the world&#8217;s largest joint maritime exercise, I focused on the...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/aluminiumbronzecoverborimpac2026tnarngutkdarc2.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-20T12:00:49+00:00",
+    "url": "https://3dprint.com/330856/more-rimpac-expeditionary-am-this-time-with-spee3d/",
+    "forced_tags": [],
+    "title_en": "More RIMPAC Expeditionary AM, This Time With SPEE3D",
+    "summary_bullets_en": [
+      "The RIMPAC 2026 maritime exercise continues to highlight the integration of expeditionary additive manufacturing.",
+      "SPEE3D is the latest company to showcase its metal 3D printing capabilities in a field environment.",
+      "The focus remains on enhancing naval logistics and self-sufficiency through on-demand part production.",
+      "These demonstrations prove the viability of deploying advanced manufacturing technology directly to the front lines."
+    ],
+    "summary_bullets_cs": [
+      "Námořní cvičení RIMPAC 2026 nadále klade důraz na integraci expediční aditivní výroby.",
+      "Společnost SPEE3D je nejnovějším hráčem, který předvádí své schopnosti v oblasti 3D tisku kovů v polních podmínkách.",
+      "Hlavním cílem je zlepšení námořní logistiky a soběstačnosti prostřednictvím výroby dílů na vyžádání.",
+      "Tyto ukázky potvrzují životaschopnost nasazení pokročilých výrobních technologií přímo v první linii."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "SPEE3D",
+      "RIMPAC",
+      "Expeditionary AM",
+      "Metal 3D Printing",
+      "Defense"
+    ]
+  },
+  {
+    "title": "Stratasys a Limbitless Solutions rozšiřují 12leté partnerství v oblasti 3D tištěných protéz pro děti",
+    "summary": "3D printer OEM Stratasys and Limbitless Solutions, nonprofit research facility at the University of Central Florida (UCF), have expanded their 12-year collaboration to provide 3D printed prosthetic devices to children with limb differences, with a renewed focus this year on sustainability, education and wider access. As part of the expansion, Stratasys donated one of its&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/Limbitless_Stratasys_Annika-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-08-20T11:26:52+00:00",
+    "url": "https://3dprintingindustry.com/news/stratasys-and-limbitless-solutions-expand-12-year-partnership-on-3d-printed-prosthetics-for-children-253959/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-and-limbitless-solutions-expand-12-year-partnership-on-3d-printed-prosthetics-for-children",
+    "forced_tags": [],
+    "title_en": "Stratasys and Limbitless Solutions Expand 12-Year Partnership on 3D Printed Prosthetics for Children",
+    "summary_bullets_en": [
+      "Stratasys and Limbitless Solutions have extended their 12-year partnership to continue providing 3D printed prosthetics to children.",
+      "The collaboration now emphasizes sustainability, educational initiatives, and increasing global access to prosthetic devices.",
+      "Stratasys is supporting the initiative through a new donation of advanced 3D printing hardware to the UCF research facility."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce 3D tiskáren Stratasys a nezisková organizace Limbitless Solutions z University of Central Florida (UCF) prodloužili svou 12letou spolupráci na vývoji 3D tištěných protéz pro děti.",
+      "Letošní rozšířená spolupráce se zaměřuje především na udržitelnost, vzdělávání a širší dostupnost těchto zdravotnických pomůcek.",
+      "V rámci rozšíření partnerství společnost Stratasys darovala organizaci Limbitless Solutions další své 3D tiskové technologie."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Stratasys",
+      "Limbitless Solutions",
+      "3D Printing",
+      "Prosthetics",
+      "Healthcare"
+    ]
+  },
+  {
+    "title": "3D skenování vdechlo život 1 700 let starému prstenu z Ilminsteru",
+    "summary": "Somerset Council&#8217;s Library Service has 3D scanned and printed a replica of the Ilminster Ring, a Roman gold artifact dating to 297 AD, ahead of its public unveiling at the Ilminster Roman Ring Discovery Day on Thursday 20 August. The event, organized by South West Heritage Trust and Ilminster Arts Centre, will display both the&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/ring1-1024x771-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-08-20T11:02:17+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-scanning-brings-1700-year-old-ilminster-ring-to-life-253964/?utm_source=rss&utm_medium=rss&utm_campaign=3d-scanning-brings-1700-year-old-ilminster-ring-to-life",
+    "forced_tags": [],
+    "title_en": "3D Scanning Brings 1,700-Year-Old Ilminster Ring to Life",
+    "summary_bullets_en": [
+      "Somerset Council has utilized 3D scanning and printing technology to create a replica of the ancient Roman Ilminster Ring.",
+      "The artifact, dating back to 297 AD, will be showcased at the upcoming Ilminster Roman Ring Discovery Day.",
+      "The event is a collaborative effort between the South West Heritage Trust and the Ilminster Arts Centre to promote local history."
+    ],
+    "summary_bullets_cs": [
+      "Knihovní služba Somerset Council využila 3D skenování a tisk k vytvoření repliky římského zlatého artefaktu z roku 297 n. l.",
+      "Replika bude představena veřejnosti během akce Ilminster Roman Ring Discovery Day, která se koná ve čtvrtek 20. srpna.",
+      "Akci pořádá South West Heritage Trust společně s Ilminster Arts Centre, aby přiblížili historii tohoto nálezu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Scanning",
+      "3D Printing",
+      "Archaeology",
+      "Cultural Heritage",
+      "Somerset Council"
+    ]
+  },
+  {
+    "title": "Čelenka X7C+ od SYZMIK snižuje riziko otřesu mozku o 77 % díky 3D tištěné mřížkové výplni",
+    "summary": "SYZMIK Sports has commercialized the X7C+ Protective Headband, built around what the company calls an industry-first application of 3D printed lattice padding in a flag football and 7v7 headband. Designed by COO Christopher Perra, the $77 headband carries a 5-Star impact rating from the Virginia Tech Helmet Lab and has won the Sport Equipment Design/Innovation&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/SyzmikNewX7CPlusBlackV3.png0526-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-08-20T10:36:38+00:00",
+    "url": "https://3dprintingindustry.com/news/syzmiks-x7c-cuts-concussion-risk-77-with-3d-printed-lattice-padding-253942/?utm_source=rss&utm_medium=rss&utm_campaign=syzmiks-x7c-cuts-concussion-risk-77-with-3d-printed-lattice-padding",
+    "forced_tags": [],
+    "title_en": "SYZMIK’s X7C+ Cuts Concussion Risk 77% With 3D Printed Lattice Padding",
+    "summary_bullets_en": [
+      "SYZMIK Sports launched the X7C+ protective headband, featuring industry-first 3D printed lattice padding for flag football.",
+      "The design, created by COO Christopher Perra, achieved a 5-Star impact rating from the Virginia Tech Helmet Lab.",
+      "The headband reduces concussion risks by 77% and has been recognized with a prestigious Sport Equipment Design/Innovation award.",
+      "The product is now commercially available, retailing at a price point of $77."
+    ],
+    "summary_bullets_cs": [
+      "Společnost SYZMIK Sports uvedla na trh ochrannou čelenku X7C+, která jako první v oboru využívá 3D tištěnou mřížkovou výplň pro flag football.",
+      "Design, jehož autorem je provozní ředitel Christopher Perra, získal 5hvězdičkové hodnocení bezpečnosti od laboratoře Virginia Tech Helmet Lab.",
+      "Čelenka snižuje riziko otřesu mozku o 77 % a získala ocenění za inovaci v designu sportovního vybavení.",
+      "Produkt je nyní komerčně dostupný za cenu 77 dolarů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "SYZMIK Sports",
+      "3D Printing",
+      "Lattice Structures",
+      "Sports Tech"
+    ]
+  },
+  {
+    "title": "3D tisk by mohl pomoci vměstnat více energie do drobných zařízení",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968046884/0/fabbaloo/default~D-Printing-Could-Help-Pack-More-Energy-Into-Tiny-Devices\" rel=\"nofollow\" title=\"3D Printing Could Help Pack More Energy Into Tiny Devices\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/3d-electrode-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Microscale energy storage is an unusual but potentially valuable target for additive manufacturing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968046884/0/fabbaloo/default~D-Printing-Could-Help-Pack-More-Energy-Into-Tiny-Devices\" rel=\"nofollow\">3D Printing Could Help Pack More Energy Into Tiny Devices</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/3d-electrode-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-08-20T08:04:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968046884/0/fabbaloo/default~D-Printing-Could-Help-Pack-More-Energy-Into-Tiny-Devices",
+    "forced_tags": [],
+    "title_en": "3D Printing Could Help Pack More Energy Into Tiny Devices",
+    "summary_bullets_en": [
+      "Additive manufacturing is being explored as a solution for creating microscale energy storage devices.",
+      "3D printing allows for complex electrode geometries that can significantly increase energy density in small electronics.",
+      "This technology addresses the growing need for efficient power sources in miniaturized hardware and IoT devices."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba je zkoumána jako řešení pro tvorbu mikroskopických zařízení pro ukládání energie.",
+      "3D tisk umožňuje vytvářet komplexní geometrie elektrod, které mohou výrazně zvýšit hustotu energie v malé elektronice.",
+      "Tato technologie reaguje na rostoucí potřebu efektivních zdrojů energie v miniaturizovaném hardwaru a zařízeních internetu věcí (IoT)."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Microscale Energy Storage",
+      "Electronics",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Prusa vylepšuje svou nabídku o modely CORE One+ (Gen 2), CORE One L+ a XL+",
+    "summary": "Prusa Research has updated its high-end desktop 3D printer lineup. The company is offering new and improved versions of the machines it targets at industrial and power users, with the...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/aea74681-l-cleaner-calibrator-scaled-1.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-08-20T07:00:11+00:00",
+    "url": "https://3dprint.com/330435/prusa-upgrades-its-lineup-core-one-gen2-core-one-l-and-xl/",
+    "forced_tags": [],
+    "title_en": "Prusa Upgrades Its Lineup with CORE One+ (Gen 2), CORE One L+, and XL+",
+    "summary_bullets_en": [
+      "Prusa Research has launched upgraded versions of its high-end 3D printers, specifically targeting industrial and professional users.",
+      "The new lineup includes the CORE One+ (Gen 2), CORE One L+, and the XL+ models.",
+      "These machines feature significant hardware improvements designed to enhance performance, reliability, and print quality for demanding workflows."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Prusa Research představila vylepšené verze svých špičkových 3D tiskáren určených pro průmyslové a profesionální uživatele.",
+      "Nová řada zahrnuje modely CORE One+ (Gen 2), CORE One L+ a XL+.",
+      "Stroje přinášejí významná hardwarová vylepšení zaměřená na zvýšení výkonu, spolehlivosti a kvality tisku při náročném nasazení."
+    ],
+    "tags": [
+      "Hardware",
+      "Prusa Research",
+      "3D Printing",
+      "Industrial Additive Manufacturing",
+      "CORE One",
+      "XL"
+    ]
+  },
+  {
     "title": "Creality uvádí na trh SPARKX i7 Nano: Technické specifikace a cena",
     "summary": "Shenzhen-based 3D printer maker Creality has released the SPARKX i7 Nano, a desktop 3D printer that adds four-color printing to its i7 series in a smaller form factor. The 3D printer became available August 15, bundled with a new CFS nano Kit, through the Creality US Store. The i7 Nano follows the January launch of&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/08/Creality-150x100.png",
