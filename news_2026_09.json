@@ -1,5 +1,523 @@
 [
   {
+    "title": "Jak vědci z RMIT přiměli 3D tištěný titan plavat na vodě",
+    "summary": "Researchers at RMIT University have created the first buoyant metal-polymer open-cell hybrid lattice metamaterial that floats in water, addressing a fundamental incompatibility between porous metal architectures and buoyancy. Published in Advanced Materials, the study introduces a hybrid architecture that combines 3D printed titanium lattices with injected polyurethane foam to achieve skeletal densities below 1.0 g/cm³.&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/Floating_titanium_thumbnail-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-04T04:48:07+00:00",
+    "url": "https://3dprintingindustry.com/news/how-rmit-researchers-made-3d-printed-titanium-float-on-water-254397/?utm_source=rss&utm_medium=rss&utm_campaign=how-rmit-researchers-made-3d-printed-titanium-float-on-water",
+    "forced_tags": [],
+    "title_en": "How RMIT Researchers Made 3D Printed Titanium Float on Water",
+    "summary_bullets_en": [
+      "RMIT University researchers developed a novel hybrid metamaterial that allows 3D printed titanium to float on water.",
+      "The design utilizes an open-cell titanium lattice structure reinforced with injected polyurethane foam.",
+      "By achieving a skeletal density of less than 1.0 g/cm³, the material overcomes the natural weight limitations of porous metals.",
+      "This breakthrough, published in Advanced Materials, opens new possibilities for lightweight, high-strength marine and aerospace applications."
+    ],
+    "summary_bullets_cs": [
+      "Vědci z RMIT University vytvořili unikátní hybridní metamateriál, díky kterému může 3D tištěný titan plavat na hladině vody.",
+      "Konstrukce využívá otevřenou mřížkovou strukturu z titanu, která je vyplněna vstřikovanou polyuretanovou pěnou.",
+      "Dosažením hustoty skeletu pod 1,0 g/cm³ se podařilo překonat přirozená omezení hmotnosti u porézních kovů.",
+      "Tento objev, publikovaný v časopise Advanced Materials, otevírá nové možnosti pro lehké a vysoce odolné konstrukce v námořním a leteckém průmyslu."
+    ],
+    "tags": [
+      "Material",
+      "Research",
+      "3D Printing",
+      "Titanium",
+      "Metamaterials",
+      "RMIT University"
+    ]
+  },
+  {
+    "title": "Společnost MAASS vyvíjí plnobarevnou resinovou 3D tiskárnu se šesti vanami",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968526521/0/fabbaloo/default~MAASS-Developing-FullColor-SixVat-Resin-D-Printer\" rel=\"nofollow\" title=\"MAASS Developing Full-Color Six-Vat Resin 3D Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/shimmy-6-cover-300x250.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There’s a full-colour resin 3D printer in the works.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968526521/0/fabbaloo/default~MAASS-Developing-FullColor-SixVat-Resin-D-Printer\" rel=\"nofollow\">MAASS Developing Full-Color Six-Vat Resin 3D Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/shimmy-6-cover-300x250.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-03T16:37:32+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968526521/0/fabbaloo/default~MAASS-Developing-FullColor-SixVat-Resin-D-Printer",
+    "forced_tags": [],
+    "title_en": "MAASS Developing Full-Color Six-Vat Resin 3D Printer",
+    "summary_bullets_en": [
+      "MAASS is currently developing an innovative resin 3D printer capable of full-color output.",
+      "The machine utilizes a unique six-vat system to achieve its color printing capabilities.",
+      "This development marks a significant step forward in multi-color additive manufacturing for resin-based technologies."
+    ],
+    "summary_bullets_cs": [
+      "Společnost MAASS pracuje na vývoji inovativní resinové 3D tiskárny, která umožňuje plnobarevný tisk.",
+      "Zařízení využívá unikátní systém šesti oddělených van pro dosažení barevného výstupu.",
+      "Tento vývoj představuje významný pokrok v oblasti vícebarevné aditivní výroby u technologií založených na pryskyřici."
+    ],
+    "tags": [
+      "Hardware",
+      "Resin 3D Printing",
+      "MAASS",
+      "Full-Color Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Výzkumník nahlásil potenciální bezpečnostní chybu umožňující převzetí účtu v Lychee Slicer",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968524037/0/fabbaloo/default~Researcher-Reports-Potential-Account-Takeover-Security-Issue-in-Lychee-Slicer\" rel=\"nofollow\" title=\"Researcher Reports Potential Account Takeover Security Issue in Lychee Slicer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/lychee-security-cover-300x189.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Do you use the Lychee Slicer? It seems there is a security issue with the software.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968524037/0/fabbaloo/default~Researcher-Reports-Potential-Account-Takeover-Security-Issue-in-Lychee-Slicer\" rel=\"nofollow\">Researcher Reports Potential Account Takeover Security Issue in Lychee Slicer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/lychee-security-cover-300x189.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-03T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968524037/0/fabbaloo/default~Researcher-Reports-Potential-Account-Takeover-Security-Issue-in-Lychee-Slicer",
+    "forced_tags": [],
+    "title_en": "Researcher Reports Potential Account Takeover Security Issue in Lychee Slicer",
+    "summary_bullets_en": [
+      "A security vulnerability has been identified in the popular Lychee Slicer software.",
+      "The flaw potentially allows unauthorized parties to perform an account takeover.",
+      "Users are advised to stay informed about the situation as further details emerge."
+    ],
+    "summary_bullets_cs": [
+      "V populárním softwaru Lychee Slicer byla identifikována bezpečnostní zranitelnost.",
+      "Tato chyba může potenciálně umožnit neoprávněným osobám převzít kontrolu nad uživatelským účtem.",
+      "Uživatelům se doporučuje sledovat další vývoj situace a případné aktualizace."
+    ],
+    "tags": [
+      "Software",
+      "3D Printing",
+      "Lychee Slicer",
+      "Cybersecurity",
+      "Slicing Software"
+    ]
+  },
+  {
+    "title": "Patent společnosti Carbon přidává laserové čištění do resinového tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968522333/0/fabbaloo/default~Carbon-Patent-Adds-Laser-Cleanup-To-Resin-Printing\" rel=\"nofollow\" title=\"Carbon Patent Adds Laser Cleanup To Resin Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/carbon-laser-patent-cover-300x214.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Resin 3D printing usually treats excess material as a post-processing problem. Carbon’s latest patent application proposes dealing with it while the part is still inside the printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968522333/0/fabbaloo/default~Carbon-Patent-Adds-Laser-Cleanup-To-Resin-Printing\" rel=\"nofollow\">Carbon Patent Adds Laser Cleanup To Resin Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/carbon-laser-patent-cover-300x214.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-03T13:17:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968522333/0/fabbaloo/default~Carbon-Patent-Adds-Laser-Cleanup-To-Resin-Printing",
+    "forced_tags": [],
+    "title_en": "Carbon Patent Adds Laser Cleanup To Resin Printing",
+    "summary_bullets_en": [
+      "Carbon has filed a new patent focusing on in-situ resin removal during the printing process.",
+      "The technology aims to eliminate the need for traditional post-processing steps by cleaning excess material while the part is still inside the printer.",
+      "This innovation could significantly streamline production workflows and reduce waste in resin-based 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Carbon podala novou patentovou přihlášku zaměřenou na odstraňování přebytečné pryskyřice přímo během procesu tisku.",
+      "Technologie má za cíl eliminovat potřebu tradičního následného zpracování tím, že očistí přebytečný materiál, zatímco je díl stále uvnitř tiskárny.",
+      "Tato inovace by mohla výrazně zefektivnit výrobní postupy a snížit množství odpadu u resinového 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Carbon",
+      "Resin Printing",
+      "3D Printing",
+      "Post-processing",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "China Watch #6: velmi rušný týden pro čínský trh 3D tisku",
+    "summary": "SUNLU prepares for an IPO, Bambu Lab dominates print farms, and China&#8217;s metal AM industry is flooding the world with machines",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/712a91ff-d6d0-41c0-bc2c-4c530d8147b3_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-09-03T13:03:56+00:00",
+    "url": "https://www.3dprintingjournal.com/p/china-watch-6-a-really-busy-week",
+    "forced_tags": [],
+    "title_en": "China Watch #6: a really busy week for China’s 3D printing market",
+    "summary_bullets_en": [
+      "SUNLU is moving towards an initial public offering (IPO) to expand its market presence.",
+      "Bambu Lab has become the leading choice for professional and hobbyist print farms.",
+      "Chinese manufacturers are aggressively exporting metal additive manufacturing machines to global markets."
+    ],
+    "summary_bullets_cs": [
+      "Společnost SUNLU se připravuje na vstup na burzu (IPO).",
+      "Bambu Lab dominuje trhu s tiskovými farmami.",
+      "Čínský průmysl kovového 3D tisku zaplavuje svět svými stroji."
+    ],
+    "tags": [
+      "Hardware",
+      "SUNLU",
+      "Bambu Lab",
+      "Metal AM",
+      "Industry News"
+    ]
+  },
+  {
+    "title": "Zprávy ze světa 3D tisku, 3. září 2026: Akvizice, obchodní tajemství, implantáty kotníků a další",
+    "summary": "In today&#8217;s 3D Printing News Briefs, we&#8217;re starting with a partnership regarding additive manufacturing quality software. Then we&#8217;ll move on to a defense acquisition and a trade secrets misappropriation case....",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/Inline-Strainer-768x1024.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-03T12:30:14+00:00",
+    "url": "https://3dprint.com/331682/3d-printing-news-briefs-9-3-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, September 3, 2026: Acquisition, Trade Secrets, Ankle Implants, & More",
+    "summary_bullets_en": [
+      "A new strategic partnership has been formed to enhance quality control software for additive manufacturing.",
+      "The defense sector sees a significant acquisition aimed at expanding manufacturing capabilities.",
+      "A legal dispute regarding the misappropriation of trade secrets has emerged within the industry.",
+      "Advancements in medical 3D printing are highlighted by new developments in ankle implant technology."
+    ],
+    "summary_bullets_cs": [
+      "Bylo uzavřeno nové strategické partnerství zaměřené na vylepšení softwaru pro kontrolu kvality v aditivní výrobě.",
+      "V obranném sektoru proběhla významná akvizice s cílem rozšířit výrobní kapacity.",
+      "V oboru se objevil právní spor týkající se zpronevěry obchodního tajemství.",
+      "Pokroky v medicínském 3D tisku jsou zastoupeny novým vývojem v oblasti implantátů kotníků."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Medical",
+      "Defense",
+      "Additive Manufacturing",
+      "Quality Control"
+    ]
+  },
+  {
+    "title": "Společnost 3devo uvádí na trh nový výrobník filamentu X10",
+    "summary": "Dutch firm 3devo is a pioneer in desktop filament makers. Where other players make tools for makers, 3devo is the filament maker that your filament company, polymer company, or local...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/FM10_studio_tensioner_arm_detail-1024x819.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-03T12:00:13+00:00",
+    "url": "https://3dprint.com/331487/3devo-releases-filament-maker-x10/",
+    "forced_tags": [],
+    "title_en": "3devo Releases New Filament Maker X10",
+    "summary_bullets_en": [
+      "Dutch company 3devo has launched the X10, a new professional-grade desktop filament maker.",
+      "The device is designed for filament manufacturers, polymer companies, and research facilities rather than hobbyists.",
+      "It aims to bridge the gap between small-scale prototyping and industrial material production.",
+      "3devo continues to solidify its position as a leader in specialized desktop extrusion technology."
+    ],
+    "summary_bullets_cs": [
+      "Nizozemská firma 3devo představila X10, nový profesionální stolní výrobník 3D tiskových strun.",
+      "Zařízení je určeno především pro výrobce filamentů, polymerové společnosti a výzkumná pracoviště, nikoliv pro běžné kutily.",
+      "Cílem stroje je propojit svět malovýroby prototypů s průmyslovou produkcí materiálů.",
+      "3devo tímto krokem upevňuje svou pozici lídra ve specializované technologii stolní extruze."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3devo",
+      "Filament",
+      "Extrusion",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Continuous Composites získala kontrakt od námořnictva na 3D tisk multifunkčních struktur pro drony",
+    "summary": "Developer of composite 3D printing technologies Continuous Composites (CCI) has been awarded a Phase II Small Business Innovation Research (SBIR) contract with the U.S. Navy to advance its Continuous Fiber 3D Printing (CF3D) technology toward 3D printing UAV structures with electrical conductors embedded directly inside the composite material.  The program&#8217;s goal is load-bearing UAV components&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/08/FEA-Heat-Map-1024x622-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-03T11:50:55+00:00",
+    "url": "https://3dprintingindustry.com/news/continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures-254354/?utm_source=rss&utm_medium=rss&utm_campaign=continuous-composites-wins-navy-contract-to-3d-print-multifunctional-uav-structures",
+    "forced_tags": [],
+    "title_en": "Continuous Composites Wins Navy Contract to 3D Print Multifunctional UAV Structures",
+    "summary_bullets_en": [
+      "Continuous Composites (CCI) secured a Phase II SBIR contract from the U.S. Navy.",
+      "The project focuses on advancing Continuous Fiber 3D Printing (CF3D) technology.",
+      "The goal is to manufacture UAV structures with integrated electrical conductors.",
+      "The initiative aims to create high-performance, load-bearing components for military drones."
+    ],
+    "summary_bullets_cs": [
+      "Vývojář technologií pro 3D tisk kompozitů, společnost Continuous Composites (CCI), získala kontrakt v rámci programu SBIR (Phase II) od amerického námořnictva.",
+      "Cílem projektu je posunout technologii 3D tisku kontinuálním vláknem (CF3D) směrem k výrobě struktur bezpilotních letounů (UAV).",
+      "Klíčovou inovací je přímý tisk elektrických vodičů přímo do kompozitního materiálu.",
+      "Program se zaměřuje na vývoj nosných komponentů pro drony, které integrují více funkcí do jednoho celku."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Continuous Composites",
+      "CF3D",
+      "UAV",
+      "U.S. Navy",
+      "Composite Printing"
+    ]
+  },
+  {
+    "title": "UMaine představuje 3Dirigo X: 3D tištěnou loď o délce 30 stop",
+    "summary": "The University of Maine has launched 3Dirigo X, a 30-foot, 3D printed vessel engineered to reach speeds near 40 knots and withstand offshore conditions, marking an advance for large-scale 3D printing from demonstration technology toward a practical manufacturing tool for commercial and defense shipbuilding. The boat was designed and built at UMaine&#8217;s Advanced Structures and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/image5-1-e1787941850148-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-03T11:28:59+00:00",
+    "url": "https://3dprintingindustry.com/news/umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat-254357/?utm_source=rss&utm_medium=rss&utm_campaign=umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat",
+    "forced_tags": [],
+    "title_en": "UMaine Launches 3Dirigo X: A 3D Printed 30-Foot Boat",
+    "summary_bullets_en": [
+      "The University of Maine unveiled 3Dirigo X, a 30-foot 3D printed vessel capable of reaching speeds near 40 knots.",
+      "Designed for offshore conditions, the boat demonstrates the transition of large-scale 3D printing from experimental tech to practical manufacturing.",
+      "The project highlights significant advancements in additive manufacturing for both commercial and defense shipbuilding sectors."
+    ],
+    "summary_bullets_cs": [
+      "University of Maine představila 3Dirigo X, 3D tištěné plavidlo o délce 30 stop, které dosahuje rychlosti téměř 40 uzlů.",
+      "Loď je navržena pro náročné podmínky na otevřeném moři a představuje posun velkoformátového 3D tisku od demonstrační technologie k praktickému výrobnímu nástroji.",
+      "Projekt demonstruje pokrok v aditivní výrobě pro potřeby komerčního i obranného loďařského průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "3D Printing",
+      "UMaine",
+      "3Dirigo X",
+      "Maritime",
+      "Defense",
+      "Large-scale Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Investice společnosti Stanley Black & Decker ve výši 1 miliardy dolarů do americké výroby a výzkumu může být zlatým dolem pro 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968520281/0/fabbaloo/default~Stanley-Black-Decker%e2%80%99s-US-Billion-US-Manufacturing-and-RD-Bet-Could-Be-a-Gold-Mine-for-D-Printing\" rel=\"nofollow\" title=\"Stanley Black &amp; Decker’s US$1 Billion U.S. Manufacturing and R&amp;D Bet Could Be a Gold Mine for 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/Filename-_417-174x300.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"174\" /></a><p>Charles R. Goulding and Preeti Sulibhavi see a familiar Gold Rush story unfolding in American manufacturing, where the biggest opportunities for 3D printing may come from supplying the tools that enable the next industrial expansion.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968520281/0/fabbaloo/default~Stanley-Black-Decker%e2%80%99s-US-Billion-US-Manufacturing-and-RD-Bet-Could-Be-a-Gold-Mine-for-D-Printing\" rel=\"nofollow\">Stanley Black &amp; Decker’s US$1 Billion U.S. Manufacturing and R&amp;D Bet Could Be a Gold Mine for 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/Filename-_417-174x300.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-03T11:06:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968520281/0/fabbaloo/default~Stanley-Black-Decker%e2%80%99s-US-Billion-US-Manufacturing-and-RD-Bet-Could-Be-a-Gold-Mine-for-D-Printing",
+    "forced_tags": [],
+    "title_en": "Stanley Black & Decker’s US$1 Billion U.S. Manufacturing and R&D Bet Could Be a Gold Mine for 3D Printing",
+    "summary_bullets_en": [
+      "Stanley Black & Decker is investing US$1 billion into U.S. manufacturing and R&D, signaling a major industrial expansion.",
+      "The authors suggest that this investment creates significant opportunities for the 3D printing industry to provide essential tooling and production solutions.",
+      "Much like the historical Gold Rush, the greatest profits may lie in supplying the infrastructure and tools that enable this new wave of American manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Stanley Black & Decker investuje 1 miliardu dolarů do americké výroby a výzkumu, což signalizuje rozsáhlou průmyslovou expanzi.",
+      "Autoři naznačují, že tato investice vytváří významné příležitosti pro odvětví 3D tisku, které může dodávat klíčové nástroje a výrobní řešení.",
+      "Podobně jako při historické zlaté horečce, největší zisky mohou plynout z dodávání infrastruktury a nástrojů, které umožní tuto novou vlnu americké výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Stanley Black & Decker",
+      "Additive Manufacturing",
+      "Industrial Manufacturing",
+      "R&D"
+    ]
+  },
+  {
+    "title": "SRNL a 3D Systems se zaměřují na komponenty pro jadernou energetiku díky novému partnerství v oblasti AM",
+    "summary": "U.S.-based 3D printer manufacturer 3D Systems has entered a Cooperative Research and Development Agreement (CRADA) with Savannah River National Laboratory (SRNL) to advance additive manufacturing for nuclear energy, broader energy infrastructure, and national security applications.&#160; The agreement centers on SRNL&#8217;s Advanced Manufacturing Collaborative (AMC), the only national laboratory-operated facility in South Carolina located on a&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/1787841295352-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-03T11:02:47+00:00",
+    "url": "https://3dprintingindustry.com/news/srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership-254363/?utm_source=rss&utm_medium=rss&utm_campaign=srnl-and-3d-systems-target-nuclear-grade-components-with-new-am-partnership",
+    "forced_tags": [],
+    "title_en": "SRNL and 3D Systems Target Nuclear-Grade Components With New AM Partnership",
+    "summary_bullets_en": [
+      "3D Systems and Savannah River National Laboratory (SRNL) have signed a CRADA to advance additive manufacturing for the nuclear and energy sectors.",
+      "The partnership focuses on developing high-quality, nuclear-grade components to support national security and critical infrastructure.",
+      "Collaboration will take place at SRNL’s Advanced Manufacturing Collaborative (AMC) facility in South Carolina."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce 3D tiskáren 3D Systems uzavřel dohodu o výzkumu a vývoji (CRADA) s národní laboratoří Savannah River National Laboratory (SRNL) za účelem rozvoje aditivní výroby pro jadernou energetiku.",
+      "Spolupráce se zaměřuje na vývoj komponentů jaderné kvality pro potřeby energetické infrastruktury a národní bezpečnosti.",
+      "Výzkum bude probíhat v rámci zařízení Advanced Manufacturing Collaborative (AMC), které provozuje SRNL v Jižní Karolíně."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Systems",
+      "SRNL",
+      "Additive Manufacturing",
+      "Nuclear Energy"
+    ]
+  },
+  {
+    "title": "Výzkumníci zkoumají vlastnosti TPU-CF",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968518742/0/fabbaloo/default~Researchers-Investigate-TPUCF-Properties\" rel=\"nofollow\" title=\"Researchers Investigate TPU-CF Properties\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/tpu-strength-testing-cover-300x164.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have produced a carbon filled TPU filament that stays flexible while becoming dramatically stiffer and electrically conductive.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968518742/0/fabbaloo/default~Researchers-Investigate-TPUCF-Properties\" rel=\"nofollow\">Researchers Investigate TPU-CF Properties</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/tpu-strength-testing-cover-300x164.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-09-03T08:58:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968518742/0/fabbaloo/default~Researchers-Investigate-TPUCF-Properties",
+    "forced_tags": [],
+    "title_en": "Researchers Investigate TPU-CF Properties",
+    "summary_bullets_en": [
+      "Researchers have developed a new carbon-fiber-reinforced TPU filament.",
+      "The material successfully combines high flexibility with significantly increased stiffness.",
+      "The composite filament also exhibits new electrically conductive properties.",
+      "This innovation opens new possibilities for functional 3D printed parts."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli nový filament z TPU plněný uhlíkovými vlákny.",
+      "Materiál úspěšně kombinuje vysokou flexibilitu s výrazně vyšší tuhostí.",
+      "Kompozitní struna navíc vykazuje nové elektricky vodivé vlastnosti.",
+      "Tato inovace otevírá nové možnosti pro funkční 3D tištěné díly."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "TPU",
+      "Carbon Fiber",
+      "Conductive Materials",
+      "Research"
+    ]
+  },
+  {
+    "title": "Výzkumníci zkoumají vlastnosti TPU-CF",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968518457/0/fabbaloo/default~Researchers-Investigate-TPUCF-Properties\" rel=\"nofollow\" title=\"Researchers Investigate TPU-CF Properties\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/tpu-strength-testing-cover-1-300x164.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers have produced a carbon filled TPU filament that stays flexible while becoming dramatically stiffer and electrically conductive.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968518457/0/fabbaloo/default~Researchers-Investigate-TPUCF-Properties\" rel=\"nofollow\">Researchers Investigate TPU-CF Properties</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/tpu-strength-testing-cover-1-300x164.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-09-03T08:24:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968518457/0/fabbaloo/default~Researchers-Investigate-TPUCF-Properties",
+    "forced_tags": [],
+    "title_en": "Researchers Investigate TPU-CF Properties",
+    "summary_bullets_en": [
+      "Researchers have developed a new carbon-fiber-reinforced TPU filament.",
+      "The material successfully combines high flexibility with significantly increased stiffness.",
+      "The composite filament also exhibits new electrically conductive properties.",
+      "This innovation expands the potential industrial applications for flexible 3D printed parts."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvinuli nový filament z TPU plněný uhlíkovými vlákny.",
+      "Materiál úspěšně kombinuje vysokou flexibilitu s výrazně vyšší tuhostí.",
+      "Kompozitní struna navíc vykazuje nové elektricky vodivé vlastnosti.",
+      "Tato inovace rozšiřuje možnosti průmyslového využití pro flexibilní 3D tištěné díly."
+    ],
+    "tags": [
+      "Material",
+      "TPU",
+      "Carbon Fiber",
+      "3D Printing",
+      "Conductive Materials",
+      "Research"
+    ]
+  },
+  {
+    "title": "AI řízená znalostmi navrhuje pevnější a lépe tisknutelné kovové slitiny",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968518322/0/fabbaloo/default~Knowledge-Guided-AI-Designs-Stronger-More-Printable-Metal-Alloys\" rel=\"nofollow\" title=\"Knowledge Guided AI Designs Stronger, More Printable Metal Alloys\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/Knowledge-informed-graph-cover-1-300x143.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A new machine learning approach has designed metal alloys and their printing parameters at the same time.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968518322/0/fabbaloo/default~Knowledge-Guided-AI-Designs-Stronger-More-Printable-Metal-Alloys\" rel=\"nofollow\">Knowledge Guided AI Designs Stronger, More Printable Metal Alloys</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/Knowledge-informed-graph-cover-1-300x143.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-03T08:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968518322/0/fabbaloo/default~Knowledge-Guided-AI-Designs-Stronger-More-Printable-Metal-Alloys",
+    "forced_tags": [],
+    "title_en": "Knowledge Guided AI Designs Stronger, More Printable Metal Alloys",
+    "summary_bullets_en": [
+      "Researchers have developed a new machine learning approach that optimizes metal alloy composition and 3D printing parameters simultaneously.",
+      "The method uses 'knowledge-guided' AI to overcome traditional trial-and-error limitations in material science.",
+      "This innovation leads to the creation of metal alloys that are both structurally stronger and easier to process via additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Vědci vyvinuli nový přístup strojového učení, který současně optimalizuje složení kovových slitin a parametry 3D tisku.",
+      "Metoda využívá AI „řízenou znalostmi“ k překonání omezení tradičního pokusného vývoje v materiálových vědách.",
+      "Tato inovace vede k vytváření kovových slitin, které jsou strukturálně pevnější a zároveň lépe zpracovatelné pomocí aditivní výroby."
+    ],
+    "tags": [
+      "Software",
+      "Material",
+      "Artificial Intelligence",
+      "Metal 3D Printing",
+      "Additive Manufacturing",
+      "Machine Learning",
+      "Alloy Development"
+    ]
+  },
+  {
+    "title": "Finanční výsledky 3D tisku: Příjmy AML3D vzrostly o 70 % díky růstu v americkém obranném průmyslu",
+    "summary": "AML3D’s (ASX: AL3) growing U.S. defense business helped push revenue to a record for the financial year that ran from July 2025 through June 2026. The Australian metal 3D printing...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/2025-02-12-ARCEMY-ACADEMY-square-d39ed6e5ea59d3743a6b68a01b15ad6f-j06q13rgdct.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-03T07:30:06+00:00",
+    "url": "https://3dprint.com/331785/3d-printing-financials-aml3d-revenue-jumps-70-as-u-s-defense-business-grows/",
+    "forced_tags": [],
+    "title_en": "3D Printing Financials: AML3D Revenue Jumps 70% as U.S. Defense Business Grows",
+    "summary_bullets_en": [
+      "AML3D achieved record-breaking revenue for the 2025-2026 financial year.",
+      "The 70% growth was primarily driven by the company's expanding presence in the U.S. defense sector.",
+      "The Australian metal 3D printing firm continues to strengthen its international market position."
+    ],
+    "summary_bullets_cs": [
+      "Společnost AML3D dosáhla za finanční rok 2025–2026 rekordních příjmů.",
+      "K 70% růstu přispěla především rozšiřující se spolupráce v americkém obranném sektoru.",
+      "Australská firma zaměřená na 3D tisk kovů nadále posiluje svou pozici na mezinárodním trhu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "AML3D",
+      "Metal 3D Printing",
+      "Defense Industry"
+    ]
+  },
+  {
+    "title": "Evropský průzkum v neurochirurgii odhaluje přesun k internímu 3D tisku s rostoucím využitím implantátů",
+    "summary": "Researchers from University Medical Center Hamburg–Eppendorf and institutions of the German Armed Forces have identified a shift toward in-house 3D printing across European neurosurgical departments between 2020 and 2025. Survey results also show implant fabrication emerging as a clinical application, while dependence on external printing providers declined. Published in the International Journal of Bioprinting, the&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/image-3-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-03T07:06:27+00:00",
+    "url": "https://3dprintingindustry.com/news/european-neurosurgery-survey-finds-3d-printing-shifting-in-house-as-implant-use-grows-254367/?utm_source=rss&utm_medium=rss&utm_campaign=european-neurosurgery-survey-finds-3d-printing-shifting-in-house-as-implant-use-grows",
+    "forced_tags": [],
+    "title_en": "European neurosurgery survey finds 3D printing shifting in-house as implant use grows",
+    "summary_bullets_en": [
+      "A study by German researchers reveals a significant trend toward in-house 3D printing in European neurosurgery departments between 2020 and 2025.",
+      "The survey highlights that clinical use of 3D-printed implants is increasing rapidly.",
+      "Hospitals are becoming more self-sufficient, leading to a notable decline in reliance on external 3D printing service providers.",
+      "The findings were recently published in the International Journal of Bioprinting."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Univerzitní nemocnice Hamburg–Eppendorf a institucí německých ozbrojených sil identifikovali mezi lety 2020 a 2025 posun směrem k internímu 3D tisku na evropských neurochirurgických pracovištích.",
+      "Výsledky průzkumu ukazují, že výroba implantátů se stává běžnou klinickou aplikací.",
+      "Závislost na externích poskytovatelích 3D tisku v nemocnicích klesla.",
+      "Studie byla publikována v odborném časopise International Journal of Bioprinting."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Medical 3D Printing",
+      "Neurosurgery",
+      "Implants",
+      "Point-of-Care Manufacturing"
+    ]
+  },
+  {
+    "title": "Recenze PrusaSlicer 3.0: Velká proměna sliceru",
+    "summary": "Prusa Research has implemented a major update to PrusaSlicer. The 3.0 version is not some tweak; it&#8217;s a big rewrite. From the get-go, the Alpha version I tested was light-years...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/prusaslicer2-scaled.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-03T07:00:37+00:00",
+    "url": "https://3dprint.com/331710/prusaslicer-3-0-gets-a-major-overhaul/",
+    "forced_tags": [],
+    "title_en": "PrusaSlicer 3.0 Review: A Major Slicer Overhaul",
+    "summary_bullets_en": [
+      "Prusa Research has released a significant update to PrusaSlicer, moving beyond minor tweaks to a complete rewrite.",
+      "The new 3.0 version offers substantial performance improvements and architectural changes.",
+      "Early testing of the Alpha version indicates a major leap forward in software capability and user experience."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Prusa Research vydala zásadní aktualizaci softwaru PrusaSlicer, která není jen drobným vylepšením, ale kompletním přepracováním.",
+      "Verze 3.0 přináší rozsáhlé změny v architektuře a výrazné zvýšení výkonu.",
+      "Testování alfa verze ukazuje, že software udělal obrovský skok vpřed v oblasti funkcionality i uživatelského komfortu."
+    ],
+    "tags": [
+      "Software",
+      "Prusa Research",
+      "PrusaSlicer",
+      "3D Printing",
+      "Slicing Software"
+    ]
+  },
+  {
+    "title": "Japonsko využívá 3D tisk pro svou nejnovější flotilu přepadových dronů",
+    "summary": "Japan’s Acquisition, Technology, and Logistics Agency (ATLA) has signed a mass production procurement agreement with Terra Drone for interceptor drones made using 3D printers. ATLA selected the Terra B1, a rocket-launched interceptor drone, after a demonstration with Japan’s Maritime Self-Defense Forces. The tender called for drones capable of countering one-way attack platforms like the Shahed&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/Terra-B1-画像-1152x1536-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-03T06:35:00+00:00",
+    "url": "https://3dprintingindustry.com/news/japan-taps-3d-printing-for-latest-interceptor-drone-fleet-254316/?utm_source=rss&utm_medium=rss&utm_campaign=japan-taps-3d-printing-for-latest-interceptor-drone-fleet",
+    "forced_tags": [],
+    "title_en": "Japan Taps 3D Printing for Latest Interceptor Drone Fleet",
+    "summary_bullets_en": [
+      "Japan's ATLA has contracted Terra Drone to mass-produce 3D-printed interceptor drones.",
+      "The Terra B1 drone was selected following successful demonstrations with the Maritime Self-Defense Forces.",
+      "The initiative aims to counter one-way attack drones, such as the Shahed series, using advanced additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Japonská agentura ATLA podepsala smlouvu se společností Terra Drone na sériovou výrobu 3D tištěných přepadových dronů.",
+      "Model Terra B1 byl vybrán po úspěšných ukázkách pro japonské námořní síly sebeobrany.",
+      "Cílem projektu je vytvořit drony schopné čelit jednosměrným útočným platformám, jako jsou drony typu Shahed."
+    ],
+    "tags": [
+      "Hardware",
+      "Defense",
+      "3D Printing",
+      "Terra Drone",
+      "ATLA",
+      "UAV",
+      "Interceptor Drones"
+    ]
+  },
+  {
     "title": "Nová pravidla amerického námořnictva by mohla podpořit americký průmysl 3D tisku kovů",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/968507600/0/fabbaloo/default~US-Navy%e2%80%99s-New-Rules-Could-Boost-US-Metal-D-Printing-Industry\" rel=\"nofollow\" title=\"US Navy’s New Rules Could Boost US Metal 3D Printing Industry\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/us-navy-rules-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>The US Navy made a very important announcement regarding their use of 3D print technology.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968507600/0/fabbaloo/default~US-Navy%e2%80%99s-New-Rules-Could-Boost-US-Metal-D-Printing-Industry\" rel=\"nofollow\">US Navy’s New Rules Could Boost US Metal 3D Printing Industry</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/us-navy-rules-cover-300x200.jpg",
