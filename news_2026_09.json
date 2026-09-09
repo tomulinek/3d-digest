@@ -1,5 +1,348 @@
 [
   {
+    "title": "Modix Generation 5 přináší výměnu nástrojů INDX a granulový tisk pro velkoformátové 3D tiskárny",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968842613/0/fabbaloo/default~Modix-Generation-Adds-INDX-Toolchanging-and-Pellet-Extrusion-to-LargeFormat-D-Printers\" rel=\"nofollow\" title=\"Modix Generation 5 Adds INDX Toolchanging and Pellet Extrusion to Large-Format 3D Printers\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/modix-gen5-cover-300x181.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Modix announced a key upgrade to their BIG series of large-format 3D printers.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968842613/0/fabbaloo/default~Modix-Generation-Adds-INDX-Toolchanging-and-Pellet-Extrusion-to-LargeFormat-D-Printers\" rel=\"nofollow\">Modix Generation 5 Adds INDX Toolchanging and Pellet Extrusion to Large-Format 3D Printers</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/modix-gen5-cover-300x181.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-08T16:47:51+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968842613/0/fabbaloo/default~Modix-Generation-Adds-INDX-Toolchanging-and-Pellet-Extrusion-to-LargeFormat-D-Printers",
+    "forced_tags": [],
+    "title_en": "Modix Generation 5 Adds INDX Toolchanging and Pellet Extrusion to Large-Format 3D Printers",
+    "summary_bullets_en": [
+      "Modix has unveiled the Generation 5 upgrade for its BIG series of large-format 3D printers.",
+      "The new lineup introduces the INDX toolchanging system, allowing for multi-material and multi-color capabilities.",
+      "The update also integrates pellet extrusion technology, significantly increasing print speed and reducing material costs for large-scale parts."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Modix oznámila klíčovou aktualizaci své řady velkoformátových 3D tiskáren BIG na verzi Generation 5.",
+      "Novinka zavádí systém výměny nástrojů INDX, který umožňuje tisk z více materiálů nebo barev.",
+      "Aktualizace přidává technologii extruze granulátu (pellet extrusion), což výrazně zvyšuje rychlost tisku a snižuje náklady na materiál u velkých objektů."
+    ],
+    "tags": [
+      "Hardware",
+      "Modix",
+      "Large-Format 3D Printing",
+      "Pellet Extrusion",
+      "Toolchanging"
+    ]
+  },
+  {
+    "title": "Patent Lawrence Livermore navrhuje multimateriálový dvoufotonový 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968839112/0/fabbaloo/default~Lawrence-Livermore-Patent-Proposes-Multimaterial-TwoPhoton-D-Printing\" rel=\"nofollow\" title=\"Lawrence Livermore Patent Proposes Multimaterial Two-Photon 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/llnl-2pp-mult-cover-300x222.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Researchers at Lawrence Livermore National Laboratory appear to have found an unusual way to 3D print multiple materials with a two-photon system: change the light instead of changing the resin.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968839112/0/fabbaloo/default~Lawrence-Livermore-Patent-Proposes-Multimaterial-TwoPhoton-D-Printing\" rel=\"nofollow\">Lawrence Livermore Patent Proposes Multimaterial Two-Photon 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/llnl-2pp-mult-cover-300x222.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-08T15:28:23+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968839112/0/fabbaloo/default~Lawrence-Livermore-Patent-Proposes-Multimaterial-TwoPhoton-D-Printing",
+    "forced_tags": [],
+    "title_en": "Lawrence Livermore Patent Proposes Multimaterial Two-Photon 3D Printing",
+    "summary_bullets_en": [
+      "Researchers at Lawrence Livermore National Laboratory have developed a novel method for multimaterial two-photon 3D printing.",
+      "The technique achieves multimaterial capabilities by modulating the light source rather than swapping resins.",
+      "This innovation could significantly simplify the process of creating complex objects with varying material properties."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Lawrence Livermore National Laboratory vyvinuli inovativní metodu pro multimateriálový dvoufotonový 3D tisk.",
+      "Technika dosahuje práce s více materiály pomocí modulace světelného zdroje namísto fyzické výměny pryskyřic.",
+      "Tato inovace by mohla výrazně zjednodušit proces výroby komplexních objektů s různými materiálovými vlastnostmi."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Lawrence Livermore National Laboratory",
+      "Two-Photon Lithography",
+      "3D Printing Innovation"
+    ]
+  },
+  {
+    "title": "AMIS 3.5.4: malá záplata, která vyrostla ve významnou aktualizaci",
+    "summary": "AMIS 3.5.4 adds practical tools for nesting, automation and control, turning a minor patch into something bigger",
+    "image": "https://substackcdn.com/image/fetch/$s_!u-EY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71186409-366b-4762-af49-034b4304b1c4_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-09-08T14:31:24+00:00",
+    "url": "https://www.3dprintingjournal.com/p/amis-354-a-small-patch-that-grew",
+    "forced_tags": [],
+    "title_en": "AMIS 3.5.4: a small patch that grew into a significant update",
+    "summary_bullets_en": [
+      "AMIS 3.5.4 introduces advanced nesting capabilities to optimize build plate efficiency.",
+      "New automation features streamline workflows and reduce manual intervention.",
+      "Enhanced control tools provide users with greater precision over the printing process.",
+      "What began as a minor patch has evolved into a substantial update improving overall software performance."
+    ],
+    "summary_bullets_cs": [
+      "AMIS 3.5.4 přidává praktické nástroje pro nesting, automatizaci a kontrolu.",
+      "Aktualizace mění původně drobnou opravu v komplexní vylepšení softwaru."
+    ],
+    "tags": [
+      "Software",
+      "AMIS",
+      "3D Printing",
+      "Automation",
+      "Nesting",
+      "Workflow Optimization"
+    ]
+  },
+  {
+    "title": "Kalifornský zákon o 3D tiskárnách AB 2047 prošel legislativou a čeká na rozhodnutí guvernéra",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968834156/0/fabbaloo/default~California-AB-D-Printer-Bill-Passes-Legislature-Awaits-Governor%e2%80%99s-Decision\" rel=\"nofollow\" title=\"California AB 2047 3D Printer Bill Passes Legislature, Awaits Governor’s Decision\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/06/california-ab2047-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>It appears that California AB2047, the proposed law to control 3D printers, has passed the California legislature.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968834156/0/fabbaloo/default~California-AB-D-Printer-Bill-Passes-Legislature-Awaits-Governor%e2%80%99s-Decision\" rel=\"nofollow\">California AB 2047 3D Printer Bill Passes Legislature, Awaits Governor’s Decision</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/06/california-ab2047-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-08T13:42:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968834156/0/fabbaloo/default~California-AB-D-Printer-Bill-Passes-Legislature-Awaits-Governor%e2%80%99s-Decision",
+    "forced_tags": [],
+    "title_en": "California AB 2047 3D Printer Bill Passes Legislature, Awaits Governor’s Decision",
+    "summary_bullets_en": [
+      "The California AB 2047 bill, aimed at regulating 3D printers, has successfully passed through the state legislature.",
+      "The proposed legislation is now awaiting a final decision from the Governor of California.",
+      "This bill represents a significant development in the ongoing discussion regarding the legal oversight of additive manufacturing technology."
+    ],
+    "summary_bullets_cs": [
+      "Kalifornský návrh zákona AB 2047, který se zaměřuje na regulaci 3D tiskáren, úspěšně prošel státním zákonodárným sborem.",
+      "Navrhovaná legislativa nyní čeká na konečné rozhodnutí guvernéra Kalifornie.",
+      "Tento zákon představuje významný posun v probíhající diskuzi o právním dohledu nad technologiemi aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Legislation",
+      "California",
+      "AB 2047",
+      "3D Printing Policy"
+    ]
+  },
+  {
+    "title": "Společnost Quantum Cyber dokončila instalaci 80 3D tiskáren v dronové farmě v Connecticutu",
+    "summary": "Earlier this year, Mainz Biomed, a Netherlands-incorporated company headquartered in Germany that trades on the NASDAQ, changed its name to Quantum Cyber and shifted its business focus from stool-based colorectal...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/748802263_1035224875658587_2320745476244345261_n.png.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-08T12:30:24+00:00",
+    "url": "https://3dprint.com/331830/quantum-cyber-completes-installation-of-80-3d-printers-at-connecticut-drone-farm/",
+    "forced_tags": [],
+    "title_en": "Quantum Cyber Completes Installation of 80 3D Printers at Connecticut Drone Farm",
+    "summary_bullets_en": [
+      "Quantum Cyber, formerly known as Mainz Biomed, has finalized the installation of 80 3D printers at its new drone production facility in Connecticut.",
+      "The company has undergone a major strategic pivot, moving away from its original focus on colorectal cancer diagnostics to the drone manufacturing sector.",
+      "This expansion marks a significant shift for the NASDAQ-listed firm as it scales its additive manufacturing capabilities for unmanned aerial vehicles."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Quantum Cyber, dříve známá jako Mainz Biomed, dokončila instalaci 80 3D tiskáren ve svém novém závodě na výrobu dronů v Connecticutu.",
+      "Firma prošla zásadní strategickou změnou, kdy opustila své původní zaměření na diagnostiku kolorektálního karcinomu a přeorientovala se na výrobu dronů.",
+      "Tato expanze představuje pro společnost obchodovanou na burze NASDAQ významný posun v rozšiřování kapacit aditivní výroby pro bezpilotní letouny."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Quantum Cyber",
+      "3D Printing",
+      "Drones",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Frankenservis, část 1: Vytiskni duhu",
+    "summary": "So far, most service bureaus and manufacturing companies stick to what they know. Not only for OCD reasons, but gleaming lines of identical LPBF machines are also arrayed on impossibly...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/frankenservice.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-08T12:00:30+00:00",
+    "url": "https://3dprint.com/330583/the-frankenservice-part-1-print-the-rainbow/",
+    "forced_tags": [],
+    "title_en": "The Frankenservice Part 1: Print the Rainbow",
+    "summary_bullets_en": [
+      "Manufacturing service bureaus typically prefer uniformity by operating identical fleets of LPBF machines.",
+      "The industry often prioritizes standardized workflows to maintain strict quality control and operational efficiency.",
+      "This article explores the potential benefits and challenges of moving away from homogeneous production environments.",
+      "The 'Frankenservice' concept challenges the status quo by integrating diverse technologies into a single manufacturing ecosystem."
+    ],
+    "summary_bullets_cs": [
+      "Většina servisních středisek a výrobních firem dává přednost uniformitě a provozuje identické flotily LPBF strojů.",
+      "Průmysl se často zaměřuje na standardizované pracovní postupy pro zajištění přísné kontroly kvality a efektivity.",
+      "Článek zkoumá výhody a výzvy spojené s odklonem od homogenního výrobního prostředí.",
+      "Koncept „Frankenservisu“ zpochybňuje zavedené pořádky integrací různorodých technologií do jednoho výrobního ekosystému."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "LPBF",
+      "Additive Manufacturing",
+      "Industrial 3D Printing",
+      "Manufacturing Strategy"
+    ]
+  },
+  {
+    "title": "Skrytá výhoda Home Depotu mění zkušenosti dodavatelů v produktové inovace",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968822579/0/fabbaloo/default~Home-Depots-Hidden-Advantage-is-Turning-Contractor-Expertise-into-Product-Innovation\" rel=\"nofollow\" title=\"Home Depot&#8217;s Hidden Advantage is Turning Contractor Expertise into Product Innovation\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_303-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Nimra Shakoor explain how Home Depot's expanding Pro ecosystem, strategic acquisitions, and emerging manufacturing technologies could reshape the future of construction products.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968822579/0/fabbaloo/default~Home-Depots-Hidden-Advantage-is-Turning-Contractor-Expertise-into-Product-Innovation\" rel=\"nofollow\">Home Depot&#8217;s Hidden Advantage is Turning Contractor Expertise into Product Innovation</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_303-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-08T11:29:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968822579/0/fabbaloo/default~Home-Depots-Hidden-Advantage-is-Turning-Contractor-Expertise-into-Product-Innovation",
+    "forced_tags": [],
+    "title_en": "Home Depot’s Hidden Advantage is Turning Contractor Expertise into Product Innovation",
+    "summary_bullets_en": [
+      "Home Depot is leveraging its extensive Pro ecosystem to bridge the gap between professional contractor feedback and product development.",
+      "Strategic acquisitions and the integration of advanced manufacturing technologies are positioning the retailer to disrupt traditional construction supply chains.",
+      "The company is transforming from a simple hardware supplier into an innovation hub that utilizes real-world field expertise to create better building solutions."
+    ],
+    "summary_bullets_cs": [
+      "Home Depot využívá svůj rozsáhlý ekosystém pro profesionály k propojení zpětné vazby od dodavatelů s vývojem nových produktů.",
+      "Strategické akvizice a integrace pokročilých výrobních technologií umožňují řetězci měnit podobu tradičních dodavatelských řetězců ve stavebnictví.",
+      "Společnost se transformuje z běžného prodejce stavebnin na inovační centrum, které využívá praktické zkušenosti z terénu k vytváření lepších stavebních řešení."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Manufacturing",
+      "Construction",
+      "Home Depot",
+      "3D Printing",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Mohl by 3D tisk ve stavebnictví udržet lidi mimo nebezpečná staveniště?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968814512/0/fabbaloo/default~Could-Construction-D-Printing-Keep-People-Out-of-Dangerous-Worksites\" rel=\"nofollow\" title=\"Could Construction 3D Printing Keep People Out of Dangerous Worksites?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/3dcp-security-cover-300x245.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Construction 3D printing is usually sold on these benefits: fewer workers, faster construction, less waste and the ability to produce unusual geometries.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968814512/0/fabbaloo/default~Could-Construction-D-Printing-Keep-People-Out-of-Dangerous-Worksites\" rel=\"nofollow\">Could Construction 3D Printing Keep People Out of Dangerous Worksites?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/3dcp-security-cover-300x245.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-08T08:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968814512/0/fabbaloo/default~Could-Construction-D-Printing-Keep-People-Out-of-Dangerous-Worksites",
+    "forced_tags": [],
+    "title_en": "Could Construction 3D Printing Keep People Out of Dangerous Worksites?",
+    "summary_bullets_en": [
+      "Construction 3D printing is traditionally promoted for its efficiency, speed, and waste reduction.",
+      "The technology offers unique design capabilities, such as creating complex geometries that are difficult to build manually.",
+      "A key emerging benefit is the potential to improve worker safety by automating hazardous construction tasks.",
+      "By replacing manual labor in dangerous environments, 3D printing could significantly reduce workplace accidents."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk ve stavebnictví je obvykle propagován díky své efektivitě, rychlosti a snížení množství odpadu.",
+      "Tato technologie nabízí unikátní konstrukční možnosti, jako je vytváření složitých geometrií, které jsou ručně obtížně realizovatelné.",
+      "Klíčovým novým přínosem je potenciál zvýšit bezpečnost pracovníků automatizací rizikových stavebních úkonů.",
+      "Nahrazením manuální práce v nebezpečném prostředí by 3D tisk mohl výrazně snížit počet pracovních úrazů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Construction 3D Printing",
+      "Automation",
+      "Workplace Safety",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "QTREX zavádí technologii AME od Nano Dimension do izraelského obranného průmyslu",
+    "summary": "A 3D printing technology that Nano Dimension sold just five months ago is now being installed inside one of Israel’s largest defense companies. QTREX Quantum (Nasdaq: QTEX) bought Nano Dimension’s...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/1788361537708.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-08T07:30:01+00:00",
+    "url": "https://3dprint.com/332201/qtrex-takes-nano-dimensions-ame-technology-into-israeli-defense/",
+    "forced_tags": [],
+    "title_en": "QTREX Takes Nano Dimension’s AME Technology Into Israeli Defense",
+    "summary_bullets_en": [
+      "QTREX Quantum has acquired Nano Dimension’s AME technology just five months after the initial sale.",
+      "The advanced 3D printing system is currently being integrated into a major Israeli defense company.",
+      "This move highlights the growing adoption of Additively Manufactured Electronics (AME) in high-stakes defense applications."
+    ],
+    "summary_bullets_cs": [
+      "Společnost QTREX Quantum získala technologii AME od Nano Dimension pouhých pět měsíců po jejím prodeji.",
+      "Pokročilý systém 3D tisku je nyní instalován v jedné z největších izraelských obranných společností.",
+      "Tento krok podtrhuje rostoucí adopci aditivně vyráběné elektroniky (AME) v klíčových obranných aplikacích."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Nano Dimension",
+      "QTREX Quantum",
+      "AME",
+      "Defense Industry",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Společnost Quantum Cyber instalovala v Connecticutu farmu s 80 3D tiskárnami pro výrobu dronů",
+    "summary": "Autonomous defense technology company Quantum Cyber has completed the purchase and physical installation of all 80 units of its 3D printing drone production farm at its roughly 50,000-square-foot manufacturing facility in Bridgeport, Connecticut. The printing farm is designed to serve as Quantum Cyber&#8217;s primary autonomous drone manufacturing line at Bridgeport, producing structural airframe components, enclosures,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/about-panel-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-08T07:23:15+00:00",
+    "url": "https://3dprintingindustry.com/news/quantum-cyber-installs-80-unit-3d-printing-drone-farm-at-connecticut-facility-254512/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-cyber-installs-80-unit-3d-printing-drone-farm-at-connecticut-facility",
+    "forced_tags": [],
+    "title_en": "Quantum Cyber Installs 80-Unit 3D Printing Drone Farm at Connecticut Facility",
+    "summary_bullets_en": [
+      "Quantum Cyber has finalized the installation of an 80-unit 3D printing farm at its 50,000-square-foot Bridgeport facility.",
+      "The facility is designed to function as the company's primary autonomous production line for drone manufacturing.",
+      "The farm will focus on producing essential drone components, including structural airframes and protective enclosures."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Quantum Cyber dokončila instalaci farmy s 80 3D tiskárnami ve svém výrobním závodě o rozloze zhruba 50 000 čtverečních stop v Bridgeportu.",
+      "Tato tisková farma bude sloužit jako hlavní autonomní výrobní linka společnosti pro produkci dronů.",
+      "Výroba se zaměří především na strukturální komponenty draků dronů a jejich kryty."
+    ],
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "3D Printing",
+      "Drones",
+      "Quantum Cyber",
+      "Autonomous Systems",
+      "Defense Technology"
+    ]
+  },
+  {
+    "title": "Tým z USC vytiskl na 3D tiskárně senzory pro MRI pro kojence za méně než 10 minut",
+    "summary": "University of Southern California (USC) researchers have developed flexible, 3D printed MRI sensors that can be custom-made for individual infants and children in under 10 minutes for about $30, producing roughly four times the image contrast of standard commercial coils in testing. Solving a Fit Problem for Small Patients MRI machines rely on coils that&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/Screenshot-2026-09-07-at-08.38.59-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-08T07:03:06+00:00",
+    "url": "https://3dprintingindustry.com/news/usc-team-3d-prints-custom-mri-sensors-for-infants-in-under-10-minutes-254504/?utm_source=rss&utm_medium=rss&utm_campaign=usc-team-3d-prints-custom-mri-sensors-for-infants-in-under-10-minutes",
+    "forced_tags": [],
+    "title_en": "USC Team 3D Prints Custom MRI Sensors for Infants in Under 10 Minutes",
+    "summary_bullets_en": [
+      "Researchers at USC created flexible, 3D-printed MRI sensors tailored specifically for infants and children.",
+      "The sensors can be produced in under 10 minutes at a low cost of approximately $4 per unit.",
+      "Testing shows these custom coils provide four times the image contrast compared to standard commercial equipment.",
+      "This innovation addresses the challenge of fitting standard, rigid MRI coils to the smaller bodies of pediatric patients."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University of Southern California (USC) vyvinuli flexibilní 3D tištěné MRI senzory přizpůsobené na míru kojencům a dětem.",
+      "Senzory lze vyrobit za méně než 10 minut při nákladech přibližně 4 dolary za kus.",
+      "Testování prokázalo, že tyto senzory poskytují čtyřikrát vyšší kontrast obrazu než běžné komerční cívky.",
+      "Tato inovace řeší problém s nekompatibilitou standardních, pevných MRI cívek s malými těly dětských pacientů."
+    ],
+    "tags": [
+      "Hardware",
+      "Medical",
+      "3D Printing",
+      "Healthcare",
+      "MRI Technology",
+      "Pediatrics",
+      "USC"
+    ]
+  },
+  {
+    "title": "Společnost Phase3D jmenovala Phillips Federal výhradním partnerem pro obranný průmysl v Severní Americe",
+    "summary": "Chicago-based 3D printing quality assurance software developer Phase3D and U.S.-based supplier of manufacturing technology and services Phillips Federal have entered a partnership naming Phillips Federal as Phase3D&#8217;s exclusive Channel Partner for the North American defense market. The agreement gives U.S. defense organizations a direct route to purchase and deploy Phase3D&#8217;s in-situ manufacturing inspection systems through&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/Crop-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-09-08T06:29:31+00:00",
+    "url": "https://3dprintingindustry.com/news/phase3d-names-phillips-federal-exclusive-defense-channel-partner-in-north-america-254501/?utm_source=rss&utm_medium=rss&utm_campaign=phase3d-names-phillips-federal-exclusive-defense-channel-partner-in-north-america",
+    "forced_tags": [],
+    "title_en": "Phase3D Names Phillips Federal Exclusive Defense Channel Partner in North America",
+    "summary_bullets_en": [
+      "Phase3D and Phillips Federal have formed a strategic partnership for the North American defense sector.",
+      "Phillips Federal becomes the exclusive channel partner for Phase3D’s in-situ quality assurance software.",
+      "The collaboration aims to streamline the deployment of advanced inspection systems for U.S. defense organizations."
+    ],
+    "summary_bullets_cs": [
+      "Vývojář softwaru pro kontrolu kvality 3D tisku Phase3D a dodavatel výrobních technologií Phillips Federal uzavřeli strategické partnerství.",
+      "Phillips Federal se stává výhradním prodejním partnerem pro severoamerický obranný trh.",
+      "Dohoda umožní americkým obranným organizacím přímý přístup k implementaci in-situ inspekčních systémů společnosti Phase3D."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Phase3D",
+      "Phillips Federal",
+      "Quality Assurance",
+      "Defense"
+    ]
+  },
+  {
     "title": "Printreon nabízí měsíční členství pro designéry 3D modelů ve stylu Patreonu",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/968777963/0/fabbaloo/default~Printreon-Offers-PatreonStyle-Monthly-Memberships-for-D-Model-Designers\" rel=\"nofollow\" title=\"Printreon Offers Patreon-Style Monthly Memberships for 3D Model Designers\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/printreon-cover-300x221.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>You’ve heard of Patreon — but now there is Printreon!</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968777963/0/fabbaloo/default~Printreon-Offers-PatreonStyle-Monthly-Memberships-for-D-Model-Designers\" rel=\"nofollow\">Printreon Offers Patreon-Style Monthly Memberships for 3D Model Designers</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/printreon-cover-300x221.jpg",
