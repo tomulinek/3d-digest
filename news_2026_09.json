@@ -1,5 +1,435 @@
 [
   {
+    "title": "Apple využívá dva odlišné procesy 3D tisku pro pant svého prvního skládacího iPhonu",
+    "summary": "Global consumer electronics company Apple announced the iPhone Duo (rumored as iPhone Ultra) yesterday, its first foldable smartphone, priced at $1,999 and scheduled to ship October 23.  The device opens to a 7.6-inch inner display and closes to a 5.4-inch outer display, with both screens sharing the same aspect ratio so content scales proportionally between&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/Apple-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-10T16:26:54+00:00",
+    "url": "https://3dprintingindustry.com/news/apple-brings-two-distinct-3d-printing-processes-to-the-hinge-of-its-first-foldable-iphone-254601/?utm_source=rss&utm_medium=rss&utm_campaign=apple-brings-two-distinct-3d-printing-processes-to-the-hinge-of-its-first-foldable-iphone",
+    "forced_tags": [],
+    "title_en": "Apple Brings Two Distinct 3D Printing Processes to the Hinge of Its First Foldable iPhone",
+    "summary_bullets_en": [
+      "Apple unveiled the iPhone Duo, its first foldable smartphone, priced at $1,999.",
+      "The device features a 7.6-inch inner display and a 5.4-inch outer display with proportional scaling.",
+      "The hinge mechanism utilizes two advanced 3D printing processes to ensure durability and precision.",
+      "The product is scheduled to begin shipping to customers on October 23."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Apple včera oznámila iPhone Duo (dříve známý jako iPhone Ultra), svůj první skládací smartphone s cenovkou 1 999 USD.",
+      "Zařízení disponuje vnitřním 7,6palcovým displejem a vnějším 5,4palcovým displejem, přičemž oba mají stejný poměr stran pro plynulé škálování obsahu.",
+      "Pant zařízení využívá pokročilé technologie 3D tisku pro zajištění vysoké odolnosti a přesnosti.",
+      "Zahájení distribuce zařízení je naplánováno na 23. října."
+    ],
+    "tags": [
+      "Hardware",
+      "Apple",
+      "iPhone Duo",
+      "3D Printing",
+      "Foldable Technology"
+    ]
+  },
+  {
+    "title": "Mohl by být PCTG připraven na průlom?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968933540/0/fabbaloo/default~Could-PCTG-Be-Ready-for-a-Breakthrough\" rel=\"nofollow\" title=\"Could PCTG Be Ready for a Breakthrough? \"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/pctg-trends-2026-300x173.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>PCTG is a wonderful 3D print material, and it just might be ready to explode in popularity.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968933540/0/fabbaloo/default~Could-PCTG-Be-Ready-for-a-Breakthrough\" rel=\"nofollow\">Could PCTG Be Ready for a Breakthrough? </a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/pctg-trends-2026-300x173.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-10T16:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968933540/0/fabbaloo/default~Could-PCTG-Be-Ready-for-a-Breakthrough",
+    "forced_tags": [],
+    "title_en": "Could PCTG Be Ready for a Breakthrough?",
+    "summary_bullets_en": [
+      "PCTG is gaining recognition as a high-performance 3D printing material.",
+      "The material offers unique properties that bridge the gap between PETG and more advanced engineering filaments.",
+      "Industry trends suggest that PCTG is poised for a significant increase in adoption and popularity."
+    ],
+    "summary_bullets_cs": [
+      "PCTG je vynikající materiál pro 3D tisk, který si získává stále větší pozornost.",
+      "Tento materiál nabízí unikátní vlastnosti, které vyplňují mezeru mezi běžným PETG a pokročilými technickými filamenty.",
+      "Aktuální trendy naznačují, že PCTG je na nejlepší cestě k výraznému nárůstu popularity v komunitě 3D tisku."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "PCTG",
+      "Filament",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Nissan si patentoval magnetické pilíře pro snadnější uvolňování resinových výtisků",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968931572/0/fabbaloo/default~Nissan-Patent-Uses-Magnetic-Pillars-To-Help-Release-Resin-Prints\" rel=\"nofollow\" title=\"Nissan Patent Uses Magnetic Pillars To Help Release Resin Prints\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/nissan-film-patent-cover-300x197.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Here’s a rather strange idea from Nissan: put tiny magnetic pillars in the bottom of a resin 3D printer vat and wiggle them around to help release each layer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968931572/0/fabbaloo/default~Nissan-Patent-Uses-Magnetic-Pillars-To-Help-Release-Resin-Prints\" rel=\"nofollow\">Nissan Patent Uses Magnetic Pillars To Help Release Resin Prints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/nissan-film-patent-cover-300x197.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-10T15:02:18+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968931572/0/fabbaloo/default~Nissan-Patent-Uses-Magnetic-Pillars-To-Help-Release-Resin-Prints",
+    "forced_tags": [],
+    "title_en": "Nissan Patent Uses Magnetic Pillars To Help Release Resin Prints",
+    "summary_bullets_en": [
+      "Nissan has filed a patent for a resin 3D printing mechanism using magnetic pillars at the bottom of the vat.",
+      "These pillars are designed to move and vibrate, helping to detach the printed layer from the vat film.",
+      "The technology aims to reduce the suction forces that often cause print failures in resin-based additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Nissan podala patent na mechanismus pro resinový 3D tisk, který využívá magnetické pilíře na dně tiskové vany.",
+      "Tyto pilíře jsou navrženy tak, aby se pohybovaly a vibrovaly, čímž pomáhají oddělit vytištěnou vrstvu od tiskové fólie.",
+      "Technologie má za cíl snížit sací síly, které u resinového tisku často způsobují selhání výtisků."
+    ],
+    "tags": [
+      "Hardware",
+      "Nissan",
+      "Resin 3D Printing",
+      "SLA",
+      "Patent",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Stratasys uvádí na trh velkoformátovou průmyslovou 3D tiskárnu F870",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968931401/0/fabbaloo/default~Stratasys-Launches-F-LargeFormat-Industrial-D-Printer\" rel=\"nofollow\" title=\"Stratasys Launches F870 Large-Format Industrial 3D Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/img_fdm_f870_front_view_door_close_galery-300x224.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Stratasys announced a new 3D printer, the F870.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968931401/0/fabbaloo/default~Stratasys-Launches-F-LargeFormat-Industrial-D-Printer\" rel=\"nofollow\">Stratasys Launches F870 Large-Format Industrial 3D Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/img_fdm_f870_front_view_door_close_galery-300x224.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-10T15:01:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968931401/0/fabbaloo/default~Stratasys-Launches-F-LargeFormat-Industrial-D-Printer",
+    "forced_tags": [],
+    "title_en": "Stratasys Launches F870 Large-Format Industrial 3D Printer",
+    "summary_bullets_en": [
+      "Stratasys has officially introduced the new F870 industrial 3D printer.",
+      "The machine is designed for large-format additive manufacturing applications.",
+      "It expands the company's existing F-series portfolio for industrial users."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Stratasys oficiálně představila novou průmyslovou 3D tiskárnu F870.",
+      "Stroj je navržen pro potřeby velkoformátové aditivní výroby.",
+      "Tato novinka rozšiřuje stávající portfolio řady F určené pro průmyslové využití."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "Industrial 3D Printing",
+      "Large-format"
+    ]
+  },
+  {
+    "title": "China Watch #7: Creality se objevuje v obchodech Lenovo, čínští investoři nadále masivně investují do kovů a Apple tiskne titanový pant",
+    "summary": "Chinese consumer 3D printing is moving off the geek shelf and into the mainstream electronics store",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/699d2c9f-15d3-43bf-931f-c671341df703_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-09-10T14:31:07+00:00",
+    "url": "https://www.3dprintingjournal.com/p/china-watch-7-creality-shows-up-in",
+    "forced_tags": [],
+    "title_en": "China Watch #7: Creality shows up in Lenovo stores, Chinese investors keep pouring money into metal, and Apple prints a titanium hinge",
+    "summary_bullets_en": [
+      "Creality is expanding its retail presence by entering mainstream Lenovo electronics stores in China.",
+      "Chinese investment firms are significantly increasing funding for metal 3D printing technologies.",
+      "Apple is reportedly utilizing 3D printing for the production of titanium hinges in its devices."
+    ],
+    "summary_bullets_cs": [
+      "Čínský spotřebitelský 3D tisk se přesouvá z regálů pro nadšence do běžných obchodů s elektronikou."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "Lenovo",
+      "Apple",
+      "Metal 3D Printing",
+      "Investment"
+    ]
+  },
+  {
+    "title": "Meltio pomáhá pěstovat rubíny uvnitř 3D tištěné platiny",
+    "summary": "At the University of the West of England (UWE Bristol), the Centre for Print Research (CFPR) is using metal 3D printing to help grow gemstones directly inside platinum structures. The...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/Bristol-university_structure.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-10T13:00:39+00:00",
+    "url": "https://3dprint.com/332241/meltio-helps-grow-rubies-inside-3d-printed-platinum/",
+    "forced_tags": [],
+    "title_en": "Meltio Helps Grow Rubies Inside 3D Printed Platinum",
+    "summary_bullets_en": [
+      "Researchers at UWE Bristol's Centre for Print Research are integrating gemstone growth directly into metal 3D printed structures.",
+      "The project utilizes Meltio’s laser metal deposition technology to create complex platinum housings.",
+      "This innovative process allows for the in-situ cultivation of rubies within the printed metal framework.",
+      "The study explores the intersection of advanced additive manufacturing and material science for jewelry and industrial applications."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Centre for Print Research (CFPR) na UWE Bristol integrují pěstování drahokamů přímo do kovových 3D tištěných struktur.",
+      "Projekt využívá technologii laserového navařování kovů od společnosti Meltio k vytvoření komplexních platinových pouzder.",
+      "Tento inovativní proces umožňuje in-situ kultivaci rubínů uvnitř vytištěného kovového rámu.",
+      "Studie zkoumá průnik pokročilé aditivní výroby a materiálových věd pro šperkařské a průmyslové využití."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Meltio",
+      "UWE Bristol",
+      "CFPR",
+      "Metal 3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Continuous Composites získala kontrakt SBIR od námořnictva na 3D tištěné drony",
+    "summary": "In a diversification effort, Continuous Composites has decided to seek work outside of the courtroom. The company that has been successful in defending its patent portfolio in composite 3D printing...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/Robot_graphic-20481152.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-10T12:30:23+00:00",
+    "url": "https://3dprint.com/331981/continuous-composites-gets-phase-ii-sbir-for-embedding-electronics-in-uavs/",
+    "forced_tags": [],
+    "title_en": "Continuous Composites Wins Navy SBIR for 3D Printed UAVs",
+    "summary_bullets_en": [
+      "Continuous Composites has secured a Small Business Innovation Research (SBIR) contract from the U.S. Navy.",
+      "The project focuses on developing advanced 3D printed Unmanned Aerial Vehicles (UAVs).",
+      "This move marks a strategic shift for the company, moving from patent litigation toward active industrial application."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Continuous Composites získala kontrakt v rámci programu SBIR od amerického námořnictva.",
+      "Projekt se zaměřuje na vývoj pokročilých 3D tištěných bezpilotních letounů (UAV).",
+      "Tento krok představuje strategický posun firmy od patentových sporů směrem k aktivnímu průmyslovému využití."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Continuous Composites",
+      "UAV",
+      "3D Printing",
+      "US Navy",
+      "SBIR"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 10. září 2026: Daňové úlevy, výzkum polymerů, mikrojehly a další",
+    "summary": "We&#8217;re starting off this week&#8217;s 3D Printing News Briefs with a little business from Axtra3D and Beehive Industries, before moving on to a scientific collaboration agreement between Roboze and a...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/M_Timm-1024x576.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-10T12:00:46+00:00",
+    "url": "https://3dprint.com/332214/3d-printing-news-briefs-9-10-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, September 10, 2026: Tax Credits, Polymer Research, Microneedles, & More",
+    "summary_bullets_en": [
+      "Axtra3D and Beehive Industries announce new business developments.",
+      "Roboze enters a strategic scientific collaboration agreement.",
+      "The industry update covers advancements in polymer research and microneedle technology.",
+      "New information regarding tax credits for 3D printing initiatives is highlighted."
+    ],
+    "summary_bullets_cs": [
+      "Týdenní přehled začíná obchodními novinkami společností Axtra3D a Beehive Industries.",
+      "Roboze uzavírá dohodu o vědecké spolupráci s novým partnerem.",
+      "Článek se věnuje pokrokům ve výzkumu polymerů a technologii mikrojehel.",
+      "Součástí přehledu jsou také informace o daňových úlevách pro oblast 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Axtra3D",
+      "Beehive Industries",
+      "Roboze"
+    ]
+  },
+  {
+    "title": "Iniciativa kvantového internetu v New Yorku v hodnotě 300 milionů USD a aditivní výroba",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968917721/0/fabbaloo/default~New-Yorks-USM-Quantum-Internet-Initiative-and-Additive-Manufacturing\" rel=\"nofollow\" title=\"New York&#8217;s US$300M Quantum Internet Initiative and Additive Manufacturing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_311-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles Goulding and Ari Willick discuss how Stony Brook's $300 million quantum investment could accelerate the growth of quantum computing and advanced manufacturing in the Northeast.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968917721/0/fabbaloo/default~New-Yorks-USM-Quantum-Internet-Initiative-and-Additive-Manufacturing\" rel=\"nofollow\">New York&#8217;s US$300M Quantum Internet Initiative and Additive Manufacturing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_311-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-10T11:26:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968917721/0/fabbaloo/default~New-Yorks-USM-Quantum-Internet-Initiative-and-Additive-Manufacturing",
+    "forced_tags": [],
+    "title_en": "New York’s US$300M Quantum Internet Initiative and Additive Manufacturing",
+    "summary_bullets_en": [
+      "Stony Brook University is spearheading a $300 million initiative to develop a robust quantum internet infrastructure.",
+      "The project aims to accelerate advancements in quantum computing and high-tech manufacturing across the Northeast region.",
+      "Additive manufacturing is expected to play a critical role in producing the specialized components required for quantum hardware."
+    ],
+    "summary_bullets_cs": [
+      "Stony Brook University vede iniciativu v hodnotě 300 milionů dolarů zaměřenou na vývoj robustní infrastruktury kvantového internetu.",
+      "Projekt má za cíl urychlit pokrok v oblasti kvantových počítačů a špičkové výroby v celém severovýchodním regionu USA.",
+      "Aditivní výroba bude hrát klíčovou roli při produkci specializovaných komponentů nezbytných pro kvantový hardware."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Quantum Computing",
+      "Additive Manufacturing",
+      "Stony Brook University",
+      "Research and Development"
+    ]
+  },
+  {
+    "title": "PrusaSlicer 3.0 Preview přichází s novou architekturou a chystaným komunitním tržištěm pluginů",
+    "summary": "Prusa Research’s PrusaSlicer 3.0 has entered public preview, releasing on September 1, 2026 15 years to the day after the first commit to Slic3r, the project PrusaSlicer was originally forked from. The release rebuilds the user interface from scratch and introduces a new project system, a reworked profile architecture, and a plugin system, which Prusa&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/8e2eb47e-multiple-beds-2-2048x1152-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-10T11:14:38+00:00",
+    "url": "https://3dprintingindustry.com/news/prusaslicer-3-0-preview-arrives-with-new-architecture-and-a-community-plugin-marketplace-on-the-way-254561/?utm_source=rss&utm_medium=rss&utm_campaign=prusaslicer-3-0-preview-arrives-with-new-architecture-and-a-community-plugin-marketplace-on-the-way",
+    "forced_tags": [],
+    "title_en": "PrusaSlicer 3.0 Preview Arrives With New Architecture and a Community Plugin Marketplace on the Way",
+    "summary_bullets_en": [
+      "PrusaSlicer 3.0 public preview launched on the 15th anniversary of the original Slic3r project.",
+      "The update features a completely rebuilt user interface and a new project management system.",
+      "A reworked profile architecture and a new plugin system have been introduced to enhance extensibility.",
+      "A community-driven plugin marketplace is currently in development."
+    ],
+    "summary_bullets_cs": [
+      "Veřejná verze PrusaSlicer 3.0 byla vydána přesně 15 let po prvním commitu projektu Slic3r.",
+      "Aktualizace přináší kompletně přepracované uživatelské rozhraní a nový systém správy projektů.",
+      "Byla implementována nová architektura profilů a systém pluginů pro lepší rozšiřitelnost.",
+      "Společnost Prusa Research pracuje na spuštění komunitního tržiště s pluginy."
+    ],
+    "tags": [
+      "Software",
+      "Prusa Research",
+      "PrusaSlicer",
+      "3D Printing",
+      "Slicing Software",
+      "Open Source"
+    ]
+  },
+  {
+    "title": "Společnost restor3d rozšiřuje personalizovanou ortopedii o digitální sadu MyFit",
+    "summary": "restor3d, a specialist in 3D printed personalized orthopedic solutions, launched MyFit by restor3d Digital Suite on September 8, 2026, a new patient engagement platform designed to give orthopedic implant patients visibility into their treatment and connect that experience to long-term clinical outcomes data. The company is making the suite available to all its surgeons with&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/MyFit_by_restor3d_Digital_Suite-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-10T10:27:59+00:00",
+    "url": "https://3dprintingindustry.com/news/restor3d-extends-personalized-orthopedics-with-myfit-digital-suite-254571/?utm_source=rss&utm_medium=rss&utm_campaign=restor3d-extends-personalized-orthopedics-with-myfit-digital-suite",
+    "forced_tags": [],
+    "title_en": "restor3d Extends Personalized Orthopedics With MyFit Digital Suite",
+    "summary_bullets_en": [
+      "restor3d launched the MyFit Digital Suite to enhance patient engagement in orthopedic implant treatments.",
+      "The platform provides patients with direct visibility into their personalized care journey.",
+      "The suite aims to bridge the gap between patient experience and long-term clinical outcomes data.",
+      "The technology is now being rolled out to all surgeons currently partnering with restor3d."
+    ],
+    "summary_bullets_cs": [
+      "Společnost restor3d spustila 8. září 2026 digitální sadu MyFit, která má zlepšit zapojení pacientů do léčby ortopedickými implantáty.",
+      "Platforma umožňuje pacientům sledovat průběh jejich léčby a poskytuje jim lepší přehled o celém procesu.",
+      "Cílem systému je propojit zkušenosti pacientů s daty o dlouhodobých klinických výsledcích.",
+      "Společnost zpřístupňuje tuto sadu všem chirurgům, kteří využívají její 3D tištěná řešení."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "restor3d",
+      "3D Printing",
+      "Orthopedics",
+      "Digital Health"
+    ]
+  },
+  {
+    "title": "Proč na tvaru PET lahve záleží při výrobě recyklovaného filamentu pro 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968910833/0/fabbaloo/default~Why-PET-Bottle-Shape-Matters-When-Making-Recycled-D-Printer-Filament\" rel=\"nofollow\" title=\"Why PET Bottle Shape Matters When Making Recycled 3D Printer Filament\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/pet-pultrusion-cover-300x155.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A study of pultrusion based recycling examines how the geometry of discarded PET bottles affects filament quality, highlighting a frequently overlooked variable for anyone turning packaging waste into material for FFF 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968910833/0/fabbaloo/default~Why-PET-Bottle-Shape-Matters-When-Making-Recycled-D-Printer-Filament\" rel=\"nofollow\">Why PET Bottle Shape Matters When Making Recycled 3D Printer Filament</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/pet-pultrusion-cover-300x155.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-10T08:20:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968910833/0/fabbaloo/default~Why-PET-Bottle-Shape-Matters-When-Making-Recycled-D-Printer-Filament",
+    "forced_tags": [],
+    "title_en": "Why PET Bottle Shape Matters When Making Recycled 3D Printer Filament",
+    "summary_bullets_en": [
+      "A new study explores how the physical geometry of PET bottles influences the quality of recycled 3D printing filament.",
+      "Pultrusion-based recycling processes are highly sensitive to the initial shape of the plastic waste.",
+      "The research highlights a critical, often overlooked variable for makers converting packaging waste into usable FFF material."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie zkoumá, jak fyzická geometrie PET lahví ovlivňuje kvalitu recyklovaného filamentu pro 3D tisk.",
+      "Procesy recyklace založené na pultruzi jsou velmi citlivé na počáteční tvar plastového odpadu.",
+      "Výzkum upozorňuje na kritickou a často přehlíženou proměnnou pro každého, kdo přeměňuje obalový odpad na materiál pro FFF 3D tisk."
+    ],
+    "tags": [
+      "Material",
+      "Recycling",
+      "PET",
+      "3D Printing",
+      "Sustainability",
+      "Pultrusion",
+      "Filament"
+    ]
+  },
+  {
+    "title": "Společnost Arridex rozšiřuje svou síť 3D tisku do Ghany",
+    "summary": "Nigeria-based Arridex has deep experience in oil and gas additive manufacturing. Previously known as RusselSmith, the firm has in-house metal and polymer additive technology. The company is making 3D printed...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/Ghana_Node_Team_3.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-10T07:00:01+00:00",
+    "url": "https://3dprint.com/331872/arridex-expands-3d-printing-network-to-ghana/",
+    "forced_tags": [],
+    "title_en": "Arridex Expands 3D Printing Network to Ghana",
+    "summary_bullets_en": [
+      "Nigeria-based Arridex, formerly known as RusselSmith, is expanding its 3D printing operations into Ghana.",
+      "The company specializes in additive manufacturing solutions tailored for the oil and gas industry.",
+      "Arridex maintains internal capabilities for both metal and polymer 3D printing technologies."
+    ],
+    "summary_bullets_cs": [
+      "Nigerijská společnost Arridex, dříve známá jako RusselSmith, rozšiřuje své aktivity v oblasti 3D tisku do Ghany.",
+      "Firma se specializuje na řešení aditivní výroby určená pro ropný a plynárenský průmysl.",
+      "Společnost disponuje vlastními technologiemi pro 3D tisk z kovů i polymerů."
+    ],
+    "tags": [
+      "Services",
+      "Hardware",
+      "Additive Manufacturing",
+      "Arridex",
+      "Oil and Gas",
+      "Metal 3D Printing",
+      "Polymer 3D Printing"
+    ]
+  },
+  {
+    "title": "Vídeňští vědci snížili spotřebu betonu o dvě třetiny díky 3D tisku",
+    "summary": "Austria-based university FH Campus Wien has completed a five-year research project demonstrating that concrete components can be 3D printed using up to two-thirds less material than conventional construction, without sacrificing load-bearing capacity. The project, called C3PO, Concrete! 3D Printed Objects, ran from August 1, 2021, to July 31, 2026, and was funded by the City&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/©HochschuleCampusWien-Schedl_3DBetondruck_SoSe_2025-26_060-2-1280x854-1-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-09-10T06:41:51+00:00",
+    "url": "https://3dprintingindustry.com/news/vienna-researchers-cut-concrete-use-by-two-thirds-with-3d-printing-254580/?utm_source=rss&utm_medium=rss&utm_campaign=vienna-researchers-cut-concrete-use-by-two-thirds-with-3d-printing",
+    "forced_tags": [],
+    "title_en": "Vienna Researchers Cut Concrete Use by Two-Thirds With 3D Printing",
+    "summary_bullets_en": [
+      "Researchers at FH Campus Wien completed a five-year project called C3PO focused on sustainable 3D concrete printing.",
+      "The study successfully demonstrated that 3D printed components can reduce concrete consumption by up to two-thirds.",
+      "Structural integrity and load-bearing capacity remain uncompromised despite the significant material savings.",
+      "The project was supported by the City of Vienna and concluded in July 2026."
+    ],
+    "summary_bullets_cs": [
+      "Vědci z FH Campus Wien dokončili pětiletý výzkumný projekt C3PO zaměřený na udržitelný 3D tisk z betonu.",
+      "Studie prokázala, že 3D tištěné komponenty mohou snížit spotřebu betonu až o dvě třetiny.",
+      "Navzdory výrazné úspoře materiálu zůstala nosnost a strukturální integrita prvků zachována.",
+      "Projekt byl financován městem Vídeň a byl ukončen 31. července 2026."
+    ],
+    "tags": [
+      "Material",
+      "Construction",
+      "3D Concrete Printing",
+      "Sustainability",
+      "FH Campus Wien",
+      "C3PO"
+    ]
+  },
+  {
+    "title": "Společnost Meltio uvádí na trh robotickou buňku pro průmyslový 3D tisk kovů montovanou v USA",
+    "summary": "Meltio, a developer of wire-laser metal 3D printing technology, has launched a U.S.-assembled version of its Meltio Robot Cell for industrial customers in the Americas. Assembled in the United States, the turnkey robotic Directed Energy Deposition (DED) system is intended to reduce shipping and customs delays associated with importing complete cells from Spain. Meltio is&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/image-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-10T06:14:11+00:00",
+    "url": "https://3dprintingindustry.com/news/meltio-launches-u-s-assembled-robot-cell-for-industrial-metal-3d-printing-254565/?utm_source=rss&utm_medium=rss&utm_campaign=meltio-launches-u-s-assembled-robot-cell-for-industrial-metal-3d-printing",
+    "forced_tags": [],
+    "title_en": "Meltio launches U.S.-assembled Robot Cell for industrial metal 3D printing",
+    "summary_bullets_en": [
+      "Meltio has introduced a U.S.-assembled version of its Meltio Robot Cell to better serve industrial customers in the Americas.",
+      "The move aims to eliminate logistical hurdles, such as shipping delays and customs issues, by producing the systems locally.",
+      "This turnkey Directed Energy Deposition (DED) solution is designed to streamline the adoption of metal 3D printing in the U.S. market."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Meltio představila verzi své robotické buňky Meltio Robot Cell montovanou v USA, aby lépe obsloužila průmyslové zákazníky na americkém kontinentu.",
+      "Cílem tohoto kroku je eliminovat logistické překážky, jako jsou zpoždění v dopravě a celní problémy, díky lokální výrobě systémů.",
+      "Toto komplexní řešení pro nanášení kovů pomocí laseru (DED) má za úkol zefektivnit zavádění 3D tisku kovů na americkém trhu."
+    ],
+    "tags": [
+      "Hardware",
+      "Meltio",
+      "Metal 3D Printing",
+      "DED",
+      "Robotics",
+      "Industrial Manufacturing"
+    ]
+  },
+  {
     "title": "3D tiskárna pro děti Ugee Funbox jde do prodeje",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/968887274/0/fabbaloo/default~Ugee-Funbox-D-Printer-for-Kids-Goes-on-Sale\" rel=\"nofollow\" title=\"Ugee Funbox 3D Printer for Kids Goes on Sale\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/ugee-funbox-sale-cover-300x188.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Remember the Funbox 3D printer? It’s now available for purchase.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968887274/0/fabbaloo/default~Ugee-Funbox-D-Printer-for-Kids-Goes-on-Sale\" rel=\"nofollow\">Ugee Funbox 3D Printer for Kids Goes on Sale</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/ugee-funbox-sale-cover-300x188.jpg",
