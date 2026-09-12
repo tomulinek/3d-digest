@@ -1,5 +1,262 @@
 [
   {
+    "title": "Západní report #7: WAAM v BMW, Freemelt získává velkou zakázku a Stratasys uvádí novou 3D tiskárnu (ale to už víte)",
+    "summary": "Other than that - it was a surprisingly quiet week...",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/4ba95454-c19a-4189-9f61-fd36432db023_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-09-11T16:30:15+00:00",
+    "url": "https://www.3dprintingjournal.com/p/western-report-7-waam-at-bmw-freemelt",
+    "forced_tags": [],
+    "title_en": "Western Report #7: WAAM at BMW, Freemelt lands a major order, and Stratasys launches a new 3D printer (but you already know that)",
+    "summary_bullets_en": [
+      "BMW is integrating Wire Arc Additive Manufacturing (WAAM) technology into its production processes.",
+      "Freemelt has secured a significant new order for its metal 3D printing systems.",
+      "Stratasys has officially launched a new 3D printer model to its portfolio.",
+      "The industry experienced a relatively quiet week overall."
+    ],
+    "summary_bullets_cs": [
+      "BMW integruje technologii WAAM (navařování kovů) do svých výrobních procesů.",
+      "Společnost Freemelt získala významnou objednávku na své systémy pro 3D tisk kovů.",
+      "Stratasys oficiálně uvedl na trh nový model 3D tiskárny.",
+      "Kromě těchto událostí byl tento týden v oboru 3D tisku překvapivě klidný."
+    ],
+    "tags": [
+      "Hardware",
+      "WAAM",
+      "BMW",
+      "Freemelt",
+      "Stratasys"
+    ]
+  },
+  {
+    "title": "Společnost 3DEVO uvádí na trh Filament Maker X10 pro automatizovanou výrobu filamentů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968979536/0/fabbaloo/default~DEVO-Launches-Filament-Maker-X-for-Automated-Filament-Production\" rel=\"nofollow\" title=\"3DEVO Launches Filament Maker X10 for Automated Filament Production\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/FMX10-HERO.png-300x240.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>3DEVO has quietly launched what seems to be a compact filament production system.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968979536/0/fabbaloo/default~DEVO-Launches-Filament-Maker-X-for-Automated-Filament-Production\" rel=\"nofollow\">3DEVO Launches Filament Maker X10 for Automated Filament Production</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/FMX10-HERO.png-300x240.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-11T16:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968979536/0/fabbaloo/default~DEVO-Launches-Filament-Maker-X-for-Automated-Filament-Production",
+    "forced_tags": [],
+    "title_en": "3DEVO Launches Filament Maker X10 for Automated Filament Production",
+    "summary_bullets_en": [
+      "3DEVO has introduced the Filament Maker X10, a new compact system for automated filament production.",
+      "The device is designed to streamline the creation of custom 3D printing materials.",
+      "This launch marks a quiet expansion of 3DEVO's portfolio in the desktop filament manufacturing space."
+    ],
+    "summary_bullets_cs": [
+      "Společnost 3DEVO tiše uvedla na trh kompaktní systém pro automatizovanou výrobu tiskových strun.",
+      "Zařízení je navrženo tak, aby zefektivnilo proces výroby vlastních materiálů pro 3D tisk.",
+      "Tento produkt rozšiřuje portfolio společnosti 3DEVO v oblasti stolních výrobních linek na filamenty."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3DEVO",
+      "Filament Production",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Proč výrobci 3D tiskáren, jako je Meltio, přesouvají výrobu do USA",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968977640/0/fabbaloo/default~Why-D-Printer-Manufacturers-Like-Meltio-Are-Moving-Production-to-the-US\" rel=\"nofollow\" title=\"Why 3D Printer Manufacturers Like Meltio Are Moving Production to the US\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/meltio-usa-cell-cover.jpg-300x198.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Some 3D printer providers are setting up manufacturing operations in the US, but is this a good approach?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968977640/0/fabbaloo/default~Why-D-Printer-Manufacturers-Like-Meltio-Are-Moving-Production-to-the-US\" rel=\"nofollow\">Why 3D Printer Manufacturers Like Meltio Are Moving Production to the US</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/meltio-usa-cell-cover.jpg-300x198.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-11T15:16:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968977640/0/fabbaloo/default~Why-D-Printer-Manufacturers-Like-Meltio-Are-Moving-Production-to-the-US",
+    "forced_tags": [],
+    "title_en": "Why 3D Printer Manufacturers Like Meltio Are Moving Production to the US",
+    "summary_bullets_en": [
+      "3D printer manufacturers are increasingly shifting their production facilities to the United States.",
+      "The trend is exemplified by companies like Meltio, which are localizing manufacturing to better serve the North American market.",
+      "This strategic move raises questions about the long-term benefits and economic viability of domestic production for global 3D printing firms."
+    ],
+    "summary_bullets_cs": [
+      "Výrobci 3D tiskáren stále častěji přesouvají své výrobní kapacity do Spojených států.",
+      "Tento trend reprezentují společnosti jako Meltio, které lokalizují výrobu, aby lépe obsloužily severoamerický trh.",
+      "Tento strategický krok vyvolává otázky ohledně dlouhodobých přínosů a ekonomické životaschopnosti domácí výroby pro globální firmy v oboru 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Meltio",
+      "Supply Chain",
+      "Industry Trends"
+    ]
+  },
+  {
+    "title": "Patent společnosti Miltenyi by mohl výrazně zvětšit dvoubarevný volumetrický tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968977643/0/fabbaloo/default~Miltenyi-Patent-Could-Make-TwoColor-Volumetric-Printing-Much-Larger\" rel=\"nofollow\" title=\"Miltenyi Patent Could Make Two-Color Volumetric Printing Much Larger\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/MILTENYI-dual-color-patent-cover-300x159.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Here’s an interesting approach to volumetric 3D printing: instead of focusing light into a tiny point, stretch it into a thin sheet and sweep that sheet across the print.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968977643/0/fabbaloo/default~Miltenyi-Patent-Could-Make-TwoColor-Volumetric-Printing-Much-Larger\" rel=\"nofollow\">Miltenyi Patent Could Make Two-Color Volumetric Printing Much Larger</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/MILTENYI-dual-color-patent-cover-300x159.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-11T15:15:25+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968977643/0/fabbaloo/default~Miltenyi-Patent-Could-Make-TwoColor-Volumetric-Printing-Much-Larger",
+    "forced_tags": [],
+    "title_en": "Miltenyi Patent Could Make Two-Color Volumetric Printing Much Larger",
+    "summary_bullets_en": [
+      "A new patent from Miltenyi introduces an innovative approach to volumetric 3D printing.",
+      "Instead of focusing light into a single point, the system uses a thin sheet of light.",
+      "This light sheet is swept across the printing volume, potentially enabling larger print sizes.",
+      "The technology specifically explores the potential for two-color volumetric manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Nový patent společnosti Miltenyi představuje inovativní přístup k volumetrickému 3D tisku.",
+      "Namísto zaostření světla do jediného bodu využívá systém tenkou světelnou rovinu (sheet).",
+      "Tato světelná rovina prochází celým objemem tisku, což by mohlo umožnit tisk větších objektů.",
+      "Technologie se konkrétně zaměřuje na možnosti dvoubarevné volumetrické výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Volumetric Printing",
+      "Miltenyi",
+      "3D Printing Innovation",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Zastavený projekt 3D tištěné rezidence ve Windsoru ukazuje rizika 3DCP",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968973374/0/fabbaloo/default~Stalled-Windsor-D-Printed-Residence-Project-Demonstrates-DPC-Risks\" rel=\"nofollow\" title=\"Stalled Windsor 3D Printed Residence Project Demonstrates 3DPC Risks\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/windsor-3dcp-stall-cover-300x157.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A major 3DCP project appears to have failed, and the cause is a bit mysterious.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968973374/0/fabbaloo/default~Stalled-Windsor-D-Printed-Residence-Project-Demonstrates-DPC-Risks\" rel=\"nofollow\">Stalled Windsor 3D Printed Residence Project Demonstrates 3DPC Risks</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/windsor-3dcp-stall-cover-300x157.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-11T13:58:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968973374/0/fabbaloo/default~Stalled-Windsor-D-Printed-Residence-Project-Demonstrates-DPC-Risks",
+    "forced_tags": [],
+    "title_en": "Stalled Windsor 3D Printed Residence Project Demonstrates 3DPC Risks",
+    "summary_bullets_en": [
+      "A significant 3D construction printing (3DCP) project in Windsor has come to a halt.",
+      "The exact reasons behind the project's failure remain unclear and mysterious.",
+      "This incident serves as a cautionary example of the inherent risks and challenges currently facing the 3DCP industry."
+    ],
+    "summary_bullets_cs": [
+      "Významný projekt 3D stavebního tisku (3DCP) ve Windsoru byl zastaven.",
+      "Přesné příčiny selhání projektu zůstávají nejasné a obestřené tajemstvím.",
+      "Tento incident slouží jako varovný příklad rizik a výzev, kterým v současnosti čelí odvětví 3D stavebního tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Construction Printing",
+      "3DCP",
+      "Construction",
+      "Windsor",
+      "Project Management"
+    ]
+  },
+  {
+    "title": "3D tištěný kryt pantu od Applu a inaugurace éry Ternuse",
+    "summary": "Marc Andreessen notwithstanding, it turns out that hardware is, in fact, eating the world. Perhaps after being starved for so long, the hardware side of tech innovation is now overcompensating,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/apple-iphone-duo-colors-1536864-1024x576.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-11T12:30:08+00:00",
+    "url": "https://3dprint.com/332349/apples-3d-printed-hinge-cover-the-inauguration-of-the-ternus-era/",
+    "forced_tags": [],
+    "title_en": "Apple’s 3D Printed Hinge Cover & the Inauguration of the Ternus Era",
+    "summary_bullets_en": [
+      "Apple is increasingly integrating 3D printing into its manufacturing processes, exemplified by the new hinge cover for the latest MacBook Pro.",
+      "The shift highlights a broader trend where hardware innovation is reclaiming its central role in the tech industry.",
+      "John Ternus is emerging as a key figure, signaling a new strategic direction for Apple's hardware development.",
+      "The adoption of additive manufacturing suggests a move toward more agile and efficient production cycles for high-end consumer electronics."
+    ],
+    "summary_bullets_cs": [
+      "Apple stále více integruje 3D tisk do svých výrobních procesů, což dokládá nový kryt pantu u nejnovějšího MacBooku Pro.",
+      "Tento posun zdůrazňuje širší trend, kdy hardwarové inovace znovu získávají svou ústřední roli v technologickém průmyslu.",
+      "John Ternus se stává klíčovou postavou, což signalizuje nový strategický směr ve vývoji hardwaru společnosti Apple.",
+      "Využití aditivní výroby naznačuje přechod k agilnějším a efektivnějším výrobním cyklům u špičkové spotřební elektroniky."
+    ],
+    "tags": [
+      "Hardware",
+      "Apple",
+      "3D Printing",
+      "Manufacturing",
+      "John Ternus",
+      "Consumer Electronics"
+    ]
+  },
+  {
+    "title": "Společnost VMP s obratem 51 milionů dolarů se chce stát předním výrobcem kovových prášků pro aditivní výrobu",
+    "summary": "Chinese powder producers have traditionally had little impact on the additive manufacturing market. Typically, they offer low-cost powders without much in the way of settings or application support. But China&#8217;s...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/image8-1024x768.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-11T12:00:44+00:00",
+    "url": "https://3dprint.com/331447/51-million-revenue-vmp-wants-to-become-a-leading-additive-manufacturing-metal-powder-producer/",
+    "forced_tags": [],
+    "title_en": "$51 Million Revenue VMP Wants to Become a Leading Additive Manufacturing Metal Powder Producer",
+    "summary_bullets_en": [
+      "VMP, a Chinese metal powder manufacturer, is aiming to transition from a low-cost supplier to a global leader in the additive manufacturing industry.",
+      "The company is shifting its strategy by investing in application support and optimized printing parameters rather than just competing on price.",
+      "With $51 million in revenue, VMP is challenging the traditional perception that Chinese powder producers lack the technical depth required for high-end industrial applications."
+    ],
+    "summary_bullets_cs": [
+      "Čínští výrobci prášků měli dosud na trh aditivní výroby minimální vliv, protože se zaměřovali pouze na nízkou cenu bez technické podpory.",
+      "Společnost VMP se snaží změnit tento trend a transformovat se z levného dodavatele na globálního lídra v oboru.",
+      "Firma s obratem 51 milionů dolarů nyní investuje do vývoje tiskových parametrů a aplikační podpory, aby konkurovala zavedeným světovým hráčům."
+    ],
+    "tags": [
+      "Material",
+      "Additive Manufacturing",
+      "Metal Powder",
+      "VMP",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Hyundai instaluje nové velkoformátové 3D tiskárny pro výrobu automobilových dílů v plné velikosti",
+    "summary": "South Korean automotive giant Hyundai’s Namyang R&#38;D Center is now running two VX1000 HSS polymer 3D printers from German equipment maker ExOne Global Holdings. The machines use a High Speed Sintering process in which an infrared-absorbing ink is deposited selectively onto PA12 powder and fused layer by layer through a sintering emitter. At 1,000 x&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/result_VX1000-HSS-Hyundai-setup-before-shipment1--150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-11T11:05:27+00:00",
+    "url": "https://3dprintingindustry.com/news/hyundai-installs-new-large-format-3d-printers-for-full-scale-automotive-parts-254607/?utm_source=rss&utm_medium=rss&utm_campaign=hyundai-installs-new-large-format-3d-printers-for-full-scale-automotive-parts",
+    "forced_tags": [],
+    "title_en": "Hyundai Installs New Large-Format 3D Printers for Full-Scale Automotive Parts",
+    "summary_bullets_en": [
+      "Hyundai has integrated two ExOne VX1000 HSS 3D printers into its Namyang R&D Center.",
+      "The machines utilize High Speed Sintering (HSS) technology to process PA12 polymer powder.",
+      "This implementation allows for the production of large-scale automotive components with high efficiency."
+    ],
+    "summary_bullets_cs": [
+      "Jihokorejský automobilový gigant Hyundai zprovoznil ve svém výzkumném a vývojovém centru Namyang dvě 3D tiskárny VX1000 HSS od německého výrobce ExOne Global Holdings.",
+      "Stroje využívají proces vysokorychlostního spékání (HSS), při kterém se na prášek PA12 selektivně nanáší inkoust pohlcující infračervené záření a následně dochází k vrstvenému spékání.",
+      "Tato technologie umožňuje efektivní výrobu rozměrných automobilových komponentů."
+    ],
+    "tags": [
+      "Hardware",
+      "Hyundai",
+      "ExOne",
+      "HSS",
+      "Automotive",
+      "3D Printing",
+      "PA12"
+    ]
+  },
+  {
+    "title": "Proč zatím netiskneme více léků na 3D tiskárnách?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/968955716/0/fabbaloo/default~Why-Aren%e2%80%99t-We-D-Printing-More-Medicines-Yet\" rel=\"nofollow\" title=\"Why Aren’t We 3D Printing More Medicines Yet?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/pharm-barriers-cover-300x203.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A recent paper surveys advances, challenges, and future directions for pharmaceutical 3D printing, a field with clear potential for personalized dosage forms but substantial manufacturing, regulatory, and validation hurdles.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/968955716/0/fabbaloo/default~Why-Aren%e2%80%99t-We-D-Printing-More-Medicines-Yet\" rel=\"nofollow\">Why Aren’t We 3D Printing More Medicines Yet?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/pharm-barriers-cover-300x203.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-11T08:23:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/968955716/0/fabbaloo/default~Why-Aren%e2%80%99t-We-D-Printing-More-Medicines-Yet",
+    "forced_tags": [],
+    "title_en": "Why Aren’t We 3D Printing More Medicines Yet?",
+    "summary_bullets_en": [
+      "Pharmaceutical 3D printing offers significant potential for creating highly personalized dosage forms tailored to individual patient needs.",
+      "The industry faces major obstacles, including complex manufacturing scalability and the need for standardized production processes.",
+      "Strict regulatory frameworks and validation requirements remain the primary barriers to widespread clinical adoption.",
+      "Ongoing research is focused on overcoming these technical and legal hurdles to integrate additive manufacturing into mainstream pharmacy."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk v farmacii nabízí obrovský potenciál pro tvorbu personalizovaných lékových forem přizpůsobených potřebám konkrétních pacientů.",
+      "Odvětví čelí zásadním překážkám, zejména v oblasti škálovatelnosti výroby a potřeby standardizovaných výrobních procesů.",
+      "Přísné regulační rámce a požadavky na validaci zůstávají hlavními bariérami pro širší klinické využití.",
+      "Současný výzkum se zaměřuje na překonání těchto technických a legislativních překážek pro integraci aditivní výroby do běžné lékárenské praxe."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Pharmaceutical 3D Printing",
+      "Personalized Medicine",
+      "Regulatory Compliance",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Apple využívá dva odlišné procesy 3D tisku pro pant svého prvního skládacího iPhonu",
     "summary": "Global consumer electronics company Apple announced the iPhone Duo (rumored as iPhone Ultra) yesterday, its first foldable smartphone, priced at $1,999 and scheduled to ship October 23.  The device opens to a 7.6-inch inner display and closes to a 5.4-inch outer display, with both screens sharing the same aspect ratio so content scales proportionally between&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/Apple-150x100.png",
