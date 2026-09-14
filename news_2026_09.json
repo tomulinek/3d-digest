@@ -1,5 +1,96 @@
 [
   {
+    "title": "Britská charita pro nevidomé využívá 3D tisk ultrazvukových snímků pro nastávající rodiče se zrakovým postižením",
+    "summary": "The Guide Dogs for the Blind Association, more commonly known as Guide Dogs, is the UK&#8217;s top sight loss charity, working to help people with vision loss &#8220;live the life...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/GuideDogs3DBabyScans_Edit_06-e1788434515759-1024x629.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-13T12:30:48+00:00",
+    "url": "https://3dprint.com/332478/uk-charity-3d-prints-ultrasounds-for-visually-impaired-parents/",
+    "forced_tags": [],
+    "title_en": "UK Sight Loss Charity 3D Printing Ultrasounds for Visually Impaired Parents-to-Be",
+    "summary_bullets_en": [
+      "The UK charity Guide Dogs is using 3D printing technology to create tactile models of ultrasound scans.",
+      "These physical representations allow visually impaired expectant parents to 'see' their unborn babies through touch.",
+      "The initiative aims to provide a more inclusive and emotional bonding experience for parents with sight loss.",
+      "This project highlights the growing role of additive manufacturing in improving accessibility and social inclusion."
+    ],
+    "summary_bullets_cs": [
+      "Britská charita Guide Dogs využívá technologii 3D tisku k vytváření hmatových modelů ultrazvukových snímků.",
+      "Tyto fyzické modely umožňují nastávajícím rodičům se zrakovým postižením „vidět“ své nenarozené dítě prostřednictvím hmatu.",
+      "Iniciativa si klade za cíl zajistit inkluzivnější a emočně bohatší zážitek pro rodiče se ztrátou zraku.",
+      "Projekt zdůrazňuje rostoucí význam aditivní výroby při zlepšování přístupnosti a sociální inkluze."
+    ],
+    "tags": [
+      "Services",
+      "3D Printing",
+      "Healthcare",
+      "Accessibility",
+      "Assistive Technology",
+      "Guide Dogs"
+    ]
+  },
+  {
+    "title": "Kdo je největší v 3D tisku, 13. září 2026",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969050060/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-September\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, September 13, 2026\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/biggest-cover-300x171.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969050060/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-September\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, September 13, 2026</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/biggest-cover-300x171.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-13T12:00:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969050060/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-September",
+    "forced_tags": [],
+    "title_en": "Who’s The Biggest In 3D Printing, September 13, 2026",
+    "summary_bullets_en": [
+      "The article provides a recurring analysis of the market valuations for major 3D printing companies.",
+      "It tracks the financial performance and shifts in the industry over the past week.",
+      "The report serves as a regular update for investors and industry observers monitoring the sector's growth."
+    ],
+    "summary_bullets_cs": [
+      "Článek přináší pravidelný přehled tržních ocenění hlavních společností v oboru 3D tisku.",
+      "Sleduje finanční výkonnost a změny v odvětví za uplynulý týden.",
+      "Zpráva slouží jako pravidelná aktualizace pro investory a odborníky sledující vývoj trhu."
+    ],
+    "tags": [
+      "Hardware",
+      "Market Analysis",
+      "3D Printing Industry",
+      "Stock Valuation",
+      "Desktop Metal",
+      "Stratasys",
+      "3D Systems",
+      "Markforged",
+      "Velo3D"
+    ]
+  },
+  {
+    "title": "V Hyundai už si 3D tisknou celý dveřní panel v jednom kuse",
+    "summary": "Nové tiskárny jsou součástí centra, kde má firma pohromadě konstrukci dílů, polymerní i kovový tisk, dodatečné úpravy výtisků i testování.",
+    "image": "https://blog.aditivni.cz/_astro/Hyundai-dverni-panel-ExOne.vmzlxezh.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-09-12T22:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/hyundai-3d-tisk-dverni-panel/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Hyundai now 3D prints entire door panels in one piece",
+    "summary_bullets_en": [
+      "Hyundai has integrated large-scale 3D printing into its production workflow.",
+      "The new facility centralizes design, polymer and metal printing, post-processing, and testing.",
+      "The company is now capable of printing complex automotive components, such as full door panels, as a single unit."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Hyundai integrovala velkoformátový 3D tisk přímo do svého výrobního procesu.",
+      "Nové centrum sdružuje konstrukci dílů, polymerní i kovový tisk, následné úpravy a testování pod jednou střechou.",
+      "Automobilka nyní dokáže vyrábět komplexní komponenty, jako jsou celé dveřní panely, jako jeden kus."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Hyundai",
+      "Automotive",
+      "Additive Manufacturing",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Jak by automatizace výroby jednotlivých kusů mohla transformovat výrobu 3D tištěných ortopedických implantátů",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/969012791/0/fabbaloo/default~How-SinglePiece-Automation-Could-Transform-D-Printed-Orthopedic-Implant-Manufacturing\" rel=\"nofollow\" title=\"How Single-Piece Automation Could Transform 3D Printed Orthopedic Implant Manufacturing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_314-300x267.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Anthony Palumbo and Charles R. Goulding examine how automated single-piece production offers a practical blueprint for moving 3D printed orthopedic implants toward responsive, just-in-time manufacturing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969012791/0/fabbaloo/default~How-SinglePiece-Automation-Could-Transform-D-Printed-Orthopedic-Implant-Manufacturing\" rel=\"nofollow\">How Single-Piece Automation Could Transform 3D Printed Orthopedic Implant Manufacturing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_314-300x267.jpg",
