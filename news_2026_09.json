@@ -1,5 +1,495 @@
 [
   {
+    "title": "AI CAD modely se blíží 100% přesnosti v benchmarku BenchCAD",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969195626/0/fabbaloo/default~AI-CAD-Models-Approach-Accuracy-on-BenchCAD-Benchmark\" rel=\"nofollow\" title=\"AI CAD Models Approach 100% Accuracy on BenchCAD Benchmark\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/benchcad-cover-300x213.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Are we getting dangerously close to 100% accurate AI CAD?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969195626/0/fabbaloo/default~AI-CAD-Models-Approach-Accuracy-on-BenchCAD-Benchmark\" rel=\"nofollow\">AI CAD Models Approach 100% Accuracy on BenchCAD Benchmark</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/benchcad-cover-300x213.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-16T16:40:55+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969195626/0/fabbaloo/default~AI-CAD-Models-Approach-Accuracy-on-BenchCAD-Benchmark",
+    "forced_tags": [],
+    "title_en": "AI CAD Models Approach 100% Accuracy on BenchCAD Benchmark",
+    "summary_bullets_en": [
+      "AI-driven CAD generation is rapidly advancing toward near-perfect accuracy.",
+      "The BenchCAD benchmark is being used to measure the precision and reliability of these AI models.",
+      "The industry is questioning the implications of achieving 100% accuracy in automated design processes."
+    ],
+    "summary_bullets_cs": [
+      "Generování CAD modelů pomocí umělé inteligence se rychle blíží téměř dokonalé přesnosti.",
+      "Benchmark BenchCAD se využívá k měření přesnosti a spolehlivosti těchto AI modelů.",
+      "Odborníci z oboru zkoumají důsledky dosažení 100% přesnosti v automatizovaných návrhových procesech."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "CAD",
+      "BenchCAD",
+      "Generative Design",
+      "3D Modeling"
+    ]
+  },
+  {
+    "title": "Nevydaná 3D tiskárna od QIDI se objevila v dokumentech FCC",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969193124/0/fabbaloo/default~Unreleased-QIDI-D-Printer-Appears-in-FCC-Filing\" rel=\"nofollow\" title=\"Unreleased QIDI 3D Printer Appears in FCC Filing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/qidi-smart5-fcc-cover-300x178.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>QIDI seems to have another machine on deck.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969193124/0/fabbaloo/default~Unreleased-QIDI-D-Printer-Appears-in-FCC-Filing\" rel=\"nofollow\">Unreleased QIDI 3D Printer Appears in FCC Filing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/qidi-smart5-fcc-cover-300x178.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-16T15:15:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969193124/0/fabbaloo/default~Unreleased-QIDI-D-Printer-Appears-in-FCC-Filing",
+    "forced_tags": [],
+    "title_en": "Unreleased QIDI 3D Printer Appears in FCC Filing",
+    "summary_bullets_en": [
+      "A new, unannounced 3D printer from QIDI Tech has been spotted in recent FCC regulatory filings.",
+      "The filing suggests that the company is preparing to expand its product lineup with a new machine.",
+      "While specific technical details remain scarce, the FCC documentation confirms the existence of the upcoming hardware."
+    ],
+    "summary_bullets_cs": [
+      "V nedávných regulačních dokumentech FCC se objevila nová, dosud nepředstavená 3D tiskárna od společnosti QIDI Tech.",
+      "Záznam naznačuje, že firma připravuje rozšíření svého portfolia o nový model.",
+      "Ačkoliv jsou konkrétní technické specifikace zatím omezené, dokumentace FCC potvrzuje existenci připravovaného hardwaru."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "QIDI Tech",
+      "FCC",
+      "Industry News"
+    ]
+  },
+  {
+    "title": "Patent společnosti Creality navrhuje indukční ohřev pro FFF trysky",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969188390/0/fabbaloo/default~Creality-Patent-Proposes-Induction-Heating-For-FFF-Nozzles\" rel=\"nofollow\" title=\"Creality Patent Proposes Induction Heating For FFF Nozzles\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/creality-induction-nozzle-patent-cover-300x213.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A Creality patent proposes heating an FFF nozzle with electromagnetic induction instead of relying only on a conventional heater.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969188390/0/fabbaloo/default~Creality-Patent-Proposes-Induction-Heating-For-FFF-Nozzles\" rel=\"nofollow\">Creality Patent Proposes Induction Heating For FFF Nozzles</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/creality-induction-nozzle-patent-cover-300x213.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-16T13:45:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969188390/0/fabbaloo/default~Creality-Patent-Proposes-Induction-Heating-For-FFF-Nozzles",
+    "forced_tags": [],
+    "title_en": "Creality Patent Proposes Induction Heating For FFF Nozzles",
+    "summary_bullets_en": [
+      "Creality has filed a patent for an innovative FFF nozzle heating system.",
+      "The design utilizes electromagnetic induction rather than traditional resistive heating elements.",
+      "This technology could potentially offer faster and more precise temperature control for 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Creality podala patent na inovativní systém ohřevu FFF trysek.",
+      "Návrh využívá elektromagnetickou indukci namísto běžných odporových topných těles.",
+      "Tato technologie by mohla přinést rychlejší a přesnější regulaci teploty při 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "3D Printing",
+      "FFF",
+      "Innovation",
+      "Patent"
+    ]
+  },
+  {
+    "title": "Kovové 3D tiskárny pro stolní počítače začínají konečně působit jako produkty pro běžné použití",
+    "summary": "FDM 3D printing is becoming increasingly accessible, yet metal 3D printers designed for everyday desktop use remain rare on an ordinary workbench. The real challenge is not making a metal...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/IMAGE-2-SnowPod-size-comparison-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-16T13:30:57+00:00",
+    "url": "https://3dprint.com/332624/metal-3d-printers-for-the-desktop-are-finally-starting-to-feel-like-desktop-products/",
+    "forced_tags": [],
+    "title_en": "Metal 3D Printers for the Desktop Are Finally Starting to Feel Like Desktop Products",
+    "summary_bullets_en": [
+      "FDM 3D printing has achieved widespread accessibility, but metal printing remains largely absent from standard workbenches.",
+      "The primary obstacle for desktop metal printing is not just the hardware, but the complex post-processing requirements.",
+      "Newer generations of metal 3D printers are finally evolving to offer a more user-friendly, desktop-integrated experience.",
+      "The industry is shifting focus toward making metal additive manufacturing practical for everyday professional use."
+    ],
+    "summary_bullets_cs": [
+      "FDM 3D tisk se stává stále dostupnějším, avšak kovové 3D tiskárny určené pro každodenní práci na běžném pracovním stole zůstávají vzácností.",
+      "Skutečnou výzvou není pouze samotný tisk kovu, ale především náročné procesy následného zpracování.",
+      "Nové generace kovových 3D tiskáren se konečně vyvíjejí směrem k uživatelsky přívětivějšímu zážitku, který odpovídá standardům stolních zařízení."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Metal 3D Printing",
+      "Desktop Manufacturing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost SWISSto12 uzavírá partnerství s Mitsubishi Electric Corporation",
+    "summary": "SWISSto12 will partner with Mitsubishi Electric Corporation. The duo has signed a memorandum of understanding (MoU) covering manufacturing payloads, RF products, and expansion in Asia. SWISSto12 will also manufacture phased-array...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/12/Manpack_Highkey_plan1-scaled-r3dfyiw9kts3qn1v0am2kd3sf7sge2y1swwit9zy38-1.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-16T13:00:14+00:00",
+    "url": "https://3dprint.com/332612/swissto12-partners-with-mitsubishi-electric-corporation/",
+    "forced_tags": [],
+    "title_en": "SWISSto12 Partners with Mitsubishi Electric Corporation",
+    "summary_bullets_en": [
+      "SWISSto12 and Mitsubishi Electric have signed a memorandum of understanding to collaborate on space technology.",
+      "The partnership focuses on the manufacturing of satellite payloads and advanced RF products.",
+      "The companies aim to expand their market presence within the Asian region.",
+      "SWISSto12 will specifically contribute its expertise in manufacturing phased-array antennas."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti SWISSto12 a Mitsubishi Electric podepsaly memorandum o porozumění týkající se spolupráce v oblasti vesmírných technologií.",
+      "Partnerství se zaměřuje na výrobu satelitních nákladů a pokročilých vysokofrekvenčních (RF) produktů.",
+      "Cílem spolupráce je posílení přítomnosti obou firem na asijském trhu.",
+      "SWISSto12 bude v rámci partnerství zajišťovat výrobu fázovaných anténních polí."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "SWISSto12",
+      "Mitsubishi Electric",
+      "Aerospace",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Společnost Impossible Objects uzavřela investiční kolo Series B v hodnotě 40 milionů dolarů",
+    "summary": "The Pentagon, along with deep-pocketed collaborators in the private sector, is urgently coordinating the buildup of all the elements necessary for a domestic US drone supply chain. Even so, those...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/CBAM25_ISO-User_2024.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-16T12:30:26+00:00",
+    "url": "https://3dprint.com/332587/impossible-objects-closes-40m-series-b/",
+    "forced_tags": [],
+    "title_en": "Impossible Objects Closes $40M Series B",
+    "summary_bullets_en": [
+      "Impossible Objects has successfully secured $40 million in Series B funding.",
+      "The investment comes amid a strategic push by the Pentagon to strengthen the domestic US drone supply chain.",
+      "The company's proprietary composite-based additive manufacturing technology is seen as a key asset for defense-related production.",
+      "This capital injection will help scale operations to meet the growing demand for localized industrial manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Impossible Objects úspěšně získala 40 milionů dolarů v investičním kole Series B.",
+      "Investice přichází v době, kdy se Pentagon snaží posílit domácí dodavatelský řetězec pro výrobu dronů v USA.",
+      "Vlastní technologie aditivní výroby na bázi kompozitů je považována za klíčový prvek pro obranný průmysl.",
+      "Tento kapitál umožní společnosti rozšířit provoz a uspokojit rostoucí poptávku po lokalizované průmyslové výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Impossible Objects",
+      "3D Printing",
+      "Defense",
+      "Supply Chain",
+      "Investment"
+    ]
+  },
+  {
+    "title": "Příležitost pro 3D tisk v oblasti bezpilotních pozemních vozidel (UGV)",
+    "summary": "In 2024, IperionX partnered with fastener firm Vegas Fasteners to jointly make fasteners for the US Army Ground Vehicle Systems Center (GVSC). That DEVCOM component has been hit by funding...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/08/isv-13.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-16T12:00:01+00:00",
+    "url": "https://3dprint.com/331577/the-3d-printing-opportunity-in-ugvs/",
+    "forced_tags": [],
+    "title_en": "The 3D Printing Opportunity in UGVs",
+    "summary_bullets_en": [
+      "IperionX and Vegas Fasteners have partnered to produce 3D-printed fasteners for the US Army's Ground Vehicle Systems Center.",
+      "The initiative aims to support the development of Unmanned Ground Vehicles (UGVs) through advanced manufacturing.",
+      "The project faces potential challenges due to funding constraints currently impacting the DEVCOM Ground Vehicle Systems Center."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti IperionX a Vegas Fasteners uzavřely partnerství za účelem výroby 3D tištěných spojovacích prvků pro středisko pozemních vozidel americké armády (GVSC).",
+      "Iniciativa se zaměřuje na podporu vývoje bezpilotních pozemních vozidel (UGV) prostřednictvím pokročilých výrobních technologií.",
+      "Projekt čelí nejistotě kvůli rozpočtovým škrtům, které aktuálně ovlivňují činnost střediska DEVCOM GVSC."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "IperionX",
+      "Vegas Fasteners",
+      "US Army",
+      "GVSC",
+      "UGV"
+    ]
+  },
+  {
+    "title": "Od digitálního návrhu k fyzickému vyjádření: Aliencell a CHITUBOX představují E1",
+    "summary": "As digital fabrication tools continue to evolve, creators are redefining what it means to “finish” a piece of work. For many users, creation no longer ends with modeling, slicing, and previewing on a screen. It continues in the real world through fabrication, personalization, and expression. For years, CHITUBOX has focused on 3D printing software, helping&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/6-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-16T09:07:53+00:00",
+    "url": "https://3dprintingindustry.com/news/from-digital-design-to-physical-expression-aliencell-and-chitubox-introduce-e1-254706/?utm_source=rss&utm_medium=rss&utm_campaign=from-digital-design-to-physical-expression-aliencell-and-chitubox-introduce-e1",
+    "forced_tags": [],
+    "title_en": "From Digital Design to Physical Expression: Aliencell and CHITUBOX Introduce E1",
+    "summary_bullets_en": [
+      "Aliencell and CHITUBOX have partnered to launch the E1, a new solution bridging digital design and physical fabrication.",
+      "The collaboration aims to streamline the transition from screen-based modeling to high-quality real-world output.",
+      "This initiative reflects the evolving nature of 3D printing, where software and hardware integration is key to creative expression."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti Aliencell a CHITUBOX spojily síly při uvedení nového řešení E1, které propojuje digitální design s fyzickou výrobou.",
+      "Cílem spolupráce je zjednodušit přechod od modelování na obrazovce k vysoce kvalitním fyzickým výtiskům.",
+      "Tato iniciativa odráží vývoj v oblasti 3D tisku, kde je integrace softwaru a hardwaru klíčová pro kreativní tvorbu."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Aliencell",
+      "CHITUBOX",
+      "3D Printing",
+      "Digital Fabrication"
+    ]
+  },
+  {
+    "title": "AEVEX Aerospace a Divergent Technologies spojují síly pro zrychlení výroby autonomních dronů",
+    "summary": "U.S. defense technology company AEVEX Aerospace and Divergent Technologies announced a strategic collaboration to pair AEVEX&#8217;s operational experience in fielded unmanned aircraft with Divergent&#8217;s digital manufacturing platform, aiming to compress the timeline between concept and deployment for next-generation autonomous systems. The two companies are structuring the partnership around complementary strengths. AEVEX has delivered thousands of&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/1788357770709-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-16T09:07:06+00:00",
+    "url": "https://3dprintingindustry.com/news/aevex-aerospace-and-divergent-technologies-team-up-to-speed-autonomous-drone-production-254650/?utm_source=rss&utm_medium=rss&utm_campaign=aevex-aerospace-and-divergent-technologies-team-up-to-speed-autonomous-drone-production",
+    "forced_tags": [],
+    "title_en": "AEVEX Aerospace and Divergent Technologies Team Up to Speed Autonomous Drone Production",
+    "summary_bullets_en": [
+      "AEVEX Aerospace and Divergent Technologies have formed a strategic partnership to accelerate the development of autonomous drone systems.",
+      "The collaboration combines AEVEX's extensive operational expertise in unmanned aircraft with Divergent's advanced digital manufacturing platform.",
+      "The primary goal is to significantly reduce the time required to move from initial concept to full-scale deployment of next-generation defense technology."
+    ],
+    "summary_bullets_cs": [
+      "Americká technologická společnost AEVEX Aerospace a Divergent Technologies oznámily strategickou spolupráci zaměřenou na urychlení vývoje autonomních dronů.",
+      "Partnerství propojuje provozní zkušenosti společnosti AEVEX v oblasti bezpilotních letounů s digitální výrobní platformou společnosti Divergent.",
+      "Cílem je výrazně zkrátit časový úsek mezi návrhem konceptu a nasazením systémů nové generace do praxe."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "AEVEX Aerospace",
+      "Divergent Technologies",
+      "Autonomous Systems",
+      "Defense Technology",
+      "Digital Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Fronius uvádí na trh integrovanou Additive Cell pro automatizovanou výrobu metodou WAAM",
+    "summary": "Fronius, an Austrian welding technology and automation company, has launched the Fronius Additive Cell, a turnkey Wire Arc Additive Manufacturing (WAAM) system combining welding hardware, robotic automation and additive-specific software. Designed for industrial metal 3D printing, the system integrates the company’s CMT Additive PRO welding process with Fronius iWave hardware, Polaris cell control and its&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/image-12-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-16T09:06:46+00:00",
+    "url": "https://3dprintingindustry.com/news/fronius-launches-integrated-additive-cell-for-automated-waam-production-254641/?utm_source=rss&utm_medium=rss&utm_campaign=fronius-launches-integrated-additive-cell-for-automated-waam-production",
+    "forced_tags": [],
+    "title_en": "Fronius launches integrated Additive Cell for automated WAAM production",
+    "summary_bullets_en": [
+      "Fronius introduced the Additive Cell, a turnkey solution for industrial Wire Arc Additive Manufacturing (WAAM).",
+      "The system combines advanced welding hardware, robotic automation, and specialized additive software.",
+      "Key components include the CMT Additive PRO process, iWave welding technology, and the Polaris cell control system."
+    ],
+    "summary_bullets_cs": [
+      "Rakouská společnost Fronius představila Additive Cell, komplexní řešení na klíč pro aditivní výrobu kovů metodou WAAM (Wire Arc Additive Manufacturing).",
+      "Systém propojuje špičkové svařovací technologie, robotickou automatizaci a software určený přímo pro aditivní procesy.",
+      "Technologie využívá svařovací proces CMT Additive PRO, hardware Fronius iWave a řídicí systém Polaris pro zajištění vysoké kvality průmyslového 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Fronius",
+      "WAAM",
+      "Robotics",
+      "Metal 3D Printing"
+    ]
+  },
+  {
+    "title": "Společnost AML3D vykázala první pololetní zisk v historii, tržby za fiskální rok 2026 vzrostly o 70 %",
+    "summary": "Australian metal 3D printing company AML3D Limited has recorded its first-ever half-year profit, booking EBITDA of $608,000 for the six months to 30 June 2026, as the company closed out a financial year in which revenue climbed 70% to a record $12.5 million. The manufacturer, whose ARCEMY systems use its patented Wire Additive Manufacturing (WAM)&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/06/2026-06-19-AL3-FIRST-ARCEMY-SYSTEMS-OPERATIONAL-US-MILITARY-SHIPBUILDER-1536x960-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-16T09:06:01+00:00",
+    "url": "https://3dprintingindustry.com/news/aml3d-posts-first-ever-half-year-profit-as-fy26-revenue-jumps-70-254653/?utm_source=rss&utm_medium=rss&utm_campaign=aml3d-posts-first-ever-half-year-profit-as-fy26-revenue-jumps-70",
+    "forced_tags": [],
+    "title_en": "AML3D Posts First-Ever Half-Year Profit as FY26 Revenue Jumps 70%",
+    "summary_bullets_en": [
+      "AML3D achieved its first-ever half-year profit with an EBITDA of $608,000.",
+      "The company reported a record annual revenue of $12.5 million, marking a 70% increase.",
+      "Growth is driven by the adoption of their patented Wire Additive Manufacturing (WAM) technology and ARCEMY systems."
+    ],
+    "summary_bullets_cs": [
+      "Australská společnost AML3D dosáhla svého prvního pololetního zisku v historii s EBITDA ve výši 608 000 dolarů.",
+      "Firma uzavřela fiskální rok s rekordními tržbami 12,5 milionu dolarů, což představuje meziroční nárůst o 70 %.",
+      "Úspěch výrobce je poháněn především nasazením patentované technologie Wire Additive Manufacturing (WAM) v systémech ARCEMY."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "AML3D",
+      "WAM",
+      "Additive Manufacturing",
+      "Financial Results"
+    ]
+  },
+  {
+    "title": "Modix Generation 5 přináší do série BIG výměnu nástrojů, peletovou extruzi a šikmý tisk",
+    "summary": "Large-format 3D printer manufacturer Modix has announced Generation 5, a new electronics platform rolling out across its BIG series of large-format 3D printers. The upgrade moves Modix machines to the Duet 3 control platform with CANBUS distributed electronics, providing capacity for more than 20 axes and drivers. According to the company, the additional control capacity&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/image-13-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-16T09:05:55+00:00",
+    "url": "https://3dprintingindustry.com/news/modix-generation-5-brings-tool-changing-pellet-extrusion-and-angled-printing-to-big-series-254656/?utm_source=rss&utm_medium=rss&utm_campaign=modix-generation-5-brings-tool-changing-pellet-extrusion-and-angled-printing-to-big-series",
+    "forced_tags": [],
+    "title_en": "Modix Generation 5 brings tool changing, pellet extrusion and angled printing to BIG series",
+    "summary_bullets_en": [
+      "Modix has launched its Generation 5 platform, upgrading the BIG series printers to the advanced Duet 3 control system.",
+      "The new architecture utilizes CANBUS technology, supporting over 20 axes and drivers for complex operations.",
+      "Key feature additions include multi-tool changing capabilities, pellet extrusion support, and angled printing functionality.",
+      "This electronics overhaul significantly expands the customization and industrial potential of Modix's large-format machines."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce velkoformátových 3D tiskáren Modix oznámil platformu Generation 5, která modernizuje elektroniku celé série BIG.",
+      "Upgrade přechází na řídicí systém Duet 3 s distribuovanou elektronikou CANBUS, což umožňuje ovládat více než 20 os a driverů.",
+      "Nová platforma otevírá možnosti pro pokročilé funkce, jako je automatická výměna nástrojů, tisk z pelet a tisk pod úhlem.",
+      "Díky navýšené kapacitě řízení se stroje Modix stávají flexibilnějšími pro náročné průmyslové aplikace."
+    ],
+    "tags": [
+      "Hardware",
+      "Modix",
+      "3D Printing",
+      "Large-format 3D printing",
+      "Duet 3",
+      "Industrial 3D printing"
+    ]
+  },
+  {
+    "title": "Společnost Shoulder Innovations uzavřela partnerství s ALM Ortho pro výrobu titanových implantátů na míru pro komplexní operace ramen",
+    "summary": "Shoulder Innovations, Inc. (NYSE: SI), a company focused on transforming the shoulder surgical care market, has entered into an exclusive collaboration with ALM Ortho, Inc., a manufacturer of titanium orthopedic implants produced through additive manufacturing (AM).&#160; The partnership introduces a patient-specific implant designed for severe shoulder deformity and other complex revision cases that currently lack&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/Shoulder-Innovations-news-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-16T09:05:23+00:00",
+    "url": "https://3dprintingindustry.com/news/shoulder-innovations-partners-with-alm-ortho-on-bespoke-titanium-implants-for-complex-shoulder-cases-254696/?utm_source=rss&utm_medium=rss&utm_campaign=shoulder-innovations-partners-with-alm-ortho-on-bespoke-titanium-implants-for-complex-shoulder-cases",
+    "forced_tags": [],
+    "title_en": "Shoulder Innovations Partners with ALM Ortho on Bespoke Titanium Implants for Complex Shoulder Cases",
+    "summary_bullets_en": [
+      "Shoulder Innovations has formed an exclusive partnership with ALM Ortho to develop patient-specific titanium implants.",
+      "The collaboration focuses on addressing complex shoulder deformities and revision surgeries that currently lack standard solutions.",
+      "The implants are manufactured using advanced additive manufacturing (3D printing) technology.",
+      "This initiative aims to improve surgical outcomes for patients with severe orthopedic conditions."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Shoulder Innovations navázala exkluzivní spolupráci s výrobcem ALM Ortho za účelem vývoje titanových implantátů na míru.",
+      "Partnerství se zaměřuje na řešení závažných deformit ramen a komplexních revizních operací, pro které dosud neexistovala standardní řešení.",
+      "Implantáty jsou vyráběny pomocí pokročilých technologií aditivní výroby (3D tisku)."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Medical",
+      "Titanium",
+      "Additive Manufacturing",
+      "Shoulder Innovations",
+      "ALM Ortho"
+    ]
+  },
+  {
+    "title": "Společnost Skyrora snížila hmotnost raketového motoru o 44 % díky 3D tištěné titanové součástce",
+    "summary": "UK launch company Skyrora has finished hot-fire testing a 3.5kN low Earth orbit engine built with a titanium-coated component developed through the European Union-funded MADE-3D program. The test campaign, carried out at Skyrora&#8217;s facility in Midlothian, Scotland, closes out the company&#8217;s work within the Horizon Europe-backed MADE-3D consortium, which brought together research organizations and industrial&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/115264-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-16T09:05:12+00:00",
+    "url": "https://3dprintingindustry.com/news/skyrora-cuts-rocket-engine-mass-44-with-titanium-3d-printed-part-254702/?utm_source=rss&utm_medium=rss&utm_campaign=skyrora-cuts-rocket-engine-mass-44-with-titanium-3d-printed-part",
+    "forced_tags": [],
+    "title_en": "Skyrora Cuts Rocket Engine Mass 44% with Titanium 3D Printed Part",
+    "summary_bullets_en": [
+      "Skyrora successfully completed hot-fire testing of a 3.5kN rocket engine featuring a 3D-printed titanium component.",
+      "The new part design achieved a significant 44% reduction in engine mass compared to traditional manufacturing methods.",
+      "The project was developed under the EU-funded MADE-3D program, involving a consortium of research and industrial partners.",
+      "Testing took place at the company's facility in Midlothian, Scotland, marking the conclusion of their Horizon Europe-backed initiative."
+    ],
+    "summary_bullets_cs": [
+      "Britská společnost Skyrora dokončila testy raketového motoru o tahu 3,5 kN, který využívá 3D tištěnou titanovou komponentu.",
+      "Díky využití aditivní výroby v rámci programu MADE-3D se podařilo snížit hmotnost motoru o 44 %.",
+      "Testování proběhlo ve skotském Midlothianu a uzavřelo účast společnosti v konsorciu financovaném z programu Horizon Europe."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Skyrora",
+      "MADE-3D",
+      "Aerospace",
+      "Titanium",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Společnost Mosaic uvádí na trh Orion, automatizovanou platformu pro 3D tisk ortopedických pomůcek",
+    "summary": "Canadian additive manufacturing company Mosaic Manufacturing has launched Orion, a purpose-built 3D printing platform for producing custom orthotics in orthotics and prosthetics (O&#38;P) labs and clinics. The system uses a belt-based 3D printing architecture designed to move patient-specific devices through production sequentially. Automated queue management allows one patient case to follow another, enabling unattended overnight&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/image-15-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-16T09:05:02+00:00",
+    "url": "https://3dprintingindustry.com/news/mosaic-launches-orion-automated-3d-printing-platform-for-custom-orthotics-254714/?utm_source=rss&utm_medium=rss&utm_campaign=mosaic-launches-orion-automated-3d-printing-platform-for-custom-orthotics",
+    "forced_tags": [],
+    "title_en": "Mosaic launches Orion automated 3D printing platform for custom orthotics",
+    "summary_bullets_en": [
+      "Mosaic Manufacturing introduced Orion, an automated 3D printing platform tailored for the orthotics and prosthetics industry.",
+      "The system utilizes a belt-based architecture to enable continuous, sequential production of patient-specific devices.",
+      "Automated queue management supports unattended overnight manufacturing, increasing efficiency in clinics and labs."
+    ],
+    "summary_bullets_cs": [
+      "Kanadská společnost Mosaic Manufacturing představila Orion, platformu pro 3D tisk určenou přímo pro výrobu ortopedických pomůcek v laboratořích a klinikách.",
+      "Systém využívá pásovou architekturu, která umožňuje postupné a automatizované zpracování jednotlivých zakázek na míru pacientům.",
+      "Díky automatické správě fronty může systém pracovat bez obsluhy i přes noc, což výrazně zvyšuje efektivitu výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Automation",
+      "3D Printing",
+      "Orthotics",
+      "Prosthetics",
+      "Mosaic Manufacturing"
+    ]
+  },
+  {
+    "title": "Problém s kvalitou ovzduší u resinového tisku nemusí být jen uvnitř tiskárny",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969175970/0/fabbaloo/default~Resin-Printing%e2%80%99s-Air-Quality-Problem-May-Not-Be-Inside-The-Printer\" rel=\"nofollow\" title=\"Resin Printing’s Air Quality Problem May Not Be Inside The Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/safety-study-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Here’s an uncomfortable thought for resin 3D printing shops: the printer may not be the only thing worth worrying about.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969175970/0/fabbaloo/default~Resin-Printing%e2%80%99s-Air-Quality-Problem-May-Not-Be-Inside-The-Printer\" rel=\"nofollow\">Resin Printing’s Air Quality Problem May Not Be Inside The Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/safety-study-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-16T08:51:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969175970/0/fabbaloo/default~Resin-Printing%e2%80%99s-Air-Quality-Problem-May-Not-Be-Inside-The-Printer",
+    "forced_tags": [],
+    "title_en": "Resin Printing’s Air Quality Problem May Not Be Inside The Printer",
+    "summary_bullets_en": [
+      "Resin 3D printing safety concerns often focus solely on the printer itself, but this may be a narrow perspective.",
+      "New findings suggest that the surrounding environment and post-processing stages contribute significantly to air quality issues.",
+      "Users should re-evaluate their safety protocols to account for emissions beyond the printing process.",
+      "The study highlights that the entire workspace, rather than just the machine, requires proper ventilation and monitoring."
+    ],
+    "summary_bullets_cs": [
+      "Obavy o bezpečnost při 3D tisku z resinu se často zaměřují pouze na samotnou tiskárnu, což může být příliš zúžený pohled.",
+      "Nová zjištění naznačují, že k problémům s kvalitou ovzduší významně přispívá okolní prostředí a fáze následného zpracování (post-processingu).",
+      "Uživatelé by měli přehodnotit své bezpečnostní protokoly a zohlednit emise vznikající mimo samotný proces tisku.",
+      "Studie zdůrazňuje, že řádné větrání a monitorování vyžaduje celý pracovní prostor, nejen samotné zařízení."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Resin Printing",
+      "3D Printing Safety",
+      "Air Quality",
+      "Post-processing"
+    ]
+  },
+  {
+    "title": "Co 3D2GO vypovídá o růstu 3D tisku v jihovýchodní Asii",
+    "summary": "The Philippines offers an interesting case study in how 3D printing can develop in Southeast Asia, and Manila-based 3D2GO helps illustrate it. 3D printing in Southeast Asia doesn&#8217;t have to...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/Fanglei3.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-16T07:00:51+00:00",
+    "url": "https://3dprint.com/332399/what-3d2go-says-about-3d-printings-growth-in-southeast-asia/",
+    "forced_tags": [],
+    "title_en": "What 3D2GO Says About 3D Printing’s Growth in Southeast Asia",
+    "summary_bullets_en": [
+      "The Philippines serves as a key case study for the expansion of additive manufacturing in Southeast Asia.",
+      "Manila-based company 3D2GO highlights the practical application and growth potential of 3D printing in the region.",
+      "The development of 3D printing in Southeast Asia is driven by local adaptation rather than just replicating Western models."
+    ],
+    "summary_bullets_cs": [
+      "Filipíny slouží jako klíčová případová studie pro rozvoj aditivní výroby v jihovýchodní Asii.",
+      "Společnost 3D2GO se sídlem v Manile ilustruje praktické využití a růstový potenciál 3D tisku v tomto regionu.",
+      "Rozvoj 3D tisku v jihovýchodní Asii je poháněn lokální adaptací, nikoliv pouze kopírováním západních modelů."
+    ],
+    "tags": [
+      "Services",
+      "3D2GO",
+      "Southeast Asia",
+      "Additive Manufacturing",
+      "Market Trends"
+    ]
+  },
+  {
     "title": "Creality představuje 3D tiskárnu K3 se čtyřtryskovým systémem KliTek pro vícebarevný tisk",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/969153113/0/fabbaloo/default~Creality-Reveals-K-D-Printer-With-FourNozzle-KliTek-Multicolor-System\" rel=\"nofollow\" title=\"Creality Reveals K3 3D Printer With Four-Nozzle KliTek Multicolor System\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/creality-k3-announce-cover-300x146.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Creality has officially announced the K3 desktop 3D printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969153113/0/fabbaloo/default~Creality-Reveals-K-D-Printer-With-FourNozzle-KliTek-Multicolor-System\" rel=\"nofollow\">Creality Reveals K3 3D Printer With Four-Nozzle KliTek Multicolor System</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/creality-k3-announce-cover-300x146.jpg",
