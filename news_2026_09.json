@@ -1,5 +1,493 @@
 [
   {
+    "title": "Patent společnosti Shining 3D řeší problém odlepování pryskyřice",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969290387/0/fabbaloo/default~Shining-D%e2%80%99s-Patent-Takes-On-The-Resin-Peel-Problem\" rel=\"nofollow\" title=\"Shining 3D’s Patent Takes On The Resin Peel Problem\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/shining3d-peel-patent-cover-300x215.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Shining 3D has been thinking about a new way of getting each cured layer to let go in resin 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969290387/0/fabbaloo/default~Shining-D%e2%80%99s-Patent-Takes-On-The-Resin-Peel-Problem\" rel=\"nofollow\">Shining 3D’s Patent Takes On The Resin Peel Problem</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/shining3d-peel-patent-cover-300x215.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-19T03:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969290387/0/fabbaloo/default~Shining-D%e2%80%99s-Patent-Takes-On-The-Resin-Peel-Problem",
+    "forced_tags": [],
+    "title_en": "Shining 3D’s Patent Takes On The Resin Peel Problem",
+    "summary_bullets_en": [
+      "Shining 3D has filed a new patent addressing the persistent challenge of layer separation in resin 3D printing.",
+      "The technology focuses on improving the mechanism by which cured layers detach from the vat film during the printing process.",
+      "This innovation aims to increase print reliability and speed by minimizing the forces exerted during the peel phase."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Shining 3D podala nový patent, který se zaměřuje na přetrvávající problém oddělování vrstev při 3D tisku z pryskyřice.",
+      "Technologie se soustředí na vylepšení mechanismu, kterým se vytvrzená vrstva během tisku odlepuje od dna nádrže.",
+      "Tato inovace má za cíl zvýšit spolehlivost a rychlost tisku díky minimalizaci sil působících během fáze odlepování."
+    ],
+    "tags": [
+      "Hardware",
+      "Resin 3D Printing",
+      "Shining 3D",
+      "Patent",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Stratasys vyhrál patentový spor proti Bambu Lab v hodnotě 27,6 milionu dolarů",
+    "summary": "Stratasys won a $27.6 million jury verdict against Bambu Lab in one of the 3D printing industry’s biggest patent fights. A federal jury in Texas found that four Bambu Lab-related...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/10/P2S-features-5.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-18T17:58:31+00:00",
+    "url": "https://3dprint.com/333013/stratasys-wins-27-6m-in-patent-case-against-bambu-lab/",
+    "forced_tags": [],
+    "title_en": "Stratasys Wins $27.6M in Patent Case Against Bambu Lab",
+    "summary_bullets_en": [
+      "Stratasys secured a $27.6 million jury verdict against Bambu Lab in a major patent infringement lawsuit.",
+      "A Texas federal jury determined that Bambu Lab infringed on four specific patents held by Stratasys.",
+      "This ruling marks a significant legal milestone in the competitive desktop and professional 3D printing market."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Stratasys získala u soudu verdikt o odškodnění ve výši 27,6 milionu dolarů v rámci významného patentového sporu proti Bambu Lab.",
+      "Federální porota v Texasu rozhodla, že produkty společnosti Bambu Lab porušily čtyři patenty vlastněné společností Stratasys.",
+      "Toto rozhodnutí představuje zásadní právní milník v konkurenčním boji na trhu stolních a profesionálních 3D tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "Bambu Lab",
+      "Patent Law",
+      "3D Printing Industry"
+    ]
+  },
+  {
+    "title": "Elegoo chce vyřešit nejtěžší část 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969273722/0/fabbaloo/default~Elegoo-Wants-to-Solve-the-Hard-Part-of-D-Printing\" rel=\"nofollow\" title=\"Elegoo Wants to Solve the Hard Part of 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/elegoo-ai-generator-cover-300x200.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Elegoo has launched something that isn't a 3D printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969273722/0/fabbaloo/default~Elegoo-Wants-to-Solve-the-Hard-Part-of-D-Printing\" rel=\"nofollow\">Elegoo Wants to Solve the Hard Part of 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/elegoo-ai-generator-cover-300x200.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-09-18T16:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969273722/0/fabbaloo/default~Elegoo-Wants-to-Solve-the-Hard-Part-of-D-Printing",
+    "forced_tags": [],
+    "title_en": "Elegoo Wants to Solve the Hard Part of 3D Printing",
+    "summary_bullets_en": [
+      "Elegoo has officially expanded its portfolio beyond traditional 3D printer hardware.",
+      "The company is focusing on addressing the most challenging aspects of the 3D printing workflow.",
+      "This new initiative suggests a shift towards software or AI-driven solutions to simplify the user experience."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Elegoo uvedla na trh novinku, která není 3D tiskárnou.",
+      "Firma se zaměřuje na řešení nejsložitějších výzev v procesu 3D tisku.",
+      "Tento krok naznačuje posun směrem k softwarovým nebo AI nástrojům pro zjednodušení práce uživatelů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Elegoo",
+      "3D Printing",
+      "AI"
+    ]
+  },
+  {
+    "title": "Společnost Bechtle přebírá divizi 3D tisku HP od firmy Kaut-Bullinger",
+    "summary": "Bechtle Additive Manufacturing Deutschland has acquired the HP 3D printing business of Kaut-Bullinger GmbH &#38; Co. KG through an asset deal, a move that reinforces Bechtle&#8217;s position as HP&#8216;s top global partner in additive manufacturing (AM). The deal combines Bechtle with its largest competitor in the German HP 3D printing market, while also further strengthening&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/IW3WSORVCBDTBF4TGP3BC4RAQA-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-18T15:19:08+00:00",
+    "url": "https://3dprintingindustry.com/news/bechtle-absorbs-kaut-bullingers-hp-3d-printing-operations-254831/?utm_source=rss&utm_medium=rss&utm_campaign=bechtle-absorbs-kaut-bullingers-hp-3d-printing-operations",
+    "forced_tags": [],
+    "title_en": "Bechtle Absorbs Kaut-Bullinger’s HP 3D Printing Operations",
+    "summary_bullets_en": [
+      "Bechtle Additive Manufacturing Deutschland has acquired the HP 3D printing division of Kaut-Bullinger through an asset deal.",
+      "The acquisition consolidates Bechtle's status as HP's leading global partner in the additive manufacturing sector.",
+      "By merging with its primary German competitor, Bechtle significantly expands its market share and service capabilities in the HP 3D printing ecosystem."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bechtle Additive Manufacturing Deutschland získala divizi 3D tisku HP od firmy Kaut-Bullinger prostřednictvím akvizice aktiv.",
+      "Tento krok upevňuje pozici společnosti Bechtle jako globálního partnera číslo jedna pro HP v oblasti aditivní výroby.",
+      "Spojením se svým největším německým konkurentem na trhu 3D tisku HP společnost Bechtle výrazně posiluje svou tržní pozici a rozsah poskytovaných služeb."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Bechtle",
+      "Kaut-Bullinger",
+      "HP",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Patent společnosti Atlant 3D navrhuje vícekapalinový tisk na atomární úrovni",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969265199/0/fabbaloo/default~Atlant-D-Patent-Proposes-Atomic-Scale-Multi-Fluid-Printing\" rel=\"nofollow\" title=\"Atlant 3D Patent Proposes Atomic Scale Multi Fluid Printing\"><img alt=\"Exploded perspective view of the complete atomic layer process printer head, showing the printer head body, fluid channels, nozzle plate, clamps, and substrate-facing components.\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/WO2026180515-headline-189x300.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"189\" /></a><p>A printer head that dispenses three different fluids through the same tiny nozzle could bring atomic layer processing closer to a genuinely three-dimensional workflow.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969265199/0/fabbaloo/default~Atlant-D-Patent-Proposes-Atomic-Scale-Multi-Fluid-Printing\" rel=\"nofollow\">Atlant 3D Patent Proposes Atomic Scale Multi Fluid Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/WO2026180515-headline-189x300.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-18T13:45:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969265199/0/fabbaloo/default~Atlant-D-Patent-Proposes-Atomic-Scale-Multi-Fluid-Printing",
+    "forced_tags": [],
+    "title_en": "Atlant 3D Patent Proposes Atomic Scale Multi Fluid Printing",
+    "summary_bullets_en": [
+      "Atlant 3D has filed a patent for a specialized printer head capable of dispensing three different fluids through a single micro-nozzle.",
+      "The technology aims to advance atomic layer processing by enabling a more versatile, three-dimensional manufacturing workflow.",
+      "This innovation could significantly improve the precision and complexity of materials produced at the atomic scale."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Atlant 3D si nechala patentovat tiskovou hlavu, která dokáže dávkovat tři různé kapaliny skrze jedinou mikroskopickou trysku.",
+      "Tato technologie má za cíl posunout zpracování atomárních vrstev směrem ke skutečně trojrozměrnému výrobnímu procesu.",
+      "Inovace by mohla výrazně zvýšit přesnost a komplexnost materiálů vyráběných na atomární úrovni."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Atlant 3D",
+      "Atomic Layer Processing",
+      "3D Printing",
+      "Micro-nozzle Technology"
+    ]
+  },
+  {
+    "title": "Nový vývoj v patentovém sporu mezi Stratasys a Bambu Lab: Stratasys vysouzeno 27,6 milionu dolarů, Bambu Lab se brání",
+    "summary": "A US jury has awarded Stratasys approximately $27.6 million in past damages after finding that Bambu Lab infringed four 3D printing patents. The verdict followed a week-long trial in the US District Court for the Eastern District of Texas, Marshall Division. According to a statement issued by Stratasys, the jury found that all four patents&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2024/09/bambu-vs-Stratasys-43-aspect-ratio-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-18T13:34:18+00:00",
+    "url": "https://3dprintingindustry.com/news/new-update-in-stratasys-v-bambu-lab-patent-infringement-action-254833/?utm_source=rss&utm_medium=rss&utm_campaign=new-update-in-stratasys-v-bambu-lab-patent-infringement-action",
+    "forced_tags": [],
+    "title_en": "New Update in Stratasys v Bambu Lab Patent Infringement Action Lawsuit: Stratasys Awarded $27.6 million in Damages, Bambu Lab Disputes",
+    "summary_bullets_en": [
+      "A US jury ordered Bambu Lab to pay $27.6 million in damages to Stratasys for infringing four 3D printing patents.",
+      "The verdict was reached following a week-long trial held in the US District Court for the Eastern District of Texas.",
+      "Stratasys confirmed the jury's decision, while Bambu Lab has expressed its intention to dispute the ruling."
+    ],
+    "summary_bullets_cs": [
+      "Americká porota nařídila společnosti Bambu Lab zaplatit odškodné ve výši 27,6 milionu dolarů za porušení čtyř patentů v oblasti 3D tisku.",
+      "Rozsudek padl po týdenním soudním procesu u okresního soudu pro východní obvod Texasu.",
+      "Společnost Stratasys potvrdila rozhodnutí poroty, zatímco Bambu Lab vyjádřila nesouhlas a hodlá se proti verdiktu bránit."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "Bambu Lab",
+      "Patent Law",
+      "3D Printing Industry"
+    ]
+  },
+  {
+    "title": "Pozvánka na TCT Shenzhen 2026: Co více než 80 doprovodných akcí odhaluje o čínském trhu s 3D tiskem",
+    "summary": "Exhibitor lists tell you who is investing in floor space. Conference programs can tell you something different: what the market is ready to talk about. That makes TCT Shenzhen 2026...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/SZ--1024x576.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-18T13:00:20+00:00",
+    "url": "https://3dprint.com/332920/tct-shenzhen-2026-preview-what-80-side-events-reveal-about-chinas-am-market/",
+    "forced_tags": [],
+    "title_en": "TCT Shenzhen 2026 Preview: What 80+ Side Events Reveal About China’s AM Market",
+    "summary_bullets_en": [
+      "TCT Shenzhen 2026 shifts focus from mere exhibitor presence to the strategic topics driving the Chinese additive manufacturing market.",
+      "The extensive program of over 80 side events serves as a barometer for current industry trends and technological priorities.",
+      "Analyzing conference agendas provides deeper insights into market readiness and innovation focus compared to traditional floor space investments."
+    ],
+    "summary_bullets_cs": [
+      "TCT Shenzhen 2026 přesouvá pozornost od pouhé účasti vystavovatelů ke strategickým tématům, která hýbou čínským trhem aditivní výroby.",
+      "Rozsáhlý program čítající přes 80 doprovodných akcí slouží jako ukazatel aktuálních průmyslových trendů a technologických priorit.",
+      "Analýza konferenčních agend poskytuje hlubší vhled do připravenosti trhu a zaměření na inovace v porovnání s investicemi do výstavní plochy."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Additive Manufacturing",
+      "TCT Shenzhen",
+      "China Market"
+    ]
+  },
+  {
+    "title": "IperionX se připravuje na rozšíření výroby titanového prášku",
+    "summary": "If critical minerals processing were easy, then countries other than China would still be good at it. Amongst all industries, miners and processors of critical minerals face extraordinary opposition in...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/Iperion-HAMR.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-18T12:30:37+00:00",
+    "url": "https://3dprint.com/332901/iperionx-prepares-to-scale-its-titanium-powder-production/",
+    "forced_tags": [],
+    "title_en": "IperionX Prepares to Scale Its Titanium Powder Production",
+    "summary_bullets_en": [
+      "IperionX is scaling up its titanium powder production to address the global reliance on Chinese mineral processing.",
+      "The company faces significant industry challenges, including complex regulatory environments and high operational barriers.",
+      "The initiative aims to secure a sustainable and domestic supply chain for critical minerals used in advanced manufacturing.",
+      "By expanding capacity, IperionX seeks to become a key player in providing high-quality titanium for the 3D printing sector."
+    ],
+    "summary_bullets_cs": [
+      "Společnost IperionX navyšuje produkci titanového prášku, aby snížila globální závislost na čínském zpracování nerostných surovin.",
+      "Firma čelí značným překážkám v oboru, včetně složitého regulačního prostředí a vysokých nároků na provoz.",
+      "Cílem iniciativy je zajistit udržitelný a lokální dodavatelský řetězec kritických minerálů pro pokročilou výrobu.",
+      "Rozšířením kapacity chce IperionX posílit svou pozici klíčového dodavatele vysoce kvalitního titanu pro odvětví 3D tisku."
+    ],
+    "tags": [
+      "Material",
+      "IperionX",
+      "Titanium",
+      "Supply Chain",
+      "Critical Minerals"
+    ]
+  },
+  {
+    "title": "Western Report #8: další novinka od Backflip AI, velká investice pro Impossible Objects a smutná série loučení",
+    "summary": "Evolve and Objex are shutting down, Beamit emerges from court-ordered liquidation, and a lot of movement on the employment front",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/d070b791-9acf-4d30-a65f-ad71ff4a183f_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-09-18T12:04:05+00:00",
+    "url": "https://www.3dprintingjournal.com/p/western-report-8-another-new-release",
+    "forced_tags": [],
+    "title_en": "Western Report #8: another new release from Backflip AI, a big round for Impossible Objects, and a sad series of farewells",
+    "summary_bullets_en": [
+      "Backflip AI continues its momentum with a new software release.",
+      "Impossible Objects secures a significant new round of funding.",
+      "The industry faces consolidation as Evolve and Objex announce closures.",
+      "Beamit successfully exits court-ordered liquidation amid broader workforce shifts."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti Evolve a Objex ukončují svou činnost.",
+      "Firma Beamit se vrací na trh po nucené likvidaci.",
+      "V odvětví 3D tisku dochází k výrazným pohybům na pracovním trhu."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Backflip AI",
+      "Impossible Objects",
+      "Evolve",
+      "Objex",
+      "Beamit"
+    ]
+  },
+  {
+    "title": "PrusaSlicer 3.0 přestavuje své základy pro vícehlavý tisk a pluginy",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969258122/0/fabbaloo/default~PrusaSlicer-Rebuilds-Its-Foundations-for-MultiTool-Printing-and-Plugins\" rel=\"nofollow\" title=\"PrusaSlicer 3.0 Rebuilds Its Foundations for Multi-Tool Printing and Plugins\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/prusaslicer30-preview-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prusa Research has released the first public preview of PrusaSlicer 3.0, and this one goes a lot deeper than just moving buttons around.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969258122/0/fabbaloo/default~PrusaSlicer-Rebuilds-Its-Foundations-for-MultiTool-Printing-and-Plugins\" rel=\"nofollow\">PrusaSlicer 3.0 Rebuilds Its Foundations for Multi-Tool Printing and Plugins</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/prusaslicer30-preview-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-18T11:13:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969258122/0/fabbaloo/default~PrusaSlicer-Rebuilds-Its-Foundations-for-MultiTool-Printing-and-Plugins",
+    "forced_tags": [],
+    "title_en": "PrusaSlicer 3.0 Rebuilds Its Foundations for Multi-Tool Printing and Plugins",
+    "summary_bullets_en": [
+      "Prusa Research has launched the first public preview of PrusaSlicer 3.0.",
+      "The update focuses on a major architectural overhaul rather than just interface tweaks.",
+      "Key improvements include native support for multi-tool printing systems.",
+      "The new version introduces a plugin architecture to extend the software's functionality."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Prusa Research vydala první veřejnou verzi PrusaSlicer 3.0.",
+      "Aktualizace se zaměřuje na zásadní přestavbu architektury, nikoliv pouze na drobné úpravy rozhraní.",
+      "Klíčová vylepšení zahrnují nativní podporu pro systémy s více tiskovými hlavami.",
+      "Nová verze přináší architekturu pluginů, která umožní rozšiřovat funkce softwaru."
+    ],
+    "tags": [
+      "Software",
+      "Prusa Research",
+      "PrusaSlicer",
+      "3D Printing",
+      "Multi-tool printing",
+      "Plugins"
+    ]
+  },
+  {
+    "title": "Společnost ugee uvádí na trh kreslicí tablet pro děti s podporou AI",
+    "summary": "Shenzhen-based digital creativity brand ugee launched the ArtPlay Pad on September 15, 2026, a drawing tablet built for young beginner creators that converts children&#8217;s 2D sketches into 3D models with a single tap, then exports those models directly to the company&#8217;s own kid-oriented 3D printer. The device pairs professional-grade pressure-sensitive pen technology with an AI-powered&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/20260910220102EDT_image_2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-18T10:03:00+00:00",
+    "url": "https://3dprintingindustry.com/news/ugee-launches-ai-powered-drawing-tablet-for-children-254782/?utm_source=rss&utm_medium=rss&utm_campaign=ugee-launches-ai-powered-drawing-tablet-for-children",
+    "forced_tags": [],
+    "title_en": "ugee Launches AI-Powered Drawing Tablet for Children",
+    "summary_bullets_en": [
+      "Ugee released the ArtPlay Pad, a drawing tablet designed for young beginners.",
+      "The device uses AI to instantly convert 2D children's sketches into 3D models.",
+      "Integrated software allows for direct export to the company's dedicated 3D printer.",
+      "The tablet combines professional pressure-sensitive pen technology with child-friendly features."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ugee uvedla 15. září 2026 na trh ArtPlay Pad, kreslicí tablet určený pro mladé začínající tvůrce.",
+      "Zařízení využívá umělou inteligenci k převodu dětských 2D skic na 3D modely jediným klepnutím.",
+      "Modely lze následně přímo exportovat do firemní 3D tiskárny určené pro děti.",
+      "Tablet kombinuje profesionální technologii pera citlivého na tlak s funkcemi přizpůsobenými dětským uživatelům."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "ugee",
+      "ArtPlay Pad",
+      "3D Printing",
+      "AI",
+      "EdTech"
+    ]
+  },
+  {
+    "title": "Dokáže upravené HDPE konečně spolupracovat s FFF 3D tiskárnami?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969253361/0/fabbaloo/default~Can-Modified-HDPE-Finally-Behave-Itself-On-An-FFF-D-Printer\" rel=\"nofollow\" title=\"Can Modified HDPE Finally Behave Itself On An FFF 3D Printer?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/hdpe-coupliing-cover-300x190.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>HDPE ought to be a very useful 3D printing material.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969253361/0/fabbaloo/default~Can-Modified-HDPE-Finally-Behave-Itself-On-An-FFF-D-Printer\" rel=\"nofollow\">Can Modified HDPE Finally Behave Itself On An FFF 3D Printer?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/hdpe-coupliing-cover-300x190.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-18T08:06:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969253361/0/fabbaloo/default~Can-Modified-HDPE-Finally-Behave-Itself-On-An-FFF-D-Printer",
+    "forced_tags": [],
+    "title_en": "Can Modified HDPE Finally Behave Itself On An FFF 3D Printer?",
+    "summary_bullets_en": [
+      "HDPE is highly desirable for 3D printing due to its durability and chemical resistance, but it has historically been difficult to print.",
+      "The material suffers from extreme warping and poor bed adhesion, making it notoriously unstable for standard FFF processes.",
+      "New modifications to HDPE formulations aim to solve these challenges, potentially making the material viable for mainstream desktop 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "HDPE je pro 3D tisk velmi žádaným materiálem díky své odolnosti a chemické stálosti, ale v minulosti bylo velmi obtížné s ním pracovat.",
+      "Materiál trpí extrémním kroucením a špatnou přilnavostí k podložce, což z něj činí notoricky nestabilní volbu pro běžné FFF procesy.",
+      "Nové úpravy složení HDPE se snaží tyto problémy vyřešit a potenciálně tak zpřístupnit tento materiál pro běžný stolní 3D tisk."
+    ],
+    "tags": [
+      "Material",
+      "FFF",
+      "HDPE",
+      "3D Printing",
+      "Filament"
+    ]
+  },
+  {
+    "title": "Miniaturní Blatten: 3D tištěný terén testuje pohyb skalních lavin",
+    "summary": "Researchers at the WSL Institute for Snow and Avalanche Research (SLF) and ETH Zurich have built a 3D printed physical replica of the terrain around Blatten, the Swiss village nearly destroyed by a rock avalanche in 2025, to study how mixtures of rock, ice and water move across real landscapes. The model, assembled at a&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/csm_Flume_Experiment_Screenshot_adc3e820f0-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-18T07:39:14+00:00",
+    "url": "https://3dprintingindustry.com/news/a-miniature-blatten-3d-printed-terrain-recreates-a-deadly-avalanche-254777/?utm_source=rss&utm_medium=rss&utm_campaign=a-miniature-blatten-3d-printed-terrain-recreates-a-deadly-avalanche",
+    "forced_tags": [],
+    "title_en": "A miniature Blatten: 3D printed terrain tests how rock avalanches move",
+    "summary_bullets_en": [
+      "Researchers from SLF and ETH Zurich created a 3D printed replica of the Swiss village Blatten to analyze rock avalanche dynamics.",
+      "The model simulates the complex flow of rock, ice, and water mixtures across realistic topographical features.",
+      "This physical testing aims to improve the understanding of how natural disasters impact landscapes and infrastructure.",
+      "The project utilizes advanced additive manufacturing to bridge the gap between theoretical models and real-world terrain behavior."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z institutu SLF a ETH Zurich vytvořili 3D tištěnou repliku švýcarské vesnice Blatten, aby analyzovali dynamiku skalních lavin.",
+      "Model simuluje komplexní pohyb směsí hornin, ledu a vody v reálném terénu.",
+      "Cílem fyzického testování je lépe pochopit, jak přírodní katastrofy ovlivňují krajinu a infrastrukturu.",
+      "Projekt využívá pokročilou aditivní výrobu k propojení teoretických modelů s chováním terénu v reálných podmínkách."
+    ],
+    "tags": [
+      "Hardware",
+      "Research",
+      "3D Printing",
+      "Geology",
+      "Simulation",
+      "SLF",
+      "ETH Zurich"
+    ]
+  },
+  {
+    "title": "Bambu Lab spouští globální výzvu v 3D tisku zaměřenou na asistenční pomůcky",
+    "summary": "Bambu Lab has partnered with seven accessibility organizations to launch a global 3D printing design challenge on MakerWorld, running from September through December 2026. The contest will roll out 24 design briefs asking participants to create printable objects that solve specific, everyday problems faced by people with disabilities. The initiative marks the first time MakerWorld&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/1789525655686-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-18T07:20:13+00:00",
+    "url": "https://3dprintingindustry.com/news/bambu-lab-launches-global-3d-printing-challenge-for-assistive-devices-254787/?utm_source=rss&utm_medium=rss&utm_campaign=bambu-lab-launches-global-3d-printing-challenge-for-assistive-devices",
+    "forced_tags": [],
+    "title_en": "Bambu Lab Launches Global 3D Printing Challenge for Assistive Devices",
+    "summary_bullets_en": [
+      "Bambu Lab is partnering with seven accessibility organizations to host a global design challenge on MakerWorld.",
+      "The competition runs from September to December 2026 and features 24 specific design briefs.",
+      "Participants are tasked with creating 3D-printable solutions for everyday challenges faced by people with disabilities.",
+      "This initiative represents a significant milestone for the MakerWorld platform in promoting inclusive design."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab spojila síly se sedmi organizacemi pro přístupnost a spustila globální designovou výzvu na platformě MakerWorld.",
+      "Soutěž probíhá od září do prosince 2026 a zahrnuje 24 zadání zaměřených na řešení každodenních problémů lidí se zdravotním postižením.",
+      "Tato iniciativa představuje první případ, kdy MakerWorld pořádá takto rozsáhlou akci zaměřenou na inkluzivní design."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Bambu Lab",
+      "MakerWorld",
+      "Assistive Technology",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Ministerstvo obrany UK a společnost Alloyed vyvinuly nový proudový motor od konceptu k letu za méně než sedm měsíců",
+    "summary": "The UK Ministry of Defence (MOD) and manufacturing start-up Alloyed have taken a new turbojet engine from initial concept to a completed flight in under seven months, as part of a co-development program aimed at building a domestic, rapidly scalable propulsion capability for British defense systems. The program has already produced a family of engines&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/s300_Engine2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-18T07:02:05+00:00",
+    "url": "https://3dprintingindustry.com/news/mod-alloyed-take-new-turbojet-engine-from-concept-to-flight-in-under-seven-months-254767/?utm_source=rss&utm_medium=rss&utm_campaign=mod-alloyed-take-new-turbojet-engine-from-concept-to-flight-in-under-seven-months",
+    "forced_tags": [],
+    "title_en": "MOD, Alloyed take new turbojet engine from concept to flight in under seven months",
+    "summary_bullets_en": [
+      "The UK Ministry of Defence and Alloyed developed a new turbojet engine from concept to flight in less than seven months.",
+      "The project aims to establish a domestic, rapidly scalable propulsion manufacturing capability for British defense.",
+      "The collaboration has successfully produced a family of engines designed for high-speed, agile deployment."
+    ],
+    "summary_bullets_cs": [
+      "Britské ministerstvo obrany a startup Alloyed vyvinuly nový proudový motor od prvotního konceptu až po úspěšný let za necelých sedm měsíců.",
+      "Program je součástí iniciativy zaměřené na vybudování domácích a rychle škálovatelných kapacit pro výrobu pohonných systémů pro britskou obranu.",
+      "V rámci spolupráce již vznikla celá rodina motorů určených pro moderní obranné systémy."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Alloyed",
+      "Ministry of Defence",
+      "Aerospace",
+      "Turbojet",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Alloyed pomáhá s výrobou britského proudového motoru",
+    "summary": "The UK&#8217;s Ministry of Defense has worked with Alloyed to develop a 3D printed, UK-made turbojet engine. From idea to testing took seven months. The duo will make a family...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/470392f39bf79e895b7865a9f94fc5c2.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-18T07:00:29+00:00",
+    "url": "https://3dprint.com/332734/alloyed-helps-make-uk-made-turbojet-engine/",
+    "forced_tags": [],
+    "title_en": "Alloyed Helps Make UK Made Turbojet Engine",
+    "summary_bullets_en": [
+      "The UK Ministry of Defense partnered with Alloyed to develop a 3D printed turbojet engine.",
+      "The entire process from initial concept to successful testing was completed in just seven months.",
+      "The collaboration aims to produce a full family of these advanced engines."
+    ],
+    "summary_bullets_cs": [
+      "Britské ministerstvo obrany spolupracovalo se společností Alloyed na vývoji 3D tištěného proudového motoru.",
+      "Od prvotního nápadu až po testování uplynulo pouhých sedm měsíců.",
+      "Dvojice plánuje vytvořit celou řadu těchto motorů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Alloyed",
+      "Ministry of Defense",
+      "3D Printing",
+      "Aerospace",
+      "Turbojet"
+    ]
+  },
+  {
+    "title": "GM rozšiřuje 3D tisk od Stratasys do 20 výrobních závodů",
+    "summary": "Stratasys has announced a new showcase of its long-standing collaboration with General Motors (GM), highlighting how the automaker is using Stratasys additive manufacturing (AM) solutions across more than 20 manufacturing facilities to cut lead times and costs while improving operational performance. GM teams are using Stratasys FDM AM systems to produce tooling, fixtures, jigs, factory&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/GM_Thumbnail_-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-18T06:34:53+00:00",
+    "url": "https://3dprintingindustry.com/news/gm-scales-stratasys-3d-printing-across-20-manufacturing-facilities-254801/?utm_source=rss&utm_medium=rss&utm_campaign=gm-scales-stratasys-3d-printing-across-20-manufacturing-facilities",
+    "forced_tags": [],
+    "title_en": "GM Scales Stratasys 3D Printing Across 20 Manufacturing Facilities",
+    "summary_bullets_en": [
+      "General Motors is expanding its use of Stratasys additive manufacturing across more than 20 production sites.",
+      "The implementation of FDM technology is significantly reducing lead times and operational costs.",
+      "GM utilizes these 3D printing systems primarily for the production of factory tooling, jigs, and fixtures.",
+      "The collaboration highlights the strategic shift toward large-scale industrial 3D printing in automotive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost General Motors rozšiřuje využití aditivní výroby od Stratasys do více než 20 svých výrobních závodů.",
+      "Implementace technologie FDM výrazně zkracuje dodací lhůty a snižuje provozní náklady.",
+      "GM využívá tyto 3D tiskové systémy především k výrobě továrních nástrojů, přípravků a montážních pomůcek.",
+      "Spolupráce podtrhuje strategický posun směrem k průmyslovému 3D tisku ve velkém měřítku v automobilovém průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "General Motors",
+      "Automotive",
+      "FDM",
+      "Industrial Manufacturing"
+    ]
+  },
+  {
     "title": "Společnost Impossible Objects získala 40 milionů USD na rozšíření vysokorychlostního 3D tisku CBAM",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/969233666/0/fabbaloo/default~Impossible-Objects-Raises-USM-to-Expand-HighSpeed-CBAM-D-Printing\" rel=\"nofollow\" title=\"Impossible Objects Raises US$40M to Expand High-Speed CBAM 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/impossible-objects-40m-raise-cover-300x198.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Impossible Objects just raised a massive US$40M.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969233666/0/fabbaloo/default~Impossible-Objects-Raises-USM-to-Expand-HighSpeed-CBAM-D-Printing\" rel=\"nofollow\">Impossible Objects Raises US$40M to Expand High-Speed CBAM 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/impossible-objects-40m-raise-cover-300x198.jpg",
