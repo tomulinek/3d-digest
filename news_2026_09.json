@@ -1,5 +1,519 @@
 [
   {
+    "title": "Bambu Lab jde za hranice 3D tisku s laserovou řezačkou R1",
+    "summary": "Bambu Lab has gone from one X1 printer, which did very well, to entry-level A1 systems, mid-market P2S systems, and larger H3D&#8217;s and more. They&#8217;ve also made systems that couple...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/R12D_on-one-bench-1024x581.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-23T06:00:19+00:00",
+    "url": "https://3dprint.com/333248/bambu-lab-moves-beyond-3d-printing-with-r1-laser-cutter/",
+    "forced_tags": [],
+    "title_en": "Bambu Lab Moves Beyond 3D Printing with R1 Laser Cutter",
+    "summary_bullets_en": [
+      "Bambu Lab is expanding its product ecosystem beyond 3D printers.",
+      "The company has grown from the flagship X1 model to a diverse range including A1, P2S, and H3D systems.",
+      "The new R1 laser cutter marks a strategic shift into new manufacturing technologies."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab rozšiřuje svůj produktový ekosystém mimo oblast 3D tiskáren.",
+      "Firma vyrostla od vlajkové lodi X1 až k široké škále systémů, jako jsou řady A1, P2S a H3D.",
+      "Nová laserová řezačka R1 představuje strategický posun směrem k novým výrobním technologiím."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing",
+      "Laser Cutting",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "OpenAI GPT-6 Astra dokáže rekonstruovat CAD geometrii z fotografií, proč je to důležité pro aditivní výrobu",
+    "summary": "OpenAI has released GPT-6 Astra, and among the benchmarks in a broad capability launch covering coding, cybersecurity, and computer use is one aimed squarely at 3D geometry: BenchCAD, which tests whether the model can reconstruct a 3D object as editable CAD code rather than a static mesh, working only from a handful of photos.&#160; While&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/Screenshot-2026-09-21-at-17.02.24-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-22T18:16:36+00:00",
+    "url": "https://3dprintingindustry.com/news/open-ai-gpt-6-astra-can-reconstruct-cad-geometry-from-photos-why-that-matters-for-additive-manufacturing-254957/?utm_source=rss&utm_medium=rss&utm_campaign=open-ai-gpt-6-astra-can-reconstruct-cad-geometry-from-photos-why-that-matters-for-additive-manufacturing",
+    "forced_tags": [],
+    "title_en": "Open AI GPT-6 Astra Can Reconstruct CAD Geometry From Photos, Why That Matters for Additive Manufacturing",
+    "summary_bullets_en": [
+      "OpenAI introduced GPT-6 Astra, featuring the BenchCAD benchmark for 3D geometry reconstruction.",
+      "The model can convert simple photographs into editable CAD code instead of static 3D meshes.",
+      "This capability represents a significant shift in how 3D models are generated for additive manufacturing workflows.",
+      "The technology streamlines the design process by automating the transition from physical objects to digital engineering files."
+    ],
+    "summary_bullets_cs": [
+      "OpenAI představila GPT-6 Astra, která obsahuje benchmark BenchCAD zaměřený na rekonstrukci 3D geometrie.",
+      "Model dokáže převést několik fotografií na editovatelný CAD kód namísto statické 3D sítě (mesh).",
+      "Tato schopnost představuje zásadní posun v tom, jak jsou 3D modely generovány pro procesy aditivní výroby.",
+      "Technologie zefektivňuje proces návrhu tím, že automatizuje přechod od fyzických objektů k digitálním inženýrským souborům."
+    ],
+    "tags": [
+      "Software",
+      "OpenAI",
+      "GPT-6 Astra",
+      "CAD",
+      "3D Modeling",
+      "Additive Manufacturing",
+      "BenchCAD"
+    ]
+  },
+  {
+    "title": "Společnost OTR spouští OTR3DLab pro výrobu prototypů terénních pneumatik v plném měřítku",
+    "summary": "OTR Engineered Solutions (OTR) has launched OTR3DLab, a service that uses large-format additive manufacturing (LFAM) to produce full-scale prototypes of off-the-road tires, wheels, tracks, and related components. The company says prototypes can be delivered in a few weeks instead of months, so customers can review a design before paying for production tooling. More broadly, the&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/otr3dlab-printer.tQeMYcaV5y-150x100.avif",
+    "source": "3D Printing Industry",
+    "published": "2026-09-22T18:15:07+00:00",
+    "url": "https://3dprintingindustry.com/news/otr-launches-otr3dlab-to-prototype-off-the-road-tires-at-full-scale-254944/?utm_source=rss&utm_medium=rss&utm_campaign=otr-launches-otr3dlab-to-prototype-off-the-road-tires-at-full-scale",
+    "forced_tags": [],
+    "title_en": "OTR Launches OTR3DLab to Prototype Off-the-Road Tires at Full Scale",
+    "summary_bullets_en": [
+      "OTR Engineered Solutions introduced OTR3DLab, utilizing large-format additive manufacturing (LFAM) for full-scale prototyping.",
+      "The service focuses on creating off-the-road tires, wheels, and tracks to accelerate the design validation process.",
+      "Prototyping time is reduced from months to just a few weeks, allowing for faster design reviews.",
+      "Customers can evaluate physical prototypes before committing to expensive production tooling."
+    ],
+    "summary_bullets_cs": [
+      "Společnost OTR Engineered Solutions spustila službu OTR3DLab, která využívá velkoformátový 3D tisk (LFAM) k výrobě prototypů terénních pneumatik, kol a pásů v plné velikosti.",
+      "Díky této technologii lze prototypy dodat během několika týdnů namísto měsíců, což zákazníkům umožňuje posoudit návrh ještě před investicí do výrobních forem."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "LFAM",
+      "Additive Manufacturing",
+      "OTR Engineered Solutions",
+      "Prototyping",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Snapmaker a Phaetus uvádějí na trh vysokoprůtokový hot end Liber pro 3D tiskárnu U1",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969490256/0/fabbaloo/default~Snapmaker-and-Phaetus-Launch-Liber-HighFlow-Hot-End-for-the-U-D-Printer\" rel=\"nofollow\" title=\"Snapmaker and Phaetus Launch Liber High-Flow Hot End for the U1 3D Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/snapmaker-phaetus-cover-300x181.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Snapmaker announced an intriguing new hot end for their U1 series: the Liber.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969490256/0/fabbaloo/default~Snapmaker-and-Phaetus-Launch-Liber-HighFlow-Hot-End-for-the-U-D-Printer\" rel=\"nofollow\">Snapmaker and Phaetus Launch Liber High-Flow Hot End for the U1 3D Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/snapmaker-phaetus-cover-300x181.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-22T16:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969490256/0/fabbaloo/default~Snapmaker-and-Phaetus-Launch-Liber-HighFlow-Hot-End-for-the-U-D-Printer",
+    "forced_tags": [],
+    "title_en": "Snapmaker and Phaetus Launch Liber High-Flow Hot End for the U1 3D Printer",
+    "summary_bullets_en": [
+      "Snapmaker has partnered with Phaetus to introduce the new Liber high-flow hot end.",
+      "The component is specifically designed to enhance the performance of the U1 3D printer series.",
+      "This collaboration aims to provide users with improved extrusion capabilities and faster printing speeds."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Snapmaker ve spolupráci s firmou Phaetus představila nový vysokoprůtokový hot end s názvem Liber.",
+      "Komponenta je navržena speciálně pro zvýšení výkonu 3D tiskáren řady U1.",
+      "Tato spolupráce má za cíl nabídnout uživatelům lepší možnosti extruze a vyšší rychlost tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Snapmaker",
+      "Phaetus",
+      "3D Printing",
+      "Hot End",
+      "U1 Series"
+    ]
+  },
+  {
+    "title": "Bambu Lab si patentuje kombinaci Bowdenova a přímého pohonu extrudéru",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969487373/0/fabbaloo/default~Bambu-Lab-Patent-Combines-Bowden-and-Direct-Drive-Extrusion\" rel=\"nofollow\" title=\"Bambu Lab Patent Combines Bowden and Direct Drive Extrusion\"><img alt=\"Perspective view of the complete 3D printer apparatus, showing its enclosure, frame, guide structure, and print-head assembly.\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/CN_122766526_A-headline-1-228x300.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"228\" /></a><p>Bambu Lab has patented an unusual extrusion arrangement that seems particularly good for printing soft materials like TPU in FFF systems.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969487373/0/fabbaloo/default~Bambu-Lab-Patent-Combines-Bowden-and-Direct-Drive-Extrusion\" rel=\"nofollow\">Bambu Lab Patent Combines Bowden and Direct Drive Extrusion</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/CN_122766526_A-headline-1-228x300.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-22T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969487373/0/fabbaloo/default~Bambu-Lab-Patent-Combines-Bowden-and-Direct-Drive-Extrusion",
+    "forced_tags": [],
+    "title_en": "Bambu Lab Patent Combines Bowden and Direct Drive Extrusion",
+    "summary_bullets_en": [
+      "Bambu Lab has filed a patent for a unique extrusion system that merges Bowden and direct drive technologies.",
+      "The design aims to improve the reliability and performance of 3D printing, especially when handling flexible materials like TPU.",
+      "This hybrid approach seeks to overcome traditional limitations associated with standard extrusion setups in FFF printers."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab si nechala patentovat neobvyklé uspořádání extrudéru, které kombinuje výhody Bowdenova systému a přímého pohonu (direct drive).",
+      "Tato inovace je navržena tak, aby výrazně zlepšila tisk měkkých materiálů, jako je TPU, u FFF 3D tiskáren.",
+      "Patent naznačuje snahu výrobce o překonání limitů současných tiskových hlav a zlepšení podávání filamentu."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing",
+      "Extrusion",
+      "TPU",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Flashforge konečně expeduje tiskárnu CJ270 s miliony barev",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969474950/0/fabbaloo/default~Flashforge-Finally-Ships-the-CJ-With-Millions-of-Colors\" rel=\"nofollow\" title=\"Flashforge Finally Ships the CJ270 With Millions of Colors\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/cj270-cover-300x162.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Flashforge finally shipped the elusive CJ270 full-colour 3D printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969474950/0/fabbaloo/default~Flashforge-Finally-Ships-the-CJ-With-Millions-of-Colors\" rel=\"nofollow\">Flashforge Finally Ships the CJ270 With Millions of Colors</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/cj270-cover-300x162.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-22T13:09:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969474950/0/fabbaloo/default~Flashforge-Finally-Ships-the-CJ-With-Millions-of-Colors",
+    "forced_tags": [],
+    "title_en": "Flashforge Finally Ships the CJ270 With Millions of Colors",
+    "summary_bullets_en": [
+      "Flashforge has officially begun shipping the long-awaited CJ270 3D printer.",
+      "The machine is notable for its capability to produce full-color prints using millions of color variations.",
+      "This release marks a significant milestone for Flashforge in the professional and high-end desktop 3D printing market."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Flashforge oficiálně zahájila expedici dlouho očekávané 3D tiskárny CJ270.",
+      "Stroj vyniká svou schopností vytvářet plnobarevné výtisky s využitím milionů barevných variací.",
+      "Toto uvedení na trh představuje pro Flashforge významný milník v oblasti profesionálního a špičkového stolního 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Flashforge",
+      "CJ270",
+      "Full-color 3D printing"
+    ]
+  },
+  {
+    "title": "Finance v 3D tisku: 28 milionů dolarů v Číně, americké obchody a návrat kovového AM",
+    "summary": "Money continues to go into additive manufacturing (AM). From a $30 million raise for a Chinese metal 3D printing company to new funding for naval AM and a European company...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/KA6Wu_rzTGd4GSnsWBnKEeiB3aeoBSfNOGAiJvd8C1ook7edLRLhw2eNZ0RKPrMbbToLBSCc6Lbrq9EdJNewkKzVSIyvnEq7EMVJ38Eaphya1nkSTsCv0CUWQtDpvJ3G2CLYS5mebloHgIVbqVEUp3Of-f0_f4F7ffU489ZEP9N14TMI34dBbIfbw.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-22T13:00:59+00:00",
+    "url": "https://3dprint.com/333056/3d-printing-financials-28m-in-china-u-s-deals-and-a-metal-am-comeback/",
+    "forced_tags": [],
+    "title_en": "3D Printing Financials: $28M in China, U.S. Deals and a Metal AM Comeback",
+    "summary_bullets_en": [
+      "A Chinese metal 3D printing firm secured $30 million in new funding.",
+      "Investment activity remains strong with new capital flowing into naval additive manufacturing projects.",
+      "The sector is seeing a notable resurgence in metal additive manufacturing interest.",
+      "European companies are also attracting fresh financial backing to scale their operations."
+    ],
+    "summary_bullets_cs": [
+      "Čínská společnost zabývající se 3D tiskem kovů získala investici ve výši 30 milionů dolarů.",
+      "Investiční aktivita v odvětví aditivní výroby zůstává silná, přičemž nové prostředky směřují do námořních projektů.",
+      "Sektor zaznamenává výrazný návrat zájmu o aditivní výrobu z kovů.",
+      "Evropské společnosti rovněž získávají novou finanční podporu pro rozšiřování svých aktivit."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Metal AM",
+      "Investment",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "AmeraLabs nabízí nové dentální pryskyřice pro 3D tisk",
+    "summary": "Lithuania-based AmeraLabs is putting new dental 3D printing resins on the market. Its new Made in Europe resins will include one material for impression trays, one for surgical guides, and...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/SGR-28-1kg-with-model1.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-22T12:30:21+00:00",
+    "url": "https://3dprint.com/332563/ameralabs-offers-new-dental-resins/",
+    "forced_tags": [],
+    "title_en": "AmeraLabs Offers New Dental 3D Printing Resins",
+    "summary_bullets_en": [
+      "Lithuania-based AmeraLabs is launching a new line of dental 3D printing resins.",
+      "The products are manufactured in Europe to ensure high quality standards.",
+      "The new portfolio includes specialized materials for impression trays and surgical guides."
+    ],
+    "summary_bullets_cs": [
+      "Litevská společnost AmeraLabs uvádí na trh novou řadu dentálních pryskyřic pro 3D tisk.",
+      "Produkty jsou vyráběny v Evropě, což zajišťuje vysoké standardy kvality.",
+      "Nové portfolio zahrnuje specializované materiály pro otiskovací lžíce a chirurgické šablony."
+    ],
+    "tags": [
+      "Material",
+      "AmeraLabs",
+      "Dental 3D Printing"
+    ]
+  },
+  {
+    "title": "Stratasys vyhrál patentový spor proti Bambu Lab v USA",
+    "summary": "The full story of the Stratasys-Bambu Lab dispute, from 10 patents to the latest verdict",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/8e40a238-1b70-4176-84bd-3f62915d50aa_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-09-22T12:04:10+00:00",
+    "url": "https://www.3dprintingjournal.com/p/stratasys-wins-patent-dispute-against",
+    "forced_tags": [],
+    "title_en": "Stratasys wins patent dispute against Bambu Lab in the US",
+    "summary_bullets_en": [
+      "Stratasys initiated a legal battle against Bambu Lab involving ten specific patents related to 3D printing technology.",
+      "The dispute centered on allegations of patent infringement concerning key features in Bambu Lab's desktop printers.",
+      "A recent US verdict has ruled in favor of Stratasys, marking a significant development in the competitive landscape of the industry.",
+      "This outcome could impact Bambu Lab's future operations and product distribution within the United States market."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Stratasys zahájila právní bitvu proti Bambu Lab zahrnující deset patentů souvisejících s technologií 3D tisku.",
+      "Spor se týkal obvinění z porušení patentových práv u klíčových funkcí stolních tiskáren značky Bambu Lab.",
+      "Nedávný verdikt amerického soudu rozhodl ve prospěch společnosti Stratasys, což představuje významný posun v konkurenčním prostředí oboru.",
+      "Tento výsledek může ovlivnit budoucí operace a distribuci produktů Bambu Lab na americkém trhu."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "Bambu Lab",
+      "Patent Law",
+      "3D Printing Industry"
+    ]
+  },
+  {
+    "title": "Hry mohou začít! Si Ťin-pching vhazuje rukavici v oblasti pokročilé výroby",
+    "summary": "Sangmin Lee went to TCT Asia back in March and reported on the event for 3DPrint.com. He wrote two articles arguing that China&#8217;s AM industry looks &#8220;ready to scale.&#8221; This...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/3-2-1024x604.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-22T12:00:16+00:00",
+    "url": "https://3dprint.com/332995/let-the-games-begin-xi-throws-down-the-advanced-manufacturing-gauntlet/",
+    "forced_tags": [],
+    "title_en": "Let the Games Begin! Xi Throws Down the Advanced Manufacturing Gauntlet",
+    "summary_bullets_en": [
+      "Sangmin Lee's report from TCT Asia highlights China's significant progress in the additive manufacturing sector.",
+      "The articles suggest that the Chinese AM industry has reached a level of maturity that is ready for large-scale industrial implementation.",
+      "The shift reflects broader geopolitical and economic strategies regarding advanced manufacturing capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Reportáž Sangmina Leeho z veletrhu TCT Asia poukazuje na významný pokrok čínského sektoru aditivní výroby.",
+      "Články naznačují, že čínský průmysl 3D tisku dosáhl úrovně vyspělosti, která je připravena na rozsáhlé průmyslové nasazení.",
+      "Tento posun odráží širší geopolitické a ekonomické strategie zaměřené na kapacity v oblasti pokročilé výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "TCT Asia",
+      "China",
+      "Additive Manufacturing",
+      "Industrial Scaling"
+    ]
+  },
+  {
+    "title": "Nemožná továrna Kellyho Johnsona: Co může Skunk Works naučit 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969470651/0/fabbaloo/default~Kelly-Johnson%e2%80%99s-Impossible-Factory-What-Skunk-Works-Can-Teach-D-Printing\" rel=\"nofollow\" title=\"Kelly Johnson’s Impossible Factory: What Skunk Works Can Teach 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/Filename-_431-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding describes how Josh Dean’s new book chronicles the remarkable career of Lockheed engineer Kelly Johnson and the Skunk Works culture that transformed aerospace. Its lessons about rapid development, manufacturing and innovation remain remarkably relevant to 3D printing today.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969470651/0/fabbaloo/default~Kelly-Johnson%e2%80%99s-Impossible-Factory-What-Skunk-Works-Can-Teach-D-Printing\" rel=\"nofollow\">Kelly Johnson’s Impossible Factory: What Skunk Works Can Teach 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/Filename-_431-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-22T11:15:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969470651/0/fabbaloo/default~Kelly-Johnson%e2%80%99s-Impossible-Factory-What-Skunk-Works-Can-Teach-D-Printing",
+    "forced_tags": [],
+    "title_en": "Kelly Johnson’s Impossible Factory: What Skunk Works Can Teach 3D Printing",
+    "summary_bullets_en": [
+      "Josh Dean’s new book explores the legendary career of Lockheed engineer Kelly Johnson and the innovative Skunk Works culture.",
+      "The Skunk Works model emphasizes rapid development and unconventional problem-solving in aerospace engineering.",
+      "These historical management and manufacturing principles offer valuable insights for modern 3D printing workflows and innovation strategies."
+    ],
+    "summary_bullets_cs": [
+      "Nová kniha Joshe Deana mapuje pozoruhodnou kariéru inženýra Lockheed, Kellyho Johnsona, a kulturu Skunk Works, která změnila letectví.",
+      "Kniha zdůrazňuje principy rychlého vývoje, výroby a inovací, které definovaly úspěch legendární divize.",
+      "Lekce z historie Skunk Works zůstávají pro dnešní odvětví 3D tisku vysoce relevantní a inspirativní."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Aerospace",
+      "Innovation",
+      "Manufacturing",
+      "Lockheed Martin",
+      "Skunk Works"
+    ]
+  },
+  {
+    "title": "UV vrstvy by mohly umožnit 3D tisk na Měsíci bez nutnosti podpor",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969463577/0/fabbaloo/default~UV-Skins-Could-Enable-Support-Free-Lunar-Printing\" rel=\"nofollow\" title=\"UV Skins Could Enable Support Free Lunar Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/uv-lunar-printing-cover-300x121.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A UV cured skin may let lunar construction printers deposit unsupported structures before their flowable material collapses.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969463577/0/fabbaloo/default~UV-Skins-Could-Enable-Support-Free-Lunar-Printing\" rel=\"nofollow\">UV Skins Could Enable Support Free Lunar Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/uv-lunar-printing-cover-300x121.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-22T08:05:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969463577/0/fabbaloo/default~UV-Skins-Could-Enable-Support-Free-Lunar-Printing",
+    "forced_tags": [],
+    "title_en": "UV Skins Could Enable Support Free Lunar Printing",
+    "summary_bullets_en": [
+      "Researchers are developing a UV-cured skin technique for lunar 3D printing.",
+      "This method allows for the deposition of unsupported structures in low-gravity or vacuum environments.",
+      "The UV skin prevents flowable construction materials from collapsing before they fully harden.",
+      "This innovation could significantly simplify the construction of lunar habitats by eliminating the need for complex support structures."
+    ],
+    "summary_bullets_cs": [
+      "Vědci vyvíjejí techniku UV vytvrzování povrchové vrstvy pro 3D tisk na Měsíci.",
+      "Tato metoda umožňuje nanášení struktur bez nutnosti podpor v prostředí s nízkou gravitací.",
+      "UV vrstva zabraňuje zhroucení tekutého stavebního materiálu dříve, než stihne vytvrdnout.",
+      "Tato inovace by mohla výrazně zjednodušit výstavbu měsíčních základen díky eliminaci složitých podpůrných konstrukcí."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Lunar Construction",
+      "UV Curing",
+      "Space Exploration"
+    ]
+  },
+  {
+    "title": "Společnost Isembard otevírá svou největší továrnu, která posílí řetězec kovového 3D tisku společnosti Alloyed",
+    "summary": "British software-first manufacturing startup Isembard opened its new global headquarters and factory in Southwark, central London, on September 14, 2026, calling it the largest factory to open in the capital since the Second World War. The launch caps a year in which the company grew from 4 factories to 16 across the UK, Europe, and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/1789993047880-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-22T08:04:49+00:00",
+    "url": "https://3dprintingindustry.com/news/isembard-launches-its-largest-factory-feeding-into-alloyeds-metal-am-pipeline-254952/?utm_source=rss&utm_medium=rss&utm_campaign=isembard-launches-its-largest-factory-feeding-into-alloyeds-metal-am-pipeline",
+    "forced_tags": [],
+    "title_en": "Isembard Launches Its Largest Factory, Feeding Into Alloyed’s Metal AM Pipeline",
+    "summary_bullets_en": [
+      "Isembard opened a major new headquarters and factory in central London, marking the largest industrial opening in the capital since WWII.",
+      "The company has rapidly expanded its footprint from 4 to 16 factories across the UK and Europe within a single year.",
+      "The new facility is strategically integrated into Alloyed’s metal additive manufacturing supply chain."
+    ],
+    "summary_bullets_cs": [
+      "Britský softwarově orientovaný startup Isembard otevřel 14. září 2026 své nové globální sídlo a továrnu v londýnském Southwarku, což je největší továrna otevřená v hlavním městě od druhé světové války.",
+      "Tento milník završuje rok, během kterého společnost expandovala ze 4 na 16 továren napříč Spojeným královstvím a Evropou."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Isembard",
+      "Alloyed",
+      "Metal AM"
+    ]
+  },
+  {
+    "title": "DEEP Manufacturing drží jako jediná na světě plnou certifikaci DNV pro výrobu tlakových nádob technologií WAAM",
+    "summary": "DEEP Manufacturing, a specialist in wire arc additive manufacturing (WAAM) for safety-critical structures, has become the world&#8217;s first and only fully DNV-approved wire arc additive manufacturer for pressure vessels for human occupancy (PVHOs), pressure hulls, and related equipment and materials, 18 months after launching in January 2025. The company now operates two facilities, in Bristol,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/DeepManufacturing-BenGrovesMedia-14-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-22T08:03:41+00:00",
+    "url": "https://3dprintingindustry.com/news/deep-manufacturing-holds-the-worlds-only-full-dnv-approval-for-waam-pressure-vessel-production-254967/?utm_source=rss&utm_medium=rss&utm_campaign=deep-manufacturing-holds-the-worlds-only-full-dnv-approval-for-waam-pressure-vessel-production",
+    "forced_tags": [],
+    "title_en": "DEEP Manufacturing Holds the World’s Only Full DNV Approval for WAAM Pressure Vessel Production",
+    "summary_bullets_en": [
+      "DEEP Manufacturing has become the first company globally to receive full DNV certification for WAAM-produced pressure vessels.",
+      "The approval covers critical equipment including pressure hulls and vessels for human occupancy (PVHOs).",
+      "The company achieved this milestone just 18 months after its launch in January 2025.",
+      "DEEP Manufacturing currently operates two production facilities based in Bristol."
+    ],
+    "summary_bullets_cs": [
+      "Společnost DEEP Manufacturing se stala prvním výrobcem na světě, který získal plnou certifikaci DNV pro tlakové nádoby vyrobené technologií WAAM.",
+      "Certifikace se vztahuje na kritické vybavení, včetně tlakových trupů a nádob určených pro pobyt osob (PVHO).",
+      "Tohoto milníku společnost dosáhla pouhých 18 měsíců po svém založení v lednu 2025.",
+      "Firma v současnosti provozuje dvě výrobní zařízení se sídlem v Bristolu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "WAAM",
+      "DEEP Manufacturing",
+      "DNV",
+      "Pressure Vessels",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "3D tisk urychluje výrobu protéz pro zraněné v Sýrii",
+    "summary": "Prosthetics centers in northwest Syria have begun using 3D printing to produce custom limbs for amputees, offering a partial answer to a shortage of prosthetics capacity in a country where nearly three million people have been wounded since the conflict began in 2011. Two centers in Idlib province now rely entirely on the technology and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2018/09/prosthetic-limb-centres-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-22T07:59:30+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printing-speeds-up-prosthetics-for-syrias-wounded-254857/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printing-speeds-up-prosthetics-for-syrias-wounded",
+    "forced_tags": [],
+    "title_en": "3D printing speeds up prosthetics for Syria’s wounded",
+    "summary_bullets_en": [
+      "Prosthetic centers in northwest Syria are adopting 3D printing to address the critical shortage of artificial limbs.",
+      "The technology enables the rapid production of custom-fitted prosthetics for victims of the long-standing conflict.",
+      "Two facilities in Idlib province have fully transitioned their operations to rely exclusively on 3D printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Centra pro výrobu protéz v severozápadní Sýrii začala využívat 3D tisk k výrobě protéz na míru pro lidi po amputaci.",
+      "Tato technologie nabízí částečné řešení nedostatku kapacit v zemi, kde bylo od začátku konfliktu v roce 2011 zraněno téměř tři miliony lidí.",
+      "Dvě centra v provincii Idlib jsou nyní zcela závislá na této technologii."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Medical 3D Printing",
+      "Prosthetics",
+      "Humanitarian Aid",
+      "Syria"
+    ]
+  },
+  {
+    "title": "Massivit přináší platformu pro kompozitní nástroje RapidWings do Severní Ameriky",
+    "summary": "Israel-based Massivit, has expanded its RapidWings composite tooling platform into North America through a partnership with Artek, a manufacturing and design firm based in Portland, Oregon. Under the arrangement, RapidWings will provide on-demand large-format tooling, prototyping, and demonstration services for aerospace and defense (A&#38;D) customers at Artek&#8217;s facility, adding to operations the platform previously launched&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/Artek-with-RW-LOGO-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-09-22T07:58:38+00:00",
+    "url": "https://3dprintingindustry.com/news/massivit-brings-rapidwings-composite-tooling-platform-to-north-america-254976/?utm_source=rss&utm_medium=rss&utm_campaign=massivit-brings-rapidwings-composite-tooling-platform-to-north-america",
+    "forced_tags": [],
+    "title_en": "Massivit Brings RapidWings Composite Tooling Platform to North America",
+    "summary_bullets_en": [
+      "Massivit is expanding its RapidWings composite tooling platform into the North American market.",
+      "The company has partnered with Portland-based firm Artek to provide local manufacturing and design services.",
+      "The collaboration focuses on delivering large-format tooling and prototyping specifically for the aerospace and defense sectors."
+    ],
+    "summary_bullets_cs": [
+      "Izraelská společnost Massivit rozšiřuje svou platformu pro kompozitní nástroje RapidWings na severoamerický trh.",
+      "Díky partnerství s firmou Artek se sídlem v Portlandu bude možné využívat služby výroby a designu přímo v USA.",
+      "Spolupráce se zaměřuje na poskytování velkoformátových nástrojů a prototypování pro zákazníky z oblasti letectví a obrany."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Massivit",
+      "RapidWings",
+      "Artek",
+      "Aerospace",
+      "Composite Tooling"
+    ]
+  },
+  {
+    "title": "RIMPAC 2026 přináší 3D tisk do logistiky námořních flotil",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/969462290/0/fabbaloo/default~RIMPAC-Brings-D-Printing-into-Fleet-Logistics\" rel=\"nofollow\" title=\"RIMPAC 2026 Brings 3D Printing into Fleet Logistics\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_329-300x183.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Andressa Bonafe explore how RIMPAC 2026 is transforming 3D printing from an onboard repair tool into a fleet-wide logistics network powered by digital manufacturing and autonomous delivery.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/969462290/0/fabbaloo/default~RIMPAC-Brings-D-Printing-into-Fleet-Logistics\" rel=\"nofollow\">RIMPAC 2026 Brings 3D Printing into Fleet Logistics</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_329-300x183.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-22T07:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/969462290/0/fabbaloo/default~RIMPAC-Brings-D-Printing-into-Fleet-Logistics",
+    "forced_tags": [],
+    "title_en": "RIMPAC 2026 Brings 3D Printing into Fleet Logistics",
+    "summary_bullets_en": [
+      "RIMPAC 2026 marks a shift from localized onboard 3D printing to a comprehensive, fleet-wide logistics network.",
+      "The initiative integrates digital manufacturing with autonomous delivery systems to enhance naval supply chain efficiency.",
+      "Authors Charles R. Goulding and Andressa Bonafe analyze how additive manufacturing is becoming a core component of modern maritime operations."
+    ],
+    "summary_bullets_cs": [
+      "Cvičení RIMPAC 2026 představuje posun od lokálních oprav pomocí 3D tisku na palubě k rozsáhlé logistické síti pro celou flotilu.",
+      "Iniciativa propojuje digitální výrobu s autonomními systémy doručování pro zvýšení efektivity námořních dodavatelských řetězců.",
+      "Autoři Charles R. Goulding a Andressa Bonafe zkoumají, jak se aditivní výroba stává klíčovou součástí moderních námořních operací."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Additive Manufacturing",
+      "Military Logistics",
+      "RIMPAC",
+      "Digital Manufacturing",
+      "Supply Chain"
+    ]
+  },
+  {
+    "title": "Společnost Visitech cílí na větší tiskové plochy s novým světelným enginem pro 3D tisk",
+    "summary": "Norwegian DLP light engine manufacturer Visitech has developed a new product. The LRS 8KA Laser 405 has been specifically created for additive manufacturing. The engine is a native 4K DMD...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/8KA-scaled.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-22T07:00:34+00:00",
+    "url": "https://3dprint.com/332747/visitech-targets-larger-scale-3d-printing-with-new-4k-light-engine/",
+    "forced_tags": [],
+    "title_en": "Visitech Targets Larger Build Areas With New 3D Printing Light Engine",
+    "summary_bullets_en": [
+      "Norwegian manufacturer Visitech has launched the LRS 8KA Laser 405 light engine.",
+      "The device features a native 4K DMD chip designed specifically for industrial additive manufacturing.",
+      "The new engine aims to enable larger build areas while maintaining high resolution and precision.",
+      "This development marks a significant step forward for DLP-based 3D printing technologies."
+    ],
+    "summary_bullets_cs": [
+      "Norský výrobce Visitech vyvinul nový světelný engine s označením LRS 8KA Laser 405.",
+      "Zařízení využívá nativní 4K DMD čip vytvořený speciálně pro potřeby aditivní výroby.",
+      "Nový engine umožňuje tisk na větších plochách při zachování vysokého rozlišení a přesnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "DLP",
+      "Visitech",
+      "Additive Manufacturing",
+      "4K Technology"
+    ]
+  },
+  {
     "title": "VulcanForms a Specter Aerospace cílí na levnou hypersonickou munici díky novému výrobnímu partnerství",
     "summary": "Digital manufacturing firm VulcanForms and Massachusetts-based aerospace startup Specter Aerospace have partnered to produce airbreathing hypersonic weapons at scale, establishing what the companies describe as a first-of-its-kind domestic manufacturing capacity for the sector. The deal pairs VulcanForms&#8217; metal additive manufacturing platform with Specter Aerospace&#8217;s hypersonic vehicle development work, aiming to scale production of low-cost hypersonic&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2022/07/Factory-with-VulcanForms-Branding-150x100.jpg",
