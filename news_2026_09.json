@@ -1,5 +1,130 @@
 [
   {
+    "title": "Novinky ze světa 3D tisku, 26. září 2026: Biokeramické implantáty, 3D tisk betonu a další",
+    "summary": "In this weekend&#8217;s 3D Printing News Briefs, we&#8217;ll start with an integration between PanOptimization and AMCM, before moving on to healthcare news from KLS Martin and Lithoz, and then UltiMaker...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/1.-Aerospike_Comparison_Black_Background-1024x599.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-26T12:30:11+00:00",
+    "url": "https://3dprint.com/333478/3d-printing-news-briefs-9-26-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, September 26, 2026: Bioceramic Implants, 3D Concrete Printing, & More",
+    "summary_bullets_en": [
+      "PanOptimization and AMCM have announced a strategic integration to enhance additive manufacturing workflows.",
+      "KLS Martin and Lithoz are collaborating on advancements in bioceramic implants for the healthcare sector.",
+      "UltiMaker continues to expand its presence in the professional 3D printing market with new updates.",
+      "The industry sees further developments in 3D concrete printing technologies for construction applications."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti PanOptimization a AMCM oznámily integraci pro vylepšení pracovních postupů v aditivní výrobě.",
+      "KLS Martin a Lithoz spolupracují na pokrocích v oblasti biokeramických implantátů pro zdravotnictví.",
+      "Společnost UltiMaker pokračuje v rozšiřování své přítomnosti na trhu profesionálního 3D tisku.",
+      "Odvětví zaznamenává další vývoj v technologiích 3D tisku z betonu pro stavební aplikace."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "PanOptimization",
+      "AMCM",
+      "KLS Martin",
+      "Lithoz",
+      "UltiMaker"
+    ]
+  },
+  {
+    "title": "IMTS 2026 Chicago, druhý den: Kde se 3D tisk setkává s reálnou výrobou",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/970360286/0/fabbaloo/default~IMTS-Chicago-Day-Two-Where-D-Printing-Meets-RealWorld-Production\" rel=\"nofollow\" title=\"IMTS 2026 Chicago Day Two: Where 3D Printing Meets Real-World Production\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/Filename-_452-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding takes readers inside IMTS 2026’s booming additive manufacturing section, where Nikon SLM, Renishaw and Farsoon demonstrate how 3D printing is moving from prototypes to sophisticated end-use production.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/970360286/0/fabbaloo/default~IMTS-Chicago-Day-Two-Where-D-Printing-Meets-RealWorld-Production\" rel=\"nofollow\">IMTS 2026 Chicago Day Two: Where 3D Printing Meets Real-World Production</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/Filename-_452-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-26T12:22:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/970360286/0/fabbaloo/default~IMTS-Chicago-Day-Two-Where-D-Printing-Meets-RealWorld-Production",
+    "forced_tags": [],
+    "title_en": "IMTS 2026 Chicago Day Two: Where 3D Printing Meets Real-World Production",
+    "summary_bullets_en": [
+      "Charles R. Goulding reports from the IMTS 2026 additive manufacturing floor.",
+      "Industry leaders like Nikon SLM, Renishaw, and Farsoon are showcasing advanced 3D printing technologies.",
+      "The focus of the event has shifted from simple prototyping to complex, end-use industrial production.",
+      "The exhibition highlights the growing maturity and integration of additive manufacturing in real-world factory environments."
+    ],
+    "summary_bullets_cs": [
+      "Charles R. Goulding přináší reportáž z veletrhu IMTS 2026 zaměřenou na oblast aditivní výroby.",
+      "Lídři v oboru, jako jsou Nikon SLM, Renishaw a Farsoon, předvádějí pokročilé technologie 3D tisku.",
+      "Hlavním tématem akce je posun od jednoduchého prototypování k sofistikované průmyslové výrobě finálních dílů.",
+      "Výstava zdůrazňuje rostoucí vyspělost a integraci 3D tisku do reálného výrobního prostředí."
+    ],
+    "tags": [
+      "Hardware",
+      "Nikon SLM Solutions",
+      "Renishaw",
+      "Farsoon",
+      "Additive Manufacturing",
+      "Industrial Production"
+    ]
+  },
+  {
+    "title": "ORNL vytisklo 3D ocelovou formu pro leteckou výrobu společnosti Boeing",
+    "summary": "Oak Ridge National Laboratory (ORNL) and Boeing have produced a steel Stamp Form Die (SFD) mold using wire-arc additive manufacturing (WAAM). The tool stands 6 feet tall, measures 4 feet wide, weighs close to 2 tons, and took eight weeks to print. Boeing will use it in its work for NASA&#8216;s Hi-Rate Composite Aircraft Manufacturing&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/Baker-final-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-26T06:14:31+00:00",
+    "url": "https://3dprintingindustry.com/news/ornl-3d-prints-steel-mold-for-boeing-aircraft-work-255091/?utm_source=rss&utm_medium=rss&utm_campaign=ornl-3d-prints-steel-mold-for-boeing-aircraft-work",
+    "forced_tags": [],
+    "title_en": "ORNL 3D Prints Steel Mold for Boeing Aircraft Work",
+    "summary_bullets_en": [
+      "Oak Ridge National Laboratory and Boeing collaborated to create a massive steel Stamp Form Die using wire-arc additive manufacturing (WAAM).",
+      "The tool is 6 feet tall, 4 feet wide, and weighs nearly 2 tons, requiring eight weeks to complete.",
+      "Boeing will utilize this 3D-printed mold for NASA’s Hi-Rate Composite Aircraft Manufacturing project."
+    ],
+    "summary_bullets_cs": [
+      "Oak Ridge National Laboratory (ORNL) a Boeing vyrobily ocelovou lisovací formu (SFD) pomocí technologie navařování elektrickým obloukem (WAAM).",
+      "Nástroj měří na výšku 6 stop, na šířku 4 stopy, váží téměř 2 tuny a jeho tisk trval osm týdnů.",
+      "Boeing bude formu využívat v rámci projektu NASA zaměřeného na vysokorychlostní výrobu kompozitních letadel."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Material",
+      "ORNL",
+      "Boeing",
+      "NASA",
+      "WAAM",
+      "Steel"
+    ]
+  },
+  {
+    "title": "University of Galway a Ifremer testují 3D tištěné útesy pro obnovu studenovodních korálů",
+    "summary": "Twenty-three 3D printed artificial reefs now sit on the Atlantic seabed at depths of up to 1,100 metres, placed there by a Franco-Irish research team testing whether additive manufacturing can speed the recovery of cold-water coral habitats damaged by bottom trawling. The structures were deployed in August from L&#8217;Atalante, a research vessel of the French&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/0920-Reef-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-26T06:13:07+00:00",
+    "url": "https://3dprintingindustry.com/news/university-of-galway-and-ifremer-test-3d-printed-reefs-for-cold-water-coral-recovery-255078/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-galway-and-ifremer-test-3d-printed-reefs-for-cold-water-coral-recovery",
+    "forced_tags": [],
+    "title_en": "University of Galway and Ifremer Test 3D Printed Reefs for Cold-Water Coral Recovery",
+    "summary_bullets_en": [
+      "A Franco-Irish research team deployed 23 3D printed artificial reefs on the Atlantic seabed at depths of 1,100 meters.",
+      "The project aims to determine if additive manufacturing can accelerate the restoration of cold-water coral habitats.",
+      "These ecosystems have been significantly damaged by industrial bottom trawling activities.",
+      "The structures were successfully installed in August using the French research vessel L'Atalante."
+    ],
+    "summary_bullets_cs": [
+      "Francouzsko-irský výzkumný tým umístil 23 3D tištěných umělých útesů na dno Atlantiku v hloubce až 1 100 metrů.",
+      "Cílem projektu je zjistit, zda může aditivní výroba urychlit obnovu stanovišť studenovodních korálů.",
+      "Tato stanoviště byla v minulosti vážně poškozena průmyslovým vlečným rybolovem.",
+      "Struktury byly instalovány v srpnu za pomoci francouzské výzkumné lodi L'Atalante."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Printing",
+      "Marine Conservation",
+      "Sustainability",
+      "Additive Manufacturing",
+      "University of Galway",
+      "Ifremer"
+    ]
+  },
+  {
     "title": "Verdikt v patentovém sporu mezi Stratasys a Bambu Lab by mohl přetvořit trh stolních 3D tiskáren",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/970160297/0/fabbaloo/default~The-Stratasys%e2%80%93Bambu-Lab-Patent-Verdict-Could-Reshape-Desktop-D-Printing\" rel=\"nofollow\" title=\"The Stratasys–Bambu Lab Patent Verdict Could Reshape Desktop 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/us-version-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>After the announcement of the Bambu Lab / Stratasys patent infringement case, there are some implications.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/970160297/0/fabbaloo/default~The-Stratasys%e2%80%93Bambu-Lab-Patent-Verdict-Could-Reshape-Desktop-D-Printing\" rel=\"nofollow\">The Stratasys–Bambu Lab Patent Verdict Could Reshape Desktop 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/us-version-cover-300x169.jpg",
