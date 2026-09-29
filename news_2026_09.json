@@ -1,5 +1,607 @@
 [
   {
+    "title": "Stratasys vs. Bambu Lab: Co skutečně stojí za verdiktem o patentu ve výši 27,6 milionu dolarů?",
+    "summary": "Editor&#8217;s note: This is Part 1 of a two-part series by Xu Fanglei examining the technology and patent issues behind the Stratasys-Bambu Lab dispute. Part 1 looks at the U.S....",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/carousel-1_548410.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-29T06:00:27+00:00",
+    "url": "https://3dprint.com/333562/stratasys-vs-bambu-lab-whats-really-behind-the-27-6m-patent-verdict/",
+    "forced_tags": [],
+    "title_en": "Stratasys vs. Bambu Lab: What’s Really Behind the $27.6M Patent Verdict?",
+    "summary_bullets_en": [
+      "The article analyzes the legal and technological implications of the $27.6 million patent infringement verdict against Bambu Lab.",
+      "It serves as the first part of a two-part series investigating the core patent disputes between the industry giant Stratasys and the newcomer Bambu Lab.",
+      "The focus is on the U.S. legal landscape and how these patent claims impact the competitive dynamics of the 3D printing market."
+    ],
+    "summary_bullets_cs": [
+      "Článek analyzuje právní a technologické důsledky verdiktu o porušení patentu v hodnotě 27,6 milionu dolarů proti společnosti Bambu Lab.",
+      "Jde o první část dvoudílné série, která zkoumá jádro patentových sporů mezi průmyslovým gigantem Stratasys a nováčkem Bambu Lab.",
+      "Pozornost je zaměřena na právní prostředí v USA a na to, jak tyto patentové nároky ovlivňují konkurenční dynamiku trhu 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "Bambu Lab",
+      "Patents",
+      "Legal",
+      "3D Printing Industry"
+    ]
+  },
+  {
+    "title": "Tento drobný 0,650mm #3DBenchy se tiskl 13 hodin",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/970697561/0/fabbaloo/default~This-Tiny-mm-DBenchy-Took-Hours-to-Print\" rel=\"nofollow\" title=\"This Tiny 0.650mm #3DBenchy Took 13 Hours to Print\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/reprap-micron-benchy-cover-300x189.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A #3DBenchy has been produced on the RepRap Micron.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/970697561/0/fabbaloo/default~This-Tiny-mm-DBenchy-Took-Hours-to-Print\" rel=\"nofollow\">This Tiny 0.650mm #3DBenchy Took 13 Hours to Print</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/reprap-micron-benchy-cover-300x189.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-28T16:43:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/970697561/0/fabbaloo/default~This-Tiny-mm-DBenchy-Took-Hours-to-Print",
+    "forced_tags": [],
+    "title_en": "This Tiny 0.650mm #3DBenchy Took 13 Hours to Print",
+    "summary_bullets_en": [
+      "A microscopic #3DBenchy model was successfully 3D printed using the RepRap Micron system.",
+      "The tiny object measures only 0.650mm in size, showcasing extreme precision.",
+      "Despite its minuscule scale, the printing process required a significant 13 hours to complete."
+    ],
+    "summary_bullets_cs": [
+      "Na tiskárně RepRap Micron byl úspěšně vytištěn mikroskopický model #3DBenchy.",
+      "Objekt měří pouhých 0,650 mm, což demonstruje extrémní přesnost tisku.",
+      "I přes své miniaturní rozměry trval proces tisku celých 13 hodin."
+    ],
+    "tags": [
+      "Hardware",
+      "RepRap",
+      "Micron",
+      "3DBenchy",
+      "Micro-printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Polymaker představuje CoPE, rychlý tiskový materiál jako alternativu k PLA a PETG",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/970692026/0/fabbaloo/default~Polymaker-Introduces-CoPE-a-FastPrinting-Alternative-to-PLA-and-PETG\" rel=\"nofollow\" title=\"Polymaker Introduces CoPE, a Fast-Printing Alternative to PLA and PETG\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/panchroma-cope-cover-300x174.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Polymaker has introduced an entirely new material: CoPE.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/970692026/0/fabbaloo/default~Polymaker-Introduces-CoPE-a-FastPrinting-Alternative-to-PLA-and-PETG\" rel=\"nofollow\">Polymaker Introduces CoPE, a Fast-Printing Alternative to PLA and PETG</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/panchroma-cope-cover-300x174.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-28T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/970692026/0/fabbaloo/default~Polymaker-Introduces-CoPE-a-FastPrinting-Alternative-to-PLA-and-PETG",
+    "forced_tags": [],
+    "title_en": "Polymaker Introduces CoPE, a Fast-Printing Alternative to PLA and PETG",
+    "summary_bullets_en": [
+      "Polymaker has launched a brand new 3D printing material called CoPE.",
+      "The material is designed to offer faster printing speeds compared to traditional filaments.",
+      "CoPE serves as a versatile alternative to standard PLA and PETG materials."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Polymaker uvedla na trh zcela nový materiál pro 3D tisk s názvem CoPE.",
+      "Materiál je navržen tak, aby umožňoval vyšší rychlost tisku ve srovnání s běžnými filamenty.",
+      "CoPE slouží jako všestranná alternativa ke standardním materiálům typu PLA a PETG."
+    ],
+    "tags": [
+      "Material",
+      "Polymaker",
+      "CoPE",
+      "3D Printing",
+      "Filament"
+    ]
+  },
+  {
+    "title": "Společnost Velo3D se připojila k vládně-průmyslovému programu pro výměnu dat (GIDEP)",
+    "summary": "Velo3D has become a participating member of the Government-Industry Data Exchange Program (GIDEP). The company explained that the GIDEP participation will support its existing quality, reliability and supply-chain risk-management processes across its defense manufacturing work. Membership gives Velo3D access to technical, quality, reliability and supply-chain information shared between the U.S. government and industry. For a&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2019/07/system-operator-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-28T13:59:30+00:00",
+    "url": "https://3dprintingindustry.com/news/velo3d-joins-government-industry-data-exchange-program-255084/?utm_source=rss&utm_medium=rss&utm_campaign=velo3d-joins-government-industry-data-exchange-program",
+    "forced_tags": [],
+    "title_en": "Velo3D Joins Government-Industry Data Exchange Program",
+    "summary_bullets_en": [
+      "Velo3D has officially joined the Government-Industry Data Exchange Program (GIDEP).",
+      "The membership enhances the company's quality control, reliability, and supply-chain risk management.",
+      "Velo3D gains access to critical technical data shared between the U.S. government and industrial partners.",
+      "This move strengthens the company's capabilities within the defense manufacturing sector."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Velo3D se stala členem programu GIDEP (Government-Industry Data Exchange Program).",
+      "Členství podpoří procesy řízení kvality, spolehlivosti a rizik v dodavatelském řetězci při výrobě pro obranný průmysl.",
+      "Velo3D získává přístup k technickým a kvalitativním informacím sdíleným mezi americkou vládou a průmyslovými partnery."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Velo3D",
+      "Defense",
+      "Supply Chain",
+      "GIDEP"
+    ]
+  },
+  {
+    "title": "Výzkumníci z UT Austin se stali prvními držiteli stipendia Chief of Naval Research",
+    "summary": "Zhenghui Sha, an associate professor of mechanical engineering at The University of Texas at Austin whose lab developed one of the world&#8217;s first operational cooperative 3D printing systems, has been named to the inaugural class of Chief of Naval Research Fellows. He is joined by computer science associate professor Joydeep Biswas, making UT the only&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/UT-News-Swarm-Manufacturing-Printable-Geometry-2048x1241-1-150x100.avif",
+    "source": "3D Printing Industry",
+    "published": "2026-09-28T13:59:18+00:00",
+    "url": "https://3dprintingindustry.com/news/ut-austin-researchers-join-inaugural-chief-of-naval-research-fellows-255114/?utm_source=rss&utm_medium=rss&utm_campaign=ut-austin-researchers-join-inaugural-chief-of-naval-research-fellows",
+    "forced_tags": [],
+    "title_en": "UT Austin Researchers Join Inaugural Chief of Naval Research Fellows",
+    "summary_bullets_en": [
+      "Zhenghui Sha, a leader in cooperative 3D printing research, has been named an inaugural Chief of Naval Research Fellow.",
+      "The fellowship recognizes his work in developing advanced, multi-robot 3D printing systems.",
+      "Computer science professor Joydeep Biswas also received the fellowship, marking UT Austin as the only university with two inaugural recipients."
+    ],
+    "summary_bullets_cs": [
+      "Zhenghui Sha, docent strojního inženýrství, který vyvinul jeden z prvních kooperativních 3D tiskových systémů na světě, byl jmenován do první třídy stipendistů Chief of Naval Research.",
+      "K němu se připojil docent informatiky Joydeep Biswas, čímž se UT Austin stala jedinou univerzitou se dvěma oceněnými v tomto inauguračním ročníku."
+    ],
+    "tags": [
+      "Hardware",
+      "Research",
+      "Cooperative 3D Printing",
+      "Robotics",
+      "UT Austin",
+      "Naval Research"
+    ]
+  },
+  {
+    "title": "Společnost XYZO uvádí na trh automatizovanou hybridní výrobní platformu pro produkci polymerů",
+    "summary": "Newcastle-based XYZO has launched an automated hybrid manufacturing platform designed to move polymer additive manufacturing from isolated 3D printing operations toward finished-part production. The system integrates additive processes with precision machining, finishing, inspection and process control. XYZO says this approach is intended to reduce manual intervention between individual manufacturing stages and create a controlled workflow&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/image-21-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-28T13:59:04+00:00",
+    "url": "https://3dprintingindustry.com/news/xyzo-launches-automated-hybrid-manufacturing-platform-for-polymer-production-255134/?utm_source=rss&utm_medium=rss&utm_campaign=xyzo-launches-automated-hybrid-manufacturing-platform-for-polymer-production",
+    "forced_tags": [],
+    "title_en": "XYZO launches automated hybrid manufacturing platform for polymer production",
+    "summary_bullets_en": [
+      "Newcastle-based XYZO introduced a new automated hybrid manufacturing platform for polymer 3D printing.",
+      "The system combines additive manufacturing with precision machining, finishing, and inspection.",
+      "It aims to minimize manual intervention and streamline the transition from 3D printing to finished parts.",
+      "The platform focuses on creating a fully controlled and efficient production workflow."
+    ],
+    "summary_bullets_cs": [
+      "Společnost XYZO se sídlem v Newcastlu představila automatizovanou hybridní výrobní platformu pro polymerní 3D tisk.",
+      "Systém integruje aditivní procesy s přesným obráběním, dokončovacími pracemi a kontrolou kvality.",
+      "Cílem je omezit manuální zásahy mezi jednotlivými fázemi výroby a vytvořit ucelený výrobní proces.",
+      "Platforma je navržena tak, aby posunula 3D tisk od izolovaných operací k přímé výrobě finálních dílů."
+    ],
+    "tags": [
+      "Hardware",
+      "Automation",
+      "Hybrid Manufacturing",
+      "Polymer Additive Manufacturing",
+      "XYZO",
+      "Industry 4.0"
+    ]
+  },
+  {
+    "title": "Xolo zmenšuje svou volumetrickou 3D tiskárnu pro možnou cestu na oběžnou dráhu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/970685834/0/fabbaloo/default~Xolo-Shrinks-Its-Volumetric-D-Printer-for-a-Possible-Trip-to-Orbit\" rel=\"nofollow\" title=\"Xolo Shrinks Its Volumetric 3D Printer for a Possible Trip to Orbit\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/xolo-2001-cover-300x134.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Some news from Xolo: they want to go into outer space!</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/970685834/0/fabbaloo/default~Xolo-Shrinks-Its-Volumetric-D-Printer-for-a-Possible-Trip-to-Orbit\" rel=\"nofollow\">Xolo Shrinks Its Volumetric 3D Printer for a Possible Trip to Orbit</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/xolo-2001-cover-300x134.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-09-28T13:40:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/970685834/0/fabbaloo/default~Xolo-Shrinks-Its-Volumetric-D-Printer-for-a-Possible-Trip-to-Orbit",
+    "forced_tags": [],
+    "title_en": "Xolo Shrinks Its Volumetric 3D Printer for a Possible Trip to Orbit",
+    "summary_bullets_en": [
+      "Xolo is developing a compact version of its volumetric 3D printing technology.",
+      "The miniaturized printer is specifically designed to operate in space environments.",
+      "This innovation aims to enable on-demand manufacturing for orbital missions."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Xolo vyvíjí kompaktní verzi své technologie volumetrického 3D tisku.",
+      "Miniaturizovaná tiskárna je navržena speciálně pro provoz v kosmickém prostředí.",
+      "Tato inovace má umožnit výrobu na vyžádání přímo během orbitálních misí."
+    ],
+    "tags": [
+      "Hardware",
+      "Volumetric 3D Printing",
+      "Xolo",
+      "Space Manufacturing",
+      "Aerospace"
+    ]
+  },
+  {
+    "title": "Protolabs využívá 3D tisk pro své zákazníky v robotice k dosažení dvojnásobného meziročního růstu",
+    "summary": "I just posted about how the FCC&#8217;s looming ban on new imports of robot systems is combining with surging robotics demand to create a big opportunity for the additive manufacturing (AM)...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/pl_service_3dp-2.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-28T13:00:21+00:00",
+    "url": "https://3dprint.com/333580/protolabs-leverages-3d-printing-for-its-robotics-customers-to-increase-market-segment-growth-2x-yoy/",
+    "forced_tags": [],
+    "title_en": "Protolabs Leverages 3D Printing for Its Robotics Customers to Increase Market Segment Growth 2x YOY",
+    "summary_bullets_en": [
+      "Protolabs is capitalizing on the rising demand for robotics by utilizing additive manufacturing to accelerate production.",
+      "The company achieved a 2x year-over-year growth in the robotics market segment.",
+      "New FCC import restrictions on robot systems are creating a strategic opportunity for domestic 3D printing services.",
+      "Additive manufacturing is becoming essential for robotics companies looking to bypass supply chain bottlenecks."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Protolabs těží z rostoucí poptávky po robotice díky využití aditivní výroby pro zrychlení produkce.",
+      "Firma dosáhla dvojnásobného meziročního růstu v segmentu robotiky.",
+      "Chystaný zákaz dovozu nových robotických systémů ze strany FCC vytváří strategickou příležitost pro domácí služby 3D tisku.",
+      "Aditivní výroba se stává klíčovou pro robotické firmy, které se snaží vyhnout problémům v dodavatelském řetězci."
+    ],
+    "tags": [
+      "Services",
+      "Protolabs",
+      "Robotics",
+      "Additive Manufacturing",
+      "Supply Chain"
+    ]
+  },
+  {
+    "title": "Díl je jen polovina příběhu: Proč 3D tisk potřebuje digitální vlákno",
+    "summary": "A 3D printed part can generate a lot of information. The challenge is keeping track of it. Manufacturers need to know which design was used, what material went into the...",
+    "image": "https://3dprint.com/wp-content/uploads/2022/12/andre.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-28T12:30:42+00:00",
+    "url": "https://3dprint.com/333349/the-part-is-only-half-the-story-why-3d-printing-needs-a-digital-thread/",
+    "forced_tags": [],
+    "title_en": "The Part Is Only Half the Story: Why 3D Printing Needs a Digital Thread",
+    "summary_bullets_en": [
+      "3D printed components generate vast amounts of data throughout their lifecycle.",
+      "Manufacturers struggle to maintain traceability from initial design to final production.",
+      "A robust digital thread is essential to link design, material, and process parameters.",
+      "Effective data management is critical for quality control and industrial scalability."
+    ],
+    "summary_bullets_cs": [
+      "3D tištěné díly generují během svého životního cyklu obrovské množství dat.",
+      "Výrobci se potýkají s udržením sledovatelnosti od počátečního návrhu až po finální výrobu.",
+      "Robustní digitální vlákno je nezbytné pro propojení návrhu, materiálu a parametrů procesu.",
+      "Efektivní správa dat je klíčová pro kontrolu kvality a průmyslovou škálovatelnost."
+    ],
+    "tags": [
+      "Software",
+      "Digital Thread",
+      "Industry 4.0",
+      "Quality Assurance",
+      "Data Management",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Aditivní výroba a národní konkurenční výhoda, první část: Skutečný problém amerického průmyslu",
+    "summary": "The problem with US manufacturing is the productivity growth rate. Depending on the source, US manufacturing productivity has either been flat or slightly declined since 2010. Before going any further...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/Wza0aIfmm2pq4JHpAT3_fCiEuGEHSPCqwDZrziMqeT3Hq5ktcdtFghFAq6Sfyr2RTZ4vUC996tNf5y3HULvr9TZOU_HhraISnGyHfQbVeokhW2mi9Mk_Lvf0dvARLFDpZgimQlbSOir-AM6iOVFflV7q_4pncfvp-1bJPrEuL2k2a9qdTsdpRjDHgq-vy-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-28T12:00:28+00:00",
+    "url": "https://3dprint.com/329789/am-national-competitive-advantage-part-one-the-real-problem-with-us-manufacturing/",
+    "forced_tags": [],
+    "title_en": "AM & National Competitive Advantage, Part One: the Real Problem with US Manufacturing",
+    "summary_bullets_en": [
+      "US manufacturing is currently facing a critical stagnation in productivity growth.",
+      "Data indicates that productivity levels have remained flat or even declined since 2010.",
+      "The article sets the stage for exploring how Additive Manufacturing can address these systemic industrial challenges."
+    ],
+    "summary_bullets_cs": [
+      "Americký zpracovatelský průmysl v současnosti čelí kritické stagnaci růstu produktivity.",
+      "Data naznačují, že úroveň produktivity od roku 2010 stagnuje nebo dokonce klesá.",
+      "Článek připravuje půdu pro zkoumání toho, jak může aditivní výroba vyřešit tyto systémové průmyslové problémy."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Manufacturing",
+      "US Manufacturing",
+      "Industrial Productivity"
+    ]
+  },
+  {
+    "title": "Design týdne: Lampa Černá díra",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/970672055/0/fabbaloo/default~Design-of-the-Week-Black-Hole-Lamp\" rel=\"nofollow\" title=\"Design of the Week: Black Hole Lamp\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/black-hole-cover-300x225.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>This week’s selection is the Black Hole Lamp by Printables contributor NAM_3.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/970672055/0/fabbaloo/default~Design-of-the-Week-Black-Hole-Lamp\" rel=\"nofollow\">Design of the Week: Black Hole Lamp</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/black-hole-cover-300x225.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-09-28T11:38:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/970672055/0/fabbaloo/default~Design-of-the-Week-Black-Hole-Lamp",
+    "forced_tags": [],
+    "title_en": "Design of the Week: Black Hole Lamp",
+    "summary_bullets_en": [
+      "The Black Hole Lamp has been selected as the Design of the Week.",
+      "The project was created by a Printables contributor known as NAM_3.",
+      "This unique 3D printable design showcases creative lighting solutions.",
+      "The feature highlights community-driven innovation in the 3D printing space."
+    ],
+    "summary_bullets_cs": [
+      "Lampa Černá díra byla vybrána jako design týdne.",
+      "Autorem projektu je přispěvatel komunity Printables s přezdívkou NAM_3.",
+      "Tento unikátní 3D tisknutelný model představuje kreativní řešení osvětlení.",
+      "Článek vyzdvihuje inovace v oblasti 3D tisku, které vznikají v rámci komunity."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Design",
+      "Printables",
+      "Lighting",
+      "NAM_3"
+    ]
+  },
+  {
+    "title": "Společnost Artec 3D uvádí na trh bezdrátový skener Neo s technologií skenování řízeného tolerancemi",
+    "summary": "3D scanning hardware and software developer Artec 3D has launched Artec Neo, a wireless 3D scanner designed for quality inspection and reverse engineering. Artec describes Neo as the first tolerance-driven wireless 3D scanner. Neo introduces what the Luxembourg-based company calls “tolerance-driven 3D scanning.” Rather than applying the same metrology workflow across an entire component, users&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/image-20-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-28T10:49:06+00:00",
+    "url": "https://3dprintingindustry.com/news/artec-3d-launches-neo-wireless-scanner-with-tolerance-driven-3d-scanning-255131/?utm_source=rss&utm_medium=rss&utm_campaign=artec-3d-launches-neo-wireless-scanner-with-tolerance-driven-3d-scanning",
+    "forced_tags": [],
+    "title_en": "Artec 3D launches Neo wireless scanner with tolerance-driven 3D scanning",
+    "summary_bullets_en": [
+      "Artec 3D has introduced the Neo, a new wireless 3D scanner tailored for quality inspection and reverse engineering.",
+      "The device features 'tolerance-driven 3D scanning,' allowing users to apply specific metrology workflows to different parts of a component.",
+      "This targeted approach improves efficiency and precision compared to applying a uniform workflow across an entire object."
+    ],
+    "summary_bullets_cs": [
+      "Vývojář hardwaru a softwaru pro 3D skenování, společnost Artec 3D, uvedla na trh bezdrátový 3D skener Neo určený pro kontrolu kvality a reverzní inženýrství.",
+      "Artec představuje Neo jako první bezdrátový 3D skener řízený tolerancemi, který umožňuje uživatelům aplikovat specifické metrologické postupy na různé části součásti namísto jednotného workflow.",
+      "Tento inovativní přístup umožňuje přesnější a efektivnější analýzu komponent v průmyslovém prostředí."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Artec 3D",
+      "3D Scanning",
+      "Metrology",
+      "Reverse Engineering"
+    ]
+  },
+  {
+    "title": "Výzkum v mikrogravitaci se zaměřuje na vady v kovové aditivní výrobě",
+    "summary": "The U.S. National Science Foundation (NSF) and the International Space Station (ISS) National Laboratory have selected a new research project that will use microgravity to study how metal powder particles melt and mix, a process at the heart of metal 3D printing. Led by Patricia Weisensee of Washington University in St. Louis, the investigation aims&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/55547065112_ac7f68515a_w-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-28T10:47:39+00:00",
+    "url": "https://3dprintingindustry.com/news/microgravity-research-targets-defects-in-metal-additive-manufacturing-255110/?utm_source=rss&utm_medium=rss&utm_campaign=microgravity-research-targets-defects-in-metal-additive-manufacturing",
+    "forced_tags": [],
+    "title_en": "Microgravity Research Targets Defects in Metal Additive Manufacturing",
+    "summary_bullets_en": [
+      "The NSF and ISS National Laboratory are funding a new study on metal 3D printing in microgravity.",
+      "Led by Patricia Weisensee, the project examines how metal powder particles melt and mix during the printing process.",
+      "The research aims to identify and mitigate the root causes of defects in metal additive manufacturing.",
+      "Conducting experiments in space allows researchers to isolate thermal and fluid dynamics without the interference of gravity."
+    ],
+    "summary_bullets_cs": [
+      "Americká Národní vědecká nadace (NSF) a Mezinárodní vesmírná stanice (ISS) vybraly nový projekt pro studium 3D tisku kovů v mikrogravitaci.",
+      "Výzkumný tým pod vedením Patricie Weisensee z Washingtonské univerzity v St. Louis zkoumá proces tavení a mísení kovových práškových částic.",
+      "Cílem projektu je pochopit a eliminovat příčiny vzniku vad, které jsou klíčovým problémem při 3D tisku z kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Metal Additive Manufacturing",
+      "Microgravity",
+      "NSF",
+      "ISS National Laboratory",
+      "Research & Development"
+    ]
+  },
+  {
+    "title": "Makers Making Change a Bambu Lab spouštějí globální výzvu v 3D tisku zaměřenou na asistenční technologie",
+    "summary": "Makers Making Change, an initiative of Canadian nonprofit Neil Squire, has partnered with Bambu Lab and six accessibility organizations working with 3D printing to launch Make for Good, a global design challenge focused on assistive technology. Hosted on Bambu Lab’s MakerWorld platform, the challenge will invite designers and 3D printer users to develop devices addressing&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/image-19-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-09-28T10:47:05+00:00",
+    "url": "https://3dprintingindustry.com/news/makers-making-change-and-bambu-lab-launch-global-assistive-technology-3d-printing-challenge-255127/?utm_source=rss&utm_medium=rss&utm_campaign=makers-making-change-and-bambu-lab-launch-global-assistive-technology-3d-printing-challenge",
+    "forced_tags": [],
+    "title_en": "Makers Making Change and Bambu Lab launch global assistive technology 3D printing challenge",
+    "summary_bullets_en": [
+      "Makers Making Change and Bambu Lab have launched the 'Make for Good' global design challenge.",
+      "The initiative focuses on creating 3D-printed assistive technology to improve accessibility.",
+      "The competition is hosted on Bambu Lab’s MakerWorld platform in collaboration with six accessibility organizations."
+    ],
+    "summary_bullets_cs": [
+      "Iniciativa Makers Making Change a společnost Bambu Lab zahájily globální designovou výzvu s názvem „Make for Good“.",
+      "Projekt se zaměřuje na vývoj 3D tištěných asistenčních technologií, které mají zlepšit dostupnost pro lidi se zdravotním postižením.",
+      "Soutěž probíhá na platformě MakerWorld společnosti Bambu Lab ve spolupráci se šesti organizacemi zaměřenými na bezbariérovost."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Bambu Lab",
+      "Makers Making Change",
+      "MakerWorld",
+      "Assistive Technology",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Patent Bambu Lab využívá šasi tiskárny k výměně hot-endu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/970657667/0/fabbaloo/default~Bambu-Lab-Patent-Uses-Printer-Housing-To-Switch-Hot-Ends\" rel=\"nofollow\" title=\"Bambu Lab Patent Uses Printer Housing To Switch Hot Ends\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/bambu-lab-bump-patent-cover-300x220.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>What if a dual-hotend 3D printer could switch nozzles without carrying around another motor?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/970657667/0/fabbaloo/default~Bambu-Lab-Patent-Uses-Printer-Housing-To-Switch-Hot-Ends\" rel=\"nofollow\">Bambu Lab Patent Uses Printer Housing To Switch Hot Ends</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/bambu-lab-bump-patent-cover-300x220.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-09-28T08:22:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/970657667/0/fabbaloo/default~Bambu-Lab-Patent-Uses-Printer-Housing-To-Switch-Hot-Ends",
+    "forced_tags": [],
+    "title_en": "Bambu Lab Patent Uses Printer Housing To Switch Hot Ends",
+    "summary_bullets_en": [
+      "Bambu Lab has filed a patent for a mechanism that allows a 3D printer to swap hot ends automatically.",
+      "The design utilizes the printer's existing housing structure to facilitate the tool-changing process.",
+      "This innovative approach eliminates the need for additional motors on the print head, potentially reducing weight and complexity."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab si nechala patentovat mechanismus, který umožňuje 3D tiskárně automaticky měnit hot-endy.",
+      "Konstrukce využívá stávající šasi tiskárny k usnadnění procesu výměny nástrojů.",
+      "Tento inovativní přístup eliminuje potřebu dalších motorů na tiskové hlavě, což může snížit hmotnost a složitost zařízení."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing",
+      "Patent",
+      "Innovation",
+      "Hot-end"
+    ]
+  },
+  {
+    "title": "OLO 🤩 ONO 🤨 OH NO 🤬",
+    "summary": "The story of the only 3D printer that printed from a smartphone screen, and never made it to customers",
+    "image": "https://substackcdn.com/image/fetch/$s_!G2XM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe77578a4-5731-4b4f-9724-ad8fffdf91b8_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-09-28T08:01:28+00:00",
+    "url": "https://www.3dprintingjournal.com/p/olo-ono-oh-no",
+    "forced_tags": [],
+    "title_en": "OLO 🤩 ONO 🤨 OH NO 🤬",
+    "summary_bullets_en": [
+      "OLO was an ambitious Kickstarter project that promised to turn any smartphone screen into a light source for resin 3D printing.",
+      "Despite raising over $2 million from thousands of backers, the company failed to deliver the final product.",
+      "The project became a cautionary tale in the 3D printing industry regarding the gap between crowdfunding hype and manufacturing reality.",
+      "Technical limitations and poor management ultimately led to the total collapse of the OLO brand."
+    ],
+    "summary_bullets_cs": [
+      "OLO byl ambiciózní projekt z Kickstarteru, který sliboval přeměnu displeje chytrého telefonu na zdroj světla pro resinový 3D tisk.",
+      "Navzdory tomu, že projekt vybral od tisíců přispěvatelů přes 2 miliony dolarů, se finální produkt k zákazníkům nikdy nedostal.",
+      "Projekt se stal odstrašujícím příkladem v odvětví 3D tisku, který ukazuje propast mezi humbukem na crowdfundingových platformách a realitou výroby.",
+      "Technická omezení a špatné řízení nakonec vedly k úplnému krachu značky OLO."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "OLO",
+      "Kickstarter",
+      "Resin Printing",
+      "Crowdfunding"
+    ]
+  },
+  {
+    "title": "Nový rychlostní oblek Nike pro Keely Hodgkinson využívá 3D tištěné vírové generátory ke snížení odporu vzduchu",
+    "summary": "Nike unveiled a one-of-one speed suit for middle-distance runner Keely Hodgkinson on September 18, 2026, built for her signature 800-meter event, and the design&#8217;s core aerodynamic feature is 3D printed: color-shifting, delta-shaped vortex generators positioned across the suit to reduce drag where it matters most on her body. Nike describes them as the fastest vortex&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/nike-keely-hodgkinson-speed-suite-athlos-1-150x100.avif",
+    "source": "3D Printing Industry",
+    "published": "2026-09-28T07:21:40+00:00",
+    "url": "https://3dprintingindustry.com/news/nikes-new-speed-suit-for-keely-hodgkinson-uses-3d-printed-vortex-generators-to-cut-drag-254999/?utm_source=rss&utm_medium=rss&utm_campaign=nikes-new-speed-suit-for-keely-hodgkinson-uses-3d-printed-vortex-generators-to-cut-drag",
+    "forced_tags": [],
+    "title_en": "Nike’s New Speed Suit for Keely Hodgkinson Uses 3D Printed Vortex Generators to Cut Drag",
+    "summary_bullets_en": [
+      "Nike introduced a custom-made speed suit for runner Keely Hodgkinson designed specifically for the 800-meter race.",
+      "The suit features 3D printed, delta-shaped vortex generators that actively reduce aerodynamic drag.",
+      "These color-shifting components are strategically placed on the athlete's body to optimize performance and speed."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Nike představila 18. září 2026 unikátní rychlostní oblek pro běžkyni na střední tratě Keely Hodgkinson, určený pro její hlavní disciplínu na 800 metrů.",
+      "Klíčovým aerodynamickým prvkem obleku jsou 3D tištěné, delta-tvarované vírové generátory, které mění barvu a jsou umístěny tak, aby minimalizovaly odpor vzduchu na kritických částech těla.",
+      "Nike tento design označuje za svůj dosud nejrychlejší systém vírových generátorů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Nike",
+      "3D Printing",
+      "Aerodynamics",
+      "Sportswear"
+    ]
+  },
+  {
+    "title": "Společnost HeelBase zahájila předobjednávky na DRIVE, 3D tištěnou stélku pro pickleball",
+    "summary": "HeelBase has started taking pre-orders for DRIVE, a 3D printed insole developed for pickleball, which the company describes as the world&#8217;s first 3D printed insole designed specifically for the sport. DRIVE is priced at US$59 per pair during the pre-order period, down from a listed regular price of US$99. The product is an example of&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/28698121-heelbase-hero-300x199-1-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-28T07:20:40+00:00",
+    "url": "https://3dprintingindustry.com/news/heelbase-opens-pre-orders-for-drive-a-3d-printed-insole-for-pickleball-255087/?utm_source=rss&utm_medium=rss&utm_campaign=heelbase-opens-pre-orders-for-drive-a-3d-printed-insole-for-pickleball",
+    "forced_tags": [],
+    "title_en": "HeelBase Opens Pre-Orders for DRIVE, a 3D Printed Insole for Pickleball",
+    "summary_bullets_en": [
+      "HeelBase has launched pre-orders for DRIVE, the world's first 3D printed insole specifically engineered for pickleball.",
+      "The product is currently available at a discounted pre-order price of $59, compared to the future retail price of $99.",
+      "This innovation highlights the growing trend of using 3D printing technology to create specialized, performance-enhancing sports footwear."
+    ],
+    "summary_bullets_cs": [
+      "Společnost HeelBase spustila předobjednávky na DRIVE, první 3D tištěnou stélku na světě navrženou speciálně pro sport pickleball.",
+      "Produkt je během předobjednávkového období k dispozici za 59 USD, přičemž běžná cena bude 99 USD.",
+      "Tento produkt je příkladem rostoucího trendu využívání 3D tisku pro výrobu specializované sportovní obuvi zvyšující výkon."
+    ],
+    "tags": [
+      "Hardware",
+      "HeelBase",
+      "3D Printed Footwear",
+      "Pickleball",
+      "Sports Tech"
+    ]
+  },
+  {
+    "title": "Společnost Addireen uvádí na trh XH-M350G-2HR pro rychlejší a konzistentnější 3D tisk z mědi",
+    "summary": "Chinese 3D printing developer Addireen has released the XH-M350G-2HR, the third generation of its green-laser metal additive manufacturing system, aimed at moving pure-copper printing from prototyping into stable series production. The machine targets three production problems: build efficiency, stability during long runs, and part consistency across a fully loaded build plate. The 350 × 350&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/6aa8c00db69c0-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-28T07:18:56+00:00",
+    "url": "https://3dprintingindustry.com/news/addireen-launches-xh-m350g-2hr-for-faster-more-consistent-copper-3d-printing-255104/?utm_source=rss&utm_medium=rss&utm_campaign=addireen-launches-xh-m350g-2hr-for-faster-more-consistent-copper-3d-printing",
+    "forced_tags": [],
+    "title_en": "Addireen Launches XH-M350G-2HR for Faster, More Consistent Copper 3D Printing",
+    "summary_bullets_en": [
+      "Addireen introduced the XH-M350G-2HR, a third-generation green-laser metal 3D printer designed for pure copper.",
+      "The system focuses on transitioning copper printing from prototyping to reliable series production.",
+      "Key improvements address build efficiency, long-term operational stability, and part consistency across the entire build plate.",
+      "The machine features a 350 × 350 mm build area to support industrial-scale manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Čínský vývojář 3D tisku Addireen představil XH-M350G-2HR, třetí generaci systému pro aditivní výrobu kovů využívající zelený laser, určenou pro čistou měď.",
+      "Stroj je navržen tak, aby posunul tisk z mědi od prototypování ke stabilní sériové výrobě.",
+      "Zařízení řeší tři hlavní problémy: efektivitu stavby, stabilitu při dlouhých tiskových úlohách a konzistenci dílů na plně zaplněné tiskové podložce.",
+      "Tiskárna nabízí pracovní plochu o rozměrech 350 × 350 mm."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "Addireen",
+      "Copper",
+      "Industrial Manufacturing",
+      "Green Laser"
+    ]
+  },
+  {
+    "title": "CityUHK a Cambridge spouštějí centrum pro chytrou výrobu zaměřené na 3D tisk",
+    "summary": "City University of Hong Kong (CityUHK) and the University of Cambridge have established the Centre for Advanced and Smart Manufacturing (CASM), a Hong Kong research centre that uses additive manufacturing as its core technology platform. CASM will apply 3D printing to four application areas: data centre cooling, next-generation refrigeration, lightweight new energy vehicles and materials&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/PR-Photo_01-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-09-28T07:18:12+00:00",
+    "url": "https://3dprintingindustry.com/news/cityuhk-cambridge-launch-3d-printing-centred-smart-manufacturing-hub-255120/?utm_source=rss&utm_medium=rss&utm_campaign=cityuhk-cambridge-launch-3d-printing-centred-smart-manufacturing-hub",
+    "forced_tags": [],
+    "title_en": "CityUHK, Cambridge Launch 3D Printing-Centred Smart Manufacturing Hub",
+    "summary_bullets_en": [
+      "CityUHK and the University of Cambridge have co-founded the Centre for Advanced and Smart Manufacturing (CASM) in Hong Kong.",
+      "The research hub focuses on additive manufacturing as its primary technological foundation.",
+      "CASM aims to innovate in four key sectors: data centre cooling, advanced refrigeration, lightweight electric vehicles, and new materials."
+    ],
+    "summary_bullets_cs": [
+      "City University of Hong Kong (CityUHK) a Cambridgeská univerzita založily v Hongkongu Centrum pro pokročilou a chytrou výrobu (CASM).",
+      "Výzkumné centrum využívá aditivní výrobu jako svou hlavní technologickou platformu.",
+      "CASM se zaměří na aplikaci 3D tisku ve čtyřech oblastech: chlazení datových center, chladicí technika nové generace, lehké elektromobily a vývoj nových materiálů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Material",
+      "Additive Manufacturing",
+      "CityUHK",
+      "University of Cambridge",
+      "CASM",
+      "Smart Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Arridex zakoupila a instalovala jednotku CEAD",
+    "summary": "Lagos-based Arridex has purchased and installed a CEAD Flexcube LFAM system at its Omnifactory. Previously, oil and gas MRO firm Arridex expanded its network to Ghana, worked with BLT, got...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/CEAD_Printer_2.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-09-28T07:00:17+00:00",
+    "url": "https://3dprint.com/333293/arridex-buys-and-installs-cead-unit/",
+    "forced_tags": [],
+    "title_en": "Arridex Buys and Installs CEAD Unit",
+    "summary_bullets_en": [
+      "Lagos-based Arridex has integrated a CEAD Flexcube LFAM system into its Omnifactory.",
+      "The company is expanding its capabilities beyond its traditional oil and gas MRO services.",
+      "This move follows Arridex's recent regional expansion into Ghana and strategic partnerships.",
+      "The new large-format additive manufacturing unit aims to enhance local production efficiency."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Arridex se sídlem v Lagosu integrovala systém CEAD Flexcube LFAM do své továrny Omnifactory.",
+      "Firma rozšiřuje své kapacity nad rámec tradičních služeb údržby, oprav a revizí (MRO) v ropném a plynárenském průmyslu.",
+      "Tento krok navazuje na nedávnou regionální expanzi společnosti Arridex do Ghany a její strategická partnerství.",
+      "Nová jednotka pro velkoformátovou aditivní výrobu má za cíl zvýšit efektivitu lokální produkce."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Arridex",
+      "CEAD",
+      "LFAM",
+      "Large Format Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 27. září 2026",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/970554743/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-September\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, September 27, 2026\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/biggest-cover-300x171.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/970554743/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-September\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, September 27, 2026</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/biggest-cover-300x171.jpg",
