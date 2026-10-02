@@ -1,5 +1,387 @@
 [
   {
+    "title": "Společnost E3D spouští licenční program FlowCore",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/970867670/0/fabbaloo/default~ED-Launches-FlowCore-Licensing-Program\" rel=\"nofollow\" title=\"E3D Launches FlowCore Licensing Program\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/flowcore-cover.png-300x100.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>E3D announced a licensing program for their high-flow extrusion technology: FlowCore.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/970867670/0/fabbaloo/default~ED-Launches-FlowCore-Licensing-Program\" rel=\"nofollow\">E3D Launches FlowCore Licensing Program</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/flowcore-cover.png-300x100.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-01T16:37:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/970867670/0/fabbaloo/default~ED-Launches-FlowCore-Licensing-Program",
+    "forced_tags": [],
+    "title_en": "E3D Launches FlowCore Licensing Program",
+    "summary_bullets_en": [
+      "E3D has officially introduced a new licensing program for its proprietary FlowCore high-flow extrusion technology.",
+      "The initiative allows third-party manufacturers to integrate E3D's advanced extrusion systems into their own 3D printer designs.",
+      "This move aims to standardize high-performance extrusion capabilities across the broader additive manufacturing industry."
+    ],
+    "summary_bullets_cs": [
+      "Společnost E3D oficiálně představila nový licenční program pro svou technologii vysokoprůtokové extruze FlowCore.",
+      "Tato iniciativa umožňuje výrobcům třetích stran integrovat pokročilé vytlačovací systémy E3D do jejich vlastních 3D tiskáren.",
+      "Cílem tohoto kroku je standardizace vysoce výkonných vytlačovacích technologií v celém odvětví aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "E3D",
+      "FlowCore",
+      "Extrusion",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "PrintHaus mění nápady na budovy ve 3D tisknutelné stavebnice",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/970864562/0/fabbaloo/default~PrintHaus-Turns-Building-Ideas-Into-D-Printable-Model-Kits\" rel=\"nofollow\" title=\"PrintHaus Turns Building Ideas Into 3D Printable Model Kits\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/printhaus-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>There’s a browser app that lets you design a building and then figures out how to 3D print it.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/970864562/0/fabbaloo/default~PrintHaus-Turns-Building-Ideas-Into-D-Printable-Model-Kits\" rel=\"nofollow\">PrintHaus Turns Building Ideas Into 3D Printable Model Kits</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/printhaus-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-01T15:04:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/970864562/0/fabbaloo/default~PrintHaus-Turns-Building-Ideas-Into-D-Printable-Model-Kits",
+    "forced_tags": [],
+    "title_en": "PrintHaus Turns Building Ideas Into 3D Printable Model Kits",
+    "summary_bullets_en": [
+      "PrintHaus is a new browser-based application designed for architectural modeling.",
+      "The platform allows users to easily design buildings from scratch.",
+      "It automatically processes these designs into optimized, 3D-printable model kits.",
+      "The tool simplifies the transition from digital architectural concepts to physical scale models."
+    ],
+    "summary_bullets_cs": [
+      "PrintHaus je nová prohlížečová aplikace určená pro architektonické modelování.",
+      "Platforma umožňuje uživatelům snadno navrhovat budovy od základu.",
+      "Automaticky zpracovává tyto návrhy na optimalizované 3D tisknutelné stavebnice.",
+      "Nástroj zjednodušuje přechod od digitálních architektonických konceptů k fyzickým modelům."
+    ],
+    "tags": [
+      "Software",
+      "3D Printing",
+      "Architecture",
+      "Modeling",
+      "PrintHaus"
+    ]
+  },
+  {
+    "title": "Geometrie rozhraní může zachránit vícebarevné PLA výtisky",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/970850291/0/fabbaloo/default~Interface-Geometry-Can-Save-Multimaterial-PLA-Prints\" rel=\"nofollow\" title=\"Interface Geometry Can Save Multimaterial PLA Prints\"><img alt=\"Photographs of fractured double-dovetail bicomponent 3D-printed tensile specimens, showing the blue and gray materials and the fracture regions.\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/research-10.56958_jesi.2026.11.1.31-headline-300x131.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>It turns out that FFF printed dovetail joints are not always the strongest way to join multi-material parts.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/970850291/0/fabbaloo/default~Interface-Geometry-Can-Save-Multimaterial-PLA-Prints\" rel=\"nofollow\">Interface Geometry Can Save Multimaterial PLA Prints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/research-10.56958_jesi.2026.11.1.31-headline-300x131.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-01T13:35:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/970850291/0/fabbaloo/default~Interface-Geometry-Can-Save-Multimaterial-PLA-Prints",
+    "forced_tags": [],
+    "title_en": "Interface Geometry Can Save Multimaterial PLA Prints",
+    "summary_bullets_en": [
+      "New research explores how interface geometry affects the structural integrity of multi-material FFF 3D prints.",
+      "Traditional dovetail joints are not always the most effective method for connecting different PLA materials.",
+      "Optimizing the shape of the contact surface significantly improves the mechanical strength of composite parts.",
+      "The study provides insights into overcoming common adhesion and fracture issues in multi-material additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Nový výzkum zkoumá, jak geometrie rozhraní ovlivňuje strukturální integritu vícebarevných FFF 3D výtisků.",
+      "Tradiční rybinové spoje nejsou vždy nejúčinnějším způsobem spojování různých PLA materiálů.",
+      "Optimalizace tvaru kontaktní plochy výrazně zlepšuje mechanickou pevnost kompozitních dílů.",
+      "Studie přináší poznatky o tom, jak překonat běžné problémy s adhezí a praskáním u vícebarevné aditivní výroby."
+    ],
+    "tags": [
+      "Material",
+      "Research",
+      "FFF",
+      "3D Printing",
+      "PLA",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "title": "Zprávy ze světa 3D tisku, 1. října 2026: Obrana, kryty a další",
+    "summary": "In today&#8217;s 3D Printing News Briefs, we&#8217;re starting with defense news, first from Massivit and then from AML3D. Then we&#8217;ll move on to U.S. manufacturing of a new large-format LPBF...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/Artek-with-RW-LOGO-1024x681.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-01T13:00:00+00:00",
+    "url": "https://3dprint.com/333862/3d-printing-news-briefs-10-1-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, October 1, 2026: Defense, Enclosures, & More",
+    "summary_bullets_en": [
+      "Massivit and AML3D report new developments within the defense sector.",
+      "A new large-format LPBF system is being manufactured in the United States.",
+      "The industry update covers additional topics including equipment enclosures and broader manufacturing trends."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti Massivit a AML3D informují o novinkách v obranném průmyslu.",
+      "Ve Spojených státech probíhá výroba nového velkoformátového systému LPBF.",
+      "Aktuální přehled se věnuje i dalším tématům, včetně ochranných krytů pro zařízení a širších trendů ve výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Defense",
+      "Massivit",
+      "AML3D",
+      "LPBF",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "Jihokorejský Lincsolution získal zakázku od Hanwha Defense v době, kdy Hanwha investuje miliardy v USA",
+    "summary": "I recently wrote about how the South Korean additive manufacturing (AM) firm Lincsolution is building an aerospace and defense hub, part of the company&#8217;s construction of &#8220;the largest AM facility in...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/size0-full-5.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-01T12:30:33+00:00",
+    "url": "https://3dprint.com/334017/south-koreas-lincsolution-lands-hanwha-defense-deal-as-hanwha-invests-billions-in-us/",
+    "forced_tags": [],
+    "title_en": "South Korea’s Lincsolution Lands Hanwha Defense Deal as Hanwha Invests Billions in US",
+    "summary_bullets_en": [
+      "Lincsolution is establishing a major aerospace and defense additive manufacturing hub in South Korea.",
+      "The company has secured a strategic partnership with Hanwha Defense to advance its manufacturing capabilities.",
+      "This collaboration coincides with Hanwha's massive multi-billion dollar investment strategy in the United States."
+    ],
+    "summary_bullets_cs": [
+      "Jihokorejská firma Lincsolution buduje centrum pro aditivní výrobu v oblasti letectví a obrany.",
+      "Společnost uzavřela strategickou dohodu s Hanwha Defense pro rozvoj svých výrobních kapacit.",
+      "Tato spolupráce probíhá v kontextu masivních investic společnosti Hanwha v USA v hodnotě miliard dolarů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Lincsolution",
+      "Hanwha Defense",
+      "Aerospace",
+      "Defense",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Optimalizace optiky: Jak aditivní výroba přináší revoluci v průmyslu kontaktních čoček",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/970848152/0/fabbaloo/default~Optimizing-Optics-How-Additive-Manufacturing-is-Revolutionizing-the-Contact-Lens-Industry\" rel=\"nofollow\" title=\"Optimizing Optics: How Additive Manufacturing is Revolutionizing the Contact Lens Industry\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_346-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Kate Esposito examine how additive manufacturing is making custom hard contact lenses faster, more affordable, and accessible for millions of patients.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/970848152/0/fabbaloo/default~Optimizing-Optics-How-Additive-Manufacturing-is-Revolutionizing-the-Contact-Lens-Industry\" rel=\"nofollow\">Optimizing Optics: How Additive Manufacturing is Revolutionizing the Contact Lens Industry</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/07/Filename-_346-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-01T12:21:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/970848152/0/fabbaloo/default~Optimizing-Optics-How-Additive-Manufacturing-is-Revolutionizing-the-Contact-Lens-Industry",
+    "forced_tags": [],
+    "title_en": "Optimizing Optics: How Additive Manufacturing is Revolutionizing the Contact Lens Industry",
+    "summary_bullets_en": [
+      "Additive manufacturing is transforming the production of custom hard contact lenses.",
+      "The technology significantly reduces production time and costs compared to traditional methods.",
+      "3D printing makes specialized optical solutions more accessible to a wider range of patients.",
+      "Experts Charles R. Goulding and Kate Esposito highlight the industry's shift toward personalized manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba mění způsob produkce zakázkových tvrdých kontaktních čoček.",
+      "Tato technologie výrazně zkracuje dobu výroby a snižuje náklady oproti tradičním metodám.",
+      "3D tisk zpřístupňuje specializovaná optická řešení mnohem širšímu okruhu pacientů.",
+      "Experti Charles R. Goulding a Kate Esposito poukazují na posun průmyslu směrem k personalizované výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Manufacturing",
+      "3D Printing",
+      "Contact Lenses",
+      "Optics",
+      "Medical Devices"
+    ]
+  },
+  {
+    "title": "China Watch #10: Miliardy jüanů pro kovový tisk, Bambu Lab expanduje do dalších obchodů Apple",
+    "summary": "Jingye and Interstellar Exploration plan metal powder and metal 3D printing factories, Xihe Additive bets on copper, while Phrozen and Flashforge unveil new resin printers",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/99306d34-8031-49f1-9b49-f8e40426a470_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-10-01T12:01:55+00:00",
+    "url": "https://www.3dprintingjournal.com/p/china-watch-10-billions-of-yuan-for",
+    "forced_tags": [],
+    "title_en": "China Watch #10: Billions of yuan for metal, Bambu Lab expands into more Apple stores",
+    "summary_bullets_en": [
+      "Major investments are flowing into metal 3D printing and powder production facilities by Jingye and Interstellar Exploration.",
+      "Xihe Additive is focusing its strategic efforts on copper-based additive manufacturing.",
+      "Bambu Lab continues its retail growth by increasing its presence in Apple stores.",
+      "Phrozen and Flashforge have launched new resin-based 3D printers to expand their product portfolios."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti Jingye a Interstellar Exploration plánují výstavbu továren na kovové prášky a kovový 3D tisk.",
+      "Firma Xihe Additive sází na vývoj v oblasti měděného 3D tisku.",
+      "Bambu Lab rozšiřuje svou maloobchodní síť v obchodech Apple.",
+      "Výrobci Phrozen a Flashforge představili nové resinové 3D tiskárny."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Bambu Lab",
+      "Jingye",
+      "Interstellar Exploration",
+      "Xihe Additive",
+      "Phrozen",
+      "Flashforge"
+    ]
+  },
+  {
+    "title": "MODGrid: „Gridfinity pro vaše kalhoty“",
+    "summary": "Gridfinity, of course, is a 3D printed configurable base plate system. Print the right-sized base plate, then print boxes or scissor holders that click onto it to organize your kitchen,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/knipe-1024x682.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-01T12:00:04+00:00",
+    "url": "https://3dprint.com/333268/modgrid-gridfinity-for-in-your-pants/",
+    "forced_tags": [],
+    "title_en": "MODGrid: “Gridfinity for in Your Pants”",
+    "summary_bullets_en": [
+      "MODGrid introduces a modular, wearable storage system inspired by the popular Gridfinity organizational standard.",
+      "The system allows users to 3D print custom base plates and modular containers that attach securely to clothing.",
+      "It aims to bring the efficiency of desktop organization to personal gear and everyday carry items.",
+      "The project leverages the versatility of 3D printing to create highly configurable, snap-on storage solutions."
+    ],
+    "summary_bullets_cs": [
+      "MODGrid představuje modulární nositelný úložný systém inspirovaný populárním organizačním standardem Gridfinity.",
+      "Systém umožňuje uživatelům vytisknout si na 3D tiskárně vlastní základní desky a modulární boxy, které lze bezpečně připevnit k oblečení.",
+      "Cílem je přenést efektivitu organizace pracovního stolu do oblasti osobního vybavení a věcí denní potřeby.",
+      "Projekt využívá všestrannost 3D tisku k vytváření vysoce konfigurovatelných úložných řešení se systémem zacvaknutí."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Gridfinity",
+      "MODGrid",
+      "Organization",
+      "Wearables",
+      "DIY"
+    ]
+  },
+  {
+    "title": "Lodní vrtule vyrobená technologií WAAM od společnosti Mencast Marine získala dvojí certifikaci",
+    "summary": "Hear from the experts shaping additive manufacturing software. Join 3D Printing Industry on 22 October for AMA: Software 2026, featuring exclusive presentations, panels and live Q&#38;A! Singapore propeller maker Mencast Marine has secured certification from Lloyd&#8217;s Register and the American Bureau of Shipping (ABS) for what the two classification societies recognize as the world&#8217;s first&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/8bfefc14-0310-416b-b7a9-cdeefcf50aa5-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-10-01T10:32:52+00:00",
+    "url": "https://3dprintingindustry.com/news/mencast-marines-waam-propeller-earns-dual-class-certification-255241/?utm_source=rss&utm_medium=rss&utm_campaign=mencast-marines-waam-propeller-earns-dual-class-certification",
+    "forced_tags": [],
+    "title_en": "Mencast Marine’s WAAM Propeller Earns Dual Class Certification",
+    "summary_bullets_en": [
+      "Singapore-based Mencast Marine has achieved a world-first dual certification for a WAAM-produced ship propeller.",
+      "The propeller received approval from both Lloyd’s Register and the American Bureau of Shipping (ABS).",
+      "This milestone highlights the growing industrial acceptance of Wire Arc Additive Manufacturing (WAAM) in maritime applications."
+    ],
+    "summary_bullets_cs": [
+      "Singapurský výrobce lodních vrtulí Mencast Marine získal jako první na světě dvojí certifikaci pro vrtuli vyrobenou technologií WAAM.",
+      "Certifikaci udělily dvě významné klasifikační společnosti: Lloyd’s Register a American Bureau of Shipping (ABS).",
+      "Tento úspěch potvrzuje rostoucí důvěru v technologii navařování kovů (WAAM) v námořním průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "WAAM",
+      "Mencast Marine",
+      "Lloyd’s Register",
+      "ABS",
+      "Maritime"
+    ]
+  },
+  {
+    "title": "Inženýři z Glasgow a Sydney využívají elektrickou impedanční tomografii ke sledování trhlin v 3D tištěných metamateriálech",
+    "summary": "Hear from the experts shaping additive manufacturing software. Join 3D Printing Industry on 22 October for AMA: Software 2026, featuring exclusive presentations, panels and live Q&#38;A! Engineers at the University of Glasgow and the University of Sydney have made 3D printed metamaterials that can show where they are being damaged and follow that damage as&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/adfm78620-fig-0009-m-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-10-01T10:13:40+00:00",
+    "url": "https://3dprintingindustry.com/news/glasgow-and-sydney-engineers-use-electrical-impedance-tomography-to-track-cracks-in-3d-printed-metamaterials-255234/?utm_source=rss&utm_medium=rss&utm_campaign=glasgow-and-sydney-engineers-use-electrical-impedance-tomography-to-track-cracks-in-3d-printed-metamaterials",
+    "forced_tags": [],
+    "title_en": "Glasgow and Sydney Engineers Use Electrical Impedance Tomography to Track Cracks in 3D Printed Metamaterials",
+    "summary_bullets_en": [
+      "Researchers from the University of Glasgow and the University of Sydney developed 3D printed metamaterials capable of self-monitoring.",
+      "The team utilizes Electrical Impedance Tomography (EIT) to detect and track structural damage in real-time.",
+      "This innovation allows for precise identification of internal cracks, enhancing the safety and longevity of additive manufacturing components."
+    ],
+    "summary_bullets_cs": [
+      "Vědci z University of Glasgow a University of Sydney vyvinuli 3D tištěné metamateriály schopné samomonitorování.",
+      "Tým využívá elektrickou impedanční tomografii (EIT) k detekci a sledování strukturálního poškození v reálném čase.",
+      "Tato inovace umožňuje přesnou identifikaci vnitřních trhlin, což zvyšuje bezpečnost a životnost komponentů vyrobených aditivní výrobou."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Metamaterials",
+      "Electrical Impedance Tomography",
+      "Structural Health Monitoring",
+      "University of Glasgow",
+      "University of Sydney"
+    ]
+  },
+  {
+    "title": "Patent LLNL nahrazuje rastrování u LPBF digitální světelnou maskou",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/970842611/0/fabbaloo/default~LLNL-Patent-Replaces-LPBF-Rastering-With-A-Digital-Light-Mask\" rel=\"nofollow\" title=\"LLNL Patent Replaces LPBF Rastering With A Digital Light Mask\"><img alt=\"Diagram of a diode-array additive-manufacturing system using a diode array, relay telescope, and powder bed substrate.\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/US_20260273840_A1-headline-300x134.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>LLNL is making a metal powder bed fusion machine print like an MSLA resin system.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/970842611/0/fabbaloo/default~LLNL-Patent-Replaces-LPBF-Rastering-With-A-Digital-Light-Mask\" rel=\"nofollow\">LLNL Patent Replaces LPBF Rastering With A Digital Light Mask</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/US_20260273840_A1-headline-300x134.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-01T08:22:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/970842611/0/fabbaloo/default~LLNL-Patent-Replaces-LPBF-Rastering-With-A-Digital-Light-Mask",
+    "forced_tags": [],
+    "title_en": "LLNL Patent Replaces LPBF Rastering With A Digital Light Mask",
+    "summary_bullets_en": [
+      "Lawrence Livermore National Laboratory (LLNL) has patented a new metal powder bed fusion (LPBF) technology.",
+      "The system replaces traditional laser rastering with a digital light mask, similar to MSLA resin 3D printing.",
+      "This approach uses a diode array to project light patterns, potentially increasing speed and efficiency in metal additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Lawrence Livermore National Laboratory (LLNL) si nechal patentovat novou technologii pro tisk z kovových prášků (LPBF).",
+      "Systém nahrazuje tradiční laserové rastrování digitální světelnou maskou, podobně jako u MSLA tiskáren pro pryskyřici.",
+      "Tento přístup využívá pole diod k promítání světelných vzorů, což může zvýšit rychlost a efektivitu aditivní výroby kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal Additive Manufacturing",
+      "LPBF",
+      "LLNL",
+      "3D Printing Innovation",
+      "Diode Array"
+    ]
+  },
+  {
+    "title": "Creality míří mezi profesionály se 3D skenerem Sermoon P1S",
+    "summary": "From making millions of value-engineered Prusa clones, Creality really has aggressively pivoted to more complex machines. The company has made strides forward in software, and the Ender&#8217;s of yore is...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/5-2-1024x576.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-01T07:00:28+00:00",
+    "url": "https://3dprint.com/333273/creality-goes-pro-with-sermoon-p1s-3d-scanner/",
+    "forced_tags": [],
+    "title_en": "Creality Goes Pro with Sermoon P1S 3D Scanner",
+    "summary_bullets_en": [
+      "Creality is shifting its focus from budget-friendly Prusa clones to more sophisticated, professional-grade hardware.",
+      "The company is making significant improvements in its software ecosystem to support new, complex devices.",
+      "The launch of the Sermoon P1S 3D scanner marks a strategic move into the professional 3D scanning market.",
+      "The brand is successfully distancing itself from its reputation for entry-level Ender printers."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Creality mění strategii a od levných klonů tiskáren Prusa přechází k vývoji komplexnějších a profesionálních strojů.",
+      "Firma dělá velké pokroky ve vývoji softwaru, který nyní lépe podporuje její nová zařízení.",
+      "Uvedení 3D skeneru Sermoon P1S představuje klíčový krok společnosti do segmentu profesionálního skenování.",
+      "Značka se postupně zbavuje své původní pověsti výrobce pouze základních tiskáren řady Ender."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Creality",
+      "3D Scanning",
+      "Sermoon P1S"
+    ]
+  },
+  {
+    "title": "Společnost MX3D získala certifikaci DNV AMC3 pro své pracoviště WAAM",
+    "summary": "MX3D, an Amsterdam-based company that builds robotic metal additive manufacturing (AM) systems, has received a Certificate of Qualification from DNV at the Additive Manufacturing Criticality 3 (AMC3) level for its wire arc additive manufacturing (WAAM) facility. The certificate was issued under the DNV-ST-B203 standard and applies to metal parts used in maritime, defense, and energy&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/pulper-screw-edited-1030x730-1-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-10-01T06:56:23+00:00",
+    "url": "https://3dprintingindustry.com/news/mx3d-receives-dnv-amc3-certification-for-its-waam-facility-255254/?utm_source=rss&utm_medium=rss&utm_campaign=mx3d-receives-dnv-amc3-certification-for-its-waam-facility",
+    "forced_tags": [],
+    "title_en": "MX3D Receives DNV AMC3 Certification for Its WAAM Facility",
+    "summary_bullets_en": [
+      "Amsterdam-based MX3D has achieved DNV AMC3 certification for its wire arc additive manufacturing (WAAM) facility.",
+      "The qualification follows the DNV-ST-B203 standard, ensuring high-quality production for critical metal components.",
+      "This certification validates the company's capability to manufacture parts for the maritime, defense, and energy sectors."
+    ],
+    "summary_bullets_cs": [
+      "Společnost MX3D se sídlem v Amsterdamu získala certifikaci DNV na úrovni AMC3 pro své pracoviště zaměřené na obloukové aditivní výrobě kovů (WAAM).",
+      "Certifikát byl vydán podle standardu DNV-ST-B203 a potvrzuje vysokou kvalitu výroby kritických kovových dílů.",
+      "Osvědčení se vztahuje na kovové součásti využívané v námořním průmyslu, obraně a energetice."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "MX3D",
+      "DNV",
+      "WAAM",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Růst ve zdravotnictví přetváří čtvrtletní výsledky 3D Systems ve výši 94,6 mil. USD",
     "summary": "US-based 3D printer manufacturer 3D Systems (NYSE: DDD) posted $94.6 million in second-quarter (Q2) 2026 revenue, down 0.3% Y/Y from $94.8 million a year earlier.&#160; The operating loss narrowed to $10.6 million from $15.4 million in the prior-year period, with lower operating expenses, supported by more than $60 million in annualized cost savings, contributing to&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2025/07/3D-Systems-3D-printed-NextDent-dentures.-Photo-by-3D-Printing-Industry-1-150x100.jpg",
