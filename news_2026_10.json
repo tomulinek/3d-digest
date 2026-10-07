@@ -1,5 +1,404 @@
 [
   {
+    "title": "Uhlíková vlákna automaticky nezvyšují pevnost dílů tištěných technologií FFF",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971071694/0/fabbaloo/default~Carbon-Fiber-Does-Not-Automatically-Make-FFF-Parts-Stronger\" rel=\"nofollow\" title=\"Carbon Fiber Does Not Automatically Make FFF Parts Stronger\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/carbon-fiber-coupon-testing-cover-300x178.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Carbon fiber filled filament sounds like an easy upgrade, but the reality is considerably messier.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971071694/0/fabbaloo/default~Carbon-Fiber-Does-Not-Automatically-Make-FFF-Parts-Stronger\" rel=\"nofollow\">Carbon Fiber Does Not Automatically Make FFF Parts Stronger</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/carbon-fiber-coupon-testing-cover-300x178.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-06T20:24:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971071694/0/fabbaloo/default~Carbon-Fiber-Does-Not-Automatically-Make-FFF-Parts-Stronger",
+    "forced_tags": [],
+    "title_en": "Carbon Fiber Does Not Automatically Make FFF Parts Stronger",
+    "summary_bullets_en": [
+      "Carbon fiber-filled filaments are often perceived as a simple performance upgrade for 3D printed parts.",
+      "The reality of using these materials is more complex, as the addition of fibers does not guarantee increased structural integrity.",
+      "Proper testing and understanding of material properties are essential to avoid misconceptions about strength improvements in FFF printing."
+    ],
+    "summary_bullets_cs": [
+      "Filamenty plněné uhlíkovými vlákny jsou často vnímány jako snadné vylepšení vlastností 3D tištěných dílů.",
+      "Realita používání těchto materiálů je složitější, protože samotná příměs vláken nezaručuje vyšší strukturální pevnost.",
+      "Pro správné pochopení vlastností materiálu je nezbytné testování, aby se předešlo mylným představám o zvýšení odolnosti u FFF tisku."
+    ],
+    "tags": [
+      "Material",
+      "FFF",
+      "3D Printing",
+      "Carbon Fiber",
+      "Composite Materials",
+      "Engineering"
+    ]
+  },
+  {
+    "title": "Lynxel láká na LMS, nový proces plnobarevného 3D tisku z pryskyřice",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971064593/0/fabbaloo/default~Lynxel-Teases-LMS-a-New-FullColor-Resin-D-Printing-Process\" rel=\"nofollow\" title=\"Lynxel Teases LMS, a New Full-Color Resin 3D Printing Process\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/lynxel-cover2-300x143.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>An entirely new full-color 3D printing process is about to launch.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971064593/0/fabbaloo/default~Lynxel-Teases-LMS-a-New-FullColor-Resin-D-Printing-Process\" rel=\"nofollow\">Lynxel Teases LMS, a New Full-Color Resin 3D Printing Process</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/lynxel-cover2-300x143.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-06T16:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971064593/0/fabbaloo/default~Lynxel-Teases-LMS-a-New-FullColor-Resin-D-Printing-Process",
+    "forced_tags": [],
+    "title_en": "Lynxel Teases LMS, a New Full-Color Resin 3D Printing Process",
+    "summary_bullets_en": [
+      "Lynxel has announced a brand new 3D printing technology called LMS.",
+      "The process is specifically designed for full-color resin 3D printing.",
+      "This innovation promises to bring advanced color capabilities to the resin printing market."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Lynxel oznámila zcela novou technologii 3D tisku s názvem LMS.",
+      "Tento proces je speciálně navržen pro plnobarevný 3D tisk z pryskyřice.",
+      "Inovace slibuje přinést pokročilé barevné možnosti na trh s resinovými tiskárnami."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Lynxel",
+      "Resin 3D Printing",
+      "Full-Color Printing",
+      "LMS Technology"
+    ]
+  },
+  {
+    "title": "Okres San Diego žaluje společnost Polymaker kvůli marketingu filamentů pro výrobce nelegálních zbraní",
+    "summary": "AppLovin and Roblox face separate lawsuits as San Diego County launches its new consumer protection unit",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/c27e81c1-a149-4516-a347-3eb1740703c1_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-10-06T16:01:35+00:00",
+    "url": "https://www.3dprintingjournal.com/p/san-diego-county-sues-polymaker-over",
+    "forced_tags": [],
+    "title_en": "San Diego County sues Polymaker over filament marketing to ghost gun makers",
+    "summary_bullets_en": [
+      "San Diego County has filed a lawsuit against 3D printing filament manufacturer Polymaker.",
+      "The legal action alleges that the company marketed its products specifically to manufacturers of untraceable 'ghost guns'.",
+      "This case is part of a broader initiative by the county's new consumer protection unit, which is also targeting tech firms AppLovin and Roblox."
+    ],
+    "summary_bullets_cs": [
+      "Okres San Diego podal žalobu na výrobce 3D tiskových strun, společnost Polymaker.",
+      "Žaloba tvrdí, že firma cíleně propagovala své produkty výrobcům neoznačených „ghost guns“ (tzv. duchových zbraní).",
+      "Tento případ je součástí širší iniciativy nové jednotky pro ochranu spotřebitelů, která se zaměřuje také na technologické firmy AppLovin a Roblox."
+    ],
+    "tags": [
+      "Material",
+      "Legal",
+      "Polymaker",
+      "3D Printing",
+      "Consumer Protection"
+    ]
+  },
+  {
+    "title": "Quadratic 3D vyvíjí platformu pro volumetrický 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971062424/0/fabbaloo/default~Quadratic-D-Building-A-Volumetric-Printing-Platform\" rel=\"nofollow\" title=\"Quadratic 3D Building A Volumetric Printing Platform\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/quadratic-3d-cover-300x206.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Quadratic 3D has been hiding in plain sight.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971062424/0/fabbaloo/default~Quadratic-D-Building-A-Volumetric-Printing-Platform\" rel=\"nofollow\">Quadratic 3D Building A Volumetric Printing Platform</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/quadratic-3d-cover-300x206.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-06T15:05:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971062424/0/fabbaloo/default~Quadratic-D-Building-A-Volumetric-Printing-Platform",
+    "forced_tags": [],
+    "title_en": "Quadratic 3D Building A Volumetric Printing Platform",
+    "summary_bullets_en": [
+      "Quadratic 3D is emerging from stealth mode to develop a new volumetric 3D printing platform.",
+      "The company has been operating quietly while working on advanced additive manufacturing technology.",
+      "Volumetric printing represents a significant shift in speed and production capabilities compared to traditional layer-by-layer methods."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Quadratic 3D vystupuje ze stínu a pracuje na nové platformě pro volumetrický 3D tisk.",
+      "Firma doposud působila v ústraní, zatímco vyvíjela pokročilé technologie aditivní výroby.",
+      "Volumetrický tisk představuje zásadní posun v rychlosti a možnostech produkce oproti tradičním vrstveným metodám."
+    ],
+    "tags": [
+      "Hardware",
+      "Volumetric Printing",
+      "Additive Manufacturing",
+      "Quadratic 3D",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Patent společnosti Xolo využívá „rozptýlené“ světelné paprsky k vyhlazení objemových výtisků",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971052308/0/fabbaloo/default~Xolo-Patent-Uses-Messy-Light-Beams-To-Smooth-Volumetric-Prints\" rel=\"nofollow\" title=\"Xolo Patent Uses Messy Light Beams To Smooth Volumetric Prints\"><img alt=\"Perspective schematic of a volumetric 3D-printing apparatus with a cylindrical carrier structure, optical elements, irradiation sources, and a central working volume.\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/US_20260284974_A1-headline-237x300.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"237\" /></a><p>Volumetric 3D printing can be fast, but the light itself can leave fingerprints on the part.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971052308/0/fabbaloo/default~Xolo-Patent-Uses-Messy-Light-Beams-To-Smooth-Volumetric-Prints\" rel=\"nofollow\">Xolo Patent Uses Messy Light Beams To Smooth Volumetric Prints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/US_20260284974_A1-headline-237x300.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-06T13:37:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971052308/0/fabbaloo/default~Xolo-Patent-Uses-Messy-Light-Beams-To-Smooth-Volumetric-Prints",
+    "forced_tags": [],
+    "title_en": "Xolo Patent Uses Messy Light Beams To Smooth Volumetric Prints",
+    "summary_bullets_en": [
+      "Volumetric 3D printing offers high-speed production but often suffers from surface artifacts caused by light exposure.",
+      "Xolo has filed a new patent detailing a method to use 'messy' or diffused light beams to improve surface finish.",
+      "This technique aims to eliminate the visible 'fingerprints' left by standard light projection methods in volumetric printing.",
+      "The innovation focuses on refining the optical process to achieve smoother, higher-quality parts."
+    ],
+    "summary_bullets_cs": [
+      "Objemový 3D tisk je velmi rychlý, ale samotné světlo může na výtisku zanechávat nežádoucí stopy.",
+      "Společnost Xolo si nechala patentovat metodu, která využívá rozptýlené světelné paprsky k dosažení hladšího povrchu tištěných objektů.",
+      "Tato inovace řeší problém viditelných artefaktů, které vznikají při standardních procesech objemového 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Xolo",
+      "Volumetric 3D Printing",
+      "3D Printing Technology",
+      "Patents"
+    ]
+  },
+  {
+    "title": "Doporučeno několik nových materiálů pro inženýrský a dentální 3D tisk",
+    "summary": "In 3D printing, the printer determines how a part is made — the material determines what can be made. Rather than another general-purpose material, the new ANTINSKY lineup answers specific...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/Screenshot-2026-10-05-at-12.05.21-PM-1024x427.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-06T13:00:15+00:00",
+    "url": "https://3dprint.com/334222/several-new-engineering-and-dental-3d-printing-materials-recommended/",
+    "forced_tags": [],
+    "title_en": "Several New Engineering and Dental 3D Printing Materials Recommended",
+    "summary_bullets_en": [
+      "ANTINSKY has launched a new lineup of specialized 3D printing materials.",
+      "The collection focuses on specific engineering and dental applications rather than general-purpose use.",
+      "The materials are designed to expand the functional capabilities of 3D printed parts.",
+      "This release highlights the critical role of material selection in determining the final utility of printed components."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ANTINSKY uvedla na trh novou řadu specializovaných materiálů pro 3D tisk.",
+      "Kolekce se zaměřuje na konkrétní inženýrské a dentální aplikace namísto univerzálního použití.",
+      "Materiály jsou navrženy tak, aby rozšířily funkční možnosti 3D tištěných dílů.",
+      "Tato novinka zdůrazňuje klíčovou roli výběru materiálu při určování výsledné využitelnosti tištěných komponent."
+    ],
+    "tags": [
+      "Material",
+      "ANTINSKY",
+      "Engineering",
+      "Dental",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Tyto 3D tištěné mřížkové struktury dokážou detekovat poškození dříve, než selžou",
+    "summary": "A new paper, &#8220;Full-Field Damage Monitoring in Architected Lattices Using In situ Electrical Impedance Tomography,&#8221; points to lattices being able to detect damage. This could really help composites in critical...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/adfm78620-fig-0007-m.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-06T12:30:21+00:00",
+    "url": "https://3dprint.com/334230/3d-printed-lattices-monitor-damage/",
+    "forced_tags": [],
+    "title_en": "These 3D Printed Lattices Can Sense Damage Before Failure",
+    "summary_bullets_en": [
+      "Researchers developed 3D printed lattices capable of self-monitoring for structural damage.",
+      "The method utilizes in situ Electrical Impedance Tomography (EIT) to map internal stress and cracks.",
+      "This technology allows for real-time damage detection before a catastrophic failure occurs.",
+      "The innovation holds significant potential for improving the safety and reliability of composite materials in critical applications."
+    ],
+    "summary_bullets_cs": [
+      "Nový odborný článek představuje 3D tištěné mřížkové struktury, které jsou schopny samy monitorovat své poškození.",
+      "Tato technologie by mohla výrazně pomoci kompozitním materiálům v kritických aplikacích tím, že včas odhalí blížící se selhání."
+    ],
+    "tags": [
+      "Material",
+      "Research",
+      "3D Printing",
+      "Lattice Structures",
+      "Electrical Impedance Tomography",
+      "Structural Health Monitoring"
+    ]
+  },
+  {
+    "title": "Kickstarter testuje další vlnu stolního 3D tisku",
+    "summary": "3D printers are raising serious money again&#8230;on Kickstarter, that is. Over the last few months, a new group of 3D printer campaigns has attracted millions of dollars and thousands of...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/09/4.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-06T12:00:14+00:00",
+    "url": "https://3dprint.com/334287/kickstarter-is-testing-the-next-wave-of-desktop-3d-printing/",
+    "forced_tags": [],
+    "title_en": "Kickstarter is Testing the Next Wave of Desktop 3D Printing",
+    "summary_bullets_en": [
+      "Desktop 3D printer crowdfunding campaigns are experiencing a significant financial resurgence on Kickstarter.",
+      "Recent projects have successfully raised millions of dollars from thousands of backers.",
+      "This trend signals a renewed interest and innovation phase within the consumer 3D printing market."
+    ],
+    "summary_bullets_cs": [
+      "3D tiskárny opět získávají značné finanční prostředky prostřednictvím platformy Kickstarter.",
+      "Během posledních měsíců přilákala nová skupina kampaní na 3D tiskárny miliony dolarů a tisíce podporovatelů.",
+      "Tento trend naznačuje obnovený zájem a novou fázi inovací na trhu se stolními 3D tiskárnami."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Kickstarter",
+      "Crowdfunding",
+      "Desktop 3D Printers",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Soubor dovnitř, čistý výtisk ven: Nová tiskárna S10 od UniFormation řeší největší nepořádek v resinovém 3D tisku",
+    "summary": "Discover exclusive software insights at AMA: Software 2026, on October 22. Register for free! Resin 3D printing tends to look cleaner in promotion than it does in practice. The print finishes, and then the real work begins. Lifting a dripping build plate, transferring it into a wash station, waiting, moving the model to a separate&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/UFN1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-06T11:56:22+00:00",
+    "url": "https://3dprintingindustry.com/news/file-in-clean-print-out-uniformations-new-s10-tackles-resin-3d-printings-messiest-problem-255412/?utm_source=rss&utm_medium=rss&utm_campaign=file-in-clean-print-out-uniformations-new-s10-tackles-resin-3d-printings-messiest-problem",
+    "forced_tags": [],
+    "title_en": "File In. Clean Print Out: UniFormation’s New S10 Tackles Resin 3D Printing’s Messiest Problem",
+    "summary_bullets_en": [
+      "UniFormation introduces the S10, a new resin 3D printer designed to simplify the notoriously messy post-processing workflow.",
+      "The device aims to automate the transition from printing to washing, reducing manual handling of dripping build plates.",
+      "The company is hosting an exclusive 'AMA: Software 2026' event on October 22 to discuss future software developments.",
+      "Interested users can register for the upcoming software-focused event for free."
+    ],
+    "summary_bullets_cs": [
+      "Objevte exkluzivní vhled do softwaru na akci AMA: Software 2026, která se koná 22. října. Registrace je zdarma!",
+      "Resinový 3D tisk vypadá v reklamách čistěji než v praxi; po dokončení tisku začíná náročná práce s odkapávající tiskovou podložkou a následným mytím modelu."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "UniFormation",
+      "Resin 3D Printing",
+      "Post-processing",
+      "S10"
+    ]
+  },
+  {
+    "title": "Pokud to postavíte, možná přijdou: Strategický posun společnosti Lockheed",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971045186/0/fabbaloo/default~If-You-Build-it-They-May-Come-Lockheed%e2%80%99s-Strategic-Shift\" rel=\"nofollow\" title=\"If You Build it, They May Come: Lockheed’s Strategic Shift\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/Filename-_358-300x234.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi discuss how Lockheed Martin's bold production strategy could foreshadow the next era of defense manufacturing, where additive manufacturing plays an increasingly strategic role.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971045186/0/fabbaloo/default~If-You-Build-it-They-May-Come-Lockheed%e2%80%99s-Strategic-Shift\" rel=\"nofollow\">If You Build it, They May Come: Lockheed’s Strategic Shift</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/Filename-_358-300x234.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-06T11:40:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971045186/0/fabbaloo/default~If-You-Build-it-They-May-Come-Lockheed%e2%80%99s-Strategic-Shift",
+    "forced_tags": [],
+    "title_en": "If You Build it, They May Come: Lockheed’s Strategic Shift",
+    "summary_bullets_en": [
+      "Lockheed Martin is implementing a bold new production strategy that emphasizes the growing importance of additive manufacturing in defense.",
+      "The shift suggests a broader industry trend where 3D printing becomes a core strategic asset rather than just a prototyping tool.",
+      "Authors Charles R. Goulding and Preeti Sulibhavi analyze how this approach could redefine future defense manufacturing capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Lockheed Martin zavádí odvážnou výrobní strategii, která zdůrazňuje rostoucí význam aditivní výroby v obranném průmyslu.",
+      "Tento posun naznačuje širší průmyslový trend, kdy se 3D tisk stává klíčovým strategickým aktivem, nikoliv pouze nástrojem pro prototypování.",
+      "Autoři Charles R. Goulding a Preeti Sulibhavi analyzují, jak by tento přístup mohl redefinovat budoucí kapacity obranné výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Lockheed Martin",
+      "Additive Manufacturing",
+      "Defense Industry",
+      "Strategic Manufacturing"
+    ]
+  },
+  {
+    "title": "AMPOWER: Pohled na desktopový 3D tisk, boom desktopového 3D tisku mění ekonomiku továren",
+    "summary": "Where can AI actually help your print workflow? Find out at AMA Software, online on October 22nd. At Huafast’s 3D printing operation in Shenzhen, thousands of desktop machines manufacture toys and other products. On some of the equipment, getting a design into production still involves carrying an SD card to the printer. Wireless interference makes&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/Rows-of-Bambu-Lab-desktop-3D-printers-operating-at-Huafast-in-Guangming.-Photo-by-Michael-Petch-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-06T11:24:25+00:00",
+    "url": "https://3dprintingindustry.com/news/ampower-desktop-3d-printing-insights-desktop-3d-printing-boom-is-reshaping-factory-economics-255407/?utm_source=rss&utm_medium=rss&utm_campaign=ampower-desktop-3d-printing-insights-desktop-3d-printing-boom-is-reshaping-factory-economics",
+    "forced_tags": [],
+    "title_en": "AMPOWER Desktop 3D Printing Insights, Desktop 3D Printing Boom is Reshaping Factory Economics",
+    "summary_bullets_en": [
+      "Desktop 3D printing is transforming industrial economics, as seen in large-scale operations like Huafast in Shenzhen.",
+      "Despite the scale, many production workflows still rely on manual processes like physical SD card transfers.",
+      "Wireless connectivity challenges remain a significant hurdle for scaling desktop printer farms.",
+      "An upcoming AMA Software event on October 22nd will explore how AI can optimize these 3D printing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Desktopový 3D tisk mění ekonomiku výroby, což dokládají rozsáhlé provozy, jako je Huafast v Šen-čenu.",
+      "Navzdory velkému měřítku výroby se pracovní postupy stále často spoléhají na manuální přenos dat pomocí SD karet.",
+      "Rušení bezdrátového signálu zůstává významnou překážkou při škálování farem desktopových tiskáren.",
+      "Nadcházející akce AMA Software, která se koná 22. října, se zaměří na to, jak může umělá inteligence optimalizovat procesy 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "AMPOWER",
+      "Huafast",
+      "Desktop 3D Printing",
+      "AI",
+      "Factory Automation"
+    ]
+  },
+  {
+    "title": "Společnost Wabtec využívá aditivní výrobu k řešení problému s náhradními díly pro stárnoucí evropskou flotilu",
+    "summary": "The railway sector is not known for its speed in maintenance and component replacement, but Wabtec is now running more than 150,000 3D printed parts on trains worldwide, using additive manufacturing to do what conventional casting and foundries increasingly can&#8217;t: cut weight, compress lead times, and rescue parts that would otherwise be obsolete. The safety-critical&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2025/09/AMAAM-2025-Banner-4-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-06T10:31:40+00:00",
+    "url": "https://3dprintingindustry.com/news/wabtec-leverages-additive-manufacturing-to-address-europes-aging-fleet-spare-parts-challenge-255212/?utm_source=rss&utm_medium=rss&utm_campaign=wabtec-leverages-additive-manufacturing-to-address-europes-aging-fleet-spare-parts-challenge",
+    "forced_tags": [],
+    "title_en": "Wabtec leverages Additive Manufacturing to address Europe’s aging fleet Spare Parts Challenge",
+    "summary_bullets_en": [
+      "Wabtec has successfully integrated over 150,000 3D printed components into its global train fleet.",
+      "Additive manufacturing is being used to overcome supply chain limitations, such as long lead times and the obsolescence of traditional casting methods.",
+      "The technology enables significant weight reduction and provides a vital solution for maintaining aging railway infrastructure.",
+      "Wabtec focuses on producing safety-critical parts that meet the rigorous standards of the rail industry."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Wabtec již po celém světě provozuje více než 150 000 3D tištěných dílů ve vlacích.",
+      "Aditivní výroba pomáhá překonávat omezení tradičních sléváren, zkracuje dodací lhůty a umožňuje výrobu dílů, které by jinak byly nedostupné.",
+      "Technologie 3D tisku přináší snížení hmotnosti komponent a efektivní řešení pro údržbu stárnoucí železniční infrastruktury.",
+      "Wabtec se zaměřuje na výrobu bezpečnostně kritických součástí, které splňují přísné normy železničního průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Wabtec",
+      "Additive Manufacturing",
+      "Railway Industry",
+      "Spare Parts"
+    ]
+  },
+  {
+    "title": "Waterloo vytisklo na 3D tiskárně nový filtr, který odstraní 90 % mikroplastů z vody",
+    "summary": "Discover exclusive software insights at AMA: Software 2026, on October 22. Register for free! Researchers from University of Waterloo have developed a 3D printed water filtration column made from biodegradable plastic that removed 90% of microplastics from contaminated water using nothing but gravity.&#160; The system combines surface porosity engineering with pressure-sensitive adhesive coatings to capture&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/1-s2.0-S1383586625050142-gr1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-06T10:30:27+00:00",
+    "url": "https://3dprintingindustry.com/news/waterloo-3d-prints-new-filter-that-removes-90-of-microplastics-from-water-255398/?utm_source=rss&utm_medium=rss&utm_campaign=waterloo-3d-prints-new-filter-that-removes-90-of-microplastics-from-water",
+    "forced_tags": [],
+    "title_en": "Waterloo 3D Prints New Filter That Removes 90% of Microplastics from Water",
+    "summary_bullets_en": [
+      "Researchers at the University of Waterloo created a 3D printed filtration column using biodegradable materials.",
+      "The device effectively removes 90% of microplastics from water relying solely on gravity.",
+      "The technology utilizes a combination of surface porosity engineering and specialized adhesive coatings to trap contaminants."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z University of Waterloo vyvinuli 3D tištěnou filtrační kolonu z biologicky rozložitelného plastu.",
+      "Systém dokáže odstranit 90 % mikroplastů ze znečištěné vody pouze za využití gravitace.",
+      "Technologie kombinuje inženýrství povrchové pórovitosti s vrstvami lepidel citlivých na tlak pro zachycení nečistot."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Sustainability",
+      "Water Filtration",
+      "University of Waterloo"
+    ]
+  },
+  {
+    "title": "Proč by měl průmysl 3D tisku věnovat pozornost akvizici PTC společností Schneider Electric v hodnotě 22,6 miliardy dolarů",
+    "summary": "By late 2024, there was already enough signaling of the additive manufacturing (AM) industry opportunity in the data center infrastructure market for AM Research to write a report on the...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/Metal-3D-part-Few-metal-circuit-breaker-filter_GKN-20481152.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-06T07:00:40+00:00",
+    "url": "https://3dprint.com/334256/why-the-am-industry-should-pay-attention-to-schneider-electrics-22-6b-ptc-acquisition/",
+    "forced_tags": [],
+    "title_en": "Why the AM Industry Should Pay Attention to Schneider Electric’s $22.6B PTC Acquisition",
+    "summary_bullets_en": [
+      "Schneider Electric's massive $22.6 billion acquisition of PTC signals a major shift in industrial digital infrastructure.",
+      "The move highlights the growing intersection between data center infrastructure and additive manufacturing (AM) capabilities.",
+      "AM Research identifies significant opportunities for 3D printing to support the rapid expansion of data center hardware.",
+      "This consolidation suggests that software-driven industrial ecosystems will increasingly rely on integrated AM workflows."
+    ],
+    "summary_bullets_cs": [
+      "Akvizice společnosti PTC firmou Schneider Electric v hodnotě 22,6 miliardy dolarů signalizuje zásadní posun v průmyslové digitální infrastruktuře.",
+      "Tento krok podtrhuje rostoucí propojení mezi infrastrukturou datových center a možnostmi aditivní výroby (AM).",
+      "AM Research identifikuje významné příležitosti pro 3D tisk při podpoře rychlého rozšiřování hardwaru pro datová centra.",
+      "Tato konsolidace naznačuje, že softwarově řízené průmyslové ekosystémy budou stále více spoléhat na integrované procesy aditivní výroby."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Schneider Electric",
+      "PTC",
+      "AM Research",
+      "Data Centers",
+      "Industrial IoT"
+    ]
+  },
+  {
     "title": "Uniformation chystá uvedení plně automatizované resinové tiskárny",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/971019707/0/fabbaloo/default~Uniformation-to-Launch-for-Fully-Automated-Resin-Printer\" rel=\"nofollow\" title=\"Uniformation to Launch for Fully Automated Resin Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/uniformation-s1-campaign-cover-300x176.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Now here’s a new take on resin 3D printing: full automation, on the desktop.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971019707/0/fabbaloo/default~Uniformation-to-Launch-for-Fully-Automated-Resin-Printer\" rel=\"nofollow\">Uniformation to Launch for Fully Automated Resin Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/uniformation-s1-campaign-cover-300x176.jpg",
