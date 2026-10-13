@@ -1,5 +1,550 @@
 [
   {
+    "title": "Prusa si patentovala tvarování kanálků trysky pro vyšší průtok",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971291903/0/fabbaloo/default~Prusa-Patent-Shapes-Nozzle-Channels-For-Higher-Flow\" rel=\"nofollow\" title=\"Prusa Patent Shapes Nozzle Channels For Higher Flow\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/prusa-nozzle-patent-cover-300x232.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prusa has patented a very unusual and possibly quite powerful hot end design.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971291903/0/fabbaloo/default~Prusa-Patent-Shapes-Nozzle-Channels-For-Higher-Flow\" rel=\"nofollow\">Prusa Patent Shapes Nozzle Channels For Higher Flow</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/prusa-nozzle-patent-cover-300x232.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-12T16:18:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971291903/0/fabbaloo/default~Prusa-Patent-Shapes-Nozzle-Channels-For-Higher-Flow",
+    "forced_tags": [],
+    "title_en": "Prusa Patent Shapes Nozzle Channels For Higher Flow",
+    "summary_bullets_en": [
+      "Prusa Research has filed a patent for a novel hot end design featuring uniquely shaped internal nozzle channels.",
+      "The design aims to significantly improve material flow rates during the 3D printing process.",
+      "This innovation could lead to faster printing speeds and enhanced performance for future Prusa hardware."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Prusa si nechala patentovat neobvyklý design hotendu, který využívá specificky tvarované vnitřní kanálky trysky.",
+      "Cílem tohoto řešení je výrazné zvýšení průtoku taveného materiálu při 3D tisku.",
+      "Tato inovace by mohla v budoucnu přinést vyšší rychlosti tisku a celkově lepší výkon tiskáren Prusa."
+    ],
+    "tags": [
+      "Hardware",
+      "Prusa Research",
+      "3D Printing",
+      "Nozzle",
+      "Hotend",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Simulace vysvětlují tok čerstvého cementu pro 3D tisk",
+    "summary": "Where is AI unlocking advantages? Explore what is possible at AMA: Software 2026. Researchers at Northwestern University and The University of Alabama have developed a multiscale modeling framework to study how freshly mixed cement paste flows, a behavior that strongly affects how well concrete can be 3D printed. The study was published in the Journal&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Cement-optimisation-01-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-12T15:30:00+00:00",
+    "url": "https://3dprintingindustry.com/news/simulations-explain-fresh-cement-flow-for-3d-printing-255550/?utm_source=rss&utm_medium=rss&utm_campaign=simulations-explain-fresh-cement-flow-for-3d-printing",
+    "forced_tags": [],
+    "title_en": "Simulations Explain Fresh Cement Flow for 3D Printing",
+    "summary_bullets_en": [
+      "Researchers from Northwestern University and The University of Alabama created a new multiscale modeling framework.",
+      "The study focuses on the flow behavior of fresh cement paste, which is critical for successful 3D concrete printing.",
+      "This advancement helps optimize material consistency and structural integrity in additive manufacturing.",
+      "The findings were recently published in a scientific journal to support further innovation in construction technology."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Northwestern University a University of Alabama vyvinuli nový multiskalární modelovací rámec.",
+      "Studie se zaměřuje na chování toku čerstvé cementové směsi, což je klíčový faktor pro úspěšný 3D tisk betonu.",
+      "Tento pokrok pomáhá optimalizovat konzistenci materiálu a strukturální integritu v aditivní výrobě.",
+      "Zjištění byla publikována ve vědeckém časopise s cílem podpořit další inovace ve stavebních technologiích."
+    ],
+    "tags": [
+      "Material",
+      "Software",
+      "3D Concrete Printing",
+      "Construction",
+      "Multiscale Modeling",
+      "Research"
+    ]
+  },
+  {
+    "title": "Tepelná odolnost 3D tištěných dílů funguje obousměrně",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971289647/0/fabbaloo/default~Thermal-Resistance-of-D-Printed-Parts-Goes-Both-Ways\" rel=\"nofollow\" title=\"Thermal Resistance of 3D Printed Parts Goes Both Ways\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/thermal-fishing-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Thermal resistance is often spoken of for 3D print materials, but I ran into an unusual scenario involving temperature.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971289647/0/fabbaloo/default~Thermal-Resistance-of-D-Printed-Parts-Goes-Both-Ways\" rel=\"nofollow\">Thermal Resistance of 3D Printed Parts Goes Both Ways</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/thermal-fishing-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-12T15:03:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971289647/0/fabbaloo/default~Thermal-Resistance-of-D-Printed-Parts-Goes-Both-Ways",
+    "forced_tags": [],
+    "title_en": "Thermal Resistance of 3D Printed Parts Goes Both Ways",
+    "summary_bullets_en": [
+      "Thermal resistance is a critical factor when selecting 3D printing materials for functional parts.",
+      "The author encountered a unique real-world scenario where thermal properties behaved unexpectedly.",
+      "The article highlights that thermal management in 3D printing is not just about heat resistance, but also about how materials interact with temperature in both directions."
+    ],
+    "summary_bullets_cs": [
+      "Tepelná odolnost je klíčovým faktorem při výběru materiálů pro 3D tisk funkčních dílů.",
+      "Autor narazil na neobvyklý scénář z praxe, kde se tepelné vlastnosti materiálů projevily nečekaným způsobem.",
+      "Článek zdůrazňuje, že správa teploty v 3D tisku není pouze o odolnosti vůči žáru, ale také o tom, jak materiály reagují na teplotní změny v obou směrech."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Thermal Properties",
+      "Engineering",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "Univerzita ECU se připojuje k AMCRC s cílem podpořit aplikace v obraně, těžbě a průmyslu",
+    "summary": "What should you automate next? Get ideas at AMA: Software 2026. Perth-based Edith Cowan University (ECU) has become the latest research partner of the Additive Manufacturing Cooperative Research Centre (AMCRC), bringing a Western Australian institution into a national collaboration focused on accelerating industrial adoption of 3D printing across Australia. ECU joins an existing network made&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/ecu.png-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-10-12T13:30:00+00:00",
+    "url": "https://3dprintingindustry.com/news/ecu-joins-amcrc-to-boost-defence-mining-and-resources-applications-255516/?utm_source=rss&utm_medium=rss&utm_campaign=ecu-joins-amcrc-to-boost-defence-mining-and-resources-applications",
+    "forced_tags": [],
+    "title_en": "ECU Joins AMCRC to Boost Defence, Mining and Resources Applications",
+    "summary_bullets_en": [
+      "Edith Cowan University (ECU) has partnered with the Additive Manufacturing Cooperative Research Centre (AMCRC).",
+      "The collaboration aims to accelerate the industrial adoption of 3D printing across Australia.",
+      "The focus of this partnership is specifically on the defence, mining, and resources sectors.",
+      "ECU strengthens the national network of institutions working to advance additive manufacturing technologies."
+    ],
+    "summary_bullets_cs": [
+      "Edith Cowan University (ECU) se stala novým výzkumným partnerem centra AMCRC (Additive Manufacturing Cooperative Research Centre).",
+      "Cílem spolupráce je urychlit zavádění 3D tisku v australském průmyslu.",
+      "Partnerství se zaměřuje především na sektor obrany, těžební průmysl a využívání přírodních zdrojů.",
+      "ECU posiluje národní síť institucí, které se věnují rozvoji technologií aditivní výroby."
+    ],
+    "tags": [
+      "Services",
+      "Additive Manufacturing",
+      "AMCRC",
+      "Edith Cowan University",
+      "Defence",
+      "Mining",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Společnost Helsing míří do Západní Virginie se strategií výroby dronů pomocí 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971277962/0/fabbaloo/default~Helsing-Moves-to-West-Virginia-With-D-Printing-in-Its-Drone-Manufacturing-Strategy\" rel=\"nofollow\" title=\"Helsing Moves to West Virginia With 3D Printing in Its Drone Manufacturing Strategy\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/Filename-_386-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles Goulding and Ari Willick examine how Helsing’s expansion into West Virginia signals a broader shift toward mass production of drones powered by additive manufacturing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971277962/0/fabbaloo/default~Helsing-Moves-to-West-Virginia-With-D-Printing-in-Its-Drone-Manufacturing-Strategy\" rel=\"nofollow\">Helsing Moves to West Virginia With 3D Printing in Its Drone Manufacturing Strategy</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/Filename-_386-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-12T13:10:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971277962/0/fabbaloo/default~Helsing-Moves-to-West-Virginia-With-D-Printing-in-Its-Drone-Manufacturing-Strategy",
+    "forced_tags": [],
+    "title_en": "Helsing Moves to West Virginia With 3D Printing in Its Drone Manufacturing Strategy",
+    "summary_bullets_en": [
+      "Helsing is expanding its operations into West Virginia to scale up drone production.",
+      "The company is integrating additive manufacturing into its core strategy to enhance manufacturing efficiency.",
+      "This move highlights a growing trend of utilizing 3D printing for the mass production of defense-related hardware."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Helsing rozšiřuje své operace do Západní Virginie s cílem navýšit produkci dronů.",
+      "Firma integruje aditivní výrobu do své hlavní strategie pro zvýšení efektivity produkce.",
+      "Tento krok podtrhuje rostoucí trend využívání 3D tisku pro sériovou výrobu hardwaru v obranném průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Defense",
+      "Drones",
+      "Additive Manufacturing",
+      "Helsing"
+    ]
+  },
+  {
+    "title": "ASTRO America vede dohodu CRADA v hodnotě 9 milionů dolarů s AFRL pro pokrok v 3D tisku raket",
+    "summary": "The Cooperative Research and Development Agreement (CRADA) model for establishing private-public partnerships has started to gain traction in the additive manufacturing (AM) industry over the last couple of years. In...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/south20260410_121536.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-12T13:00:05+00:00",
+    "url": "https://3dprint.com/334562/astro-america-leads-9m-afrl-crada-to-advance-3d-printed-missile-production/",
+    "forced_tags": [],
+    "title_en": "ASTRO America Leads $9M AFRL CRADA to Advance 3D Printed Missile Production",
+    "summary_bullets_en": [
+      "ASTRO America has secured a $9 million CRADA agreement with the Air Force Research Laboratory (AFRL).",
+      "The initiative focuses on accelerating the adoption of additive manufacturing for missile production.",
+      "This public-private partnership aims to strengthen defense supply chains through advanced 3D printing technologies."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ASTRO America uzavřela dohodu CRADA v hodnotě 9 milionů dolarů s Výzkumnou laboratoří letectva (AFRL).",
+      "Iniciativa se zaměřuje na urychlení zavádění aditivní výroby při produkci raket.",
+      "Toto partnerství veřejného a soukromého sektoru má za cíl posílit dodavatelské řetězce v obranném průmyslu prostřednictvím pokročilých technologií 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "ASTRO America",
+      "AFRL",
+      "Additive Manufacturing",
+      "Defense",
+      "CRADA"
+    ]
+  },
+  {
+    "title": "3DPOD 317: 3D tisk v ORNL, 1. část – Alexander Plotkowski",
+    "summary": "Alexander Plotkowski is all about developing new alloys. At Oak Ridge National Laboratory (ORNL), he&#8217;s the Group Leader for Computational Coupled Physics within the Computational Sciences and Engineering Division. He&#8217;s...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-12T12:30:41+00:00",
+    "url": "https://3dprint.com/332222/3dpod-317-3d-printing-at-ornl-part-i-alexander-plotkowski/",
+    "forced_tags": [],
+    "title_en": "3DPOD 317: 3D Printing at ORNL, Part I – Alexander Plotkowski",
+    "summary_bullets_en": [
+      "Alexander Plotkowski leads the Computational Coupled Physics group at Oak Ridge National Laboratory.",
+      "His primary focus is the development and innovation of new metal alloys for additive manufacturing.",
+      "The episode explores the intersection of computational science and advanced 3D printing technologies."
+    ],
+    "summary_bullets_cs": [
+      "Alexander Plotkowski vede skupinu pro výpočetní spřaženou fyziku v Oak Ridge National Laboratory (ORNL).",
+      "Jeho hlavní náplní práce je vývoj a inovace nových slitin kovů pro účely aditivní výroby.",
+      "Epizoda se zaměřuje na propojení výpočetních věd s pokročilými technologiemi 3D tisku."
+    ],
+    "tags": [
+      "Material",
+      "Research",
+      "3D Printing",
+      "ORNL",
+      "Metal Additive Manufacturing",
+      "Computational Science"
+    ]
+  },
+  {
+    "title": "Společnosti INSLOGIC a Neural4D spouštějí kampaň „Od promptu k tisku“, která propojuje generování 3D modelů pomocí AI s tiskem z filamentu",
+    "summary": "Where is AI unlocking advantages? Explore what is possible at AMA: Software 2026. Filament maker INSLOGIC and AI 3D asset generation platform Neural4D (N4D) will run a joint creator campaign from October 15 to November 15, 2026, showing makers how to take an idea from a text prompt or image to a finished 3D printed&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/banner-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-12T12:30:00+00:00",
+    "url": "https://3dprintingindustry.com/news/inslogic-and-neural4d-launch-from-prompt-to-print-campaign-linking-ai-3d-generation-with-filament-printing-255583/?utm_source=rss&utm_medium=rss&utm_campaign=inslogic-and-neural4d-launch-from-prompt-to-print-campaign-linking-ai-3d-generation-with-filament-printing",
+    "forced_tags": [],
+    "title_en": "INSLOGIC and Neural4D launch “From Prompt to Print” campaign linking AI 3D generation with filament printing",
+    "summary_bullets_en": [
+      "INSLOGIC and Neural4D are launching a joint campaign to demonstrate the workflow from AI-generated prompts to physical 3D prints.",
+      "The initiative runs from October 15 to November 15, 2026, focusing on the integration of AI asset generation and filament-based manufacturing.",
+      "The project will be showcased at the upcoming AMA: Software 2026 event to highlight the practical advantages of AI in the 3D printing industry."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti INSLOGIC a Neural4D spouštějí společnou kampaň, která ukazuje cestu od textového zadání nebo obrázku až po hotový 3D výtisk.",
+      "Kampaň proběhne od 15. října do 15. listopadu 2026 a zaměří se na praktické využití AI při tvorbě 3D podkladů pro filamentový tisk.",
+      "Projekt bude představen na akci AMA: Software 2026, kde se bude diskutovat o výhodách, které AI přináší do světa 3D tisku."
+    ],
+    "tags": [
+      "Software",
+      "Material",
+      "INSLOGIC",
+      "Neural4D",
+      "AI",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "UniFormation S10 míří na Kickstarter s integrovaným systémem pro 3D tisk z resinu a následné zpracování",
+    "summary": "UniFormation will launch its S10 desktop resin 3D printer on Kickstarter on October 22, 2026, with pledges starting at $999. The S10 integrates printing, washing, and drying, allowing a print...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/2-1024x287.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-12T12:00:17+00:00",
+    "url": "https://3dprint.com/334652/uniformation-s10-heads-to-kickstarter-with-an-integrated-resin-printing-and-post-processing-system/",
+    "forced_tags": [],
+    "title_en": "UniFormation S10 Heads to Kickstarter with an Integrated Resin Printing and Post-Processing System",
+    "summary_bullets_en": [
+      "UniFormation is launching the S10 desktop resin 3D printer on Kickstarter on October 22, 2026.",
+      "The device features an all-in-one design that combines printing, washing, and curing processes.",
+      "Early bird pledges for the new system will start at $999."
+    ],
+    "summary_bullets_cs": [
+      "Společnost UniFormation uvede 22. října 2026 na platformě Kickstarter svou stolní resinovou 3D tiskárnu S10.",
+      "Model S10 integruje tisk, mytí a sušení do jednoho zařízení, což umožňuje automatizovaný proces tisku.",
+      "Ceny v rámci kampaně začínají na 999 dolarech."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Resin Printing",
+      "UniFormation",
+      "Kickstarter",
+      "Desktop 3D Printer"
+    ]
+  },
+  {
+    "title": "Design týdne: Jídelní stůl",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971273654/0/fabbaloo/default~Design-of-the-Week-Dining-Table\" rel=\"nofollow\" title=\"Design of the Week: Dining Table\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/dining-table-cover-300x174.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>This week’s selection is the astonishing Dining Table by maker Trey DeWolf.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971273654/0/fabbaloo/default~Design-of-the-Week-Dining-Table\" rel=\"nofollow\">Design of the Week: Dining Table</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/dining-table-cover-300x174.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-12T11:02:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971273654/0/fabbaloo/default~Design-of-the-Week-Dining-Table",
+    "forced_tags": [],
+    "title_en": "Design of the Week: Dining Table",
+    "summary_bullets_en": [
+      "Fabbaloo highlights a unique 3D printed dining table as the design of the week.",
+      "The project was created by maker Trey DeWolf.",
+      "The design showcases the potential of large-scale 3D printing in furniture manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Portál Fabbaloo vybral jako design týdne unikátní 3D tištěný jídelní stůl.",
+      "Autorem tohoto projektu je tvůrce Trey DeWolf.",
+      "Design demonstruje možnosti využití velkoformátového 3D tisku při výrobě nábytku."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Furniture Design",
+      "Trey DeWolf",
+      "Fabbaloo"
+    ]
+  },
+  {
+    "title": "Společnost Arc Impact představuje postupnou cestu ke kvalifikované sériové výrobě pomocí binder jettingu pro letectví a obranu",
+    "summary": "Arc Impact, a binder jetting company working with metals and ceramics, has outlined how it helps aerospace and defense manufacturers take complex components from early development to qualified serial production. Its approach combines a staged framework called AM2 Production, the X25Pro and X160Pro binder jet systems from its X-Series line, and its Live Suite software.&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Image_Arc_Impact-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-12T10:39:51+00:00",
+    "url": "https://3dprintingindustry.com/news/arc-impact-outlines-staged-path-to-qualified-binder-jet-production-for-aerospace-and-defense-255554/?utm_source=rss&utm_medium=rss&utm_campaign=arc-impact-outlines-staged-path-to-qualified-binder-jet-production-for-aerospace-and-defense",
+    "forced_tags": [],
+    "title_en": "Arc Impact Outlines Staged Path to Qualified Binder Jet Production for Aerospace and Defense",
+    "summary_bullets_en": [
+      "Arc Impact introduces the AM2 Production framework to guide aerospace and defense firms from development to serial manufacturing.",
+      "The solution leverages high-performance X25Pro and X160Pro binder jetting systems for metal and ceramic components.",
+      "Integrated Live Suite software ensures process control and quality management throughout the production lifecycle."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Arc Impact představila rámec AM2 Production, který pomáhá výrobcům v letectví a obraně přejít od vývoje ke kvalifikované sériové výrobě.",
+      "Jejich přístup kombinuje systémy pro binder jetting X25Pro a X160Pro z řady X-Series, určené pro práci s kovy a keramikou.",
+      "Součástí řešení je software Live Suite, který zajišťuje komplexní správu a kontrolu výrobního procesu."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Binder Jetting",
+      "Arc Impact",
+      "Aerospace",
+      "Defense",
+      "X-Series"
+    ]
+  },
+  {
+    "title": "3D tištěné hliněné cihly regulují klima kolem olivovníku",
+    "summary": "Where is AI unlocking advantages? Explore what is possible at AMA: Software 2026. Researchers at the Material Topology Research Lab (MTRL) at the Technion – Israel Institute of Technology and the Tree Lab at the Weizmann Institute of Science have completed BUSTAN, a pavilion built at full size from 178 earth bricks that a robotic&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/robotically-3d-printed-earth-bricks-wrap-a-multispecies-habitat-around-an-olive-tree-1-6ac4f3893fab1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-12T10:38:47+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printed-earth-bricks-regulate-climate-around-olive-tree-255563/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-earth-bricks-regulate-climate-around-olive-tree",
+    "forced_tags": [],
+    "title_en": "3D Printed Earth Bricks Regulate Climate Around Olive Tree",
+    "summary_bullets_en": [
+      "Researchers from Technion and the Weizmann Institute created BUSTAN, a full-scale pavilion made of 178 3D-printed earth bricks.",
+      "The structure is designed to regulate the local microclimate around an olive tree using advanced material topology.",
+      "The project demonstrates the potential of robotic additive manufacturing in sustainable, climate-responsive architecture."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z Technionu a Weizmannova institutu vytvořili BUSTAN, pavilon v životní velikosti postavený ze 178 3D tištěných hliněných cihel.",
+      "Struktura je navržena tak, aby pomocí pokročilé materiálové topologie regulovala lokální mikroklima kolem olivovníku.",
+      "Projekt demonstruje potenciál robotické aditivní výroby v udržitelném, klimaticky citlivém stavebnictví."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Sustainable Architecture",
+      "Robotic Manufacturing",
+      "Earth Construction"
+    ]
+  },
+  {
+    "title": "ASTRO America získala 9 milionů dolarů v rámci dohody CRADA na 3D tisk dílů pro střely Gray Wolf",
+    "summary": "Where is AI unlocking advantages? Explore what is possible at AMA: Software 2026. The Applied Science and Technology Research Organization of America (ASTRO America) has entered a Cooperative Research and Development Agreement (CRADA) with Northrop Grumman, Florida State University InSPIRE, and the Air Force Research Laboratory (AFRL) Air Warfare Directorate’s Mission Effects Division (AFRL/RAB). The&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2024/10/ob1vsTdL-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-12T10:37:34+00:00",
+    "url": "https://3dprintingindustry.com/news/astro-america-9m-crada-to-3d-print-gray-wolf-missile-parts-255568/?utm_source=rss&utm_medium=rss&utm_campaign=astro-america-9m-crada-to-3d-print-gray-wolf-missile-parts",
+    "forced_tags": [],
+    "title_en": "ASTRO America $9M CRADA to 3D Print Gray Wolf Missile Parts",
+    "summary_bullets_en": [
+      "ASTRO America signed a $9 million CRADA agreement to advance 3D printing for Gray Wolf missile components.",
+      "The project involves a strategic partnership between Northrop Grumman, Florida State University InSPIRE, and the Air Force Research Laboratory (AFRL).",
+      "The initiative aims to leverage additive manufacturing to enhance defense production capabilities and supply chain resilience."
+    ],
+    "summary_bullets_cs": [
+      "Organizace ASTRO America uzavřela dohodu CRADA v hodnotě 9 milionů dolarů na vývoj 3D tisku komponent pro střely Gray Wolf.",
+      "Na projektu spolupracuje společnost Northrop Grumman, Florida State University InSPIRE a výzkumná laboratoř letectva USA (AFRL).",
+      "Cílem iniciativy je využití aditivní výroby ke zvýšení produkčních kapacit v obranném průmyslu a posílení odolnosti dodavatelského řetězce."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "ASTRO America",
+      "Northrop Grumman",
+      "AFRL",
+      "Defense",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Čínská supertovárna se 400 kovovými 3D tiskárnami plánovaná pro výrobu chytrých telefonů",
+    "summary": "Where is AI unlocking advantages? Explore what is possible at AMA: Software 2026. A subsidiary of Chinese steel giant Jingye Group has signed an agreement to build a RMB 5 billion (about US$700 million) manufacturing base in Fengshun County, Guangdong Province, equipped with 400 metal 3D printers, 20 metal powder production lines and 100 metal&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/717548222fa44bbc4a3c8593891e41d4-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-10-12T10:34:15+00:00",
+    "url": "https://3dprintingindustry.com/news/chinese-super-factory-with-400-metal-3d-printers-planned-for-smartphone-production-255540/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-super-factory-with-400-metal-3d-printers-planned-for-smartphone-production",
+    "forced_tags": [],
+    "title_en": "Chinese Super Factory with 400 Metal 3D Printers Planned for Smartphone Production",
+    "summary_bullets_en": [
+      "A subsidiary of Jingye Group is investing $700 million to build a massive metal 3D printing manufacturing base in Guangdong.",
+      "The facility will feature 400 metal 3D printers and 20 powder production lines.",
+      "The primary focus of this large-scale industrial project is the mass production of smartphone components."
+    ],
+    "summary_bullets_cs": [
+      "Dceřiná společnost čínského ocelářského giganta Jingye Group investuje 700 milionů dolarů do výstavby rozsáhlé výrobní základny pro 3D tisk kovů v provincii Kuang-tung.",
+      "Zařízení bude vybaveno 400 kovovými 3D tiskárnami a 20 linkami na výrobu kovového prášku.",
+      "Hlavním zaměřením tohoto velkokapacitního průmyslového projektu je sériová výroba komponentů pro chytré telefony."
+    ],
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Metal 3D Printing",
+      "Jingye Group",
+      "Industrial Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Engo využívá kovový 3D tisk pro titanové nožičky u nových AR brýlí pro běžce",
+    "summary": "Where is AI unlocking advantages? Explore what is possible at AMA: Software 2026. Engo Eyewear has introduced Engo Titanium, a pair of augmented reality (AR) glasses for runners and cyclists with temples produced through metal additive manufacturing (metal AM). The temples are the side pieces that run along the head and rest behind the ears&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/engo3-titanium-Silver_packshot-03-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-10-12T10:25:38+00:00",
+    "url": "https://3dprintingindustry.com/news/engo-uses-metal-3d-printing-for-titanium-temples-on-new-ar-running-glasses-255571/?utm_source=rss&utm_medium=rss&utm_campaign=engo-uses-metal-3d-printing-for-titanium-temples-on-new-ar-running-glasses",
+    "forced_tags": [],
+    "title_en": "Engo Uses Metal 3D Printing for Titanium Temples on New AR Running Glasses",
+    "summary_bullets_en": [
+      "Engo Eyewear launched 'Engo Titanium', a new pair of AR glasses designed for athletes.",
+      "The glasses feature temples manufactured using metal additive manufacturing technology.",
+      "These 3D-printed components provide a lightweight and durable fit for runners and cyclists.",
+      "The innovation highlights the growing integration of metal AM in high-performance wearable devices."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Engo Eyewear představila Engo Titanium, nové brýle s rozšířenou realitou (AR) určené pro běžce a cyklisty.",
+      "Nožičky brýlí jsou vyráběny pomocí technologie aditivní výroby kovů (metal AM).",
+      "Díky 3D tisku jsou tyto komponenty lehké a odolné, což zajišťuje pohodlné nošení při sportovních aktivitách."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Engo Eyewear",
+      "Metal Additive Manufacturing",
+      "Titanium",
+      "AR Glasses",
+      "Wearable Technology"
+    ]
+  },
+  {
+    "title": "Společnost PharmaTher buduje síť 3D tiskových uzlů pro výrobu léků na vzácná onemocnění, při nedostatku zásob a pro urgentní potřeby",
+    "summary": "Where is AI unlocking advantages? Explore what is possible at AMA: Software 2026. Canadian specialty pharmaceutical company PharmaTher Holdings has launched the M3DICINES National Network Program, an initiative to build a distributed network of qualified sites across North America that produce personalized medicines on CraftMake pharmaceutical 3D printers. The program will begin with U.S. 503A&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-14.24.40-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-12T10:24:17+00:00",
+    "url": "https://3dprintingindustry.com/news/pharmather-builds-network-of-3d-printing-nodes-for-rare-disease-shortage-and-emergency-medicines-255547/?utm_source=rss&utm_medium=rss&utm_campaign=pharmather-builds-network-of-3d-printing-nodes-for-rare-disease-shortage-and-emergency-medicines",
+    "forced_tags": [],
+    "title_en": "PharmaTher Builds Network of 3D Printing Nodes for Rare Disease, Shortage and Emergency Medicines",
+    "summary_bullets_en": [
+      "PharmaTher Holdings has launched the M3DICINES National Network Program to create a distributed 3D printing infrastructure for pharmaceuticals.",
+      "The initiative utilizes CraftMake 3D printers to produce personalized medicines across North America.",
+      "The program focuses on addressing critical needs, including rare diseases, drug shortages, and emergency medical supplies.",
+      "Initial rollout begins with U.S. 503A compounding pharmacies to ensure qualified production sites."
+    ],
+    "summary_bullets_cs": [
+      "Společnost PharmaTher Holdings spustila program M3DICINES National Network, jehož cílem je vytvořit distribuovanou infrastrukturu pro 3D tisk léčiv.",
+      "Iniciativa využívá farmaceutické 3D tiskárny CraftMake k výrobě personalizovaných léků napříč Severní Amerikou.",
+      "Program se zaměřuje na řešení kritických potřeb, jako jsou vzácná onemocnění, výpadky v dodávkách léků a urgentní zdravotnické potřeby.",
+      "Zahájení probíhá ve spolupráci s americkými lékárnami typu 503A, které zajistí kvalifikovaná výrobní místa."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "PharmaTher",
+      "M3DICINES",
+      "CraftMake",
+      "3D Printing",
+      "Personalized Medicine"
+    ]
+  },
+  {
+    "title": "Topologická optimalizace musí vědět, jak se budou díly tisknout",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971269109/0/fabbaloo/default~Topology-Optimization-Needs-To-Know-How-Parts-Will-Print\" rel=\"nofollow\" title=\"Topology Optimization Needs To Know How Parts Will Print\"><img alt=\"Color-coded pie chart showing the distribution of the review&#039;s included records across nine topology optimization and additive manufacturing themes\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/research-10.53022_oarjst.2026.18.1.0090-headline-300x182.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A topology optimized part can be totally wrong.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971269109/0/fabbaloo/default~Topology-Optimization-Needs-To-Know-How-Parts-Will-Print\" rel=\"nofollow\">Topology Optimization Needs To Know How Parts Will Print</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/research-10.53022_oarjst.2026.18.1.0090-headline-300x182.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-12T08:02:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971269109/0/fabbaloo/default~Topology-Optimization-Needs-To-Know-How-Parts-Will-Print",
+    "forced_tags": [],
+    "title_en": "Topology Optimization Needs To Know How Parts Will Print",
+    "summary_bullets_en": [
+      "Topology optimization often generates designs that are theoretically sound but practically impossible to manufacture.",
+      "Current software tools frequently fail to account for specific additive manufacturing constraints during the design phase.",
+      "Integrating printability parameters directly into the optimization process is essential to reduce waste and failed prints.",
+      "Bridging the gap between generative design and real-world 3D printing capabilities is the next major hurdle for the industry."
+    ],
+    "summary_bullets_cs": [
+      "Topologicky optimalizovaný díl může být v praxi zcela nepoužitelný.",
+      "Současné softwarové nástroje často při návrhu nezohledňují specifická omezení aditivní výroby.",
+      "Pro snížení zmetkovosti je nutné integrovat parametry tisknutelnosti přímo do procesu optimalizace.",
+      "Propojení generativního designu s reálnými možnostmi 3D tisku je klíčovou výzvou pro budoucnost oboru."
+    ],
+    "tags": [
+      "Software",
+      "Topology Optimization",
+      "Generative Design",
+      "Additive Manufacturing",
+      "Design for Additive Manufacturing (DfAM)"
+    ]
+  },
+  {
+    "title": "Hlavně nikomu neříkejte, že je to vytištěné na 3D tiskárně",
+    "summary": "Should a small company with a handful of 3D printers focus on selling its own products and leave 3D printing services to the bigger players?",
+    "image": "https://substackcdn.com/image/fetch/$s_!9jfA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4dfae17-88ff-4829-acf4-dbc8e94edbe7_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-10-12T08:01:26+00:00",
+    "url": "https://www.3dprintingjournal.com/p/just-dont-tell-anyone-its-3d-printed",
+    "forced_tags": [],
+    "title_en": "Just don’t tell anyone it’s 3D printed",
+    "summary_bullets_en": [
+      "Small businesses face a strategic dilemma: focus on proprietary product development or offer 3D printing services.",
+      "Competing with large-scale service bureaus often proves difficult for smaller firms due to resource constraints.",
+      "The 'stealth' approach suggests that the value lies in the final product rather than the manufacturing method itself.",
+      "Companies are encouraged to prioritize brand identity over the technology used to create their goods."
+    ],
+    "summary_bullets_cs": [
+      "Malé firmy čelí strategickému dilematu: zaměřit se na vývoj vlastních produktů, nebo nabízet 3D tisk jako službu?",
+      "Konkurovat velkým poskytovatelům tiskových služeb je pro menší podniky kvůli omezeným zdrojům často neudržitelné.",
+      "Strategie „utajení“ naznačuje, že skutečná hodnota spočívá v koncovém produktu, nikoliv v použité výrobní technologii.",
+      "Firmám se doporučuje klást důraz na identitu značky spíše než na technologii, která byla k výrobě použita."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Business Strategy",
+      "Additive Manufacturing",
+      "Product Development"
+    ]
+  },
+  {
+    "title": "UpNano představuje 3DAR",
+    "summary": "Austrian nanoscale 3D printing firm UpNano can make very precise 3D printers that can achieve accurate results at the sub-micron level. The company&#8217;s 2PP printers have helped it secure a...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/3DAR-Eplanation-Graphics-copyright-Upnano-900490.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-12T07:00:48+00:00",
+    "url": "https://3dprint.com/334433/upnano-develops-3dar/",
+    "forced_tags": [],
+    "title_en": "UpNano Unveils 3DAR",
+    "summary_bullets_en": [
+      "Austrian company UpNano has introduced its new 3DAR technology.",
+      "The firm specializes in high-precision 3D printing at the sub-micron level.",
+      "Their advanced 2PP (Two-Photon Polymerization) printers enable highly accurate manufacturing results."
+    ],
+    "summary_bullets_cs": [
+      "Rakouská společnost UpNano představila svou novou technologii 3DAR.",
+      "Firma se specializuje na vysoce přesný 3D tisk na submikronové úrovni.",
+      "Jejich pokročilé 2PP (dvoufotonová polymerace) tiskárny umožňují dosahovat velmi přesných výsledků výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "UpNano",
+      "Nanotechnology",
+      "2PP",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Kdo je největší v 3D tisku, 11. října 2026",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/971244503/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-October\" rel=\"nofollow\" title=\"Who&#8217;s The Biggest In 3D Printing, October 11, 2026\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/02/biggest-cover-300x171.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Once again we take a look at the valuations of the major 3D printing companies over the past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971244503/0/fabbaloo/default~Whos-The-Biggest-In-D-Printing-October\" rel=\"nofollow\">Who&#8217;s The Biggest In 3D Printing, October 11, 2026</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/02/biggest-cover-300x171.jpg",
