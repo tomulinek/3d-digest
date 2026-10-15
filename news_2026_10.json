@@ -1,5 +1,485 @@
 [
   {
+    "title": "Tři stavební 3D tiskárny AMTG vyrobily stěny pro nákupní centrum Mella",
+    "summary": "Discover exclusive software insights at AMA: Software 2026, on October 22. Register for free! Florida-based construction 3D printer manufacturer AMTG has revealed that three of its G2 gantry systems were used together to produce the printed wall system for the Mella shopping center. Developed by an AMTG customer, the commercial construction project used three synchronized&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/image-9-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-14T19:45:23+00:00",
+    "url": "https://3dprintingindustry.com/news/three-amtg-construction-3d-printers-produce-walls-for-mella-shopping-center-255665/?utm_source=rss&utm_medium=rss&utm_campaign=three-amtg-construction-3d-printers-produce-walls-for-mella-shopping-center",
+    "forced_tags": [],
+    "title_en": "Three AMTG construction 3D printers produce walls for Mella shopping center",
+    "summary_bullets_en": [
+      "Florida-based AMTG utilized three synchronized G2 gantry systems to construct walls for the Mella shopping center.",
+      "The project demonstrates the scalability and efficiency of using multiple 3D printers simultaneously in commercial construction.",
+      "The company is promoting its upcoming 'AMA: Software 2026' event, scheduled for October 22, focusing on industry software insights."
+    ],
+    "summary_bullets_cs": [
+      "Společnost AMTG se sídlem na Floridě využila tři synchronizované portálové systémy G2 k výstavbě stěn pro nákupní centrum Mella.",
+      "Projekt demonstruje škálovatelnost a efektivitu využití více 3D tiskáren současně v komerčním stavebnictví.",
+      "Společnost zve na nadcházející akci 'AMA: Software 2026', která se koná 22. října a zaměří se na softwarové inovace v oboru."
+    ],
+    "tags": [
+      "Hardware",
+      "Construction",
+      "3D Printing",
+      "AMTG",
+      "G2 Gantry System",
+      "Commercial Construction"
+    ]
+  },
+  {
+    "title": "Čínský výrobce kovových prášků VMP získal 14,8 milionu USD na expanzi čtvrté fáze",
+    "summary": "Discover exclusive software insights at AMA: Software 2026, on October 22. Register for free! Chinese metal powder producer Jiangsu Vilory Advanced Materials (VMP) has closed a Series C+ equity round of US$14.8 million (RMB 100 million), jointly invested by Jiangsu Guotou and Suneng Co. The money will go mainly toward building the company’s Phase IV&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Series-D--150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-14T19:43:10+00:00",
+    "url": "https://3dprintingindustry.com/news/chinese-metal-powder-producer-vmp-raises-us14-8m-for-phase-iv-expansion-255700/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-metal-powder-producer-vmp-raises-us14-8m-for-phase-iv-expansion",
+    "forced_tags": [],
+    "title_en": "Chinese Metal Powder Producer VMP Raises US$14.8M for Phase IV Expansion",
+    "summary_bullets_en": [
+      "Jiangsu Vilory Advanced Materials (VMP) secured US$14.8 million in a Series C+ funding round.",
+      "The investment was led by Jiangsu Guotou and Suneng Co.",
+      "Capital will be primarily used to fund the company's Phase IV expansion project."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Jiangsu Vilory Advanced Materials (VMP) uzavřela investiční kolo série C+ v hodnotě 14,8 milionu USD.",
+      "Na investici se společně podílely firmy Jiangsu Guotou a Suneng Co.",
+      "Finanční prostředky budou využity především na výstavbu čtvrté fáze rozvoje společnosti."
+    ],
+    "tags": [
+      "Material",
+      "Metal Powder",
+      "VMP",
+      "Jiangsu Vilory Advanced Materials",
+      "Investment",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Nejnovější rozhodnutí PTAB o patentech Stratasys komplikují žalobu na Bambu Lab",
+    "summary": "Where is AI unlocking advantages? Explore what is possible at AMA: Software 2026. Roughly two weeks after a Texas jury ordered Bambu Lab to pay Stratasys $27.6 million for infringing four 3D printing patents, the U.S. Patent Trial and Appeal Board (PTAB) has found claims in four separate Stratasys patents unpatentable.&#160; The rulings do not&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2024/09/Stratasys-vs-Bambu-Lab-Featured-Image.-Image-by-3D-Printing-Industry-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-14T17:49:48+00:00",
+    "url": "https://3dprintingindustry.com/news/latest-ptab-rulings-on-stratasys-patents-complicate-bambu-lab-lawsuit-255696/?utm_source=rss&utm_medium=rss&utm_campaign=latest-ptab-rulings-on-stratasys-patents-complicate-bambu-lab-lawsuit",
+    "forced_tags": [],
+    "title_en": "Latest PTAB Rulings on Stratasys Patents Complicate Bambu Lab Lawsuit",
+    "summary_bullets_en": [
+      "The U.S. Patent Trial and Appeal Board (PTAB) has declared claims in four Stratasys patents unpatentable.",
+      "This decision comes just two weeks after a Texas jury ordered Bambu Lab to pay $27.6 million for patent infringement.",
+      "The new PTAB rulings create significant legal uncertainty regarding the validity of the patents used in the recent court verdict."
+    ],
+    "summary_bullets_cs": [
+      "Americký patentový úřad (PTAB) shledal nároky ve čtyřech patentech společnosti Stratasys jako nepatentovatelné.",
+      "K tomuto rozhodnutí došlo zhruba dva týdny poté, co porota v Texasu nařídila společnosti Bambu Lab zaplatit 27,6 milionu dolarů za porušení patentů.",
+      "Tato nová rozhodnutí vnášejí právní nejistotu do výsledku nedávného soudního sporu."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "Bambu Lab",
+      "Legal",
+      "Patents",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Formlabs uvádí na trh resinovou 3D tiskárnu Form Studio 1 za 699 USD",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971530244/0/fabbaloo/default~Formlabs-Launches-US-Form-Studio-Resin-D-Printer\" rel=\"nofollow\" title=\"Formlabs Launches US$699 Form Studio 1 Resin 3D Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/form-studio-1-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Huge news from Formlabs today: they are introducing a new desktop resin 3D printer that is at a very affordable price.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971530244/0/fabbaloo/default~Formlabs-Launches-US-Form-Studio-Resin-D-Printer\" rel=\"nofollow\">Formlabs Launches US$699 Form Studio 1 Resin 3D Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/form-studio-1-cover-300x169.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-14T16:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971530244/0/fabbaloo/default~Formlabs-Launches-US-Form-Studio-Resin-D-Printer",
+    "forced_tags": [],
+    "title_en": "Formlabs Launches US$699 Form Studio 1 Resin 3D Printer",
+    "summary_bullets_en": [
+      "Formlabs has officially unveiled the Form Studio 1, a new desktop resin 3D printer.",
+      "The device is positioned as a highly affordable option for the market.",
+      "The printer is priced at just US$699, marking a significant shift in the company's pricing strategy."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Formlabs představila novou stolní resinovou 3D tiskárnu s názvem Form Studio 1.",
+      "Zařízení je navrženo jako cenově velmi dostupná varianta pro širokou veřejnost.",
+      "Tiskárna vstupuje na trh s agresivní cenovkou 699 USD."
+    ],
+    "tags": [
+      "Hardware",
+      "Formlabs",
+      "Resin 3D Printing",
+      "Desktop 3D Printer"
+    ]
+  },
+  {
+    "title": "Proč Prusa prodává materiály pro produkty, které nevyrábí?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971526968/0/fabbaloo/default~Why-is-Prusa-Selling-Materials-for-Products-They-Dont-Make\" rel=\"nofollow\" title=\"Why is Prusa Selling Materials for Products They Don&#8217;t Make?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/prusament-pellets-cover-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Prusa has launched a product that none of its own 3D printers can use.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971526968/0/fabbaloo/default~Why-is-Prusa-Selling-Materials-for-Products-They-Dont-Make\" rel=\"nofollow\">Why is Prusa Selling Materials for Products They Don&#8217;t Make?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/prusament-pellets-cover-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-14T15:33:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971526968/0/fabbaloo/default~Why-is-Prusa-Selling-Materials-for-Products-They-Dont-Make",
+    "forced_tags": [],
+    "title_en": "Why is Prusa Selling Materials for Products They Don’t Make?",
+    "summary_bullets_en": [
+      "Prusa Research has introduced a new line of materials, specifically pellets, that are not compatible with their current desktop 3D printer lineup.",
+      "The move signals a strategic shift as the company expands its portfolio beyond traditional filament-based printing.",
+      "This development suggests Prusa may be targeting industrial pellet-extrusion markets or preparing for future hardware releases that utilize this material format."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Prusa uvedla na trh nový typ materiálu ve formě granulátu, který není kompatibilní s žádnou z jejich současných 3D tiskáren.",
+      "Tento krok naznačuje strategický posun firmy směrem k rozšíření portfolia mimo tradiční tisk z filamentu.",
+      "Vývoj naznačuje, že se Prusa zaměřuje na průmyslový trh s granulátovým tiskem nebo připravuje budoucí hardware, který tento materiál využije."
+    ],
+    "tags": [
+      "Material",
+      "Hardware",
+      "Prusa Research",
+      "Pellet Extrusion",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Výzkumníci vylepšují komerční technologii 3D tisku a usilují o patentovou ochranu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971506526/0/fabbaloo/default~Researchers-Improve-Commercial-D-Printing-Technology-And-Seek-Patent-Protection\" rel=\"nofollow\" title=\"Researchers Improve Commercial 3D Printing Technology And Seek Patent Protection\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/clip-resolution-patent-cover-300x152.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A Stanford and UNC patent describes a high-resolution CLIP printer using reduction optics, automated focusing and resin-flow modeling to produce microneedles and other microstructures at unusual speed.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971506526/0/fabbaloo/default~Researchers-Improve-Commercial-D-Printing-Technology-And-Seek-Patent-Protection\" rel=\"nofollow\">Researchers Improve Commercial 3D Printing Technology And Seek Patent Protection</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/clip-resolution-patent-cover-300x152.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-14T13:18:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971506526/0/fabbaloo/default~Researchers-Improve-Commercial-D-Printing-Technology-And-Seek-Patent-Protection",
+    "forced_tags": [],
+    "title_en": "Researchers Improve Commercial 3D Printing Technology And Seek Patent Protection",
+    "summary_bullets_en": [
+      "Researchers from Stanford and UNC have developed an enhanced high-resolution CLIP 3D printing process.",
+      "The technology utilizes reduction optics and automated focusing to achieve superior precision.",
+      "Advanced resin-flow modeling allows for the rapid production of complex microstructures like microneedles.",
+      "The team is currently seeking patent protection for these technical improvements."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci ze Stanfordu a UNC vyvinuli vylepšený proces vysokorychlostního 3D tisku CLIP.",
+      "Technologie využívá redukční optiku a automatické ostření pro dosažení vyšší přesnosti.",
+      "Pokročilé modelování toku pryskyřice umožňuje rychlou výrobu složitých mikrostruktur, jako jsou mikrojehly.",
+      "Tým v současné době usiluje o patentovou ochranu těchto technických inovací."
+    ],
+    "tags": [
+      "Hardware",
+      "CLIP",
+      "3D Printing",
+      "Micro-manufacturing",
+      "Stanford University",
+      "UNC",
+      "Patents"
+    ]
+  },
+  {
+    "title": "Formlabs představuje Form Studio 1, resinovou 3D tiskárnu za 699 dolarů",
+    "summary": "With aggressive pricing and new technology, Formlabs once again enters territory traditionally dominated by consumer resin printer manufacturers",
+    "image": "https://substackcdn.com/image/fetch/$s_!mMmv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19d99b6b-2268-48db-8469-e6048f576750_700x501.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-10-14T13:03:55+00:00",
+    "url": "https://www.3dprintingjournal.com/p/formlabs-introduces-form-studio-1",
+    "forced_tags": [],
+    "title_en": "Formlabs introduces Form Studio 1, a $699 resin 3D printer",
+    "summary_bullets_en": [
+      "Formlabs launches the Form Studio 1, a new resin 3D printer priced at $699.",
+      "The device features new proprietary technology aimed at the consumer market.",
+      "This move marks a strategic shift for Formlabs into the budget-friendly resin printing segment.",
+      "The company aims to challenge established manufacturers currently dominating the entry-level space."
+    ],
+    "summary_bullets_cs": [
+      "Formlabs uvádí na trh Form Studio 1, novou resinovou 3D tiskárnu s cenovkou 699 dolarů.",
+      "Zařízení využívá novou technologii a cílí na segment spotřebitelských tiskáren.",
+      "Tímto krokem Formlabs agresivně vstupuje do oblasti, které dosud dominovali výrobci levných resinových tiskáren."
+    ],
+    "tags": [
+      "Hardware",
+      "Formlabs",
+      "Resin 3D Printing",
+      "SLA",
+      "Consumer Electronics"
+    ]
+  },
+  {
+    "title": "Nová 3D tiskárna Form Studio 1 od Formlabs: Stopy vedoucí k expanzi na větší trh",
+    "summary": "Ahead of the announcement of the Formlabs Form Studio 1, 3D Printing Industry examined comments from CEO Max Lobovsky, recruitment intelligence, a former Apple executive&#8217;s appointment, and a revealing promotional announcement in Shenzhen. Together, they pointed towards a company reconsidering the scale of its ambitions. Formlabs has unveiled a new photopolymer 3D printer, extending its&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Form-Studio-1-–-media-kit-–-003-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-14T13:00:16+00:00",
+    "url": "https://3dprintingindustry.com/news/formlabs-new-form-studio-1-3d-printer-the-clues-behind-its-push-into-a-bigger-market-255678/?utm_source=rss&utm_medium=rss&utm_campaign=formlabs-new-form-studio-1-3d-printer-the-clues-behind-its-push-into-a-bigger-market",
+    "forced_tags": [],
+    "title_en": "Formlabs’ New Form Studio 1 3D Printer: The Clues Behind Its Push Into a Bigger Market",
+    "summary_bullets_en": [
+      "Formlabs is signaling a strategic shift toward larger-scale industrial markets with the launch of the Form Studio 1.",
+      "Evidence for this expansion includes recent executive hires, such as a former Apple leader, and recruitment data.",
+      "CEO Max Lobovsky’s recent comments and promotional activities in Shenzhen suggest a broader ambition for the company's hardware ecosystem.",
+      "The new photopolymer printer represents a significant evolution in the company's product lineup."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Formlabs naznačuje strategický posun směrem k průmyslovým trhům větších rozměrů uvedením tiskárny Form Studio 1.",
+      "Důkazy o této expanzi zahrnují nedávné náborové aktivity a jmenování nového člena vedení, který dříve působil v Apple.",
+      "Komentáře generálního ředitele Maxe Lobovského a propagační akce v Šen-čenu naznačují vyšší ambice v oblasti hardwarového ekosystému.",
+      "Nová fotopolymerová tiskárna představuje významný vývojový krok v produktovém portfoliu společnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Formlabs",
+      "3D Printing",
+      "Industrial Manufacturing",
+      "Photopolymer"
+    ]
+  },
+  {
+    "title": "Uvedení nové tiskárny Formlabs Form Studio 1: Technické specifikace a cena",
+    "summary": "Where is AI unlocking advantages? Explore what is possible at AMA: Software 2026. 3D printer manufacturer Formlabs has announced the Form Studio 1 resin 3D printer that the manufacturer says is the first in its category to carry UL GREENGUARD Gold Certification for indoor air quality. The certification matters more than the price. Resin 3D&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Form-Studio-1-–-media-kit-–-003-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-14T12:59:59+00:00",
+    "url": "https://3dprintingindustry.com/news/new-formlabs-form-studio-1-launches-technical-specifications-and-pricing-255688/?utm_source=rss&utm_medium=rss&utm_campaign=new-formlabs-form-studio-1-launches-technical-specifications-and-pricing",
+    "forced_tags": [],
+    "title_en": "New Formlabs Form Studio 1 launches: Technical Specifications and Pricing",
+    "summary_bullets_en": [
+      "Formlabs has introduced the Form Studio 1, a new resin 3D printer.",
+      "The device is the first in its category to achieve UL GREENGUARD Gold Certification for indoor air quality.",
+      "The manufacturer emphasizes that safety and air quality standards are a key differentiator for this model.",
+      "The launch coincides with the upcoming AMA: Software 2026 event, focusing on the role of AI in 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Formlabs představila novou resinovou 3D tiskárnu Form Studio 1.",
+      "Jde o první zařízení ve své kategorii, které získalo certifikaci UL GREENGUARD Gold pro kvalitu vnitřního ovzduší.",
+      "Výrobce klade větší důraz na bezpečnost a certifikaci než na samotnou cenu.",
+      "Téma využití umělé inteligence v 3D tisku bude hlavním bodem nadcházející akce AMA: Software 2026."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Formlabs",
+      "3D Printing",
+      "Resin 3D Printing",
+      "Sustainability"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 14. října 2026: Bolus, letecké nástroje, vodní filtr a další",
+    "summary": "In today&#8217;s 3D Printing News Briefs, we&#8217;re starting with medical news, as Myrava has received FDA 510(k) clearance for its 3D printed bolus. Moving on to aerospace and metals, AML3D...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/Myrava-patient-specific-3D-printed-bolus-818x1024.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-14T12:30:40+00:00",
+    "url": "https://3dprint.com/334771/3d-printing-news-briefs-10-14-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, October 14, 2026: Bolus, Aerospace Tooling, Water Filter, & More",
+    "summary_bullets_en": [
+      "Myrava secured FDA 510(k) clearance for its innovative 3D printed medical bolus.",
+      "AML3D is advancing aerospace manufacturing through new metal 3D printing applications.",
+      "The industry update covers diverse developments ranging from specialized tooling to sustainable water filtration solutions."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Myrava získala schválení FDA 510(k) pro svůj 3D tištěný lékařský bolus.",
+      "Společnost AML3D posouvá hranice výroby v letectví prostřednictvím nových aplikací 3D tisku z kovů.",
+      "Aktuální přehled pokrývá rozmanitý vývoj od specializovaných nástrojů až po udržitelná řešení filtrace vody."
+    ],
+    "tags": [
+      "Hardware",
+      "Medical",
+      "Aerospace",
+      "Metals",
+      "Myrava",
+      "AML3D"
+    ]
+  },
+  {
+    "title": "Proč je největší 3D tištěná budova na světě stáj pro koně",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971495015/0/fabbaloo/default~Why-the-World%e2%80%99s-Largest-D-Printed-Building-Is-a-Horse-Barn\" rel=\"nofollow\" title=\"Why the World’s Largest 3D Printed Building Is a Horse Barn\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/Filename-_392-300x200.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles G. Goulding explains why a record-setting 3D printed horse barn in Wellington offers a glimpse at how additive construction could reshape agricultural, industrial, and other large-scale buildings.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971495015/0/fabbaloo/default~Why-the-World%e2%80%99s-Largest-D-Printed-Building-Is-a-Horse-Barn\" rel=\"nofollow\">Why the World’s Largest 3D Printed Building Is a Horse Barn</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/Filename-_392-300x200.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-14T11:07:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971495015/0/fabbaloo/default~Why-the-World%e2%80%99s-Largest-D-Printed-Building-Is-a-Horse-Barn",
+    "forced_tags": [],
+    "title_en": "Why the World’s Largest 3D Printed Building Is a Horse Barn",
+    "summary_bullets_en": [
+      "A record-breaking 3D printed horse barn in Wellington demonstrates the growing potential of additive construction for large-scale projects.",
+      "The project highlights how 3D printing technology can be efficiently applied to agricultural and industrial infrastructure.",
+      "Charles G. Goulding suggests this development signals a shift in how we approach the construction of massive, non-residential buildings."
+    ],
+    "summary_bullets_cs": [
+      "Rekordní 3D tištěná stáj pro koně ve Wellingtonu ukazuje rostoucí potenciál aditivní konstrukce pro rozsáhlé projekty.",
+      "Projekt zdůrazňuje, jak lze technologii 3D tisku efektivně využít v zemědělské a průmyslové infrastruktuře.",
+      "Charles G. Goulding naznačuje, že tento vývoj signalizuje změnu v přístupu ke stavbě masivních nebytových objektů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Construction",
+      "3D Printed Architecture",
+      "Agricultural Infrastructure",
+      "Large-scale 3D Printing"
+    ]
+  },
+  {
+    "title": "Společnost ICON získala 200 milionů dolarů na výrobu 3D tiskáren Titan pro stavebnictví",
+    "summary": "Discover exclusive software insights at AMA: Software 2026, on October 22. Register for free! Construction technology company ICON has announced a $200 million Series D round co-led by Baillie Gifford and funds managed by BlackRock. Capital Factory, CAZ Investments, Moderne Ventures, Moonshots Capital, Norwest, Overmatch, The Syndicate, and Tiger Global also joined, along with other&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/ICON_Titan_Example_Printing_Homes-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-14T09:56:50+00:00",
+    "url": "https://3dprintingindustry.com/news/icon-raises-200m-to-manufacture-titan-3d-printers-for-builders-255641/?utm_source=rss&utm_medium=rss&utm_campaign=icon-raises-200m-to-manufacture-titan-3d-printers-for-builders",
+    "forced_tags": [],
+    "title_en": "ICON Raises $200M to Manufacture Titan 3D Printers for Builders",
+    "summary_bullets_en": [
+      "ICON secured $200 million in a Series D funding round led by Baillie Gifford and BlackRock.",
+      "The capital will be used to scale the production of the company's advanced Titan 3D printers.",
+      "A wide range of prominent investors, including Tiger Global and Norwest, participated in the round.",
+      "The company is also hosting an upcoming event, AMA: Software 2026, on October 22."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ICON získala 200 milionů dolarů v investičním kole série D, které vedly fondy Baillie Gifford a BlackRock.",
+      "Kapitál bude využit k rozšíření výroby pokročilých 3D tiskáren Titan určených pro stavební průmysl.",
+      "Do investičního kola se zapojila řada významných investorů, jako jsou Tiger Global, Norwest a další.",
+      "Společnost pořádá 22. října akci AMA: Software 2026, kde představí novinky v oblasti softwaru."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "ICON",
+      "Construction",
+      "3D Printing",
+      "Investment"
+    ]
+  },
+  {
+    "title": "Společnost Gränges posouvá 3D tisk hliníku do náročných průmyslových prostředí",
+    "summary": "Discover exclusive software insights at AMA: Software 2026, on October 22. Register for free! Gränges Powder Metallurgy (GPM), the advanced aluminium materials division of Swedish manufacturer Gränges,is collaborating with metal component specialist Pint and French research institute IRT M2P to develop two aluminium-scandium alloys for Laser Powder Bed Fusion (LPBF) 3D printing. The materials are&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/image-8-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-14T09:53:53+00:00",
+    "url": "https://3dprintingindustry.com/news/granges-pushes-aluminium-3d-printing-into-demanding-industrial-environments-255656/?utm_source=rss&utm_medium=rss&utm_campaign=granges-pushes-aluminium-3d-printing-into-demanding-industrial-environments",
+    "forced_tags": [],
+    "title_en": "Gränges pushes aluminium 3D printing into demanding industrial environments",
+    "summary_bullets_en": [
+      "Gränges Powder Metallurgy is partnering with Pint and IRT M2P to develop specialized aluminium-scandium alloys.",
+      "The project focuses on optimizing these new materials specifically for Laser Powder Bed Fusion (LPBF) 3D printing.",
+      "The initiative aims to enable the use of high-performance aluminium components in challenging industrial applications."
+    ],
+    "summary_bullets_cs": [
+      "Objevte exkluzivní softwarové poznatky na akci AMA: Software 2026, která se koná 22. října. Registrace je zdarma!",
+      "Divize Gränges Powder Metallurgy spolupracuje se specialistou na kovové komponenty Pint a francouzským výzkumným ústavem IRT M2P na vývoji dvou hliníkovo-skandiových slitin pro 3D tisk metodou Laser Powder Bed Fusion (LPBF)."
+    ],
+    "tags": [
+      "Material",
+      "Gränges",
+      "Pint",
+      "IRT M2P",
+      "LPBF",
+      "Aluminium-Scandium"
+    ]
+  },
+  {
+    "title": "3D tištěné raketové motory X-Bow vybrány pro armádní střely s plochou dráhou letu",
+    "summary": "Where is AI unlocking advantages? Explore what is possible at AMA: Software 2026. Albuquerque-based solid rocket motor (SRM) manufacturer X-Bow Systems, which builds its motors using additive manufacturing (AM), has been selected by Leidos to develop and produce booster motors for the U.S. Army’s Low-Cost Containerized Munition (LCCM), a new low-cost cruise missile. X-Bow announced&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Rocketinabox-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-14T09:51:29+00:00",
+    "url": "https://3dprintingindustry.com/news/x-bow-3d-printed-rocket-motors-selected-for-army-cruise-missile-255650/?utm_source=rss&utm_medium=rss&utm_campaign=x-bow-3d-printed-rocket-motors-selected-for-army-cruise-missile",
+    "forced_tags": [],
+    "title_en": "X-Bow 3D Printed Rocket Motors Selected for Army Cruise Missile",
+    "summary_bullets_en": [
+      "X-Bow Systems has been chosen by Leidos to supply 3D-printed booster motors for the U.S. Army's new LCCM cruise missile.",
+      "The company utilizes advanced additive manufacturing techniques to produce solid rocket motors (SRM) more efficiently.",
+      "This partnership marks a significant milestone in integrating 3D printing technology into defense and aerospace supply chains."
+    ],
+    "summary_bullets_cs": [
+      "Společnost X-Bow Systems byla vybrána firmou Leidos k vývoji a výrobě 3D tištěných pomocných motorů pro novou nízkonákladovou střelu s plochou dráhou letu (LCCM) americké armády.",
+      "Výrobce z Albuquerque využívá k produkci raketových motorů na tuhá paliva (SRM) pokročilé metody aditivní výroby.",
+      "Tento kontrakt představuje významný posun v nasazení 3D tisku v obranném a leteckém průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "X-Bow Systems",
+      "Leidos",
+      "Additive Manufacturing",
+      "Defense",
+      "Aerospace"
+    ]
+  },
+  {
+    "title": "Farma dvou tisíc 3D tiskáren čínského výrobce hraček činí vícebarevný 3D tisk životaschopným",
+    "summary": "Where is AI unlocking advantages? Explore what is possible at AMA: Software 2026. A Chinese toy manufacturer says it has installed roughly 2,300 Snapmaker U1 3D printers for multi-color production.&#160; Jinqi Toys, which sells articulated figurines and ornaments on 1688 and Amazon, claims multi-color products have gone from about 5% of its sales revenue to&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/093115ae8eeetp5xbddyhy-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-14T09:51:06+00:00",
+    "url": "https://3dprintingindustry.com/news/chinese-toymakers-two-thousand-3d-printer-farm-makes-multi-color-3d-printing-viable-255655/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-toymakers-two-thousand-3d-printer-farm-makes-multi-color-3d-printing-viable",
+    "forced_tags": [],
+    "title_en": "Chinese Toymaker’s Two Thousand 3D Printer Farm Makes Multi-Color 3D Printing Viable",
+    "summary_bullets_en": [
+      "Chinese manufacturer Jinqi Toys has deployed a massive farm of approximately 2,300 Snapmaker U1 3D printers.",
+      "The company is leveraging this infrastructure to scale the production of multi-color articulated figurines and ornaments.",
+      "Multi-color products have become a significant growth driver, increasing from 5% to a much larger share of the company's total sales revenue."
+    ],
+    "summary_bullets_cs": [
+      "Čínský výrobce Jinqi Toys nainstaloval rozsáhlou farmu čítající přibližně 2 300 3D tiskáren typu Snapmaker U1.",
+      "Společnost využívá tuto infrastrukturu k masové výrobě vícebarevných kloubových figurek a dekorací.",
+      "Podíl vícebarevných produktů na celkových tržbách společnosti vzrostl z původních 5 % na výrazně vyšší úroveň."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing Farm",
+      "Snapmaker",
+      "Jinqi Toys",
+      "Multi-color Printing",
+      "Mass Production"
+    ]
+  },
+  {
+    "title": "3D tisk měkkých kompozitů umožňuje ladit pohyb součástek",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971478860/0/fabbaloo/default~Soft-Composite-D-Printing-Tunes-How-Parts-Move\" rel=\"nofollow\" title=\"Soft Composite 3D Printing Tunes How Parts Move\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/soft-composite-behavior-cover-300x125.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Soft 3D printed parts have a timing problem.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971478860/0/fabbaloo/default~Soft-Composite-D-Printing-Tunes-How-Parts-Move\" rel=\"nofollow\">Soft Composite 3D Printing Tunes How Parts Move</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/soft-composite-behavior-cover-300x125.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-14T08:03:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971478860/0/fabbaloo/default~Soft-Composite-D-Printing-Tunes-How-Parts-Move",
+    "forced_tags": [],
+    "title_en": "Soft Composite 3D Printing Tunes How Parts Move",
+    "summary_bullets_en": [
+      "Soft 3D printed components often struggle with precise timing and controlled movement.",
+      "New research into soft composite 3D printing allows for better manipulation of how these parts behave.",
+      "The technology enables engineers to tune the mechanical response of flexible structures during operation."
+    ],
+    "summary_bullets_cs": [
+      "Měkké 3D tištěné součástky mají často problém s přesným časováním a řízením pohybu.",
+      "Nový výzkum v oblasti 3D tisku měkkých kompozitů umožňuje lépe ovlivňovat chování těchto dílů.",
+      "Tato technologie umožňuje inženýrům ladit mechanickou odezvu flexibilních struktur během jejich provozu."
+    ],
+    "tags": [
+      "Material",
+      "Research",
+      "Soft Robotics",
+      "Composite Materials",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "S nejnovějším kolem financování ve výši 200 milionů dolarů ICON možná ovládne trh s 3D tištěnými stavbami",
+    "summary": "I used to view ICON, the Austin-based additive construction (AC) firm, as one of a handful of companies that could realistically consider itself the leader of the 3D printed construction...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/6ac79b5144c7baad4ca034bc_WolfRanch_Neighborhood_sunset-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-14T07:00:10+00:00",
+    "url": "https://3dprint.com/334814/with-its-latest-200m-round-icon-may-be-running-away-with-the-3d-printed-construction-market/",
+    "forced_tags": [],
+    "title_en": "With Its Latest $200M Round, ICON May Be Running Away With the 3D Printed Construction Market",
+    "summary_bullets_en": [
+      "ICON has secured a significant $200 million funding round, solidifying its position as a dominant force in the additive construction sector.",
+      "The company is transitioning from being one of several competitors to potentially becoming the clear market leader in 3D printed housing.",
+      "This capital injection will likely accelerate the scaling of their proprietary technology and infrastructure projects."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ICON se sídlem v Austinu získala 200 milionů dolarů, čímž si upevnila pozici lídra v oblasti aditivní stavební výroby.",
+      "Firma se posouvá z pozice jednoho z mnoha konkurentů směrem k roli jasného lídra na trhu 3D tištěných domů.",
+      "Tato kapitálová injekce pravděpodobně urychlí rozšiřování jejich proprietární technologie a infrastrukturních projektů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "ICON",
+      "Additive Construction",
+      "3D Printed Housing",
+      "Investment"
+    ]
+  },
+  {
     "title": "Uvnitř výročního setkání k 10. výročí MGA v Berlíně",
     "summary": "Mobility goes Additive (MGA) is an organization exploring collaborative implementation of additive manufacturing. Based in Berlin, MGA staffers work in defense, rail, and medicine while exploring urban transport, lifestyle, and...",
     "image": "https://3dprint.com/wp-content/uploads/2026/10/IMG_5322-scaled-e1791933923403.jpeg",
