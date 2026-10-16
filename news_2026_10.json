@@ -1,5 +1,409 @@
 [
   {
+    "title": "Bambu Lab potvrzuje uvedení ručního 3D skeneru S1 na listopad",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971648507/0/fabbaloo/default~Bambu-Lab-Confirms-S-Handheld-D-Scanner-for-November-Launch\" rel=\"nofollow\" title=\"Bambu Lab Confirms S1 Handheld 3D Scanner for November Launch\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/bambu-lab-ds001-announce-cover-300x170.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Bambu Lab has confirmed they are releasing a 3D scanner.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971648507/0/fabbaloo/default~Bambu-Lab-Confirms-S-Handheld-D-Scanner-for-November-Launch\" rel=\"nofollow\">Bambu Lab Confirms S1 Handheld 3D Scanner for November Launch</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/bambu-lab-ds001-announce-cover-300x170.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-15T16:41:57+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971648507/0/fabbaloo/default~Bambu-Lab-Confirms-S-Handheld-D-Scanner-for-November-Launch",
+    "forced_tags": [],
+    "title_en": "Bambu Lab Confirms S1 Handheld 3D Scanner for November Launch",
+    "summary_bullets_en": [
+      "Bambu Lab has officially announced the upcoming release of their new handheld 3D scanner.",
+      "The device, designated as the S1, is scheduled to hit the market in November.",
+      "This move marks the company's expansion beyond 3D printers into the 3D scanning hardware segment."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab oficiálně potvrdila, že chystá vydání svého nového ručního 3D skeneru.",
+      "Zařízení s označením S1 by se mělo na trhu objevit již v listopadu.",
+      "Tento krok znamená rozšíření portfolia společnosti mimo oblast 3D tiskáren do segmentu 3D skenovacího hardwaru."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Scanning",
+      "Bambu Lab",
+      "S1 Scanner"
+    ]
+  },
+  {
+    "title": "Společnost Slant3D spouští SlantTools, knihovnu generátorů 3D modelů na počkání",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971641550/0/fabbaloo/default~SlantD-Launches-SlantTools-a-Library-of-Instant-D-Model-Generators\" rel=\"nofollow\" title=\"Slant3D Launches SlantTools, a Library of Instant 3D Model Generators\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/slanttools-cover-300x179.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Slant3D launched something interesting: SlantTools.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971641550/0/fabbaloo/default~SlantD-Launches-SlantTools-a-Library-of-Instant-D-Model-Generators\" rel=\"nofollow\">Slant3D Launches SlantTools, a Library of Instant 3D Model Generators</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/slanttools-cover-300x179.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-15T15:05:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971641550/0/fabbaloo/default~SlantD-Launches-SlantTools-a-Library-of-Instant-D-Model-Generators",
+    "forced_tags": [],
+    "title_en": "Slant3D Launches SlantTools, a Library of Instant 3D Model Generators",
+    "summary_bullets_en": [
+      "Slant3D has introduced SlantTools, a new platform featuring a library of instant 3D model generators.",
+      "The service aims to simplify the design process by allowing users to generate custom 3D models on demand.",
+      "This launch marks a significant step in automating 3D design workflows for various applications."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Slant3D představila SlantTools, novou platformu obsahující knihovnu generátorů 3D modelů.",
+      "Služba má za cíl zjednodušit proces návrhu tím, že uživatelům umožňuje generovat vlastní 3D modely na vyžádání.",
+      "Toto spuštění představuje významný krok v automatizaci pracovních postupů při 3D navrhování pro různé aplikace."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Slant3D",
+      "SlantTools",
+      "3D Modeling",
+      "Generative Design",
+      "Automation"
+    ]
+  },
+  {
+    "title": "China Watch #12: Nedostatek PLA žene ceny vzhůru a Bambu Lab vstupuje do 3D skenování",
+    "summary": "Plus, Chinese 3D printer exports match the entire 2025 total in just 8 months, TCT Shenzhen doubles in size, and desktop metal 3D printers price fall to $14 000",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/35da255a-2e3a-4513-8d16-60f00ce52cb7_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-10-15T15:01:15+00:00",
+    "url": "https://www.3dprintingjournal.com/p/china-watch-12-pla-shortage-makes",
+    "forced_tags": [],
+    "title_en": "China Watch #12: PLA shortage makes prices soaring, and Bambu Lab enters 3D scanning",
+    "summary_bullets_en": [
+      "Global PLA filament prices are surging due to a significant supply shortage.",
+      "Chinese 3D printer exports have already hit their full-year 2025 target in just eight months.",
+      "Bambu Lab is expanding into the 3D scanning market, while TCT Shenzhen has doubled its exhibition space.",
+      "The price of desktop metal 3D printers has dropped to the $14,000 threshold."
+    ],
+    "summary_bullets_cs": [
+      "Čínský export 3D tiskáren dosáhl za pouhých 8 měsíců objemu plánovaného pro celý rok 2025.",
+      "Veletrh TCT Shenzhen zdvojnásobil svou výstavní plochu.",
+      "Ceny stolních kovových 3D tiskáren klesly na hranici 14 000 USD."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Bambu Lab",
+      "3D Scanning",
+      "Metal 3D Printing",
+      "Market Trends"
+    ]
+  },
+  {
+    "title": "University of Maine usiluje o další patenty na starý nápad v 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971630339/0/fabbaloo/default~University-of-Maine-Seeks-More-Patents-for-an-Old-D-Printing-Idea\" rel=\"nofollow\" title=\"University of Maine Seeks More Patents for an Old 3D Printing Idea\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/u-main-tilt-patent-cover-300x236.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Tilting a 3D printer's build plate to eliminate supports is hardly a new idea.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971630339/0/fabbaloo/default~University-of-Maine-Seeks-More-Patents-for-an-Old-D-Printing-Idea\" rel=\"nofollow\">University of Maine Seeks More Patents for an Old 3D Printing Idea</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/u-main-tilt-patent-cover-300x236.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-15T13:28:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971630339/0/fabbaloo/default~University-of-Maine-Seeks-More-Patents-for-an-Old-D-Printing-Idea",
+    "forced_tags": [],
+    "title_en": "University of Maine Seeks More Patents for an Old 3D Printing Idea",
+    "summary_bullets_en": [
+      "The University of Maine is pursuing new patents for the concept of tilting a 3D printer's build plate.",
+      "Tilting build plates is a known technique used to eliminate the need for support structures during the printing process.",
+      "The article questions the novelty of these patent filings, noting that the underlying idea has been explored in the industry for years."
+    ],
+    "summary_bullets_cs": [
+      "University of Maine se snaží získat nové patenty pro koncept naklápění tiskové podložky u 3D tiskáren.",
+      "Naklápění podložky je známá technika, která se využívá k eliminaci nutnosti podpůrných struktur během tisku.",
+      "Článek zpochybňuje novost těchto patentových přihlášek s poukazem na to, že tento princip je v oboru známý již řadu let."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Patents",
+      "University of Maine",
+      "Additive Manufacturing",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Investiční strategie v aditivní výrobě 2026 připravují půdu pro AMS 2027",
+    "summary": "AM Investment Strategies 2026 Nov. 5 · 12 p.m. ET · Free online event RESERVE YOUR SPOT  ↗ A one-hour online discussion featuring some of the biggest names in 3D...",
+    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2197.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-15T12:30:55+00:00",
+    "url": "https://3dprint.com/334763/am-investment-strategies-2026-sets-the-stage-for-ams-2027/",
+    "forced_tags": [],
+    "title_en": "AM Investment Strategies 2026 Sets the Stage for AMS 2027",
+    "summary_bullets_en": [
+      "A one-hour online event focused on investment trends in the 3D printing industry.",
+      "Features insights from leading industry experts and key market players.",
+      "Serves as a strategic precursor to the upcoming AMS 2027 conference.",
+      "Registration is free and open to the public for the November 5th session."
+    ],
+    "summary_bullets_cs": [
+      "Jednohodinová online akce zaměřená na investiční trendy v odvětví 3D tisku.",
+      "Představuje postřehy od předních odborníků a klíčových hráčů na trhu.",
+      "Slouží jako strategická příprava na nadcházející konferenci AMS 2027.",
+      "Registrace na akci, která se koná 5. listopadu, je zdarma."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Investment",
+      "AM Industry",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Rakouský startup DropForce vyrábějící drony pomocí 3D tisku sází na distribuovanou výrobu",
+    "summary": "Investors couldn&#8217;t stop throwing money at the drone market in 2025, with total investments in the industry setting a record, coming in at just under $4 billion. If anything, though,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/dropforce-gruender-scaled-1-1024x576.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-15T12:00:31+00:00",
+    "url": "https://3dprint.com/334901/austrian-3d-printed-drone-startup-dropforce-is-selling-distributed-production/",
+    "forced_tags": [],
+    "title_en": "Austrian 3D Printed Drone Startup DropForce is Selling Distributed Production",
+    "summary_bullets_en": [
+      "The drone industry saw record-breaking investments in 2025, totaling nearly $4 billion.",
+      "Austrian startup DropForce is disrupting the market by focusing on distributed 3D printing production.",
+      "The company aims to decentralize manufacturing to improve efficiency and logistics for drone components."
+    ],
+    "summary_bullets_cs": [
+      "Trh s drony zaznamenal v roce 2025 rekordní investice v celkové výši téměř 4 miliardy dolarů.",
+      "Rakouský startup DropForce mění pravidla hry zaměřením na distribuovanou 3D tiskovou produkci.",
+      "Společnost se snaží decentralizovat výrobu, aby zvýšila efektivitu a zlepšila logistiku komponentů pro drony."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Printing",
+      "Drones",
+      "DropForce",
+      "Distributed Manufacturing"
+    ]
+  },
+  {
+    "title": "Snapmaker a Phaetus uvádějí na trh hotend Liber s licencovanou technologií E3D",
+    "summary": "Where is AI unlocking advantages? Explore what is possible at AMA: Software 2026. Snapmaker, a 3D printing hardware manufacturer, and Phaetus, a developer of extrusion components for 3D printers, have released the Snapmaker × Phaetus Liber High Flow Hotend for the Snapmaker U1. Liber technology is based on E3D’s FlowCore technology platform. Jiangsu Runice 3D&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Donald-Wan-Chief-Technology-Officer-at-Phaetus-presents-the-Liber-High-Flow-Hotend-for-U1.-Photo-via-Snapmaker-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-15T11:51:40+00:00",
+    "url": "https://3dprintingindustry.com/news/snapmaker-and-phaetus-launch-liber-hotend-with-licensed-e3d-technology-255725/?utm_source=rss&utm_medium=rss&utm_campaign=snapmaker-and-phaetus-launch-liber-hotend-with-licensed-e3d-technology",
+    "forced_tags": [],
+    "title_en": "Snapmaker and Phaetus Launch Liber Hotend with Licensed E3D Technology",
+    "summary_bullets_en": [
+      "Snapmaker and Phaetus have collaborated to release the new Liber High Flow Hotend for the Snapmaker U1 printer.",
+      "The hotend utilizes E3D’s licensed FlowCore technology to enhance extrusion performance.",
+      "This partnership aims to bring advanced high-flow capabilities to the Snapmaker ecosystem."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti Snapmaker a Phaetus spojily síly a představily nový vysokoprůtokový hotend Liber pro tiskárnu Snapmaker U1.",
+      "Hotend využívá licencovanou technologii FlowCore od společnosti E3D pro zvýšení výkonu vytlačování.",
+      "Partnerství má za cíl přinést pokročilé možnosti vysokorychlostního tisku do ekosystému Snapmaker."
+    ],
+    "tags": [
+      "Hardware",
+      "Snapmaker",
+      "Phaetus",
+      "E3D",
+      "3D Printing",
+      "Hotend"
+    ]
+  },
+  {
+    "title": "Zdokonalování budoucnosti: Proč vysoké využití rafinerií činí 3D tisk cennějším než kdy dříve",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971621285/0/fabbaloo/default~Refining-the-Future-Why-High-Refinery-Utilization-Makes-D-Printing-More-Valuable-Than-Ever\" rel=\"nofollow\" title=\"Refining the Future: Why High Refinery Utilization Makes 3D Printing More Valuable Than Ever\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/Filename-_395-300x300.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Charles R. Goulding and Preeti Sulibhavi discuss how 3D printing can help America's refineries navigate supply chain disruptions, accelerate maintenance, and turn domestic manufacturing into a competitive advantage.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971621285/0/fabbaloo/default~Refining-the-Future-Why-High-Refinery-Utilization-Makes-D-Printing-More-Valuable-Than-Ever\" rel=\"nofollow\">Refining the Future: Why High Refinery Utilization Makes 3D Printing More Valuable Than Ever</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/Filename-_395-300x300.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-15T11:29:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971621285/0/fabbaloo/default~Refining-the-Future-Why-High-Refinery-Utilization-Makes-D-Printing-More-Valuable-Than-Ever",
+    "forced_tags": [],
+    "title_en": "Refining the Future: Why High Refinery Utilization Makes 3D Printing More Valuable Than Ever",
+    "summary_bullets_en": [
+      "3D printing offers a strategic solution for oil refineries to mitigate supply chain disruptions.",
+      "Additive manufacturing accelerates maintenance processes by enabling on-demand production of critical spare parts.",
+      "Leveraging domestic 3D printing capabilities enhances operational efficiency and provides a competitive edge for the energy sector."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk nabízí rafineriím strategické řešení pro zmírnění výpadků v dodavatelském řetězci.",
+      "Aditivní výroba urychluje procesy údržby díky možnosti výroby kritických náhradních dílů na vyžádání.",
+      "Využití domácích kapacit 3D tisku zvyšuje provozní efektivitu a poskytuje konkurenční výhodu v energetickém sektoru."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Supply Chain",
+      "Energy Sector",
+      "Additive Manufacturing",
+      "Maintenance"
+    ]
+  },
+  {
+    "title": "AMA: Software 2026 a celodenní program o digitálním vláknu, od CAM s podporou AI až po Vibe Coding",
+    "summary": "3D Printing Industry&#8217;s AMA: Software 2026 takes place online on 22 October, with 24 speakers across a full day of presentations and two panels. Registration is free. Additive manufacturing hardware gets most of the attention, but whether a part is printed right first time, and again on the thousandth build, increasingly depends on software. AMA:&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/AMA-Software-Main-Banner-1-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-15T10:26:12+00:00",
+    "url": "https://3dprintingindustry.com/news/ama-software-2026-a-full-day-on-the-digital-thread-from-ai-assisted-cam-to-vibe-coding-255727/?utm_source=rss&utm_medium=rss&utm_campaign=ama-software-2026-a-full-day-on-the-digital-thread-from-ai-assisted-cam-to-vibe-coding",
+    "forced_tags": [],
+    "title_en": "AMA: Software 2026 and Full Day on the Digital Thread, from AI-Assisted CAM to Vibe Coding",
+    "summary_bullets_en": [
+      "The 'AMA: Software 2026' online event will take place on October 22, featuring 24 speakers and two expert panels.",
+      "The conference focuses on the critical role of software in ensuring consistent, high-quality 3D printing results.",
+      "Topics range from AI-assisted CAM processes to the emerging trend of 'vibe coding' in additive manufacturing.",
+      "Registration for the full-day event is free for all interested participants."
+    ],
+    "summary_bullets_cs": [
+      "Online akce 'AMA: Software 2026' se uskuteční 22. října a nabídne 24 řečníků během celodenních prezentací a dvou panelových diskusí.",
+      "Konference se zaměřuje na klíčovou roli softwaru při zajišťování konzistentních a kvalitních výsledků 3D tisku.",
+      "Témata pokrývají široké spektrum od CAM procesů s podporou AI až po nový trend 'vibe coding' v aditivní výrobě.",
+      "Registrace na tuto celodenní akci je pro všechny zájemce zdarma."
+    ],
+    "tags": [
+      "Software",
+      "Additive Manufacturing",
+      "AI",
+      "CAM",
+      "Digital Thread",
+      "3D Printing Industry"
+    ]
+  },
+  {
+    "title": "Projekt DIQAM pod záštitou ESA si klade za cíl zkrátit kvalifikaci 3D tištěných dílů pro vesmír na „jedno kliknutí“",
+    "summary": "Discover exclusive software insights at AMA: Software 2026, on October 22. Register for free! German additive manufacturing software developer amsight is heading DIQAM (Digital Qualification Framework for Additively Manufactured Space Components), a new European Space Agency (ESA) project aimed at speeding up how 3D printed parts for launchers and spacecraft are qualified. The initiative was&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/6ac36fae505bd2284861fa2f_DIQAM-Picture-sm-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-15T10:09:10+00:00",
+    "url": "https://3dprintingindustry.com/news/esa-first-project-diqam-aims-to-cut-am-space-part-qualification-to-one-click-255711/?utm_source=rss&utm_medium=rss&utm_campaign=esa-first-project-diqam-aims-to-cut-am-space-part-qualification-to-one-click",
+    "forced_tags": [],
+    "title_en": "ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”",
+    "summary_bullets_en": [
+      "The DIQAM project, led by German software developer amsight, aims to streamline the qualification process for 3D printed space components.",
+      "Supported by the European Space Agency (ESA), the initiative focuses on reducing the time and complexity required to certify parts for launchers and spacecraft.",
+      "The project seeks to achieve a 'one-click' qualification workflow, significantly accelerating the adoption of additive manufacturing in the aerospace sector.",
+      "More details on this software-driven approach will be presented at the upcoming AMA: Software 2026 event on October 22."
+    ],
+    "summary_bullets_cs": [
+      "Německý vývojář softwaru pro aditivní výrobu, společnost amsight, vede projekt DIQAM (Digital Qualification Framework for Additively Manufactured Space Components) pod záštitou Evropské kosmické agentury (ESA).",
+      "Cílem iniciativy je urychlit a zjednodušit proces kvalifikace 3D tištěných komponentů určených pro nosné rakety a kosmické lodě.",
+      "Projekt se zaměřuje na vytvoření digitálního rámce, který by umožnil certifikaci dílů prakticky na „jedno kliknutí“.",
+      "Exkluzivní vhled do tohoto softwarového řešení bude představen 22. října na konferenci AMA: Software 2026."
+    ],
+    "tags": [
+      "Software",
+      "Aerospace",
+      "ESA",
+      "amsight",
+      "Additive Manufacturing",
+      "Qualification"
+    ]
+  },
+  {
+    "title": "První reproduktory značky CMF od Nothing podporují 3D tištěné knoflíky a panely",
+    "summary": "Where is AI unlocking advantages? Explore what is possible at AMA: Software 2026. Nothing has introduced the first portable speakers from its CMF brand, the CMF Speaker S and the larger CMF Speaker M. Both models have removable front panels and volume knobs, and the company has published a guide on its community site for&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/1791193354-492412-cmf-speaker-m-group-render-light-grayturquoiseorangedark-gray-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-15T10:07:24+00:00",
+    "url": "https://3dprintingindustry.com/news/nothings-first-cmf-speakers-support-3d-printed-knobs-and-panels-255707/?utm_source=rss&utm_medium=rss&utm_campaign=nothings-first-cmf-speakers-support-3d-printed-knobs-and-panels",
+    "forced_tags": [],
+    "title_en": "Nothing’s First CMF Speakers Support 3D Printed Knobs and Panels",
+    "summary_bullets_en": [
+      "Nothing launched its first portable speakers, the CMF Speaker S and M, featuring a modular design.",
+      "The devices include removable front panels and volume knobs that users can customize.",
+      "The company released official guides and files on its community site to encourage 3D printing of custom parts.",
+      "This initiative highlights a growing trend of consumer electronics brands embracing user-driven hardware personalization."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Nothing představila své první přenosné reproduktory CMF Speaker S a M s modulárním designem.",
+      "Oba modely disponují odnímatelnými předními panely a ovládacími knoflíky, které si uživatelé mohou sami upravit.",
+      "Firma zveřejnila na svém komunitním webu návod a podklady pro 3D tisk vlastních náhradních dílů.",
+      "Tento krok ukazuje rostoucí trend v oblasti spotřební elektroniky, kde značky umožňují uživatelům personalizaci hardwaru."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Consumer Electronics",
+      "Nothing",
+      "CMF",
+      "Personalization"
+    ]
+  },
+  {
+    "title": "NVIDIA otevírá CAD modelovací jádro: co to znamená pro design s podporou AI a 3D tisk?",
+    "summary": "Discover exclusive software insights, including from NVIDIA, at AMA: Software 2026, on October 22. Register for free! Technology company NVIDIA has released USD BRep, an open-source geometric modeling library built around its SMLib solid modeling kernel. Published under the Apache 2.0 license, the software provides developers with access to NURBS-based boundary representation (BRep) modeling capabilities,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/image-11-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-15T10:02:09+00:00",
+    "url": "https://3dprintingindustry.com/news/nvidia-opens-cad-modelling-kernel-what-could-it-mean-for-ai-assisted-design-and-3d-printing-255720/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-opens-cad-modelling-kernel-what-could-it-mean-for-ai-assisted-design-and-3d-printing",
+    "forced_tags": [],
+    "title_en": "NVIDIA opens CAD modelling kernel: what could it mean for AI-assisted design and 3D printing?",
+    "summary_bullets_en": [
+      "NVIDIA has released USD BRep, an open-source geometric modeling library based on its SMLib kernel.",
+      "The software is published under the Apache 2.0 license, enabling developers to utilize advanced NURBS-based BRep modeling.",
+      "This move aims to accelerate the integration of AI into design workflows and improve 3D printing interoperability.",
+      "Further insights on this technology will be discussed at the upcoming AMA: Software 2026 event on October 22."
+    ],
+    "summary_bullets_cs": [
+      "Společnost NVIDIA vydala USD BRep, open-source knihovnu pro geometrické modelování postavenou na jejím jádru SMLib.",
+      "Software je publikován pod licencí Apache 2.0 a poskytuje vývojářům přístup k pokročilému modelování pomocí NURBS a BRep.",
+      "Tento krok má za cíl urychlit integraci umělé inteligence do návrhových procesů a zlepšit interoperabilitu v 3D tisku.",
+      "Další podrobnosti o této technologii budou představeny na akci AMA: Software 2026, která se koná 22. října."
+    ],
+    "tags": [
+      "Software",
+      "NVIDIA",
+      "CAD",
+      "AI",
+      "3D Printing",
+      "USD BRep",
+      "SMLib"
+    ]
+  },
+  {
+    "title": "Nástrojové dráhy nezávislé na sliceru by mohly rozšířit neplanární FFF tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971608640/0/fabbaloo/default~SlicerIndependent-Toolpaths-Could-Expand-NonPlanar-FFF-Printing\" rel=\"nofollow\" title=\"Slicer-Independent Toolpaths Could Expand Non-Planar FFF Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/collision-envelopes-cover-300x128.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>FFF slicing has a very basic assumption built into it: every new layer should be flat.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971608640/0/fabbaloo/default~SlicerIndependent-Toolpaths-Could-Expand-NonPlanar-FFF-Printing\" rel=\"nofollow\">Slicer-Independent Toolpaths Could Expand Non-Planar FFF Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/collision-envelopes-cover-300x128.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-15T08:45:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971608640/0/fabbaloo/default~SlicerIndependent-Toolpaths-Could-Expand-NonPlanar-FFF-Printing",
+    "forced_tags": [],
+    "title_en": "Slicer-Independent Toolpaths Could Expand Non-Planar FFF Printing",
+    "summary_bullets_en": [
+      "Traditional FFF slicing relies on the fundamental assumption that every printed layer must be flat.",
+      "New research explores slicer-independent toolpaths to overcome the limitations of planar printing.",
+      "This approach could significantly expand the capabilities of non-planar FFF 3D printing by enabling more complex geometries.",
+      "Moving away from slicer-dependent workflows may allow for more efficient and versatile additive manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "Tradiční FFF slicování vychází ze základního předpokladu, že každá tištěná vrstva musí být plochá.",
+      "Nový výzkum zkoumá nástrojové dráhy nezávislé na sliceru, aby překonal omezení planárního tisku.",
+      "Tento přístup by mohl výrazně rozšířit možnosti neplanárního FFF 3D tisku tím, že umožní tvorbu komplexnějších geometrií.",
+      "Odklon od pracovních postupů závislých na sliceru může vést k efektivnějším a univerzálnějším procesům aditivní výroby."
+    ],
+    "tags": [
+      "Software",
+      "FFF Printing",
+      "Non-planar Printing",
+      "Slicing",
+      "Toolpaths",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Bambu Lab nestaví jen 3D tiskárny. Přichází skener S1",
+    "summary": "Bambu Lab is moving into 3D scanning. The company has teased its upcoming Bambu Lab S1, its first 3D scanner, marking another step in its expansion beyond desktop 3D printers....",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/844321390_18097960079642525_4425296972743416396_n.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-15T07:00:33+00:00",
+    "url": "https://3dprint.com/334952/bambu-lab-is-building-more-than-3d-printers-now-comes-the-s1-scanner/",
+    "forced_tags": [],
+    "title_en": "Bambu Lab Is Building More Than 3D Printers. Now Comes the S1 Scanner",
+    "summary_bullets_en": [
+      "Bambu Lab is officially expanding its product ecosystem beyond desktop 3D printers.",
+      "The company has teased the upcoming S1, which will be its first-ever 3D scanner.",
+      "This move signals a strategic shift toward becoming a comprehensive provider of 3D digital manufacturing tools."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab oficiálně rozšiřuje svůj produktový ekosystém nad rámec stolních 3D tiskáren.",
+      "Firma poodhalila připravovaný model S1, který bude jejím vůbec prvním 3D skenerem.",
+      "Tento krok naznačuje strategický posun směrem k pozici komplexního dodavatele nástrojů pro digitální 3D výrobu."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Scanning",
+      "Bambu Lab",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Tři stavební 3D tiskárny AMTG vyrobily stěny pro nákupní centrum Mella",
     "summary": "Discover exclusive software insights at AMA: Software 2026, on October 22. Register for free! Florida-based construction 3D printer manufacturer AMTG has revealed that three of its G2 gantry systems were used together to produce the printed wall system for the Mella shopping center. Developed by an AMTG customer, the commercial construction project used three synchronized&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/image-9-150x100.png",
