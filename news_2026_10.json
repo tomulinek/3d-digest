@@ -1,5 +1,438 @@
 [
   {
+    "title": "50 000 objednávek a stále přibývají: EPlus3D a čínský poskytovatel AM služeb škálují řešení kapalinového chlazení pro AI servery",
+    "summary": "An under-appreciated story driving the additive manufacturing (AM) industry this year has been the divergence between what&#8217;s driving the market in China and what&#8217;s driving it everywhere else. Let&#8217;s start...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/unnamed-2.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-20T06:00:04+00:00",
+    "url": "https://3dprint.com/334991/50000-orders-and-counting-eplus3d-chinese-am-services-provider-are-scaling-liquid-cooling-solutions-for-ai-servers/",
+    "forced_tags": [],
+    "title_en": "50,000 Orders and Counting: EPlus3D & Chinese AM Services Provider Are Scaling Liquid Cooling Solutions for AI Servers",
+    "summary_bullets_en": [
+      "EPlus3D is partnering with a Chinese AM service provider to mass-produce liquid cooling components for AI servers.",
+      "The project highlights a significant shift in the Chinese AM market, focusing on high-volume industrial production rather than just prototyping.",
+      "Additive manufacturing is proving essential for creating complex cooling geometries that traditional methods cannot achieve.",
+      "The collaboration has already surpassed 50,000 units, demonstrating the scalability of metal 3D printing in the data center infrastructure sector."
+    ],
+    "summary_bullets_cs": [
+      "Společnost EPlus3D spolupracuje s čínským poskytovatelem aditivní výroby na sériové produkci komponent pro kapalinové chlazení AI serverů.",
+      "Projekt ilustruje rozdílný vývoj čínského trhu 3D tisku, který se stále více zaměřuje na velkoobjemovou průmyslovou výrobu namísto pouhého prototypování.",
+      "Aditivní výroba umožňuje vytvářet komplexní geometrie chladicích systémů, které jsou tradičními metodami nedosažitelné.",
+      "Spolupráce již překročila hranici 50 000 vyrobených kusů, což potvrzuje vysokou škálovatelnost kovového 3D tisku v sektoru datových center."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "EPlus3D",
+      "Additive Manufacturing",
+      "AI Servers",
+      "Liquid Cooling"
+    ]
+  },
+  {
+    "title": "Výkonné CAD jádro je nyní dostupné pro vývojáře 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971785907/0/fabbaloo/default~A-Powerful-CAD-Kernel-Is-Now-Available-For-D-Printing-Developers\" rel=\"nofollow\" title=\"A Powerful CAD Kernel Is Now Available For 3D Printing Developers\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/nvidia-open-source-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>The hardest part of building a CAD application might have just become lot easier.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971785907/0/fabbaloo/default~A-Powerful-CAD-Kernel-Is-Now-Available-For-D-Printing-Developers\" rel=\"nofollow\">A Powerful CAD Kernel Is Now Available For 3D Printing Developers</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/nvidia-open-source-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-19T16:10:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971785907/0/fabbaloo/default~A-Powerful-CAD-Kernel-Is-Now-Available-For-D-Printing-Developers",
+    "forced_tags": [],
+    "title_en": "A Powerful CAD Kernel Is Now Available For 3D Printing Developers",
+    "summary_bullets_en": [
+      "Developing CAD applications has become significantly more accessible for software engineers.",
+      "A new, powerful CAD kernel has been released to streamline the creation of 3D design tools.",
+      "This advancement aims to lower the barrier to entry for building specialized 3D printing software."
+    ],
+    "summary_bullets_cs": [
+      "Vývoj CAD aplikací se stal pro softwarové inženýry výrazně dostupnějším.",
+      "Bylo vydáno nové, výkonné CAD jádro, které zjednodušuje tvorbu nástrojů pro 3D navrhování.",
+      "Tento pokrok má za cíl snížit bariéry při vývoji specializovaného softwaru pro 3D tisk."
+    ],
+    "tags": [
+      "Software",
+      "CAD",
+      "3D Printing",
+      "Development",
+      "Kernel",
+      "NVIDIA"
+    ]
+  },
+  {
+    "title": "Patent společnosti Voxeljet využívá světelnou bariéru k prevenci kolizí nanášeče",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971784149/0/fabbaloo/default~Voxeljet-Patent-Uses-A-Light-Barrier-To-Prevent-Recoater-Crashes\" rel=\"nofollow\" title=\"Voxeljet Patent Uses A Light Barrier To Prevent Recoater Crashes\"><img alt=\"Landscape schematic of a powder-bed 3D printing process showing the build surface, optical crash-prediction sensor, recoater, particulate material, and print head.\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/WO_2026202739_A1-headline.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>A recoater crash is one of the more expensive ways for a powder bed 3D printer to have a bad day.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971784149/0/fabbaloo/default~Voxeljet-Patent-Uses-A-Light-Barrier-To-Prevent-Recoater-Crashes\" rel=\"nofollow\">Voxeljet Patent Uses A Light Barrier To Prevent Recoater Crashes</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/WO_2026202739_A1-headline.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-19T15:18:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971784149/0/fabbaloo/default~Voxeljet-Patent-Uses-A-Light-Barrier-To-Prevent-Recoater-Crashes",
+    "forced_tags": [],
+    "title_en": "Voxeljet Patent Uses A Light Barrier To Prevent Recoater Crashes",
+    "summary_bullets_en": [
+      "Voxeljet has filed a patent for a new safety mechanism designed to prevent recoater crashes in powder-bed 3D printers.",
+      "The system utilizes a light barrier (optical sensor) to detect potential obstructions on the build surface before the recoater makes contact.",
+      "This technology aims to reduce costly machine downtime and damage caused by failed print layers or displaced material.",
+      "The innovation represents a significant step in improving the reliability and automation of industrial-scale additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Voxeljet si nechala patentovat nový bezpečnostní mechanismus, který má zabránit kolizím nanášeče (recoateru) u 3D tiskáren s práškovým ložem.",
+      "Systém využívá světelnou bariéru (optický senzor) k detekci potenciálních překážek na tiskové ploše ještě předtím, než do nich nanášeč narazí.",
+      "Tato technologie má za cíl snížit nákladné prostoje strojů a škody způsobené selháním tiskových vrstev nebo posunem materiálu.",
+      "Inovace představuje významný krok ke zvýšení spolehlivosti a automatizace v průmyslové aditivní výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Voxeljet",
+      "3D Printing",
+      "Powder Bed Fusion",
+      "Industrial Manufacturing",
+      "Patents"
+    ]
+  },
+  {
+    "title": "ROZHOVOR: „Minutu po dvanácté“: Josef Průša o nových pravidlech soutěže v 3D tisku",
+    "summary": "Affordable printers are taking on production work. Josef Prusa argues that the companies supplying them face a contest increasingly shaped by finance, software, IP and strategic information protection, and procurement, with consequences for everyone using the machines. Join manufacturing technology experts at AMA: Software 2026 this week. Registration is free. Josef Prusa’s concern is that&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2018/05/Josef-Prusa-founder-and-CEO-of-Prusa-Research.-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-19T13:43:54+00:00",
+    "url": "https://3dprintingindustry.com/news/interview-one-minute-to-midnight-josef-prusa-on-3d-printings-new-terms-of-competition-255791/?utm_source=rss&utm_medium=rss&utm_campaign=interview-one-minute-to-midnight-josef-prusa-on-3d-printings-new-terms-of-competition",
+    "forced_tags": [],
+    "title_en": "INTERVIEW: “One minute to midnight”: Josef Prusa on 3D printing’s new terms of competition",
+    "summary_bullets_en": [
+      "Affordable 3D printers are increasingly shifting from hobbyist tools to serious production machines.",
+      "Josef Prusa warns that the industry is entering a critical phase where competition is driven by finance, software, and IP rather than just hardware.",
+      "Strategic protection of information and procurement efficiency are becoming vital for companies to survive in the evolving market.",
+      "The industry landscape is changing rapidly, forcing manufacturers to adapt their business models to remain competitive."
+    ],
+    "summary_bullets_cs": [
+      "Cenově dostupné 3D tiskárny se stále více prosazují v ostré produkční výrobě.",
+      "Josef Průša varuje, že firmy v oboru čelí nové realitě, kde o úspěchu rozhodují finance, software, duševní vlastnictví a strategická ochrana informací.",
+      "Efektivní nákup a správa zdrojů se stávají klíčovými faktory, které ovlivňují všechny uživatele těchto strojů.",
+      "Odborníci na výrobní technologie budou tyto výzvy diskutovat na nadcházející konferenci AMA: Software 2026."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Prusa Research",
+      "Manufacturing",
+      "Industry 4.0",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Neohlášená 3D tiskárna od Creality se objevila v softwaru pro krájení",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971779679/0/fabbaloo/default~Unannounced-Creality-D-Printer-Appears-in-Slicing-Software\" rel=\"nofollow\" title=\"Unannounced Creality 3D Printer Appears in Slicing Software\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/creality-mbox-exposed-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Well, this is curious — a new, unannounced 3D printer appeared in Creality’s latest software release.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971779679/0/fabbaloo/default~Unannounced-Creality-D-Printer-Appears-in-Slicing-Software\" rel=\"nofollow\">Unannounced Creality 3D Printer Appears in Slicing Software</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/creality-mbox-exposed-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-19T13:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971779679/0/fabbaloo/default~Unannounced-Creality-D-Printer-Appears-in-Slicing-Software",
+    "forced_tags": [],
+    "title_en": "Unannounced Creality 3D Printer Appears in Slicing Software",
+    "summary_bullets_en": [
+      "A mysterious, unannounced 3D printer model has been discovered within the latest update of Creality's slicing software.",
+      "The discovery suggests that Creality is preparing to launch a new hardware product in the near future.",
+      "Details about the machine's specifications or official release date remain unknown at this time."
+    ],
+    "summary_bullets_cs": [
+      "V nejnovější aktualizaci softwaru pro krájení (sliceru) od společnosti Creality byl objeven záhadný, dosud neohlášený model 3D tiskárny.",
+      "Tento objev naznačuje, že Creality připravuje v blízké budoucnosti uvedení nového hardwarového produktu na trh.",
+      "Podrobnosti o technických specifikacích stroje nebo oficiálním datu vydání zatím zůstávají neznámé."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Creality",
+      "3D Printing",
+      "Slicer"
+    ]
+  },
+  {
+    "title": "Aditivní výroba má velkou příležitost k růstu; o tom, kdo ji využije, rozhodne důvěra",
+    "summary": "After years of overpromising, the next phase of AM growth will be won by companies that consistently deliver what they say. When I entered additive manufacturing in 2014, after 15...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-2.12.49-PM-1024x698.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-19T12:30:22+00:00",
+    "url": "https://3dprint.com/334136/additive-manufacturing-has-a-major-growth-opportunity-trust-will-decide-who-captures-it/",
+    "forced_tags": [],
+    "title_en": "Additive Manufacturing Has a Major Growth Opportunity; Trust Will Decide Who Captures It",
+    "summary_bullets_en": [
+      "The additive manufacturing industry is moving past a period of overpromising toward a phase defined by reliability and performance.",
+      "Future market leadership will be determined by companies that can consistently meet technical and operational expectations.",
+      "Building trust with industrial end-users is now the critical factor for scaling AM technology into mainstream production."
+    ],
+    "summary_bullets_cs": [
+      "Odvětví aditivní výroby se posouvá od éry přehnaných slibů k fázi, které dominuje spolehlivost a reálný výkon.",
+      "Budoucí lídři trhu budou ti, kteří dokážou konzistentně naplňovat technická a provozní očekávání.",
+      "Budování důvěry u průmyslových koncových uživatelů je nyní klíčovým faktorem pro rozšíření technologie 3D tisku do běžné výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Additive Manufacturing",
+      "Industrial 3D Printing",
+      "Industry Standards"
+    ]
+  },
+  {
+    "title": "Kov na stisknutí tlačítka: SnowX",
+    "summary": "In addition to MetalBase and ScrapLabs, we now have a new competitor in the low-cost LPBF space. Chinese firm SnowX aims to release its SnowPod through Kickstarter. The 80 ×...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/plug_play_refill.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-19T12:00:02+00:00",
+    "url": "https://3dprint.com/333909/push-button-metal-snowx/",
+    "forced_tags": [],
+    "title_en": "Push Button Metal: SnowX",
+    "summary_bullets_en": [
+      "A new competitor, SnowX, has entered the low-cost LPBF 3D printing market.",
+      "The company plans to launch its compact SnowPod printer via a Kickstarter campaign.",
+      "The device features a build volume of 80 mm, positioning it alongside rivals like MetalBase and ScrapLabs."
+    ],
+    "summary_bullets_cs": [
+      "Čínská firma SnowX vstupuje na trh s cenově dostupným 3D tiskem metodou LPBF.",
+      "Společnost plánuje uvést svou tiskárnu SnowPod prostřednictvím platformy Kickstarter.",
+      "Zařízení s tiskovým prostorem 80 mm bude konkurovat projektům jako MetalBase a ScrapLabs."
+    ],
+    "tags": [
+      "Hardware",
+      "LPBF",
+      "Metal 3D Printing",
+      "SnowX",
+      "MetalBase",
+      "ScrapLabs",
+      "Kickstarter"
+    ]
+  },
+  {
+    "title": "Design týdne: Kloubové prodloužení prstů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971777060/0/fabbaloo/default~Design-of-the-Week-Articulated-Finger-Extensions\" rel=\"nofollow\" title=\"Design of the Week: Articulated Finger Extensions\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/articulated-fingers-cover.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>This week’s selection are the Articulated Finger Extensions by MakerWorld contributor ShugyoPrint.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971777060/0/fabbaloo/default~Design-of-the-Week-Articulated-Finger-Extensions\" rel=\"nofollow\">Design of the Week: Articulated Finger Extensions</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/articulated-fingers-cover.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-10-19T11:25:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971777060/0/fabbaloo/default~Design-of-the-Week-Articulated-Finger-Extensions",
+    "forced_tags": [],
+    "title_en": "Design of the Week: Articulated Finger Extensions",
+    "summary_bullets_en": [
+      "The featured design of the week is the Articulated Finger Extensions project.",
+      "The model was created by MakerWorld contributor ShugyoPrint.",
+      "These 3D printed extensions offer functional, articulated movement for the fingers."
+    ],
+    "summary_bullets_cs": [
+      "Designem týdne je projekt kloubových prodloužení prstů (Articulated Finger Extensions).",
+      "Autorem modelu je přispěvatel platformy MakerWorld s přezdívkou ShugyoPrint.",
+      "Tyto 3D tištěné doplňky umožňují funkční a pohyblivé prodloužení prstů."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "MakerWorld",
+      "Articulated Design",
+      "Functional Prints",
+      "ShugyoPrint"
+    ]
+  },
+  {
+    "title": "Projekt v Ťiou-čchüanu v hodnotě 500 milionů dolarů plánuje 100 3D tiskáren a roční kapacitu 6 300 tun kovového prášku",
+    "summary": "Discover exclusive software insights at AMA: Software 2026, on October 22. Register for free! Jiuquan City, in China&#8217;s Gansu Province, issued an EPC general contracting tender for a commercial aerospace manufacturing plant that combines AI design with metal 3D printing. The project has a total investment of 3 billion yuan, approximately $500 million, and includes&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/717548222fa44bbc4a3c8593891e41d4-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-10-19T09:56:23+00:00",
+    "url": "https://3dprintingindustry.com/news/500m-jiuquan-aerospace-project-plans-100-3d-printers-and-6300-tonnes-of-annual-metal-powder-capacity-255709/?utm_source=rss&utm_medium=rss&utm_campaign=500m-jiuquan-aerospace-project-plans-100-3d-printers-and-6300-tonnes-of-annual-metal-powder-capacity",
+    "forced_tags": [],
+    "title_en": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "summary_bullets_en": [
+      "Jiuquan City has launched a $500 million tender for a commercial aerospace manufacturing facility.",
+      "The plant will integrate AI-driven design with large-scale metal 3D printing capabilities.",
+      "Planned infrastructure includes 100 industrial 3D printers and a production capacity of 6,300 tonnes of metal powder annually."
+    ],
+    "summary_bullets_cs": [
+      "Město Ťiou-čchüan vypsalo výběrové řízení na výstavbu závodu pro komerční leteckou výrobu v hodnotě 500 milionů dolarů.",
+      "Projekt kombinuje návrhy řízené umělou inteligencí s pokročilým kovovým 3D tiskem.",
+      "Součástí plánů je instalace 100 průmyslových 3D tiskáren a vybudování kapacity pro výrobu 6 300 tun kovového prášku ročně."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Aerospace",
+      "Metal 3D Printing",
+      "AI",
+      "China",
+      "Jiuquan"
+    ]
+  },
+  {
+    "title": "Meshy Edit umožňuje tvůrcům změnit část 3D modelu a poslat ji přímo do sliceru",
+    "summary": "Spend less time fixing files. Discover smarter workflows at AMA: Software 2026. AI 3D generation company Meshy has launched Meshy Edit, a tool that changes one selected region of a 3D model from a text prompt while leaving the rest of the geometry untouched. Users mark the area they want to change, describe the edit&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-at-15.24.25-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-19T09:36:12+00:00",
+    "url": "https://3dprintingindustry.com/news/meshy-edit-lets-makers-change-one-part-of-a-3d-model-and-send-it-straight-to-the-slicer-255766/?utm_source=rss&utm_medium=rss&utm_campaign=meshy-edit-lets-makers-change-one-part-of-a-3d-model-and-send-it-straight-to-the-slicer",
+    "forced_tags": [],
+    "title_en": "Meshy Edit lets makers change one part of a 3D model and send it straight to the slicer",
+    "summary_bullets_en": [
+      "Meshy has introduced Meshy Edit, an AI-powered tool for targeted 3D model modifications.",
+      "Users can select specific regions of a model and use text prompts to alter them while preserving the surrounding geometry.",
+      "The tool streamlines the design workflow by allowing direct export to slicer software.",
+      "This innovation is part of a broader push for smarter 3D design workflows showcased at AMA: Software 2026."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Meshy představila nástroj Meshy Edit, který využívá AI k cíleným úpravám 3D modelů.",
+      "Uživatelé mohou označit konkrétní oblast modelu a pomocí textového zadání ji změnit, aniž by ovlivnili zbytek geometrie.",
+      "Nástroj zefektivňuje pracovní postupy tím, že umožňuje přímý export do slicovacího softwaru.",
+      "Tato novinka je součástí širšího trendu inteligentních designových postupů prezentovaných na AMA: Software 2026."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "3D Modeling",
+      "Meshy",
+      "Generative Design",
+      "Slicing"
+    ]
+  },
+  {
+    "title": "Vaše nohy, vaše tiskárna: Sneakprint prodává vlastní pantofle jako soubory ke stažení",
+    "summary": "Discover exclusive software insights at AMA: Software 2026, on October 22. Register for free! Munich-based footwear startup Sneakprint has launched ShoeFactory, a web platform that sells custom-fitted footwear as a digital file instead of a finished product. Customers scan their feet with a smartphone, adjust a parametric design in the browser and receive STL files&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/sneakprint-schuh-explosionsgrafik-sohle-aufbau_a671f753-032d-47c6-972a-8441b504e9d5-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-10-19T09:35:27+00:00",
+    "url": "https://3dprintingindustry.com/news/your-feet-your-printer-sneakprint-sells-custom-slides-as-downloads-255741/?utm_source=rss&utm_medium=rss&utm_campaign=your-feet-your-printer-sneakprint-sells-custom-slides-as-downloads",
+    "forced_tags": [],
+    "title_en": "Your feet, your printer: Sneakprint sells custom slides as downloads",
+    "summary_bullets_en": [
+      "Sneakprint launched ShoeFactory, a platform offering custom-fitted footwear as downloadable digital files.",
+      "Users scan their feet via smartphone and customize parametric designs directly in their web browser.",
+      "The service provides STL files, allowing customers to 3D print their own personalized slides at home.",
+      "The company is also promoting the upcoming AMA: Software 2026 event scheduled for October 22."
+    ],
+    "summary_bullets_cs": [
+      "Startup Sneakprint spustil platformu ShoeFactory, která nabízí obuv na míru ve formě digitálních souborů namísto hotových produktů.",
+      "Zákazníci si naskenují nohy chytrým telefonem a v prohlížeči upraví parametrický design obuvi.",
+      "Výsledkem je STL soubor, který si uživatelé mohou vytisknout na vlastní 3D tiskárně.",
+      "Společnost také zve na bezplatnou akci AMA: Software 2026, která se koná 22. října."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "3D Printing",
+      "Footwear",
+      "Sneakprint",
+      "ShoeFactory",
+      "Customization"
+    ]
+  },
+  {
+    "title": "Polymaker CymphoniK míchá přes 100 barev ze šesti typů granulátu",
+    "summary": "Discover exclusive software insights at AMA: Software 2026, on October 22. Register for free! Global manufacturer and developer Polymaker has introduced CymphoniK, a color mixing ecosystem for pellet-extrusion Large-Format Additive Manufacturing (LFAM). It lets design studios and 3D printing service providers produce custom colors on site from six base pellet materials. Announced on October 13,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/1791806348018-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-19T09:34:36+00:00",
+    "url": "https://3dprintingindustry.com/news/polymakers-cymphonik-mixes-100-colors-from-six-pellets-255737/?utm_source=rss&utm_medium=rss&utm_campaign=polymakers-cymphonik-mixes-100-colors-from-six-pellets",
+    "forced_tags": [],
+    "title_en": "Polymaker’s CymphoniK Mixes 100+ Colors from Six Pellets",
+    "summary_bullets_en": [
+      "Polymaker launched CymphoniK, a color-mixing ecosystem designed for large-format pellet-extrusion 3D printing.",
+      "The system enables users to create over 100 custom colors on-site using only six base pellet materials.",
+      "This technology targets design studios and service providers looking to streamline production and reduce material inventory.",
+      "The innovation was announced on October 13, with further software insights to be shared at the AMA: Software 2026 event."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Polymaker představila CymphoniK, ekosystém pro míchání barev určený pro velkoformátový 3D tisk z granulátu (LFAM).",
+      "Systém umožňuje designérům a poskytovatelům tiskových služeb vytvářet vlastní odstíny přímo na místě z pouhých šesti základních materiálů.",
+      "Technologie byla oznámena 13. října a podrobnější informace o softwaru budou představeny na akci AMA: Software 2026 dne 22. října."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "LFAM",
+      "Polymaker",
+      "CymphoniK",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Vědci vyvinuli prediktivní řízení laseru pro snížení defektů u kovového 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971772290/0/fabbaloo/default~Researchers-Develop-Predictive-Laser-Control-to-Reduce-Metal-D-Printing-Defects\" rel=\"nofollow\" title=\"Researchers Develop Predictive Laser Control to Reduce Metal 3D Printing Defects\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/interlayer-monitoring-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>What if a metal 3D printer could adjust its laser before something went wrong?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971772290/0/fabbaloo/default~Researchers-Develop-Predictive-Laser-Control-to-Reduce-Metal-D-Printing-Defects\" rel=\"nofollow\">Researchers Develop Predictive Laser Control to Reduce Metal 3D Printing Defects</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/interlayer-monitoring-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-19T08:14:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971772290/0/fabbaloo/default~Researchers-Develop-Predictive-Laser-Control-to-Reduce-Metal-D-Printing-Defects",
+    "forced_tags": [],
+    "title_en": "Researchers Develop Predictive Laser Control to Reduce Metal 3D Printing Defects",
+    "summary_bullets_en": [
+      "Researchers have developed a new predictive control system for metal 3D printers.",
+      "The technology allows the laser to adjust its parameters in real-time before defects occur.",
+      "This innovation aims to significantly improve the reliability and quality of metal additive manufacturing processes."
+    ],
+    "summary_bullets_cs": [
+      "Vědci vyvinuli nový systém prediktivního řízení pro 3D tiskárny kovů.",
+      "Technologie umožňuje laseru upravovat parametry v reálném čase ještě předtím, než vzniknou vady.",
+      "Tato inovace má za cíl výrazně zvýšit spolehlivost a kvalitu procesů aditivní výroby z kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Metal 3D Printing",
+      "Laser Control",
+      "Additive Manufacturing",
+      "Quality Control"
+    ]
+  },
+  {
+    "title": "Formlabs se ve velkém vrací na spotřebitelský trh",
+    "summary": "With Studio 1, Formlabs wants to become for resin 3D printing what Bambu Lab is for FFF. Finally!",
+    "image": "https://substackcdn.com/image/fetch/$s_!39zY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4dfa0a01-1247-43a2-a910-64e2b512bcd8_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-10-19T08:02:36+00:00",
+    "url": "https://www.3dprintingjournal.com/p/formlabs-makes-its-grand-return-to",
+    "forced_tags": [],
+    "title_en": "Formlabs makes its grand return to the consumer market",
+    "summary_bullets_en": [
+      "Formlabs is re-entering the consumer 3D printing space with the launch of Studio 1.",
+      "The company aims to replicate the disruptive success of Bambu Lab within the resin printing sector.",
+      "Studio 1 is positioned to make professional-grade resin printing more accessible to hobbyists and creators.",
+      "This move marks a significant strategic shift for Formlabs back to its roots."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Formlabs se vrací na trh spotřebitelského 3D tisku s novinkou Studio 1.",
+      "Cílem firmy je stát se pro resinový tisk tím, čím je Bambu Lab pro FFF technologii.",
+      "Studio 1 má za úkol zpřístupnit profesionální kvalitu resinového tisku běžným uživatelům a tvůrcům."
+    ],
+    "tags": [
+      "Hardware",
+      "Formlabs",
+      "Bambu Lab",
+      "Resin 3D Printing",
+      "Consumer Electronics"
+    ]
+  },
+  {
+    "title": "Solukon míří vysoko s novým systémem pro odstraňování prášku SFM-AT850",
+    "summary": "Solukon has released the SFM-AT850 depowdering system. The German depowdering specialist has updated its product line, and this machine replaces the SFM-AT800-S and SFM-AT1000-S. Rather than many small parts, this...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/PM_AT850_2026_Front-Top-Loading.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-19T07:00:51+00:00",
+    "url": "https://3dprint.com/335041/solukon-goes-big-with-new-sfm-at850-depowdering-system/",
+    "forced_tags": [],
+    "title_en": "Solukon Goes Big with New SFM-AT850 Depowdering System",
+    "summary_bullets_en": [
+      "Solukon has launched the SFM-AT850, a new industrial depowdering system.",
+      "The machine replaces the previous SFM-AT800-S and SFM-AT1000-S models.",
+      "It is specifically designed to handle large-scale 3D printed parts rather than batches of smaller components."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Solukon uvedla na trh systém pro odstraňování prášku SFM-AT850.",
+      "Tento stroj nahrazuje starší modely SFM-AT800-S a SFM-AT1000-S.",
+      "Zařízení je určeno především pro čištění velkých 3D tištěných dílů namísto zpracování mnoha malých součástek."
+    ],
+    "tags": [
+      "Hardware",
+      "Post-processing",
+      "Solukon",
+      "Additive Manufacturing",
+      "Depowdering"
+    ]
+  },
+  {
     "title": "AMPulse Asia: Čerstvé investice a létající díly rozvířily vody 3D tisku v APAC",
     "summary": "China&#8217;s latest investment in metal powder production, new 3D printers in Japan, and regulatory approval for 3D printed helicopter parts in Australia lead this edition of AMPulse Asia. The selected...",
     "image": "https://3dprint.com/wp-content/uploads/2026/10/ca58ca1afb5d6c755ed06ac2ce709205_original.avif",
