@@ -1,5 +1,325 @@
 [
   {
+    "title": "Patent společnosti Prusa kombinuje řezačku trysek, kartáč a parkovací podložku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971915453/0/fabbaloo/default~Prusa-Patent-Combines-Nozzle-Cutter-Brush-And-Parking-Pad\" rel=\"nofollow\" title=\"Prusa Patent Combines Nozzle Cutter, Brush, And Parking Pad\"><img alt=\"Axonometric view of the integrated 3D-printer nozzle-cleaning module, showing the cutter, brush, parking platform, and waste-collection container.\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/WO_2026209067_A1-headline-1280x1220.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Prusa has come up with a tidy answer to a messy 3D printing problem: make the nozzle pass through a small cleaning station that cuts, scrubs, and parks it.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971915453/0/fabbaloo/default~Prusa-Patent-Combines-Nozzle-Cutter-Brush-And-Parking-Pad\" rel=\"nofollow\">Prusa Patent Combines Nozzle Cutter, Brush, And Parking Pad</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/WO_2026209067_A1-headline-1280x1220.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-23T16:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971915453/0/fabbaloo/default~Prusa-Patent-Combines-Nozzle-Cutter-Brush-And-Parking-Pad",
+    "forced_tags": [],
+    "title_en": "Prusa Patent Combines Nozzle Cutter, Brush, And Parking Pad",
+    "summary_bullets_en": [
+      "Prusa has filed a patent for an integrated nozzle maintenance module.",
+      "The system features a combination of a cutter, a cleaning brush, and a parking pad.",
+      "This solution aims to automate nozzle cleaning and prevent debris issues during 3D printing.",
+      "The design includes a dedicated waste-collection container to keep the printer clean."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Prusa si nechala patentovat integrovaný modul pro údržbu tiskové trysky.",
+      "Systém kombinuje řezačku, čisticí kartáč a parkovací plochu pro trysku.",
+      "Toto řešení má za cíl automatizovat čištění trysky a předcházet problémům s nečistotami během tisku.",
+      "Součástí návrhu je i integrovaná nádoba na odpad, která udržuje tiskárnu v čistotě."
+    ],
+    "tags": [
+      "Hardware",
+      "Prusa Research",
+      "3D Printing",
+      "Nozzle Maintenance",
+      "Patent",
+      "Automation"
+    ]
+  },
+  {
+    "title": "Patent Arizonské univerzity umožňuje rozdělit jeden laser pro více 3D tisků",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971913794/0/fabbaloo/default~University-Of-Arizona-Patent-Splits-One-Laser-Into-Multiple-D-Prints\" rel=\"nofollow\" title=\"University Of Arizona Patent Splits One Laser Into Multiple 3D Prints\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/2pp-split-patent-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Two-photon polymerization 3D printing has a throughput problem: the machine usually can print only one object at a time.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971913794/0/fabbaloo/default~University-Of-Arizona-Patent-Splits-One-Laser-Into-Multiple-D-Prints\" rel=\"nofollow\">University Of Arizona Patent Splits One Laser Into Multiple 3D Prints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/2pp-split-patent-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-23T15:04:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971913794/0/fabbaloo/default~University-Of-Arizona-Patent-Splits-One-Laser-Into-Multiple-D-Prints",
+    "forced_tags": [],
+    "title_en": "University Of Arizona Patent Splits One Laser Into Multiple 3D Prints",
+    "summary_bullets_en": [
+      "Two-photon polymerization (2PP) 3D printing is currently limited by low throughput, as machines typically produce only one object at a time.",
+      "The University of Arizona has patented a new technology that allows a single laser beam to be split into multiple beams.",
+      "This innovation enables simultaneous printing of multiple objects, significantly increasing the efficiency and speed of the 2PP process."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk pomocí dvoufotonové polymerace (2PP) trpí nízkou propustností, protože stroje obvykle tisknou pouze jeden objekt najednou.",
+      "Arizonská univerzita si nechala patentovat novou technologii, která umožňuje rozdělit jeden laserový paprsek na několik samostatných.",
+      "Tato inovace umožňuje současný tisk více objektů, což výrazně zvyšuje efektivitu a rychlost procesu 2PP."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Two-Photon Polymerization",
+      "2PP",
+      "University of Arizona",
+      "Laser Technology",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Patent společnosti PostProcess mění odstraňování prášku na programovatelný proces",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971908850/0/fabbaloo/default~PostProcess-Patent-Turns-Powder-Removal-Into-A-Programmable-Process\" rel=\"nofollow\" title=\"PostProcess Patent Turns Powder Removal Into A Programmable Process\"><img alt=\"Detailed perspective view of an enclosed powder-removal and post-processing apparatus with open access panels, internal components, and an external collection tank.\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/US_20260307335_A1-headline-1280x1067.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Powder removal is one of those 3D printing jobs that looks simple until you have a production batch in front of you.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971908850/0/fabbaloo/default~PostProcess-Patent-Turns-Powder-Removal-Into-A-Programmable-Process\" rel=\"nofollow\">PostProcess Patent Turns Powder Removal Into A Programmable Process</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/US_20260307335_A1-headline-1280x1067.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-23T13:30:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971908850/0/fabbaloo/default~PostProcess-Patent-Turns-Powder-Removal-Into-A-Programmable-Process",
+    "forced_tags": [],
+    "title_en": "PostProcess Patent Turns Powder Removal Into A Programmable Process",
+    "summary_bullets_en": [
+      "PostProcess Technologies has secured a patent for an automated system designed to streamline the removal of excess powder from 3D printed parts.",
+      "The technology transforms manual powder removal into a programmable, repeatable process, addressing a major bottleneck in additive manufacturing production.",
+      "The apparatus features an enclosed design with integrated collection tanks, aiming to improve efficiency and consistency in post-processing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Společnost PostProcess Technologies získala patent na automatizovaný systém určený ke zefektivnění odstraňování přebytečného prášku z 3D tištěných dílů.",
+      "Tato technologie mění manuální odstraňování prášku na programovatelný a opakovatelný proces, čímž řeší zásadní úzké hrdlo ve výrobě aditivní výroby.",
+      "Zařízení využívá uzavřenou konstrukci s integrovanými sběrnými nádržemi, což má za cíl zvýšit efektivitu a konzistenci procesů následného zpracování."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Post-processing",
+      "PostProcess Technologies",
+      "Additive Manufacturing",
+      "Automation"
+    ]
+  },
+  {
+    "title": "Co zbyde, když 3D tisková společnost ukončí činnost?",
+    "summary": "Several 3D printing companies have closed, sold their assets or restructured in 2026. Some spent years developing new printing technologies and raised millions of dollars along the way. Others built...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/Innovation-to-Ruin_-A-Fractured-Future.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-23T13:00:55+00:00",
+    "url": "https://3dprint.com/335396/what-are-failed-3d-printing-companies-actually-worth/",
+    "forced_tags": [],
+    "title_en": "What’s Left When a 3D Printing Company Shuts Down?",
+    "summary_bullets_en": [
+      "The 3D printing industry saw a wave of closures, asset sales, and restructuring throughout 2026.",
+      "Many affected companies had invested years into R&D and secured millions in venture capital before failing.",
+      "The trend highlights the volatility of the additive manufacturing market and the challenges of scaling innovative printing technologies."
+    ],
+    "summary_bullets_cs": [
+      "V roce 2026 prošlo několik společností v oblasti 3D tisku uzavřením, prodejem aktiv nebo restrukturalizací.",
+      "Některé firmy strávily roky vývojem nových tiskových technologií a získaly miliony dolarů, přesto neuspěly.",
+      "Tento trend poukazuje na volatilitu trhu aditivní výroby a obtíže při škálování inovativních technologií."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Additive Manufacturing",
+      "Industry Trends",
+      "Business Restructuring"
+    ]
+  },
+  {
+    "title": "Western Report #13: Nikon byl vybrán pro tisk těl střel Tomahawk a Carbon překonal hranici jednoho milionu vytištěných sedel",
+    "summary": "Plus, a tungsten order for Freemelt, $10 million for Roboze, and a new 3D Systems center in Colorado",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/0be34a2d-a93b-49e0-9909-9b7f5def018c_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-10-23T12:03:43+00:00",
+    "url": "https://www.3dprintingjournal.com/p/western-report-13-nikon-is-selected",
+    "forced_tags": [],
+    "title_en": "Western Report #13: Nikon is selected to print Tomahawk missile bodies, and Carbon passes one million printed saddles",
+    "summary_bullets_en": [
+      "Nikon has been chosen to manufacture Tomahawk missile components using metal 3D printing.",
+      "Carbon reached a significant milestone by producing over one million 3D-printed bike saddles.",
+      "Freemelt secured a new order for tungsten materials, while Roboze raised $10 million in funding.",
+      "3D Systems is expanding its operational footprint with a new facility in Colorado."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Nikon byla vybrána k výrobě komponentů pro střely Tomahawk pomocí 3D tisku kovů.",
+      "Firma Carbon dosáhla významného milníku, když vyrobila více než jeden milion 3D tištěných cyklistických sedel.",
+      "Společnost Freemelt získala zakázku na wolframové materiály a Roboze zajistila financování ve výši 10 milionů dolarů.",
+      "3D Systems rozšiřuje své kapacity otevřením nového centra v Coloradu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Nikon",
+      "Carbon",
+      "Freemelt",
+      "Roboze",
+      "3D Systems"
+    ]
+  },
+  {
+    "title": "Plavba k úspěchu: Jak aditivní výroba pomohla společnosti Brunswick Corporation revolučně změnit námořní průmysl",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971906591/0/fabbaloo/default~Sailing-Toward-Success-How-AM-Helped-the-Brunswick-Corporation-Revolutionize-the-Marine-Industry\" rel=\"nofollow\" title=\"Sailing Toward Success: How AM Helped the Brunswick Corporation Revolutionize the Marine Industry\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/08/Filename-_413.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Charles R. Goulding and Kate Esposito chart how additive manufacturing is powering everything from Mercury Marine’s 600HP engines to Sea Ray’s luxury yachts and custom boat components.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971906591/0/fabbaloo/default~Sailing-Toward-Success-How-AM-Helped-the-Brunswick-Corporation-Revolutionize-the-Marine-Industry\" rel=\"nofollow\">Sailing Toward Success: How AM Helped the Brunswick Corporation Revolutionize the Marine Industry</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/08/Filename-_413.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-23T11:50:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971906591/0/fabbaloo/default~Sailing-Toward-Success-How-AM-Helped-the-Brunswick-Corporation-Revolutionize-the-Marine-Industry",
+    "forced_tags": [],
+    "title_en": "Sailing Toward Success: How AM Helped the Brunswick Corporation Revolutionize the Marine Industry",
+    "summary_bullets_en": [
+      "Brunswick Corporation is leveraging additive manufacturing to transform the production of high-performance marine components.",
+      "The technology is being applied across diverse product lines, ranging from powerful 600HP Mercury Marine engines to luxury Sea Ray yachts.",
+      "3D printing enables the creation of complex, custom boat parts that improve efficiency and design flexibility in the marine sector."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Brunswick Corporation využívá aditivní výrobu k transformaci produkce vysoce výkonných námořních komponentů.",
+      "Technologie se uplatňuje v široké škále produktů, od výkonných 600koňových motorů Mercury Marine až po luxusní jachty značky Sea Ray.",
+      "3D tisk umožňuje tvorbu komplexních a zakázkových dílů pro lodě, což zvyšuje efektivitu a flexibilitu designu v námořním odvětví."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Brunswick Corporation",
+      "Mercury Marine",
+      "Sea Ray",
+      "Additive Manufacturing",
+      "Marine Industry"
+    ]
+  },
+  {
+    "title": "InstructMesh z MIT opravuje 3D modely generované AI před tiskem",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971900249/0/fabbaloo/default~MIT%e2%80%99s-InstructMesh-Repairs-AI-Generated-D-Models-Before-Printing\" rel=\"nofollow\" title=\"MIT’s InstructMesh Repairs AI Generated 3D Models Before Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/instructmesh-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>An AI generated mug might look magnificent, until you try to pour something into it.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971900249/0/fabbaloo/default~MIT%e2%80%99s-InstructMesh-Repairs-AI-Generated-D-Models-Before-Printing\" rel=\"nofollow\">MIT’s InstructMesh Repairs AI Generated 3D Models Before Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/instructmesh-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-23T08:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971900249/0/fabbaloo/default~MIT%e2%80%99s-InstructMesh-Repairs-AI-Generated-D-Models-Before-Printing",
+    "forced_tags": [],
+    "title_en": "MIT’s InstructMesh Repairs AI Generated 3D Models Before Printing",
+    "summary_bullets_en": [
+      "AI-generated 3D models often suffer from structural defects that make them unsuitable for physical printing.",
+      "MIT researchers have developed 'InstructMesh', a new tool designed to automatically repair and optimize these flawed models.",
+      "The technology ensures that AI-created designs are watertight and structurally sound before they reach the 3D printer."
+    ],
+    "summary_bullets_cs": [
+      "3D modely vytvořené umělou inteligencí často trpí strukturálními vadami, kvůli kterým nejsou vhodné pro fyzický tisk.",
+      "Výzkumníci z MIT vyvinuli nástroj 'InstructMesh', který automaticky opravuje a optimalizuje tyto chybné modely.",
+      "Tato technologie zajišťuje, že návrhy vytvořené AI jsou před odesláním do 3D tiskárny vodotěsné a strukturálně v pořádku."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "3D Modeling",
+      "MIT",
+      "InstructMesh",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Od nemocničního lůžka k 3D tiskárně: Nový projekt přináší designové dovednosti mladým pacientům",
+    "summary": "A University of Nottingham-led project will bring 3D design and printing to children and young people taught in hospital education across England, and will study whether the activity can support their recovery. Funded by a Royal Society Science Community Grant and the Julia Rausing Trust, the three-year initiative will start in 25 schools, each of&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/3DprintingChildren.xb8a6e3ce-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-23T07:46:02+00:00",
+    "url": "https://3dprintingindustry.com/news/from-hospital-bed-to-3d-printer-new-project-brings-design-skills-to-young-patients-255912/?utm_source=rss&utm_medium=rss&utm_campaign=from-hospital-bed-to-3d-printer-new-project-brings-design-skills-to-young-patients",
+    "forced_tags": [],
+    "title_en": "From Hospital Bed to 3D Printer: New Project Brings Design Skills to Young Patients",
+    "summary_bullets_en": [
+      "A University of Nottingham-led project introduces 3D design and printing to children in hospital schools across England.",
+      "The three-year initiative aims to evaluate whether engaging in creative 3D technology activities supports the recovery process of young patients.",
+      "The program is supported by funding from the Royal Society Science Community Grant and the Julia Rausing Trust.",
+      "The project will launch in 25 hospital schools to provide students with new technical skills during their treatment."
+    ],
+    "summary_bullets_cs": [
+      "Projekt vedený Nottinghamskou univerzitou zavádí 3D design a tisk pro děti ve školách při nemocnicích napříč Anglií.",
+      "Tříletá iniciativa bude zkoumat, zda tyto kreativní aktivity s 3D technologiemi mohou podpořit proces zotavení mladých pacientů.",
+      "Program je financován z grantu Royal Society Science Community a nadace Julia Rausing Trust.",
+      "Projekt odstartuje ve 25 školách, kde poskytne studentům nové technické dovednosti během jejich léčby."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Education",
+      "3D Printing",
+      "Healthcare",
+      "University of Nottingham"
+    ]
+  },
+  {
+    "title": "Roboti, kteří se pohybují, vnímají a získávají energii: DMU se zaměřuje na 3D tištěné svaly",
+    "summary": "A De Montfort University Leicester (DMU) researcher will study whether 3D printing can produce artificial muscles for a new generation of soft robots. Dr Meisam Abdi is one of only eight engineers in the UK to receive a 2026/27 Royal Academy of Engineering/Leverhulme Trust Research Fellowship. The award will let him spend up to a&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Meisam.jpg-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-23T07:33:13+00:00",
+    "url": "https://3dprintingindustry.com/news/robots-that-move-sense-and-harvest-energy-dmu-turns-to-3d-printed-muscles-255915/?utm_source=rss&utm_medium=rss&utm_campaign=robots-that-move-sense-and-harvest-energy-dmu-turns-to-3d-printed-muscles",
+    "forced_tags": [],
+    "title_en": "Robots That Move, Sense and Harvest Energy: DMU Turns to 3D Printed Muscles",
+    "summary_bullets_en": [
+      "Dr. Meisam Abdi from De Montfort University is researching 3D printed artificial muscles for soft robotics.",
+      "The project aims to create robots capable of movement, sensory perception, and energy harvesting.",
+      "The research is supported by a prestigious 2026/27 Royal Academy of Engineering/Leverhulme Trust Research Fellowship."
+    ],
+    "summary_bullets_cs": [
+      "Dr. Meisam Abdi z De Montfort University zkoumá, zda lze pomocí 3D tisku vyrobit umělé svaly pro novou generaci měkkých robotů.",
+      "Cílem je vývoj robotů, kteří dokážou vnímat okolí a efektivně hospodařit s energií.",
+      "Projekt získal prestižní stipendium Royal Academy of Engineering/Leverhulme Trust pro období 2026/27."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Soft Robotics",
+      "Artificial Muscles",
+      "De Montfort University",
+      "Research"
+    ]
+  },
+  {
+    "title": "Čínský trh s aditivní výrobou bude ještě konkurenceschopnější",
+    "summary": "Last month I wrote about the Chinese laser brand HG Laser and how its increasing focus on metal additive manufacturing (AM) demonstrates that Chinese AM companies benefit from having to...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/717548222fa44bbc4a3c8593891e41d4.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-23T07:00:34+00:00",
+    "url": "https://3dprint.com/335390/china-am-market-about-to-get-even-more-competitive/",
+    "forced_tags": [],
+    "title_en": "China’s Additive Manufacturing Market is About to Get Even More Competitive",
+    "summary_bullets_en": [
+      "HG Laser is shifting its strategic focus toward metal additive manufacturing.",
+      "The Chinese AM market is becoming increasingly competitive due to local industrial growth.",
+      "Domestic companies are leveraging unique market advantages to scale their metal 3D printing capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Společnost HG Laser přesouvá své strategické zaměření na oblast aditivní výroby kovů.",
+      "Čínský trh s 3D tiskem se stává stále konkurenceschopnějším díky růstu místního průmyslu.",
+      "Domácí firmy využívají své specifické tržní výhody k rozšiřování kapacit v oblasti 3D tisku kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal Additive Manufacturing",
+      "HG Laser",
+      "China",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "NAMIC 2026 GAMS: Spolupráce v rozděleném světě",
+    "summary": "We&#8217;re once again in lovely Singapore. This time, the National Additive Manufacturing Innovation Cluster&#8216;s (NAMIC) Global Additive Manufacturing Summit (GAMS) has a clear focus on AI. Many panels are dedicated...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/IMG_5498-scaled.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-23T06:30:02+00:00",
+    "url": "https://3dprint.com/335426/namic-2026-gams-working-together-in-a-divided-world/",
+    "forced_tags": [],
+    "title_en": "NAMIC 2026 GAMS: Working Together in a Divided World",
+    "summary_bullets_en": [
+      "The NAMIC Global Additive Manufacturing Summit returns to Singapore with a primary focus on the integration of AI in 3D printing.",
+      "The event emphasizes the importance of global collaboration and synergy within the additive manufacturing industry despite current geopolitical divisions.",
+      "Numerous expert panels are dedicated to exploring how artificial intelligence is reshaping manufacturing workflows and innovation."
+    ],
+    "summary_bullets_cs": [
+      "Summit NAMIC GAMS se vrací do Singapuru s hlavním zaměřením na integraci umělé inteligence do 3D tisku.",
+      "Akce zdůrazňuje význam globální spolupráce a synergie v odvětví aditivní výroby navzdory současným geopolitickým rozporům.",
+      "Mnoho odborných panelů je věnováno zkoumání toho, jak umělá inteligence mění výrobní procesy a inovace."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "NAMIC",
+      "GAMS",
+      "Artificial Intelligence",
+      "Additive Manufacturing"
+    ]
+  },
+  {
     "title": "Finanční výsledky 3D tisku: Tržby společnosti Prodways z prodeje tiskáren vzrostly ve 3. čtvrtletí o 130 %",
     "summary": "French 3D printing company Prodways (EPA: ALPWG) reported a 130% increase in printer revenue in the third quarter of 2026, driven by growing demand for its MOVINGLight technology for ceramic...",
     "image": "https://3dprint.com/wp-content/uploads/2026/10/images-1.jpg",
