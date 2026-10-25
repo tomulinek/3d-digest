@@ -1,5 +1,65 @@
 [
   {
+    "title": "Novinky ze světa 3D tisku, 24. října 2026: Páteřní implantát, digitální stomatologie, recyklované PLA a další",
+    "summary": "We&#8217;re starting with a little business in this weekend&#8217;s 3D Printing News Briefs, and then moving on to FDA 510(k) clearance and digital dentistry. We&#8217;ll end with 3D printing waste...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/unnamed-1-1024x512.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-24T12:30:51+00:00",
+    "url": "https://3dprint.com/335411/3d-printing-news-briefs-10-24-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, October 24, 2026: Spinal Implant, Digital Dentistry, Recycled PLA, & More",
+    "summary_bullets_en": [
+      "The industry sees new business developments and regulatory milestones with recent FDA 510(k) clearances.",
+      "Advancements in digital dentistry are streamlining clinical workflows through additive manufacturing.",
+      "New initiatives are addressing sustainability by focusing on the recycling of PLA waste in 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Víkendový přehled začíná novinkami z byznysu a posuny v oblasti regulací, konkrétně schválením FDA 510(k).",
+      "Pokroky v digitální stomatologii zefektivňují klinické postupy díky využití aditivní výroby.",
+      "Závěr se věnuje udržitelnosti a novým způsobům nakládání s odpadem z 3D tisku, zejména recyklaci materiálu PLA."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Medical",
+      "Sustainability",
+      "FDA",
+      "PLA",
+      "Digital Dentistry"
+    ]
+  },
+  {
+    "title": "Ocenění TIME pro společnost Medtronic staví vybavení pro operace dutin do centra pozornosti",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/971935718/0/fabbaloo/default~Medtronic%e2%80%99s-TIME-Award-Puts-Sinus-Surgery-Equipment-in-the-Spotlight\" rel=\"nofollow\" title=\"Medtronic’s TIME Award Puts Sinus Surgery Equipment in the Spotlight\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/Filename-_533.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Charles G. Goulding looks beyond Medtronic’s award-winning innovation to explore how 3D printed sinus models, smarter instruments, and equipment partnerships are shaping the future of ENT surgery.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971935718/0/fabbaloo/default~Medtronic%e2%80%99s-TIME-Award-Puts-Sinus-Surgery-Equipment-in-the-Spotlight\" rel=\"nofollow\">Medtronic’s TIME Award Puts Sinus Surgery Equipment in the Spotlight</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/Filename-_533.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-24T12:28:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/971935718/0/fabbaloo/default~Medtronic%e2%80%99s-TIME-Award-Puts-Sinus-Surgery-Equipment-in-the-Spotlight",
+    "forced_tags": [],
+    "title_en": "Medtronic’s TIME Award Puts Sinus Surgery Equipment in the Spotlight",
+    "summary_bullets_en": [
+      "Medtronic received a prestigious TIME award for its innovative medical technology advancements.",
+      "The article highlights the integration of 3D printed sinus models to improve surgical planning and training.",
+      "Strategic partnerships and smarter instrumentation are driving the evolution of ENT (Ear, Nose, and Throat) surgical procedures.",
+      "The focus remains on how additive manufacturing enhances precision and patient outcomes in complex sinus surgeries."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Medtronic získala prestižní ocenění TIME za své inovace v oblasti zdravotnických technologií.",
+      "Článek zdůrazňuje využití 3D tištěných modelů dutin pro lepší plánování operací a školení lékařů.",
+      "Strategická partnerství a chytřejší nástroje pohánějí vývoj chirurgických zákroků v oblasti ORL.",
+      "Hlavním tématem je, jak aditivní výroba zvyšuje přesnost a zlepšuje výsledky u složitých operací dutin."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Medtronic",
+      "Medical 3D Printing",
+      "ENT Surgery",
+      "Surgical Planning"
+    ]
+  },
+  {
     "title": "Patent společnosti Prusa kombinuje řezačku trysek, kartáč a parkovací podložku",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/971915453/0/fabbaloo/default~Prusa-Patent-Combines-Nozzle-Cutter-Brush-And-Parking-Pad\" rel=\"nofollow\" title=\"Prusa Patent Combines Nozzle Cutter, Brush, And Parking Pad\"><img alt=\"Axonometric view of the integrated 3D-printer nozzle-cleaning module, showing the cutter, brush, parking platform, and waste-collection container.\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/WO_2026209067_A1-headline-1280x1220.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Prusa has come up with a tidy answer to a messy 3D printing problem: make the nozzle pass through a small cleaning station that cuts, scrubs, and parks it.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971915453/0/fabbaloo/default~Prusa-Patent-Combines-Nozzle-Cutter-Brush-And-Parking-Pad\" rel=\"nofollow\">Prusa Patent Combines Nozzle Cutter, Brush, And Parking Pad</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/WO_2026209067_A1-headline-1280x1220.jpg",
