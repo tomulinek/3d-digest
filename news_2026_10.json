@@ -1,5 +1,381 @@
 [
   {
+    "title": "Pohled do inovativního procesu CFIP, díky kterému jsou 3D tištěné díly od HP připraveny k letu",
+    "summary": "Most additive manufacturing engineers working on structural drone airframes have hit a familiar constraint. HP’s Multi Jet Fusion can produce complex PA12 geometries with good dimensional accuracy, but for parts that need to handle cyclic loads or absorb impact without gaining mass, the mechanical properties of the base polymer may not always meet the requirements&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Reinforce3D-Screenshot-06-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-29T05:03:00+00:00",
+    "url": "https://3dprintingindustry.com/news/inside-the-innovative-cfip-process-that-makes-hp-3d-printed-parts-ready-for-flight-256027/?utm_source=rss&utm_medium=rss&utm_campaign=inside-the-innovative-cfip-process-that-makes-hp-3d-printed-parts-ready-for-flight",
+    "forced_tags": [],
+    "title_en": "Inside the Innovative CFIP Process That Makes HP 3D Printed Parts Ready for Flight",
+    "summary_bullets_en": [
+      "Engineers using HP’s Multi Jet Fusion often face limitations with standard PA12 mechanical properties for high-stress drone applications.",
+      "The CFIP (Continuous Fiber Infusion Process) technology addresses these constraints by enhancing structural integrity without adding significant weight.",
+      "This innovation allows 3D printed parts to better withstand cyclic loads and impact, making them suitable for aerospace and flight-ready components."
+    ],
+    "summary_bullets_cs": [
+      "Inženýři využívající technologii HP Multi Jet Fusion často narážejí na limity mechanických vlastností standardního materiálu PA12 u vysoce namáhaných dronů.",
+      "Technologie CFIP (Continuous Fiber Infusion Process) řeší tato omezení tím, že zvyšuje strukturální integritu dílů, aniž by výrazně zvýšila jejich hmotnost.",
+      "Tato inovace umožňuje 3D tištěným součástem lépe odolávat cyklickému zatížení a nárazům, díky čemuž jsou vhodné pro letecký průmysl."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "HP",
+      "CFIP",
+      "Additive Manufacturing",
+      "Aerospace",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "ETH Curych využívá bakterie ke zpevnění 3D tištěných pískových struktur",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972060881/0/fabbaloo/default~ETH-Zurich-Uses-Bacteria-To-Cement-D-Printed-Sand-Structures\" rel=\"nofollow\" title=\"ETH Zurich Uses Bacteria To Cement 3D Printed Sand Structures\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/eth-bacteria-printing-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>With bacteria, less infill can make a stronger 3D printed part.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972060881/0/fabbaloo/default~ETH-Zurich-Uses-Bacteria-To-Cement-D-Printed-Sand-Structures\" rel=\"nofollow\">ETH Zurich Uses Bacteria To Cement 3D Printed Sand Structures</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/eth-bacteria-printing-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-28T16:46:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972060881/0/fabbaloo/default~ETH-Zurich-Uses-Bacteria-To-Cement-D-Printed-Sand-Structures",
+    "forced_tags": [],
+    "title_en": "ETH Zurich Uses Bacteria To Cement 3D Printed Sand Structures",
+    "summary_bullets_en": [
+      "Researchers at ETH Zurich are utilizing bacteria to reinforce 3D printed sand structures.",
+      "The biological process acts as a natural cement, significantly increasing the structural integrity of the printed parts.",
+      "This method allows for the creation of stronger components while using less infill material.",
+      "The innovation highlights a sustainable approach to additive manufacturing by integrating living organisms into the construction process."
+    ],
+    "summary_bullets_cs": [
+      "Vědci z ETH Curych využívají bakterie k vyztužení 3D tištěných struktur z písku.",
+      "Biologický proces funguje jako přírodní cement, který výrazně zvyšuje strukturální integritu tištěných dílů.",
+      "Tato metoda umožňuje vytvářet pevnější komponenty při použití menšího množství výplňového materiálu.",
+      "Inovace představuje udržitelný přístup k aditivní výrobě díky integraci živých organismů do konstrukčního procesu."
+    ],
+    "tags": [
+      "Material",
+      "Research",
+      "ETH Zurich",
+      "3D Printing",
+      "Sustainability",
+      "Biotechnology"
+    ]
+  },
+  {
+    "title": "Meltio a HORKOS integrují výrobu do jednoho hybridního stroje",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972057470/0/fabbaloo/default~Meltio-And-HORKOS-Compress-Manufacturing-Into-One-Hybrid-Machine\" rel=\"nofollow\" title=\"Meltio And HORKOS Compress Manufacturing Into One Hybrid Machine\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/meltio-hybrid-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>3D printers are starting to fold into machine tools.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972057470/0/fabbaloo/default~Meltio-And-HORKOS-Compress-Manufacturing-Into-One-Hybrid-Machine\" rel=\"nofollow\">Meltio And HORKOS Compress Manufacturing Into One Hybrid Machine</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/meltio-hybrid-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-28T15:01:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972057470/0/fabbaloo/default~Meltio-And-HORKOS-Compress-Manufacturing-Into-One-Hybrid-Machine",
+    "forced_tags": [],
+    "title_en": "Meltio And HORKOS Compress Manufacturing Into One Hybrid Machine",
+    "summary_bullets_en": [
+      "Meltio and HORKOS have partnered to integrate metal 3D printing technology directly into traditional machine tools.",
+      "This hybrid approach combines additive manufacturing with subtractive machining in a single production unit.",
+      "The collaboration aims to streamline manufacturing workflows by reducing the need for multiple separate machines.",
+      "This development reflects a growing industry trend of merging 3D printing capabilities with standard industrial hardware."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti Meltio a HORKOS spojily síly, aby integrovaly technologii 3D tisku kovů přímo do tradičních obráběcích strojů.",
+      "Tento hybridní přístup kombinuje aditivní výrobu s třískovým obráběním v rámci jedné výrobní jednotky.",
+      "Spolupráce má za cíl zefektivnit výrobní procesy a snížit potřebu využívání několika samostatných strojů.",
+      "Tento vývoj odráží rostoucí trend v průmyslu, který směřuje ke slučování možností 3D tisku se standardním průmyslovým hardwarem."
+    ],
+    "tags": [
+      "Hardware",
+      "Meltio",
+      "HORKOS",
+      "Metal 3D Printing",
+      "Hybrid Manufacturing",
+      "CNC"
+    ]
+  },
+  {
+    "title": "Patent společnosti Seurat navrhuje rychlejší světelný ventil pro tisk z kovů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972053300/0/fabbaloo/default~Seurat-Patent-Proposes-A-Faster-Light-Valve-For-Metal-Printing\" rel=\"nofollow\" title=\"Seurat Patent Proposes A Faster Light Valve For Metal Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/seurat-laser-area-patent-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Seurat is patenting a very unusual method of speeding up metal 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972053300/0/fabbaloo/default~Seurat-Patent-Proposes-A-Faster-Light-Valve-For-Metal-Printing\" rel=\"nofollow\">Seurat Patent Proposes A Faster Light Valve For Metal Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/seurat-laser-area-patent-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-28T13:42:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972053300/0/fabbaloo/default~Seurat-Patent-Proposes-A-Faster-Light-Valve-For-Metal-Printing",
+    "forced_tags": [],
+    "title_en": "Seurat Patent Proposes A Faster Light Valve For Metal Printing",
+    "summary_bullets_en": [
+      "Seurat Technologies has filed a patent for a novel method to accelerate metal 3D printing processes.",
+      "The innovation focuses on an advanced light valve system designed to improve laser control and efficiency.",
+      "This development aims to overcome current speed limitations in laser powder bed fusion metal additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Seurat si nechala patentovat neobvyklou metodu pro zrychlení 3D tisku z kovů.",
+      "Inovace se zaměřuje na vylepšený systém světelných ventilů, který má zvýšit efektivitu a rychlost laserového zpracování.",
+      "Tento technologický posun má za cíl překonat současná rychlostní omezení v oblasti aditivní výroby kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "Seurat Technologies",
+      "Metal 3D Printing",
+      "Laser Powder Bed Fusion",
+      "Additive Manufacturing",
+      "Patents"
+    ]
+  },
+  {
+    "title": "Stefan Hermann z CNC Kitchen spouští ScanRuler pro měření 3D skenů v prohlížeči",
+    "summary": "Compare scans against CAD models, generate color-coded deviation maps, and export to STEP. And all that for free!",
+    "image": "https://substackcdn.com/image/fetch/$s_!v3G2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99b56c42-7323-4f3e-bda1-9dca5e76ba96_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-10-28T13:01:18+00:00",
+    "url": "https://www.3dprintingjournal.com/p/stefan-hermann-of-cnc-kitchen-launches",
+    "forced_tags": [],
+    "title_en": "Stefan Hermann of CNC Kitchen launches ScanRuler for measuring 3D scans in a browser",
+    "summary_bullets_en": [
+      "ScanRuler is a new free browser-based tool for analyzing 3D scans.",
+      "Users can compare scan data directly against original CAD models.",
+      "The software generates color-coded deviation maps for visual inspection.",
+      "It supports exporting processed data into the STEP file format."
+    ],
+    "summary_bullets_cs": [
+      "ScanRuler je nový bezplatný nástroj v prohlížeči pro analýzu 3D skenů.",
+      "Uživatelé mohou porovnávat skenovaná data přímo s původními CAD modely.",
+      "Software generuje barevně odlišené mapy odchylek pro vizuální kontrolu.",
+      "Podporuje export zpracovaných dat do formátu STEP."
+    ],
+    "tags": [
+      "Software",
+      "3D Scanning",
+      "CAD",
+      "Metrology",
+      "CNC Kitchen",
+      "Stefan Hermann"
+    ]
+  },
+  {
+    "title": "Pozvánka na Formnext 2026: 3D tisk keramiky, post-processing a další",
+    "summary": "In just a few weeks, it will be time for the biggest trade show extravaganza in the additive manufacturing (AM) industry. Soon, we&#8217;ll all be hopping planes bound for Frankfurt...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-4.23.10-PM-1024x674.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-28T12:30:07+00:00",
+    "url": "https://3dprint.com/335649/formnext-2026-preview-ceramics-3d-printing-post-processing-more/",
+    "forced_tags": [],
+    "title_en": "Formnext 2026 Preview: Ceramics 3D Printing, Post-Processing, & More",
+    "summary_bullets_en": [
+      "The additive manufacturing industry is preparing for the upcoming Formnext trade show in Frankfurt.",
+      "The event will highlight key innovations in ceramics 3D printing technology.",
+      "A major focus will be placed on advancements in post-processing solutions.",
+      "Industry professionals are gathering to explore the latest trends and developments in the AM sector."
+    ],
+    "summary_bullets_cs": [
+      "Již za pár týdnů se uskuteční největší veletrh v odvětví aditivní výroby.",
+      "Brzy se všichni vydáme na cestu do Frankfurtu na tuto významnou událost.",
+      "Článek předznamenává klíčové inovace v oblasti 3D tisku keramiky a následného zpracování výtisků."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Formnext",
+      "Ceramics",
+      "Post-processing"
+    ]
+  },
+  {
+    "title": "Aditivní výroba a národní konkurenční výhoda, část druhá: Digitalizace a měnící se povaha průmyslových klastrů",
+    "summary": "In part one of this series, I discussed the declining productivity growth rate in US manufacturing through the lens of Michael Porter&#8217;s 1990 text The Competitive Advantage of Nations, and...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/09/diamond-model-mobile-300x300.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-28T12:00:12+00:00",
+    "url": "https://3dprint.com/333641/am-national-competitive-advantage-part-two-digitalization-and-the-changing-nature-of-industrial-clusters/",
+    "forced_tags": [],
+    "title_en": "AM & National Competitive Advantage, Part Two: Digitalization and the Changing Nature of Industrial Clusters",
+    "summary_bullets_en": [
+      "The article explores how digitalization and additive manufacturing are reshaping traditional industrial clusters.",
+      "It builds on Michael Porter’s theories to analyze how modern manufacturing shifts away from geographic proximity toward digital connectivity.",
+      "The author examines the impact of these technological shifts on national productivity and global competitive advantage."
+    ],
+    "summary_bullets_cs": [
+      "Článek zkoumá, jak digitalizace a aditivní výroba přetvářejí tradiční průmyslové klastry.",
+      "Navazuje na teorie Michaela Portera a analyzuje, jak se moderní výroba posouvá od geografické blízkosti k digitální konektivitě.",
+      "Autor zkoumá dopad těchto technologických změn na národní produktivitu a globální konkurenční výhodu."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Additive Manufacturing",
+      "Industrial Clusters",
+      "Digitalization",
+      "Manufacturing Productivity"
+    ]
+  },
+  {
+    "title": "Univerzita v Turku nyní dokáže 3D tisknout různé kovy v jedné vrstvě pro výzkum fúze a letectví",
+    "summary": "The University of Turku in Finland has added a multi-material recoater to its metal 3D printing system, allowing researchers to deposit different powders from three separate drums within a single layer. The setup will be used to study parts that combine several metals, a capability the university links to future plasma-facing components for fusion energy&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Image-2-model-component-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-28T11:29:39+00:00",
+    "url": "https://3dprintingindustry.com/news/university-of-turku-can-now-3d-print-different-metals-in-a-single-layer-for-fusion-and-aerospace-research-256002/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-turku-can-now-3d-print-different-metals-in-a-single-layer-for-fusion-and-aerospace-research",
+    "forced_tags": [],
+    "title_en": "University of Turku Can Now 3D Print Different Metals in a Single Layer for Fusion and Aerospace Research",
+    "summary_bullets_en": [
+      "The University of Turku has upgraded its metal 3D printing system with a multi-material recoater.",
+      "The new setup enables the deposition of different metal powders from three separate drums within a single layer.",
+      "Researchers aim to use this technology to develop advanced components for fusion energy and aerospace applications."
+    ],
+    "summary_bullets_cs": [
+      "Univerzita v Turku ve Finsku vybavila svůj systém pro 3D tisk kovů více-materiálovým nanášečem prášku.",
+      "Tato technologie umožňuje nanášet různé kovové prášky ze tří samostatných zásobníků v rámci jedné vrstvy.",
+      "Zařízení bude využito k výzkumu součástek kombinujících více kovů, což je klíčové pro budoucí komponenty jaderných fúzních reaktorů a letectví."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Metal 3D Printing",
+      "University of Turku",
+      "Fusion Energy",
+      "Aerospace",
+      "Multi-material"
+    ]
+  },
+  {
+    "title": "Společnost BigRep se vrací do soukromého vlastnictví a uvádí velkoformátovou 3D tiskárnu ALTRA 670",
+    "summary": "Berlin-based BigRep GmbH, a manufacturer of large-format industrial 3D printers, is returning to private ownership roughly two years after becoming a publicly traded company. Shareholders have approved a simplified corporate structure, and the company is now owned by three of its existing major investors: Koehler Invest GmbH, DeKrassny GmbH, and Hage Holding GmbH. All three&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/BigRep-ALTRA670-3-2x3-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-28T11:29:17+00:00",
+    "url": "https://3dprintingindustry.com/news/bigrep-goes-private-and-launches-altra-670-large-format-3d-printer-256007/?utm_source=rss&utm_medium=rss&utm_campaign=bigrep-goes-private-and-launches-altra-670-large-format-3d-printer",
+    "forced_tags": [],
+    "title_en": "BigRep Goes Private and Launches ALTRA 670 Large-Format 3D Printer",
+    "summary_bullets_en": [
+      "Berlin-based BigRep has transitioned back to private ownership after two years as a public company.",
+      "The company is now owned by a consortium of three major investors: Koehler Invest, DeKrassny, and Hage Holding.",
+      "Alongside the restructuring, BigRep introduced the ALTRA 670, a new large-format industrial 3D printer."
+    ],
+    "summary_bullets_cs": [
+      "Berlínský výrobce BigRep se po dvou letech na burze vrací do soukromého vlastnictví.",
+      "Společnost nyní vlastní tři hlavní investoři: Koehler Invest GmbH, DeKrassny GmbH a Hage Holding GmbH.",
+      "Součástí oznámení je i uvedení nové průmyslové velkoformátové 3D tiskárny s názvem ALTRA 670."
+    ],
+    "tags": [
+      "Hardware",
+      "BigRep",
+      "Koehler Invest",
+      "DeKrassny",
+      "Hage Holding",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Od raket k protiraketové obraně: Boom 3D tisku v Madisonu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972047651/0/fabbaloo/default~From-Rockets-to-Missile-Defense-Madison%e2%80%99s-D-Printing-Boom\" rel=\"nofollow\" title=\"From Rockets to Missile Defense: Madison’s 3D Printing Boom\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/Filename-_421.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Charles R. Goulding and Preeti Sulibhavi investigate how Madison’s proximity to Huntsville, Redstone Arsenal and Marshall Space Flight Center is helping turn 3D printing into a production technology for America’s aerospace and defense industries.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972047651/0/fabbaloo/default~From-Rockets-to-Missile-Defense-Madison%e2%80%99s-D-Printing-Boom\" rel=\"nofollow\">From Rockets to Missile Defense: Madison’s 3D Printing Boom</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/Filename-_421.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-28T11:15:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972047651/0/fabbaloo/default~From-Rockets-to-Missile-Defense-Madison%e2%80%99s-D-Printing-Boom",
+    "forced_tags": [],
+    "title_en": "From Rockets to Missile Defense: Madison’s 3D Printing Boom",
+    "summary_bullets_en": [
+      "Madison is emerging as a key hub for additive manufacturing due to its strategic proximity to major aerospace and defense centers like Redstone Arsenal.",
+      "The region is successfully transitioning 3D printing from a prototyping tool into a critical production technology for the aerospace and defense sectors.",
+      "Proximity to the Marshall Space Flight Center is accelerating the adoption of advanced manufacturing techniques for rocket and missile defense systems."
+    ],
+    "summary_bullets_cs": [
+      "Madison se stává klíčovým centrem aditivní výroby díky své strategické blízkosti k významným leteckým a obranným institucím, jako je Redstone Arsenal.",
+      "Region úspěšně transformuje 3D tisk z nástroje pro prototypování na kritickou výrobní technologii pro letecký a obranný průmysl.",
+      "Blízkost Marshallova střediska kosmických letů (Marshall Space Flight Center) urychluje zavádění pokročilých výrobních postupů pro raketové systémy a protiraketovou obranu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Aerospace",
+      "Defense",
+      "Additive Manufacturing",
+      "Madison",
+      "Redstone Arsenal"
+    ]
+  },
+  {
+    "title": "3D tištěné srdeční chlopně získávají směrové ladění",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972044744/0/fabbaloo/default~D-Printed-Valves-Get-Directional-Tuning\" rel=\"nofollow\" title=\"3D Printed Valves Get Directional Tuning\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/heat-valves-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>A new study suggests that the toolpath in an FFF printed heart valve may be almost as important as the material.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972044744/0/fabbaloo/default~D-Printed-Valves-Get-Directional-Tuning\" rel=\"nofollow\">3D Printed Valves Get Directional Tuning</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/heat-valves-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-28T08:52:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972044744/0/fabbaloo/default~D-Printed-Valves-Get-Directional-Tuning",
+    "forced_tags": [],
+    "title_en": "3D Printed Valves Get Directional Tuning",
+    "summary_bullets_en": [
+      "A recent study highlights that the toolpath strategy is critical for the performance of 3D printed heart valves.",
+      "The research suggests that directional tuning of the print path is as significant as the choice of material itself.",
+      "This discovery could lead to more durable and functional bio-printed components in medical applications."
+    ],
+    "summary_bullets_cs": [
+      "Nová studie naznačuje, že dráha nástroje (toolpath) při tisku srdečních chlopní metodou FFF je téměř stejně důležitá jako samotný materiál.",
+      "Výzkum ukazuje, že směrové ladění tisku zásadně ovlivňuje funkčnost a mechanické vlastnosti tištěných chlopní.",
+      "Tento objev otevírá nové možnosti pro výrobu přesnějších a odolnějších zdravotnických komponent pomocí 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "FFF",
+      "Medical",
+      "Bioprinting",
+      "Toolpath"
+    ]
+  },
+  {
+    "title": "S 45% růstem tržeb a novou 3D tiskárnou se BigRep vrací do soukromého vlastnictví",
+    "summary": "BigRep GmbH has been on a bit of a roller coaster recently, but with this latest news, I&#8217;m hoping that means the ride has stopped. Reporting approximately 45% revenue growth...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/BigRep-ALTRA670-3-23-1024x683.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-28T07:00:16+00:00",
+    "url": "https://3dprint.com/335491/with-45-revenue-growth-a-new-3d-printer-bigrep-is-back-to-private-ownership/",
+    "forced_tags": [],
+    "title_en": "With 45% Revenue Growth & a New 3D Printer, BigRep Returns to Private Ownership",
+    "summary_bullets_en": [
+      "BigRep has achieved a significant 45% revenue growth, signaling a period of financial stabilization.",
+      "The company is transitioning back to private ownership following a turbulent period.",
+      "A new 3D printer launch accompanies this strategic shift, aiming to solidify their market position."
+    ],
+    "summary_bullets_cs": [
+      "Společnost BigRep zaznamenala výrazný 45% růst tržeb, což naznačuje období finanční stabilizace.",
+      "Firma se po turbulentním období vrací zpět do soukromého vlastnictví.",
+      "Tento strategický posun doprovází uvedení nové 3D tiskárny, která má upevnit jejich pozici na trhu."
+    ],
+    "tags": [
+      "Hardware",
+      "BigRep",
+      "3D Printing",
+      "Business",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "Jak se změnilo financování aditivní výroby v Číně a USA v letech 2021–2025",
+    "summary": "Additive manufacturing (AM) funding has shifted in China and the United States over the past five years, but in different ways. In China, metal 3D printing companies accounted for a...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/china-funded-companies-2021-2025-v2-scaled.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-28T06:00:57+00:00",
+    "url": "https://3dprint.com/335249/how-am-funding-shifted-in-china-and-the-us-2021-2025/",
+    "forced_tags": [],
+    "title_en": "How AM Funding Shifted in China and the US, 2021–2025",
+    "summary_bullets_en": [
+      "Investment patterns in additive manufacturing have diverged significantly between China and the US over the last five years.",
+      "China has seen a strong concentration of capital flowing into metal 3D printing enterprises.",
+      "The US market has experienced a different strategic focus, reflecting broader shifts in industrial adoption and venture capital priorities."
+    ],
+    "summary_bullets_cs": [
+      "Investiční trendy v aditivní výrobě se v posledních pěti letech mezi Čínou a USA výrazně rozešly.",
+      "Čína zaznamenala silnou koncentraci kapitálu směřujícího do podniků zabývajících se 3D tiskem kovů.",
+      "Americký trh prošel odlišným strategickým vývojem, který odráží širší změny v průmyslové adopci a prioritách rizikového kapitálu."
+    ],
+    "tags": [
+      "Hardware",
+      "Investment",
+      "Additive Manufacturing",
+      "Metal 3D Printing",
+      "Market Trends",
+      "China",
+      "USA"
+    ]
+  },
+  {
     "title": "Formlabs pokračuje v testování pryskyřic pro 3D tiskárny",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/972025286/0/fabbaloo/default~Formlabs-Continues-to-Test-D-Printer-Resins\" rel=\"nofollow\" title=\"Formlabs Continues to Test 3D Printer Resins\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/formlabs-resin-safety-request-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Formlabs is offering to test the safety of any 3D printer resin.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972025286/0/fabbaloo/default~Formlabs-Continues-to-Test-D-Printer-Resins\" rel=\"nofollow\">Formlabs Continues to Test 3D Printer Resins</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/formlabs-resin-safety-request-cover.jpg",
