@@ -1,5 +1,432 @@
 [
   {
+    "title": "Fórum aditivní výroby AMCRC: Australská chvíle na výsluní?",
+    "summary": "The Additive Manufacturing CRC (Additive Manufacturing Cooperative Research Centre, or AMCRC) is a cooperative research and implementation organization dedicated to making additive happen in Australia. Headed by Simon Marriott, it...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/IMG_5711-1024x768.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-30T06:00:33+00:00",
+    "url": "https://3dprint.com/335743/amcrc-additive-manufacturing-forum-australias-moment-in-the-sun/",
+    "forced_tags": [],
+    "title_en": "AMCRC’s Additive Manufacturing Forum: Australia’s Moment in the Sun?",
+    "summary_bullets_en": [
+      "The Additive Manufacturing CRC (AMCRC) is a key Australian organization focused on accelerating the adoption of 3D printing technologies.",
+      "Led by Simon Marriott, the center acts as a bridge between research and industrial implementation.",
+      "The forum highlights Australia's growing potential to become a significant player in the global additive manufacturing landscape."
+    ],
+    "summary_bullets_cs": [
+      "Additive Manufacturing CRC (AMCRC) je klíčová australská organizace zaměřená na urychlení adopce technologií 3D tisku.",
+      "Organizace pod vedením Simona Marriotta funguje jako most mezi výzkumem a průmyslovou implementací.",
+      "Fórum zdůrazňuje rostoucí potenciál Austrálie stát se významným hráčem na poli globální aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "AMCRC",
+      "Additive Manufacturing",
+      "Australia",
+      "Simon Marriott"
+    ]
+  },
+  {
+    "title": "Patent společnosti EOS využívá střídání tvarů laserového paprsku pro pevnější díly z LPBF",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972100667/0/fabbaloo/default~EOS-Patent-Alternates-Laser-Beam-Shapes-For-Stronger-LPBF-Parts\" rel=\"nofollow\" title=\"EOS Patent Alternates Laser Beam Shapes For Stronger LPBF Parts\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/eos-2laser-patent-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>EOS wants to make a laser powder bed fusion part with two different laser personalities.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972100667/0/fabbaloo/default~EOS-Patent-Alternates-Laser-Beam-Shapes-For-Stronger-LPBF-Parts\" rel=\"nofollow\">EOS Patent Alternates Laser Beam Shapes For Stronger LPBF Parts</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/eos-2laser-patent-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-29T20:18:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972100667/0/fabbaloo/default~EOS-Patent-Alternates-Laser-Beam-Shapes-For-Stronger-LPBF-Parts",
+    "forced_tags": [],
+    "title_en": "EOS Patent Alternates Laser Beam Shapes For Stronger LPBF Parts",
+    "summary_bullets_en": [
+      "EOS has filed a patent for a laser powder bed fusion (LPBF) process that utilizes two distinct laser beam profiles.",
+      "The technology aims to improve the mechanical properties and structural integrity of 3D printed parts.",
+      "By alternating beam shapes, the system can optimize the melting process for different areas of the build.",
+      "This innovation represents a significant step forward in controlling the microstructure of metal additive manufacturing components."
+    ],
+    "summary_bullets_cs": [
+      "Společnost EOS si nechala patentovat proces laserového spékání prášku (LPBF), který využívá dva různé profily laserového paprsku.",
+      "Technologie je navržena tak, aby zlepšila mechanické vlastnosti a strukturální integritu 3D tištěných dílů.",
+      "Díky střídání tvarů paprsku může systém optimalizovat proces tavení pro různé části výtisku.",
+      "Tato inovace představuje významný pokrok v řízení mikrostruktury kovových komponentů vyráběných aditivní technologií."
+    ],
+    "tags": [
+      "Hardware",
+      "EOS",
+      "LPBF",
+      "Metal 3D Printing",
+      "Laser Technology",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Od měsíců k týdnům: 3D tištěné keramické zvedací kolíky přesvědčily globálního výrobce čipů",
+    "summary": "Singapore-based additive manufacturing specialist Creatz3D has delivered 600 sets of 3D printed alumina lift pins to a leading global semiconductor foundry after the components achieved full production qualification for use in chemical vapor deposition (CVD) chambers. The company produced the parts using ceramic AM technology from 3DCERAM SINTO. The full production cycle, covering printing, debinding,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/1789463852646-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-29T19:24:37+00:00",
+    "url": "https://3dprintingindustry.com/news/from-months-to-weeks-3d-printed-ceramic-lift-pins-win-over-a-global-chipmaker-255918/?utm_source=rss&utm_medium=rss&utm_campaign=from-months-to-weeks-3d-printed-ceramic-lift-pins-win-over-a-global-chipmaker",
+    "forced_tags": [],
+    "title_en": "From Months to Weeks: 3D Printed Ceramic Lift Pins Win Over a Global Chipmaker",
+    "summary_bullets_en": [
+      "Creatz3D successfully supplied 600 3D printed alumina lift pins to a major global semiconductor foundry.",
+      "The components were qualified for use in demanding chemical vapor deposition (CVD) environments.",
+      "Utilizing 3DCERAM SINTO technology, the production cycle was significantly reduced from months to weeks."
+    ],
+    "summary_bullets_cs": [
+      "Singapurský specialista na aditivní výrobu Creatz3D dodal 600 sad 3D tištěných alumina zvedacích kolíků přednímu světovému výrobci polovodičů.",
+      "Komponenty prošly plnou výrobní kvalifikací pro použití v komorách pro chemickou depozici z plynné fáze (CVD).",
+      "Díky technologii 3DCERAM SINTO se podařilo zkrátit celý výrobní cyklus, zahrnující tisk a vypalování, z měsíců na pouhé týdny."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "Creatz3D",
+      "3DCERAM SINTO",
+      "Ceramic AM",
+      "Semiconductors"
+    ]
+  },
+  {
+    "title": "SKYLAB3D vysvětluje, jak vybrat kompletní sestavu pro 3D skenování",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972095462/0/fabbaloo/default~SKYLABD-Explains-How-To-Choose-A-Complete-D-Scanning-Setup\" rel=\"nofollow\" title=\"SKYLAB3D Explains How To Choose A Complete 3D Scanning Setup\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/skylab3d-vega-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Doing the 3D scanning is never the whole job.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972095462/0/fabbaloo/default~SKYLABD-Explains-How-To-Choose-A-Complete-D-Scanning-Setup\" rel=\"nofollow\">SKYLAB3D Explains How To Choose A Complete 3D Scanning Setup</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/skylab3d-vega-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-29T16:19:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972095462/0/fabbaloo/default~SKYLABD-Explains-How-To-Choose-A-Complete-D-Scanning-Setup",
+    "forced_tags": [],
+    "title_en": "SKYLAB3D Explains How To Choose A Complete 3D Scanning Setup",
+    "summary_bullets_en": [
+      "3D scanning is only one part of a larger digital workflow.",
+      "Selecting the right equipment requires considering the entire ecosystem, not just the scanner itself.",
+      "The guide helps users understand the necessary components for a professional scanning setup.",
+      "Proper integration of hardware and software is essential for successful 3D data capture."
+    ],
+    "summary_bullets_cs": [
+      "Samotné 3D skenování je pouze jednou částí celého digitálního procesu.",
+      "Výběr správného vybavení vyžaduje zohlednění celého ekosystému, nejen samotného skeneru.",
+      "Průvodce pomáhá uživatelům pochopit nezbytné komponenty pro profesionální skenovací pracoviště.",
+      "Správná integrace hardwaru a softwaru je klíčová pro úspěšný sběr 3D dat."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "SKYLAB3D",
+      "3D Scanning"
+    ]
+  },
+  {
+    "title": "Anycubic využívá Thingiverse k zaplnění mezery v modelech na Makeronline",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972093392/0/fabbaloo/default~Anycubic-Uses-Thingiverse-To-Fill-Makeronline%e2%80%99s-Model-Gap\" rel=\"nofollow\" title=\"Anycubic Uses Thingiverse To Fill Makeronline’s Model Gap\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/thingiverse-anycubic-partnership-cover.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Anycubic has made a very quite but potentially important ecosystem move.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972093392/0/fabbaloo/default~Anycubic-Uses-Thingiverse-To-Fill-Makeronline%e2%80%99s-Model-Gap\" rel=\"nofollow\">Anycubic Uses Thingiverse To Fill Makeronline’s Model Gap</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/thingiverse-anycubic-partnership-cover.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-10-29T15:15:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972093392/0/fabbaloo/default~Anycubic-Uses-Thingiverse-To-Fill-Makeronline%e2%80%99s-Model-Gap",
+    "forced_tags": [],
+    "title_en": "Anycubic Uses Thingiverse To Fill Makeronline’s Model Gap",
+    "summary_bullets_en": [
+      "Anycubic has initiated a strategic move to integrate Thingiverse content into its own ecosystem.",
+      "The partnership aims to address the current lack of 3D models available on the company's Makeronline platform.",
+      "This quiet integration suggests a shift in how Anycubic plans to support its user base with accessible design resources."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Anycubic zahájila strategický krok k integraci obsahu z platformy Thingiverse do svého vlastního ekosystému.",
+      "Partnerství má za cíl vyřešit současný nedostatek 3D modelů dostupných na firemní platformě Makeronline.",
+      "Tato nenápadná integrace naznačuje změnu v přístupu Anycubic k podpoře uživatelů prostřednictvím snadno dostupných designových zdrojů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Anycubic",
+      "Thingiverse",
+      "Makeronline",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Finanční výsledky 3D tisku: Align překonal ve 3. čtvrtletí hranici 1 miliardy dolarů a uvede na trh 3D tištěné sportovní chrániče",
+    "summary": "Align Technology (Nasdaq: ALGN) is expanding its use of direct 3D printing beyond orthodontic treatment with a new line of custom sports mouthguards, while reporting third-quarter 2026 revenue of $1...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/photo-resources-patrick-mahomes-grey-background-putting-in-invisalign.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-29T13:30:00+00:00",
+    "url": "https://3dprint.com/335734/3d-printing-financials-align-tops-1b-in-q3-will-launch-3d-printed-sports-guard/",
+    "forced_tags": [],
+    "title_en": "3D Printing Financials: Align Tops $1B in Q3, Will Launch 3D Printed Sports Guard",
+    "summary_bullets_en": [
+      "Align Technology reported strong Q3 2026 financial results, surpassing $1 billion in revenue.",
+      "The company is diversifying its 3D printing applications beyond traditional orthodontics.",
+      "A new line of custom 3D printed sports mouthguards is set to launch, leveraging their existing digital manufacturing infrastructure."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Align Technology vykázala za 3. čtvrtletí 2026 silné finanční výsledky s tržbami přesahujícími 1 miliardu dolarů.",
+      "Firma rozšiřuje využití 3D tisku nad rámec ortodontické léčby.",
+      "Na trh bude uvedena nová řada 3D tištěných sportovních chráničů zubů, které využívají stávající digitální výrobní kapacity společnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Align Technology",
+      "Medical 3D Printing",
+      "Digital Dentistry"
+    ]
+  },
+  {
+    "title": "China Watch #14: Bambu Lab připravuje H3C s devíti tiskovými hlavami a uvádí 2,85mm TPU 75A!",
+    "summary": "And there is even more 3D-printed shoes + low-cost desktop metal printing is about to take off, and BLT presents mixed results",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/5fd825e0-897f-421f-93ac-45a28f0a2c89_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-10-29T13:02:25+00:00",
+    "url": "https://www.3dprintingjournal.com/p/china-watch-14-bambu-lab-is-preparing",
+    "forced_tags": [],
+    "title_en": "China Watch #14: Bambu Lab is preparing the H3C with nine toolheads and introducing 2.85 mm TPU 75A!",
+    "summary_bullets_en": [
+      "Bambu Lab is developing the H3C printer featuring nine toolheads and launching a new 2.85 mm TPU 75A filament.",
+      "The industry is seeing a surge in 3D-printed footwear innovations.",
+      "Low-cost desktop metal 3D printing is approaching a major market breakthrough.",
+      "BLT reports mixed financial and operational results in the latest industry update."
+    ],
+    "summary_bullets_cs": [
+      "Bambu Lab vyvíjí tiskárnu H3C s devíti tiskovými hlavami a uvádí na trh nový 2,85mm filament TPU 75A.",
+      "V oblasti 3D tištěné obuvi dochází k dalším významným inovacím.",
+      "Nízkonákladový stolní tisk z kovů je na prahu velkého rozmachu.",
+      "Společnost BLT zveřejnila smíšené výsledky svého hospodaření."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Bambu Lab",
+      "BLT",
+      "3D Printing",
+      "Metal Printing",
+      "Footwear"
+    ]
+  },
+  {
+    "title": "ELEGOO představuje svůj první 3D skener, M1 Ultra",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972086771/0/fabbaloo/default~ELEGOO-Introduces-Its-First-D-Scanner-the-M-Ultra\" rel=\"nofollow\" title=\"ELEGOO Introduces Its First 3D Scanner, the M1 Ultra\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/m1ultra-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>ELEGOO is opening up another type of 3D technology.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972086771/0/fabbaloo/default~ELEGOO-Introduces-Its-First-D-Scanner-the-M-Ultra\" rel=\"nofollow\">ELEGOO Introduces Its First 3D Scanner, the M1 Ultra</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/m1ultra-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-29T13:02:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972086771/0/fabbaloo/default~ELEGOO-Introduces-Its-First-D-Scanner-the-M-Ultra",
+    "forced_tags": [],
+    "title_en": "ELEGOO Introduces Its First 3D Scanner, the M1 Ultra",
+    "summary_bullets_en": [
+      "ELEGOO is expanding its product portfolio beyond 3D printers.",
+      "The company has officially launched its first-ever 3D scanner, the M1 Ultra.",
+      "This move marks a significant step for ELEGOO into the 3D scanning technology market."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ELEGOO rozšiřuje své produktové portfolio nad rámec 3D tiskáren.",
+      "Firma oficiálně uvedla na trh svůj vůbec první 3D skener s názvem M1 Ultra.",
+      "Tento krok představuje pro ELEGOO významný vstup do oblasti technologií pro 3D skenování."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Scanning",
+      "ELEGOO",
+      "M1 Ultra"
+    ]
+  },
+  {
+    "title": "Zprávy ze světa 3D tisku, 29. října 2026: 3D tištěné součásti satelitů, trny, autodoplňky a další",
+    "summary": "We&#8217;re starting with metallized polymer micro-AM components for satellites in today&#8217;s 3D Printing News Briefs, and then moving to a new facility, an award-winning gas storage manufacturing project, and Snapmaker...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/Horizon-Scale.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-29T13:00:59+00:00",
+    "url": "https://3dprint.com/335681/3d-printing-news-briefs-10-29-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, October 29, 2026: 3D Printed Satellite Parts, Mandrel, Car Accessories, & More",
+    "summary_bullets_en": [
+      "Development of metallized polymer micro-AM components designed for satellite applications.",
+      "Expansion of industry infrastructure with the opening of a new 3D printing facility.",
+      "Recognition of an innovative manufacturing project focused on gas storage solutions.",
+      "Latest updates and news regarding Snapmaker's ecosystem and product offerings."
+    ],
+    "summary_bullets_cs": [
+      "Dnešní přehled začíná metalizovanými polymerovými mikro-komponenty pro satelity vyrobenými pomocí aditivní výroby.",
+      "Dále se zaměřujeme na otevření nového provozu a oceněný projekt výroby zařízení pro skladování plynu.",
+      "Závěr přehledu patří novinkám od společnosti Snapmaker."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Aerospace",
+      "Satellite Technology",
+      "Snapmaker",
+      "Micro-AM"
+    ]
+  },
+  {
+    "title": "Signály poptávky v AM: Wolfram jako předzvěst",
+    "summary": "Most everyone who&#8217;s concerned with the scarcity of industrial materials is focused on rare earths, and rightfully so. But aside from the direct impact resulting from tighter supplies of rare...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/10/Olivia_TileTestingCampaign_Image_20260723_174711_302-1-scaled-e1792697765913-1024x577.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-29T12:00:04+00:00",
+    "url": "https://3dprint.com/335621/am-demand-signals-the-tungsten-harbinger/",
+    "forced_tags": [],
+    "title_en": "AM Demand Signals: the Tungsten Harbinger",
+    "summary_bullets_en": [
+      "While global attention is fixed on rare earth elements, tungsten is emerging as a critical material bottleneck for industrial sectors.",
+      "The scarcity of tungsten poses significant challenges for the additive manufacturing industry, particularly for high-performance applications.",
+      "Supply chain constraints for essential metals are signaling a shift in how manufacturers must approach material sourcing and strategic planning.",
+      "The article highlights the need to look beyond traditional rare earth concerns to ensure the long-term viability of industrial 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Zatímco se světová pozornost upírá na vzácné zeminy, wolfram se stává kritickým úzkým hrdlem pro průmyslová odvětví.",
+      "Nedostatek wolframu představuje značné výzvy pro odvětví aditivní výroby, zejména u vysoce výkonných aplikací.",
+      "Omezení v dodavatelských řetězcích klíčových kovů signalizují nutnost změny přístupu výrobců k získávání materiálů a strategickému plánování.",
+      "Článek zdůrazňuje potřebu dívat se za hranice běžných obav o vzácné zeminy, aby byla zajištěna dlouhodobá životaschopnost průmyslového 3D tisku."
+    ],
+    "tags": [
+      "Material",
+      "Industrial Manufacturing",
+      "Supply Chain",
+      "Tungsten",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Od ventilátorů pro 3D tiskárny k inovacím v HVAC: Madison Air uskutečňuje obchod za 5,4 miliardy USD",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972084623/0/fabbaloo/default~From-D-Printer-Fans-to-HVAC-Innovation-Madison-Air-Makes-a-US-Billion-Move\" rel=\"nofollow\" title=\"From 3D Printer Fans to HVAC Innovation: Madison Air Makes a US$5.4 Billion Move\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/Filename-_424.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Charles R. Goulding and Preeti Sulibhavi look at the surprising 3D printing connections behind Madison Air’s acquisition of German fan giant ebm-papst.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972084623/0/fabbaloo/default~From-D-Printer-Fans-to-HVAC-Innovation-Madison-Air-Makes-a-US-Billion-Move\" rel=\"nofollow\">From 3D Printer Fans to HVAC Innovation: Madison Air Makes a US$5.4 Billion Move</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/Filename-_424.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-10-29T11:22:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972084623/0/fabbaloo/default~From-D-Printer-Fans-to-HVAC-Innovation-Madison-Air-Makes-a-US-Billion-Move",
+    "forced_tags": [],
+    "title_en": "From 3D Printer Fans to HVAC Innovation: Madison Air Makes a US$5.4 Billion Move",
+    "summary_bullets_en": [
+      "Madison Air has acquired the German fan manufacturer ebm-papst in a massive US$5.4 billion deal.",
+      "The acquisition highlights the critical role of high-performance cooling fans, which are essential components in both 3D printers and large-scale HVAC systems.",
+      "Charles R. Goulding and Preeti Sulibhavi analyze how expertise in 3D printer thermal management is bridging the gap toward broader industrial HVAC innovation."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Madison Air získala německého výrobce ventilátorů ebm-papst v rámci obří transakce v hodnotě 5,4 miliardy USD.",
+      "Akvizice zdůrazňuje klíčovou roli vysoce výkonných chladicích ventilátorů, které jsou nezbytnými komponenty jak pro 3D tiskárny, tak pro rozsáhlé systémy HVAC.",
+      "Autoři Charles R. Goulding a Preeti Sulibhavi analyzují, jak odborné znalosti v oblasti tepelného managementu 3D tiskáren propojují svět aditivní výroby s širšími inovacemi v průmyslovém HVAC."
+    ],
+    "tags": [
+      "Hardware",
+      "HVAC",
+      "Thermal Management",
+      "ebm-papst",
+      "Madison Air",
+      "Industrial Manufacturing"
+    ]
+  },
+  {
+    "title": "3D tištěný implantát pro chlazení mozku cílí na epilepsii odolnou vůči lékům",
+    "summary": "Researchers from the Leibniz Institute for Polymer Research Dresden, TUD Dresden University of Technology, the University of Sheffield, and the University of Limerick have developed a 3D printed silicone implant that cools a small area of the brain’s surface while recording its electrical activity. In rats, the device suppressed seizure-like activity, a result the team&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-28-a-las-10.21.28-p.m-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-10-29T09:55:10+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printed-brain-cooling-implant-targets-drug-resistant-epilepsy-256026/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-brain-cooling-implant-targets-drug-resistant-epilepsy",
+    "forced_tags": [],
+    "title_en": "3D Printed Brain Cooling Implant Targets Drug-Resistant Epilepsy",
+    "summary_bullets_en": [
+      "Researchers developed a 3D printed silicone implant capable of cooling specific brain areas.",
+      "The device integrates cooling technology with the ability to record electrical brain activity.",
+      "Successful tests in rats showed the implant effectively suppresses seizure-like activity.",
+      "This innovation offers a potential new treatment path for patients with drug-resistant epilepsy."
+    ],
+    "summary_bullets_cs": [
+      "Vědci z Drážďan, Sheffieldu a Limericku vyvinuli 3D tištěný silikonový implantát, který ochlazuje malou oblast povrchu mozku a zároveň zaznamenává jeho elektrickou aktivitu.",
+      "U laboratorních potkanů zařízení úspěšně potlačilo aktivitu podobnou epileptickým záchvatům, což představuje nadějný výsledek pro budoucí léčbu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Medical Devices",
+      "Epilepsy Research",
+      "Silicone",
+      "Biomedical Engineering"
+    ]
+  },
+  {
+    "title": "CMS představí na veletrhu Formnext robotickou velkoformátovou 3D tiskárnu Krearob s úsporou materiálu až 80 %",
+    "summary": "Italian machinery manufacturer CMS SpA will present its Krearob robotic large format additive manufacturing (LFAM) system at Formnext in Frankfurt. This will be the system’s first appearance at the trade show, and CMS plans live demonstrations at Hall 12.0, Stand D51. Krearob is the newest system in CMS’s additive manufacturing (AM) portfolio. The company will&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/krearob_2_5@2x-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-29T09:37:35+00:00",
+    "url": "https://3dprintingindustry.com/news/cms-to-debut-krearob-robotic-large-format-3d-printer-at-formnext-with-up-to-80-material-savings-256021/?utm_source=rss&utm_medium=rss&utm_campaign=cms-to-debut-krearob-robotic-large-format-3d-printer-at-formnext-with-up-to-80-material-savings",
+    "forced_tags": [],
+    "title_en": "CMS To Debut Krearob Robotic Large-Format 3D Printer at Formnext with Up to 80% Material Savings",
+    "summary_bullets_en": [
+      "Italian manufacturer CMS SpA is set to unveil its new Krearob robotic LFAM system at Formnext.",
+      "The system focuses on large-format additive manufacturing with a claimed material savings of up to 80%.",
+      "Live demonstrations of the technology will be held at Hall 12.0, Stand D51 during the trade show."
+    ],
+    "summary_bullets_cs": [
+      "Italský výrobce strojů CMS SpA představí na veletrhu Formnext ve Frankfurtu svůj nový robotický systém pro aditivní výrobu (LFAM) s názvem Krearob.",
+      "Systém se zaměřuje na velkoformátový 3D tisk a slibuje úsporu materiálu až 80 %.",
+      "Společnost plánuje během veletrhu živé ukázky technologie v hale 12.0 na stánku D51."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "LFAM",
+      "Robotics",
+      "CMS SpA",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "Sandia zkracuje dodací lhůty z 6 měsíců na 1 týden díky 3D tisku",
+    "summary": "Sandia National Laboratories has shared early results from its Center for Advanced Manufacturing and Innovation (CAMINO), the facility that opened earlier this year to help the lab meet its national security missions more quickly. According to CAMINO manager Mohan Karulkar, the center used additive manufacturing (AM) to deliver parts to an internal team in one&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/CA20154ld-768x512-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-10-29T09:22:00+00:00",
+    "url": "https://3dprintingindustry.com/news/sandia-cuts-lead-time-from-6-months-to-1-week-with-3d-printing-256015/?utm_source=rss&utm_medium=rss&utm_campaign=sandia-cuts-lead-time-from-6-months-to-1-week-with-3d-printing",
+    "forced_tags": [],
+    "title_en": "Sandia Cuts Lead Time from 6 Months to 1 Week With 3D Printing",
+    "summary_bullets_en": [
+      "Sandia National Laboratories launched the CAMINO center to accelerate the production of components for national security missions.",
+      "The facility successfully utilized additive manufacturing to reduce lead times for critical parts from six months to just one week.",
+      "This achievement highlights the strategic importance of in-house 3D printing capabilities in meeting urgent operational demands."
+    ],
+    "summary_bullets_cs": [
+      "Sandia National Laboratories otevřely centrum CAMINO, aby urychlily výrobu komponentů pro potřeby národní bezpečnosti.",
+      "Zařízení využilo aditivní výrobu ke zkrácení dodacích lhůt klíčových dílů z šesti měsíců na pouhý jeden týden.",
+      "Tento úspěch podtrhuje strategický význam vlastních kapacit 3D tisku při plnění naléhavých provozních úkolů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Manufacturing",
+      "Sandia National Laboratories",
+      "CAMINO",
+      "National Security"
+    ]
+  },
+  {
+    "title": "Finanční výsledky 3D tisku: Zdravotnictví se stává hlavním motorem společnosti Materialise",
+    "summary": "Materialise (Euronext Brussels &#38; Nasdaq: MTLS) is seeing continued growth in its medical 3D printing business and signs of a recovery in manufacturing, but that progress has not been enough...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/02/AMS-2025-Brigitte-1.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-10-29T07:00:33+00:00",
+    "url": "https://3dprint.com/335718/3d-printing-financials-medical-becomes-the-driving-force-behind-materialise/",
+    "forced_tags": [],
+    "title_en": "3D Printing Financials: Medical Becomes the Driving Force Behind Materialise",
+    "summary_bullets_en": [
+      "Materialise reports significant growth in its medical 3D printing division, which is now the company's primary revenue driver.",
+      "The manufacturing sector is showing early signs of recovery, though overall financial performance remains under pressure.",
+      "Despite positive trends in specific segments, the company's total growth has not yet met broader market expectations."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Materialise zaznamenává výrazný růst v divizi zdravotnického 3D tisku, která se stává hlavním tahounem příjmů.",
+      "Výrobní sektor vykazuje první známky oživení, celkové finanční výsledky však zůstávají pod tlakem.",
+      "Navzdory pozitivním trendům v určitých segmentech celkový růst společnosti zatím nenaplňuje širší tržní očekávání."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Materialise",
+      "Medical 3D Printing",
+      "Manufacturing"
+    ]
+  },
+  {
     "title": "Pohled do inovativního procesu CFIP, díky kterému jsou 3D tištěné díly od HP připraveny k letu",
     "summary": "Most additive manufacturing engineers working on structural drone airframes have hit a familiar constraint. HP’s Multi Jet Fusion can produce complex PA12 geometries with good dimensional accuracy, but for parts that need to handle cyclic loads or absorb impact without gaining mass, the mechanical properties of the base polymer may not always meet the requirements&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Reinforce3D-Screenshot-06-150x100.jpg",
