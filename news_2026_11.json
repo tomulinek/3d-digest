@@ -1,5 +1,379 @@
 [
   {
+    "title": "3D-Fuel trvale snižuje ceny filamentů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972428219/0/fabbaloo/default~DFuel-Permanently-Drops-Filament-Prices\" rel=\"nofollow\" title=\"3D-Fuel Permanently Drops Filament Prices\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/3d-fuel-discount-perm-cover.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>3D-Fuel is dropping prices, again.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972428219/0/fabbaloo/default~DFuel-Permanently-Drops-Filament-Prices\" rel=\"nofollow\">3D-Fuel Permanently Drops Filament Prices</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/3d-fuel-discount-perm-cover.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-11-05T16:38:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972428219/0/fabbaloo/default~DFuel-Permanently-Drops-Filament-Prices",
+    "forced_tags": [],
+    "title_en": "3D-Fuel Permanently Drops Filament Prices",
+    "summary_bullets_en": [
+      "3D-Fuel has announced a permanent reduction in the pricing of their filament products.",
+      "This move marks another instance of the company adjusting its pricing strategy to remain competitive.",
+      "The price drop applies to their standard range of 3D printing materials."
+    ],
+    "summary_bullets_cs": [
+      "Společnost 3D-Fuel oznámila trvalé snížení cen svých tiskových strun (filamentů).",
+      "Tento krok představuje další úpravu cenové strategie firmy s cílem udržet si konkurenceschopnost na trhu.",
+      "Snížení cen se vztahuje na jejich standardní nabídku materiálů pro 3D tisk."
+    ],
+    "tags": [
+      "Material",
+      "3D-Fuel",
+      "Filament",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Finance v 3D tisku: 3D Systems stále vykazuje ztráty, ale vyhlíží rok 2027",
+    "summary": "3D Systems announced in August that Dr. Jeff Graves, the company&#8217;s CEO since early 2020, is planning to retire, and Joris Peels wrote an excellent post at the time of...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/smile-injector-cut-2.jpg-1.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-05T15:47:51+00:00",
+    "url": "https://3dprint.com/336169/3d-printing-financials-3d-systems-still-posting-losses-but-sees-2027-tailwinds/",
+    "forced_tags": [],
+    "title_en": "3D Printing Financials: 3D Systems Still Posting Losses, But Sees 2027 Tailwinds",
+    "summary_bullets_en": [
+      "3D Systems continues to report financial losses while navigating a challenging market environment.",
+      "CEO Dr. Jeff Graves has announced his upcoming retirement after leading the company since 2020.",
+      "The company remains optimistic about future growth, projecting significant positive momentum by 2027.",
+      "Industry analysts are closely monitoring the leadership transition and the company's long-term strategic roadmap."
+    ],
+    "summary_bullets_cs": [
+      "Společnost 3D Systems nadále vykazuje finanční ztráty v náročném tržním prostředí.",
+      "Generální ředitel Dr. Jeff Graves oznámil svůj odchod do důchodu po čtyřech letech ve vedení firmy.",
+      "Společnost zůstává optimistická ohledně budoucího růstu a očekává výrazné zlepšení situace do roku 2027.",
+      "Analytici pozorně sledují změnu ve vedení a dlouhodobou strategii společnosti."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Systems",
+      "Financials",
+      "Industry News"
+    ]
+  },
+  {
+    "title": "Udělá zhutňování horkým práškem 3D tištěné díly pevnějšími?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972421247/0/fabbaloo/default~Will-Hot-Powder-Compaction-Make-D-Printed-Parts-Stronger\" rel=\"nofollow\" title=\"Will Hot Powder Compaction Make 3D Printed Parts Stronger?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/hpbc-process-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Squeezing 3D printed parts could be the way of the future.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972421247/0/fabbaloo/default~Will-Hot-Powder-Compaction-Make-D-Printed-Parts-Stronger\" rel=\"nofollow\">Will Hot Powder Compaction Make 3D Printed Parts Stronger?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/hpbc-process-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-05T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972421247/0/fabbaloo/default~Will-Hot-Powder-Compaction-Make-D-Printed-Parts-Stronger",
+    "forced_tags": [],
+    "title_en": "Will Hot Powder Compaction Make 3D Printed Parts Stronger?",
+    "summary_bullets_en": [
+      "Hot Powder Compaction (HPC) is being explored as a post-processing technique to enhance the structural integrity of 3D printed components.",
+      "The process involves applying heat and pressure to printed parts to reduce porosity and improve density.",
+      "This method could potentially bridge the gap between the mechanical properties of 3D printed parts and traditional manufacturing methods like forging or casting.",
+      "The technology aims to make additive manufacturing more viable for high-stress industrial applications."
+    ],
+    "summary_bullets_cs": [
+      "Zhutňování horkým práškem (HPC) je zkoumáno jako technika následného zpracování pro zvýšení strukturální integrity 3D tištěných komponent.",
+      "Proces zahrnuje aplikaci tepla a tlaku na vytištěné díly za účelem snížení pórovitosti a zvýšení hustoty materiálu.",
+      "Tato metoda by mohla potenciálně smazat rozdíly v mechanických vlastnostech mezi 3D tiskem a tradičními výrobními postupy, jako je kování nebo odlévání.",
+      "Technologie má za cíl učinit aditivní výrobu použitelnější pro průmyslové aplikace s vysokým namáháním."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Hot Powder Compaction",
+      "Additive Manufacturing",
+      "Post-processing",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Propast v produkci aditivní výroby je skutečná. Pokrok však také",
+    "summary": "Additive manufacturing (AM) has become very good at proving what is possible. Companies can print complex metal parts, reduce weight, combine multiple components into one, and produce designs that are...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/C4GWtn0qWys1uK0uBd4snoTCoAKTsruN7NR_g40D73bSnRLlmc7-Ir1YwKdi7T2egluNV3t5kQn6FTa7Q-IkCJ-HTd5T32VcH2Y3si4fWmiLnqLFabzy4MrP3j4ud-NnKYMBj-VcUp_umyzGt0aURKS9QeVpWp3LOGCKeNF70_ksa9Cvn-pd7lPSpS4.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-05T14:00:34+00:00",
+    "url": "https://3dprint.com/336114/the-am-production-gap-is-real-so-is-the-progress/",
+    "forced_tags": [],
+    "title_en": "The AM Production Gap Is Real. So Is the Progress",
+    "summary_bullets_en": [
+      "Additive manufacturing excels at demonstrating technical possibilities like complex geometries and part consolidation.",
+      "A significant gap remains between successful prototyping and scalable, high-volume industrial production.",
+      "Industry players are actively addressing these challenges to bridge the transition from R&D to full-scale manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba (AM) skvěle dokazuje, co je technicky možné, jako je tisk složitých kovových dílů či integrace více komponent do jedné.",
+      "Mezi úspěšným prototypováním a škálovatelnou průmyslovou výrobou stále existuje značná propast.",
+      "Firmy v oboru aktivně pracují na překonání těchto bariér, aby usnadnily přechod od výzkumu k sériové výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Additive Manufacturing",
+      "Industrial Production",
+      "Scalability"
+    ]
+  },
+  {
+    "title": "Novinky ze světa 3D tisku, 5. listopadu 2026: Wolfram, míchání barev, protetická lůžka a další",
+    "summary": "We&#8217;re starting with business from Xact Metal, 3D Systems, and Freemelt, and moving on to materials from Snapmaker and hybrid manufacturing with Eplus3D. We&#8217;ll end with a custom prosthetic socket,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/300G-Render-scaled-1-1024x768.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-05T13:30:33+00:00",
+    "url": "https://3dprint.com/336145/3d-printing-news-briefs-11-5-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, November 5, 2026: Tungsten, Color Mixing, Prosthetic Socket, & More",
+    "summary_bullets_en": [
+      "Business updates from Xact Metal, 3D Systems, and Freemelt highlight the latest industry growth.",
+      "New material developments from Snapmaker and advancements in hybrid manufacturing by Eplus3D.",
+      "Innovative applications in medical technology, specifically focusing on custom prosthetic sockets."
+    ],
+    "summary_bullets_cs": [
+      "Obchodní novinky od společností Xact Metal, 3D Systems a Freemelt mapují aktuální růst v odvětví.",
+      "Vývoj nových materiálů od Snapmakeru a pokroky v hybridní výrobě od společnosti Eplus3D.",
+      "Inovativní aplikace v medicínské technologii se zaměřením na zakázková protetická lůžka."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Medical",
+      "Xact Metal",
+      "3D Systems",
+      "Freemelt",
+      "Snapmaker",
+      "Eplus3D"
+    ]
+  },
+  {
+    "title": "Dvě vrstvy jsou lepší než tři u PLA s uhlíkovými vlákny",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972416045/0/fabbaloo/default~Two-Layers-Beat-Three-In-Carbon-Fiber-PLA\" rel=\"nofollow\" title=\"Two Layers Beat Three In Carbon Fiber PLA\"><img alt=\"Photograph of the printed tensile and flexural specimens with different single-, two-, and three-layer PLA/carbon-fiber configurations\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/research-10.62520_fujece.1924232-headline-1280x844.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>A two layer PLA and carbon fiber PLA print delivered the strongest result in a multi material filament extrusion study.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972416045/0/fabbaloo/default~Two-Layers-Beat-Three-In-Carbon-Fiber-PLA\" rel=\"nofollow\">Two Layers Beat Three In Carbon Fiber PLA</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/research-10.62520_fujece.1924232-headline-1280x844.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-05T13:18:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972416045/0/fabbaloo/default~Two-Layers-Beat-Three-In-Carbon-Fiber-PLA",
+    "forced_tags": [],
+    "title_en": "Two Layers Beat Three In Carbon Fiber PLA",
+    "summary_bullets_en": [
+      "A recent study on multi-material filament extrusion analyzed the structural performance of different PLA and carbon fiber PLA layer configurations.",
+      "Researchers discovered that a two-layer composite structure provided superior strength compared to a three-layer configuration.",
+      "The findings offer new insights into optimizing print settings for enhanced mechanical properties in carbon-fiber-reinforced parts."
+    ],
+    "summary_bullets_cs": [
+      "Nedávná studie zaměřená na extruzi více materiálů analyzovala strukturální odolnost různých konfigurací vrstev PLA a PLA s uhlíkovými vlákny.",
+      "Výzkumníci zjistili, že dvouvrstvá kompozitní struktura poskytuje vyšší pevnost než konfigurace třívrstvá.",
+      "Zjištění nabízejí nové poznatky pro optimalizaci nastavení tisku za účelem dosažení lepších mechanických vlastností u dílů vyztužených uhlíkovými vlákny."
+    ],
+    "tags": [
+      "Material",
+      "Research",
+      "3D Printing",
+      "PLA",
+      "Carbon Fiber",
+      "Composite Materials"
+    ]
+  },
+  {
+    "title": "China Watch #15: Polymaker míchá barvy v granulátu, Snapmaker ukončuje tři produktové řady",
+    "summary": "Polymaker opens a showroom in Yiwu, Raise3D unveils new printers, and Hisun reports strong results.",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/4ea418cf-786c-43b4-9010-00541419d066_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-11-05T13:03:25+00:00",
+    "url": "https://www.3dprintingjournal.com/p/china-watch-15-polymaker-mixes-colors",
+    "forced_tags": [],
+    "title_en": "China Watch #15: Polymaker mixes colors in pellets, Snapmaker expires three product lines",
+    "summary_bullets_en": [
+      "Polymaker has launched a new showroom in Yiwu to showcase its latest material innovations.",
+      "Raise3D has introduced new 3D printer models to its professional lineup.",
+      "Snapmaker is discontinuing three of its existing product lines.",
+      "Hisun has announced strong financial performance results."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Polymaker otevřela showroom v I-wu.",
+      "Raise3D představila nové 3D tiskárny.",
+      "Hisun hlásí silné hospodářské výsledky."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Polymaker",
+      "Snapmaker",
+      "Raise3D",
+      "Hisun"
+    ]
+  },
+  {
+    "title": "Za hranice prototypování: Jak TPM3D využívá průmyslový SLS tisk přímo ve výrobě",
+    "summary": "A structural component for an autonomous police patrol vehicle in Dubai went from weighing 27 kilograms to just four. Delivery time dropped from seven days to two. The component was...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/Micropolis-Robotics-Autonomous-Inspection.-Source-Micropolis-scaled.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-05T13:00:38+00:00",
+    "url": "https://3dprint.com/336168/3d-printing-can-make-the-impossible-tpm3d-is-focused-on-making-it-practical-with-industrial-sls/",
+    "forced_tags": [],
+    "title_en": "Beyond the Prototype: How TPM3D Is Putting Industrial SLS to Work on the Factory Floor",
+    "summary_bullets_en": [
+      "TPM3D's industrial SLS technology enabled a massive weight reduction for a police vehicle component, dropping from 27kg to 4kg.",
+      "Production efficiency significantly improved, with lead times for the part decreasing from seven days to just two.",
+      "The case study highlights the transition of 3D printing from simple prototyping to functional, end-use manufacturing on the factory floor."
+    ],
+    "summary_bullets_cs": [
+      "Technologie průmyslového SLS tisku od společnosti TPM3D umožnila radikální snížení hmotnosti konstrukčního dílu pro autonomní policejní vozidlo z 27 kg na pouhé 4 kg.",
+      "Doba dodání komponentu se díky 3D tisku zkrátila ze sedmi dnů na pouhé dva.",
+      "Případová studie demonstruje posun 3D tisku od pouhého prototypování k přímé výrobě funkčních koncových dílů v průmyslovém měřítku."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "TPM3D",
+      "SLS",
+      "Additive Manufacturing",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Vzestup havajských startupů: Může 3D tisk pomoci vybudovat novou technologickou ekonomiku?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972412772/0/fabbaloo/default~Hawaii%e2%80%99s-Startup-Surge-Can-D-Printing-Help-Build-the-Next-Tech-Economy\" rel=\"nofollow\" title=\"Hawaii’s Startup Surge: Can 3D Printing Help Build the Next Tech Economy?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/image.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"434\" /></a><p>Charles R. Goulding and Preeti Sulibhavi take a closer look at how Hawaii is turning its geographic challenges into technological opportunities as entrepreneurs pursue ambitious startups, advanced manufacturing and the elusive billion-dollar unicorn valuation.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972412772/0/fabbaloo/default~Hawaii%e2%80%99s-Startup-Surge-Can-D-Printing-Help-Build-the-Next-Tech-Economy\" rel=\"nofollow\">Hawaii’s Startup Surge: Can 3D Printing Help Build the Next Tech Economy?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/image.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-05T11:48:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972412772/0/fabbaloo/default~Hawaii%e2%80%99s-Startup-Surge-Can-D-Printing-Help-Build-the-Next-Tech-Economy",
+    "forced_tags": [],
+    "title_en": "Hawaii’s Startup Surge: Can 3D Printing Help Build the Next Tech Economy?",
+    "summary_bullets_en": [
+      "Hawaii is leveraging its unique geographic isolation to foster a new wave of technological innovation and advanced manufacturing.",
+      "Entrepreneurs are increasingly turning to 3D printing to overcome supply chain challenges and build scalable startup solutions.",
+      "The region aims to diversify its economy by targeting high-growth sectors and pursuing the development of billion-dollar unicorn companies."
+    ],
+    "summary_bullets_cs": [
+      "Havaj využívá svou jedinečnou geografickou izolaci k podpoře nové vlny technologických inovací a pokročilé výroby.",
+      "Podnikatelé se stále častěji obracejí k 3D tisku, aby překonali problémy v dodavatelském řetězci a vytvořili škálovatelná startupová řešení.",
+      "Region se snaží diverzifikovat svou ekonomiku zaměřením na rychle rostoucí sektory a rozvoj firem s miliardovou tržní hodnotou."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Advanced Manufacturing",
+      "3D Printing",
+      "Startups",
+      "Hawaii",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Společnost Phase3D představuje novou generaci hardwaru Fringe Inspection pro 3D tisk metodou LPBF",
+    "summary": "Chicago-based additive manufacturing inspection technology developer Phase3D has introduced a new generation of its Fringe Inspection platform, featuring purpose-built hardware designed for integration into laser powder bed fusion (LPBF) 3D printers. Developed over several years, the new hardware replaces Phase3D’s previous reliance on off-the-shelf components with a custom architecture designed specifically for LPBF inspection. The&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/image-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-11-05T11:16:32+00:00",
+    "url": "https://3dprintingindustry.com/news/phase3d-introduces-next-generation-fringe-inspection-hardware-for-lpbf-3d-printing-256229/?utm_source=rss&utm_medium=rss&utm_campaign=phase3d-introduces-next-generation-fringe-inspection-hardware-for-lpbf-3d-printing",
+    "forced_tags": [],
+    "title_en": "Phase3D introduces next-generation Fringe Inspection hardware for LPBF 3D printing",
+    "summary_bullets_en": [
+      "Phase3D has launched a new generation of its Fringe Inspection platform specifically engineered for LPBF 3D printers.",
+      "The company transitioned from off-the-shelf components to a custom-built hardware architecture.",
+      "This development aims to enhance the precision and reliability of real-time inspection in additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Phase3D se sídlem v Chicagu uvedla na trh novou generaci své platformy Fringe Inspection, která je určena pro integraci do 3D tiskáren typu laser powder bed fusion (LPBF).",
+      "Nový hardware nahrazuje předchozí řešení založené na běžně dostupných komponentech vlastní architekturou vyvinutou přímo pro potřeby kontroly kvality v LPBF tisku.",
+      "Tato technologie je výsledkem několikaletého vývoje zaměřeného na optimalizaci inspekčních procesů v aditivní výrobě."
+    ],
+    "tags": [
+      "Hardware",
+      "Phase3D",
+      "LPBF",
+      "Additive Manufacturing",
+      "Quality Control",
+      "Inspection Technology"
+    ]
+  },
+  {
+    "title": "Tripo AI spouští Agentic Canvas, AI agenta, který vytváří znovupoužitelné pracovní postupy pro 3D modely pro tisk a hry",
+    "summary": "Tripo AI has released Tripo Agentic Canvas, an AI agent that assembles 3D production steps into node-based workflows users can view, modify, and apply to multiple assets. The release extends the company’s generative 3D tools from producing one model at a time toward repeatable processes that run from generation and refinement through to export. 3D&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Tripo-Agentic-Canvas-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-11-05T11:15:24+00:00",
+    "url": "https://3dprintingindustry.com/news/tripo-ai-launches-agentic-canvas-an-ai-agent-that-builds-reusable-3d-model-workflows-for-3d-printing-and-games-256234/?utm_source=rss&utm_medium=rss&utm_campaign=tripo-ai-launches-agentic-canvas-an-ai-agent-that-builds-reusable-3d-model-workflows-for-3d-printing-and-games",
+    "forced_tags": [],
+    "title_en": "Tripo AI Launches Agentic Canvas, an AI Agent That Builds Reusable 3D Model Workflows for 3D Printing and Games",
+    "summary_bullets_en": [
+      "Tripo AI introduced Agentic Canvas, a tool that creates node-based, repeatable 3D production workflows.",
+      "The platform allows users to visualize, edit, and apply automated processes to multiple 3D assets.",
+      "It shifts generative 3D production from single-model generation to scalable, end-to-end pipelines including refinement and export."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Tripo AI vydala Agentic Canvas, AI agenta, který sestavuje kroky 3D produkce do uzlových pracovních postupů.",
+      "Uživatelé mohou tyto procesy prohlížet, upravovat a aplikovat na více 3D modelů najednou.",
+      "Nástroj posouvá generativní 3D tvorbu od vytváření jednotlivých modelů k opakovatelným procesům od generování přes úpravy až po export."
+    ],
+    "tags": [
+      "Software",
+      "Tripo AI",
+      "Generative AI",
+      "3D Modeling",
+      "Workflow Automation",
+      "3D Printing",
+      "Game Development"
+    ]
+  },
+  {
+    "title": "Profi 3D tisk z pryskyřic: designový kryt na míru",
+    "summary": "Na obrazovce může kryt herní myši vypadat hotově. Jak sedí v dlani, jestli díly lícují a zda mají tlačítka vůli, ukáže až první fyzický prototyp.",
+    "image": "https://blog.aditivni.cz/_astro/nejlepsi-3d-tisk-z-pryskyric-na-miru2.D0-1xKgJ.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-11-05T11:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/profi-3d-tisk-z-pryskyric-kryt-herni-mysi/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Professional Resin 3D Printing: Custom Design Shells",
+    "summary_bullets_en": [
+      "Digital models of gaming mouse shells often fail to capture real-world ergonomics.",
+      "Physical prototyping is essential to test fit, finish, and button responsiveness.",
+      "Resin 3D printing provides the high precision needed for functional design validation."
+    ],
+    "summary_bullets_cs": [
+      "Digitální modely krytů herních myší často neodhalí skutečnou ergonomii v dlani.",
+      "Fyzický prototyp je nezbytný pro ověření lícování dílů a funkčnosti tlačítek.",
+      "3D tisk z pryskyřice nabízí vysokou přesnost potřebnou pro validaci designu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Resin Printing",
+      "Prototyping",
+      "Product Design",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
+    "title": "Vícemateriálový 3D tisk má skrytou slabinu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972406229/0/fabbaloo/default~MultiMaterial-D-Printing-Has-a-Hidden-Weak-Point\" rel=\"nofollow\" title=\"MultiMaterial 3D Printing Has a Hidden Weak Point\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/interface-problems-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>A multi-material 3D print can look perfect and still break apart where its materials meet.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972406229/0/fabbaloo/default~MultiMaterial-D-Printing-Has-a-Hidden-Weak-Point\" rel=\"nofollow\">MultiMaterial 3D Printing Has a Hidden Weak Point</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/interface-problems-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-05T08:40:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972406229/0/fabbaloo/default~MultiMaterial-D-Printing-Has-a-Hidden-Weak-Point",
+    "forced_tags": [],
+    "title_en": "MultiMaterial 3D Printing Has a Hidden Weak Point",
+    "summary_bullets_en": [
+      "Multi-material 3D prints often appear visually flawless while harboring structural vulnerabilities.",
+      "The primary issue lies in the interface where different materials meet, which can act as a point of failure.",
+      "Achieving strong adhesion between distinct materials remains a significant technical challenge in additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Vícemateriálové 3D výtisky mohou vypadat vizuálně dokonale, přestože v sobě skrývají strukturální nedostatky.",
+      "Hlavní problém spočívá v rozhraní, kde se setkávají různé materiály, což může být místem selhání.",
+      "Dosažení pevné adheze mezi odlišnými materiály zůstává v aditivní výrobě významnou technickou výzvou."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Multi-material",
+      "Additive Manufacturing",
+      "Structural Integrity"
+    ]
+  },
+  {
     "title": "Co uvidíte na veletrhu Formnext 2026: průvodce vystavovateli",
     "summary": "Formnext 2026 takes place at Messe Frankfurt, Germany, from 17–20 November. This guide brings together featured exhibitors covering industrial polymer and metal 3D printing, filament recycling, quality management, design automation and post-processing. Use the table to identify relevant technologies and stand locations, then explore each company’s plans below. The accompanying visitor questions focus on the&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Formnext-2018-in-Frankfurt.-Photo-by-Michael-Petch-150x100.jpg",
@@ -1024,6 +1398,39 @@
     ]
   },
   {
+    "title": "Co bývá nejdražší na (klidně jednoduché) výrobní pomůcce či přípravku do výroby?",
+    "summary": "Čekání, než ji někdo vyrobí. Co ukazují čísla z Rivianu, GM a Škoda Auto a co všechno počítat, když se ptáte, jestli se 3D tisk přípravků vyplatí.",
+    "image": "https://blog.aditivni.cz/_astro/Vyrobni-pripravek-3D-tisk.B3pegMFu.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-11-02T11:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/co-byva-nejdrazsi-na-vyrobni-pomucce/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "What is the most expensive part of a simple manufacturing jig or fixture?",
+    "summary_bullets_en": [
+      "The hidden cost of manufacturing aids is primarily the lead time required for traditional production.",
+      "Data from automotive giants like Rivian, GM, and Škoda Auto highlights the efficiency gains of additive manufacturing.",
+      "Calculating the true ROI of 3D printing requires accounting for downtime and operational agility, not just material costs."
+    ],
+    "summary_bullets_cs": [
+      "Skrytým nákladem u výrobních pomůcek je především čas, který trvá jejich tradiční výroba.",
+      "Data z automobilek jako Rivian, GM či Škoda Auto potvrzují, že 3D tisk dramaticky zrychluje provozní efektivitu.",
+      "Při výpočtu návratnosti 3D tisku je nutné zohlednit nejen cenu materiálu, ale především náklady na prostoje a rychlost nasazení."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "3D Printing",
+      "Manufacturing",
+      "Automotive",
+      "Rivian",
+      "General Motors",
+      "Skoda Auto",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "RMIT testuje kávový odpad v architektonickém designu v rámci nového projektu",
     "summary": "RMIT University researchers have developed a biodegradable 3D printing filament made from spent coffee grounds and used it to produce full-scale architectural forms. Titled “Waste to Form,” the work is led by Distinguished Professor Baohua Jia from RMIT’s School of Science and Dr Nic Bao from the RMIT’s School of Architecture and Urban Design. It&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/coffee-waste-3D-architecture-1220x732-1-150x100.jpg",
@@ -1718,6 +2125,39 @@
       "ESS",
       "Tungsten",
       "Metal Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Mezi „umíme to vytisknout“ a „můžeme to používat ve vrtulníku“ leží téměř dva roky práce",
+    "summary": "Náhradní díly pro vrtulníky Bell 214B z tiskárny Markforged FX10: sken, úprava návrhu, ověření a schválení úřadem. Co to znamená pro běžnou výrobní firmu?",
+    "image": "https://blog.aditivni.cz/_astro/Plane-Support-Bell-214B-dily.IOo9Rd8G.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-10-30T11:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/3d-tisk-nahradnich-dilu-pro-vrtulniky/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Between 'We Can Print It' and 'We Can Fly It' Lies Nearly Two Years of Work",
+    "summary_bullets_en": [
+      "The production of spare parts for Bell 214B helicopters using the Markforged FX10 printer required a rigorous two-year process.",
+      "The workflow involved precise 3D scanning, design optimization, and extensive validation.",
+      "Final certification by aviation authorities remains the critical hurdle for implementing 3D-printed parts in aerospace.",
+      "This case study serves as a benchmark for manufacturing firms aiming to transition from prototyping to end-use industrial parts."
+    ],
+    "summary_bullets_cs": [
+      "Výroba náhradních dílů pro vrtulníky Bell 214B na tiskárně Markforged FX10 vyžadovala náročný dvouletý proces vývoje.",
+      "Pracovní postup zahrnoval precizní 3D skenování, úpravu návrhu pro aditivní výrobu a rozsáhlé ověřování vlastností.",
+      "Klíčovou překážkou pro nasazení dílů v letectví zůstává náročný proces certifikace úřady.",
+      "Případová studie ukazuje, co vše musí běžná výrobní firma zvládnout při přechodu od prototypování k ostré výrobě koncových dílů."
+    ],
+    "tags": [
+      "Hardware",
+      "Markforged",
+      "Aerospace",
+      "3D Printing",
+      "Industrial Manufacturing",
+      "Certification",
+      "ADITIVNI.cz"
     ]
   },
   {
@@ -2587,6 +3027,38 @@
       "Freemelt",
       "Roboze",
       "3D Systems"
+    ]
+  },
+  {
+    "title": "Co se děje ve světové aditivní výrobě?",
+    "summary": "Wohlers Report 2026 za 3. čtvrtletí: Čína posiluje, mění se směr investic a výrobci tiskáren vstupují do výroby dílů. Co si z toho vzít pro Česko a Slovensko?",
+    "image": "https://blog.aditivni.cz/_astro/Wohlers-Report-2026-Q3.D1JhUsOF.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-10-23T10:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/co-se-deje-ve-svetove-aditivni-vyrobe/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "What is happening in global additive manufacturing?",
+    "summary_bullets_en": [
+      "China is strengthening its position in the global additive manufacturing market.",
+      "Investment strategies are shifting, with a growing focus on long-term sustainability.",
+      "Printer manufacturers are increasingly transitioning into direct parts production.",
+      "The report highlights key implications for the industrial sectors in the Czech Republic and Slovakia."
+    ],
+    "summary_bullets_cs": [
+      "Čína výrazně posiluje svou pozici na globálním trhu aditivní výroby.",
+      "Investiční strategie se mění a směřují k efektivnějšímu využití technologií.",
+      "Výrobci 3D tiskáren stále častěji přecházejí od prodeje strojů k přímé výrobě dílů.",
+      "Analýza přináší klíčové podněty pro rozvoj průmyslu v České republice a na Slovensku."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Wohlers Report",
+      "Additive Manufacturing",
+      "Industry 4.0",
+      "ADITIVNI.cz"
     ]
   },
   {
