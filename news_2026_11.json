@@ -1,5 +1,463 @@
 [
   {
+    "title": "Callaway Golf vybuduje v Texasu závod na 3D tisk v hodnotě 15 milionů dolarů",
+    "summary": "Callaway Golf is set to invest $15 million in a Fort Worth, Texas 3D printing factory For many years, golf companies have flirted with 3D printing. Callaway made a putter...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/no-logo-02_Family-Shot_Mobile_600600.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-07T04:29:47+00:00",
+    "url": "https://3dprint.com/336373/callaway-golf-to-set-up-15-million-3d-printing-location-in-texas/",
+    "forced_tags": [],
+    "title_en": "Callaway Golf to Set Up $15 Million 3D Printing Location in Texas",
+    "summary_bullets_en": [
+      "Callaway Golf is investing $15 million to establish a dedicated 3D printing manufacturing facility in Fort Worth, Texas.",
+      "The move marks a significant shift from experimental prototyping to full-scale additive manufacturing production.",
+      "This investment builds on the company's previous success with 3D-printed putters, signaling a broader integration of the technology into their golf equipment lineup."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Callaway Golf investuje 15 milionů dolarů do vybudování specializovaného závodu pro 3D tisk ve městě Fort Worth v Texasu.",
+      "Tento krok představuje významný posun od experimentálního prototypování k sériové aditivní výrobě.",
+      "Investice navazuje na předchozí úspěchy společnosti s 3D tištěnými puttery a naznačuje širší integraci této technologie do jejich portfolia golfového vybavení."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Callaway Golf",
+      "Additive Manufacturing",
+      "Golf Industry"
+    ]
+  },
+  {
+    "title": "Ničí „vibe coding“ pomalu trh se softwarem pro 3D tisk?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972500678/0/fabbaloo/default~Is-Vibe-Coding-Slowly-Destroying-The-Market-For-D-Printing-Software\" rel=\"nofollow\" title=\"Is Vibe Coding Slowly Destroying The Market For 3D Printing Software?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/vibe-coding-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Something strange is happening in my inbox.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972500678/0/fabbaloo/default~Is-Vibe-Coding-Slowly-Destroying-The-Market-For-D-Printing-Software\" rel=\"nofollow\">Is Vibe Coding Slowly Destroying The Market For 3D Printing Software?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/vibe-coding-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-06T16:22:06+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972500678/0/fabbaloo/default~Is-Vibe-Coding-Slowly-Destroying-The-Market-For-D-Printing-Software",
+    "forced_tags": [],
+    "title_en": "Is Vibe Coding Slowly Destroying The Market For 3D Printing Software?",
+    "summary_bullets_en": [
+      "The rise of 'vibe coding'—using AI to generate software solutions through natural language prompts—is disrupting traditional development workflows.",
+      "This trend poses a potential threat to established 3D printing software companies that rely on proprietary, complex codebases.",
+      "As AI tools become more accessible, the barrier to entry for creating custom 3D printing utilities is lowering, challenging the current market dominance of specialized software providers."
+    ],
+    "summary_bullets_cs": [
+      "Vzestup tzv. „vibe codingu“, tedy využívání AI ke generování softwarových řešení pomocí přirozeného jazyka, narušuje tradiční vývojové postupy.",
+      "Tento trend představuje potenciální hrozbu pro zavedené společnosti v oblasti 3D tisku, které spoléhají na proprietární a komplexní zdrojové kódy.",
+      "S tím, jak se nástroje umělé inteligence stávají dostupnějšími, klesá bariéra vstupu pro tvorbu vlastních nástrojů pro 3D tisk, což zpochybňuje dominanci stávajících poskytovatelů softwaru."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "Vibe Coding",
+      "3D Printing",
+      "Automation",
+      "Software Development"
+    ]
+  },
+  {
+    "title": "Proč Prusa vydala firmware 7.0 a 8.0 jen pár dní po sobě",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972489947/0/fabbaloo/default~Why-Prusa-Released-Firmware-And-Days-Apart\" rel=\"nofollow\" title=\"Why Prusa Released Firmware 7.0 And 8.0 Days Apart\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/prusa-numbering-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Prusa's firmware version numbers have suddenly gone into overdrive.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972489947/0/fabbaloo/default~Why-Prusa-Released-Firmware-And-Days-Apart\" rel=\"nofollow\">Why Prusa Released Firmware 7.0 And 8.0 Days Apart</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/prusa-numbering-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-06T15:01:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972489947/0/fabbaloo/default~Why-Prusa-Released-Firmware-And-Days-Apart",
+    "forced_tags": [],
+    "title_en": "Why Prusa Released Firmware 7.0 And 8.0 Days Apart",
+    "summary_bullets_en": [
+      "Prusa Research has rapidly accelerated its firmware version numbering, releasing versions 7.0 and 8.0 in quick succession.",
+      "The unusual jump in version numbers reflects significant internal changes or a new strategy in how the company manages software updates.",
+      "This shift aims to better align firmware releases with major feature rollouts and hardware improvements for their 3D printers."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Prusa Research nečekaně zrychlila číslování verzí svého firmwaru a vydala verze 7.0 a 8.0 v těsném sledu za sebou.",
+      "Tento neobvyklý skok v číslování odráží významné interní změny nebo novou strategii správy softwarových aktualizací.",
+      "Cílem této změny je lépe sladit vydávání firmwaru s uváděním klíčových funkcí a hardwarových vylepšení pro jejich 3D tiskárny."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Prusa Research",
+      "3D Printing",
+      "Firmware"
+    ]
+  },
+  {
+    "title": "Simulace, monitorování, inspekce a další v aditivní výrobě na veletrhu Formnext 2026",
+    "summary": "Formnext 2026 is getting closer, and we&#8217;re already seeing lots of 3D printing industry news ahead of the trade show in Frankfurt. In this pre-event roundup, we&#8217;ll tell you about...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/2.-AMCM_Dwell_Optimization_Comparision_with_Powder-copy-1024x576.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-06T14:00:53+00:00",
+    "url": "https://3dprint.com/336309/additive-manufacturing-simulation-monitoring-inspection-more-at-formnext-2026/",
+    "forced_tags": [],
+    "title_en": "Additive Manufacturing Simulation, Monitoring, Inspection, & More at Formnext 2026",
+    "summary_bullets_en": [
+      "Formnext 2026 is approaching with a surge of industry announcements.",
+      "The event will highlight advancements in simulation, real-time monitoring, and quality inspection.",
+      "This roundup provides a preview of the key innovations and technologies expected in Frankfurt."
+    ],
+    "summary_bullets_cs": [
+      "Veletrh Formnext 2026 se blíží a přináší vlnu novinek z oboru.",
+      "Akce se zaměří na pokroky v oblasti simulací, monitorování v reálném čase a kontroly kvality.",
+      "Tento přehled nabízí ochutnávku klíčových inovací a technologií, které budou ve Frankfurtu představeny."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Formnext",
+      "Additive Manufacturing",
+      "Simulation",
+      "Quality Inspection"
+    ]
+  },
+  {
+    "title": "3D tištěné protézy urazily dlouhou cestu. HP a DyeMansion se dívají na to, co přijde dál",
+    "summary": "3D printing has made it easier to produce prosthetics and orthotics tailored to individual patients. But making that work on a larger scale comes with its own challenges. For companies...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/07/1751325016034.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-06T13:30:59+00:00",
+    "url": "https://3dprint.com/336198/3d-printed-prosthetics-have-come-a-long-way-hp-and-dyemansion-look-at-whats-next/",
+    "forced_tags": [],
+    "title_en": "3D Printed Prosthetics Have Come a Long Way. HP and DyeMansion Look at What’s Next",
+    "summary_bullets_en": [
+      "3D printing has revolutionized the production of personalized prosthetics and orthotics.",
+      "Scaling these customized medical solutions to a mass-market level remains a significant industry challenge.",
+      "HP and DyeMansion are collaborating to address post-processing and production efficiency in the medical sector.",
+      "The focus is shifting toward optimizing workflows to make high-quality, patient-specific devices more accessible."
+    ],
+    "summary_bullets_cs": [
+      "3D tisk usnadnil výrobu protéz a ortéz přizpůsobených individuálním potřebám pacientů.",
+      "Zajištění fungování tohoto procesu ve větším měřítku však přináší specifické výzvy.",
+      "Společnosti HP a DyeMansion se zaměřují na budoucnost a efektivitu výroby v tomto odvětví."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "HP",
+      "DyeMansion",
+      "Medical",
+      "Prosthetics"
+    ]
+  },
+  {
+    "title": "Zakladatel D-Shape odebral licenci svému partnerovi z Hongkongu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972482738/0/fabbaloo/default~DShape-Founder-Revoces-License-from-Hong-Kong-Partner\" rel=\"nofollow\" title=\"D-Shape Founder Revoces License from Hong Kong Partner\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/d-shape-prints-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>An dispute has emerged over one of the oldest names in large-scale 3D printing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972482738/0/fabbaloo/default~DShape-Founder-Revoces-License-from-Hong-Kong-Partner\" rel=\"nofollow\">D-Shape Founder Revoces License from Hong Kong Partner</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/d-shape-prints-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-06T13:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972482738/0/fabbaloo/default~DShape-Founder-Revoces-License-from-Hong-Kong-Partner",
+    "forced_tags": [],
+    "title_en": "D-Shape Founder Revokes License from Hong Kong Partner",
+    "summary_bullets_en": [
+      "A significant legal and operational dispute has arisen involving D-Shape, a pioneer in large-scale 3D printing.",
+      "The founder of the company has officially revoked the licensing rights previously granted to a partner based in Hong Kong.",
+      "This development marks a major shift for one of the industry's oldest and most recognized names in construction-scale additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Vznikl spor ohledně jedné z nejstarších značek v oblasti velkoformátového 3D tisku.",
+      "Zakladatel společnosti D-Shape oficiálně vypověděl licenční smlouvu svému partnerovi se sídlem v Hongkongu.",
+      "Tato událost představuje zásadní změnu pro jednoho z průkopníků v oboru aditivní výroby ve stavebnictví."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "D-Shape",
+      "Large-scale 3D printing",
+      "Construction 3D printing",
+      "Licensing"
+    ]
+  },
+  {
+    "title": "Západní report #15: Sinterit čelí bankrotu, zatímco Xometry láme rekordy",
+    "summary": "3D Systems continues to lose money but is betting on metal",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/8bd39a4c-8bd3-44ae-893a-03d3615d10ac_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-11-06T13:01:51+00:00",
+    "url": "https://www.3dprintingjournal.com/p/western-report-15-sinterit-faces",
+    "forced_tags": [],
+    "title_en": "Western Report #15: Sinterit faces bankruptcy as Xometry hits new records",
+    "summary_bullets_en": [
+      "Sinterit is currently navigating severe financial distress and potential bankruptcy.",
+      "Xometry reports strong financial growth, reaching new record-breaking performance levels.",
+      "3D Systems continues to struggle with profitability while shifting its strategic focus toward metal 3D printing technologies."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Sinterit se potýká s vážnými finančními problémy a hrozí jí bankrot.",
+      "Xometry vykazuje silný finanční růst a dosahuje nových rekordních výsledků.",
+      "3D Systems nadále vykazuje ztráty, přičemž svou strategii nyní sází na kovový 3D tisk."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Sinterit",
+      "Xometry",
+      "3D Systems"
+    ]
+  },
+  {
+    "title": "Akvizice, letadla a aditivní výroba: Jak dohoda mezi Boeingem a Archer Aviation formuje budoucnost technologie eVTOL",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972478811/0/fabbaloo/default~Acquisitions-Aircraft-and-Additive-Manufacturing-How-a-Deal-Between-Boeing-and-Archer-Aviation-Shapes-the-Future-of-eVTOL-Technology\" rel=\"nofollow\" title=\"Acquisitions, Aircraft, and Additive Manufacturing: How a Deal Between Boeing and Archer Aviation Shapes the Future of eVTOL Technology\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/image.png\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"643\" /></a><p>Charles R. Goulding and Kate Esposito take readers inside the rapidly evolving eVTOL industry, where Boeing, Archer, Wisk, and Joby are using additive manufacturing to overcome the challenges of electric aviation and push air taxis closer to reality.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972478811/0/fabbaloo/default~Acquisitions-Aircraft-and-Additive-Manufacturing-How-a-Deal-Between-Boeing-and-Archer-Aviation-Shapes-the-Future-of-eVTOL-Technology\" rel=\"nofollow\">Acquisitions, Aircraft, and Additive Manufacturing: How a Deal Between Boeing and Archer Aviation Shapes the Future of eVTOL Technology</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/image.png",
+    "source": "Fabbaloo",
+    "published": "2026-11-06T11:59:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972478811/0/fabbaloo/default~Acquisitions-Aircraft-and-Additive-Manufacturing-How-a-Deal-Between-Boeing-and-Archer-Aviation-Shapes-the-Future-of-eVTOL-Technology",
+    "forced_tags": [],
+    "title_en": "Acquisitions, Aircraft, and Additive Manufacturing: How a Deal Between Boeing and Archer Aviation Shapes the Future of eVTOL Technology",
+    "summary_bullets_en": [
+      "Boeing and Archer Aviation are leveraging additive manufacturing to accelerate the development of eVTOL aircraft.",
+      "The collaboration highlights how 3D printing helps overcome critical engineering challenges in the electric aviation sector.",
+      "Key industry players like Wisk and Joby are also integrating advanced manufacturing techniques to bring air taxis closer to commercial reality."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti Boeing a Archer Aviation využívají aditivní výrobu k urychlení vývoje letadel typu eVTOL.",
+      "Spolupráce ukazuje, jak 3D tisk pomáhá překonávat kritické inženýrské výzvy v sektoru elektrického letectví.",
+      "Klíčoví hráči v oboru, jako jsou Wisk a Joby, rovněž integrují pokročilé výrobní techniky, aby přiblížili létající taxi ke komerční realitě."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Boeing",
+      "Archer Aviation",
+      "Wisk",
+      "Joby",
+      "eVTOL",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "3D tištěné mikrojehly se setkávají s papírem Hanji v prodyšné náplasti pro podávání léků a detekci kyseliny močové",
+    "summary": "A team at Jeonbuk National University (JBNU) has built a wearable patch on traditional Korean mulberry paper (hanji). It carries 3D printed microneedles for drug delivery and printed electrodes that wirelessly track uric acid in sweat. Uric acid is the biomarker doctors use to manage gout and hyperuricemia. The microneedles were made with a light-based&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/JBNUU_51_5_JBNUU_51_Infographic_final-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-06T09:02:15+00:00",
+    "url": "https://3dprintingindustry.com/news/3d-printed-microneedles-meet-hanji-in-breathable-patch-for-drug-delivery-and-uric-acid-sensing-256253/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-microneedles-meet-hanji-in-breathable-patch-for-drug-delivery-and-uric-acid-sensing",
+    "forced_tags": [],
+    "title_en": "3D Printed Microneedles Meet Hanji in Breathable Patch for Drug Delivery and Uric Acid Sensing",
+    "summary_bullets_en": [
+      "Researchers at Jeonbuk National University developed a wearable patch using traditional Korean hanji paper.",
+      "The device features 3D printed microneedles for efficient drug delivery through the skin.",
+      "Integrated printed electrodes allow for wireless, real-time monitoring of uric acid levels in sweat.",
+      "This innovation offers a promising solution for managing conditions like gout and hyperuricemia."
+    ],
+    "summary_bullets_cs": [
+      "Tým z Národní univerzity v Jeonbuku (JBNU) vytvořil nositelnou náplast využívající tradiční korejský morušový papír (hanji).",
+      "Zařízení obsahuje 3D tištěné mikrojehly pro podávání léků a tištěné elektrody, které bezdrátově sledují hladinu kyseliny močové v potu.",
+      "Kyselina močová je klíčovým biomarkerem, který lékaři používají k léčbě dny a hyperurikémie.",
+      "Mikrojehly byly vyrobeny pomocí technologie založené na vytvrzování světlem."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Microneedles",
+      "Wearable Technology",
+      "Biomedical Engineering",
+      "Hanji"
+    ]
+  },
+  {
+    "title": "3D tisk pulzním obloukem vytvořil metrové monokrystaly titanu",
+    "summary": "A group of researchers from institutions in China and the United States has 3D printed titanium alloy single crystals that reach a meter in height. Large single crystals have typically been out of reach for metal additive manufacturing (metal AM), and the study, published in Nature, describes a way past that barrier. Single-crystal metals perform&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/3d-printing-process-cr-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-06T09:01:25+00:00",
+    "url": "https://3dprintingindustry.com/news/pulsed-arc-3d-printing-produces-meter-tall-titanium-single-crystals-256242/?utm_source=rss&utm_medium=rss&utm_campaign=pulsed-arc-3d-printing-produces-meter-tall-titanium-single-crystals",
+    "forced_tags": [],
+    "title_en": "Pulsed Arc 3D Printing Produces Meter-Tall Titanium Single Crystals",
+    "summary_bullets_en": [
+      "Researchers from China and the US have successfully 3D printed meter-tall titanium alloy single crystals.",
+      "The study, published in Nature, overcomes previous limitations in metal additive manufacturing regarding large-scale single-crystal production.",
+      "Single-crystal metals are highly valued for their superior performance in extreme environments compared to traditional polycrystalline structures."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumný tým z Číny a USA úspěšně vytiskl 3D tiskem metrové monokrystaly slitiny titanu.",
+      "Studie publikovaná v časopise Nature překonává dosavadní omezení v aditivní výrobě kovů při produkci velkých monokrystalů.",
+      "Monokrystalické kovy vykazují vynikající vlastnosti v extrémních podmínkách ve srovnání s běžnými polykrystalickými strukturami."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "3D Printing",
+      "Titanium",
+      "Single Crystals",
+      "Additive Manufacturing",
+      "Pulsed Arc"
+    ]
+  },
+  {
+    "title": "Společnost restor3d uvádí kyčelní jamku Velora na trh a dokončuje první operace kolene s využitím Identity KA",
+    "summary": "US orthopedic company restor3d is putting its Velora Acetabular System into full commercial release this month. Velora is a 3D printed titanium hip cup that has finished its limited market release. The company has also completed the first surgical cases using Identity Kinematic Alignment (KA), the newest planning option on its patient-specific knee platform.&#160; It&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/restor3d_AAHKS2026_BusinessWire_Graphic_2-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-06T09:00:55+00:00",
+    "url": "https://3dprintingindustry.com/news/restor3d-moves-velora-hip-cup-to-full-commercial-release-and-completes-first-identity-ka-knee-cases-256256/?utm_source=rss&utm_medium=rss&utm_campaign=restor3d-moves-velora-hip-cup-to-full-commercial-release-and-completes-first-identity-ka-knee-cases",
+    "forced_tags": [],
+    "title_en": "restor3d Moves Velora Hip Cup to Full Commercial Release and Completes First Identity KA Knee Cases",
+    "summary_bullets_en": [
+      "restor3d has launched its 3D-printed titanium Velora Acetabular System into full commercial release following a successful limited market phase.",
+      "The company successfully performed the first surgeries using its new Identity Kinematic Alignment (KA) planning option for knee replacements.",
+      "These milestones expand the company's portfolio of patient-specific orthopedic solutions enabled by additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Americká ortopedická společnost restor3d uvádí tento měsíc do plného komerčního prodeje svůj 3D tištěný titanový systém kyčelní jamky Velora.",
+      "Společnost rovněž úspěšně provedla první chirurgické zákroky s využitím Identity Kinematic Alignment (KA), což je nejnovější možnost plánování pro její platformu kolenních náhrad na míru.",
+      "Tento krok představuje přechod z omezeného testování na trhu k plné dostupnosti těchto inovativních 3D tištěných implantátů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "restor3d",
+      "Velora",
+      "Identity KA",
+      "3D Printing",
+      "Orthopedics"
+    ]
+  },
+  {
+    "title": "Od skenu chodidla k sandálu: Arkema a Carbon rozšiřují spolupráci v oblasti 3D tištěných elastomerů",
+    "summary": "Chemical company Arkema and 3D printer manufacturer Carbon have strengthened a collaboration that now spans more than 13 years. They are pitching their combined materials and production expertise as a way for brands to bring 3D printed footwear, sporting goods and other consumer products to market. Carbon develops high-performance elastomeric resins for its Digital Light&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/1793806009631-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-06T09:00:26+00:00",
+    "url": "https://3dprintingindustry.com/news/from-foot-scan-to-sandal-arkema-and-carbon-expand-collaboration-on-3d-printed-elastomers-256259/?utm_source=rss&utm_medium=rss&utm_campaign=from-foot-scan-to-sandal-arkema-and-carbon-expand-collaboration-on-3d-printed-elastomers",
+    "forced_tags": [],
+    "title_en": "From Foot Scan to Sandal: Arkema and Carbon Expand Collaboration on 3D Printed Elastomers",
+    "summary_bullets_en": [
+      "Arkema and Carbon have extended their 13-year partnership to accelerate the production of 3D printed consumer goods.",
+      "The collaboration focuses on combining high-performance elastomeric resins with advanced Digital Light Synthesis technology.",
+      "Brands can now leverage this joint expertise to bring customized footwear and sporting equipment to market more efficiently."
+    ],
+    "summary_bullets_cs": [
+      "Chemická společnost Arkema a výrobce 3D tiskáren Carbon posílili svou spolupráci, která trvá již více než 13 let.",
+      "Firmy nabízejí své kombinované know-how v oblasti materiálů a výroby jako způsob, jakým mohou značky uvádět na trh 3D tištěnou obuv, sportovní potřeby a další spotřební zboží.",
+      "Společnost Carbon vyvíjí vysoce výkonné elastomerové pryskyřice pro svou technologii Digital Light Synthesis."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Arkema",
+      "Carbon",
+      "3D Printing",
+      "Footwear",
+      "Elastomers"
+    ]
+  },
+  {
+    "title": "HP a Hyperion spolupracují na 3D tisku karbidu wolframu pomocí technologie Metal Jet",
+    "summary": "HP Additive Manufacturing and Hyperion Materials &#38; Technologies have signed a Strategic Preferred Partner Agreement to bring tungsten carbide (WC) additive manufacturing (AM) into commercial use. Announced in Barcelona on October 28, the deal pairs HP’s Metal Jet binder jetting platform with Hyperion’s WC sintering and finishing operations. The aim is to make rapid prototyping&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/hp-hyperion-tungsten-carbide-binder-jet-partnershi-1-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-11-06T08:58:09+00:00",
+    "url": "https://3dprintingindustry.com/news/hp-and-hyperion-partner-on-3d-printed-tungsten-carbide-production-with-metal-jet-256246/?utm_source=rss&utm_medium=rss&utm_campaign=hp-and-hyperion-partner-on-3d-printed-tungsten-carbide-production-with-metal-jet",
+    "forced_tags": [],
+    "title_en": "HP and Hyperion Partner on 3D Printed Tungsten Carbide Production with Metal Jet",
+    "summary_bullets_en": [
+      "HP and Hyperion Materials & Technologies have formed a strategic partnership to commercialize tungsten carbide 3D printing.",
+      "The collaboration integrates HP’s Metal Jet binder jetting technology with Hyperion’s expertise in sintering and finishing.",
+      "The initiative aims to accelerate the production of complex tungsten carbide parts for industrial applications."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti HP Additive Manufacturing a Hyperion Materials & Technologies podepsaly strategickou dohodu o komerčním využití 3D tisku karbidu wolframu (WC).",
+      "Partnerství kombinuje platformu HP Metal Jet (binder jetting) s odbornými znalostmi společnosti Hyperion v oblasti sintrování a dokončovacích operací.",
+      "Cílem spolupráce je zrychlení prototypování a výroby vysoce odolných průmyslových komponentů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Services",
+      "HP",
+      "Hyperion Materials & Technologies",
+      "Metal Jet",
+      "Tungsten Carbide",
+      "Binder Jetting"
+    ]
+  },
+  {
+    "title": "Strojové učení předpovídá pevnost hliníkových dílů tištěných metodou Wire Arc",
+    "summary": "Wire arc additive manufacturing (WAAM) has become an important metal additive manufacturing (metal AM) method for large structural parts, offering fast deposition, efficient material use and flexible robotic setups. With aluminum, though, part quality depends heavily on process settings. Researchers from King Faisal University in Saudi Arabia, Dr. Mahalingam College of Engineering and Technology and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Kit-robotico-ABB-con-muestras-de-soldadura-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-11-06T08:57:00+00:00",
+    "url": "https://3dprintingindustry.com/news/machine-learning-predicts-wire-arc-3d-printed-aluminum-strength-256249/?utm_source=rss&utm_medium=rss&utm_campaign=machine-learning-predicts-wire-arc-3d-printed-aluminum-strength",
+    "forced_tags": [],
+    "title_en": "Machine Learning Predicts Wire Arc 3D Printed Aluminum Strength",
+    "summary_bullets_en": [
+      "Wire Arc Additive Manufacturing (WAAM) is increasingly used for large-scale metal structural components due to its efficiency and flexibility.",
+      "Aluminum printing via WAAM is highly sensitive to process parameters, which directly impact the final mechanical quality of the parts.",
+      "Researchers from Saudi Arabia and India are utilizing machine learning models to accurately predict and optimize the strength of aluminum parts produced through this method."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba pomocí elektrického oblouku (WAAM) se stává klíčovou metodou pro tvorbu velkých kovových konstrukčních dílů díky rychlosti a efektivitě.",
+      "Kvalita hliníkových výtisků vytvořených metodou WAAM je silně závislá na přesném nastavení procesních parametrů.",
+      "Výzkumníci z King Faisal University a dalších institucí využívají modely strojového učení k předpovídání a optimalizaci pevnosti hliníkových součástí."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "WAAM",
+      "Machine Learning",
+      "Aluminum",
+      "Metal Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "AI studie odhalila velké rozdíly v pevnosti výplní 3D tisků",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972463580/0/fabbaloo/default~AI-Study-Finds-Big-Strength-Differences-in-D-Printing-Infill\" rel=\"nofollow\" title=\"AI Study Finds Big Strength Differences in 3D Printing Infill\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/infill-pattern-ai-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Changing two print settings more than doubled the measured tensile strength of a 3D printed part.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972463580/0/fabbaloo/default~AI-Study-Finds-Big-Strength-Differences-in-D-Printing-Infill\" rel=\"nofollow\">AI Study Finds Big Strength Differences in 3D Printing Infill</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/infill-pattern-ai-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-06T08:52:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972463580/0/fabbaloo/default~AI-Study-Finds-Big-Strength-Differences-in-D-Printing-Infill",
+    "forced_tags": [],
+    "title_en": "AI Study Finds Big Strength Differences in 3D Printing Infill",
+    "summary_bullets_en": [
+      "A recent study utilized artificial intelligence to analyze how different infill settings impact the structural integrity of 3D printed parts.",
+      "Researchers discovered that adjusting just two specific print parameters can more than double the tensile strength of a component.",
+      "The findings highlight the potential for AI-driven optimization to significantly improve the mechanical performance of additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Nedávná studie využila umělou inteligenci k analýze toho, jak různá nastavení výplně ovlivňují strukturální integritu 3D tištěných dílů.",
+      "Výzkumníci zjistili, že úprava pouhých dvou konkrétních parametrů tisku může více než zdvojnásobit pevnost v tahu daného komponentu.",
+      "Zjištění zdůrazňují potenciál optimalizace řízené umělou inteligencí pro výrazné zlepšení mechanických vlastností v aditivní výrobě."
+    ],
+    "tags": [
+      "Software",
+      "Research",
+      "3D Printing",
+      "Infill",
+      "Artificial Intelligence",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "title": "Finanční výsledky 3D tisku: Digitální výroba Nikonu vzrostla o 77 %, Sam O’Leary přechází do dozorčí rady",
+    "summary": "Nikon (TYO: 7731) just announced its earnings for Q2 (fiscal year ending March &#8217;27), and we learned that the digital manufacturing business grew revenue by 77 percent to ¥17.4 billion...",
+    "image": "https://3dprint.com/wp-content/uploads/2024/02/IMG_3309-scaled.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-06T08:00:57+00:00",
+    "url": "https://3dprint.com/336291/3d-printing-financials-nikons-digital-manufacturing-revenue-grows-77-as-sam-oleary-moves-to-supervisory-board/",
+    "forced_tags": [],
+    "title_en": "3D Printing Financials: Nikon’s Digital Manufacturing Revenue Grows 77% as Sam O’Leary Moves to Supervisory Board",
+    "summary_bullets_en": [
+      "Nikon reported a significant 77% revenue increase in its digital manufacturing division, reaching ¥17.4 billion in Q2.",
+      "The financial results reflect the company's strong performance in the additive manufacturing sector for the fiscal year ending March 2027.",
+      "Sam O’Leary, a key figure in the company's 3D printing strategy, is transitioning to the Supervisory Board."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Nikon oznámila výrazný nárůst tržeb v divizi digitální výroby o 77 % na 17,4 miliardy jenů za druhé čtvrtletí.",
+      "Finanční výsledky potvrzují silnou pozici společnosti v sektoru aditivní výroby pro fiskální rok končící v březnu 2027.",
+      "Sam O’Leary, klíčová postava strategie 3D tisku společnosti, odchází z operativního řízení do dozorčí rady."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Nikon",
+      "Nikon SLM Solutions",
+      "Digital Manufacturing",
+      "Financial Results"
+    ]
+  },
+  {
     "title": "3D-Fuel trvale snižuje ceny filamentů",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/972428219/0/fabbaloo/default~DFuel-Permanently-Drops-Filament-Prices\" rel=\"nofollow\" title=\"3D-Fuel Permanently Drops Filament Prices\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/3d-fuel-discount-perm-cover.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>3D-Fuel is dropping prices, again.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972428219/0/fabbaloo/default~DFuel-Permanently-Drops-Filament-Prices\" rel=\"nofollow\">3D-Fuel Permanently Drops Filament Prices</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/3d-fuel-discount-perm-cover.jpeg",
