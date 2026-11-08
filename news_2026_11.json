@@ -1,5 +1,96 @@
 [
   {
+    "title": "Novinky ze světa 3D tisku, 7. listopadu 2026: Opravy, akvizice, 3D modely, AI a další",
+    "summary": "We&#8217;re starting off this weekend&#8217;s 3D Printing News Briefs with military news, then on to business and compliance. We&#8217;ll end with a 3D model partnership. Read on for all the...",
+    "image": "https://3dprint.com/wp-content/uploads/2025/05/IMG_1658.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-07T13:30:32+00:00",
+    "url": "https://3dprint.com/336334/3d-printing-news-briefs-11-7-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, November 7, 2026: Repair, Acquisition, 3D Models, AI, & More",
+    "summary_bullets_en": [
+      "Military sector updates regarding 3D printing applications.",
+      "Business developments including corporate acquisitions and compliance news.",
+      "Strategic partnership focused on the expansion of 3D model libraries.",
+      "Integration of AI technologies within the additive manufacturing workflow."
+    ],
+    "summary_bullets_cs": [
+      "Aktuality z vojenského sektoru týkající se využití 3D tisku.",
+      "Obchodní zprávy zahrnující firemní akvizice a novinky v oblasti shody s předpisy.",
+      "Strategické partnerství zaměřené na rozšiřování knihoven 3D modelů.",
+      "Integrace technologií umělé inteligence do procesů aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Military",
+      "AI",
+      "3D Modeling"
+    ]
+  },
+  {
+    "title": "Řešení problémů s dodavatelským řetězcem: Jak aditivní výroba představuje budoucnost amerického letectva a technologie proudových motorů",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972555620/0/fabbaloo/default~Solving-Supply-Issues-How-Additive-Manufacturing-Represents-the-Future-of-the-US-Air-Force-and-Jet-Engine-Technology\" rel=\"nofollow\" title=\"Solving Supply Issues: How Additive Manufacturing Represents the Future of the U.S. Air Force and Jet Engine Technology\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/Filename-_465.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Charles R. Goulding and Kate Esposito reveal how additive manufacturing could help the Air Force break free from lengthy casting and forging bottlenecks while powering the next generation of drone swarms and uncrewed aircraft.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972555620/0/fabbaloo/default~Solving-Supply-Issues-How-Additive-Manufacturing-Represents-the-Future-of-the-US-Air-Force-and-Jet-Engine-Technology\" rel=\"nofollow\">Solving Supply Issues: How Additive Manufacturing Represents the Future of the U.S. Air Force and Jet Engine Technology</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/Filename-_465.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-07T12:22:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972555620/0/fabbaloo/default~Solving-Supply-Issues-How-Additive-Manufacturing-Represents-the-Future-of-the-US-Air-Force-and-Jet-Engine-Technology",
+    "forced_tags": [],
+    "title_en": "Solving Supply Issues: How Additive Manufacturing Represents the Future of the U.S. Air Force and Jet Engine Technology",
+    "summary_bullets_en": [
+      "Additive manufacturing is being leveraged to overcome critical supply chain bottlenecks in traditional casting and forging processes.",
+      "The U.S. Air Force is adopting 3D printing to accelerate the production and maintenance of advanced jet engine components.",
+      "This technology is essential for scaling the development of next-generation drone swarms and uncrewed aerial systems."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba se využívá k překonání kritických úzkých hrdel v dodavatelském řetězci, která vznikají při tradičním odlévání a kování.",
+      "Americké letectvo zavádí 3D tisk pro zrychlení výroby a údržby komponentů pokročilých proudových motorů.",
+      "Tato technologie je klíčová pro rozšiřování vývoje příští generace rojů dronů a bezpilotních letounů."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Manufacturing",
+      "U.S. Air Force",
+      "Jet Engines",
+      "Aerospace",
+      "Supply Chain"
+    ]
+  },
+  {
+    "title": "Hrůza! Některé materiály pro 3D tisk jsou „toxičtější, než se myslelo“...",
+    "summary": "Co zjistili vědci z Lékařské fakulty UK v Plzni, proč běžný test nemusí stačit a z čeho si raději netisknout vykrajovátka ani náramek na každý den?",
+    "image": "https://blog.aditivni.cz/_astro/Hobby-vs-profi-3D-tisk-vsechno-spatne.Couo3k2O.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-11-07T11:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/materialy-pro-3d-tisk-toxictejsi-nez-se-myslelo/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Horror! Some 3D printing materials are 'more toxic than previously thought'...",
+    "summary_bullets_en": [
+      "Researchers from Charles University in Pilsen discovered that common 3D printing materials can release harmful substances.",
+      "Standard safety tests may be insufficient, as they often fail to account for the chemical reactions occurring during the printing process.",
+      "Experts advise against using certain filaments for items that come into frequent contact with skin or food, such as cookie cutters or bracelets.",
+      "The study highlights the need for stricter safety standards and better awareness regarding the toxicity of materials used in home 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Vědci z Lékařské fakulty UK v Plzni zjistili, že běžné materiály pro 3D tisk mohou uvolňovat nebezpečné látky.",
+      "Standardní testy bezpečnosti nemusí být dostatečné, protože často nezohledňují chemické procesy probíhající při samotném tisku.",
+      "Odborníci varují před používáním některých filamentů pro předměty, které přicházejí do styku s jídlem nebo kůží, jako jsou vykrajovátka či náramky.",
+      "Studie zdůrazňuje nutnost přísnějších bezpečnostních norem a lepší informovanosti uživatelů o toxicitě materiálů v domácím 3D tisku."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing Safety",
+      "Charles University",
+      "Filament",
+      "Health Risks",
+      "ADITIVNI.cz"
+    ]
+  },
+  {
     "title": "Callaway Golf vybuduje v Texasu závod na 3D tisk v hodnotě 15 milionů dolarů",
     "summary": "Callaway Golf is set to invest $15 million in a Fort Worth, Texas 3D printing factory For many years, golf companies have flirted with 3D printing. Callaway made a putter...",
     "image": "https://3dprint.com/wp-content/uploads/2026/11/no-logo-02_Family-Shot_Mobile_600600.png",
