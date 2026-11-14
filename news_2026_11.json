@@ -1,5 +1,492 @@
 [
   {
+    "title": "Investice 500 milionů dolarů umožní společnosti VulcanForms postavit 3 nové továrny na 3D tisk a zdvojnásobit počet zaměstnanců",
+    "summary": "With its latest funding round of $500 million, following a funding round just 10 months ago in which it brought in $220 million, Massachusetts-based VulcanForms now has cumulative all-time funding...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/first-grid-top-right.webp",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-13T18:00:08+00:00",
+    "url": "https://3dprint.com/336874/500m-round-enables-vulcanforms-to-add-3-new-am-factories-double-its-workforce/",
+    "forced_tags": [],
+    "title_en": "$500M Round Enables VulcanForms to Add 3 New AM Factories, Double Its Workforce",
+    "summary_bullets_en": [
+      "VulcanForms secured $500 million in a new funding round, bringing its total capital raised to a significant milestone.",
+      "The company plans to utilize the investment to construct three additional additive manufacturing factories.",
+      "The expansion strategy includes doubling the current workforce to scale production capabilities.",
+      "This follows a previous $220 million funding round completed just 10 months ago."
+    ],
+    "summary_bullets_cs": [
+      "Společnost VulcanForms se sídlem v Massachusetts získala v novém investičním kole 500 milionů dolarů.",
+      "Finanční prostředky budou využity k výstavbě tří nových továren pro aditivní výrobu.",
+      "Firma plánuje v rámci expanze zdvojnásobit počet svých zaměstnanců.",
+      "Tato investice navazuje na předchozí kolo financování ve výši 220 milionů dolarů, které proběhlo před pouhými 10 měsíci."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "VulcanForms",
+      "Additive Manufacturing",
+      "Investment"
+    ]
+  },
+  {
+    "title": "Vlastnost materiálu pro 3D tisk, na kterou často zapomínáme",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972951260/0/fabbaloo/default~The-D-Printing-Material-Property-We-Often-Forget\" rel=\"nofollow\" title=\"The 3D Printing Material Property We Often Forget\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/co2e-idea-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>When choosing a 3D printing material, we usually start with the conditions that part must survive.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972951260/0/fabbaloo/default~The-D-Printing-Material-Property-We-Often-Forget\" rel=\"nofollow\">The 3D Printing Material Property We Often Forget</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/co2e-idea-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-13T16:16:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972951260/0/fabbaloo/default~The-D-Printing-Material-Property-We-Often-Forget",
+    "forced_tags": [],
+    "title_en": "The 3D Printing Material Property We Often Forget",
+    "summary_bullets_en": [
+      "Engineers typically prioritize mechanical performance and environmental resistance when selecting 3D printing materials.",
+      "The article highlights a frequently overlooked property that is becoming increasingly critical in modern manufacturing.",
+      "Sustainability and carbon footprint (CO2e) are identified as the essential factors that are often ignored during the material selection process."
+    ],
+    "summary_bullets_cs": [
+      "Při výběru materiálů pro 3D tisk se obvykle zaměřujeme především na mechanické vlastnosti a odolnost vůči okolním podmínkám.",
+      "Článek upozorňuje na často opomíjenou vlastnost, která je však v moderní výrobě stále důležitější.",
+      "Udržitelnost a uhlíková stopa (CO2e) jsou klíčové faktory, na které se při výběru materiálu často zapomíná."
+    ],
+    "tags": [
+      "Material",
+      "Sustainability",
+      "Carbon Footprint",
+      "Manufacturing",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Na viděnou na Formnext 2026",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972947000/0/fabbaloo/default~See-You-At-Formnext\" rel=\"nofollow\" title=\"See You At Formnext 2026\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/formnext-2026-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>In only a few days, it is Formnext Week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972947000/0/fabbaloo/default~See-You-At-Formnext\" rel=\"nofollow\">See You At Formnext 2026</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/formnext-2026-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-13T15:12:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972947000/0/fabbaloo/default~See-You-At-Formnext",
+    "forced_tags": [],
+    "title_en": "See You At Formnext 2026",
+    "summary_bullets_en": [
+      "Formnext 2026 is approaching rapidly.",
+      "The industry's premier additive manufacturing event begins in just a few days.",
+      "The global 3D printing community is preparing to gather for the annual exhibition."
+    ],
+    "summary_bullets_cs": [
+      "Veletrh Formnext 2026 se nezadržitelně blíží.",
+      "Přední světová akce v oblasti aditivní výroby začíná již za několik dní.",
+      "Komunita 3D tisku se připravuje na každoroční setkání a výstavu novinek."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Formnext",
+      "Additive Manufacturing",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Vítězi náleží kořist: Armáda USA vytiskla na 3D tiskárně rotační motor na těžká paliva",
+    "summary": "A US Army project has led to the 3D printing of a multi-fuel engine. Also called a heavy fuel engine, jet fuel engine, or kerosene engine, these engines are a...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/army3.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-13T14:00:37+00:00",
+    "url": "https://3dprint.com/336590/to-the-victor-belong-the-spoils-army-3d-prints-heavy-fuel-rotary-engine/",
+    "forced_tags": [],
+    "title_en": "To the VICTOR Belong the Spoils: Army 3D Prints Heavy-Fuel Rotary Engine",
+    "summary_bullets_en": [
+      "The US Army has successfully 3D printed a multi-fuel rotary engine designed for versatile military operations.",
+      "Known as a heavy-fuel engine, it is capable of running on jet fuel or kerosene, simplifying logistics in the field.",
+      "This project highlights the growing role of additive manufacturing in producing complex, high-performance propulsion systems for defense applications."
+    ],
+    "summary_bullets_cs": [
+      "Americká armáda úspěšně vytiskla na 3D tiskárně rotační motor na více druhů paliv, který je určen pro všestranné vojenské operace.",
+      "Motor, známý jako motor na těžká paliva, dokáže spalovat letecký petrolej nebo kerosin, což zjednodušuje logistiku v terénu.",
+      "Tento projekt zdůrazňuje rostoucí roli aditivní výroby při produkci komplexních a vysoce výkonných pohonných systémů pro obranné účely."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "US Army",
+      "Rotary Engine",
+      "Heavy-Fuel Engine",
+      "Defense Technology"
+    ]
+  },
+  {
+    "title": "iAM Marketplace předvede na veletrhu Formnext 2026 vstřikování plastů pomocí 3D tištěných forem RG 3280",
+    "summary": "Live polypropylene molding and examples of dissolvable xMOLD tooling will show how printed molds can support product development in intended thermoplastics. iAM Marketplace will demonstrate injection molding with 3D printed Ultracur3D RG 3280 tooling at Formnext 2026, using an APSX-PIM V3 to mold polypropylene parts. Alongside the live process, the company will display examples of&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/RG3280-MD-Electronik-Molds-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-11-13T13:44:56+00:00",
+    "url": "https://3dprintingindustry.com/news/iam-marketplace-to-demonstrate-injection-molding-with-rg-3280-printed-tooling-at-formnext-2026-256615/?utm_source=rss&utm_medium=rss&utm_campaign=iam-marketplace-to-demonstrate-injection-molding-with-rg-3280-printed-tooling-at-formnext-2026",
+    "forced_tags": [],
+    "title_en": "iAM Marketplace to demonstrate injection molding with RG 3280 printed tooling at Formnext 2026",
+    "summary_bullets_en": [
+      "iAM Marketplace will showcase live polypropylene injection molding using 3D printed Ultracur3D RG 3280 tooling.",
+      "The demonstration will utilize the APSX-PIM V3 machine to highlight the efficiency of printed molds in product development.",
+      "The exhibit will also feature examples of dissolvable xMOLD tooling to demonstrate advanced manufacturing capabilities."
+    ],
+    "summary_bullets_cs": [
+      "iAM Marketplace předvede živé vstřikování polypropylenu s využitím 3D tištěných forem z materiálu Ultracur3D RG 3280.",
+      "Demonstrace proběhne na stroji APSX-PIM V3 a ukáže, jak mohou tištěné formy podpořit vývoj produktů z termoplastů.",
+      "Kromě živého procesu společnost vystaví ukázky rozpustných forem xMOLD."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "iAM Marketplace",
+      "BASF Forward AM",
+      "APSX",
+      "Formnext",
+      "Injection Molding"
+    ]
+  },
+  {
+    "title": "Stratasys a Nano Dimension ruší dohodu o akvizici Markforged v hodnotě 42,5 milionu dolarů",
+    "summary": "Stratasys (Nasdaq: SSYS) will no longer acquire Markforged from Nano Dimension (Nasdaq: NNDM) after the two companies agreed to cancel their $42.5 million deal. The decision, announced on November 12,...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/05/SMG_Stratasys_and_Markforged_0526a3.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-13T13:30:04+00:00",
+    "url": "https://3dprint.com/336846/stratasys-and-nano-dimension-cancel-42-5m-markforged-deal/",
+    "forced_tags": [],
+    "title_en": "Stratasys and Nano Dimension Cancel $42.5M Markforged Deal",
+    "summary_bullets_en": [
+      "Stratasys has officially terminated the agreement to acquire Markforged from Nano Dimension.",
+      "The deal, originally valued at $42.5 million, was mutually cancelled by both companies.",
+      "The announcement was made on November 12, marking a significant shift in the industry's consolidation landscape."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Stratasys již nehodlá převzít firmu Markforged od společnosti Nano Dimension poté, co se obě strany dohodly na zrušení obchodu v hodnotě 42,5 milionu dolarů.",
+      "Rozhodnutí, které bylo oznámeno 12. listopadu, ukončuje plánovanou akvizici mezi těmito klíčovými hráči na trhu 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "Nano Dimension",
+      "Markforged",
+      "Mergers and Acquisitions",
+      "Industry News"
+    ]
+  },
+  {
+    "title": "Patent společnosti GE navrhuje 3D tiskárny s práškovým ložem a automatickým doplňováním",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972942089/0/fabbaloo/default~GE-Patent-Proposes-SelfRefilling-Powder-Bed-D-Printers\" rel=\"nofollow\" title=\"GE Patent Proposes Self-Refilling Powder Bed 3D Printers\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/ge-powder-supply-patent-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>GE has found a way to automatically refill powder hoppers on 3D printers.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972942089/0/fabbaloo/default~GE-Patent-Proposes-SelfRefilling-Powder-Bed-D-Printers\" rel=\"nofollow\">GE Patent Proposes Self-Refilling Powder Bed 3D Printers</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/ge-powder-supply-patent-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-13T13:02:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972942089/0/fabbaloo/default~GE-Patent-Proposes-SelfRefilling-Powder-Bed-D-Printers",
+    "forced_tags": [],
+    "title_en": "GE Patent Proposes Self-Refilling Powder Bed 3D Printers",
+    "summary_bullets_en": [
+      "General Electric has filed a patent for an automated powder replenishment system for powder bed 3D printers.",
+      "The technology aims to eliminate manual intervention by automatically refilling powder hoppers during the printing process.",
+      "This innovation could significantly increase the efficiency and reliability of industrial additive manufacturing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Společnost GE si nechala patentovat systém pro automatické doplňování prášku u 3D tiskáren s práškovým ložem.",
+      "Technologie má za cíl eliminovat nutnost manuálního zásahu tím, že automaticky doplňuje zásobníky prášku během procesu tisku.",
+      "Tato inovace by mohla výrazně zvýšit efektivitu a spolehlivost průmyslové aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "GE",
+      "Additive Manufacturing",
+      "Powder Bed Fusion",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Western Report #16: BLESKOVÁ ZPRÁVA! Stratasys odstupuje od akvizice Markforged! A Dyndrite míří do tiskáren Xact Metal",
+    "summary": "Plus $500 million for VulcanForms, a mixed quarter for Velo3D, and an open laser toolpath format from the 3MF Consortium",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/6838708e-6092-42cb-9d19-d4ca5088fcae_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-11-13T13:01:03+00:00",
+    "url": "https://www.3dprintingjournal.com/p/western-report-16-breaking-news-stratasys",
+    "forced_tags": [],
+    "title_en": "Western Report #16: BREAKING NEWS! Stratasys walks away from Markforged acquisition! And Dyndrite moves into Xact Metal printers",
+    "summary_bullets_en": [
+      "Stratasys has officially terminated its plans to acquire Markforged.",
+      "Dyndrite is expanding its software integration to support Xact Metal 3D printers.",
+      "VulcanForms secured $500 million in funding, while Velo3D reports mixed financial results.",
+      "The 3MF Consortium has introduced a new open-source format for laser toolpaths."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Stratasys oficiálně ukončila plány na akvizici firmy Markforged.",
+      "Dyndrite rozšiřuje integraci svého softwaru pro podporu 3D tiskáren Xact Metal.",
+      "VulcanForms získali investici 500 milionů dolarů, zatímco Velo3D hlásí smíšené čtvrtletní výsledky.",
+      "Konsorcium 3MF představilo nový otevřený formát pro laserové dráhy nástroje."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Stratasys",
+      "Markforged",
+      "Dyndrite",
+      "Xact Metal",
+      "VulcanForms",
+      "Velo3D",
+      "3MF Consortium"
+    ]
+  },
+  {
+    "title": "Studio 3E8 uvede na trh stolní kovovou 3D tiskárnu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972938444/0/fabbaloo/default~Studio-E-to-Launch-a-Desktop-Metal-D-Printer\" rel=\"nofollow\" title=\"Studio 3E8 to Launch a Desktop Metal 3D Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/studio-3e8-mesa1-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Stealth startup Studio 3E8 revealed an inexpensive desktop metal 3D printer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972938444/0/fabbaloo/default~Studio-E-to-Launch-a-Desktop-Metal-D-Printer\" rel=\"nofollow\">Studio 3E8 to Launch a Desktop Metal 3D Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/studio-3e8-mesa1-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-13T11:08:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972938444/0/fabbaloo/default~Studio-E-to-Launch-a-Desktop-Metal-D-Printer",
+    "forced_tags": [],
+    "title_en": "Studio 3E8 to Launch a Desktop Metal 3D Printer",
+    "summary_bullets_en": [
+      "Stealth startup Studio 3E8 has unveiled a new, affordable desktop metal 3D printer.",
+      "The company aims to make metal additive manufacturing more accessible through a compact form factor.",
+      "This announcement marks the emergence of a new player in the competitive metal 3D printing market."
+    ],
+    "summary_bullets_cs": [
+      "Dosud utajený startup Studio 3E8 představil cenově dostupnou stolní 3D tiskárnu na kov.",
+      "Cílem společnosti je zpřístupnit aditivní výrobu kovů díky kompaktnímu provedení zařízení.",
+      "Toto oznámení znamená příchod nového hráče na trh s kovovým 3D tiskem."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "Studio 3E8",
+      "Desktop 3D Printer",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "ATLIX představí na veletrhu Formnext 2026 systém xBUILD 5000 a robotickou automatizaci",
+    "summary": "ATLIX, a metal additive manufacturing systems provider, will present its complete machine portfolio, customer applications and an automation concept at Formnext 2026 in Frankfurt from 17 to 20 November, marking its second appearance at the event since its carve-out from TRUMPF. A central display will focus on the xBUILD 5000, the manufacturer’s production-scale laser lowder&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/ATLIX_Formnext_booth_xBUILD5000-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-13T10:56:21+00:00",
+    "url": "https://3dprintingindustry.com/news/atlix-to-showcase-xbuild-5000-and-robotic-automation-at-formnext-2026-256543/?utm_source=rss&utm_medium=rss&utm_campaign=atlix-to-showcase-xbuild-5000-and-robotic-automation-at-formnext-2026",
+    "forced_tags": [],
+    "title_en": "ATLIX to Showcase xBUILD 5000 and Robotic Automation at Formnext 2026",
+    "summary_bullets_en": [
+      "ATLIX will present its full range of metal additive manufacturing systems and automation solutions at Formnext 2026.",
+      "The company will highlight the xBUILD 5000, its production-scale laser powder bed fusion machine.",
+      "This marks the company's second appearance at the Frankfurt trade fair following its separation from TRUMPF."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ATLIX představí na veletrhu Formnext 2026 ve Frankfurtu své kompletní portfolio systémů pro aditivní výrobu kovů a koncepty automatizace.",
+      "Hlavním bodem expozice bude produkční 3D tiskárna xBUILD 5000 využívající technologii laserového spékání prášku.",
+      "Pro firmu jde o druhou účast na tomto veletrhu od jejího vyčlenění ze společnosti TRUMPF."
+    ],
+    "tags": [
+      "Hardware",
+      "Automation",
+      "Metal Additive Manufacturing",
+      "ATLIX",
+      "TRUMPF",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "Společnost PPprint představuje flexibilní filament P-TPO 835 pro 3D tisk z polypropylenu",
+    "summary": "PPprint GmbH, a company offering polypropylene materials and accessories for extrusion-based 3D printing, has introduced P-TPO 835 flex, a flexible filament for soft, adaptable and impact-resistant parts. Listed properties include low weight, chemical resistance, strong layer adhesion, recyclability, no water absorption and sterilizability. Product documentation also identifies certified biological safety under DIN EN ISO 10993-5&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Filament-flex-black-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-13T10:34:52+00:00",
+    "url": "https://3dprintingindustry.com/news/ppprint-introduces-flexible-p-tpo-835-filament-for-polypropylene-3d-printing-256460/?utm_source=rss&utm_medium=rss&utm_campaign=ppprint-introduces-flexible-p-tpo-835-filament-for-polypropylene-3d-printing",
+    "forced_tags": [],
+    "title_en": "PPprint Introduces Flexible P-TPO 835 Filament for Polypropylene 3D Printing",
+    "summary_bullets_en": [
+      "PPprint GmbH has launched P-TPO 835 flex, a new flexible filament designed for extrusion-based 3D printing.",
+      "The material offers key benefits including high impact resistance, chemical durability, low weight, and excellent layer adhesion.",
+      "It is non-hygroscopic, fully recyclable, and meets DIN EN ISO 10993-5 standards for biological safety.",
+      "The filament is ideal for creating soft, adaptable parts that require sterilization."
+    ],
+    "summary_bullets_cs": [
+      "Společnost PPprint GmbH uvedla na trh P-TPO 835 flex, nový flexibilní filament určený pro 3D tisk metodou vytlačování.",
+      "Materiál nabízí nízkou hmotnost, chemickou odolnost, silnou adhezi vrstev a vysokou odolnost proti nárazu.",
+      "Filament neabsorbuje vlhkost, je plně recyklovatelný a splňuje certifikaci biologické bezpečnosti dle normy DIN EN ISO 10993-5.",
+      "Díky možnosti sterilizace je materiál vhodný pro výrobu měkkých a přizpůsobivých dílů."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Polypropylene",
+      "PPprint",
+      "Filament",
+      "Flexible Materials"
+    ]
+  },
+  {
+    "title": "LLNL zkracuje výrobu komponentů terčů pro NIF z deseti dnů na jeden pomocí dvoufotonové polymerace",
+    "summary": "Lawrence Livermore National Laboratory (LLNL) is now making compound parabolic concentrators (CPCs) for targets at its National Ignition Facility (NIF) with two-photon polymerization (2PP), a laser-based additive manufacturing (AM) process. Printing the cone in one piece has cut its production time from ten days to one. The method has also opened up new target configurations&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Ext_Additive1_1200x800-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-13T10:05:47+00:00",
+    "url": "https://3dprintingindustry.com/news/llnl-cuts-nif-target-component-production-from-ten-days-to-one-with-two-photon-polymerization-256578/?utm_source=rss&utm_medium=rss&utm_campaign=llnl-cuts-nif-target-component-production-from-ten-days-to-one-with-two-photon-polymerization",
+    "forced_tags": [],
+    "title_en": "LLNL Cuts NIF Target Component Production from Ten Days to One with Two-Photon Polymerization",
+    "summary_bullets_en": [
+      "Lawrence Livermore National Laboratory (LLNL) adopted two-photon polymerization (2PP) to manufacture compound parabolic concentrators for the National Ignition Facility.",
+      "The transition to this laser-based additive manufacturing process reduced production time for target components from ten days to just one.",
+      "The new 3D printing approach enables the creation of complex target geometries that were previously impossible to produce."
+    ],
+    "summary_bullets_cs": [
+      "Lawrence Livermore National Laboratory (LLNL) začalo využívat dvoufotonovou polymeraci (2PP) k výrobě složených parabolických koncentrátorů pro své zařízení National Ignition Facility (NIF).",
+      "Přechod na tento laserový aditivní výrobní proces zkrátil dobu výroby jednoho komponentu z deseti dnů na pouhý jeden den.",
+      "Tato metoda 3D tisku navíc otevřela možnosti pro vytváření nových a komplexnějších konfigurací terčů."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "Two-Photon Polymerization",
+      "2PP",
+      "LLNL",
+      "NIF",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "AltForm představí na veletrhu Formnext 2026 rozšiřitelné modulární DED buňky ZENIT pro titanové a hliníkové díly",
+    "summary": "Italian metal additive manufacturing (metal AM) and laser systems maker AltForm will introduce ZENIT Modular at Formnext 2026 in Frankfurt. ZENIT Modular is a family of Directed Energy Deposition (DED) cells in three sizes, from 2 x 2 m to 4 x 4 m. Modules can be added after purchase, so manufacturers can increase capacity&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Print_Brilliance_400_background_industrial-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-13T09:44:02+00:00",
+    "url": "https://3dprintingindustry.com/news/altform-to-debut-expandable-zenit-modular-ded-cells-for-titanium-and-aluminum-parts-at-formnext-2026-256572/?utm_source=rss&utm_medium=rss&utm_campaign=altform-to-debut-expandable-zenit-modular-ded-cells-for-titanium-and-aluminum-parts-at-formnext-2026",
+    "forced_tags": [],
+    "title_en": "AltForm to Debut Expandable ZENIT Modular DED Cells for Titanium and Aluminum Parts at Formnext 2026",
+    "summary_bullets_en": [
+      "Italian manufacturer AltForm will unveil its new ZENIT Modular DED system at Formnext 2026.",
+      "The system features three size configurations ranging from 2x2 meters to 4x4 meters.",
+      "A key innovation is the modular design, allowing users to expand the machine's capacity post-purchase.",
+      "The technology is specifically optimized for processing titanium and aluminum metal parts."
+    ],
+    "summary_bullets_cs": [
+      "Italský výrobce AltForm představí na veletrhu Formnext 2026 v německém Frankfurtu svůj nový systém ZENIT Modular.",
+      "ZENIT Modular je řada buněk pro přímé nanášení energie (DED) dostupná ve třech velikostech od 2x2 m až po 4x4 m.",
+      "Hlavní výhodou je možnost přidávat moduly i po zakoupení, což výrobcům umožňuje flexibilně navyšovat kapacitu.",
+      "Systém je navržen pro efektivní výrobu kovových komponentů z titanu a hliníku."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal AM",
+      "DED",
+      "AltForm",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "Akvizice společnosti Kelvion firmou SLB v hodnotě 4,1 miliardy USD: Přechod od ropy a plynu k datovým centrům pro AI s pomocí 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/972933710/0/fabbaloo/default~SLB%e2%80%99s-US-Billion-Kelvion-Deal-Transferring-From-Oil-Gas-to-AI-Data-Centers-With-Help-from-D-Printing\" rel=\"nofollow\" title=\"SLB’s US$4.1 Billion Kelvion Deal: Transferring From Oil &amp; Gas to AI Data Centers With Help from 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/Filename-_474.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Charles R. Goulding and Preeti Sulibhavi connect the dots between SLB, Kelvion, Apollo, AI data centers and 3D printing in a deal that could reshape how critical infrastructure is designed and cooled.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972933710/0/fabbaloo/default~SLB%e2%80%99s-US-Billion-Kelvion-Deal-Transferring-From-Oil-Gas-to-AI-Data-Centers-With-Help-from-D-Printing\" rel=\"nofollow\">SLB’s US$4.1 Billion Kelvion Deal: Transferring From Oil &amp; Gas to AI Data Centers With Help from 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/Filename-_474.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-13T08:34:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/972933710/0/fabbaloo/default~SLB%e2%80%99s-US-Billion-Kelvion-Deal-Transferring-From-Oil-Gas-to-AI-Data-Centers-With-Help-from-D-Printing",
+    "forced_tags": [],
+    "title_en": "SLB’s US$4.1 Billion Kelvion Deal: Transferring From Oil & Gas to AI Data Centers With Help from 3D Printing",
+    "summary_bullets_en": [
+      "SLB is acquiring Kelvion for US$4.1 billion, signaling a strategic pivot from the oil and gas sector toward the rapidly growing AI data center market.",
+      "The deal highlights the critical role of advanced thermal management and cooling infrastructure required for high-performance AI computing.",
+      "3D printing technology is expected to play a key role in designing and manufacturing the complex, efficient heat exchangers needed for these next-generation data centers."
+    ],
+    "summary_bullets_cs": [
+      "Společnost SLB kupuje firmu Kelvion za 4,1 miliardy USD, což značí strategický odklon od ropného a plynárenského průmyslu směrem k rychle rostoucímu trhu datových center pro AI.",
+      "Obchod zdůrazňuje zásadní význam pokročilého tepelného managementu a chladicí infrastruktury, které jsou nezbytné pro vysoce výkonné výpočty v oblasti umělé inteligence.",
+      "Technologie 3D tisku bude hrát klíčovou roli při návrhu a výrobě komplexních a vysoce účinných výměníků tepla potřebných pro tuto novou generaci datových center."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "SLB",
+      "Kelvion",
+      "Apollo",
+      "AI Data Centers",
+      "Thermal Management",
+      "Heat Exchangers"
+    ]
+  },
+  {
+    "title": "Finanční výsledky 3D tisku: Stratasys zdvojnásobil zisk na akcii, tržby v letectví a obraně vzrostly o 35 %",
+    "summary": "Third-quarter earnings results in the AM industry have been quite instructive: every area of the industry tells us a slightly different story, but when you take them all as a...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/Stratasys_F3300.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-13T08:00:13+00:00",
+    "url": "https://3dprint.com/336790/3d-printing-financials-stratasys-doubles-eps-yoy-aerospace-defense-revenue-grows-35-yoy/",
+    "forced_tags": [],
+    "title_en": "3D Printing Financials: Stratasys Doubles EPS YOY, Aerospace & Defense Revenue Grows 35%",
+    "summary_bullets_en": [
+      "Stratasys reported a significant year-over-year doubling of its earnings per share (EPS).",
+      "The company saw a robust 35% revenue growth within the aerospace and defense sectors.",
+      "Third-quarter financial results across the additive manufacturing industry reveal diverse performance trends among key players."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Stratasys vykázala meziroční zdvojnásobení zisku na akcii (EPS).",
+      "Firma zaznamenala výrazný 35% růst tržeb v sektorech letectví a obrany.",
+      "Finanční výsledky za třetí čtvrtletí v odvětví aditivní výroby ukazují na různorodé trendy výkonnosti mezi klíčovými hráči."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Stratasys",
+      "Aerospace",
+      "Defense",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "FKM testuje nevydanou polymerovou platformu EOS a hlásí 67% nárůst produktivity u interní součástky",
+    "summary": "FKM Additive Manufacturing achieved a 67 percent increase in productivity in one application on EOS’s upcoming polymer additive manufacturing (AM) platform, according to an EOS case study. Build time per part for the component dropped from 3 hours 10 minutes to 1 hour 54 minutes compared with the contract manufacturer’s previous machine. FKM specializes in&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/EOS_Machine_MysteryVisual-media-f9fb8a03-query2x.ee373913-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-13T07:02:01+00:00",
+    "url": "https://3dprintingindustry.com/news/fkm-tests-unreleased-eos-polymer-platform-reports-67-productivity-gain-on-in-house-part-256498/?utm_source=rss&utm_medium=rss&utm_campaign=fkm-tests-unreleased-eos-polymer-platform-reports-67-productivity-gain-on-in-house-part",
+    "forced_tags": [],
+    "title_en": "FKM Tests Unreleased EOS Polymer Platform, Reports 67% Productivity Gain on In-House Part",
+    "summary_bullets_en": [
+      "FKM Additive Manufacturing tested an upcoming EOS polymer 3D printing platform.",
+      "The new technology delivered a 67% increase in productivity for a specific component.",
+      "Build time per part was significantly reduced from 3 hours 10 minutes to 1 hour 54 minutes.",
+      "The results highlight the efficiency improvements of the next-generation EOS hardware."
+    ],
+    "summary_bullets_cs": [
+      "Společnost FKM Additive Manufacturing dosáhla 67% zvýšení produktivity u jedné aplikace na připravované polymerové platformě od společnosti EOS.",
+      "Čas výroby jedné součástky se zkrátil ze 3 hodin a 10 minut na 1 hodinu a 54 minut ve srovnání s předchozím strojem.",
+      "Tento úspěch potvrzuje efektivitu nové technologie, kterou EOS plánuje uvést na trh."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "EOS",
+      "FKM Additive Manufacturing",
+      "Polymer 3D Printing"
+    ]
+  },
+  {
+    "title": "Výzkumníci z Brestu vytiskli 3D fantom plic s vestavěnou plicní embolií pro CT a nukleární zobrazování",
+    "summary": "Researchers at University Hospital of Brest in France have 3D printed a fillable left lung model that simulates a pulmonary embolism (PE). They built it on a Formlabs Fuse 1+ selective laser sintering (SLS) system. The model is meant to give CT and nuclear medicine scans a known reference to measure against. In tests, a&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Captura-de-pantalla-2026-11-11-a-las-2.21.23-p.m-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-11-13T06:30:35+00:00",
+    "url": "https://3dprintingindustry.com/news/brest-researchers-3d-print-lung-phantom-with-built-in-pulmonary-embolism-for-ct-and-nuclear-imaging-256506/?utm_source=rss&utm_medium=rss&utm_campaign=brest-researchers-3d-print-lung-phantom-with-built-in-pulmonary-embolism-for-ct-and-nuclear-imaging",
+    "forced_tags": [],
+    "title_en": "Brest Researchers 3D Print Lung Phantom with Built-In Pulmonary Embolism for CT and Nuclear Imaging",
+    "summary_bullets_en": [
+      "Researchers at the University Hospital of Brest developed a 3D-printed left lung phantom to simulate pulmonary embolism.",
+      "The model was produced using the Formlabs Fuse 1+ SLS 3D printer.",
+      "It serves as a standardized reference tool for calibrating and validating CT and nuclear medicine imaging scans."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci z univerzitní nemocnice v Brestu ve Francii vytiskli 3D model levé plíce, který simuluje plicní embolii.",
+      "Model byl vyroben pomocí technologie selektivního laserového spékání (SLS) na tiskárně Formlabs Fuse 1+.",
+      "Cílem modelu je poskytnout referenční nástroj pro přesné měření a kalibraci při CT a nukleárních vyšetřeních."
+    ],
+    "tags": [
+      "Hardware",
+      "Medical",
+      "Formlabs",
+      "SLS",
+      "3D Printing",
+      "Healthcare"
+    ]
+  },
+  {
     "title": "Společnost Lynxel představila nové resinové 3D tiskárny podporující viskozitu 300 000 cP",
     "summary": "If you run a small manufacturing shop or a product design studio, you’ve watched consumer resin printers get remarkably capable over the past few years. Budget machines can now handle tougher engineering resins, and the print quality is genuinely impressive.&#160; But there are still limits. Most desktop resin printers rely on passive material flow, which&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/LMS-Illustration-1-150x100.jpg",
