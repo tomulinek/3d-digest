@@ -1,5 +1,611 @@
 [
   {
+    "title": "Společnost Fives AddUp zpřístupňuje stroje FormUp softwaru Dyndrite",
+    "summary": "Fives AddUp integrates Dyndrite LPBF Pro, giving FormUp users programmable build preparation and greater control over laser processing",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/8e9d1163-1f5c-4351-bebb-1ea0de4e5f45_700x500.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-11-17T18:15:31+00:00",
+    "url": "https://www.3dprintingjournal.com/p/fives-addup-opens-formup-machines",
+    "forced_tags": [],
+    "title_en": "Fives AddUp opens FormUp machines to Dyndrite software",
+    "summary_bullets_en": [
+      "Fives AddUp has integrated Dyndrite LPBF Pro software into its FormUp 3D printing systems.",
+      "The partnership provides users with advanced, programmable build preparation tools.",
+      "Operators gain significantly greater control over laser processing parameters for improved print quality.",
+      "This integration aims to streamline workflows and enhance the capabilities of metal additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Fives AddUp integrovala software Dyndrite LPBF Pro do svých 3D tiskáren řady FormUp.",
+      "Partnerství poskytuje uživatelům pokročilé nástroje pro programovatelnou přípravu tiskových úloh.",
+      "Operátoři získávají větší kontrolu nad parametry laserového zpracování pro dosažení vyšší kvality tisku.",
+      "Integrace má za cíl zefektivnit pracovní postupy a rozšířit možnosti aditivní výroby kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Fives AddUp",
+      "Dyndrite",
+      "Metal Additive Manufacturing",
+      "LPBF"
+    ]
+  },
+  {
+    "title": "Summit o inovacích a standardech v aditivní výrobě na veletrhu Formnext 2026",
+    "summary": "A part qualified in Frankfurt should be trusted in Houston, Seoul, or Tokyo, and the reverse. That was the proposition on one of ASTM International&#8216;s opening slides at the AM...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/ASTM-summit-pic-1-1024x768.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-17T17:52:47+00:00",
+    "url": "https://3dprint.com/337136/the-am-innovation-and-standards-summit-at-formnext-2026/",
+    "forced_tags": [],
+    "title_en": "The AM Innovation and Standards Summit at Formnext 2026",
+    "summary_bullets_en": [
+      "ASTM International emphasized the need for global standardization in additive manufacturing.",
+      "The goal is to ensure that parts produced in different locations meet identical quality requirements.",
+      "Interoperability and trust across international supply chains are key drivers for the industry.",
+      "The summit focused on creating a unified framework for AM quality assurance worldwide."
+    ],
+    "summary_bullets_cs": [
+      "Organizace ASTM International zdůraznila potřebu globální standardizace v aditivní výrobě.",
+      "Cílem je zajistit, aby díly vyrobené na různých místech světa splňovaly identické požadavky na kvalitu.",
+      "Klíčovými faktory pro průmysl jsou vzájemná zaměnitelnost a důvěra v mezinárodní dodavatelské řetězce.",
+      "Summit se zaměřil na vytvoření jednotného rámce pro zajišťování kvality v 3D tisku po celém světě."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "ASTM International",
+      "Formnext",
+      "Additive Manufacturing",
+      "Standardization"
+    ]
+  },
+  {
+    "title": "Snapmaker přináší na veletrh Formnext 2026 ekosystém U1 a plnospektrální míchání barev",
+    "summary": "Shenzhen-based 3D printer manufacturer Snapmaker is exhibiting at Formnext 2026 in Frankfurt with its U1 toolchanger 3D printer and the range of products it has built around the machine this year: new accessories, more filaments and a model-sharing platform. The company has spent 2026 turning the U1 from a single printer into a wider platform.&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/1794572220497-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-17T17:23:49+00:00",
+    "url": "https://3dprintingindustry.com/news/snapmaker-brings-u1-ecosystem-and-full-spectrum-color-mixing-to-formnext-2026-256694/?utm_source=rss&utm_medium=rss&utm_campaign=snapmaker-brings-u1-ecosystem-and-full-spectrum-color-mixing-to-formnext-2026",
+    "forced_tags": [],
+    "title_en": "Snapmaker Brings U1 Ecosystem and Full Spectrum Color Mixing to Formnext 2026",
+    "summary_bullets_en": [
+      "Snapmaker is showcasing its U1 toolchanger 3D printer at Formnext 2026 in Frankfurt.",
+      "The company has expanded the U1 into a comprehensive ecosystem featuring new accessories and advanced color-mixing capabilities.",
+      "The platform now includes a wider range of filaments and a dedicated model-sharing community for users."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce 3D tiskáren Snapmaker ze Shenzhenu představuje na veletrhu Formnext 2026 ve Frankfurtu svou tiskárnu U1 s výměnnou hlavou.",
+      "Společnost během roku 2026 přeměnila U1 ze samostatné tiskárny na širší platformu zahrnující nové příslušenství a možnosti míchání barev.",
+      "Ekosystém nyní doplňuje rozšířená nabídka filamentů a nová platforma pro sdílení modelů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Snapmaker",
+      "3D Printing",
+      "Formnext 2026"
+    ]
+  },
+  {
+    "title": "Společnost VulcanForms kupuje 200 3D tiskáren EOS M4 ONYX",
+    "summary": "Fresh off its record $500M raise, Vulcanforms has announced that it will buy 200 EOS M4 ONYX LPBF systems. These will be installed in Devens, Massachusetts, where there are already...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/VulcanForms-Production-Floor-in-Devens-Massachusetts-1024x819.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-17T16:52:31+00:00",
+    "url": "https://3dprint.com/337106/vulcanforms-buys-200-eos-onyx-3d-printers/",
+    "forced_tags": [],
+    "title_en": "VulcanForms Buys 200 EOS M4 ONYX 3D Printers",
+    "summary_bullets_en": [
+      "VulcanForms is acquiring 200 EOS M4 ONYX LPBF 3D printing systems.",
+      "The purchase follows the company's recent successful $500 million funding round.",
+      "The new machines will be installed at their production facility in Devens, Massachusetts.",
+      "This expansion significantly scales the company's industrial additive manufacturing capacity."
+    ],
+    "summary_bullets_cs": [
+      "Společnost VulcanForms kupuje 200 systémů pro 3D tisk metodou LPBF typu EOS M4 ONYX.",
+      "Nákup následuje krátce po rekordním investičním kole, ve kterém firma získala 500 milionů dolarů.",
+      "Tiskárny budou instalovány v provozovně v Devens ve státě Massachusetts, kde již firma působí.",
+      "Tato investice výrazně navyšuje výrobní kapacity společnosti v oblasti průmyslové aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "VulcanForms",
+      "EOS",
+      "LPBF",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "AI hacking dorazil do odvětví 3D tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973192355/0/fabbaloo/default~AI-Hacking-Has-Arrived-In-The-D-Printing-Industry\" rel=\"nofollow\" title=\"AI Hacking Has Arrived In The 3D Printing Industry\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/hacked-prusa-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Your 3D printer might be the next target for an AI-powered hacker.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973192355/0/fabbaloo/default~AI-Hacking-Has-Arrived-In-The-D-Printing-Industry\" rel=\"nofollow\">AI Hacking Has Arrived In The 3D Printing Industry</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/hacked-prusa-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-17T16:19:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973192355/0/fabbaloo/default~AI-Hacking-Has-Arrived-In-The-D-Printing-Industry",
+    "forced_tags": [],
+    "title_en": "AI Hacking Has Arrived In The 3D Printing Industry",
+    "summary_bullets_en": [
+      "The 3D printing industry is facing a new security threat as hackers begin utilizing AI to target connected devices.",
+      "Modern 3D printers, often connected to networks, are becoming vulnerable entry points for cyberattacks.",
+      "Users are warned that their equipment could be compromised by automated, AI-driven hacking attempts.",
+      "The rise of AI-powered threats necessitates a greater focus on cybersecurity protocols within the additive manufacturing sector."
+    ],
+    "summary_bullets_cs": [
+      "Odvětví 3D tisku čelí nové bezpečnostní hrozbě, protože hackeři začínají využívat umělou inteligenci k útokům na připojená zařízení.",
+      "Moderní 3D tiskárny, které jsou často připojeny k síti, se stávají zranitelnými vstupními body pro kybernetické útoky.",
+      "Uživatelé jsou varováni, že jejich vybavení může být kompromitováno automatizovanými pokusy o hackování řízenými AI.",
+      "Nárůst hrozeb poháněných umělou inteligencí vyžaduje větší zaměření na protokoly kybernetické bezpečnosti v sektoru aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Cybersecurity",
+      "3D Printing",
+      "Artificial Intelligence",
+      "Network Security"
+    ]
+  },
+  {
+    "title": "Simplify3D 6.0 vydáno!",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973182287/0/fabbaloo/default~SimplifyD-Released\" rel=\"nofollow\" title=\"Simplify3D 6.0 Released!\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/simplify3d-60-logo.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Well, if this isn’t a surprise, I don’t know what is.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973182287/0/fabbaloo/default~SimplifyD-Released\" rel=\"nofollow\">Simplify3D 6.0 Released!</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/simplify3d-60-logo.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-17T15:00:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973182287/0/fabbaloo/default~SimplifyD-Released",
+    "forced_tags": [],
+    "title_en": "Simplify3D 6.0 Released!",
+    "summary_bullets_en": [
+      "Simplify3D has officially launched version 6.0 of its popular 3D printing slicing software.",
+      "The release comes as a surprise to the 3D printing community.",
+      "This update marks a significant milestone for the long-standing software platform."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Simplify3D oficiálně vydala verzi 6.0 svého populárního softwaru pro přípravu 3D tisku (sliceru).",
+      "Toto vydání přišlo pro komunitu 3D tisku jako velké překvapení.",
+      "Aktualizace představuje významný milník pro tuto zavedenou softwarovou platformu."
+    ],
+    "tags": [
+      "Software",
+      "Simplify3D",
+      "3D Printing",
+      "Slicer"
+    ]
+  },
+  {
+    "title": "Společnost Farsoon uvádí na trh FS722M a Flight HT1002P-CAMS a na veletrhu Formnext představuje titanové výfuky pro hyperauta tištěné bez podpěr",
+    "summary": "Global provider of industrial additive manufacturing systems Farsoon Technologies has announced two new large-format powder bed fusion platforms to Formnext 2026: the FS722M for metal and the Flight HT1002P-CAMS for polymer. Both use Farsoon’s cartridge-based Continuous Additive Manufacturing Solution (CAMS) to reduce non-printing time in series production. The systems are on display at Farsoon Europe’s&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/2-1024x1024-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-17T14:41:20+00:00",
+    "url": "https://3dprintingindustry.com/news/farsoon-launches-fs722m-and-flight-ht1002p-cams-displays-support-free-titanium-hypercar-exhausts-at-formnext-256512/?utm_source=rss&utm_medium=rss&utm_campaign=farsoon-launches-fs722m-and-flight-ht1002p-cams-displays-support-free-titanium-hypercar-exhausts-at-formnext",
+    "forced_tags": [],
+    "title_en": "Farsoon Launches FS722M and Flight HT1002P-CAMS, Displays Support-Free Titanium Hypercar Exhausts at Formnext",
+    "summary_bullets_en": [
+      "Farsoon Technologies introduced the FS722M metal and Flight HT1002P-CAMS polymer large-format 3D printing systems.",
+      "Both platforms utilize the CAMS cartridge-based solution to minimize downtime in industrial series production.",
+      "The company is showcasing support-free titanium hypercar exhaust components at Formnext 2026."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Farsoon Technologies představila na veletrhu Formnext 2026 dvě nové velkoformátové platformy pro 3D tisk: FS722M pro kovy a Flight HT1002P-CAMS pro polymery.",
+      "Oba systémy využívají řešení CAMS založené na kazetovém systému, které zkracuje prostoje při sériové výrobě.",
+      "Firma na veletrhu prezentuje titanové výfukové systémy pro hyperauta, které byly vytištěny bez nutnosti použití podpůrných struktur."
+    ],
+    "tags": [
+      "Hardware",
+      "Farsoon Technologies",
+      "Additive Manufacturing",
+      "Metal 3D Printing",
+      "Polymer 3D Printing",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "Malé rozměry, větší výtisky: TPM3D představuje systém CF250 SLS na veletrhu Formnext 2026",
+    "summary": "At Formnext 2026 in Frankfurt this week, SLS 3D printer manufacturer TPM3D will be showcasing the CF250+PPS250, its compact, professional SLS system. While the system&#8217;s initial launch was at Formnext...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/SLS-3D-printed-polymer-brush-produced-using-the-TPM3D-CF250-1024x576.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-17T14:00:57+00:00",
+    "url": "https://3dprint.com/336441/small-footprint-bigger-builds-tpm3d-debuts-cf250-sls-system-at-formnext-2026/",
+    "forced_tags": [],
+    "title_en": "Small Footprint, Bigger Builds: TPM3D Debuts CF250 SLS System at Formnext 2026",
+    "summary_bullets_en": [
+      "TPM3D is showcasing its compact CF250+PPS250 SLS 3D printing system at Formnext 2026.",
+      "The system is designed to offer professional-grade SLS capabilities within a smaller physical footprint.",
+      "The presentation highlights the company's focus on efficiency and space-saving industrial manufacturing solutions."
+    ],
+    "summary_bullets_cs": [
+      "Společnost TPM3D na veletrhu Formnext 2026 představuje svůj kompaktní profesionální SLS 3D tiskový systém CF250+PPS250.",
+      "Zařízení je navrženo tak, aby poskytovalo možnosti SLS tisku průmyslové kvality při zachování malých rozměrů.",
+      "Prezentace zdůrazňuje zaměření společnosti na efektivitu a prostorově úsporná řešení pro průmyslovou výrobu."
+    ],
+    "tags": [
+      "Hardware",
+      "SLS",
+      "3D Printing",
+      "TPM3D",
+      "Formnext 2026",
+      "Industrial Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost ICON zahájila komerční projekt o rozloze 1 175 m² kombinující tištěné stěny a ocelovou konstrukci",
+    "summary": "Construction technology company ICON has begun 3D printing its largest commercial building to date, a 12,649 square-foot exhibition and training center for heavy equipment dealer ASCO Equipment in San Antonio, Texas. The project pairs robotically printed curved walls with a nearly 60 ton steel superstructure, a hybrid approach designed to accommodate both occupied spaces and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/ICON_3D-printed_CommercialBuiding_For_ASCO_Rear-Daytime-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-17T13:20:00+00:00",
+    "url": "https://3dprintingindustry.com/news/icon-begins-12649-sq-ft-commercial-project-combining-printed-walls-and-steel-structure-256756/?utm_source=rss&utm_medium=rss&utm_campaign=icon-begins-12649-sq-ft-commercial-project-combining-printed-walls-and-steel-structure",
+    "forced_tags": [],
+    "title_en": "ICON begins 12,649 sq ft commercial project combining printed walls and steel structure",
+    "summary_bullets_en": [
+      "ICON has launched its largest 3D-printed commercial project to date in San Antonio, Texas.",
+      "The 12,649-square-foot facility serves as an exhibition and training center for ASCO Equipment.",
+      "The design utilizes a hybrid construction method, integrating robotically printed curved walls with a 60-ton steel superstructure."
+    ],
+    "summary_bullets_cs": [
+      "Společnost ICON zahájila výstavbu své dosud největší 3D tištěné komerční budovy v texaském San Antoniu.",
+      "Objekt o rozloze 1 175 metrů čtverečních bude sloužit jako výstavní a školicí centrum pro prodejce těžké techniky ASCO Equipment.",
+      "Projekt využívá hybridní přístup, který kombinuje roboticky tištěné zakřivené stěny s ocelovou nosnou konstrukcí o hmotnosti téměř 60 tun."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Construction",
+      "ICON",
+      "ASCO Equipment",
+      "3D Concrete Printing"
+    ]
+  },
+  {
+    "title": "Nordic AM Alliance přiveze na Formnext 2026 společný pavilon",
+    "summary": "The Nordic Additive Manufacturing Alliance (NAMA) will have a shared Nordic Pavilion at Formnext 2026 in Frankfurt from November 17 to 20. The pavilion is in Hall 12.0, Stand F101, and brings together additive manufacturing companies and research organizations from Finland, Sweden, Norway and Denmark, each exhibiting under its national flag. Exhibitors include Delva, VTT,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/1793011218895-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-17T13:17:00+00:00",
+    "url": "https://3dprintingindustry.com/news/nordic-am-alliance-brings-joint-pavilion-to-formnext-2026-256683/?utm_source=rss&utm_medium=rss&utm_campaign=nordic-am-alliance-brings-joint-pavilion-to-formnext-2026",
+    "forced_tags": [],
+    "title_en": "Nordic AM Alliance Brings Joint Pavilion to Formnext 2026",
+    "summary_bullets_en": [
+      "The Nordic Additive Manufacturing Alliance (NAMA) will host a collaborative pavilion at Formnext 2026 in Frankfurt.",
+      "The exhibition will take place from November 17 to 20 in Hall 12.0, Stand F101.",
+      "Companies and research institutions from Finland, Sweden, Norway, and Denmark will showcase their innovations under national flags.",
+      "Confirmed exhibitors include organizations such as Delva and VTT."
+    ],
+    "summary_bullets_cs": [
+      "Aliance Nordic Additive Manufacturing Alliance (NAMA) uspořádá na veletrhu Formnext 2026 ve Frankfurtu společný severský pavilon.",
+      "Akce se uskuteční ve dnech 17. až 20. listopadu v hale 12.0 na stánku F101.",
+      "Firmy a výzkumné organizace z Finska, Švédska, Norska a Dánska budou vystavovat pod svými národními vlajkami.",
+      "Mezi potvrzené vystavovatele patří například společnosti Delva a VTT."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "NAMA",
+      "Delva",
+      "VTT",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "Nová 3D tiskárna pro děti od společnosti Creality: mBox",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973171922/0/fabbaloo/default~Crealitys-new-Kids-D-Printer-the-mBox\" rel=\"nofollow\" title=\"Creality&#8217;s new Kids 3D Printer, the mBox\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/creality-mbox-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Creality has launched a new 3D printer for kids, the mBox.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973171922/0/fabbaloo/default~Crealitys-new-Kids-D-Printer-the-mBox\" rel=\"nofollow\">Creality&#8217;s new Kids 3D Printer, the mBox</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/creality-mbox-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-17T13:17:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973171922/0/fabbaloo/default~Crealitys-new-Kids-D-Printer-the-mBox",
+    "forced_tags": [],
+    "title_en": "Creality’s new Kids 3D Printer, the mBox",
+    "summary_bullets_en": [
+      "Creality has officially introduced the mBox, a new 3D printer specifically designed for children.",
+      "The device aims to make 3D printing accessible and safe for younger users.",
+      "This launch expands Creality's product portfolio into the educational and family-oriented market segment."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Creality oficiálně představila mBox, novou 3D tiskárnu navrženou speciálně pro děti.",
+      "Zařízení má za cíl zpřístupnit 3D tisk mladším uživatelům bezpečným a jednoduchým způsobem.",
+      "Tímto uvedením na trh Creality rozšiřuje své portfolio produktů do segmentu vzdělávání a rodinné zábavy."
+    ],
+    "tags": [
+      "Hardware",
+      "Creality",
+      "3D Printing",
+      "Education",
+      "Kids"
+    ]
+  },
+  {
+    "title": "Stratasys uvádí na veletrhu Formnext tiskárnu H550 SAF: Dvojnásobná kapacita, jedna stanice pro šest strojů",
+    "summary": "Stratasys has launched two production systems at Formnext 2026 in Frankfurt: the H550, a Selective Absorption Fusion (SAF) printer with 34.2 liters of build space, and PowderEase T2, a station that automates post-print powder handling. Visitors can see both at booth D129 in Hall 12.1. Orders are being taken now, and the first deliveries are&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/H550-and-T2-Render-Picture-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-11-17T12:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/stratasys-launches-h550-saf-printer-at-formnext-double-capacity-one-station-for-six-machines-256417/?utm_source=rss&utm_medium=rss&utm_campaign=stratasys-launches-h550-saf-printer-at-formnext-double-capacity-one-station-for-six-machines",
+    "forced_tags": [],
+    "title_en": "Stratasys Launches H550 SAF Printer at Formnext: Double Capacity, One Station for Six Machines",
+    "summary_bullets_en": [
+      "Stratasys unveiled the H550 SAF printer featuring a 34.2-liter build volume at Formnext 2026.",
+      "The new PowderEase T2 station automates powder management for up to six printers simultaneously.",
+      "Both systems are currently available for order, with initial deliveries scheduled soon.",
+      "Attendees can view live demonstrations of the new hardware at booth D129 in Hall 12.1."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Stratasys představila na veletrhu Formnext 2026 v Frankfurtu tiskárnu H550 využívající technologii SAF s tiskovým objemem 34,2 litru.",
+      "Byla uvedena stanice PowderEase T2, která automatizuje manipulaci s práškem po tisku a obslouží až šest strojů.",
+      "Návštěvníci si mohou novinky prohlédnout ve stánku D129 v hale 12.1.",
+      "Objednávky jsou již v běhu a první dodávky budou brzy následovat."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "SAF Technology",
+      "Formnext",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Digitální operační sál: Nová kapitola společnosti Medtronic může být vítězstvím pro 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973164761/0/fabbaloo/default~The-Digital-Operating-Room-Medtronic%e2%80%99s-Next-Chapter-Could-Be-a-Win-for-D-Printing\" rel=\"nofollow\" title=\"The Digital Operating Room: Medtronic’s Next Chapter Could Be a Win for 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/image-1.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"391\" /></a><p>Charles R. Goulding and Preeti Sulibhavi look at how Medtronic is connecting AI, mathematics, robotics and personalized medical technology, opening the door to new applications for additive manufacturing.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973164761/0/fabbaloo/default~The-Digital-Operating-Room-Medtronic%e2%80%99s-Next-Chapter-Could-Be-a-Win-for-D-Printing\" rel=\"nofollow\">The Digital Operating Room: Medtronic’s Next Chapter Could Be a Win for 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/image-1.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-11-17T11:53:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973164761/0/fabbaloo/default~The-Digital-Operating-Room-Medtronic%e2%80%99s-Next-Chapter-Could-Be-a-Win-for-D-Printing",
+    "forced_tags": [],
+    "title_en": "The Digital Operating Room: Medtronic’s Next Chapter Could Be a Win for 3D Printing",
+    "summary_bullets_en": [
+      "Medtronic is integrating AI, advanced mathematics, and robotics to transform the modern operating room.",
+      "The convergence of these digital technologies creates significant new opportunities for personalized medical solutions.",
+      "Additive manufacturing is positioned to play a key role in producing the customized devices required for this new digital surgical ecosystem."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Medtronic integruje umělou inteligenci, pokročilou matematiku a robotiku s cílem transformovat moderní operační sály.",
+      "Propojení těchto digitálních technologií otevírá nové možnosti pro personalizované lékařské technologie.",
+      "Aditivní výroba bude hrát klíčovou roli při produkci zakázkových zdravotnických prostředků pro tento nový digitální chirurgický ekosystém."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Medtronic",
+      "3D Printing",
+      "Additive Manufacturing",
+      "Medical Technology",
+      "AI",
+      "Robotics"
+    ]
+  },
+  {
+    "title": "Pět zákazníků již validovalo polymerový AM systém HELIOR od společnosti EOS",
+    "summary": "I gotta say, the approach that EOS takes to machine development impresses me. Last year, when the OEM launched the M4 ONYX at Formnext, my post on the launch focused...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/Formrise-eomotion®-hand-one-Gen2-scaled.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-17T10:00:47+00:00",
+    "url": "https://3dprint.com/336890/five-customers-have-already-validated-eoss-helior-polymer-am-system/",
+    "forced_tags": [],
+    "title_en": "Five Customers Have Already Validated EOS’s HELIOR Polymer AM System",
+    "summary_bullets_en": [
+      "EOS has successfully validated its new HELIOR polymer additive manufacturing system with five initial customers.",
+      "The company continues to impress industry observers with its strategic approach to machine development.",
+      "This milestone follows the successful launch of the M4 ONYX system at last year's Formnext event.",
+      "The HELIOR system represents the latest step in EOS's ongoing expansion of its polymer 3D printing portfolio."
+    ],
+    "summary_bullets_cs": [
+      "Společnost EOS úspěšně validovala svůj nový polymerový systém pro aditivní výrobu HELIOR u pěti prvních zákazníků.",
+      "Přístup společnosti k vývoji strojů nadále působí na odborníky v oboru velmi pozitivním dojmem.",
+      "Tento milník navazuje na úspěšné uvedení systému M4 ONYX na loňském veletrhu Formnext.",
+      "Systém HELIOR představuje další krok v neustálém rozšiřování portfolia polymerového 3D tisku společnosti EOS."
+    ],
+    "tags": [
+      "Hardware",
+      "EOS",
+      "HELIOR",
+      "Polymer AM",
+      "3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost EOS uvádí na trh polymerovou 3D tiskárnu HELIOR se třemi lasery a až o 80 % vyšší propustností",
+    "summary": "EOS has unveiled HELIOR, a large-format selective laser sintering (SLS) system designed to improve the economics of industrial polymer 3D printing. Introduced at Formnext 2026, the machine combines three 80 W lasers, dynamic load balancing, an adjustable roller recoater and new process-control software, with EOS claiming up to 80% higher throughput and substantially reduced depowdering&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/EOS_HELIOR_Production-Floor_Creative-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-17T10:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/eos-launches-helior-polymer-3d-printer-with-triple-lasers-and-up-to-80-higher-throughput-256624/?utm_source=rss&utm_medium=rss&utm_campaign=eos-launches-helior-polymer-3d-printer-with-triple-lasers-and-up-to-80-higher-throughput",
+    "forced_tags": [],
+    "title_en": "EOS launches HELIOR polymer 3D printer with triple lasers and up to 80% higher throughput",
+    "summary_bullets_en": [
+      "EOS introduced the HELIOR SLS system at Formnext 2026, featuring a triple-laser configuration for large-format production.",
+      "The machine utilizes dynamic load balancing and an adjustable roller recoater to achieve up to 80% higher throughput.",
+      "New integrated process-control software enhances efficiency and significantly simplifies the depowdering process.",
+      "The system is specifically engineered to improve the overall cost-effectiveness of industrial polymer 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost EOS představila na veletrhu Formnext 2026 systém HELIOR, velkoformátové zařízení pro selektivní laserové spékání (SLS).",
+      "Stroj kombinuje tři 80W lasery, dynamické vyvažování zátěže a nastavitelný stěrkový systém, což umožňuje zvýšení propustnosti až o 80 %.",
+      "Nový software pro řízení procesů přináší vyšší efektivitu a výrazně zjednodušuje proces odstraňování prášku po tisku.",
+      "Systém je navržen tak, aby zlepšil ekonomiku průmyslového 3D tisku z polymerů."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "EOS",
+      "SLS",
+      "3D Printing",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Platforma MACHX od Nikonu je přesně to, co trh s kovovým 3D tiskem potřebuje",
+    "summary": "The most recent earnings report from Nikon revealed that the company&#8217;s digital manufacturing business, which includes Nikon Advanced Manufacturing and Nikon SLM Solutions, increased revenue by 77 percent YOY while considerably...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/8-181-1.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-17T09:00:13+00:00",
+    "url": "https://3dprint.com/336731/nikon-machx-platform-is-exactly-what-the-metal-am-market-needs/",
+    "forced_tags": [],
+    "title_en": "Nikon’s MACHX Platform is Exactly What the Metal AM Market Needs",
+    "summary_bullets_en": [
+      "Nikon's digital manufacturing division, encompassing Nikon Advanced Manufacturing and Nikon SLM Solutions, saw a 77% year-over-year revenue increase.",
+      "The company is successfully integrating its high-precision optical expertise into the metal additive manufacturing sector.",
+      "The new MACHX platform is positioned as a critical solution to address current scalability and precision challenges in industrial metal 3D printing."
+    ],
+    "summary_bullets_cs": [
+      "Divize digitální výroby společnosti Nikon, zahrnující Nikon Advanced Manufacturing a Nikon SLM Solutions, zaznamenala meziroční nárůst tržeb o 77 %.",
+      "Společnost úspěšně integruje své odborné znalosti v oblasti optiky do odvětví aditivní výroby kovů.",
+      "Nová platforma MACHX je vnímána jako klíčové řešení pro překonání současných výzev v oblasti škálovatelnosti a přesnosti průmyslového 3D tisku z kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "Nikon",
+      "Nikon SLM Solutions",
+      "Nikon Advanced Manufacturing",
+      "Metal AM",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "Kompromisy mezi pevností tisku a materiálovou efektivitou u PETG-CF",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973146815/0/fabbaloo/default~PETGCF-Printing-Strength-And-Material-Efficiency-Tradeoffs\" rel=\"nofollow\" title=\"PETG-CF Printing Strength And Material Efficiency Tradeoffs\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/petg-cf-research-testing-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>A carbon-fiber PETG patrt can become stronger when more material is added, but that doesn't make it better at carrying a load.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973146815/0/fabbaloo/default~PETGCF-Printing-Strength-And-Material-Efficiency-Tradeoffs\" rel=\"nofollow\">PETG-CF Printing Strength And Material Efficiency Tradeoffs</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/petg-cf-research-testing-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-17T08:49:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973146815/0/fabbaloo/default~PETGCF-Printing-Strength-And-Material-Efficiency-Tradeoffs",
+    "forced_tags": [],
+    "title_en": "PETG-CF Printing Strength And Material Efficiency Tradeoffs",
+    "summary_bullets_en": [
+      "Adding more material to PETG-CF parts increases absolute strength but does not necessarily improve load-bearing efficiency.",
+      "There is a critical balance between material density and structural performance in carbon-fiber reinforced filaments.",
+      "Engineers must consider the diminishing returns of increasing wall thickness or infill when optimizing for weight-to-strength ratios."
+    ],
+    "summary_bullets_cs": [
+      "Přidání většího množství materiálu do dílů z PETG-CF zvyšuje absolutní pevnost, ale nemusí nutně zlepšit efektivitu při přenášení zátěže.",
+      "U filamentů vyztužených uhlíkovými vlákny existuje kritická rovnováha mezi hustotou materiálu a strukturálním výkonem.",
+      "Inženýři musí při optimalizaci poměru hmotnosti a pevnosti zohlednit klesající výnosy při zvyšování tloušťky stěn nebo výplně."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "PETG-CF",
+      "Carbon Fiber",
+      "Structural Engineering",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Nejnovější oznámení společnosti HP v oblasti 3D tisku mají jedno společné",
+    "summary": "Earlier this year, Sarah Saunders reported on HP&#8217;s unveiling of the MJF 1200, a machine which, as Sarah told you, is meant to directly address the need to improve production...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/DyemensionIKA-Enviro-Photo-1-5_5140-v4a_5_-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-17T08:00:59+00:00",
+    "url": "https://3dprint.com/337041/hps-latest-3d-printing-announcements-all-have-one-thing-in-common/",
+    "forced_tags": [],
+    "title_en": "HP’s Latest 3D Printing Announcements All Have One Thing in Common",
+    "summary_bullets_en": [
+      "HP introduced the MJF 1200 3D printer earlier this year.",
+      "The machine is specifically designed to enhance industrial production capabilities.",
+      "The core focus of HP's recent announcements is the optimization of manufacturing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Začátkem tohoto roku představila společnost HP 3D tiskárnu MJF 1200.",
+      "Stroj je navržen tak, aby přímo řešil potřebu zlepšení výrobních procesů.",
+      "Hlavním tématem nedávných oznámení HP je optimalizace průmyslové produkce."
+    ],
+    "tags": [
+      "Hardware",
+      "HP",
+      "MJF",
+      "Industrial 3D Printing",
+      "Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Continuum představila na veletrhu Formnext atomizér Argos: půl megawattu a čtyři tuny prášku denně",
+    "summary": "Continuum Powders has unveiled Argos at Formnext 2026 in Frankfurt, where it is on show at booth A55 in Hall 11.0. The new melt-to-powder (M2P) atomization platform is designed to produce more than four metric tons of metal powder per day for additive and advanced manufacturing. To reach that volume, Argos combines cold-hearth plasma melting&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/1793983226814-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-17T08:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/continuum-launches-argos-atomizer-at-formnext-half-a-megawatt-four-tons-of-powder-a-day-256430/?utm_source=rss&utm_medium=rss&utm_campaign=continuum-launches-argos-atomizer-at-formnext-half-a-megawatt-four-tons-of-powder-a-day",
+    "forced_tags": [],
+    "title_en": "Continuum Launches Argos Atomizer at Formnext: Half a Megawatt, Four Tons of Powder a Day",
+    "summary_bullets_en": [
+      "Continuum Powders introduced the Argos melt-to-powder (M2P) platform at Formnext 2026.",
+      "The system utilizes cold-hearth plasma melting to achieve a production capacity of over four metric tons of metal powder daily.",
+      "The technology is specifically engineered to support high-volume additive and advanced manufacturing requirements."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Continuum Powders představila na veletrhu Formnext 2026 ve Frankfurtu platformu Argos pro výrobu kovového prášku metodou tavení (M2P).",
+      "Systém využívá plazmové tavení v chlazeném kelímku a je navržen tak, aby vyprodukoval více než čtyři tuny kovového prášku za den.",
+      "Nová technologie je určena pro potřeby velkoobjemové aditivní výroby a pokročilých průmyslových aplikací."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Continuum Powders",
+      "Formnext",
+      "Metal Additive Manufacturing",
+      "Atomization"
+    ]
+  },
+  {
+    "title": "Společnost Axtra3D získala certifikaci UL Blue Card pro nehořlavou pryskyřici na tiskárně Lumia X1 a na veletrhu Formnext 2026 rozšiřuje svůj produkční ekosystém",
+    "summary": "Hi-Speed SLA specialist Axtra3D is heading to Formnext 2026 with three announcements that extend its Axtra Workflow production environment around the Lumia X1. The first two are new Axtra Wash Series 1 and Axtra Cure Series 1 post-processing systems, which are available to order now, and the Volume Professional 1.3 and Volume Industrial 1.3 build-preparation&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-20.36.52-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-11-17T07:17:23+00:00",
+    "url": "https://3dprintingindustry.com/news/axtra3d-secures-ul-blue-card-for-flame-retardant-resin-on-lumia-x1-expands-production-ecosystem-at-formnext-2026-256516/?utm_source=rss&utm_medium=rss&utm_campaign=axtra3d-secures-ul-blue-card-for-flame-retardant-resin-on-lumia-x1-expands-production-ecosystem-at-formnext-2026",
+    "forced_tags": [],
+    "title_en": "Axtra3D Secures UL Blue Card for Flame-Retardant Resin on Lumia X1, Expands Production Ecosystem at Formnext 2026",
+    "summary_bullets_en": [
+      "Axtra3D is expanding its Lumia X1 production ecosystem with new post-processing and build-preparation solutions.",
+      "The company introduced the Axtra Wash Series 1 and Axtra Cure Series 1 systems, now available for order.",
+      "New Volume Professional 1.3 and Volume Industrial 1.3 software updates enhance build preparation workflows.",
+      "Axtra3D achieved UL Blue Card certification for its flame-retardant resin, boosting safety standards for the Lumia X1."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Axtra3D rozšiřuje svůj produkční ekosystém Lumia X1 o nová řešení pro následné zpracování a přípravu tiskových úloh.",
+      "Firma představila systémy Axtra Wash Series 1 a Axtra Cure Series 1, které jsou již nyní v prodeji.",
+      "Aktualizace softwaru Volume Professional 1.3 a Volume Industrial 1.3 přinášejí vylepšení v oblasti přípravy tiskových dat.",
+      "Axtra3D získala certifikaci UL Blue Card pro svou nehořlavou pryskyřici, čímž zvyšuje bezpečnostní standardy pro tiskárnu Lumia X1."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Axtra3D",
+      "Lumia X1",
+      "Formnext",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Společnost DyeMansion představila na veletrhu Formnext systém pro následné zpracování Powershot Go za 14 000 EUR",
+    "summary": "Polymer post-processing specialist DyeMansion has launched the Powershot Go, a compact system combining depowdering and mechanical surface finishing in a single machine. Developed with HP and validated as an HP Qualified Solution for the new MJF 1200 3D printer, the system is priced below €14,000 ($17,000) and targets laboratories, workshops and lower-volume production environments using&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/DyeMansion_Compact-Industrial-Line_Powershot-Go-and-VX1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-17T06:26:18+00:00",
+    "url": "https://3dprintingindustry.com/news/dyemansion-launches-e14k-powershot-go-post-processing-system-at-formnext-256772/?utm_source=rss&utm_medium=rss&utm_campaign=dyemansion-launches-e14k-powershot-go-post-processing-system-at-formnext",
+    "forced_tags": [],
+    "title_en": "DyeMansion launches €14K Powershot Go post-processing system at Formnext",
+    "summary_bullets_en": [
+      "DyeMansion introduced the Powershot Go, a compact all-in-one system for depowdering and surface finishing.",
+      "The machine is developed in collaboration with HP and is officially validated for the new MJF 1200 3D printer.",
+      "Priced under €14,000, the system is designed for laboratories, workshops, and low-volume production environments."
+    ],
+    "summary_bullets_cs": [
+      "Specialista na následné zpracování polymerů, společnost DyeMansion, uvedl na trh Powershot Go, kompaktní systém kombinující odprášení a mechanickou úpravu povrchu v jednom stroji.",
+      "Systém byl vyvinut ve spolupráci s HP a je certifikován jako „HP Qualified Solution“ pro novou 3D tiskárnu MJF 1200.",
+      "Zařízení s cenou pod 14 000 EUR (17 000 USD) cílí na laboratoře, dílny a provozy s nižším objemem výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Post-processing",
+      "DyeMansion",
+      "HP",
+      "3D Printing",
+      "MJF"
+    ]
+  },
+  {
     "title": "Formnext 2026: Aditivní výroba ve Spojeném království: Británie vynalezla budoucnost výroby. Proč má problém ji vyrábět?",
     "summary": "Britain helped pioneer industrial mass production and remains a centre of additive manufacturing research. Ahead of Formnext 2026, our UK Additive Manufacturing series spoke with founders, manufacturers and industry leaders describe what it takes to turn that expertise into companies that build machines, win repeat orders and train people to make the next generation of&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Craig-Pyser-at-AMufacture.-Photo-by-Michael-Petch-150x100.jpg",
