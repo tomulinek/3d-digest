@@ -1,5 +1,600 @@
 [
   {
+    "title": "Objemový 3D tisk komerčních plastů získal grant ERC ve výši 10 milionů eur",
+    "summary": "Two researchers at the University of Freiburg have received a Synergy Grant from the European Research Council (ERC) to develop 3D printing processes for low-cost commercial plastics used in industrial manufacturing. The project, called CHiC2PRINT, aims to combine the geometric freedom of 3D printing with these established materials. It is also designed so printed parts&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/hohe-eu-f-rderung-f-r-innovativen-3d-druck-150x100.jpeg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-20T04:52:23+00:00",
+    "url": "https://3dprintingindustry.com/news/volumetric-3d-printing-of-commercial-plastics-gets-e10m-erc-grant-256798/?utm_source=rss&utm_medium=rss&utm_campaign=volumetric-3d-printing-of-commercial-plastics-gets-e10m-erc-grant",
+    "forced_tags": [],
+    "title_en": "Volumetric 3D Printing of Commercial Plastics Gets €10M ERC Grant",
+    "summary_bullets_en": [
+      "Two University of Freiburg researchers secured a €10M ERC Synergy Grant for the CHiC2PRINT project.",
+      "The initiative focuses on developing volumetric 3D printing processes for affordable, industry-standard commercial plastics.",
+      "The goal is to merge the design flexibility of additive manufacturing with the reliability of established industrial materials."
+    ],
+    "summary_bullets_cs": [
+      "Dva výzkumníci z univerzity ve Freiburgu získali grant ERC Synergy ve výši 10 milionů eur na projekt CHiC2PRINT.",
+      "Cílem projektu je vyvinout procesy 3D tisku pro levné komerční plasty využívané v průmyslové výrobě.",
+      "Projekt propojuje geometrickou svobodu 3D tisku s osvědčenými materiály, které se již v průmyslu běžně používají."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Volumetric 3D Printing",
+      "CHiC2PRINT",
+      "University of Freiburg",
+      "ERC Synergy Grant"
+    ]
+  },
+  {
+    "title": "Společnost Callaway Golf investuje 15 milionů dolarů do závodu na 3D tisk titanu v Texasu",
+    "summary": "Callaway Golf Company has announced a $15 million investment in an additive manufacturing (AM) facility for titanium 3D printing in Fort Worth, Texas. The site will be next to the company’s North America Distribution Center. Callaway expects it to start operating in mid-2027 and to begin supplying part of its U.S. product needs in 2028,&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/irons-2026-quantum-max___2-1024x1024-1-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-20T04:41:03+00:00",
+    "url": "https://3dprintingindustry.com/news/callaway-golf-commits-15m-to-titanium-3d-printing-facility-in-texas-256886/?utm_source=rss&utm_medium=rss&utm_campaign=callaway-golf-commits-15m-to-titanium-3d-printing-facility-in-texas",
+    "forced_tags": [],
+    "title_en": "Callaway Golf Commits $15M to Titanium 3D Printing Facility in Texas",
+    "summary_bullets_en": [
+      "Callaway Golf is investing $15 million to build a new titanium 3D printing facility in Fort Worth, Texas.",
+      "The site will be located adjacent to the company's existing North America Distribution Center.",
+      "Operations are scheduled to begin in mid-2027, with full-scale U.S. product supply expected by 2028."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Callaway Golf oznámila investici ve výši 15 milionů dolarů do zařízení pro aditivní výrobu z titanu ve Fort Worth v Texasu.",
+      "Závod bude umístěn v sousedství severoamerického distribučního centra společnosti.",
+      "Zahájení provozu se očekává v polovině roku 2027 a dodávky produktů pro americký trh by měly začít v roce 2028."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Titanium",
+      "Additive Manufacturing",
+      "Callaway Golf"
+    ]
+  },
+  {
+    "title": "EOS představuje platformu HELIOR se třemi lasery pro SLS tisk na veletrhu Formnext 2026: Technické specifikace a ceny",
+    "summary": "EOS has introduced HELIOR, a large-format polymer additive manufacturing (AM) system based on selective laser sintering (SLS), at Formnext 2026 in Frankfurt. The machine pairs three 70 W lasers with a roller recoater whose settings can be adjusted independently. EOS built it for manufacturers running 24-hour build cycles that want to lower the cost per&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/EOS_HELIOR_Production_Floor-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-20T04:29:17+00:00",
+    "url": "https://3dprintingindustry.com/news/eos-presents-helior-triple-laser-sls-platform-at-formnext-2026-technical-specifications-and-pricing-256919/?utm_source=rss&utm_medium=rss&utm_campaign=eos-presents-helior-triple-laser-sls-platform-at-formnext-2026-technical-specifications-and-pricing",
+    "forced_tags": [],
+    "title_en": "EOS Presents HELIOR Triple-Laser SLS Platform at Formnext 2026: Technical Specifications and Pricing",
+    "summary_bullets_en": [
+      "EOS unveiled the HELIOR, a large-format SLS 3D printer, at Formnext 2026.",
+      "The system features three 70 W lasers and an adjustable roller recoater for optimized production.",
+      "Designed for continuous 24-hour operation to improve cost-efficiency in industrial manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost EOS představila na veletrhu Formnext 2026 v Frankfurtu velkoformátový systém pro aditivní výrobu polymerů HELIOR, založený na technologii selektivního laserového spékání (SLS).",
+      "Stroj kombinuje tři 70W lasery s válcovým nanášečem prášku, jehož nastavení lze nezávisle upravovat.",
+      "EOS systém vyvinul pro výrobce využívající nepřetržité 24hodinové výrobní cykly, kteří chtějí snížit náklady na díl."
+    ],
+    "tags": [
+      "Hardware",
+      "EOS",
+      "SLS",
+      "Additive Manufacturing",
+      "Industrial 3D Printing",
+      "Formnext 2026"
+    ]
+  },
+  {
+    "title": "Společnost Xenia přidává 15 % uhlíkových vláken do PEBA filamentu pro tuhé díly dronů a robotiky odolné proti nárazu",
+    "summary": "Italian materials producer Xenia has released XECARB PEBA-CF, a filament for fused filament fabrication (FFF) 3D printing that pairs a polyether block amide (PEBA) matrix with 15 percent carbon fiber. The company presented the material at Formnext 2026. The filament is meant0 for functional parts that need to be light and also take impacts and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Xenia_3DF_XECARB_PEBA-CF-optimized-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-19T17:26:33+00:00",
+    "url": "https://3dprintingindustry.com/news/xenia-adds-15-carbon-fiber-to-peba-filament-for-stiff-impact-absorbing-drone-and-robotics-parts-256882/?utm_source=rss&utm_medium=rss&utm_campaign=xenia-adds-15-carbon-fiber-to-peba-filament-for-stiff-impact-absorbing-drone-and-robotics-parts",
+    "forced_tags": [],
+    "title_en": "Xenia Adds 15% Carbon Fiber to PEBA Filament for Stiff, Impact-Absorbing Drone and Robotics Parts",
+    "summary_bullets_en": [
+      "Xenia introduced XECARB PEBA-CF, a new high-performance filament for FFF 3D printing.",
+      "The material combines a PEBA matrix with 15% carbon fiber reinforcement.",
+      "It is specifically engineered for lightweight, impact-resistant components in robotics and drone applications.",
+      "The product was officially unveiled at the Formnext 2026 trade show."
+    ],
+    "summary_bullets_cs": [
+      "Italský výrobce materiálů Xenia představil XECARB PEBA-CF, filament pro FFF 3D tisk, který kombinuje polyether-blok-amid (PEBA) s 15 % uhlíkových vláken.",
+      "Materiál byl představen na veletrhu Formnext 2026.",
+      "Filament je určen pro funkční díly, které vyžadují nízkou hmotnost a zároveň vysokou odolnost proti nárazům."
+    ],
+    "tags": [
+      "Material",
+      "Xenia",
+      "PEBA",
+      "Carbon Fiber",
+      "3D Printing",
+      "Robotics",
+      "Drones",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "ABS a Radian Forge testují, zda lze data ze senzorů využít ke kvalifikaci 3D tištěných lodních dílů",
+    "summary": "ABS and Portsmouth, Virginia-based Radian Forge have signed a joint development project (JDP). The project will evaluate whether digital manufacturing data can be used to qualify metal components built with wire arc additive manufacturing (WAAM). The agreement deals with a condition for wider use of additive manufacturing (AM) at sea. As the maritime industry looks&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/b967a9462c5248ca951f9377907cb439-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-19T17:15:51+00:00",
+    "url": "https://3dprintingindustry.com/news/abs-and-radian-forge-test-whether-sensor-data-can-qualify-3d-printed-ship-parts-256788/?utm_source=rss&utm_medium=rss&utm_campaign=abs-and-radian-forge-test-whether-sensor-data-can-qualify-3d-printed-ship-parts",
+    "forced_tags": [],
+    "title_en": "ABS and Radian Forge Test Whether Sensor Data Can Qualify 3D Printed Ship Parts",
+    "summary_bullets_en": [
+      "ABS and Radian Forge have launched a joint development project to validate metal 3D printed ship components.",
+      "The study focuses on using digital sensor data to qualify parts produced via Wire Arc Additive Manufacturing (WAAM).",
+      "The initiative aims to overcome regulatory hurdles for the wider adoption of additive manufacturing in the maritime industry."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti ABS a Radian Forge podepsaly dohodu o společném vývoji (JDP) zaměřenou na validaci kovových komponentů pro lodě.",
+      "Projekt zkoumá, zda lze digitální výrobní data ze senzorů použít ke kvalifikaci dílů vyrobených technologií WAAM (navařování elektrickým obloukem).",
+      "Cílem spolupráce je odstranit bariéry pro širší využití aditivní výroby v námořním průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "ABS",
+      "Radian Forge",
+      "WAAM",
+      "Maritime Industry",
+      "Metal 3D Printing"
+    ]
+  },
+  {
+    "title": "RECENZE: Dokáže tiskárna za 3 499 USD vytvořit skutečné kompozity se spojitým vláknem? Testujeme FibreSeeker 3",
+    "summary": "In this article, we review the FibreSeeker 3, a desktop 3D printer that combines conventional Fused Filament Fabrication (FFF) with Composite Fibre Co-extrusion (CFC), embedding continuous carbon or glass fibre into thermoplastic parts as they print. The machine is made by FibreSeek, a company founded by the original team behind composite 3D printing specialist Anisoprint.&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/8c26bd57-7498-40a0-9da8-b6e620e31de5-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-19T17:06:31+00:00",
+    "url": "https://3dprintingindustry.com/news/review-can-a-3499-printer-deliver-real-continuous-fibre-composites-testing-the-fibreseeker-3-256994/?utm_source=rss&utm_medium=rss&utm_campaign=review-can-a-3499-printer-deliver-real-continuous-fibre-composites-testing-the-fibreseeker-3",
+    "forced_tags": [],
+    "title_en": "REVIEW: Can a $3,499 Printer Deliver Real Continuous Fibre Composites? Testing the FibreSeeker 3",
+    "summary_bullets_en": [
+      "The FibreSeeker 3 is a desktop 3D printer utilizing Composite Fibre Co-extrusion (CFC) to embed continuous carbon or glass fibres into thermoplastic parts.",
+      "The machine is developed by FibreSeek, a company established by the original team behind the composite printing specialist Anisoprint.",
+      "The review evaluates whether this $3,499 device can successfully produce high-performance composite components typically reserved for industrial-grade machines."
+    ],
+    "summary_bullets_cs": [
+      "FibreSeeker 3 je stolní 3D tiskárna využívající technologii koextruze kompozitních vláken (CFC) pro vkládání spojitých uhlíkových nebo skleněných vláken do termoplastických dílů.",
+      "Stroj vyrábí společnost FibreSeek, kterou založil původní tým stojící za specialistou na kompozitní 3D tisk, firmou Anisoprint.",
+      "Recenze hodnotí, zda toto zařízení v ceně 3 499 USD dokáže úspěšně vyrábět vysoce výkonné kompozitní součásti, které byly dříve doménou průmyslových strojů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "FibreSeek",
+      "Anisoprint",
+      "3D Printing",
+      "Composite Printing",
+      "Carbon Fibre"
+    ]
+  },
+  {
+    "title": "Společnost Metamorphic AM propojila výpočetní design se simulací pomocí nástrojů Morphé a ChopMesh na veletrhu Formnext 2026",
+    "summary": "UK-based design and engineering consultancy Metamorphic AM has demonstrated a new computational design-to-simulation workflow at Formnext 2026, connecting its Morphé geometry modelling platform with Voxshell’s ChopMesh automated meshing software. The demonstration shows how complex geometries created in Rhino and Grasshopper can be transferred directly for volumetric meshing ahead of computational fluid dynamics (CFD) and finite&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/image-5-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-19T16:50:49+00:00",
+    "url": "https://3dprintingindustry.com/news/metamorphic-am-connects-computational-design-and-simulation-with-morphe-and-chopmesh-at-formnext-2026-256831/?utm_source=rss&utm_medium=rss&utm_campaign=metamorphic-am-connects-computational-design-and-simulation-with-morphe-and-chopmesh-at-formnext-2026",
+    "forced_tags": [],
+    "title_en": "Metamorphic AM connects computational design and simulation with Morphé and ChopMesh at Formnext 2026",
+    "summary_bullets_en": [
+      "Metamorphic AM unveiled a new design-to-simulation workflow at Formnext 2026.",
+      "The integration links the Morphé geometry platform with Voxshell’s ChopMesh software.",
+      "The solution enables seamless transfer of complex Rhino/Grasshopper models for volumetric meshing.",
+      "The workflow streamlines preparation for CFD and finite element analysis in additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Metamorphic AM představila na veletrhu Formnext 2026 nový pracovní postup pro přechod od návrhu k simulaci.",
+      "Integrace propojuje platformu pro modelování geometrie Morphé se softwarem ChopMesh od společnosti Voxshell.",
+      "Řešení umožňuje přímý přenos komplexních geometrií z Rhino a Grasshopper pro objemové síťování.",
+      "Nový postup zefektivňuje přípravu modelů pro výpočetní dynamiku tekutin (CFD) a analýzu konečných prvků."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Metamorphic AM",
+      "Voxshell",
+      "Formnext 2026",
+      "Computational Design",
+      "Simulation",
+      "CFD"
+    ]
+  },
+  {
+    "title": "Bambu Lab představuje partnerskou síť Bambu Circle na veletrhu Formnext 2026",
+    "summary": "3D printer manufacturer Bambu Lab is introducing Bambu Circle, a new program designed to help enthusiasts and entrepreneurs establish local businesses around 3D printing, at Formnext 2026 in Frankfurt, Germany. The initiative will create a network of authorized partners offering services such as printer maintenance, equipment and material sales, 3D printing services, and technical training.&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/image-17-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-11-19T16:28:19+00:00",
+    "url": "https://3dprintingindustry.com/news/bambu-lab-introduces-bambu-circle-partner-network-at-formnext-2026-256985/?utm_source=rss&utm_medium=rss&utm_campaign=bambu-lab-introduces-bambu-circle-partner-network-at-formnext-2026",
+    "forced_tags": [],
+    "title_en": "Bambu Lab introduces Bambu Circle partner network at Formnext 2026",
+    "summary_bullets_en": [
+      "Bambu Lab is launching the 'Bambu Circle' partner network at Formnext 2026.",
+      "The program aims to support enthusiasts and entrepreneurs in building local 3D printing businesses.",
+      "Authorized partners will provide maintenance, equipment sales, printing services, and technical training."
+    ],
+    "summary_bullets_cs": [
+      "Výrobce 3D tiskáren Bambu Lab představuje na veletrhu Formnext 2026 ve Frankfurtu nový program Bambu Circle.",
+      "Iniciativa je navržena tak, aby pomohla nadšencům a podnikatelům založit lokální firmy zaměřené na 3D tisk.",
+      "Síť autorizovaných partnerů bude nabízet údržbu tiskáren, prodej vybavení a materiálů, tiskové služby a technická školení."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Bambu Lab",
+      "Formnext 2026",
+      "3D Printing Business"
+    ]
+  },
+  {
+    "title": "Zkrachoval FLSUN?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973433957/0/fabbaloo/default~Has-FLSUN-Collapsed\" rel=\"nofollow\" title=\"Has FLSUN Collapsed?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/flsun-done-cover-1.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Something appears to be seriously wrong at FLSUN.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973433957/0/fabbaloo/default~Has-FLSUN-Collapsed\" rel=\"nofollow\">Has FLSUN Collapsed?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/flsun-done-cover-1.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-11-19T16:05:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973433957/0/fabbaloo/default~Has-FLSUN-Collapsed",
+    "forced_tags": [],
+    "title_en": "Has FLSUN Collapsed?",
+    "summary_bullets_en": [
+      "Recent reports suggest that the 3D printer manufacturer FLSUN is facing severe operational issues.",
+      "There are growing concerns within the industry regarding the company's current stability and future viability.",
+      "The sudden lack of activity or communication has led to speculation about a potential collapse of the business."
+    ],
+    "summary_bullets_cs": [
+      "Nedávné zprávy naznačují, že výrobce 3D tiskáren FLSUN čelí vážným provozním problémům.",
+      "V oboru rostou obavy ohledně současné stability a budoucí životaschopnosti společnosti.",
+      "Náhlý nedostatek aktivity či komunikace vedl ke spekulacím o možném krachu firmy."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "FLSUN",
+      "Industry News",
+      "Business"
+    ]
+  },
+  {
+    "title": "SnowX SnowPod míří na desktopový metalický LPBF tisk s cenovkou 5 299 USD",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973416035/0/fabbaloo/default~SnowX-SnowPod-Targets-Desktop-Metal-LPBF-at-US\" rel=\"nofollow\" title=\"SnowX SnowPod Targets Desktop Metal LPBF at US$5,299\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/snowpod-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Metal laser powder bed fusion 3D printing is about to get a very inexpensive option.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973416035/0/fabbaloo/default~SnowX-SnowPod-Targets-Desktop-Metal-LPBF-at-US\" rel=\"nofollow\">SnowX SnowPod Targets Desktop Metal LPBF at US$5,299</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/snowpod-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-19T15:03:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973416035/0/fabbaloo/default~SnowX-SnowPod-Targets-Desktop-Metal-LPBF-at-US",
+    "forced_tags": [],
+    "title_en": "SnowX SnowPod Targets Desktop Metal LPBF at US$5,299",
+    "summary_bullets_en": [
+      "SnowX has introduced the SnowPod, a new metal laser powder bed fusion (LPBF) 3D printer.",
+      "The device aims to disrupt the market by offering professional metal printing capabilities at an entry-level price point.",
+      "With a retail price of US$5,299, it significantly lowers the barrier to entry for desktop metal additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Společnost SnowX představila SnowPod, novou 3D tiskárnu využívající technologii laserového spékání kovového prášku (LPBF).",
+      "Zařízení má za cíl změnit trh tím, že nabízí profesionální možnosti tisku z kovů za velmi dostupnou cenu.",
+      "Díky ceně 5 299 USD výrazně snižuje vstupní bariéru pro desktopovou aditivní výrobu z kovů."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "LPBF",
+      "SnowX",
+      "SnowPod",
+      "Desktop Manufacturing"
+    ]
+  },
+  {
+    "title": "Patent společnosti Graphy popisuje odstřeďovací cyklus pro resinové 3D výtisky",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973408994/0/fabbaloo/default~Graphy-Patent-Describes-A-Spin-Cycle-For-Resin-D-Prints\" rel=\"nofollow\" title=\"Graphy Patent Describes A Spin Cycle For Resin 3D Prints\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/graphy-spin-patent-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Let’s spin those resin prints to remove the wet resin.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973408994/0/fabbaloo/default~Graphy-Patent-Describes-A-Spin-Cycle-For-Resin-D-Prints\" rel=\"nofollow\">Graphy Patent Describes A Spin Cycle For Resin 3D Prints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/graphy-spin-patent-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-19T13:17:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973408994/0/fabbaloo/default~Graphy-Patent-Describes-A-Spin-Cycle-For-Resin-D-Prints",
+    "forced_tags": [],
+    "title_en": "Graphy Patent Describes A Spin Cycle For Resin 3D Prints",
+    "summary_bullets_en": [
+      "Graphy has filed a patent for a new post-processing method involving a spin cycle for resin 3D prints.",
+      "The primary goal of this technique is to efficiently remove excess wet resin from the surface of printed parts.",
+      "This mechanical approach aims to improve the quality and cleanliness of resin-based additive manufacturing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Graphy si nechala patentovat novou metodu následného zpracování, která využívá odstřeďování resinových 3D výtisků.",
+      "Hlavním cílem této techniky je efektivní odstranění přebytečné tekuté pryskyřice z povrchu vytištěných dílů.",
+      "Tento mechanický postup má za úkol zlepšit kvalitu a čistotu procesů při 3D tisku z resinu."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Graphy",
+      "Resin 3D Printing",
+      "Post-processing",
+      "Patents"
+    ]
+  },
+  {
+    "title": "Společnost Admatec představila na veletrhu Formnext stolní keramickou 3D tiskárnu Admaflex Discovery: Technické specifikace a cena",
+    "summary": "Dutch ceramic 3D printing company Admatec has launched the Admaflex Discovery, its first desktop ceramic 3D printer. It is also the first Admatec printer built to be upgraded from day one. Buyers start with a compact unit and can later convert it into a larger, more powerful configuration. The Discovery is on show at Formnext&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Discovery_Image-2-3-scaled.png-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-19T13:15:00+00:00",
+    "url": "https://3dprintingindustry.com/news/admatec-launches-admaflex-discovery-desktop-ceramic-3d-printer-at-formnext-technical-specifications-and-pricing-256932/?utm_source=rss&utm_medium=rss&utm_campaign=admatec-launches-admaflex-discovery-desktop-ceramic-3d-printer-at-formnext-technical-specifications-and-pricing",
+    "forced_tags": [],
+    "title_en": "Admatec launches Admaflex Discovery desktop ceramic 3D printer at Formnext: Technical Specifications and Pricing",
+    "summary_bullets_en": [
+      "Admatec introduced the Admaflex Discovery, its first desktop-sized ceramic 3D printer.",
+      "The system features a unique modular design, allowing users to upgrade from a compact unit to a more powerful configuration.",
+      "The printer is currently being showcased at the Formnext trade fair."
+    ],
+    "summary_bullets_cs": [
+      "Nizozemská společnost Admatec uvedla na trh Admaflex Discovery, svou první stolní 3D tiskárnu pro keramické materiály.",
+      "Jde o první tiskárnu od Admatecu navrženou s možností budoucího upgradu, kdy lze kompaktní jednotku postupně rozšířit na výkonnější konfiguraci.",
+      "Tiskárna je aktuálně vystavena na veletrhu Formnext."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Ceramic 3D Printing",
+      "Admatec",
+      "Admaflex Discovery",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "Jak 3D tisk mění podobu lyžování",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973403126/0/fabbaloo/default~How-D-Printing-is-Reshaping-Skiing\" rel=\"nofollow\" title=\"How 3D Printing is Reshaping Skiing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/3dp-skiing-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Charles R. Goulding and Aaron Rofe take a look at how additive manufacturing is moving from the ski workshop to the slopes, reshaping everything from boot fit to ski construction.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973403126/0/fabbaloo/default~How-D-Printing-is-Reshaping-Skiing\" rel=\"nofollow\">How 3D Printing is Reshaping Skiing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/3dp-skiing-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-19T11:58:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973403126/0/fabbaloo/default~How-D-Printing-is-Reshaping-Skiing",
+    "forced_tags": [],
+    "title_en": "How 3D Printing is Reshaping Skiing",
+    "summary_bullets_en": [
+      "Additive manufacturing is transitioning from experimental workshops to mainstream ski equipment production.",
+      "3D printing technology is revolutionizing the customization of ski boots for a perfect fit.",
+      "Advanced manufacturing techniques are being applied to optimize the structural design and performance of skis."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba se přesouvá z experimentálních dílen do běžné produkce lyžařského vybavení.",
+      "Technologie 3D tisku přináší revoluci v přizpůsobení lyžařských bot pro dosažení dokonalého pohodlí.",
+      "Pokročilé výrobní postupy jsou využívány k optimalizaci konstrukce a výkonnostních vlastností lyží."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Additive Manufacturing",
+      "Skiing",
+      "Customization",
+      "Sports Equipment"
+    ]
+  },
+  {
+    "title": "Zprávy ze světa 3D tisku, 19. listopadu 2026: Formnext, Formnext, Formnext!",
+    "summary": "In today&#8217;s 3D Printing News Briefs, it&#8217;s all Formnext news! I really should have called it Formnext Briefs. In Frankfurt this week, ATLIX is presenting its full xBUILD portfolio, announced...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/dhr-atli-automation-4-1024x683.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-19T09:00:28+00:00",
+    "url": "https://3dprint.com/337185/3d-printing-news-briefs-11-19-26-formnext/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, November 19, 2026: Formnext, Formnext, Formnext!",
+    "summary_bullets_en": [
+      "The industry focus is entirely on the Formnext trade show in Frankfurt.",
+      "ATLIX is showcasing its complete xBUILD portfolio at the event.",
+      "The newsletter highlights the latest innovations and announcements emerging from the exhibition floor."
+    ],
+    "summary_bullets_cs": [
+      "Dnešní zprávy ze světa 3D tisku se točí výhradně kolem veletrhu Formnext.",
+      "Společnost ATLIX na veletrhu ve Frankfurtu představuje své kompletní portfolio xBUILD.",
+      "Newsletter se zaměřuje na nejnovější inovace a oznámení, která přicházejí přímo z výstavní plochy."
+    ],
+    "tags": [
+      "Hardware",
+      "Events",
+      "ATLIX",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "Siemens je nejlogičtějším lídrem pro trh s AI v aditivní výrobě",
+    "summary": "It would be an understatement to say that there are misunderstandings about the AI investment era, to the extent that it would be far less complicated to try to pinpoint...",
+    "image": "https://3dprint.com/wp-content/uploads/2023/11/img_0757-1-1024x576.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-19T08:30:37+00:00",
+    "url": "https://3dprint.com/337100/siemens-is-the-most-logical-company-to-lead-the-ai-for-am-market/",
+    "forced_tags": [],
+    "title_en": "Siemens is the Most Logical Company to Lead the AI for AM Market",
+    "summary_bullets_en": [
+      "There is significant confusion regarding current AI investment strategies in the industrial sector.",
+      "Siemens is positioned as the most logical leader to integrate AI into Additive Manufacturing (AM).",
+      "The company's deep industrial expertise and software ecosystem provide a unique competitive advantage.",
+      "The article explores why Siemens is better suited for this role than other market players."
+    ],
+    "summary_bullets_cs": [
+      "Panuje značné nepochopení ohledně současné éry investic do umělé inteligence.",
+      "Siemens je považován za nejlogičtějšího lídra pro integraci AI do aditivní výroby (AM).",
+      "Hluboké průmyslové znalosti a softwarový ekosystém společnosti představují unikátní konkurenční výhodu.",
+      "Článek analyzuje, proč má Siemens v této oblasti lepší předpoklady než ostatní hráči na trhu."
+    ],
+    "tags": [
+      "Software",
+      "Services",
+      "Siemens",
+      "Artificial Intelligence",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "GE bude během 3D tisku kovů stlačovat díly",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973385642/0/fabbaloo/default~GE-To-Compress-Parts-During-Metal-D-Printing\" rel=\"nofollow\" title=\"GE To Compress Parts During Metal 3D Printing\"><img alt=\"A directed-energy-deposition additive manufacturing system with a robotic deposition arm, rotating build table, cylindrical part, and force-application mechanism.\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/US_20260346542_A1-headline-1280x845.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>GE Avio wants to make metal AM be a little more like forging.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973385642/0/fabbaloo/default~GE-To-Compress-Parts-During-Metal-D-Printing\" rel=\"nofollow\">GE To Compress Parts During Metal 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/US_20260346542_A1-headline-1280x845.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-19T08:16:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973385642/0/fabbaloo/default~GE-To-Compress-Parts-During-Metal-D-Printing",
+    "forced_tags": [],
+    "title_en": "GE To Compress Parts During Metal 3D Printing",
+    "summary_bullets_en": [
+      "GE Avio is developing a new metal additive manufacturing process that mimics traditional forging techniques.",
+      "The method involves applying mechanical compression to parts during the 3D printing process.",
+      "This innovation aims to improve the structural integrity and material properties of metal components produced via directed-energy deposition.",
+      "The system utilizes a robotic arm and a force-application mechanism to densify the material while it is being built."
+    ],
+    "summary_bullets_cs": [
+      "Společnost GE Avio vyvíjí nový proces aditivní výroby kovů, který napodobuje tradiční techniky kování.",
+      "Metoda zahrnuje aplikaci mechanického tlaku na díly přímo během procesu 3D tisku.",
+      "Tato inovace má za cíl zlepšit strukturální integritu a materiálové vlastnosti kovových komponentů vyráběných pomocí nanášení energie (DED).",
+      "Systém využívá robotické rameno a mechanismus pro vyvíjení síly k zhuštění materiálu během jeho vrstvení."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal 3D Printing",
+      "GE Avio",
+      "Additive Manufacturing",
+      "Directed Energy Deposition",
+      "Forging"
+    ]
+  },
+  {
+    "title": "Formnext 2026 druhý den: Osvoboď mě",
+    "summary": "You always hear such negative things about Haiti, but it&#8217;s nice to see some good news come out, what with them getting their own LPBF machines. There is still optimism...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/IMG_6225-768x1024.jpeg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-19T08:11:45+00:00",
+    "url": "https://3dprint.com/337344/formnext-2026-day-two-release-me/",
+    "forced_tags": [],
+    "title_en": "Formnext 2026 Day Two: Release Me",
+    "summary_bullets_en": [
+      "The second day of Formnext 2026 highlights new technological advancements and industry releases.",
+      "Haiti is making strides in additive manufacturing by acquiring its own LPBF (Laser Powder Bed Fusion) machines.",
+      "The industry maintains a sense of optimism regarding the global expansion of 3D printing capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Druhý den veletrhu Formnext 2026 přináší nové technologické pokroky a oznámení produktů.",
+      "Haiti dělá pokroky v aditivní výrobě díky pořízení vlastních strojů typu LPBF.",
+      "V oboru stále panuje optimismus ohledně globálního rozšiřování možností 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "LPBF",
+      "Formnext",
+      "Additive Manufacturing",
+      "Global Industry"
+    ]
+  },
+  {
+    "title": "Průmysl aditivní výroby roste. Arno Held si myslí, že se musí zmenšit",
+    "summary": "Additive manufacturing is now a $24.2 billion industry, but Arno Held believes too many companies still compete for market share. That was one of the more pointed arguments during an...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/1794990617404.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-19T08:00:35+00:00",
+    "url": "https://3dprint.com/337265/the-am-industry-is-growing-arno-held-thinks-it-still-needs-to-get-smaller/",
+    "forced_tags": [],
+    "title_en": "The AM Industry Is Growing. Arno Held Thinks It Still Needs to Get Smaller",
+    "summary_bullets_en": [
+      "The additive manufacturing sector has reached a valuation of $24.2 billion.",
+      "Arno Held argues that the market is currently overcrowded with too many competing companies.",
+      "Consolidation is suggested as a necessary step for the industry's long-term maturity and efficiency."
+    ],
+    "summary_bullets_cs": [
+      "Odvětví aditivní výroby dosáhlo hodnoty 24,2 miliardy dolarů.",
+      "Arno Held tvrdí, že trh je v současnosti přesycen příliš velkým počtem konkurenčních firem.",
+      "Konsolidace je navrhována jako nezbytný krok pro dlouhodobou vyspělost a efektivitu celého průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Services",
+      "Additive Manufacturing",
+      "Industry Consolidation",
+      "Arno Held"
+    ]
+  },
+  {
+    "title": "Společnost AdventureTech představila na veletrhu Formnext 2026 stolní keramickou tiskárnu ADT Ceram-DD50",
+    "summary": "AdventureTech has launched the ADT Ceram-DD50, a desktop ceramic 3D printer with 20 µm optical resolution accuracy and a minimum material load of 10 mL. It is on show this week at Formnext 2026 in Frankfurt (17–20 November, Hall 11, Booth D71). The DD50 is the lead model of AdventureTech&#8217;s new Mini series and is&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/adt-ceram-dd50-technical-specif-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-19T07:37:17+00:00",
+    "url": "https://3dprintingindustry.com/news/adventuretech-launches-adt-ceram-dd50-desktop-ceramic-printer-at-formnext-2026-256923/?utm_source=rss&utm_medium=rss&utm_campaign=adventuretech-launches-adt-ceram-dd50-desktop-ceramic-printer-at-formnext-2026",
+    "forced_tags": [],
+    "title_en": "AdventureTech launches ADT Ceram-DD50 desktop ceramic printer at Formnext 2026",
+    "summary_bullets_en": [
+      "AdventureTech introduced the ADT Ceram-DD50, a new desktop ceramic 3D printer.",
+      "The device features a high optical resolution of 20 µm and requires a minimum material load of 10 mL.",
+      "It serves as the flagship model for the company's new Mini series.",
+      "The printer is currently being showcased at Formnext 2026 in Frankfurt."
+    ],
+    "summary_bullets_cs": [
+      "Společnost AdventureTech uvedla na trh ADT Ceram-DD50, stolní 3D tiskárnu pro keramické materiály.",
+      "Tiskárna nabízí vysokou optickou přesnost 20 µm a vyžaduje minimální náplň materiálu 10 ml.",
+      "Model DD50 je hlavním zástupcem nové produktové řady Mini od společnosti AdventureTech.",
+      "Zařízení je tento týden k vidění na veletrhu Formnext 2026 ve Frankfurtu (17.–20. listopadu, hala 11, stánek D71)."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Ceramic Printing",
+      "AdventureTech",
+      "Formnext 2026",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "3DPOD 322: Neil Hopkinson o nové 3D tiskárně Stratasys H550 SAF",
+    "summary": "Coming to you from Formnext 2026, Joris Peels and Maxwell Bogue welcome Neil Hopkinson, Vice President of SAF Technology at Stratasys, for a conversation about what&#8217;s next in industrial 3D...",
+    "image": "https://3dprint.com/wp-content/uploads/2021/12/3DPOD-Eecutive-Editor.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-19T07:30:34+00:00",
+    "url": "https://3dprint.com/337246/3dpod-neil-hopkinson-on-stratasys-new-h550-saf-3d-printer/",
+    "forced_tags": [],
+    "title_en": "3DPOD 322: Neil Hopkinson on Stratasys’ New H550 SAF 3D Printer",
+    "summary_bullets_en": [
+      "Joris Peels and Maxwell Bogue host Neil Hopkinson from Stratasys at Formnext 2026.",
+      "The discussion focuses on the capabilities and future of the new H550 SAF 3D printer.",
+      "The episode explores the broader trajectory of industrial 3D printing technology."
+    ],
+    "summary_bullets_cs": [
+      "Joris Peels a Maxwell Bogue přivítali na veletrhu Formnext 2026 Neila Hopkinsona ze společnosti Stratasys.",
+      "Hlavním tématem rozhovoru je nová 3D tiskárna H550 využívající technologii SAF.",
+      "Diskuse se zaměřuje na budoucnost a další směřování průmyslového 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Stratasys",
+      "SAF Technology",
+      "3D Printing",
+      "Industrial Manufacturing"
+    ]
+  },
+  {
+    "title": "Formnext 2026: Velkoformátový 3D tisk je větší, chytřejší a připravenější pro výrobu",
+    "summary": "The race to build bigger 3D printers is picking up speed at Formnext 2026, as manufacturers turn their attention to industrial-scale production. At the trade show in Frankfurt, Germany, companies...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/T-Series-4-scaled.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-19T07:00:27+00:00",
+    "url": "https://3dprint.com/337201/formnext-2026-large-format-3d-printing-gets-bigger-smarter-and-more-production-ready/",
+    "forced_tags": [],
+    "title_en": "Formnext 2026: Large-Format 3D Printing Gets Bigger, Smarter, and More Production-Ready",
+    "summary_bullets_en": [
+      "Manufacturers at Formnext 2026 are prioritizing industrial-scale production through significantly larger 3D printing systems.",
+      "The focus has shifted from prototyping to high-efficiency, production-ready hardware solutions.",
+      "Technological advancements are making large-format printing smarter, more reliable, and better integrated into factory workflows."
+    ],
+    "summary_bullets_cs": [
+      "Výrobci na veletrhu Formnext 2026 upřednostňují průmyslovou velkovýrobu prostřednictvím výrazně větších 3D tiskových systémů.",
+      "Důraz se přesunul od prototypování k vysoce efektivním hardwarovým řešením připraveným pro sériovou výrobu.",
+      "Technologický pokrok činí velkoformátový tisk chytřejším, spolehlivějším a lépe integrovaným do továrních procesů."
+    ],
+    "tags": [
+      "Hardware",
+      "Industrial Production",
+      "Large-Format 3D Printing",
+      "Formnext 2026",
+      "Manufacturing"
+    ]
+  },
+  {
     "title": "Formnext 2026, první den: Co kdyby nastal mír?",
     "summary": "Usually, Frankfurt kind of feels like some sunless, wind-battered, rain-soaked oil platform listing in the North Sea. Not this time. The weather is much nicer this year; it was crisp...",
     "image": "https://3dprint.com/wp-content/uploads/2026/11/IMG_6224-1024x768.jpeg",
