@@ -1,5 +1,121 @@
 [
   {
+    "title": "Novinky ze světa 3D tisku, 21. listopadu 2026: Ocenění, vybalování, psí ortézy a další",
+    "summary": "We&#8217;re kicking off the weekend 3D Printing News Briefs with the winners of the 2026 Formnext Awards, and an unpacking solution AM Solutions debuted at the trade show. Then, Protolabs...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/The-Formnet-Awards-2026.-Copyright-Formnet-Mesago-Messe-Frankfurt-Marc-Jacquemin-1024x683.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-21T13:30:08+00:00",
+    "url": "https://3dprint.com/337449/3d-printing-news-briefs-11-21-2026/",
+    "forced_tags": [],
+    "title_en": "3D Printing News Briefs, November 21, 2026: Awards, Unpacking, Dog Orthotics, & More",
+    "summary_bullets_en": [
+      "Announcement of the 2026 Formnext Award winners.",
+      "Introduction of a new automated unpacking solution by AM Solutions.",
+      "Updates on Protolabs' latest manufacturing services and capabilities.",
+      "Innovative applications in veterinary medicine, specifically 3D printed dog orthotics."
+    ],
+    "summary_bullets_cs": [
+      "Vyhlášení vítězů cen Formnext Awards 2026.",
+      "Představení nového řešení pro automatizované vybalování od společnosti AM Solutions.",
+      "Aktuality o nejnovějších výrobních službách a možnostech společnosti Protolabs.",
+      "Inovativní využití ve veterinární medicíně, konkrétně 3D tištěné ortézy pro psy."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Formnext",
+      "AM Solutions",
+      "Protolabs"
+    ]
+  },
+  {
+    "title": "Miliardářská rodina vlastnící LEGO sází na recyklaci plastů a 3D tisk",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973627199/0/fabbaloo/default~LEGO%e2%80%99s-Billionaire-Family-Owners-Bet-Big-on-Plastic-Recycling-and-D-Printing\" rel=\"nofollow\" title=\"LEGO’s Billionaire Family Owners Bet Big on Plastic Recycling and 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/Filename-_497.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"667\" /></a><p>Charles R. Goulding and Preeti Sulibhavi look inside the Kirk Kristiansen family’s US$1.6 billion climate investment strategy and explain why solving LEGO’s notoriously difficult plastic-recycling challenge could have implications far beyond the toy industry.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973627199/0/fabbaloo/default~LEGO%e2%80%99s-Billionaire-Family-Owners-Bet-Big-on-Plastic-Recycling-and-D-Printing\" rel=\"nofollow\">LEGO’s Billionaire Family Owners Bet Big on Plastic Recycling and 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/Filename-_497.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-21T13:02:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973627199/0/fabbaloo/default~LEGO%e2%80%99s-Billionaire-Family-Owners-Bet-Big-on-Plastic-Recycling-and-D-Printing",
+    "forced_tags": [],
+    "title_en": "LEGO’s Billionaire Family Owners Bet Big on Plastic Recycling and 3D Printing",
+    "summary_bullets_en": [
+      "The Kirk Kristiansen family is investing $1.6 billion into climate-focused initiatives, with a strong emphasis on sustainable plastic recycling.",
+      "The strategy explores how advanced manufacturing technologies, including 3D printing, can help overcome the complex challenges of recycling LEGO's high-quality plastics.",
+      "Successful implementation of these recycling methods could set a new industry standard, extending far beyond the toy manufacturing sector."
+    ],
+    "summary_bullets_cs": [
+      "Rodina Kirk Kristiansenových investuje 1,6 miliardy dolarů do klimatických iniciativ se silným důrazem na udržitelnou recyklaci plastů.",
+      "Strategie zkoumá, jak mohou pokročilé výrobní technologie, včetně 3D tisku, pomoci překonat složité výzvy při recyklaci vysoce kvalitních plastů používaných v LEGO kostkách.",
+      "Úspěšná implementace těchto recyklačních metod by mohla stanovit nový průmyslový standard, který přesáhne hranice hračkářského průmyslu."
+    ],
+    "tags": [
+      "Material",
+      "Sustainability",
+      "LEGO",
+      "Circular Economy",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Fraunhofer IAPT využívá ultrazvuk k odstraňování podpor u kovových 3D výtisků",
+    "summary": "German applied research institute Fraunhofer IAPT has developed an automated process that uses ultrasound to remove support structures from 3D printed metal parts. According to the institute, the supports come away cleanly within a few minutes and without manual work. The institution exhibited the method publicly for the first time at Formnext 2026, and it&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Entstuetzen-mit-Ultraschall-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-21T09:18:44+00:00",
+    "url": "https://3dprintingindustry.com/news/fraunhofer-iapt-uses-ultrasound-to-free-metal-am-parts-256849/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-iapt-uses-ultrasound-to-free-metal-am-parts",
+    "forced_tags": [],
+    "title_en": "Fraunhofer IAPT uses ultrasound to free metal AM parts",
+    "summary_bullets_en": [
+      "Fraunhofer IAPT developed an automated ultrasonic process for removing support structures from metal 3D printed parts.",
+      "The method eliminates the need for manual labor, allowing supports to be removed cleanly in just a few minutes.",
+      "The technology was showcased to the public for the first time at the Formnext 2026 trade fair."
+    ],
+    "summary_bullets_cs": [
+      "Německý výzkumný institut Fraunhofer IAPT vyvinul automatizovaný proces využívající ultrazvuk k odstraňování podpůrných struktur z kovových 3D tištěných dílů.",
+      "Podle institutu se podpěry oddělí čistě během několika minut a bez nutnosti manuální práce.",
+      "Metodu poprvé veřejně představili na veletrhu Formnext 2026."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Fraunhofer IAPT",
+      "Metal AM",
+      "Post-processing",
+      "Ultrasonic technology",
+      "Formnext 2026"
+    ]
+  },
+  {
+    "title": "Společnost AMufacture zdvojnásobila kapacitu HP Multi Jet Fusion v reakci na rostoucí poptávku v obranném průmyslu",
+    "summary": "AMufacture, a contract manufacturer based in Portsmouth, UK, has doubled its additive manufacturing production capacity. The company says the expansion makes it the UK&#8217;s largest contract manufacturer specialising in HP Multi Jet Fusion (MJF) technology. AMufacture has installed new HP MJF 5620 Pro printers, each fitted with automated changeover. That lets the facility run around&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Will_Howden_and_Craig_Pyser-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-21T09:12:46+00:00",
+    "url": "https://3dprintingindustry.com/news/amufacture-doubles-hp-multi-jet-fusion-capacity-as-defence-demand-grows-256936/?utm_source=rss&utm_medium=rss&utm_campaign=amufacture-doubles-hp-multi-jet-fusion-capacity-as-defence-demand-grows",
+    "forced_tags": [],
+    "title_en": "AMufacture doubles HP Multi Jet Fusion capacity as defence demand grows",
+    "summary_bullets_en": [
+      "Portsmouth-based AMufacture has doubled its production capacity for HP Multi Jet Fusion technology.",
+      "The company is now the largest UK contract manufacturer specializing in HP MJF solutions.",
+      "New HP MJF 5620 Pro printers with automated changeover allow for continuous, 24/7 operation.",
+      "The expansion is driven by a significant increase in demand from the defence sector."
+    ],
+    "summary_bullets_cs": [
+      "Společnost AMufacture se sídlem v Portsmouthu zdvojnásobila svou výrobní kapacitu v oblasti aditivní výroby.",
+      "Firma se díky této expanzi stala největším britským smluvním výrobcem specializujícím se na technologii HP Multi Jet Fusion (MJF).",
+      "Instalace nových tiskáren HP MJF 5620 Pro s automatizovanou výměnou umožňuje provoz zařízení v nepřetržitém režimu.",
+      "Rozšíření kapacity reaguje na zvýšenou poptávku po 3D tištěných dílech ze strany obranného průmyslu."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "HP",
+      "Multi Jet Fusion",
+      "AMufacture",
+      "Additive Manufacturing",
+      "Defence"
+    ]
+  },
+  {
     "title": "Stratasys si patentuje malé pryskyřičné vany pro vývoj materiálů",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/973539119/0/fabbaloo/default~Stratasys-Patents-Small-Resin-Vats-For-Material-Development\" rel=\"nofollow\" title=\"Stratasys Patents Small Resin Vats For Material Development\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/stratasys-small-vat-patent-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>How much resin do you really need to test a new 3D printing material?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973539119/0/fabbaloo/default~Stratasys-Patents-Small-Resin-Vats-For-Material-Development\" rel=\"nofollow\">Stratasys Patents Small Resin Vats For Material Development</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/stratasys-small-vat-patent-cover.jpg",
