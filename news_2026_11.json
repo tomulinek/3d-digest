@@ -1,5 +1,584 @@
 [
   {
+    "title": "Projekt JATEC se zaměřuje na 3D tisk pro opravy dronů a dodávky komponentů",
+    "summary": "The NATO-Ukraine Joint Analysis, Training and Education Centre (JATEC) is running a project to develop additive manufacturing (AM) systems for unmanned aerial vehicles (UAVs), according to the Ministry of Defence of Ukraine. The ministry says the project&#8217;s goal is to introduce new technologies that support the defense of Ukraine and of member states of the&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/large_3d-printers-for-uavs-site-01-en-c9bfa1371f-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-25T20:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/jatec-project-targets-3d-printing-for-drone-repair-and-component-supply-257213/?utm_source=rss&utm_medium=rss&utm_campaign=jatec-project-targets-3d-printing-for-drone-repair-and-component-supply",
+    "forced_tags": [],
+    "title_en": "JATEC Project Targets 3D Printing for Drone Repair and Component Supply",
+    "summary_bullets_en": [
+      "The NATO-Ukraine JATEC initiative is developing additive manufacturing systems specifically for UAV maintenance.",
+      "The project aims to streamline the supply chain for drone components through on-site 3D printing.",
+      "New technologies are being integrated to enhance defense capabilities for Ukraine and NATO member states."
+    ],
+    "summary_bullets_cs": [
+      "Iniciativa NATO-Ukrajina JATEC vyvíjí systémy aditivní výroby určené pro údržbu bezpilotních letounů (UAV).",
+      "Cílem projektu je zefektivnit dodavatelský řetězec komponentů pro drony prostřednictvím 3D tisku přímo v místě potřeby.",
+      "Nové technologie jsou zaváděny s cílem posílit obranyschopnost Ukrajiny i členských států NATO."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "JATEC",
+      "NATO",
+      "Ukraine",
+      "UAV",
+      "Additive Manufacturing",
+      "Defense"
+    ]
+  },
+  {
+    "title": "Rapid Fusion a LEAM společně vyvinuli vyhřívanou trysku pro velkoformátový tisk certifikovaných materiálů PEEK a PEI",
+    "summary": "Rapid Fusion, based in Exeter in the UK, and German company LEAM announced Prometheus at Formnext. It is a robotic cell for large-format additive manufacturing (LFAM) designed to let aerospace, maritime, and oil and gas manufacturers print large structural parts and tooling in polyether ether ketone (PEEK) and polyetherimide (PEI). According to LEAM, both polymers&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/prometheus_teaser-150x100.webp",
+    "source": "3D Printing Industry",
+    "published": "2026-11-25T19:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-and-leam-co-design-heated-nozzle-to-print-certified-peek-and-pei-at-large-scale-257219/?utm_source=rss&utm_medium=rss&utm_campaign=rapid-fusion-and-leam-co-design-heated-nozzle-to-print-certified-peek-and-pei-at-large-scale",
+    "forced_tags": [],
+    "title_en": "Rapid Fusion and LEAM Co-Design Heated Nozzle to Print Certified PEEK and PEI at Large Scale",
+    "summary_bullets_en": [
+      "Rapid Fusion and LEAM unveiled 'Prometheus', a robotic cell for large-format additive manufacturing (LFAM).",
+      "The system features a specialized heated nozzle designed to process high-performance polymers like PEEK and PEI.",
+      "Targeted at aerospace, maritime, and energy sectors, the technology enables the production of certified large-scale structural parts and tooling."
+    ],
+    "summary_bullets_cs": [
+      "Britská společnost Rapid Fusion a německá firma LEAM představily na veletrhu Formnext robotickou buňku Prometheus pro velkoformátovou aditivní výrobu (LFAM).",
+      "Systém je vybaven speciální vyhřívanou tryskou, která umožňuje zpracování vysoce odolných polymerů, jako jsou PEEK a PEI.",
+      "Technologie je určena pro výrobce v leteckém, námořním a ropném průmyslu, kterým umožní tisk velkých certifikovaných konstrukčních dílů a nástrojů."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Rapid Fusion",
+      "LEAM",
+      "LFAM",
+      "PEEK",
+      "PEI",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Xometry propojuje Workcenter se softwarem HP MJF, aby 5 000+ partnerů mohlo využít volnou kapacitu v tiskových úlohách",
+    "summary": "Global AI-native marketplace Xometry and HP will connect HP&#8217;s Multi Jet Fusion (MJF) build-planning software to Xometry Workcenter. The integration lets manufacturers in Xometry&#8217;s partner network fill unused space in their MJF builds with Xometry orders. The collaboration was announced on 17 November 2026 at Formnext in Frankfurt. It is expected to launch for Xometry&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/xometry-hp-build-fill-half-width-2x-1-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-11-25T17:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/xometry-links-workcenter-to-hp-mjf-software-so-5000-partners-can-fill-half-empty-builds-257236/?utm_source=rss&utm_medium=rss&utm_campaign=xometry-links-workcenter-to-hp-mjf-software-so-5000-partners-can-fill-half-empty-builds",
+    "forced_tags": [],
+    "title_en": "Xometry Links Workcenter to HP MJF Software So 5,000+ Partners Can Fill Half-Empty Builds",
+    "summary_bullets_en": [
+      "Xometry and HP are integrating HP’s MJF build-planning software with the Xometry Workcenter platform.",
+      "The partnership allows over 5,000 network partners to optimize production by filling unused space in MJF builds with Xometry orders.",
+      "The collaboration was officially unveiled at the Formnext trade show in Frankfurt on November 17, 2026.",
+      "This integration aims to increase efficiency and reduce waste in industrial 3D printing workflows."
+    ],
+    "summary_bullets_cs": [
+      "Společnosti Xometry a HP propojují software pro plánování tiskových úloh HP Multi Jet Fusion (MJF) s platformou Xometry Workcenter.",
+      "Integrace umožní více než 5 000 partnerům v síti Xometry efektivněji využít volný prostor v tiskových úlohách MJF pomocí zakázek od Xometry.",
+      "Spolupráce byla oznámena 17. listopadu 2026 na veletrhu Formnext ve Frankfurtu.",
+      "Cílem partnerství je zvýšení efektivity výroby a snížení plýtvání materiálem i kapacitou u průmyslového 3D tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Services",
+      "Xometry",
+      "HP",
+      "Multi Jet Fusion",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Největší obchod v historii 3D tisku je zároveň jedním z nejpodivnějších",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973994729/0/fabbaloo/default~The-Biggest-Deal-in-D-Print-History-is-One-of-the-Strangest\" rel=\"nofollow\" title=\"The Biggest Deal in 3D Print History is One of the Strangest\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/vulcanforms-purchase-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Perhaps the biggest deal in 3D print history took place this past week.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973994729/0/fabbaloo/default~The-Biggest-Deal-in-D-Print-History-is-One-of-the-Strangest\" rel=\"nofollow\">The Biggest Deal in 3D Print History is One of the Strangest</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/vulcanforms-purchase-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-25T16:42:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973994729/0/fabbaloo/default~The-Biggest-Deal-in-D-Print-History-is-One-of-the-Strangest",
+    "forced_tags": [],
+    "title_en": "The Biggest Deal in 3D Print History is One of the Strangest",
+    "summary_bullets_en": [
+      "A major acquisition occurred in the 3D printing industry this past week, marking a historic milestone.",
+      "The deal is being described as one of the most unusual transactions ever seen in the sector.",
+      "The acquisition involves VulcanForms, a company known for its high-throughput metal additive manufacturing technology."
+    ],
+    "summary_bullets_cs": [
+      "Minulý týden došlo v odvětví 3D tisku k významné akvizici, která představuje historický milník.",
+      "Tento obchod je označován za jednu z nejneobvyklejších transakcí, jaké kdy byly v tomto sektoru zaznamenány.",
+      "Akvizice se týká společnosti VulcanForms, která je známá svou technologií vysokokapacitního aditivního kovového tisku."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "VulcanForms",
+      "Metal 3D Printing",
+      "Industry News",
+      "Mergers and Acquisitions"
+    ]
+  },
+  {
+    "title": "Bambu Lab skutečně oznámil 3D tiskárnu P3C",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973992206/0/fabbaloo/default~Bambu-Lab-Actually-Announces-the-PC-D-Printer\" rel=\"nofollow\" title=\"Bambu Lab Actually Announces the P3C 3D Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/p3c-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Well, this was a surprise: Bambu Lab announced the P3C yesterday.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973992206/0/fabbaloo/default~Bambu-Lab-Actually-Announces-the-PC-D-Printer\" rel=\"nofollow\">Bambu Lab Actually Announces the P3C 3D Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/p3c-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-25T16:03:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973992206/0/fabbaloo/default~Bambu-Lab-Actually-Announces-the-PC-D-Printer",
+    "forced_tags": [],
+    "title_en": "Bambu Lab Actually Announces the P3C 3D Printer",
+    "summary_bullets_en": [
+      "Bambu Lab has officially announced the launch of their new P3C 3D printer.",
+      "The announcement came as a surprise to the 3D printing community.",
+      "Further details regarding the machine's specifications are expected to follow."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Bambu Lab včera nečekaně oznámila příchod nové 3D tiskárny s označením P3C.",
+      "Toto oznámení bylo pro komunitu 3D tisku velkým překvapením.",
+      "Bližší technické specifikace a podrobnosti o novém stroji budou následovat."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "3D Printing",
+      "P3C"
+    ]
+  },
+  {
+    "title": "DN Solutions a Addiguru chtějí odhalit vady v kovovém 3D tisku dříve, než díly dorazí na CNC",
+    "summary": "South Korean machine tool manufacturer DN Solutions and U.S.-based software company Addiguru showed a joint demonstration at Formnext 2026 in which Addiguru&#8217;s automated in-situ monitoring software analysed build data from a DN Solutions DLX metal additive manufacturing system. The goal is to identify potential defects earlier in the additive manufacturing process and reduce the time&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Addiguru-Bringing_Anomaly_Detection_Directly_into_the_3D_Part-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-11-25T16:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/dn-solutions-and-addiguru-aim-to-catch-metal-am-defects-before-they-reach-the-cnc-257233/?utm_source=rss&utm_medium=rss&utm_campaign=dn-solutions-and-addiguru-aim-to-catch-metal-am-defects-before-they-reach-the-cnc",
+    "forced_tags": [],
+    "title_en": "DN Solutions and Addiguru Aim to Catch Metal AM Defects Before They Reach the CNC",
+    "summary_bullets_en": [
+      "DN Solutions and Addiguru showcased a collaborative in-situ monitoring solution at Formnext 2026.",
+      "The integration uses Addiguru's software to analyze build data from DN Solutions' DLX metal AM system.",
+      "The primary goal is to detect manufacturing defects early, reducing waste and post-processing time before parts reach CNC machining."
+    ],
+    "summary_bullets_cs": [
+      "Jihokorejský výrobce obráběcích strojů DN Solutions a americká softwarová společnost Addiguru představili společnou demonstraci na veletrhu Formnext 2026.",
+      "Software pro automatizované monitorování v reálném čase od společnosti Addiguru analyzoval data z tiskového systému DN Solutions DLX.",
+      "Cílem je identifikovat potenciální vady již během procesu aditivní výroby a zkrátit čas potřebný k dokončení výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "DN Solutions",
+      "Addiguru",
+      "Metal AM",
+      "In-situ monitoring",
+      "CNC"
+    ]
+  },
+  {
+    "title": "Black Friday 2026: Slevy na 3D tiskárny, skenery, filamenty a vylepšení",
+    "summary": "Offers checked on 25 November 2026. Black Friday 2026 brings discounts across desktop 3D printers, scanners, materials and components, with offers from Bambu Lab, ROSA3D, Revopoint, Snapmaker, eufyMake, E3D, Polymaker, Creality, Anycubic and Prusa. Whether you are adding another machine, replenishing filament stocks or upgrading a hotend, the offers below cover a range of budgets.&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Untitled-Design-15-150x100.png",
+    "source": "3D Printing Industry",
+    "published": "2026-11-25T15:53:59+00:00",
+    "url": "https://3dprintingindustry.com/news/black-friday-2026-3d-printing-deals-printers-scanners-filament-and-upgrades-257275/?utm_source=rss&utm_medium=rss&utm_campaign=black-friday-2026-3d-printing-deals-printers-scanners-filament-and-upgrades",
+    "forced_tags": [],
+    "title_en": "Black Friday 2026 3D printing deals: printers, scanners, filament and upgrades",
+    "summary_bullets_en": [
+      "Black Friday 2026 features significant discounts on a wide range of 3D printing hardware, including printers and scanners.",
+      "Major industry brands like Bambu Lab, Creality, Prusa, and others are participating with deals on machines and components.",
+      "The sales cover essential supplies such as filaments and various hardware upgrades like hotends for different budget levels."
+    ],
+    "summary_bullets_cs": [
+      "Black Friday 2026 přináší výrazné slevy na širokou škálu hardwaru pro 3D tisk, včetně tiskáren a skenerů.",
+      "Do akce se zapojily přední značky jako Bambu Lab, Creality, Prusa a další, které nabízejí slevy na stroje i komponenty.",
+      "Nabídky pokrývají také nezbytný spotřební materiál, jako jsou filamenty, a různá hardwarová vylepšení pro různé cenové kategorie."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Bambu Lab",
+      "ROSA3D",
+      "Revopoint",
+      "Snapmaker",
+      "eufyMake",
+      "E3D",
+      "Polymaker",
+      "Creality",
+      "Anycubic",
+      "Prusa"
+    ]
+  },
+  {
+    "title": "EOS HELIOR přináší zásadní zvýšení produktivity v SLS tisku",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973988666/0/fabbaloo/default~EOS-HELIOR-Has-Major-SLS-Productivity-Improvements\" rel=\"nofollow\" title=\"EOS HELIOR Has Major SLS Productivity Improvements\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/eos-helior-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>EOS has redesigned its largest polymer 3D printer around the most basic goal: finish a huge SLS build job every day.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973988666/0/fabbaloo/default~EOS-HELIOR-Has-Major-SLS-Productivity-Improvements\" rel=\"nofollow\">EOS HELIOR Has Major SLS Productivity Improvements</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/eos-helior-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-25T15:11:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973988666/0/fabbaloo/default~EOS-HELIOR-Has-Major-SLS-Productivity-Improvements",
+    "forced_tags": [],
+    "title_en": "EOS HELIOR Has Major SLS Productivity Improvements",
+    "summary_bullets_en": [
+      "EOS has completely redesigned its largest polymer 3D printer to maximize industrial output.",
+      "The new HELIOR system is engineered with the primary goal of completing a full-scale SLS build job every 24 hours.",
+      "This development marks a significant shift toward higher throughput and efficiency in additive manufacturing production cycles."
+    ],
+    "summary_bullets_cs": [
+      "Společnost EOS kompletně přepracovala svou největší 3D tiskárnu na polymery s cílem maximalizovat průmyslový výkon.",
+      "Nový systém HELIOR byl navržen s hlavním záměrem dokončit rozsáhlou tiskovou úlohu metodou SLS během každých 24 hodin.",
+      "Tento vývoj představuje významný posun směrem k vyšší propustnosti a efektivitě ve výrobních cyklech aditivní výroby."
+    ],
+    "tags": [
+      "Hardware",
+      "SLS",
+      "EOS",
+      "Additive Manufacturing",
+      "Industrial 3D Printing"
+    ]
+  },
+  {
+    "title": "PartBuddy: AI agent mění běžný jazyk na editovatelné CAD modely",
+    "summary": "One Austrian hobby project connects language models with a real geometry engine, creating editable parts ready for 3D printing",
+    "image": "https://substackcdn.com/image/fetch/$s_!uAzz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F336efb9c-8645-4e8f-9e41-f09bf4268df0_1536x1024.jpeg",
+    "source": "The 3D Printing Journal",
+    "published": "2026-11-25T14:31:36+00:00",
+    "url": "https://www.3dprintingjournal.com/p/partbuddy-an-ai-agent-turns-plain",
+    "forced_tags": [],
+    "title_en": "PartBuddy: an AI agent turns plain language into editable CAD models",
+    "summary_bullets_en": [
+      "PartBuddy is an innovative Austrian project that bridges the gap between natural language and 3D design.",
+      "It utilizes AI to interpret user prompts and generate precise, geometry-based CAD models.",
+      "The resulting models are fully editable and optimized for immediate 3D printing.",
+      "This tool simplifies the design process by removing the need for complex manual CAD software skills."
+    ],
+    "summary_bullets_cs": [
+      "PartBuddy je inovativní rakouský projekt, který propojuje přirozený jazyk s tvorbou 3D návrhů.",
+      "Využívá umělou inteligenci k interpretaci uživatelských zadání a generování přesných geometrických CAD modelů.",
+      "Výsledné modely jsou plně editovatelné a připravené pro okamžitý 3D tisk.",
+      "Nástroj zjednodušuje proces navrhování tím, že eliminuje potřebu pokročilých znalostí CAD softwaru."
+    ],
+    "tags": [
+      "Software",
+      "AI",
+      "CAD",
+      "3D Modeling",
+      "Generative Design",
+      "3D Printing"
+    ]
+  },
+  {
+    "title": "Ham, ham: 3D tištěné modely s tématikou Dne díkůvzdání",
+    "summary": "Tomorrow is Thanksgiving, or Turkey Day, whichever you prefer. It&#8217;s a holiday centered around giving thanks, avoiding political discussions with your extended family, and eating your weight in classic fare...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-11.09.28-PM-1024x496.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-25T14:30:53+00:00",
+    "url": "https://3dprint.com/337635/thanksgiving-themed-3d-printed-models/",
+    "forced_tags": [],
+    "title_en": "Gobble, Gobble: Thanksgiving-Themed 3D Printed Models for Turkey Day",
+    "summary_bullets_en": [
+      "Thanksgiving is a holiday focused on gratitude, family gatherings, and traditional feasting.",
+      "The article highlights creative 3D printing projects perfect for celebrating the holiday.",
+      "Readers are encouraged to use 3D printing to add a personalized touch to their festive decorations."
+    ],
+    "summary_bullets_cs": [
+      "Den díkůvzdání je svátek zaměřený na vděčnost, rodinná setkání a tradiční hodování.",
+      "Článek představuje kreativní projekty pro 3D tisk, které jsou ideální pro oslavu tohoto svátku.",
+      "Čtenáři jsou povzbuzováni k využití 3D tisku pro dodání osobitého stylu jejich sváteční výzdobě."
+    ],
+    "tags": [
+      "Services",
+      "3D Printing",
+      "Thanksgiving",
+      "Holiday Decor",
+      "DIY",
+      "3D Models"
+    ]
+  },
+  {
+    "title": "Drobné 3D tištěné částice by mohly změnit způsob výroby materiálů",
+    "summary": "Researchers in Finland have found a way to make a soft material nearly 13 times stiffer using 3D printing without having to print the material itself. Instead, they printed more...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/02_tetrapods_petri_dish.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-25T14:00:36+00:00",
+    "url": "https://3dprint.com/337603/tiny-3d-printed-particles-could-change-how-materials-are-made/",
+    "forced_tags": [],
+    "title_en": "Tiny 3D Printed Particles Could Change How Materials Are Made",
+    "summary_bullets_en": [
+      "Researchers in Finland developed a method to increase the stiffness of soft materials by nearly 13 times.",
+      "The technique involves 3D printing tiny particles that act as structural reinforcements rather than printing the entire object.",
+      "This approach allows for the creation of advanced composite materials with tunable mechanical properties.",
+      "The innovation offers a more efficient way to enhance material performance without the need for full-scale additive manufacturing."
+    ],
+    "summary_bullets_cs": [
+      "Vědci ve Finsku vyvinuli metodu, jak zvýšit tuhost měkkých materiálů téměř třináctinásobně.",
+      "Technika spočívá v 3D tisku drobných částic, které slouží jako strukturální výztuž, namísto tisku celého objektu.",
+      "Tento přístup umožňuje vytvářet pokročilé kompozitní materiály s nastavitelnými mechanickými vlastnostmi.",
+      "Inovace nabízí efektivnější způsob, jak vylepšit výkon materiálů bez nutnosti plnohodnotné aditivní výroby."
+    ],
+    "tags": [
+      "Material",
+      "Research",
+      "3D Printing",
+      "Composite Materials",
+      "Nanotechnology"
+    ]
+  },
+  {
+    "title": "Společnost AVIC ohlásila pětimetrovou 3D tištěnou konstrukci draku letadla",
+    "summary": "The Aviation Industry Corporation of China (AVIC) has reported the manufacture of an integrated aircraft structure measuring more than five meters using metal additive manufacturing. Developed by AVIC’s Shenyang Aircraft Design and Research Institute, the primary load-bearing component is positioned in an aircraft’s central fuselage, where it functions as a frame-and-beam structure to carry and&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/J-35_J-15T_J-15DT_formation_CNS-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-25T14:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/avic-reports-five-meter-3d-printed-airframe-structure-257252/?utm_source=rss&utm_medium=rss&utm_campaign=avic-reports-five-meter-3d-printed-airframe-structure",
+    "forced_tags": [],
+    "title_en": "AVIC reports five-meter 3D printed airframe structure",
+    "summary_bullets_en": [
+      "AVIC successfully manufactured a five-meter integrated aircraft structure using metal additive manufacturing.",
+      "The component was developed by the Shenyang Aircraft Design and Research Institute.",
+      "It serves as a primary load-bearing frame-and-beam structure located in the central fuselage."
+    ],
+    "summary_bullets_cs": [
+      "Společnost AVIC úspěšně vyrobila integrovanou konstrukci letadla o délce přes pět metrů pomocí aditivní výroby z kovů.",
+      "Komponent byl vyvinut Šenjangským institutem pro návrh a výzkum letadel.",
+      "Jedná se o hlavní nosný prvek umístěný ve střední části trupu, který slouží jako rámová a nosníková konstrukce."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal Additive Manufacturing",
+      "Aerospace",
+      "AVIC",
+      "Shenyang Aircraft Design and Research Institute"
+    ]
+  },
+  {
+    "title": "Problémy společnosti Markforged otevírají nečekané dveře pro FibreSeek",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973980659/0/fabbaloo/default~Markforged%e2%80%99s-Troubles-Open-An-Unexpected-Door-For-FibreSeek\" rel=\"nofollow\" title=\"Markforged’s Troubles Open An Unexpected Door For FibreSeek\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/fibreseek-opening-cover-1.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>The recent turmoil at Markforged seems to be benefiting at least one 3D printer manufacturer.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973980659/0/fabbaloo/default~Markforged%e2%80%99s-Troubles-Open-An-Unexpected-Door-For-FibreSeek\" rel=\"nofollow\">Markforged’s Troubles Open An Unexpected Door For FibreSeek</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/fibreseek-opening-cover-1.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-11-25T13:37:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973980659/0/fabbaloo/default~Markforged%e2%80%99s-Troubles-Open-An-Unexpected-Door-For-FibreSeek",
+    "forced_tags": [],
+    "title_en": "Markforged’s Troubles Open An Unexpected Door For FibreSeek",
+    "summary_bullets_en": [
+      "Markforged is currently facing significant corporate instability and financial challenges.",
+      "This market uncertainty has created a strategic opportunity for competitors to gain ground.",
+      "FibreSeek is emerging as a potential beneficiary, positioning itself to capture market share from the struggling industry giant."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Markforged se v současnosti potýká s výraznou firemní nestabilitou a finančními potížemi.",
+      "Tato nejistota na trhu vytvořila strategickou příležitost pro konkurenční výrobce.",
+      "FibreSeek se nyní profiluje jako možný vítěz této situace a snaží se získat podíl na trhu na úkor oslabeného giganta."
+    ],
+    "tags": [
+      "Hardware",
+      "3D Printing",
+      "Markforged",
+      "FibreSeek",
+      "Industry News"
+    ]
+  },
+  {
+    "title": "Osobní mise vědce z UC Davis: Jak 3D biotisk pomáhá onkologickým pacientům získat více času",
+    "summary": "What if doctors could find out whether a cancer drug would work on a patient before giving it to them? Researchers at the University of California, Davis (UC Davis) Health...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/specialized-3d-printer-used-to-print-tumoroids-body1.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-25T13:00:09+00:00",
+    "url": "https://3dprint.com/337618/uc-davis-researchers-3d-print-mini-tumors-to-help-guide-cancer-treatment/",
+    "forced_tags": [],
+    "title_en": "UC Davis Scientist’s Personal Mission to Give Cancer Patients More Time with Bioprinting",
+    "summary_bullets_en": [
+      "Researchers at UC Davis Health are utilizing 3D bioprinting to create personalized tumor models.",
+      "The goal is to test the efficacy of cancer drugs on a patient's specific cells before starting actual treatment.",
+      "This approach aims to save time and improve patient outcomes by avoiding ineffective therapies.",
+      "The project represents a significant step toward more precise and individualized oncology care."
+    ],
+    "summary_bullets_cs": [
+      "Vědci z UC Davis Health využívají 3D biotisk k vytváření personalizovaných modelů nádorů.",
+      "Cílem je otestovat účinnost léků na rakovinu na konkrétních buňkách pacienta ještě před zahájením léčby.",
+      "Tento přístup má za cíl ušetřit čas a zlepšit výsledky léčby tím, že se předejde neúčinným terapiím.",
+      "Projekt představuje významný krok směrem k přesnější a individualizované onkologické péči."
+    ],
+    "tags": [
+      "Hardware",
+      "Services",
+      "Bioprinting",
+      "UC Davis Health",
+      "Oncology",
+      "Personalized Medicine",
+      "Cancer Research"
+    ]
+  },
+  {
+    "title": "Nippon Sanso přináší hořák RotoTIG pro kovový 3D tisk do Evropy",
+    "summary": "Industrial gas and process technology company Nippon Sanso showcased its 3DPro RotoTIG torch in Europe at last week’s Formnext 2026, bringing its rotary tungsten inert gas (TIG) welding technology to the region for wire-based metal additive manufacturing. The system combines a centrally fed metal wire with a tungsten electrode that rotates around it. According to&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/3DProRotoTIG-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-25T13:00:00+00:00",
+    "url": "https://3dprintingindustry.com/news/nippon-sanso-brings-rototig-metal-am-torch-to-europe-257257/?utm_source=rss&utm_medium=rss&utm_campaign=nippon-sanso-brings-rototig-metal-am-torch-to-europe",
+    "forced_tags": [],
+    "title_en": "Nippon Sanso brings RotoTIG metal AM torch to Europe",
+    "summary_bullets_en": [
+      "Nippon Sanso introduced its 3DPro RotoTIG welding torch to the European market at Formnext 2026.",
+      "The technology utilizes a rotary tungsten electrode that orbits a centrally fed metal wire for additive manufacturing.",
+      "This system is designed to enhance wire-based metal 3D printing processes through precise thermal control.",
+      "The innovation aims to provide industrial users with more efficient and stable metal deposition capabilities."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Nippon Sanso představila na veletrhu Formnext 2026 svůj svařovací hořák 3DPro RotoTIG pro evropský trh.",
+      "Technologie využívá rotující wolframovou elektrodu, která obíhá kolem centrálně podávaného kovového drátu pro účely aditivní výroby.",
+      "Systém je navržen tak, aby zlepšil procesy 3D tisku kovů z drátu prostřednictvím přesné kontroly teploty.",
+      "Inovace má za cíl poskytnout průmyslovým uživatelům efektivnější a stabilnější možnosti nanášení kovových vrstev."
+    ],
+    "tags": [
+      "Hardware",
+      "Metal Additive Manufacturing",
+      "Nippon Sanso",
+      "RotoTIG",
+      "Welding Technology",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "3D tisk se setkává s jadernou realitou",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973972892/0/fabbaloo/default~D-Printing-Meets-Nuclear-Reality\" rel=\"nofollow\" title=\"3D Printing Meets Nuclear Reality\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/Filename-_502.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Charles R. Goulding and Preeti Sulibhavi spotlight ORNL’s push to bring 3D printed nuclear hardware from the laboratory to the factory floor while strengthening America’s domestic manufacturing base.\t</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973972892/0/fabbaloo/default~D-Printing-Meets-Nuclear-Reality\" rel=\"nofollow\">3D Printing Meets Nuclear Reality</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/Filename-_502.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-25T11:49:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973972892/0/fabbaloo/default~D-Printing-Meets-Nuclear-Reality",
+    "forced_tags": [],
+    "title_en": "3D Printing Meets Nuclear Reality",
+    "summary_bullets_en": [
+      "Oak Ridge National Laboratory (ORNL) is actively transitioning 3D printed nuclear components from experimental research to industrial-scale production.",
+      "The initiative aims to revitalize the domestic U.S. manufacturing sector by integrating advanced additive manufacturing into the nuclear supply chain.",
+      "Authors Charles R. Goulding and Preeti Sulibhavi highlight the strategic importance of these technologies for modernizing nuclear infrastructure."
+    ],
+    "summary_bullets_cs": [
+      "Oak Ridge National Laboratory (ORNL) aktivně převádí 3D tištěné jaderné komponenty z experimentálního výzkumu do průmyslové výroby.",
+      "Iniciativa si klade za cíl oživit domácí výrobní základnu USA integrací pokročilé aditivní výroby do dodavatelského řetězce v jaderném průmyslu.",
+      "Autoři Charles R. Goulding a Preeti Sulibhavi zdůrazňují strategický význam těchto technologií pro modernizaci jaderné infrastruktury."
+    ],
+    "tags": [
+      "Hardware",
+      "Additive Manufacturing",
+      "ORNL",
+      "Nuclear Energy",
+      "Industrial Manufacturing",
+      "U.S. Manufacturing"
+    ]
+  },
+  {
+    "title": "Společnost Boom si objednala tři tiskárny Lithoz pro výrobu jader turbínových lopatek",
+    "summary": "Boom Supersonic has ordered three CeraFab S65 ceramic 3D printers from Austrian manufacturer Lithoz to produce complex casting cores for single-crystal turbine blades used in its Superpower industrial gas turbines. The order will bring ceramic core production in-house as Boom develops an all-digital foundry for turbine blades and vanes at its Superpower Superfactory in Colorado.&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/Boom_Supersonic_Superpower_Turbine-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-25T11:27:40+00:00",
+    "url": "https://3dprintingindustry.com/news/boom-orders-three-lithoz-printers-for-turbine-blade-cores-257270/?utm_source=rss&utm_medium=rss&utm_campaign=boom-orders-three-lithoz-printers-for-turbine-blade-cores",
+    "forced_tags": [],
+    "title_en": "Boom orders three Lithoz printers for turbine blade cores",
+    "summary_bullets_en": [
+      "Boom Supersonic purchased three Lithoz CeraFab S65 ceramic 3D printers.",
+      "The technology will be used to manufacture complex casting cores for single-crystal turbine blades.",
+      "This move enables in-house production as part of the company's new digital foundry at its Colorado Superfactory."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Boom Supersonic si objednala tři keramické 3D tiskárny CeraFab S65 od rakouského výrobce Lithoz.",
+      "Tiskárny budou sloužit k výrobě složitých licích jader pro monokrystalické turbínové lopatky používané v průmyslových plynových turbínách Superpower.",
+      "Tento krok umožní přesunout výrobu keramických jader přímo do firmy v rámci budování plně digitální slévárny v coloradské továrně Superfactory."
+    ],
+    "tags": [
+      "Hardware",
+      "Boom Supersonic",
+      "Lithoz",
+      "Ceramic 3D Printing",
+      "Aerospace",
+      "Casting"
+    ]
+  },
+  {
+    "title": "Společnost BigRep uvádí na trh PELLEX 750 s rychlostí vytlačování granulátu 4 kg/h",
+    "summary": "German large-format 3D printer manufacturer BigRep has launched the PELLEX 750, a 750-liter pellet extrusion system developed with US extrusion specialist Massive Dimension, at Formnext 2026. Built on BigRep’s ONE platform, the machine incorporates Massive Dimension’s MDX pellet extruder and processes up to 4 kg of material per hour. It has a 1,000 x 1,005&#8230;",
+    "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/DSC01788-scaled-square-e282b42f9303353c5af3a1b376dee402-7ghp162u0wlm-150x100.jpg",
+    "source": "3D Printing Industry",
+    "published": "2026-11-25T11:27:07+00:00",
+    "url": "https://3dprintingindustry.com/news/bigrep-launches-pellex-750-with-4kg-h-pellet-extrusion-257266/?utm_source=rss&utm_medium=rss&utm_campaign=bigrep-launches-pellex-750-with-4kg-h-pellet-extrusion",
+    "forced_tags": [],
+    "title_en": "BigRep launches PELLEX 750 with 4kg/h pellet extrusion",
+    "summary_bullets_en": [
+      "BigRep introduced the PELLEX 750, a large-format pellet extrusion 3D printer, at Formnext 2026.",
+      "The system features a 750-liter build volume and integrates Massive Dimension’s MDX extruder.",
+      "It achieves a high throughput of 4 kg of material per hour, based on the established BigRep ONE platform.",
+      "The machine offers a build envelope of 1,000 x 1,005 mm, targeting industrial-scale production."
+    ],
+    "summary_bullets_cs": [
+      "Německý výrobce velkoformátových 3D tiskáren BigRep představil na veletrhu Formnext 2026 systém PELLEX 750 pro tisk z granulátu.",
+      "Stroj využívá platformu BigRep ONE a je vybaven extrudérem MDX od americké společnosti Massive Dimension.",
+      "Tiskárna dosahuje rychlosti zpracování materiálu až 4 kg za hodinu.",
+      "Zařízení disponuje tiskovým objemem 750 litrů a pracovní plochou 1 000 x 1 005 mm."
+    ],
+    "tags": [
+      "Hardware",
+      "BigRep",
+      "Massive Dimension",
+      "Pellet Extrusion",
+      "Large-format 3D Printing",
+      "Formnext"
+    ]
+  },
+  {
+    "title": "Elektropryskyřice se dokážou samy vytvrdit",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/973960163/0/fabbaloo/default~Electroresins-Can-Cure-Themselves\" rel=\"nofollow\" title=\"Electroresins Can Cure Themselves\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/electroresins-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>What if the resin could heat itself?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973960163/0/fabbaloo/default~Electroresins-Can-Cure-Themselves\" rel=\"nofollow\">Electroresins Can Cure Themselves</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/electroresins-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-25T08:16:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/973960163/0/fabbaloo/default~Electroresins-Can-Cure-Themselves",
+    "forced_tags": [],
+    "title_en": "Electroresins Can Cure Themselves",
+    "summary_bullets_en": [
+      "Researchers are developing innovative electroresins capable of internal self-heating.",
+      "This technology allows the material to cure itself through electrical stimulation.",
+      "The advancement could significantly improve the efficiency and structural integrity of 3D printed resin parts."
+    ],
+    "summary_bullets_cs": [
+      "Výzkumníci vyvíjejí inovativní elektropryskyřice, které jsou schopny vnitřního ohřevu.",
+      "Tato technologie umožňuje materiálu vytvrdit se pomocí elektrické stimulace.",
+      "Tento pokrok by mohl výrazně zlepšit efektivitu a strukturální integritu 3D tištěných dílů z pryskyřice."
+    ],
+    "tags": [
+      "Material",
+      "3D Printing",
+      "Resin",
+      "Electroresins",
+      "Additive Manufacturing"
+    ]
+  },
+  {
+    "title": "Bambu Lab a Univerzita Čching-chua spolupracují na interaktivním 3D tisku",
+    "summary": "A musical desktop companion, an interactive guessing game, and a tabletop fighting robot might seem like three very different projects. But they all have something in common: they were created...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/Picture2.jpg",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-25T07:00:09+00:00",
+    "url": "https://3dprint.com/337503/bambu-lab-and-tsinghua-university-team-up-on-interactive-3d-printing/",
+    "forced_tags": [],
+    "title_en": "Bambu Lab and Tsinghua University Team Up on Interactive 3D Printing",
+    "summary_bullets_en": [
+      "Bambu Lab collaborated with Tsinghua University to explore the potential of interactive 3D printed objects.",
+      "The project showcases diverse applications including a musical companion, a guessing game, and a fighting robot.",
+      "The initiative highlights how 3D printing can move beyond static models into functional, interactive devices.",
+      "This partnership aims to push the boundaries of consumer-grade additive manufacturing and creative engineering."
+    ],
+    "summary_bullets_cs": [
+      "Hudební společník na stůl, interaktivní hra na hádání a stolní bojový robot se mohou zdát jako tři velmi odlišné projekty.",
+      "Všechny tyto projekty však mají jedno společné: vznikly díky spolupráci mezi společností Bambu Lab a Univerzitou Čching-chua.",
+      "Iniciativa demonstruje, jak lze 3D tisk využít k vytváření funkčních a interaktivních zařízení, nikoliv pouze statických modelů."
+    ],
+    "tags": [
+      "Hardware",
+      "Bambu Lab",
+      "Tsinghua University",
+      "3D Printing",
+      "Innovation",
+      "Interactive Robotics"
+    ]
+  },
+  {
     "title": "eufyMake E1 dodává hotovým 3D výtiskům barvu a texturu",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/973918850/0/fabbaloo/default~The-eufyMake-E-Adds-Color-And-Texture-To-Existing-D-Prints\" rel=\"nofollow\" title=\"The eufyMake E1 Adds Color And Texture To Existing 3D Prints\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/eufy-cover1.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>A 3D model can be printed successfully, but not look truly finished.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973918850/0/fabbaloo/default~The-eufyMake-E-Adds-Color-And-Texture-To-Existing-D-Prints\" rel=\"nofollow\">The eufyMake E1 Adds Color And Texture To Existing 3D Prints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/eufy-cover1.jpg",
