@@ -1,5 +1,30 @@
 [
   {
+    "title": "Je svět skutečně připraven na spotřebitelský 3D tisk z kovu?",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/974104688/0/fabbaloo/default~Is-The-World-Actually-Ready-For-Consumer-Metal-D-Printing\" rel=\"nofollow\" title=\"Is The World Actually Ready For Consumer Metal 3D Printing?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/snowx-formnext-cover-1.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>There was considerable discussion about SnowX at Formnext this year.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/974104688/0/fabbaloo/default~Is-The-World-Actually-Ready-For-Consumer-Metal-D-Printing\" rel=\"nofollow\">Is The World Actually Ready For Consumer Metal 3D Printing?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/snowx-formnext-cover-1.jpeg",
+    "source": "Fabbaloo",
+    "published": "2026-11-26T16:23:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/974104688/0/fabbaloo/default~Is-The-World-Actually-Ready-For-Consumer-Metal-D-Printing",
+    "forced_tags": [],
+    "title_en": "Is The World Actually Ready For Consumer Metal 3D Printing?",
+    "summary_bullets_en": [
+      "The article examines whether the world is ready for consumer metal 3D printing.",
+      "The topic was sparked by considerable discussion surrounding SnowX at this year's Formnext.",
+      "The post was published on the 3D printing news portal Fabbaloo."
+    ],
+    "summary_bullets_cs": [
+      "Článek se zamýšlí nad tím, zda je svět skutečně připraven na spotřebitelský 3D tisk z kovu.",
+      "Téma vychází ze značné diskuse kolem projektu SnowX na letošním veletrhu Formnext.",
+      "Příspěvek byl publikován na odborném portálu Fabbaloo."
+    ],
+    "tags": [
+      "Hardware",
+      "SnowX"
+    ],
+    "region": "WORLD"
+  },
+  {
     "title": "Systém Aurora od BCN3D by mohl nastavit nová očekávání pro 3D tisk",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/974091800/0/fabbaloo/default~BCNDs-Aurora-Might-Set-New-Expectations-for-D-Printing\" rel=\"nofollow\" title=\"BCN3D&#8217;s Aurora Might Set New Expectations for 3D Printing\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/bcn3d-aurora-cover-1.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>BCN3D may be onto something with their new Aurora system.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/974091800/0/fabbaloo/default~BCNDs-Aurora-Might-Set-New-Expectations-for-D-Printing\" rel=\"nofollow\">BCN3D&#8217;s Aurora Might Set New Expectations for 3D Printing</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/bcn3d-aurora-cover-1.jpeg",
@@ -263,6 +288,34 @@
       "HP"
     ],
     "region": "US"
+  },
+  {
+    "title": "Může kovový 3D tisk opustit továrnu? SnowX představuje SnowPod a oznamuje partnerství s Autodesk a Meshy AI",
+    "summary": "Last month, we looked at the winding road that led SnowX to SnowPod, its desktop metal 3D printer. At Formnext 2026, we met founder and CEO Fangda Xu at the SnowX booth to see the machine in action and hear&#8230;",
+    "image": "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/formnext-snowx-cover.jpg",
+    "source": "3Dnatives",
+    "published": "2026-11-25T23:01:34+00:00",
+    "url": "https://www.3dnatives.com/en/snowpod-formnext-2026-23112026/",
+    "forced_tags": [],
+    "title_en": "Can Metal 3D Printing Leave the Factory? SnowX Makes Its Case with SnowPod, Announces Partnerships with Autodesk and Meshy AI",
+    "summary_bullets_en": [
+      "SnowX showcased its desktop metal 3D printer, the SnowPod.",
+      "The company announced new partnerships with Autodesk and Meshy AI.",
+      "The machine was demonstrated in action at the SnowX booth during Formnext 2026 with founder and CEO Fangda Xu."
+    ],
+    "summary_bullets_cs": [
+      "Společnost SnowX představila stolní kovovou 3D tiskárnu SnowPod.",
+      "Firma oznámila nová partnerství se společnostmi Autodesk a Meshy AI.",
+      "Zařízení bylo předvedeno v akci na stánku SnowX na veletrhu Formnext 2026 za účasti zakladatele a ředitele Fangda Xu."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "SnowX",
+      "Autodesk",
+      "Meshy AI"
+    ],
+    "region": "DE"
   },
   {
     "title": "Projekt JATEC se zaměřuje na 3D tisk pro opravy dronů a dodávky komponentů",
@@ -914,6 +967,32 @@
     "region": "DE"
   },
   {
+    "title": "Rychlejší a snazší tisk z PEEKu? INTAMSYS o tiskárně FUNMAT PRO 610HT NEO na veletrhu Formnext",
+    "summary": "PEEK is a tough material, in both senses of the word. It&#8217;s strong, but also difficult to print, because it requires a 500°C nozzle, a heated chamber, and usually some test runs to get it right. INTAMSYS built its new&#8230;",
+    "image": "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/Formnext_Intamsys_cover.jpg",
+    "source": "3Dnatives",
+    "published": "2026-11-25T11:07:41+00:00",
+    "url": "https://www.3dnatives.com/en/intamsys-neo-peek-formnext-25112026/",
+    "forced_tags": [],
+    "title_en": "PEEK Printing Made Faster and Easier? INTAMSYS on the FUNMAT PRO 610HT NEO at Formnext",
+    "summary_bullets_en": [
+      "PEEK is a strong material that is difficult to 3D print.",
+      "Printing PEEK requires a 500°C nozzle, a heated chamber, and usually some test runs.",
+      "INTAMSYS showcased its new FUNMAT PRO 610HT NEO at Formnext."
+    ],
+    "summary_bullets_cs": [
+      "PEEK je pevný materiál, jehož 3D tisk je ale náročný.",
+      "Tisk z tohoto materiálu vyžaduje trysku s teplotou 500 °C, vyhřívanou komoru a obvykle i několik zkušebních výtisků.",
+      "Společnost INTAMSYS představila na veletrhu Formnext svou novou tiskárnu FUNMAT PRO 610HT NEO."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "INTAMSYS"
+    ],
+    "region": "DE"
+  },
+  {
     "title": "Elektropryskyřice se dokážou samy vytvrdit",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/973960163/0/fabbaloo/default~Electroresins-Can-Cure-Themselves\" rel=\"nofollow\" title=\"Electroresins Can Cure Themselves\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/electroresins-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>What if the resin could heat itself?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973960163/0/fabbaloo/default~Electroresins-Can-Cure-Themselves\" rel=\"nofollow\">Electroresins Can Cure Themselves</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/electroresins-cover.jpg",
@@ -972,6 +1051,32 @@
     "region": "CN"
   },
   {
+    "title": "Je aditivní výroba přeceňovaná? Ben Wynne, CTO společnosti Intrepid Automation, v pořadu AMinsider",
+    "summary": "Additive manufacturing has long been demonstrating its potential, but there are still obstacles to fully integrating it into industrial processes. What does it take to overcome these barriers? In the latest episode of AMinsider, Ben Wynne, co-founder and CTO of&#8230;",
+    "image": "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/AMinsider-Ben-Wynne-Cover.jpg",
+    "source": "3Dnatives",
+    "published": "2026-11-24T17:00:14+00:00",
+    "url": "https://www.3dnatives.com/en/aminsider-ben-wynne-24112026/",
+    "forced_tags": [],
+    "title_en": "Is Additive Manufacturing Production Overrated? Ben Wynne, CTO of Intrepid Automation, on AMinsider",
+    "summary_bullets_en": [
+      "Additive manufacturing has long demonstrated its potential, yet obstacles remain to fully integrating it into industrial processes.",
+      "The latest episode of AMinsider features Ben Wynne, co-founder and CTO of Intrepid Automation.",
+      "The discussion focuses on what it takes to overcome barriers in industrial additive manufacturing production."
+    ],
+    "summary_bullets_cs": [
+      "Aditivní výroba dlouhodobě ukazuje svůj potenciál, ale její plné zapojení do průmyslových procesů stále naráží na překážky.",
+      "V nejnovějším dílu pořadu AMinsider vystoupil Ben Wynne, spoluzakladatel a technický ředitel společnosti Intrepid Automation.",
+      "Rozhovor se zaměřuje na to, co je potřeba k překonání bariér v průmyslové aditivní výrobě."
+    ],
+    "tags": [
+      "Additive Manufacturing",
+      "Intrepid Automation",
+      "AMinsider"
+    ],
+    "region": "WORLD"
+  },
+  {
     "title": "eufyMake E1 dodává hotovým 3D výtiskům barvu a texturu",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/973918850/0/fabbaloo/default~The-eufyMake-E-Adds-Color-And-Texture-To-Existing-D-Prints\" rel=\"nofollow\" title=\"The eufyMake E1 Adds Color And Texture To Existing 3D Prints\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/eufy-cover1.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>A 3D model can be printed successfully, but not look truly finished.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973918850/0/fabbaloo/default~The-eufyMake-E-Adds-Color-And-Texture-To-Existing-D-Prints\" rel=\"nofollow\">The eufyMake E1 Adds Color And Texture To Existing 3D Prints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/eufy-cover1.jpg",
@@ -998,6 +1103,30 @@
       "Finishing"
     ],
     "region": "WORLD"
+  },
+  {
+    "title": "Pět 3D tiskáren, které tisknou detaily menší než lidský vlas",
+    "summary": "Last year at Formnext, we went looking for the biggest printers at the show. This year, we went the opposite way and looked for machines that print in very fine detail. Every printer on this list can produce features finer&#8230;",
+    "image": "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/formnext-small-prints-ranking-cover.jpg",
+    "source": "3Dnatives",
+    "published": "2026-11-24T15:46:25+00:00",
+    "url": "https://www.3dnatives.com/en/micro-3d-printers-formnext-24112026/",
+    "forced_tags": [],
+    "title_en": "Five 3D Printers That Print Smaller Than a Human Hair",
+    "summary_bullets_en": [
+      "The article highlights a selection of five 3D printers focused on printing very fine details.",
+      "Every machine on the list is capable of producing features finer than a human hair.",
+      "The selection was made at the Formnext trade show, contrasting with last year's search for the biggest printers."
+    ],
+    "summary_bullets_cs": [
+      "Článek představuje výběr pěti 3D tiskáren zaměřených na tisk velmi jemných detailů.",
+      "Všechny zařazené stroje dokážou vytvářet prvky menší, než je tloušťka lidského vlasu.",
+      "Výběr vznikl na veletrhu Formnext jako protiklad k loňskému hledání největších tiskáren."
+    ],
+    "tags": [
+      "Hardware"
+    ],
+    "region": "DE"
   },
   {
     "title": "Lynxel dokáže 3D tisknout pevné, plnobarevné objekty za velmi nízkou cenu",
@@ -1608,6 +1737,31 @@
     "region": "DE"
   },
   {
+    "title": "Nová řešení 3D tisku od HeyGears: více barev a automatizace",
+    "summary": "At the Formnext 2026 trade show, it was hard to miss the HeyGears booth. This year, the manufacturer went all out with color and plenty of machines. Among them was the G1X series, a UV 3D printer that lets you&#8230;",
+    "image": "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/Formnext_HeyGears_cover.jpg",
+    "source": "3Dnatives",
+    "published": "2026-11-24T11:18:02+00:00",
+    "url": "https://www.3dnatives.com/en/heygears-3d-printing-formnext-24112026/",
+    "forced_tags": [],
+    "title_en": "HeyGears’ New 3D Printing Solutions: More Colors and Automation",
+    "summary_bullets_en": [
+      "HeyGears presented new 3D printing solutions at the Formnext 2026 trade show.",
+      "The manufacturer focused on color capabilities and automation across its lineup.",
+      "Among the exhibited machines was the G1X series, a UV 3D printer."
+    ],
+    "summary_bullets_cs": [
+      "Společnost HeyGears představila na veletrhu Formnext 2026 nová řešení pro 3D tisk.",
+      "Výrobce se zaměřil na barevné možnosti a automatizaci napříč svým portfoliem strojů.",
+      "Mezi vystavenými zařízeními byla i řada G1X, což je UV 3D tiskárna."
+    ],
+    "tags": [
+      "Hardware",
+      "HeyGears"
+    ],
+    "region": "DE"
+  },
+  {
     "title": "3D tištěné cihly, které do sebe zapadají pro lunární základny",
     "summary": "A University of Arkansas (U of A) team has made stackable building blocks from nothing but simulated Moon dust. Using laser powder bed fusion, the researchers fused lunar regolith simulant into bricks without adding any binding agent. They describe this as the first demonstration of binder-free sintering of the material into reconfigurable construction blocks, and&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/2026-11-09_10-32-10-PM_83229-150x100.jpg",
@@ -1882,6 +2036,58 @@
       "Additive Manufacturing"
     ],
     "region": "US"
+  },
+  {
+    "title": "Formnext 2026: Vzestup dostupného 3D tisku a industrializace",
+    "summary": "This year, Formnext welcomed 38,447 visitors and 765 exhibitors across 47,000 square meters. Machines, software, materials and printed parts were present, representing the entire AM value chain. So, what are the key takeaways from this eleventh edition? Which trends emerged?&#8230;",
+    "image": "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/formnext-trends-cover.jpg",
+    "source": "3Dnatives",
+    "published": "2026-11-23T23:01:14+00:00",
+    "url": "https://www.3dnatives.com/en/formnext-2026-recap-24112026/",
+    "forced_tags": [],
+    "title_en": "Formnext 2026: The Rise of Accessible 3D Printing and Industrialization",
+    "summary_bullets_en": [
+      "This year, Formnext welcomed 38,447 visitors and 765 exhibitors across 47,000 square meters.",
+      "Machines, software, materials, and printed parts were showcased, representing the entire AM value chain.",
+      "The eleventh edition highlighted key industry trends, including the rise of accessible 3D printing and industrialization."
+    ],
+    "summary_bullets_cs": [
+      "Veletrh Formnext letos přivítal 38 447 návštěvníků a 765 vystavovatelů na ploše 47 000 metrů čtverečních.",
+      "Prezentované stroje, software, materiály a výtisky pokryly celý hodnotový řetězec aditivní výroby.",
+      "Jedenáctý ročník se zaměřil na hlavní trendy v oboru, zejména na dostupnější 3D tisk a industrializaci."
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Material",
+      "Formnext"
+    ],
+    "region": "DE"
+  },
+  {
+    "title": "AXILOOP MC8: Modulární tiskárna navržená tak, aby vydržela",
+    "summary": "Desktop 3D printers are becoming increasingly advanced, but what happens when it’s time to repair a component or perform maintenance on the machine? AXILOOP aims to simplify these tasks with the MC8, a modular 3D printer designed to be easy&#8230;",
+    "image": "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/AXILOOP-cover-2.jpg",
+    "source": "3Dnatives",
+    "published": "2026-11-23T16:14:04+00:00",
+    "url": "https://www.3dnatives.com/en/axiloop-mc8-formnext-23112026/",
+    "forced_tags": [],
+    "title_en": "AXILOOP MC8: A Modular Printer Built to Last",
+    "summary_bullets_en": [
+      "Desktop 3D printers are becoming increasingly advanced, making repairs and maintenance more challenging.",
+      "AXILOOP aims to simplify these tasks with its new MC8 machine.",
+      "The AXILOOP MC8 is a modular 3D printer designed to be easy to maintain and built to last."
+    ],
+    "summary_bullets_cs": [
+      "Stolní 3D tiskárny jsou stále pokročilejší, ale jejich opravy a údržba mohou být náročné.",
+      "Společnost AXILOOP představuje model MC8, který má tyto servisní úkony zjednodušit.",
+      "AXILOOP MC8 je modulární 3D tiskárna navržená pro snadnou údržbu a dlouhou životnost."
+    ],
+    "tags": [
+      "Hardware",
+      "AXILOOP"
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Shrnutí Formnext 2026: Nové trendy v 3D tisku",
@@ -2474,6 +2680,31 @@
     "region": "GB"
   },
   {
+    "title": "Proč si tyto firmy vybraly 3D tisk: Formnext 2026",
+    "summary": "Walk the halls of Formnext and one thing becomes clear: end-use parts are everywhere, and the range of applications is remarkable. In the video below, we take a closer look at five that caught our eye. We start with the&#8230;",
+    "image": "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/ranking-2-cover-1.jpg",
+    "source": "3Dnatives",
+    "published": "2026-11-20T17:03:24+00:00",
+    "url": "https://www.3dnatives.com/en/formnext-3d-printing-applications-19112026/",
+    "forced_tags": [],
+    "title_en": "Why These Companies Chose 3D Printing: Formnext 2026",
+    "summary_bullets_en": [
+      "End-use parts are widely visible across the halls of the Formnext trade show.",
+      "The range of 3D printing applications presented at the event is remarkable.",
+      "A featured video takes a closer look at five specific applications that stood out."
+    ],
+    "summary_bullets_cs": [
+      "Na veletrhu Formnext jsou hojně k vidění finální díly vyrobené 3D tiskem.",
+      "Škála aplikací aditivní výroby prezentovaných na akci je velmi široká.",
+      "Doprovodné video se blíže zaměřuje na pět vybraných aplikací, které zaujaly."
+    ],
+    "tags": [
+      "Formnext",
+      "Applications"
+    ],
+    "region": "DE"
+  },
+  {
     "title": "Stratasys si patentuje malé pryskyřičné vany pro vývoj materiálů",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/973539119/0/fabbaloo/default~Stratasys-Patents-Small-Resin-Vats-For-Material-Development\" rel=\"nofollow\" title=\"Stratasys Patents Small Resin Vats For Material Development\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/stratasys-small-vat-patent-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>How much resin do you really need to test a new 3D printing material?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/973539119/0/fabbaloo/default~Stratasys-Patents-Small-Resin-Vats-For-Material-Development\" rel=\"nofollow\">Stratasys Patents Small Resin Vats For Material Development</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/stratasys-small-vat-patent-cover.jpg",
@@ -2534,6 +2765,33 @@
       "Automation"
     ],
     "region": "WORLD"
+  },
+  {
+    "title": "InfiMaker: Může se 5osé obráběcí centrum skutečně vejít na stůl?",
+    "summary": "At Formnext, it’s clear that additive manufacturing and machining have never been so closely intertwined. To produce a finished, precise part, you sometimes need both processes. But 5-axis machining has traditionally been the domain of large workshops, requiring fairly specialized&#8230;",
+    "image": "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/smrrf-cover-1.jpg",
+    "source": "3Dnatives",
+    "published": "2026-11-20T15:07:33+00:00",
+    "url": "https://www.3dnatives.com/en/infimaker-5-axis-machining-center-20112026/",
+    "forced_tags": [],
+    "title_en": "InfiMaker: Can a 5-Axis Machining Center Really Fit on a Desk?",
+    "summary_bullets_en": [
+      "At Formnext, additive manufacturing and machining are shown to be closely intertwined.",
+      "Producing a finished, precise part sometimes requires combining both processes.",
+      "Traditionally, 5-axis machining has been limited to large workshops with specialized equipment.",
+      "InfiMaker explores whether a 5-axis machining center can fit on a desk."
+    ],
+    "summary_bullets_cs": [
+      "Na veletrhu Formnext je patrné, že aditivní výroba a obrábění jsou úzce propojené.",
+      "Výroba hotového a přesného dílu někdy vyžaduje kombinaci obou těchto procesů.",
+      "5osé obrábění bylo dosud tradičně doménou velkých dílen se specializovaným vybavením.",
+      "Společnost InfiMaker se zaměřuje na to, zda se 5osé obráběcí centrum může vejít na stůl."
+    ],
+    "tags": [
+      "Hardware",
+      "InfiMaker"
+    ],
+    "region": "DE"
   },
   {
     "title": "Společnost ProMateria zahajuje průmyslovou výrobu kovových komponentů pomocí 3D tisku",
@@ -2843,6 +3101,58 @@
     "region": "FI"
   },
   {
+    "title": "Jak FELIX Printers staví 3D tiskárny pro jediného zákazníka",
+    "summary": "What does it take for a 3D printer to achieve lights-out production? And what does it mean for a printer to be built for one specific application and one specific customer? We put these questions to Guillaume Felixsdal, Co-Founder and&#8230;",
+    "image": "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/felix-cover.jpg",
+    "source": "3Dnatives",
+    "published": "2026-11-20T11:05:53+00:00",
+    "url": "https://www.3dnatives.com/en/felix-printers-targeted-production-power-20112026/",
+    "forced_tags": [],
+    "title_en": "How FELIX Printers Builds 3D Printers for Just One Customer",
+    "summary_bullets_en": [
+      "An interview with Guillaume Felixsdal, Co-Founder of FELIX Printers.",
+      "Focuses on what it means to build a 3D printer for one specific application and one specific customer.",
+      "Explores the requirements for a 3D printer to achieve lights-out production."
+    ],
+    "summary_bullets_cs": [
+      "Rozhovor s Guillaumem Felixsdalem, spoluzakladatelem společnosti FELIX Printers.",
+      "Tématem je vývoj 3D tiskáren navržených přesně pro jednu konkrétní aplikaci a jednoho zákazníka.",
+      "Článek se zabývá také požadavky na dosažení plně automatizované výroby bez obsluhy (lights-out production)."
+    ],
+    "tags": [
+      "Hardware",
+      "FELIX Printers"
+    ],
+    "region": "NL"
+  },
+  {
+    "title": "Axiloop uvádí na trh tiskárny MC8 a MC8 Pro s osmi tiskovými hlavami a výměnou tiskových hlav za čtyři sekundy",
+    "summary": "Just a few months ago, little was known about the Axiloop MC8 beyond a handful of images shared on social media. Since then, the Chinese company has presented the printer at Formnext Asia Shenzhen and at Formnext 2026 in Frankfurt,&#8230;",
+    "image": "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/Axiloop-Cover.jpg",
+    "source": "3Dnatives",
+    "published": "2026-11-20T09:00:01+00:00",
+    "url": "https://www.3dnatives.com/en/axiloop-mc8-20112026/",
+    "forced_tags": [],
+    "title_en": "Axiloop launches the MC8 and MC8 Pro, with eight toolheads and four-second tool changes",
+    "summary_bullets_en": [
+      "Chinese company Axiloop has launched the MC8 and MC8 Pro 3D printers.",
+      "The machines feature eight toolheads with four-second tool changes.",
+      "Until recently, little was known about the MC8 beyond a few images on social media.",
+      "Axiloop has since presented the printer at Formnext Asia Shenzhen and Formnext 2026 in Frankfurt."
+    ],
+    "summary_bullets_cs": [
+      "Čínská společnost Axiloop uvedla na trh 3D tiskárny MC8 a MC8 Pro.",
+      "Zařízení disponují osmi tiskovými hlavami s výměnou tiskových hlav za čtyři sekundy.",
+      "Ještě před několika měsíci bylo o modelu MC8 známo jen málo kromě několika snímků na sociálních sítích.",
+      "Společnost tiskárnu mezitím představila na veletrzích Formnext Asia Shenzhen a Formnext 2026 ve Frankfurtu."
+    ],
+    "tags": [
+      "Hardware",
+      "Axiloop"
+    ],
+    "region": "CN"
+  },
+  {
     "title": "SAF, keramika a další: Nové 3D tiskárny představené na veletrhu Formnext 2026",
     "summary": "It&#8217;s the final day of Formnext 2026! We&#8217;ve been bringing you news from the show floor all week, covering everything from software, services, and AI to panels, powder, post-processing, and,...",
     "image": "https://3dprint.com/wp-content/uploads/2026/11/IMG_SAF_H550_01_white-1024x768.png",
@@ -2990,6 +3300,34 @@
       "Services",
       "Formnext",
       "3D Printing Industry"
+    ],
+    "region": "DE"
+  },
+  {
+    "title": "Od 3D tištěných podprsenek po recyklaci elektroodpadu: Vítězové cen Formnext Awards 2026",
+    "summary": "Yesterday, Formnext announced its 2026 award winners. The recognized innovations include a 3D printed bra, a system that dries filament immediately before printing, and a process that transforms electronic waste into copper powder. Here&#8217;s a look at the winners of&#8230;",
+    "image": "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/Formnext-Awards-cover-1.jpg",
+    "source": "3Dnatives",
+    "published": "2026-11-20T07:00:04+00:00",
+    "url": "https://www.3dnatives.com/en/formnext-awards-2026-06112026/",
+    "forced_tags": [],
+    "title_en": "From 3D-Printed Bras to E-Waste Recycling: The Winners of the 2026 Formnext Awards",
+    "summary_bullets_en": [
+      "Formnext announced the winners of its 2026 awards.",
+      "The recognized innovations include a 3D-printed bra.",
+      "A system that dries filament immediately before printing was also awarded.",
+      "Another winning innovation is a process that transforms electronic waste into copper powder."
+    ],
+    "summary_bullets_cs": [
+      "Veletrh Formnext oznámil vítěze svých cen Formnext Awards 2026.",
+      "Mezi oceněnými inovacemi je 3D tištěná podprsenka.",
+      "Ocenění získal také systém, který suší tiskovou strunu bezprostředně před tiskem.",
+      "Další oceněnou novinkou je proces přeměňující elektronický odpad na měděný prášek."
+    ],
+    "tags": [
+      "Hardware",
+      "Material",
+      "Formnext"
     ],
     "region": "DE"
   },
