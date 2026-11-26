@@ -22,7 +22,7 @@ def summary(**changes):
     data = {
         'is_relevant': True, 'title_cs': 'Nadpis', 'title_en': 'Title',
         'summary_bullets_cs': ['a'], 'summary_bullets_en': ['a'],
-        'tags': ['Hardware'], 'region_cs': '🌐 Svět', 'region_en': '🌐 Worldwide',
+        'tags': ['Hardware'], 'region': 'WORLD',
     }
     return gen.ArticleSummary(**{**data, **changes})
 
@@ -64,6 +64,14 @@ class FakeEnricher:
         if isinstance(answer, Exception):
             raise answer
         return answer
+
+    def regions(self, articles):
+        """Kód oblasti podle odpovědí; výjimka v odpovědích = selhání celé dávky."""
+        self.seen.append([a['url'] for a in articles])
+        for article in articles:
+            if isinstance(self.answers.get(article['url']), Exception):
+                raise self.answers[article['url']]
+        return {i: self.answers.get(a['url'], 'DE') for i, a in enumerate(articles) if self.answers.get(a['url'], 'DE')}
 
 
 class Response:
@@ -293,6 +301,100 @@ def test_bez_klice_srozumitelna_chyba(monkeypatch):
     with pytest.raises(gen.AIError) as info:
         gen.GeminiEnricher.from_env()
     assert info.value.fatal
+
+
+# --- oblast ---
+
+@pytest.mark.parametrize('value,code', [
+    ('CZ', 'CZ'), (' de ', 'DE'), ('UK', 'GB'), ('Worldwide', 'WORLD'), ('europe', 'EUROPE'),
+    ('North America', 'AMERICAS'), ('🌐 Svět', None), ('Německo', None), ('', None), (None, None), ('CZE', None),
+])
+def test_kod_oblasti(value, code):
+    assert gen.normalize_region(value) == code
+
+
+def test_novy_clanek_ma_kod_oblasti_a_ne_textova_pole():
+    record = gen.apply_summary(art('https://a/1'), summary(region='UA'))
+    assert record['region'] == 'UA' and 'region_cs' not in record and 'region_en' not in record
+
+
+def test_kod_oblasti_se_sjednoti_a_neplatny_je_chyba():
+    enricher, _ = gemini(sdk_response({'text': summary(region='uk').model_dump_json()}))
+    assert enricher.summarize(art('https://a/1'), 'en').region == 'GB'
+    enricher, _ = gemini(sdk_response({'text': summary(region='🇩🇪 Německo').model_dump_json()}))
+    with pytest.raises(gen.AIError):
+        enricher.summarize(art('https://a/1'), 'en')
+
+
+def test_neplatna_oblast_u_nerelevantniho_clanku_nevadi():
+    enricher, _ = gemini(sdk_response({'text': summary(is_relevant=False, region='?').model_dump_json()}))
+    assert enricher.summarize(art('https://a/1'), 'en').is_relevant is False
+
+
+def test_davka_oblasti_vynecha_neplatne_cizi_a_opakovane_polozky():
+    answer = {'items': [{'id': 0, 'region': 'cz'}, {'id': 1, 'region': 'Německo'}, {'id': 0, 'region': 'DE'},
+                        {'id': 7, 'region': 'US'}, {'id': 2, 'region': 'WORLD'}]}
+    enricher, models = gemini(sdk_response({'text': json.dumps(answer)}))
+    batch = [art(f'https://a/{i}', title_en=f'Title {i}', summary_bullets_en=['bod']) for i in range(3)]
+    assert enricher.regions(batch) == {0: 'CZ', 2: 'WORLD'}
+    assert '[2] Title 2' in models.kwargs['contents'] and 'WORLD' in models.kwargs['contents']
+    schema = models.kwargs['config'].response_json_schema
+    assert schema['required'] == ['items'] and '$ref' not in json.dumps(schema) and '$defs' not in schema
+    assert schema['properties']['items']['items']['required'] == ['id', 'region']
+
+
+def test_doplneni_oblasti_jen_tam_kde_chybi_a_stara_pole_zmizi(monkeypatch):
+    monkeypatch.setattr(gen, 'REGION_BATCH', 2)
+    storage = MemoryStorage({
+        'news_2026_11.json': [art('https://a/1', region='US'), art('https://a/2', region_cs='🌐 Svět', region_en='🌐 Worldwide'),
+                              art('https://a/3'), art('https://a/4')],
+        'news_2026_10.json': [art('https://a/5', '2026-10-01T00:00:00+00:00')],
+    })
+    enricher = FakeEnricher({'https://a/3': 'CZ'})
+    assert gen.backfill_regions(storage, enricher, ['2026_11', '2026_10']) == 4
+    assert enricher.seen == [['https://a/2', 'https://a/3'], ['https://a/4'], ['https://a/5']]
+    stored = {a['url']: a for a in storage.read('news_2026_11.json')[0]}
+    assert [stored[u]['region'] for u in ('https://a/1', 'https://a/2', 'https://a/3', 'https://a/4')] == ['US', 'DE', 'CZ', 'DE']
+    assert not any('region_cs' in a or 'region_en' in a for a in stored.values())
+    storage.writes.clear()
+    second = FakeEnricher()
+    assert gen.backfill_regions(storage, second, ['2026_11', '2026_10']) == 0
+    assert second.seen == [] and storage.writes == [], 'druhý běh nemá co doplnit'
+
+
+def test_doplneni_oblasti_s_limitem(monkeypatch):
+    storage = MemoryStorage({'news_2026_11.json': [art(f'https://a/{i}') for i in range(5)]})
+    assert gen.backfill_regions(storage, FakeEnricher(), ['2026_11'], limit=2) == 2
+    assert sum('region' in a for a in storage.read('news_2026_11.json')[0]) == 2
+
+
+def test_opakovane_selhani_doplneni_ulozi_hotove_a_skonci(monkeypatch):
+    monkeypatch.setattr(gen, 'REGION_BATCH', 1)
+    urls = [f'https://a/{i}' for i in range(6)]
+    storage = MemoryStorage({'news_2026_11.json': [art(u) for u in urls], 'news_2026_10.json': [art('https://b/1')]})
+    answers = {u: gen.AIError('429') for u in urls[1:]}
+    with pytest.raises(gen.AIError):
+        gen.backfill_regions(storage, FakeEnricher(answers), ['2026_11', '2026_10'])
+    stored = storage.read('news_2026_11.json')[0]
+    assert [a['url'] for a in stored if a.get('region')] == ['https://a/0']
+    assert storage.writes == ['news_2026_11.json'], 'další měsíc se po přerušení nezpracuje'
+
+
+def test_doplneni_oblasti_po_soubeznem_zapisu_nic_neztrati():
+    storage = MemoryStorage({'news_2026_11.json': [art('https://a/1')]}, conflicts=1)
+    gen.backfill_regions(storage, FakeEnricher(), ['2026_11'])
+    stored = {a['url']: a for a in storage.read('news_2026_11.json')[0]}
+    assert stored['https://a/1']['region'] == 'DE' and 'https://x/soubezny' in stored
+
+
+@pytest.mark.parametrize('value', ['2026-13', '2026/09', '', 'září'])
+def test_mesic_pro_doplneni_musi_mit_tvar_rrrr_mm(value):
+    with pytest.raises(ValueError):
+        gen.months_since(value, NOW)
+
+
+def test_mesice_pro_doplneni():
+    assert gen.months_since('2026-09', NOW) == ['2026_11', '2026_10', '2026_09']
 
 
 # --- běh ---
