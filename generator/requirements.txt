@@ -1,0 +1,5 @@
+feedparser==6.0.14
+python-dotenv==1.2.4
+requests==2.34.2
+pydantic==2.14.4
+google-genai==3.6.1
