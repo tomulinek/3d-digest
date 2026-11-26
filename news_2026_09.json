@@ -24,7 +24,8 @@
       "3D Modeling",
       "Spare Parts",
       "Open Source"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Dokumenty FCC odhalují systém pro správu resinu Creality Hyperfeed",
@@ -51,7 +52,8 @@
       "Resin 3D Printing",
       "Automation",
       "Hyperfeed"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Výrobní závod MX3D získal nejvyšší certifikaci DNV pro aditivní výrobu",
@@ -79,7 +81,8 @@
       "DNV",
       "Metal 3D Printing",
       "Certification"
-    ]
+    ],
+    "region": "NL"
   },
   {
     "title": "Co pohání 3D tisk do železniční výroby?",
@@ -110,7 +113,8 @@
       "Additive Manufacturing",
       "Certification",
       "Industrial 3D Printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Signály poptávky po AM: Odolnost globální sítě, 2. část",
@@ -140,7 +144,8 @@
       "AI Infrastructure",
       "Energy Grid",
       "Supply Chain"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost Carbon vyhrála patentový spor o technologii duálního vytvrzování v 3D tisku v Evropě",
@@ -170,7 +175,8 @@
       "3D Printing",
       "Patent Law",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "EUROPE"
   },
   {
     "title": "Patent společnosti Carbon obstál v odvolacím řízení u Evropského patentového úřadu",
@@ -198,7 +204,8 @@
       "EPO",
       "3D Printing",
       "Intellectual Property"
-    ]
+    ],
+    "region": "EUROPE"
   },
   {
     "title": "Továrna v pokoji streamera",
@@ -229,7 +236,8 @@
       "CAD",
       "Manufacturing",
       "Digital Fabrication"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Budování profilů na trhu služeb aditivní výroby – průzkum trhu přesahující AI scraping",
@@ -256,7 +264,8 @@
       "Additive Manufacturing",
       "AM Research",
       "Industry Analysis"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Investice JPMorgan ve výši 24 milionů USD do loďařství by mohla vytvořit nové příležitosti pro aditivní výrobu",
@@ -285,7 +294,8 @@
       "Defense",
       "Additive Manufacturing",
       "Supply Chain"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Patent společnosti Creality přináší vnitřní žebra do vysokorychlostního hotendu",
@@ -313,7 +323,8 @@
       "Hot End",
       "Innovation",
       "High-Speed Printing"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "MIT a Johns Hopkins vyvinuly 3D tištěné zařízení pro včasnou detekci rakoviny",
@@ -344,7 +355,8 @@
       "MIT",
       "Johns Hopkins University",
       "3D Printing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost Addireen otevírá závod v Kan-čou s kapacitou až 50 systémů pro kovový 3D tisk měsíčně",
@@ -372,7 +384,8 @@
       "Addireen",
       "Green Laser",
       "Copper Printing"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Stratasys hlásí rekordní tržby za spotřební materiál ve smíšeném druhém čtvrtletí",
@@ -400,7 +413,8 @@
       "Services",
       "Material",
       "Stratasys"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Kentstrapper Mille vytiskl akustický panel třídy A pro rekonstrukce škol a kanceláří",
@@ -428,7 +442,8 @@
       "Acoustics",
       "Sustainability",
       "Construction"
-    ]
+    ],
+    "region": "IT"
   },
   {
     "title": "Tým z OSU přidává in-situ senzory do platformy pro vícehlavý 3D tisk kompozitů",
@@ -459,7 +474,8 @@
       "Oklahoma State University",
       "Mississippi State University",
       "National Science Foundation"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Projekt vedený Virginia Tech využívá aditivní výrobu k vývoji samomazných slitin pro extrémní žár",
@@ -487,7 +503,8 @@
       "Alloys",
       "Machine Learning",
       "NSF"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Připravuje Bambu Lab samostatný ruční 3D skener?",
@@ -513,7 +530,8 @@
       "3D Scanning",
       "Bambu Lab",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Společnost Wondermaker uvádí na Kickstarteru 3D tiskárnu ZR Ultra s výměnou nástrojů",
@@ -541,7 +559,8 @@
       "Kickstarter",
       "Tool-changing",
       "Multicolor Printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "AMA: Software 2026 – Oznámení řečníci",
@@ -569,7 +588,8 @@
       "Autodesk",
       "Oak Ridge National Laboratory",
       "Markforged"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "LLNL vytiskli 3D bioreaktor v pevném stavu, který přeměňuje odpadní metan na sukcinát",
@@ -599,7 +619,8 @@
       "3D Printing",
       "Sustainability",
       "Chemical Engineering"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Výzkumníci z Uppsaly získali soukromý dar na překlad poznatků o aditivně vyráběných biomateriálech do praxe",
@@ -627,7 +648,8 @@
       "Medical Implants",
       "Research & Development",
       "Uppsala University"
-    ]
+    ],
+    "region": "SE"
   },
   {
     "title": "Monitoring FFF tisku dříve, než se vady stanou trvalými",
@@ -655,7 +677,8 @@
       "Quality Control",
       "In-line Monitoring",
       "3D Printing Automation"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Kalifornie podepsala zákon o blokování 3D tisku zbraní",
@@ -683,7 +706,8 @@
       "Firearms",
       "California",
       "Ghost Guns"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost Carbon obhájila svůj patent na technologii duálního vytvrzování u Evropského patentového úřadu",
@@ -711,7 +735,8 @@
       "3D Printing",
       "Patent Law",
       "Dual-cure Technology"
-    ]
+    ],
+    "region": "EUROPE"
   },
   {
     "title": "Služby v oblasti 3D tisku se blíží 2,5 miliardám dolarů, zatímco trh s aditivní výrobou se posouvá za hranice hardwaru",
@@ -742,7 +767,8 @@
       "Additive Manufacturing",
       "3D Printing Market",
       "On-demand Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Epilog IMTS 2026: Ohlédnutí za veletrhem, kde se spojila výroba",
@@ -771,7 +797,8 @@
       "IMTS 2026",
       "Manufacturing",
       "Industry 4.0"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Diferenciální pohon by mohl odlehčit tiskové hlavy FFF tiskáren",
@@ -801,7 +828,8 @@
       "Extrusion",
       "Innovation",
       "Motion Control"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost SnowX spustila předběžnou stránku na Kickstarteru pro kompaktní kovovou 3D tiskárnu SnowPod",
@@ -829,7 +857,8 @@
       "SnowX",
       "SnowPod",
       "Crowdfunding"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Kovová aditivní výroba v multipolárním světě, 2. část: Jak se PBF a DED mohou změnit do roku 2035",
@@ -863,7 +892,8 @@
       "EOS",
       "Velo3D",
       "GE Additive"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Stratasys vs. Bambu Lab: Co skutečně stojí za verdiktem o patentu ve výši 27,6 milionu dolarů?",
@@ -891,7 +921,8 @@
       "Patents",
       "Legal",
       "3D Printing Industry"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Tento drobný 0,650mm #3DBenchy se tiskl 13 hodin",
@@ -918,7 +949,8 @@
       "3D Printing",
       "Micro-printing",
       "3DBenchy"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Polymaker představuje CoPE, rychlý tiskový materiál jako alternativu k PLA a PETG",
@@ -945,7 +977,8 @@
       "3D Printing",
       "Filament",
       "CoPE"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost Velo3D se připojila k vládně-průmyslovému programu pro výměnu dat (GIDEP)",
@@ -974,7 +1007,8 @@
       "Defense",
       "Supply Chain",
       "GIDEP"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Výzkumníci z UT Austin se stali prvními držiteli stipendia Chief of Naval Research",
@@ -1001,7 +1035,8 @@
       "Robotics",
       "UT Austin",
       "Naval Research"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost XYZO uvádí na trh automatizovanou hybridní výrobní platformu pro produkci polymerů",
@@ -1031,7 +1066,8 @@
       "Polymer Additive Manufacturing",
       "XYZO",
       "Industry 4.0"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "Xolo zmenšuje svou volumetrickou 3D tiskárnu pro možnou cestu na oběžnou dráhu",
@@ -1058,7 +1094,8 @@
       "Xolo",
       "Space Manufacturing",
       "Aerospace"
-    ]
+    ],
+    "region": "DE"
   },
   {
     "title": "Protolabs využívá 3D tisk pro své zákazníky v robotice k dosažení dvojnásobného meziročního růstu tržního segmentu",
@@ -1087,7 +1124,8 @@
       "Robotics",
       "Additive Manufacturing",
       "Supply Chain"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Díl je jen polovina příběhu: Proč 3D tisk potřebuje digitální vlákno",
@@ -1117,7 +1155,8 @@
       "Quality Control",
       "Data Management",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Aditivní výroba a národní konkurenční výhoda, první část: Skutečný problém amerického průmyslu",
@@ -1144,7 +1183,8 @@
       "Additive Manufacturing",
       "US Manufacturing",
       "Industrial Productivity"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Design týdne: Lampa Černá díra",
@@ -1174,7 +1214,8 @@
       "Printables",
       "NAM_3",
       "Lighting"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost Artec 3D uvádí na trh bezdrátový skener Neo s technologií skenování řízeného tolerancemi",
@@ -1202,7 +1243,8 @@
       "3D Scanning",
       "Metrology",
       "Reverse Engineering"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Výzkum v mikrogravitaci se zaměřuje na vady v kovové aditivní výrobě",
@@ -1232,7 +1274,8 @@
       "NSF",
       "ISS National Laboratory",
       "Research & Development"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Makers Making Change a Bambu Lab spouštějí globální výzvu v 3D tisku zaměřenou na asistenční technologie",
@@ -1261,7 +1304,8 @@
       "MakerWorld",
       "Assistive Technology",
       "3D Printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Patent Bambu Lab využívá šasi tiskárny k výměně hot-endu",
@@ -1291,7 +1335,8 @@
       "Innovation",
       "Patents",
       "Hot-end"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "OLO 🤩 ONO 🤨 OH NO 🤬",
@@ -1321,7 +1366,8 @@
       "Kickstarter",
       "Resin Printing",
       "Crowdfunding"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Nový rychlostní oblek Nike pro Keely Hodgkinson využívá 3D tištěné vírové generátory ke snížení odporu vzduchu",
@@ -1349,7 +1395,8 @@
       "3D Printing",
       "Aerodynamics",
       "Sportswear"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost HeelBase zahájila předobjednávky na DRIVE, 3D tištěnou stélku pro pickleball",
@@ -1376,7 +1423,8 @@
       "3D Printed Footwear",
       "Pickleball",
       "Sports Tech"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost Addireen uvádí na trh XH-M350G-2HR pro rychlejší a konzistentnější 3D tisk z mědi",
@@ -1406,7 +1454,8 @@
       "Copper",
       "Industrial Manufacturing",
       "Green Laser"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "CityUHK a Cambridge spouštějí centrum pro chytrou výrobu zaměřené na 3D tisk",
@@ -1436,7 +1485,8 @@
       "University of Cambridge",
       "CASM",
       "Smart Manufacturing"
-    ]
+    ],
+    "region": "HK"
   },
   {
     "title": "Společnost Arridex zakoupila a instalovala jednotku CEAD",
@@ -1466,7 +1516,8 @@
       "CEAD",
       "LFAM",
       "Large Format Additive Manufacturing"
-    ]
+    ],
+    "region": "AFRICA"
   },
   {
     "title": "Kdo je největší v 3D tisku, 27. září 2026",
@@ -1497,7 +1548,8 @@
       "3D Systems",
       "Markforged",
       "Velo3D"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Bambu Lab a SUSAN FANG využili 3D tisk pro London Fashion Week",
@@ -1524,7 +1576,8 @@
       "Bambu Lab",
       "SUSAN FANG",
       "3D Printing"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "Novinky ze světa 3D tisku, 26. září 2026: Biokeramické implantáty, 3D tisk betonu a další",
@@ -1557,7 +1610,8 @@
       "KLS Martin",
       "Lithoz",
       "UltiMaker"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "IMTS 2026 Chicago, druhý den: Kde se 3D tisk setkává s reálnou výrobou",
@@ -1585,7 +1639,8 @@
       "Renishaw",
       "Farsoon",
       "Industrial Production"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "ORNL vytisklo 3D ocelovou formu pro leteckou výrobu společnosti Boeing",
@@ -1615,7 +1670,8 @@
       "NASA",
       "WAAM",
       "Steel"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "University of Galway a Ifremer testují 3D tištěné útesy pro obnovu studenovodních korálů",
@@ -1647,7 +1703,8 @@
       "Additive Manufacturing",
       "University of Galway",
       "Ifremer"
-    ]
+    ],
+    "region": "EUROPE"
   },
   {
     "title": "Verdikt v patentovém sporu mezi Stratasys a Bambu Lab by mohl přetvořit trh stolního 3D tisku",
@@ -1674,7 +1731,8 @@
       "Bambu Lab",
       "Patent Law",
       "Desktop 3D Printing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "XYZO kombinuje resinový a FFF 3D tisk, CNC a další, je to ale dobrý nápad?",
@@ -1705,7 +1763,8 @@
       "Resin Printing",
       "FFF",
       "XYZO"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "Pokročilá výroba na veletrhu IMTS 2026: 3D tisk, AI a drony, panečku!",
@@ -1735,7 +1794,8 @@
       "Artificial Intelligence",
       "Drones",
       "Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Patent společnosti Anycubic před tiskem zesiluje barevné obrysy",
@@ -1765,7 +1825,8 @@
       "3D Printing",
       "Color Printing",
       "Patent"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Západní report #9: Amaero odkládá IPO, Radian Forge získává počáteční investici a Nanoe tiskne na palubě letadlové lodi",
@@ -1798,7 +1859,8 @@
       "E3D",
       "Prusa",
       "VulcanForms"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Peníze za AM: Co sledovat na AM Investment Strategies 2026",
@@ -1829,7 +1891,8 @@
       "Investment",
       "Additive Manufacturing",
       "Industry 4.0"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Co se stane, když se 15 000 stolních 3D tiskáren změní v továrnu?",
@@ -1857,7 +1920,8 @@
       "Huafast",
       "Industrial Production",
       "Shenzhen"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Dokáže Creality Sparkx i8 za 309 USD vyřešit problém s odpadem při vícebarevném tisku?",
@@ -1884,7 +1948,8 @@
       "3D Printing",
       "Multi-color Printing",
       "Sparkx i8"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost Radian Forge uzavřela investiční kolo ve výši 2,5 milionu dolarů na podporu námořního průmyslu",
@@ -1914,7 +1979,8 @@
       "Metal Additive Manufacturing",
       "Maritime Industry",
       "Veteran Ventures Capital"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "GenX od společnosti IperionX by mohl snížit náklady na vstupní materiály pro 3D tisk",
@@ -1942,7 +2008,8 @@
       "Metal Additive Manufacturing",
       "HAMR",
       "GenX"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Snapmaker spouští platformu Space pro vícebarevné a víceúčelové 3D modely",
@@ -1971,7 +2038,8 @@
       "3D Printing",
       "Multicolor Printing",
       "Multimaterial Printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Továrna Bambu Lab na 3 miliony 3D tiskáren směřuje k výstavbě v Šen-čenu",
@@ -1999,7 +2067,8 @@
       "Manufacturing",
       "Shenzhen",
       "Industry"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Patent společnosti Divergent využívá magnetická pole k promíchávání taveniny při 3D tisku kovů",
@@ -2027,7 +2096,8 @@
       "Additive Manufacturing",
       "Innovation",
       "Patents"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Čína se obrací k Evropě, na veletrh Formnext 2026 míří 124 čínských vystavovatelů",
@@ -2056,7 +2126,8 @@
       "China",
       "Europe",
       "Defense Industry"
-    ]
+    ],
+    "region": "DE"
   },
   {
     "title": "Recenze sušičky filamentu Sunlu i10: Nastavte, zapomeňte a tiskněte dál",
@@ -2083,7 +2154,8 @@
       "Filament Dryer",
       "Sunlu",
       "Accessories"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Kovová aditivní výroba v multipolárním světě: odolnost, regionální produkce a měnící se trh",
@@ -2110,7 +2182,8 @@
       "Metal AM",
       "Supply Chain",
       "Regional Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Creality spouští crowdfunding pro čtyřkanálovou vícebarevnou 3D tiskárnu SPARKX i8",
@@ -2140,7 +2213,8 @@
       "3D Printing",
       "Multi-color Printing",
       "Crowdfunding"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Jak se MakerGear a LulzBot přizpůsobují, aby přežily v silné konkurenci",
@@ -2167,7 +2241,8 @@
       "LulzBot",
       "3D Printing Industry",
       "Business Strategy"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Vyřešil Atlas problém se znečištěným plastem?",
@@ -2196,7 +2271,8 @@
       "MIT",
       "Atlas",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "EOS sází na mexický trh aditivní výroby díky dohodě o prodejním kanálu s Axiomatek",
@@ -2223,7 +2299,8 @@
       "EOS",
       "Axiomatek",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "MX"
   },
   {
     "title": "Patent Bambu Lab umisťuje topné těleso přímo dovnitř podložky 3D tiskárny",
@@ -2251,7 +2328,8 @@
       "Patent",
       "Heated Bed",
       "Innovation"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "AI design a integrace v místě péče: Titulek ADDITIV Medical 2026",
@@ -2281,7 +2359,8 @@
       "AI Design",
       "Indiana University Health",
       "Sheffield Teaching Hospitals"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "China Watch #9: Výrobci PLA dosahují rekordů na akciovém trhu díky poptávce po 3D tisku, Eplus3D otevírá pekingskou továrnu pro 300+ velkých kovových tiskáren ročně",
@@ -2310,7 +2389,8 @@
       "Bambu Lab",
       "Stratasys",
       "Creality"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Novinky ze světa 3D tisku, 24. září 2026: Kovové slitiny, Nanobone, alternativní maso a další",
@@ -2340,7 +2420,8 @@
       "Metallic Alloys",
       "Nanobone",
       "Food Tech"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost Instruct3D uvádí na trh platformu Additive Build Intelligence pro ověřování kvality v kovovém 3D tisku",
@@ -2370,7 +2451,8 @@
       "Metal AM",
       "Quality Assurance",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "HERMLE ve velkém stylu na veletrhu IMTS 2026 v Chicagu",
@@ -2397,7 +2479,8 @@
       "Machining",
       "HERMLE",
       "IMTS 2026"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost AML3D investuje 0,53 mil. AUD do projektu zaměřeného na zkrácení dodacích lhůt leteckých nástrojů až na 24 měsíců",
@@ -2426,7 +2509,8 @@
       "Wire-Arc Additive Manufacturing",
       "WAM",
       "Aerospace"
-    ]
+    ],
+    "region": "AU"
   },
   {
     "title": "Společnost AML3D získala zakázku v hodnotě 0,5 mil. AU$ na výrobu dílů pro jaderné ponorky",
@@ -2456,7 +2540,8 @@
       "Wire-Arc Additive Manufacturing",
       "WAM",
       "Defense"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "LLNL spojuje strojové učení s kamerami pro včasné odhalování vad u DIW tisku",
@@ -2486,7 +2571,8 @@
       "DIW",
       "Quality Control",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "HeyGears Reflex RS Turbo nastavuje nový standard pro resinový 3D tisk",
@@ -2512,7 +2598,8 @@
       "Resin 3D Printing",
       "HeyGears",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Mohly by se papír, piliny a sádra stát materiálem pro 3D tisk ve stavebnictví?",
@@ -2540,7 +2627,8 @@
       "Sustainability",
       "Recycling",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Amaero cílí na americké IPO v hodnotě 52,6 mil. USD v rámci expanze výroby kovových prášků, později nabídku odkládá",
@@ -2567,7 +2655,8 @@
       "Amaero",
       "IPO",
       "Metal Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Patent společnosti Stratasys přehodnocuje věž pro čištění trysek u vícebarevného tisku",
@@ -2597,7 +2686,8 @@
       "Multi-material",
       "Innovation",
       "Patent"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Kdy se kradené 3D tiskárny stávají kořistí, která stojí za to",
@@ -2625,7 +2715,8 @@
       "Theft",
       "Calgary",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "CA"
   },
   {
     "title": "Prusa usnadňuje lehký 3D tisk díky zachování PLA",
@@ -2652,7 +2743,8 @@
       "PLA",
       "3D Printing",
       "Filament"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Stratasys představuje 3D tištěné aplikace pro automobilový průmysl a novou tiskárnu na veletrhu IMTS 2026",
@@ -2679,7 +2771,8 @@
       "FDM",
       "Automotive",
       "Industrial Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "HG Laser a přehlížené zdroje čínské síly v pokročilé výrobě",
@@ -2709,7 +2802,8 @@
       "HG Laser",
       "China Manufacturing",
       "Industrial Laser"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Creality uvádí na Indiegogo tiskárnu SPARKX i8, která přináší nejrychlejší tisk bez odpadu",
@@ -2738,7 +2832,8 @@
       "SPARKX i8",
       "3D Printing",
       "Multi-color Printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "OwlCAD se snaží vyřešit problém s 3D modely generovanými umělou inteligencí",
@@ -2768,7 +2863,8 @@
       "CAD",
       "Generative Design",
       "OwlCAD"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Specialista na 3D tištěnou elektroniku APES se připojuje k prvnímu projektu inovačního trychtýře společnosti Great Lakes Semiconductor",
@@ -2798,7 +2894,8 @@
       "APES",
       "Great Lakes Semiconductor",
       "Innovation"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Stratasys a GM ukazují, co je potřeba pro rozšíření aditivní výroby v továrních halách",
@@ -2826,7 +2923,8 @@
       "General Motors",
       "Additive Manufacturing",
       "Industrial 3D Printing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Správa dat z 3D skenování získala díky nové platformě ShiningSpace od SHINING 3D své vlastní zázemí",
@@ -2852,7 +2950,8 @@
       "SHINING 3D",
       "Cloud Platform",
       "Data Management"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Uhlíkové tečky by mohly učinit PLA vodivým",
@@ -2882,7 +2981,8 @@
       "Carbon Dots",
       "Electronics",
       "Research"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Bambu Lab jde za hranice 3D tisku s laserovou řezačkou R1",
@@ -2909,7 +3009,8 @@
       "3D Printing",
       "Laser Cutting",
       "Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "OpenAI GPT-6 Astra dokáže rekonstruovat CAD geometrii z fotografií, proč je to důležité pro aditivní výrobu",
@@ -2940,7 +3041,8 @@
       "3D Modeling",
       "Additive Manufacturing",
       "BenchCAD"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost OTR spouští OTR3DLab pro výrobu prototypů terénních pneumatik v plném měřítku",
@@ -2969,7 +3071,8 @@
       "OTR Engineered Solutions",
       "Prototyping",
       "Industrial 3D Printing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Snapmaker a Phaetus uvádějí na trh vysokoprůtokový hot end Liber pro 3D tiskárnu U1",
@@ -2997,7 +3100,8 @@
       "3D Printing",
       "Hot End",
       "U1 Series"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Bambu Lab si patentuje kombinaci Bowdenova a přímého pohonu extrudéru",
@@ -3025,7 +3129,8 @@
       "Extrusion",
       "TPU",
       "Innovation"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Flashforge konečně expeduje tiskárnu CJ270 s miliony barev",
@@ -3051,7 +3156,8 @@
       "Flashforge",
       "CJ270",
       "Full-color 3D printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Finance v 3D tisku: 28 milionů dolarů v Číně, americké obchody a návrat kovového AM",
@@ -3080,7 +3186,8 @@
       "Metal AM",
       "Investment",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "AmeraLabs nabízí nové dentální pryskyřice pro 3D tisk",
@@ -3105,7 +3212,8 @@
       "Material",
       "AmeraLabs",
       "Dental 3D Printing"
-    ]
+    ],
+    "region": "EUROPE"
   },
   {
     "title": "Stratasys vyhrál patentový spor proti Bambu Lab v USA",
@@ -3134,7 +3242,8 @@
       "Bambu Lab",
       "Patent Law",
       "3D Printing Industry"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Hry mohou začít! Si Ťin-pching vhazuje rukavici v oblasti pokročilé výroby",
@@ -3164,7 +3273,8 @@
       "China",
       "Additive Manufacturing",
       "Industrial Scaling"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Nemožná továrna Kellyho Johnsona: Co může Skunk Works naučit 3D tisk",
@@ -3193,7 +3303,8 @@
       "Manufacturing",
       "Lockheed Martin",
       "Skunk Works"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "UV vrstvy by mohly umožnit 3D tisk na Měsíci bez nutnosti podpor",
@@ -3223,7 +3334,8 @@
       "Lunar Construction",
       "UV Curing",
       "Space Exploration"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost Isembard otevírá svou největší továrnu, která posílí řetězec kovového 3D tisku společnosti Alloyed",
@@ -3250,7 +3362,8 @@
       "Isembard",
       "Alloyed",
       "Metal AM"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "DEEP Manufacturing drží jako jediná na světě plnou certifikaci DNV pro výrobu tlakových nádob technologií WAAM",
@@ -3281,7 +3394,8 @@
       "DNV",
       "Pressure Vessels",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "3D tisk urychluje výrobu protéz pro zraněné v Sýrii",
@@ -3309,7 +3423,8 @@
       "Prosthetics",
       "Humanitarian Aid",
       "Syria"
-    ]
+    ],
+    "region": "SY"
   },
   {
     "title": "Massivit přináší platformu pro kompozitní nástroje RapidWings do Severní Ameriky",
@@ -3338,7 +3453,8 @@
       "Artek",
       "Aerospace",
       "Composite Tooling"
-    ]
+    ],
+    "region": "AMERICAS"
   },
   {
     "title": "RIMPAC 2026 přináší 3D tisk do logistiky námořních flotil",
@@ -3368,7 +3484,8 @@
       "RIMPAC",
       "Digital Manufacturing",
       "Supply Chain"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost Visitech cílí na větší tiskové plochy s novým světelným enginem pro 3D tisk",
@@ -3396,7 +3513,8 @@
       "Visitech",
       "Additive Manufacturing",
       "4K Technology"
-    ]
+    ],
+    "region": "NO"
   },
   {
     "title": "VulcanForms a Specter Aerospace cílí na levnou hypersonickou munici díky novému výrobnímu partnerství",
@@ -3425,7 +3543,8 @@
       "Metal Additive Manufacturing",
       "Hypersonic Weapons",
       "Defense Industry"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Tým SFA využívá fotogrammetrii a AI k replikaci měsíčního kamene pro národní turné",
@@ -3455,7 +3574,8 @@
       "NASA",
       "SFA Makerspace",
       "Education"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Stratasys vyhrál soudní spor o 27,6 milionu dolarů proti Bambu Lab, ale konec je v nedohlednu",
@@ -3482,7 +3602,8 @@
       "Bambu Lab",
       "Patent Litigation",
       "3D Printing Industry"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Snapmaker spouští ekosystém 3D modelů v otevřené betě",
@@ -3509,7 +3630,8 @@
       "Snapmaker",
       "3D Printing",
       "Ecosystem"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Tým z Auburnu vytiskl na 3D tiskárně nízkonákladový kamerový laryngoskop",
@@ -3539,7 +3661,8 @@
       "Medical Devices",
       "Education",
       "Innovation"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "AI průvodce by mohl umožnit škálovatelnou výrobu personalizovaných 3D tištěných pilulek",
@@ -3569,7 +3692,8 @@
       "Personalized Medicine",
       "University of Mississippi",
       "Colorcon"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Projekt AI agenta pro 3D tisk ukazuje automatizované řízení tiskárny",
@@ -3597,7 +3721,8 @@
       "AI",
       "Automation",
       "Open Source"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "3DPOD 315: Dirk Simon, od BASF přes Farsoon a FKM až po Square New Business",
@@ -3628,7 +3753,8 @@
       "FKM",
       "Square New Business",
       "3D Printing Industry"
-    ]
+    ],
+    "region": "DE"
   },
   {
     "title": "Devět dní v Šen-čenu: Snaha nenapsat, že Čína je velká",
@@ -3656,7 +3782,8 @@
       "Shenzhen",
       "China",
       "3D Printing Industry"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Design týdne: Delta Dart",
@@ -3684,7 +3811,8 @@
       "RC Models",
       "Aviation",
       "Design"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost Fives AddUp bude vyrábět velkoformátovou kovovou tiskárnu FormUp 750 v USA",
@@ -3712,7 +3840,8 @@
       "L-PBF",
       "Metal 3D Printing",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Technika subvoxelového 3D tisku ze Stanfordu má za cíl umožnit jedné součástce plnit více funkcí najednou",
@@ -3741,7 +3870,8 @@
       "Multimaterial Printing",
       "Metamaterials",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost Caracol se stala členem America Makes se zaměřením na americkou produkci",
@@ -3769,7 +3899,8 @@
       "America Makes",
       "LFAM",
       "Robotic Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost TDK souhlasila s akvizicí firmy Fabric8Labs, která se zabývá 3D tiskem kovů, za částku až 400 milionů dolarů",
@@ -3797,7 +3928,8 @@
       "Fabric8Labs",
       "Acquisition",
       "Data Centers"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Model PINN předpovídá laserové tavné lázně v řádu milisekund",
@@ -3826,7 +3958,8 @@
       "Artificial Intelligence",
       "PINN",
       "Process Monitoring"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Čína tiskne hračky, zatímco Západ tiskne munici",
@@ -3853,7 +3986,8 @@
       "Defense Industry",
       "Consumer Electronics",
       "Geopolitics"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost trinckle vydala sadu Additive App Suite",
@@ -3880,7 +4014,8 @@
       "Additive Manufacturing",
       "Automation",
       "Workflow Optimization"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "AMAsia Pulse: Investice do 3D tisku v oblasti Asie a Tichomoří rostou",
@@ -3908,7 +4043,8 @@
       "Lincsolution",
       "Aerospace",
       "Investment"
-    ]
+    ],
+    "region": "ASIA"
   },
   {
     "title": "Kdo je největší v 3D tisku, 20. září 2026",
@@ -3939,7 +4075,8 @@
       "3D Systems",
       "Markforged",
       "Velo3D"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Seznamte se s T-Painem: Influencerem ve světě 3D tisku",
@@ -3969,7 +4106,8 @@
       "T-Pain",
       "Maker Culture",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Šikovná drobnost do provozu: od zadání k odevzdání za dva dny",
@@ -4000,7 +4138,8 @@
       "Rapid Prototyping",
       "Workflow",
       "ADITIVNI.cz"
-    ]
+    ],
+    "region": "CZ"
   },
   {
     "title": "Roboti v hlavní roli na veletrhu IMTS 2026 – a 3D tisk u toho nechybí",
@@ -4032,7 +4171,8 @@
       "KUKA",
       "Yaskawa",
       "Standard Bots"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Aktuality ze světa 3D tisku, 19. září 2026: Validace procesů, ortotika, skladování energie a další",
@@ -4061,7 +4201,8 @@
       "Meltio",
       "LPBF",
       "Metal 3D Printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost KLS Martin plánuje do konce 3. čtvrtletí 2026 dodat 500. biokeramický implantát vytištěný technologií Lithoz",
@@ -4092,7 +4233,8 @@
       "LithaBone TCP",
       "Bioceramics",
       "Medical 3D Printing"
-    ]
+    ],
+    "region": "EUROPE"
   },
   {
     "title": "Nejnovější zakázka od armády rozšiřuje výrobní kapacitu titanu společnosti IperionX",
@@ -4123,7 +4265,8 @@
       "US Army",
       "Titanium",
       "Defense"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "UltiMaker a Bioactivx se spojují pro výrobu prostředků na hojení ran na vyžádání",
@@ -4153,7 +4296,8 @@
       "MedTech",
       "3D Printing",
       "Regenerative Medicine"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Patent společnosti Shining 3D řeší problém odlepování pryskyřice",
@@ -4180,7 +4324,8 @@
       "Shining 3D",
       "Patent",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Stratasys vyhrál patentový spor proti Bambu Lab v hodnotě 27,6 milionu dolarů",
@@ -4207,7 +4352,8 @@
       "Bambu Lab",
       "Patent Law",
       "3D Printing Industry"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Elegoo chce vyřešit nejtěžší část 3D tisku",
@@ -4234,7 +4380,8 @@
       "Elegoo",
       "3D Printing",
       "AI"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Společnost Bechtle přebírá divizi 3D tisku HP od firmy Kaut-Bullinger",
@@ -4262,7 +4409,8 @@
       "Kaut-Bullinger",
       "HP",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "DE"
   },
   {
     "title": "Patent společnosti Atlant 3D navrhuje vícekapalinový tisk na atomární úrovni",
@@ -4290,7 +4438,8 @@
       "Atomic Layer Processing",
       "3D Printing",
       "Micro-nozzle Technology"
-    ]
+    ],
+    "region": "DK"
   },
   {
     "title": "Nový vývoj v patentovém sporu mezi Stratasys a Bambu Lab: Stratasys vysouzeno 27,6 milionu dolarů, Bambu Lab se brání",
@@ -4317,7 +4466,8 @@
       "Bambu Lab",
       "Patent Law",
       "3D Printing Industry"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Pozvánka na TCT Shenzhen 2026: Co více než 80 doprovodných akcí odhaluje o čínském trhu s 3D tiskem",
@@ -4346,7 +4496,8 @@
       "Additive Manufacturing",
       "TCT Shenzhen",
       "China Market"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "IperionX se připravuje na rozšíření výroby titanového prášku",
@@ -4375,7 +4526,8 @@
       "Titanium",
       "Supply Chain",
       "Critical Minerals"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Western Report #8: další novinka od Backflip AI, velká investice pro Impossible Objects a smutná série loučení",
@@ -4405,7 +4557,8 @@
       "Evolve",
       "Objex",
       "Beamit"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "PrusaSlicer 3.0 přestavuje své základy pro vícehlavý tisk a pluginy",
@@ -4435,7 +4588,8 @@
       "3D Printing",
       "Multi-tool printing",
       "Plugins"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost ugee uvádí na trh kreslicí tablet pro děti s podporou AI",
@@ -4466,7 +4620,8 @@
       "3D Printing",
       "AI",
       "EdTech"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Dokáže upravené HDPE konečně spolupracovat s FFF 3D tiskárnami?",
@@ -4493,7 +4648,8 @@
       "HDPE",
       "3D Printing",
       "Filament"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Miniaturní Blatten: 3D tištěný terén testuje pohyb skalních lavin",
@@ -4524,7 +4680,8 @@
       "Simulation",
       "SLF",
       "ETH Zurich"
-    ]
+    ],
+    "region": "CH"
   },
   {
     "title": "Bambu Lab spouští globální výzvu v 3D tisku zaměřenou na asistenční pomůcky",
@@ -4553,7 +4710,8 @@
       "MakerWorld",
       "Assistive Technology",
       "3D Printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Ministerstvo obrany UK a společnost Alloyed vyvinuly nový proudový motor od konceptu k letu za méně než sedm měsíců",
@@ -4582,7 +4740,8 @@
       "Aerospace",
       "Turbojet",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "Společnost Alloyed pomáhá s výrobou britského proudového motoru",
@@ -4611,7 +4770,8 @@
       "3D Printing",
       "Aerospace",
       "Turbojet"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "GM rozšiřuje 3D tisk od Stratasys do 20 výrobních závodů",
@@ -4641,7 +4801,8 @@
       "Automotive",
       "FDM",
       "Industrial Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost Impossible Objects získala 40 milionů USD na rozšíření vysokorychlostního 3D tisku CBAM",
@@ -4669,7 +4830,8 @@
       "CBAM",
       "Additive Manufacturing",
       "Investment"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost Visitech nahrazuje LED technologii laserem ve svém novém světelném enginu",
@@ -4697,7 +4859,8 @@
       "Visitech",
       "Laser Technology",
       "Light Engine"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Patent společnosti Nanogrande kombinuje technologii Binder Jetting s laserovou přesností",
@@ -4726,7 +4889,8 @@
       "Binder Jetting",
       "Additive Manufacturing",
       "3D Printing Patents"
-    ]
+    ],
+    "region": "CA"
   },
   {
     "title": "GBI chce být vaším výrobním partnerem",
@@ -4753,7 +4917,8 @@
       "CAD/CAM",
       "3D Printing",
       "GBI Group"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Trh 3D tisku dosáhl 4,48 miliardy dolarů po šesti čtvrtletích růstu v řadě",
@@ -4781,7 +4946,8 @@
       "Services",
       "Additive Manufacturing",
       "Market Analysis"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "China Watch #8: kovový SLM přichází na pracovní stůl",
@@ -4809,7 +4975,8 @@
       "Desktop Manufacturing",
       "Market Trends",
       "China"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Aktuality ze světa 3D tisku, 17. září 2026: 3D tištěná loď, vývoj bezpilotních letounů a další",
@@ -4837,7 +5004,8 @@
       "Defense",
       "UAS",
       "Tripo AI"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Výrobní revoluce v El Segundo: AI pro fyzické věci (ATOMS) versus bity",
@@ -4868,7 +5036,8 @@
       "Innovation",
       "El Segundo",
       "Industry 4.0"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "AI jako hrozba vyhynutí: Je aditivní výroba také odsouzena k zániku?",
@@ -4895,7 +5064,8 @@
       "AI",
       "Digital Ecosystem",
       "Industry Trends"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "SAE, odsolování v dobách konfliktů a 3D tisk",
@@ -4925,7 +5095,8 @@
       "Supply Chain",
       "Geopolitics",
       "Infrastructure"
-    ]
+    ],
+    "region": "AE"
   },
   {
     "title": "Společnost Aware Defense získala pětiletý kontrakt námořnictva na 3D skenovanou ochranu sluchu",
@@ -4955,7 +5126,8 @@
       "Aware Custom Biometric Wearables",
       "Naval Air Systems Command",
       "Biometrics"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "UWE Bristol pokládá základy pro pěstování drahokamů uvnitř platiny pomocí hybridního 3D tisku kovů",
@@ -4984,7 +5156,8 @@
       "Metal 3D Printing",
       "Hybrid Manufacturing",
       "Jewelry"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "Společnost SWISSto12 získala zakázku na antény od Mitsubishi Electric, firmy cílí na japonský satelitní trh",
@@ -5014,7 +5187,8 @@
       "Aerospace",
       "3D Printing",
       "Satellite Technology"
-    ]
+    ],
+    "region": "JP"
   },
   {
     "title": "Vědci vyvinuli 3D tisknutelné kovové sklo pro účinnější elektromotory",
@@ -5045,7 +5219,8 @@
       "Metallic Glass",
       "LPBF",
       "Electric Motors"
-    ]
+    ],
+    "region": "EUROPE"
   },
   {
     "title": "Smíšená vstupní síť cílí na vady typu „stringing“ u FFF tisku",
@@ -5074,7 +5249,8 @@
       "Quality Control",
       "AI",
       "Neural Networks"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Nová validace LPBF cílí na beztrhlinové díly z mědiniklové slitiny pro letectví",
@@ -5103,7 +5279,8 @@
       "LPBF",
       "Aerospace",
       "Copper-Nickel Alloy"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "3D Printing Industry oznamuje AMA: Software 2026",
@@ -5130,7 +5307,8 @@
       "Industrial Production",
       "Technology",
       "3D Printing Industry"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Rosatom propojuje rozšiřování svých AM kapacit s jadernými zakázkami",
@@ -5159,7 +5337,8 @@
       "Rosatom",
       "Additive Manufacturing",
       "Nuclear Energy"
-    ]
+    ],
+    "region": "RU"
   },
   {
     "title": "AI CAD modely se blíží 100% přesnosti v benchmarku BenchCAD",
@@ -5187,7 +5366,8 @@
       "BenchCAD",
       "Generative Design",
       "3D Modeling"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Nevydaná 3D tiskárna od QIDI se objevila v dokumentech FCC",
@@ -5214,7 +5394,8 @@
       "QIDI Tech",
       "FCC",
       "Industry News"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Patent společnosti Creality navrhuje indukční ohřev pro FFF trysky",
@@ -5242,7 +5423,8 @@
       "FFF",
       "Innovation",
       "Patent"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Kovové 3D tiskárny pro stolní počítače začínají konečně působit jako produkty pro běžné použití",
@@ -5270,7 +5452,8 @@
       "Metal 3D Printing",
       "Desktop Manufacturing",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost SWISSto12 uzavírá partnerství s Mitsubishi Electric Corporation",
@@ -5300,7 +5483,8 @@
       "Mitsubishi Electric",
       "Aerospace",
       "3D Printing"
-    ]
+    ],
+    "region": "ASIA"
   },
   {
     "title": "Společnost Impossible Objects uzavřela investiční kolo Series B v hodnotě 40 milionů dolarů",
@@ -5331,7 +5515,8 @@
       "Defense",
       "Supply Chain",
       "Investment"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Příležitost pro 3D tisk v oblasti bezpilotních pozemních vozidel (UGV)",
@@ -5361,7 +5546,8 @@
       "US Army",
       "GVSC",
       "UGV"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Od digitálního návrhu k fyzickému vyjádření: Aliencell a CHITUBOX představují E1",
@@ -5389,7 +5575,8 @@
       "CHITUBOX",
       "3D Printing",
       "Digital Fabrication"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "AEVEX Aerospace a Divergent Technologies spojují síly pro zrychlení výroby autonomních dronů",
@@ -5418,7 +5605,8 @@
       "Autonomous Systems",
       "Defense Technology",
       "Digital Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost Fronius uvádí na trh integrovanou Additive Cell pro automatizovanou výrobu metodou WAAM",
@@ -5446,7 +5634,8 @@
       "WAAM",
       "Robotics",
       "Metal 3D Printing"
-    ]
+    ],
+    "region": "AT"
   },
   {
     "title": "Společnost AML3D vykázala první pololetní zisk v historii, tržby za fiskální rok 2026 vzrostly o 70 %",
@@ -5474,7 +5663,8 @@
       "WAM",
       "Additive Manufacturing",
       "Financial Results"
-    ]
+    ],
+    "region": "AU"
   },
   {
     "title": "Modix Generation 5 přináší do série BIG výměnu nástrojů, peletovou extruzi a šikmý tisk",
@@ -5504,7 +5694,8 @@
       "Large-format 3D printing",
       "Duet 3",
       "Industrial 3D printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost Shoulder Innovations uzavřela partnerství s ALM Ortho pro výrobu titanových implantátů na míru pro komplexní operace ramen",
@@ -5534,7 +5725,8 @@
       "Additive Manufacturing",
       "Shoulder Innovations",
       "ALM Ortho"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost Skyrora snížila hmotnost raketového motoru o 44 % díky 3D tištěné titanové součástce",
@@ -5564,7 +5756,8 @@
       "Aerospace",
       "Titanium",
       "3D Printing"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "Společnost Mosaic uvádí na trh Orion, automatizovanou platformu pro 3D tisk ortopedických pomůcek",
@@ -5592,7 +5785,8 @@
       "Orthotics",
       "Prosthetics",
       "Mosaic Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Problém s kvalitou ovzduší u resinového tisku nemusí být jen uvnitř tiskárny",
@@ -5622,7 +5816,8 @@
       "3D Printing Safety",
       "Air Quality",
       "Post-processing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Co 3D2GO vypovídá o růstu 3D tisku v jihovýchodní Asii",
@@ -5649,7 +5844,8 @@
       "Southeast Asia",
       "Additive Manufacturing",
       "Market Trends"
-    ]
+    ],
+    "region": "ASIA"
   },
   {
     "title": "Creality představuje 3D tiskárnu K3 se čtyřtryskovým systémem KliTek pro vícebarevný tisk",
@@ -5677,7 +5873,8 @@
       "KliTek",
       "Multicolor Printing",
       "Desktop 3D Printer"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Patent společnosti Zellerfeld vyhlazuje textury obuvi pomocí kontinuální výplně",
@@ -5705,7 +5902,8 @@
       "3D Printed Footwear",
       "Additive Manufacturing",
       "Patent"
-    ]
+    ],
+    "region": "DE"
   },
   {
     "title": "Společnost Mosaic Manufacturing uvádí na trh 3D tiskárnu Orion pro výrobu ortopedických pomůcek na míru",
@@ -5732,7 +5930,8 @@
       "Orthotics",
       "Mosaic Manufacturing",
       "Orion"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "HeyGears Reflex RS Turbo nastavuje nový standard pro resinový 3D tisk",
@@ -5758,7 +5957,8 @@
       "Resin 3D Printing",
       "HeyGears",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "3D tištěné fotbalové helmy jsou úžasný byznys. Jsou ale mnohem víc",
@@ -5789,7 +5989,8 @@
       "NFL",
       "Customization",
       "Safety Equipment"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "MakeGood získává ocenění Fast Company za 3D tištěný trenažér mobility pro batolata",
@@ -5820,7 +6021,8 @@
       "Medical Devices",
       "Innovation",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Printing Money, 42. epizoda: Analýza hospodářských výsledků veřejně obchodovaných 3D tiskových společností za 2. čtvrtletí 2026 s Troyem Jensenem z Cantor",
@@ -5850,7 +6052,8 @@
       "Additive Manufacturing",
       "Financial Analysis",
       "Public Markets"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Od recyklace k upcyklaci: 3D tisk a nová hodnota starého hliníku",
@@ -5880,7 +6083,8 @@
       "Aluminum",
       "Recycling",
       "Upcycling"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "NASENI představuje plány na první centrum pro aditivní výrobu kovů v Nigérii",
@@ -5908,7 +6112,8 @@
       "NASENI",
       "Nigeria",
       "Industrial Manufacturing"
-    ]
+    ],
+    "region": "NG"
   },
   {
     "title": "Creality představuje K3, SPARKX i8 a novou produktovou řadu na veletrhu IFA 2026",
@@ -5936,7 +6141,8 @@
       "Creality",
       "3D Printing",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "DE"
   },
   {
     "title": "Polyverse Solutions přináší 3D tištěné formy do stolního vstřikování plastů se strojem NOVA-60",
@@ -5964,7 +6170,8 @@
       "Polyverse Solutions",
       "plasticpreneur",
       "NOVA-60"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "HKUST tiskne marťanské obydlí z kvasnic, želatiny a horninového prachu",
@@ -5992,7 +6199,8 @@
       "Space Exploration",
       "HKUST",
       "Biotechnology"
-    ]
+    ],
+    "region": "HK"
   },
   {
     "title": "Tým Kumovis je zpět, tentokrát s vlastními implantáty",
@@ -6022,7 +6230,8 @@
       "Munich Medical Devices",
       "PEEK",
       "Medical Implants"
-    ]
+    ],
+    "region": "DE"
   },
   {
     "title": "Britská charita spouští bezplatné 3D tištěné hmatové ultrazvuky pro nevidomé rodiče",
@@ -6051,7 +6260,8 @@
       "Guide Dogs",
       "Healthcare",
       "Tactile Models"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "Od prototypování k výrobě: Impossible Objects získává 40 milionů dolarů v investičním kole série B",
@@ -6079,7 +6289,8 @@
       "Series B",
       "Aerospace",
       "Defense"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "EWI získává zakázku v hodnotě 13,2 milionu dolarů od America Makes na systém zajištění kvality v 3D tisku",
@@ -6110,7 +6321,8 @@
       "INSITE",
       "Quality Assurance",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "X-Hinges: Tisk pohybových senzorů přímo do flexibilních kloubů",
@@ -6139,7 +6351,8 @@
       "Sensors",
       "MIT CSAIL",
       "Tianjin University"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "IFA 2026 ukazuje, kam směřuje vícebarevný 3D tisk",
@@ -6169,7 +6382,8 @@
       "3D Printing",
       "IFA 2026",
       "Multicolor Printing"
-    ]
+    ],
+    "region": "DE"
   },
   {
     "title": "Rebranding xBUILD společností Atlix odráží propast v průmyslovém sektoru",
@@ -6196,7 +6410,8 @@
       "Atlix",
       "xBUILD",
       "Rebranding"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Vědci vytiskli na 3D tiskárně titan, který plave, i když je poškozený",
@@ -6224,7 +6439,8 @@
       "3D Printing",
       "Lattice Structure",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Vědci postavili 56dílnou 3D tištěnou horu pro testování lavin",
@@ -6252,7 +6468,8 @@
       "Simulation",
       "Avalanche Testing",
       "Engineering"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Proč přeshraniční 3D tisk dohání rychlost lokální výroby",
@@ -6279,7 +6496,8 @@
       "Additive Manufacturing",
       "Digital Manufacturing",
       "Logistics"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost SPEE3D jmenovala nového globálního CEO na podporu expanze na americký trh",
@@ -6306,7 +6524,8 @@
       "SPEE3D",
       "Additive Manufacturing",
       "Industry News"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "3DPOD 314: Odstraňování pojiva, sintrování a metal binder jetting se Stefanem Joensem z Elnik Systems a DSH Technologies",
@@ -6335,7 +6554,8 @@
       "MIM",
       "Elnik Systems",
       "DSH Technologies"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Design týdne: Funkční klavír",
@@ -6362,7 +6582,8 @@
       "Musical Instruments",
       "Maker Projects",
       "Design"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost Kallisio se snaží překlenout propast v adopci 3D tištěného zařízení pro léčbu rakoviny hlavy a krku",
@@ -6391,7 +6612,8 @@
       "Stentra",
       "3D Printing",
       "Oncology"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Stratasys uvádí na trh velkoformátovou FDM tiskárnu F870",
@@ -6419,7 +6641,8 @@
       "Automotive",
       "Aerospace",
       "Defense"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Stroje Mazak VC-Ez 20X pohánějí novou platformu pro aditivní výrobu WAAM",
@@ -6447,7 +6670,8 @@
       "Mazak",
       "Oak Ridge National Laboratory",
       "CNC Machining"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Selle Italia uvádí Unica, 3D tištěné sedlo s mapováním tlaku",
@@ -6477,7 +6701,8 @@
       "3D Printing",
       "Cycling",
       "Customization"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "SprintRay uvádí na trh Midas Restore, keramicko-zirkonový materiál pro stomatologické náhrady během jedné návštěvy",
@@ -6505,7 +6730,8 @@
       "Midas Restore",
       "Dental 3D Printing",
       "Ceramic-Zirconia"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Jednoduchý TPU/PLA sendvič ukazuje slibné výsledky",
@@ -6533,7 +6759,8 @@
       "PLA",
       "Composite Materials",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Základy lyžařského vleku vytvořené 3D tiskem v Hemavanu ve Švédsku",
@@ -6563,7 +6790,8 @@
       "Infrastructure",
       "3D Concrete Printing",
       "Hemavan"
-    ]
+    ],
+    "region": "SE"
   },
   {
     "title": "Yamaha: proč si 3D tisknou kompozity?",
@@ -6596,7 +6824,8 @@
       "Composite Printing",
       "Industrial Manufacturing",
       "ADITIVNI.cz"
-    ]
+    ],
+    "region": "JP"
   },
   {
     "title": "Britská charita pro nevidomé využívá 3D tisk ultrazvukových snímků pro nastávající rodiče se zrakovým postižením",
@@ -6626,7 +6855,8 @@
       "Accessibility",
       "Assistive Technology",
       "Guide Dogs"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "Kdo je největší v 3D tisku, 13. září 2026",
@@ -6657,7 +6887,8 @@
       "3D Systems",
       "Markforged",
       "Velo3D"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "V Hyundai už si 3D tisknou celý dveřní panel v jednom kuse",
@@ -6687,7 +6918,8 @@
       "Automotive",
       "Additive Manufacturing",
       "ADITIVNI.cz"
-    ]
+    ],
+    "region": "KR"
   },
   {
     "title": "Jak by automatizace výroby jednotlivých kusů mohla transformovat výrobu 3D tištěných ortopedických implantátů",
@@ -6716,7 +6948,8 @@
       "Automation",
       "Medical Manufacturing",
       "Just-in-Time Production"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Zprávy ze světa 3D tisku, 12. září 2026: Rebranding, kybernetická bezpečnost, výzva k projektům a další",
@@ -6744,7 +6977,8 @@
       "ATLIX",
       "Additive Manufacturing",
       "Cybersecurity"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Západní report #7: WAAM v BMW, Freemelt získává velkou zakázku a Stratasys uvádí novou 3D tiskárnu (ale to už víte)",
@@ -6773,7 +7007,8 @@
       "BMW",
       "Freemelt",
       "Stratasys"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost 3DEVO uvádí na trh Filament Maker X10 pro automatizovanou výrobu filamentů",
@@ -6800,7 +7035,8 @@
       "3DEVO",
       "Filament Production",
       "3D Printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Proč výrobci 3D tiskáren, jako je Meltio, přesouvají výrobu do USA",
@@ -6827,7 +7063,8 @@
       "Meltio",
       "Supply Chain",
       "Industry Trends"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Patent společnosti Miltenyi by mohl výrazně zvětšit dvoubarevný volumetrický tisk",
@@ -6856,7 +7093,8 @@
       "Miltenyi",
       "3D Printing Innovation",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "DE"
   },
   {
     "title": "Zastavený projekt 3D tištěné rezidence ve Windsoru ukazuje rizika 3DCP",
@@ -6885,7 +7123,8 @@
       "Construction",
       "Windsor",
       "Project Management"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "3D tištěný kryt pantu od Applu a inaugurace éry Ternuse",
@@ -6915,7 +7154,8 @@
       "Manufacturing",
       "John Ternus",
       "Consumer Electronics"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost VMP s obratem 51 milionů dolarů se chce stát předním výrobcem kovových prášků pro aditivní výrobu",
@@ -6942,7 +7182,8 @@
       "Metal Powder",
       "VMP",
       "Industrial 3D Printing"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Hyundai instaluje nové velkoformátové 3D tiskárny pro výrobu automobilových dílů v plné velikosti",
@@ -6971,7 +7212,8 @@
       "Automotive",
       "3D Printing",
       "PA12"
-    ]
+    ],
+    "region": "KR"
   },
   {
     "title": "Proč zatím netiskneme více léků na 3D tiskárnách?",
@@ -7001,7 +7243,8 @@
       "Personalized Medicine",
       "Regulatory Compliance",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Apple využívá dva odlišné procesy 3D tisku pro pant svého prvního skládacího iPhonu",
@@ -7030,7 +7273,8 @@
       "iPhone Duo",
       "3D Printing",
       "Foldable Technology"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Mohl by být PCTG připraven na průlom?",
@@ -7057,7 +7301,8 @@
       "PCTG",
       "Filament",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Nissan si patentoval magnetické pilíře pro snadnější uvolňování resinových výtisků",
@@ -7085,7 +7330,8 @@
       "SLA",
       "Patent",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "JP"
   },
   {
     "title": "Stratasys uvádí na trh velkoformátovou průmyslovou 3D tiskárnu F870",
@@ -7111,7 +7357,8 @@
       "Stratasys",
       "Industrial 3D Printing",
       "Large-format"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "China Watch #7: Creality se objevuje v obchodech Lenovo, čínští investoři nadále masivně investují do kovů a Apple tiskne titanový pant",
@@ -7137,7 +7384,8 @@
       "Apple",
       "Metal 3D Printing",
       "Investment"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Meltio pomáhá pěstovat rubíny uvnitř 3D tištěné platiny",
@@ -7168,7 +7416,8 @@
       "CFPR",
       "Metal 3D Printing",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "Společnost Continuous Composites získala kontrakt SBIR od námořnictva na 3D tištěné drony",
@@ -7197,7 +7446,8 @@
       "3D Printing",
       "US Navy",
       "SBIR"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Novinky ze světa 3D tisku, 10. září 2026: Daňové úlevy, výzkum polymerů, mikrojehly a další",
@@ -7227,7 +7477,8 @@
       "Axtra3D",
       "Beehive Industries",
       "Roboze"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Iniciativa kvantového internetu v New Yorku v hodnotě 300 milionů USD a aditivní výroba",
@@ -7255,7 +7506,8 @@
       "Additive Manufacturing",
       "Stony Brook University",
       "Research and Development"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "PrusaSlicer 3.0 Preview přichází s novou architekturou a chystaným komunitním tržištěm pluginů",
@@ -7285,7 +7537,8 @@
       "3D Printing",
       "Slicing Software",
       "Open Source"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost restor3d rozšiřuje personalizovanou ortopedii o digitální sadu MyFit",
@@ -7315,7 +7568,8 @@
       "3D Printing",
       "Orthopedics",
       "Digital Health"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Proč na tvaru PET lahve záleží při výrobě recyklovaného filamentu pro 3D tisk",
@@ -7344,7 +7598,8 @@
       "Sustainability",
       "Pultrusion",
       "Filament"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost Arridex rozšiřuje svou síť 3D tisku do Ghany",
@@ -7373,7 +7628,8 @@
       "Oil and Gas",
       "Metal 3D Printing",
       "Polymer 3D Printing"
-    ]
+    ],
+    "region": "AFRICA"
   },
   {
     "title": "Vídeňští vědci snížili spotřebu betonu o dvě třetiny díky 3D tisku",
@@ -7403,7 +7659,8 @@
       "Sustainability",
       "FH Campus Wien",
       "C3PO"
-    ]
+    ],
+    "region": "AT"
   },
   {
     "title": "Společnost Meltio uvádí na trh robotickou buňku pro průmyslový 3D tisk kovů montovanou v USA",
@@ -7431,7 +7688,8 @@
       "DED",
       "Robotics",
       "Industrial Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "3D tiskárna pro děti Ugee Funbox jde do prodeje",
@@ -7458,7 +7716,8 @@
       "Ugee",
       "Funbox",
       "3D Printing for Kids"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Patent IBM využívá zárodečné krystaly k řízení 3D tisku",
@@ -7487,7 +7746,8 @@
       "Patent",
       "Crystallization",
       "Advanced Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Stratasys představuje F870 – nový velkoformátový průmyslový FDM systém",
@@ -7513,7 +7773,8 @@
       "FDM",
       "Industrial 3D Printing",
       "Large-format"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "3D tiskárna, která vyrábí led odstraňováním vzduchu",
@@ -7541,7 +7802,8 @@
       "Ice Printing",
       "Additive Manufacturing",
       "Innovation"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Trh s tlumiči prověří připravenost kovového 3D tisku pro sériovou výrobu díky obrovskému rozmachu",
@@ -7570,7 +7832,8 @@
       "Defense Industry",
       "Silencer Production",
       "Industrial Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Zaměření na aplikace slibuje úspěch, ale vyžaduje risk",
@@ -7601,7 +7864,8 @@
       "AMPOWER",
       "Additive Manufacturing Strategies",
       "Industry Trends"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost SprintRay uvádí na trh Midas Restore",
@@ -7627,7 +7891,8 @@
       "Dentistry",
       "SprintRay",
       "3D Printing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost Gastronology podepsala smlouvu o distribuci své řady potravin pro pacienty s dysfagií v Belgii",
@@ -7657,7 +7922,8 @@
       "Revogan",
       "Healthcare",
       "Dysphagia"
-    ]
+    ],
+    "region": "BE"
   },
   {
     "title": "Konec éry jednoslitinových dílů a 3D tisk",
@@ -7685,7 +7951,8 @@
       "Metal 3D Printing",
       "Material Science",
       "Engineering"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Návštěvnost Formnext Asia Shenzhen 2026 vzrostla o 65 %",
@@ -7715,7 +7982,8 @@
       "Additive Manufacturing",
       "Formnext",
       "Shenzhen"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "AMUG zahajuje registraci na konferenci 2027 a přidává dvě nové sekce",
@@ -7743,7 +8011,8 @@
       "AMUG",
       "3D Printing Conference",
       "Industry Events"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Earthseed Dome přináší do ICA 3D tištěnou živou půdu",
@@ -7773,7 +8042,8 @@
       "Lily Kwong",
       "ICA SF",
       "Earthseed Dome"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "3devo uvádí na trh Filament Maker X10: Technické specifikace a ceny",
@@ -7801,7 +8071,8 @@
       "Filament Maker X10",
       "Additive Manufacturing",
       "Filament Production"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Írán zajal 3D tištěný podmořský dron společnosti Anduril",
@@ -7829,7 +8100,8 @@
       "Defense",
       "Autonomous Systems",
       "Underwater Drones"
-    ]
+    ],
+    "region": "IR"
   },
   {
     "title": "Rotující tryska řídí orientaci vláken uvnitř FFF výtisků",
@@ -7860,7 +8132,8 @@
       "Composite Materials",
       "Fiber Reinforcement",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Výtisky doplňků pro těžkou techniku na velké agro výstavě",
@@ -7891,7 +8164,8 @@
       "SDLG",
       "Custom Manufacturing",
       "ADITIVNI.cz"
-    ]
+    ],
+    "region": "CZ"
   },
   {
     "title": "Modix Generation 5 přináší výměnu nástrojů INDX a granulový tisk pro velkoformátové 3D tiskárny",
@@ -7918,7 +8192,8 @@
       "Large-Format 3D Printing",
       "Pellet Extrusion",
       "Toolchanging"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Patent Lawrence Livermore navrhuje multimateriálový dvoufotonový 3D tisk",
@@ -7945,7 +8220,8 @@
       "Lawrence Livermore National Laboratory",
       "Two-Photon Lithography",
       "3D Printing Innovation"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "AMIS 3.5.4: malá záplata, která vyrostla ve významnou aktualizaci",
@@ -7973,7 +8249,8 @@
       "Automation",
       "Nesting",
       "Workflow Optimization"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Kalifornský zákon o 3D tiskárnách AB 2047 prošel legislativou a čeká na rozhodnutí guvernéra",
@@ -8000,7 +8277,8 @@
       "California",
       "AB 2047",
       "3D Printing Policy"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost Quantum Cyber dokončila instalaci 80 3D tiskáren v dronové farmě v Connecticutu",
@@ -8028,7 +8306,8 @@
       "3D Printing",
       "Drones",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Frankenservis, část 1: Vytiskni duhu",
@@ -8058,7 +8337,8 @@
       "Additive Manufacturing",
       "Industrial 3D Printing",
       "Manufacturing Strategy"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Skrytá výhoda Home Depotu mění zkušenosti dodavatelů v produktové inovace",
@@ -8087,7 +8367,8 @@
       "Home Depot",
       "3D Printing",
       "Innovation"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Mohl by 3D tisk ve stavebnictví udržet lidi mimo nebezpečná staveniště?",
@@ -8117,7 +8398,8 @@
       "Automation",
       "Workplace Safety",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "QTREX zavádí technologii AME od Nano Dimension do izraelského obranného průmyslu",
@@ -8146,7 +8428,8 @@
       "AME",
       "Defense Industry",
       "3D Printing"
-    ]
+    ],
+    "region": "IL"
   },
   {
     "title": "Společnost Quantum Cyber instalovala v Connecticutu farmu s 80 3D tiskárnami pro výrobu dronů",
@@ -8175,7 +8458,8 @@
       "Quantum Cyber",
       "Autonomous Systems",
       "Defense Technology"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Tým z USC vytiskl na 3D tiskárně senzory pro MRI pro kojence za méně než 10 minut",
@@ -8206,7 +8490,8 @@
       "MRI Technology",
       "Pediatrics",
       "USC"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Společnost Phase3D jmenovala Phillips Federal výhradním partnerem pro obranný průmysl v Severní Americe",
@@ -8234,7 +8519,8 @@
       "Phillips Federal",
       "Quality Assurance",
       "Defense"
-    ]
+    ],
+    "region": "AMERICAS"
   },
   {
     "title": "Printreon nabízí měsíční členství pro designéry 3D modelů ve stylu Patreonu",
@@ -8262,7 +8548,8 @@
       "Printreon",
       "Monetization",
       "Subscription Model"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Personalizované polštáře Salubrious AireRx využívají programovatelnou pěnu od společnosti Create It REAL",
@@ -8291,7 +8578,8 @@
       "AireRx",
       "3D Printing",
       "Personalization"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Uživatelé Printables jsou terčem podvodů prostřednictvím napadených účtů",
@@ -8319,7 +8607,8 @@
       "Cybersecurity",
       "3D Printing",
       "Scam"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "3D tiskárny Mastrex: Vyrobeno v USA?",
@@ -8347,7 +8636,8 @@
       "Continuum Powders",
       "LPBF",
       "Metal 3D Printing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "3D tiskárny Mastrex: Vyrobeno v USA?",
@@ -8375,7 +8665,8 @@
       "Continuum Powders",
       "LPBF",
       "Metal 3D Printing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Design týdne: Motorový člun TwinJet",
@@ -8403,7 +8694,8 @@
       "Design",
       "RC Boat",
       "Hobby"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Studie odhaluje lepší geometrii elektrod pro průtokové baterie",
@@ -8431,7 +8723,8 @@
       "Energy Storage",
       "Research",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Dokáže elektroleštění dosáhnout na nejdrsnější části LPBF mřížek?",
@@ -8460,7 +8753,8 @@
       "Post-processing",
       "Electropolishing",
       "Lattice Structures"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Dva centy za gram",
@@ -8489,7 +8783,8 @@
       "MJF",
       "Additive Manufacturing",
       "Mass Production"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost Hike Medical získala 22,5 milionu dolarů na rozšíření vertikálně integrované platformy pro ortotiku",
@@ -8520,7 +8815,8 @@
       "Orthotics",
       "Medical Devices",
       "Digital Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Nový resine Liqcreate Tray zjednodušuje výrobu individuálních otiskovacích lžic",
@@ -8547,7 +8843,8 @@
       "3D Printing",
       "Biocompatible",
       "Liqcreate"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Za hranice strojů: Co zaujalo na veletrhu Formnext Shenzhen 2026",
@@ -8575,7 +8872,8 @@
       "Services",
       "Formnext",
       "3D Printing Industry"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Kdo je největší v 3D tisku, 6. září 2026",
@@ -8604,7 +8902,8 @@
       "Market Analysis",
       "3D Printing Industry",
       "Valuation"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "V této 3D tištěné zoo jsou chyby součástí zábavy",
@@ -8634,7 +8933,8 @@
       "Education",
       "Maker Movement",
       "Prototyping"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Novinky ze světa 3D tisku, 5. září 2026: Elektronická kůže, chrupavky, sušenky a další",
@@ -8662,7 +8962,8 @@
       "Bioprinting",
       "Electronic Skin",
       "Food Printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Jak 3D tisk proměnil jednoduché fidget hračky v prosperující byznys a zároveň pomáhá neurodivergentním uživatelům",
@@ -8691,7 +8992,8 @@
       "Neurodiversity",
       "Custom Manufacturing",
       "Entrepreneurship"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "3D tištěné protitornádové kryty?",
@@ -8719,7 +9021,8 @@
       "Construction",
       "Safety",
       "Concrete Printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Mohl by software generovaný umělou inteligencí udržet stárnoucí 3D tiskárny v provozu?",
@@ -8747,7 +9050,8 @@
       "Artificial Intelligence",
       "Legacy Systems",
       "Automation"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "UltiMaker klade důraz na bezpečnost v souladu s NATO v době sílící konkurence",
@@ -8776,7 +9080,8 @@
       "Security",
       "Defense Industry",
       "3D Printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Konečné odpočítávání: Vyšší hodnota pro podporovatele série G1X",
@@ -8806,7 +9111,8 @@
       "G1X Series",
       "Kickstarter",
       "Full-color Printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Západní report #6: Materialise hlásí silné Q2, AML3D má rekordní rok",
@@ -8836,7 +9142,8 @@
       "ATLIX",
       "Trumpf",
       "AI"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost Quickparts buduje síť pro 3D tisk ve čtyřech zemích pro potřeby vesmírného a obranného průmyslu",
@@ -8863,7 +9170,8 @@
       "Aerospace",
       "Defense",
       "Quickparts"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Čínský patent navrhuje vyměnitelné hotendy pro multimateriálový FFF tisk",
@@ -8891,7 +9199,8 @@
       "Multimaterial",
       "Patent",
       "Extrusion"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Skupina 3DCP dokončila 36 3D tištěných studentských bytů pod cenovým limitem dotovaného bydlení v Dánsku",
@@ -8920,7 +9229,8 @@
       "Skovsporet",
       "Denmark",
       "Sustainable Housing"
-    ]
+    ],
+    "region": "DK"
   },
   {
     "title": "Jednoduché laserové stopy zkrotily 200mikronové hliníkové LPBF mřížky",
@@ -8949,7 +9259,8 @@
       "Aluminum",
       "Lattice Structures",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Skupina 3DCP vytiskla studentské bydlení v Dánsku pomocí 3D tisku",
@@ -8977,7 +9288,8 @@
       "SAGA Space Architects",
       "Construction 3D Printing",
       "Sustainable Housing"
-    ]
+    ],
+    "region": "DK"
   },
   {
     "title": "Jak vědci z RMIT přiměli 3D tištěný titan plavat na vodě",
@@ -9007,7 +9319,8 @@
       "Titanium",
       "Metamaterials",
       "RMIT University"
-    ]
+    ],
+    "region": "AU"
   },
   {
     "title": "Společnost MAASS vyvíjí plnobarevnou resinovou 3D tiskárnu se šesti vanami",
@@ -9034,7 +9347,8 @@
       "MAASS",
       "Full-Color Printing",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Výzkumník nahlásil potenciální bezpečnostní chybu umožňující převzetí účtu v Lychee Slicer",
@@ -9061,7 +9375,8 @@
       "Lychee Slicer",
       "Cybersecurity",
       "Slicing Software"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Patent společnosti Carbon přidává laserové čištění do resinového tisku",
@@ -9089,7 +9404,8 @@
       "3D Printing",
       "Post-processing",
       "Innovation"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "China Watch #6: velmi rušný týden pro čínský trh 3D tisku",
@@ -9116,7 +9432,8 @@
       "Bambu Lab",
       "Metal AM",
       "Industry News"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "Zprávy ze světa 3D tisku, 3. září 2026: Akvizice, obchodní tajemství, implantáty kotníků a další",
@@ -9146,7 +9463,8 @@
       "Defense",
       "Additive Manufacturing",
       "Quality Control"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Společnost 3devo uvádí na trh nový výrobník filamentu X10",
@@ -9176,7 +9494,8 @@
       "Filament",
       "Extrusion",
       "Manufacturing"
-    ]
+    ],
+    "region": "NL"
   },
   {
     "title": "Společnost Continuous Composites získala kontrakt od námořnictva na 3D tisk multifunkčních struktur pro drony",
@@ -9207,7 +9526,8 @@
       "UAV",
       "U.S. Navy",
       "Composite Printing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "UMaine představuje 3Dirigo X: 3D tištěnou loď o délce 30 stop",
@@ -9237,7 +9557,8 @@
       "Maritime",
       "Defense",
       "Large-scale Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Investice společnosti Stanley Black & Decker ve výši 1 miliardy dolarů do americké výroby a výzkumu může být zlatým dolem pro 3D tisk",
@@ -9265,7 +9586,8 @@
       "Additive Manufacturing",
       "Industrial Manufacturing",
       "R&D"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "SRNL a 3D Systems se zaměřují na komponenty pro jadernou energetiku díky novému partnerství v oblasti AM",
@@ -9293,7 +9615,8 @@
       "SRNL",
       "Additive Manufacturing",
       "Nuclear Energy"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Výzkumníci zkoumají vlastnosti TPU-CF",
@@ -9323,7 +9646,8 @@
       "Carbon Fiber",
       "Conductive Materials",
       "Research"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Výzkumníci zkoumají vlastnosti TPU-CF",
@@ -9353,7 +9677,8 @@
       "3D Printing",
       "Conductive Materials",
       "Research"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "AI řízená znalostmi navrhuje pevnější a lépe tisknutelné kovové slitiny",
@@ -9382,7 +9707,8 @@
       "Additive Manufacturing",
       "Machine Learning",
       "Alloy Development"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Finanční výsledky 3D tisku: Příjmy AML3D vzrostly o 70 % díky růstu v americkém obranném průmyslu",
@@ -9409,7 +9735,8 @@
       "AML3D",
       "Metal 3D Printing",
       "Defense Industry"
-    ]
+    ],
+    "region": "AU"
   },
   {
     "title": "Evropský průzkum v neurochirurgii odhaluje přesun k internímu 3D tisku s rostoucím využitím implantátů",
@@ -9439,7 +9766,8 @@
       "Neurosurgery",
       "Implants",
       "Point-of-Care Manufacturing"
-    ]
+    ],
+    "region": "EUROPE"
   },
   {
     "title": "Recenze PrusaSlicer 3.0: Velká proměna sliceru",
@@ -9466,7 +9794,8 @@
       "PrusaSlicer",
       "3D Printing",
       "Slicing Software"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Japonsko využívá 3D tisk pro svou nejnovější flotilu přepadových dronů",
@@ -9495,7 +9824,8 @@
       "ATLA",
       "UAV",
       "Interceptor Drones"
-    ]
+    ],
+    "region": "JP"
   },
   {
     "title": "Nová pravidla amerického námořnictva by mohla podpořit americký průmysl 3D tisku kovů",
@@ -9523,7 +9853,8 @@
       "Metal 3D Printing",
       "Additive Manufacturing",
       "Defense Industry"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Školní ambasadoři Bambu Lab přinášejí 3D tisk a kutilství tisícům lidí",
@@ -9553,7 +9884,8 @@
       "Education",
       "3D Printing",
       "STEM"
-    ]
+    ],
+    "region": "AMERICAS"
   },
   {
     "title": "Patent 3D Systems posouvá tiskovou rovinu skrz kapalinu",
@@ -9581,7 +9913,8 @@
       "Resin Printing",
       "Patents",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Prusa Research představuje PrusaSlicer 3.0",
@@ -9607,7 +9940,8 @@
       "Prusa Research",
       "PrusaSlicer",
       "3D Printing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Ekonomie aditivní výroby 101, část 3: Váš svět v šálku čaje",
@@ -9637,7 +9971,8 @@
       "Business Strategy",
       "3D Printing Economics",
       "Process Optimization"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Národní laboratoř Savannah River a 3D Systems podepsaly dohodu o jaderném výzkumu (CRADA)",
@@ -9665,7 +10000,8 @@
       "3D Systems",
       "Nuclear Energy",
       "CRADA"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Patentová zeď Universal Instruments: Propojení minulé inovace s budoucností výroby",
@@ -9696,7 +10032,8 @@
       "Patents",
       "Innovation",
       "Workforce Development"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Od novinky k masové výrobě: Adidas sází na 3D tisk ve velkém s modelem Futurecool",
@@ -9724,7 +10061,8 @@
       "Futurecool",
       "Footwear",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Výzkumníci z QUB vytiskli na 3D tiskárně rozpustnou náplast pro léčbu rakoviny kůže",
@@ -9754,7 +10092,8 @@
       "Medical Technology",
       "Queen’s University Belfast",
       "Microneedles"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "Sarginsons: První britská slévárna, která instalovala anorganický 3D tisk pískových jader",
@@ -9782,7 +10121,8 @@
       "Sarginsons Industries",
       "Foundry",
       "Aluminium Casting"
-    ]
+    ],
+    "region": "GB"
   },
   {
     "title": "Patenty Bambu Lab odhalují systémy pro automatickou výměnu tiskových hlav a monitorování trysek",
@@ -9811,7 +10151,8 @@
       "Automation",
       "Extrusion Technology",
       "Patents"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "AI řízená znalostmi navrhuje pevnější a lépe tisknutelné kovové slitiny",
@@ -9842,7 +10183,8 @@
       "Additive Manufacturing",
       "Machine Learning",
       "Alloy Development"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Experimenty řízené umělou inteligencí určily nízkoenergetické parametry DED pro slitinu NASA GRCop-42",
@@ -9872,7 +10214,8 @@
       "Additive Manufacturing",
       "NASA",
       "GRCop-42"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "IperionX získává od armády USA 11,5 milionu dolarů na výrobu titanových spojovacích prvků",
@@ -9901,7 +10244,8 @@
       "U.S. Army",
       "Defense",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "AM Pulse Asia: Spotřebitelský kovový 3D tisk, jaderné součástky a rakety posouvají hranice",
@@ -9929,7 +10273,8 @@
       "Rongsu Technology",
       "Aerospace",
       "Nuclear Energy"
-    ]
+    ],
+    "region": "ASIA"
   },
   {
     "title": "Na Kickstarteru byla spuštěna 3D tiskárna Lightmake L4 se čtyřmi nástroji IDEX",
@@ -9957,7 +10302,8 @@
       "Lightmake",
       "Kickstarter",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Klíčová zjištění ze zprávy o průmyslu polymerního 3D tisku pro rok 2025 od VoxelMatters",
@@ -9986,7 +10332,8 @@
       "Polymer 3D Printing",
       "Additive Manufacturing",
       "Market Report"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Patent společnosti EOS tvaruje laserové paprsky pro snížení praskání kovů",
@@ -10016,7 +10363,8 @@
       "Metal 3D Printing",
       "Laser Powder Bed Fusion",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "DE"
   },
   {
     "title": "Finance ve 3D tisku: Nové investice proudí do medicínského, průmyslového a AI 3D tisku",
@@ -10044,7 +10392,8 @@
       "Industrial",
       "AI",
       "Hike Medical"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "ORNL pokračuje ve výzkumu WAAM pro průmyslové tlakové nádoby ve spolupráci s Idaho National Laboratory",
@@ -10073,7 +10422,8 @@
       "WAAM",
       "DED",
       "Pressure Vessels"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Creality končí první polovinu roku 2026 ve ztrátě navzdory vyšším tržbám",
@@ -10102,7 +10452,8 @@
       "3D Printing Industry",
       "Financial Results",
       "IPO"
-    ]
+    ],
+    "region": "CN"
   },
   {
     "title": "AMCOM chce více expedičních 3D tiskáren pro letecké systémy americké armády",
@@ -10133,7 +10484,8 @@
       "Expeditionary Manufacturing",
       "Defense Industry",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Chirurgické roboty: Co znamená systém OTTAVA od J&J pro fyzickou AI a budoucnost lékařských zákroků",
@@ -10163,7 +10515,8 @@
       "Medical Robotics",
       "Physical AI",
       "Additive Manufacturing"
-    ]
+    ],
+    "region": "US"
   },
   {
     "title": "Nová FilaDC i10 od SUNLU a INSLOGIC přináší nový pohled na skladování filamentu",
@@ -10191,7 +10544,8 @@
       "FDM",
       "Filament Storage",
       "3D Printing Accessories"
-    ]
+    ],
+    "region": "WORLD"
   },
   {
     "title": "Mohou šišky vytvořit lepší filament pro 3D tisk?",
@@ -10219,7 +10573,8 @@
       "Bio-composite",
       "3D Printing Filament",
       "Forest Waste"
-    ]
+    ],
+    "region": "RO"
   },
   {
     "title": "Japonský dron B1 Terra míří do sériové výroby",
@@ -10247,6 +10602,7 @@
       "B1 Terra",
       "Teijin",
       "Japan"
-    ]
+    ],
+    "region": "JP"
   }
 ]
