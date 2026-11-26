@@ -6524,7 +6524,7 @@
       "The machine is designed for manufacturers requiring high precision, scalability, and reliable production performance."
     ],
     "summary_bullets_cs": [
-      "Americký výrobce Mastrex představil MX300, novou průmyslovou 3D tiskárnu na kovy využívající technologii Laser Powder Bed Fusion (LPBF).",
+      "Americký výrobce Mastrex představil MX300, novou průmyslovou 3D tiskárnu na kovy využívající technologii laserového 3D tisku z kovového prášku (LPBF).",
       "Systém je uváděn na trh jako cenově nejdostupnější LPBF tiskárna v oboru s pořizovací cenou 185 000 USD.",
       "Tiskárna MX300 je určena výrobcům, kteří hledají vysokou přesnost, škálovatelnost a spolehlivý výkon při produkci."
     ],
@@ -9490,7 +9490,7 @@
     ],
     "summary_bullets_cs": [
       "Výrobce 3D tiskáren Peopoly uvedl na trh GIGA 800, velkoformátový systém pro tisk z granulátu určený pro průmyslové nástroje, formy a automobilové přípravky.",
-      "Tiskárna nabízí pracovní prostor o rozměrech 800 x 800 x 800 mm.",
+      "Tiskárna nabízí tiskový objem o rozměrech 800 x 800 x 800 mm.",
       "Stroj je integrován do pracovního postupu založeného na firmwaru Klipper a softwaru Orca Slicer.",
       "Základní cena zařízení začíná na 15 000 USD (EXW)."
     ],
