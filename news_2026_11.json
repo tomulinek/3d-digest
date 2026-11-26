@@ -1018,7 +1018,7 @@
       "Technologie 3D tisku LMS od společnosti Lynxel byla jednou z nejzajímavějších novinek na veletrhu Formnext.",
       "Systém umožňuje výrobu vysoce pevných dílů s podporou plnobarevného tisku.",
       "Hlavní výhodou platformy Lynxel je schopnost udržet velmi nízké výrobní náklady.",
-      "Tato technologie představuje významný posun v oblasti dostupného a vysoce výkonného aditivního tisku."
+      "Tato technologie představuje významný posun v oblasti dostupné a vysoce výkonné aditivní výroby."
     ],
     "tags": [
       "Hardware",
@@ -2309,7 +2309,7 @@
     "summary_bullets_cs": [
       "Síť německých výzkumných ústavů Fraunhofer ADDITIV představila na veletrhu Formnext 2026 řadu inovací v aditivní výrobě.",
       "Expozice se zaměřila na funkční integraci, efektivitu procesů a nástroje pro digitální pracovní postupy.",
-      "Prezentované technologie zahrnují široké spektrum materiálů, od kovů a polymerů až po keramiku a multimodální systémy.",
+      "Prezentované technologie zahrnují široké spektrum materiálů, od kovů a polymerů až po keramiku a vícemateriálové systémy.",
       "Jedním z hlavních exponátů byl tzv. „ProFi finger“, který demonstruje nové možnosti vkládání funkcí přímo do 3D tištěných součástí."
     ],
     "tags": [
@@ -6316,7 +6316,7 @@
     "summary_bullets_cs": [
       "Společnost Renishaw uvedla software LIBERTAS pro své systémy kovového 3D tisku řady RenAM 500.",
       "Software umožňuje operátorům detailně nastavovat parametry laseru.",
-      "Balíček pro redukci podpor snižuje množství potřebných podpěr u tištěných dílů.",
+      "Balíček pro redukci podpěr snižuje množství potřebných podpěr u tištěných dílů.",
       "Technologie zlepšuje kvalitu povrchu u nepodepřených částí (tzv. downskin)."
     ],
     "tags": [
@@ -7445,7 +7445,7 @@
     ],
     "summary_bullets_cs": [
       "Profesor Neil Hopkinson byl vybrán jako držitel ocenění AMUG Innovators Award pro rok 2027.",
-      "Je uznáván za vynález technologie High Speed Sintering (HSS), což je revoluční metoda spékání polymerního prášku.",
+      "Je uznáván za vynález technologie High Speed Sintering (HSS), což je revoluční metoda 3D tisku z polymerního prášku.",
       "Technologie HSS eliminuje potřebu laseru při procesu spékání, čímž zásadně ovlivnila odvětví aditivní výroby.",
       "Hopkinson v současnosti působí jako viceprezident pro technologii SAF ve společnosti Stratasys."
     ],
