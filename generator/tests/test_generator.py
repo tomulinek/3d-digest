@@ -73,6 +73,14 @@ class FakeEnricher:
                 raise self.answers[article['url']]
         return {i: self.answers.get(a['url'], 'DE') for i, a in enumerate(articles) if self.answers.get(a['url'], 'DE')}
 
+    def fix_terms(self, articles):
+        """Oprava názvosloví podle odpovědí: {adresa: (nadpis, body)}; výjimka = selhání dávky."""
+        self.seen.append([a['url'] for a in articles])
+        for article in articles:
+            if isinstance(self.answers.get(article['url']), Exception):
+                raise self.answers[article['url']]
+        return {i: self.answers[a['url']] for i, a in enumerate(articles) if a['url'] in self.answers}
+
 
 class Response:
     def __init__(self, status=200, body=b'', headers=None, url='https://src/', data=None):
@@ -411,6 +419,135 @@ def test_pravidlo_oblasti_v_zadani():
 def test_mesic_pro_doplneni_musi_mit_tvar_rrrr_mm(value):
     with pytest.raises(ValueError):
         gen.months_since(value, NOW)
+
+
+# --- názvosloví ---
+
+FIXED = ('Tisk bez pročišťování', ['Tiskárna z pryskyřice.', 'Druhý bod.'])
+
+
+def cs_art(url, published='2026-11-04T10:00:00+00:00', title='Tisk bez profukování', **extra):
+    return art(url, published, title=title, title_en='Purge-free printing',
+               summary_bullets_cs=['Tiskárna z resinu.', 'Druhý bod.'],
+               summary_bullets_en=['A resin printer.', 'Second.'], **extra)
+
+
+def test_slovnik_je_v_zadani_noveho_clanku_i_opravy():
+    for prompt in (gen.build_prompt(art('https://a/1', summary='x'), 'en'), gen.terms_prompt([cs_art('https://a/1')])):
+        assert 'purge-free, no-purge → bez pročišťování' in prompt
+        assert 'při první zmínce v článku (nadpis a body dohromady) tisková struna' in prompt
+        assert 'pellets → granulát' in prompt
+        assert 'slinování' in prompt and 'dokončovací práce' in prompt and 'čisticí věž' in prompt
+        assert '3D tisk z kovového prášku (PBF)' in prompt and 'digital thread → digitální vlákno' in prompt
+        assert 'tisková podložka' in prompt and 'Původní český nadpis' in prompt
+    fix = gen.terms_prompt([cs_art('https://a/1'), cs_art('https://blog.aditivni.cz/blog/x')])
+    assert 'EN nadpis: Purge-free printing' in fix and 'CS bod 2: Druhý bod.' in fix
+    assert fix.count('NEMĚŇ HO') == 1, 'jen u článku z českého zdroje'
+
+
+def test_oprava_nazvoslovi_prijme_jen_vymenu_terminu():
+    batch = ([cs_art(f'https://a/{i}') for i in range(5)] + [cs_art('https://blog.aditivni.cz/blog/x')]
+             + [cs_art('https://a/6'), cs_art('https://a/7')])
+    answer = {'items': [
+        {'id': 0, 'title_cs': FIXED[0], 'summary_bullets_cs': FIXED[1]},
+        {'id': 1, 'title_cs': FIXED[0], 'summary_bullets_cs': ['Jen jeden bod.']},
+        {'id': 2, 'title_cs': 'Úplně jiný text o něčem jiném', 'summary_bullets_cs': ['Vymyšlená věta.', 'Další výmysl modelu.']},
+        {'id': 3, 'title_cs': 'Tisk bez profukování', 'summary_bullets_cs': ['Tiskárna z resinu.', 'Druhý bod.']},
+        {'id': 4, 'title_cs': ' ', 'summary_bullets_cs': ['Tiskárna z pryskyřice.', 'Druhý bod.']},
+        {'id': 5, 'title_cs': FIXED[0], 'summary_bullets_cs': ['Tiskárna z pryskyřice.', 'Druhý bod.']},
+        {'id': 9, 'title_cs': 'x', 'summary_bullets_cs': ['a', 'b']},
+        {'id': 6, 'title_cs': FIXED[0], 'summary_bullets_cs': ['Tiskárna z pryskyřice.', 'Zcela nová věta o něčem jiném.']},
+        {'id': 7, 'title_cs': FIXED[0], 'summary_bullets_cs': ['Tiskárna z pryskyřice za 900 USD.', 'Druhý bod.']},
+        {'id': 0, 'title_cs': 'Podruhé', 'summary_bullets_cs': ['a', 'b']},
+    ]}
+    enricher, models = gemini(sdk_response({'text': json.dumps(answer)}))
+    assert enricher.fix_terms(batch) == {
+        0: FIXED,
+        5: ('Tisk bez profukování', ['Tiskárna z pryskyřice.', 'Druhý bod.']),
+    }, ('jiný počet bodů, velká změna (i jediného bodu), změna čísel, beze změny, prázdný nadpis a cizí id se zahodí; '
+        'český originál si nechá nadpis')
+    schema = models.kwargs['config'].response_json_schema
+    assert schema['properties']['items']['items']['required'] == ['id', 'title_cs', 'summary_bullets_cs']
+    assert '$ref' not in json.dumps(schema)
+
+
+def test_oprava_nazvoslovi_meni_jen_ceske_texty(monkeypatch):
+    monkeypatch.setattr(gen, 'TERMS_BATCH', 2)
+    storage = MemoryStorage({
+        'news_2026_11.json': [cs_art('https://a/1', region='CN', tags=['Hardware']), cs_art('https://a/2'),
+                              cs_art('https://a/3'), art('https://a/bez-bodu')],
+        'news_2026_10.json': [cs_art('https://a/4', '2026-10-01T00:00:00+00:00')],
+    })
+    before = storage.read('news_2026_11.json')[0][0]
+    enricher = FakeEnricher({'https://a/1': FIXED})
+    assert gen.fix_terms(storage, enricher, ['2026_11', '2026_10']) == 1
+    assert enricher.seen == [['https://a/1', 'https://a/2'], ['https://a/3'], ['https://a/4']]
+    after = storage.read('news_2026_11.json')[0][0]
+    assert after == {**before, 'title': FIXED[0], 'summary_bullets_cs': FIXED[1]}
+    assert storage.writes == ['news_2026_11.json'], 'měsíc beze změny se nezapisuje'
+
+
+def test_oprava_nazvoslovi_s_limitem_a_po_selhani(monkeypatch):
+    monkeypatch.setattr(gen, 'TERMS_BATCH', 1)
+    urls = [f'https://a/{i}' for i in range(6)]
+    files = {'news_2026_11.json': [cs_art(u) for u in urls], 'news_2026_10.json': [cs_art('https://b/1')]}
+    limited = FakeEnricher()
+    gen.fix_terms(MemoryStorage(files), limited, ['2026_11', '2026_10'], limit=2)
+    assert limited.seen == [[urls[0]], [urls[1]]]
+    storage = MemoryStorage(files)
+    answers = {urls[0]: FIXED, **{u: gen.AIError('429') for u in urls[1:]}}
+    with pytest.raises(gen.AIError):
+        gen.fix_terms(storage, FakeEnricher(answers), ['2026_11', '2026_10'])
+    assert storage.read('news_2026_11.json')[0][0]['title'] == FIXED[0], 'hotové opravy se uloží'
+    assert storage.writes == ['news_2026_11.json'], 'další měsíc se po přerušení nezpracuje'
+
+
+def test_oprava_nazvoslovi_po_soubeznem_zapisu_nic_neztrati():
+    storage = MemoryStorage({'news_2026_11.json': [cs_art('https://a/1')]}, conflicts=1)
+    gen.fix_terms(storage, FakeEnricher({'https://a/1': FIXED}), ['2026_11'])
+    stored = {a['url']: a for a in storage.read('news_2026_11.json')[0]}
+    assert stored['https://a/1']['title'] == FIXED[0] and 'https://x/soubezny' in stored
+
+
+def test_cisla_se_porovnavaji_bez_3d():
+    assert gen.digits('LPBF tisk za 5 299 USD') == gen.digits('laserový 3D tisk z kovového prášku (LPBF) za 5 299 USD')
+    assert gen.digits('za 900 USD') != gen.digits('za 800 USD')
+
+
+# --- značka Prusa patří do Česka ---
+
+@pytest.mark.parametrize('article,code', [
+    ({'title_en': 'Prusa Research Releases New HT HOTEND'}, 'CZ'),
+    ({'title': 'Josef Průša o budoucnosti 3D tisku'}, 'CZ'),
+    ({'title_en': 'PrusaSlicer 3.0 Review'}, 'CZ'),
+    ({'title_en': 'Czech Factorio arrives on Printables'}, 'CZ'),
+    ({'title': 'Novinka', 'url': 'https://blog.prusa3d.com/cs/novinka_1/'}, 'CZ'),
+    ({'title_en': 'Bambu Lab Releases H3C', 'tags': ['Prusa Research']}, None),
+    ({'title_en': 'Prussian blue pigment in resin'}, None),
+])
+def test_oblast_podle_znacky(article, code):
+    assert gen.brand_region(article) == code
+
+
+def test_znacka_prusa_prebije_oblast_od_modelu_u_noveho_i_ulozeneho_clanku():
+    record = gen.apply_summary(art('https://a/1'), summary(title_en='Prusa CORE One L+ review', region='WORLD'))
+    assert record['region'] == 'CZ'
+    assert gen.apply_summary(art('https://a/2'), summary(region='US'))['region'] == 'US'
+    storage = MemoryStorage({'news_2026_11.json': [
+        cs_art('https://a/1', title='Prusa vydává nový hotend', region='WORLD'), cs_art('https://a/2', region='US')]})
+    gen.fix_terms(storage, FakeEnricher(), ['2026_11'])
+    assert [a['region'] for a in storage.read('news_2026_11.json')[0]] == ['CZ', 'US']
+    storage = MemoryStorage({'news_2026_11.json': [art('https://a/1', title_en='Prusa news')]})
+    gen.backfill_regions(storage, FakeEnricher(), ['2026_11'])
+    assert storage.read('news_2026_11.json')[0][0]['region'] == 'CZ', 'model vrátil DE, značka má přednost'
+    assert 'značce Prusa' in gen.build_prompt(art('https://a/1', summary='x'), 'en')
+
+
+def test_blog_prusa_je_cesky_zdroj_jen_s_oznamenimi():
+    feed = next(f for f in gen.FEEDS if 'prusa3d.com' in f.url)
+    assert feed.language == 'cs' and feed.always_include and 'oznameni' in feed.url
+    assert gen.has_czech_original({'url': 'https://blog.prusa3d.com/cs/x/'})
+    assert not gen.has_czech_original({'url': 'https://3dprint.com/x'})
 
 
 def test_mesice_pro_doplneni():

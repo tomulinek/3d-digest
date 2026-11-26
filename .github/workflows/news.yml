@@ -11,14 +11,14 @@ on:
       action:
         description: 'Co spustit'
         type: choice
-        options: [run, add-url, clean, smoke-test, backfill-region, recheck-world-region]
+        options: [run, add-url, clean, smoke-test, backfill-region, recheck-world-region, fix-terminology]
         default: run
       url:
         description: 'Adresa článku (jen pro add-url)'
         required: false
         default: ''
       since:
-        description: 'Od měsíce RRRR-MM (jen pro backfill-region a recheck-world-region)'
+        description: 'Od měsíce RRRR-MM (jen pro backfill-region, recheck-world-region a fix-terminology)'
         required: false
         default: '2026-09'
 
@@ -62,5 +62,7 @@ jobs:
             backfill-region) python generate_news_json_github.py --backfill-region "$SINCE" ;;
             # Doplní chybějící oblasti a znovu posoudí články s WORLD (po změně pravidla oblasti)
             recheck-world-region) python generate_news_json_github.py --backfill-region "$SINCE" --recheck-world ;;
+            # Opraví české názvosloví podle slovníku GLOSSARY a oblast značky Prusa; lze spustit opakovaně
+            fix-terminology) python generate_news_json_github.py --fix-terms "$SINCE" ;;
             *)          python generate_news_json_github.py ;;
           esac
