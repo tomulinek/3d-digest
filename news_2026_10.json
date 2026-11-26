@@ -563,7 +563,7 @@
       "The company developed a proprietary printing process alongside custom hardware and software solutions."
     ],
     "summary_bullets_cs": [
-      "Společnost Studio 3e8 ze Somerville představila Mesa 1, stolní 3D tiskárnu na kov s integrovanou sintrovací pecí.",
+      "Společnost Studio 3e8 ze Somerville představila Mesa 1, stolní 3D tiskárnu na kov s integrovanou slinovací pecí.",
       "Firma spustí 1. prosince 2026 kampaň na Kickstarteru, přičemž cena systému začíná na 3 500 dolarech.",
       "Studio 3e8 vyvinulo pro tiskárnu Mesa 1 vlastní tiskový proces, doprovodný hardware i software."
     ],
@@ -594,7 +594,7 @@
     "summary_bullets_cs": [
       "Agentura DARPA zkoumá pokročilé technologie 3D tisku pro podmořskou výstavbu a opravy infrastruktury.",
       "Iniciativa se zaměřuje na využití autonomních robotů schopných pracovat v hlubinném prostředí.",
-      "Výzkumníci studují možnost využití materiálů přímo z mořského dna jako suroviny pro procesy aditivní výroby."
+      "Výzkumníci studují možnost využití materiálů přímo z mořského dna jako vstupního materiálu pro procesy aditivní výroby."
     ],
     "tags": [
       "Hardware",
@@ -855,7 +855,7 @@
       "BLT reports mixed financial and operational results in the latest industry update."
     ],
     "summary_bullets_cs": [
-      "Bambu Lab vyvíjí tiskárnu H3C s devíti tiskovými hlavami a uvádí na trh nový 2,85mm filament TPU 75A.",
+      "Bambu Lab vyvíjí tiskárnu H3C s devíti tiskovými hlavami a uvádí na trh novou 2,85mm tiskovou strunu TPU 75A.",
       "V oblasti 3D tištěné obuvi dochází k dalším významným inovacím.",
       "Nízkonákladový stolní tisk z kovů je na prahu velkého rozmachu.",
       "Společnost BLT zveřejnila smíšené výsledky svého hospodaření."
@@ -1257,7 +1257,7 @@
     "region": "WORLD"
   },
   {
-    "title": "Pozvánka na Formnext 2026: 3D tisk keramiky, post-processing a další",
+    "title": "Pozvánka na Formnext 2026: 3D tisk keramiky, dokončovací práce a další",
     "summary": "In just a few weeks, it will be time for the biggest trade show extravaganza in the additive manufacturing (AM) industry. Soon, we&#8217;ll all be hopping planes bound for Frankfurt...",
     "image": "https://3dprint.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-4.23.10-PM-1024x674.png",
     "source": "3DPrint.com | Additive Manufacturing Business",
@@ -1274,7 +1274,7 @@
     "summary_bullets_cs": [
       "Již za pár týdnů se uskuteční největší veletrh v odvětví aditivní výroby.",
       "Brzy se všichni vydáme na cestu do Frankfurtu na tuto významnou událost.",
-      "Článek předznamenává klíčové inovace v oblasti 3D tisku keramiky a následného zpracování výtisků."
+      "Článek předznamenává klíčové inovace v oblasti 3D tisku keramiky a dokončovacích prací výtisků."
     ],
     "tags": [
       "Hardware",
@@ -1331,7 +1331,7 @@
       "Researchers aim to use this technology to develop advanced components for fusion energy and aerospace applications."
     ],
     "summary_bullets_cs": [
-      "Univerzita v Turku ve Finsku vybavila svůj systém pro 3D tisk kovů více-materiálovým nanášečem prášku.",
+      "Univerzita v Turku ve Finsku vybavila svůj systém pro 3D tisk kovů vícemateriálovým nanášečem prášku.",
       "Tato technologie umožňuje nanášet různé kovové prášky ze tří samostatných zásobníků v rámci jedné vrstvy.",
       "Zařízení bude využito k výzkumu součástek kombinujících více kovů, což je klíčové pro budoucí komponenty jaderných fúzních reaktorů a letectví."
     ],
@@ -1523,7 +1523,7 @@
     "region": "US"
   },
   {
-    "title": "Patent společnosti Signify vkládá peletový materiál do obalu z filamentu",
+    "title": "Patent společnosti Signify vkládá granulátový materiál do obalu z tiskové struny",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/972023669/0/fabbaloo/default~Signify-Patent-Puts-Pellet-Material-Inside-A-Filament-Skin\" rel=\"nofollow\" title=\"Signify Patent Puts Pellet Material Inside A Filament Skin\"><img alt=\"Technical illustration of a fused-deposition 3D printer extruder depositing layered material, with filament feed and build platform shown.\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/US_20260316381_A1-headline-1280x884.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Signify describes a single-nozzle FFF extruder that surrounds pellet-fed material with a different filament, potentially combining low-cost bulk deposition with a controlled outer surface.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/972023669/0/fabbaloo/default~Signify-Patent-Puts-Pellet-Material-Inside-A-Filament-Skin\" rel=\"nofollow\">Signify Patent Puts Pellet Material Inside A Filament Skin</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/US_20260316381_A1-headline-1280x884.jpg",
     "source": "Fabbaloo",
@@ -1537,9 +1537,9 @@
       "This approach aims to leverage the cost-efficiency of pellets while maintaining the surface quality and precision of traditional filament printing."
     ],
     "summary_bullets_cs": [
-      "Společnost Signify si nechala patentovat nový design FFF extrudéru, který kombinuje materiál na bázi pelet s vnější vrstvou z filamentu.",
-      "Technologie využívá jedinou trysku k obalení levných sypkých pelet materiálem s kontrolovaným povrchem.",
-      "Tento přístup má za cíl využít nákladovou efektivitu pelet při zachování kvality povrchu a přesnosti tisku běžného filamentu."
+      "Společnost Signify si nechala patentovat nový design FFF extrudéru, který kombinuje materiál na bázi granulátu s vnější vrstvou z filamentu.",
+      "Technologie využívá jedinou trysku k obalení levného sypkého granulátu materiálem s kontrolovaným povrchem.",
+      "Tento přístup má za cíl využít nákladovou efektivitu granulátu při zachování kvality povrchu a přesnosti tisku běžného filamentu."
     ],
     "tags": [
       "Hardware",
@@ -1788,7 +1788,7 @@
       "3D Printing",
       "Automotive"
     ],
-    "region": "WORLD"
+    "region": "CZ"
   },
   {
     "title": "Meshy propojuje Hermes Agent s 3D tiskem pomocí nového pluginu pro generování a přípravu modelů",
@@ -1904,7 +1904,7 @@
     "summary_bullets_cs": [
       "Vědci vyvinuli novou metodu ultrazvukového testování pro analýzu vnitřní strukturální integrity 3D tištěných dílů.",
       "Studie se konkrétně zaměřuje na to, jak různé geometrie výplně ovlivňují mechanickou tuhost materiálů typu dřevěné PLA.",
-      "Tato nedestruktivní technika poskytuje hlubší vhled do vlastností kompozitních filamentů při tisku metodou FFF.",
+      "Tato nedestruktivní technika poskytuje hlubší vhled do vlastností kompozitních tiskových strun při tisku metodou FFF.",
       "Zjištění pomáhají inženýrům lépe předvídat odolnost a strukturální chování komponentů vyrobených z dřevěného PLA."
     ],
     "tags": [
@@ -1937,7 +1937,7 @@
       "Vědci vyvinuli metodu 3D tisku z voskové pěny pro tvorbu složitých forem na odlévání betonu.",
       "Hlavní výhodou této technologie je možnost formu po použití roztavit a materiál znovu využít pro další tisk.",
       "Tento udržitelný přístup výrazně snižuje množství odpadu ve stavebnictví ve srovnání s tradičními nerecyklovatelnými materiály.",
-      "Proces využívá robotické vytlačovací systémy, které efektivně pracují se speciální voskovou pěnou."
+      "Proces využívá robotické extruzní systémy, které efektivně pracují se speciální voskovou pěnou."
     ],
     "tags": [
       "Hardware",
@@ -1992,7 +1992,7 @@
     "summary_bullets_cs": [
       "Společnost Prusa rozšiřuje své možnosti o řešení pro vysokoteplotní 3D tisk.",
       "Nová nabídka má za cíl zpřístupnit tisk z pokročilých materiálů výrazným snížením pořizovacích nákladů.",
-      "Tento strategický krok umožňuje uživatelům pracovat s náročnými technickými filamenty bez vysokých investic, které jsou obvykle spojeny s průmyslovými stroji."
+      "Tento strategický krok umožňuje uživatelům pracovat s náročnými technickými tiskovými strunami bez vysokých investic, které jsou obvykle spojeny s průmyslovými stroji."
     ],
     "tags": [
       "Hardware",
@@ -2001,7 +2001,7 @@
       "3D Printing",
       "High-Temp Printing"
     ],
-    "region": "WORLD"
+    "region": "CZ"
   },
   {
     "title": "Nový způsob, jak 3D tisknout povrch jiných světů",
@@ -2413,7 +2413,7 @@
     ],
     "summary_bullets_cs": [
       "Tiskárny v ceně několika stovek dolarů a automatizovaný software umožňují vznik obřích FFF „gigafarem“.",
-      "Navzdory vysoké míře automatizace zůstává fyzická práce spojená s odebíráním výtisků a post-processingem hlavním úzkým hrdlem.",
+      "Navzdory vysoké míře automatizace zůstává fyzická práce spojená s odebíráním výtisků a dokončovacími pracemi hlavním úzkým hrdlem.",
       "Průmysl čelí výzvě, jak definovat roli lidských operátorů v těchto stále autonomnějších výrobních prostředích.",
       "Přechod na nepřetržitý provoz 24/7 vytváří potřebu nové třídy specializovaných pracovníků, kteří budou tyto tiskové farmy obsluhovat."
     ],
@@ -2444,7 +2444,7 @@
       "The study highlights a potential path toward more efficient and sustainable high-performance 3D printing."
     ],
     "summary_bullets_cs": [
-      "Nový výzkum naznačuje, že PEEK prášek potažený MXeny vyžaduje při procesu spékání polymerů (PBF) výrazně méně energie z vláknového laseru.",
+      "Nový výzkum naznačuje, že PEEK prášek potažený MXeny vyžaduje při procesu 3D tisku z polymerního prášku (PBF) výrazně méně energie z vláknového laseru.",
       "Tato inovace by mohla vést k energeticky úspornějšímu a efektivnějšímu 3D tisku vysoce výkonných polymerů."
     ],
     "tags": [
@@ -2689,7 +2689,7 @@
     "summary_bullets_cs": [
       "Společnost PostProcess Technologies získala patent na automatizovaný systém určený ke zefektivnění odstraňování přebytečného prášku z 3D tištěných dílů.",
       "Tato technologie mění manuální odstraňování prášku na programovatelný a opakovatelný proces, čímž řeší zásadní úzké hrdlo ve výrobě aditivní výroby.",
-      "Zařízení využívá uzavřenou konstrukci s integrovanými sběrnými nádržemi, což má za cíl zvýšit efektivitu a konzistenci procesů následného zpracování."
+      "Zařízení využívá uzavřenou konstrukci s integrovanými sběrnými nádržemi, což má za cíl zvýšit efektivitu a konzistenci procesů dokončovacích prací."
     ],
     "tags": [
       "Hardware",
@@ -3123,7 +3123,7 @@
     "region": "US"
   },
   {
-    "title": "Peopoly přináší laserové vyrovnávání podložky do velkoformátové tiskárny na granule za 15 000 USD",
+    "title": "Peopoly přináší laserové vyrovnávání podložky do velkoformátové tiskárny na granulát za 15 000 USD",
     "summary": "Hong Kong-based 3D printer manufacturer Peopoly has opened general sales of its Giga 800 Fused Granulate Fabrication (FGF) 3D printer, starting at $15,000 (EXW). The commercial release introduces a laser-assisted automatic bed leveling system developed in response to feedback from the company&#8217;s Early Adopter program. Originally introduced in May 2026, the Giga 800 is designed&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/image-14-150x100.png",
     "source": "3D Printing Industry",
@@ -3365,7 +3365,7 @@
     "region": "WORLD"
   },
   {
-    "title": "Formlabs vstupuje na trh s resinovými 3D tiskárnami za 699 dolarů a vyzývá čínskou konkurenci",
+    "title": "Formlabs vstupuje na trh s pryskyřičnými 3D tiskárnami za 699 dolarů a vyzývá čínskou konkurenci",
     "summary": "Formlabs is moving into a very different part of the 3D printing market. The Massachusetts-based company, best known for professional resin printers used by engineers, manufacturers, and dental laboratories, has...",
     "image": "https://3dprint.com/wp-content/uploads/2026/10/images.jpg",
     "source": "3DPrint.com | Additive Manufacturing Business",
@@ -3379,7 +3379,7 @@
       "This move marks a strategic shift for the professional-grade manufacturer toward more accessible, consumer-oriented hardware."
     ],
     "summary_bullets_cs": [
-      "Společnost Formlabs rozšiřuje své portfolio a vstupuje na trh cenově dostupných resinových 3D tiskáren s cenovkou 699 dolarů.",
+      "Společnost Formlabs rozšiřuje své portfolio a vstupuje na trh cenově dostupných pryskyřičných 3D tiskáren s cenovkou 699 dolarů.",
       "Firma se snaží konkurovat zavedeným čínským výrobcům, kteří v současnosti dominují segmentu levných stolních SLA tiskáren.",
       "Tento krok představuje strategický posun výrobce profesionálních zařízení směrem k dostupnějšímu hardwaru pro širší veřejnost."
     ],
@@ -3498,7 +3498,7 @@
       "This innovation leverages Polymaker's expertise in color science to bring industrial-grade color customization to the pellet-based 3D printing market."
     ],
     "summary_bullets_cs": [
-      "Společnost Polymaker rozšiřuje své portfolio nad rámec běžných filamentů a představuje nový systém barvení granulátu s názvem CymphoniK.",
+      "Společnost Polymaker rozšiřuje své portfolio nad rámec běžných tiskových strun a představuje nový systém barvení granulátu s názvem CymphoniK.",
       "Systém CymphoniK umožňuje uživatelům vytvářet vlastní barvy přímo z granulátu, což přináší větší flexibilitu při výrobě materiálů.",
       "Tato inovace využívá odborné znalosti společnosti Polymaker v oblasti barev a přináší možnost průmyslového přizpůsobení barev na trh 3D tisku z granulátu."
     ],
@@ -3544,7 +3544,7 @@
     "region": "US"
   },
   {
-    "title": "Patent společnosti SprintRay mění osvětlení resinových tiskáren na vyměnitelnou kazetu",
+    "title": "Patent společnosti SprintRay mění osvětlení pryskyřičných tiskáren na vyměnitelnou kazetu",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/971845319/0/fabbaloo/default~SprintRay-Patent-Turns-Resin-Printer-Lighting-Into-A-Replaceable-Cartridge\" rel=\"nofollow\" title=\"SprintRay Patent Turns Resin Printer Lighting Into A Replaceable Cartridge\"><img alt=\"Perspective view of the complete replaceable illumination cartridge assembly for a resin-based 3D printer.\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/US_20260307332_A1-headline-1280x763.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>What if the most troublesome part of a resin 3D printer could simply slide out?</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971845319/0/fabbaloo/default~SprintRay-Patent-Turns-Resin-Printer-Lighting-Into-A-Replaceable-Cartridge\" rel=\"nofollow\">SprintRay Patent Turns Resin Printer Lighting Into A Replaceable Cartridge</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/US_20260307332_A1-headline-1280x763.jpg",
     "source": "Fabbaloo",
@@ -3559,7 +3559,7 @@
       "The concept addresses one of the most common and difficult-to-repair components in SLA/DLP printing technology."
     ],
     "summary_bullets_cs": [
-      "Společnost SprintRay si nechala patentovat modulární design světelného zdroje pro resinové 3D tiskárny.",
+      "Společnost SprintRay si nechala patentovat modulární design světelného zdroje pro pryskyřičné 3D tiskárny.",
       "Inovace umožňuje snadné vyjmutí a výměnu celého světelného modulu jako jedné kazety.",
       "Tento koncept má za cíl zjednodušit údržbu a zkrátit prostoje při poruchách osvětlovací jednotky.",
       "Řešení se zaměřuje na jednu z nejproblematičtějších a nejhůře opravitelných součástí technologie SLA/DLP tisku."
@@ -3802,7 +3802,7 @@
     ],
     "summary_bullets_cs": [
       "Společnost Polymaker představila CymphoniK, inovativní systém pro míchání barev přímo u uživatele pomocí granulátu.",
-      "Řešení kombinuje hardware, software a základní barevné pelety pro vytváření specifických barevných odstínů.",
+      "Řešení kombinuje hardware, software a základní barevný granulát pro vytváření specifických barevných odstínů.",
       "Tato technologie umožňuje lokální výrobu vlastních barev, což eliminuje potřebu skladovat širokou škálu předbarvených materiálů.",
       "Systém je navržen tak, aby zefektivnil výrobní procesy a nabídl větší flexibilitu při přizpůsobování barev materiálů."
     ],
@@ -3994,7 +3994,7 @@
     "region": "WORLD"
   },
   {
-    "title": "Patent společnosti EOS využívá oxid uhelnatý pro jemnější 3D tisk metodou Powder Bed Fusion",
+    "title": "Patent společnosti EOS využívá oxid uhelnatý pro jemnější 3D tisk z polymerního prášku",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/971812403/0/fabbaloo/default~EOS-Patent-Uses-A-Carbon-Monoxide-Laser-For-Finer-Powder-Bed-Fusion\" rel=\"nofollow\" title=\"EOS Patent Uses A Carbon Monoxide Laser For Finer Powder Bed Fusion\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/eos-co-laser-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>EOS is proposing a very different light source for polymer powder bed fusion: a carbon monoxide laser.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971812403/0/fabbaloo/default~EOS-Patent-Uses-A-Carbon-Monoxide-Laser-For-Finer-Powder-Bed-Fusion\" rel=\"nofollow\">EOS Patent Uses A Carbon Monoxide Laser For Finer Powder Bed Fusion</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/eos-co-laser-cover.jpg",
     "source": "Fabbaloo",
@@ -4008,7 +4008,7 @@
       "The technology represents a significant shift from traditional laser sources used in current industrial PBF systems."
     ],
     "summary_bullets_cs": [
-      "Společnost EOS si podala patent na využití laseru na bázi oxidu uhelnatého (CO) pro polymerový 3D tisk metodou spékání prášku (PBF).",
+      "Společnost EOS si podala patent na využití laseru na bázi oxidu uhelnatého (CO) pro 3D tisk z polymerního prášku (PBF).",
       "Tento nový zdroj světla má za cíl dosáhnout vyšší přesnosti a jemnějších detailů u tištěných dílů.",
       "Technologie představuje významný odklon od běžně používaných laserových zdrojů v současných průmyslových systémech PBF."
     ],
@@ -4051,7 +4051,7 @@
       "OpenCAL",
       "Volumetric 3D Printing"
     ],
-    "region": "US"
+    "region": "CZ"
   },
   {
     "title": "ETH Zurich využívá bakterie k 3D tisku fasádních prvků",
@@ -4112,7 +4112,7 @@
       "CORE One+",
       "Additive Manufacturing"
     ],
-    "region": "WORLD"
+    "region": "CZ"
   },
   {
     "title": "Prusa CORE One+ (Gen 2) INDX: Spojení jako z nebes!",
@@ -4142,7 +4142,7 @@
       "INDX",
       "3D Printing"
     ],
-    "region": "WORLD"
+    "region": "CZ"
   },
   {
     "title": "Obnova Palisades: Může 3D tisk vyřešit problém s náhradními díly pro jadernou energetiku?",
@@ -4177,7 +4177,7 @@
     "region": "US"
   },
   {
-    "title": "Konec nákupů po tunách: Prusa uvádí na trh polymerové granule v malém balení",
+    "title": "Konec nákupů po tunách: Prusa uvádí na trh polymerový granulát v malém balení",
     "summary": "Discover exclusive software insights at AMA: Software 2026, on October 22. Register for free! Prusa Research has started selling the raw polymer pellets behind its Prusament filament in packages of 3.5 kg to 14 kg. It is aiming at users who print directly from granules or run small-scale materials research. The launch, announced October 13,&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/0c3d9513-dsc09974-1024x684-1-150x100.jpg",
     "source": "3D Printing Industry",
@@ -4191,7 +4191,7 @@
       "The company also invites the community to join the AMA: Software 2026 event on October 22 for exclusive insights."
     ],
     "summary_bullets_cs": [
-      "Společnost Prusa Research začala prodávat surové polymerové granule, ze kterých vyrábí svůj filament Prusament, v baleních od 3,5 kg do 14 kg.",
+      "Společnost Prusa Research začala prodávat surový polymerový granulát, ze kterého vyrábí svou tiskovou strunu Prusament, v baleních od 3,5 kg do 14 kg.",
       "Cílem je vyjít vstříc uživatelům, kteří tisknou přímo z granulátu nebo se věnují malosériovému výzkumu materiálů.",
       "Společnost také zve na akci AMA: Software 2026, která se koná 22. října a nabídne exkluzivní pohled do vývoje softwaru."
     ],
@@ -4202,7 +4202,7 @@
       "3D Printing",
       "Pellet Extrusion"
     ],
-    "region": "WORLD"
+    "region": "CZ"
   },
   {
     "title": "JOME Engineering vytiskla 3D lodní vrtuli ze skenu a zkrátila dobu výroby o 60 %",
@@ -4282,7 +4282,7 @@
     "summary_bullets_cs": [
       "Společnost Creality zahájila v USA předobjednávky na novou 3D tiskárnu K3 s cenou začínající na 849 dolarech.",
       "Stroj je vybaven systémem čtyř trysek KliTek.",
-      "Tato technologie je navržena tak, aby zrychlila výměnu barev a omezila plýtvání filamentem při vícebarevném tisku."
+      "Tato technologie je navržena tak, aby zrychlila výměnu barev a omezila plýtvání tiskovou strunou při vícebarevném tisku."
     ],
     "tags": [
       "Hardware",
@@ -4323,7 +4323,7 @@
       "Formlabs",
       "Open Source"
     ],
-    "region": "WORLD"
+    "region": "CZ"
   },
   {
     "title": "50 000 objednávek a stále přibývají: EPlus3D a čínský poskytovatel AM služeb škálují řešení kapalinového chlazení pro AI servery",
@@ -4445,10 +4445,10 @@
       "Industry 4.0",
       "3D Printing"
     ],
-    "region": "WORLD"
+    "region": "CZ"
   },
   {
-    "title": "Neohlášená 3D tiskárna od Creality se objevila v softwaru pro krájení",
+    "title": "Neohlášená 3D tiskárna od Creality se objevila ve sliceru",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/971779679/0/fabbaloo/default~Unannounced-Creality-D-Printer-Appears-in-Slicing-Software\" rel=\"nofollow\" title=\"Unannounced Creality 3D Printer Appears in Slicing Software\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/creality-mbox-exposed-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Well, this is curious — a new, unannounced 3D printer appeared in Creality’s latest software release.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971779679/0/fabbaloo/default~Unannounced-Creality-D-Printer-Appears-in-Slicing-Software\" rel=\"nofollow\">Unannounced Creality 3D Printer Appears in Slicing Software</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/creality-mbox-exposed-cover.jpg",
     "source": "Fabbaloo",
@@ -4462,7 +4462,7 @@
       "Details about the machine's specifications or official release date remain unknown at this time."
     ],
     "summary_bullets_cs": [
-      "V nejnovější aktualizaci softwaru pro krájení (sliceru) od společnosti Creality byl objeven záhadný, dosud neohlášený model 3D tiskárny.",
+      "V nejnovější aktualizaci sliceru od společnosti Creality byl objeven záhadný, dosud neohlášený model 3D tiskárny.",
       "Tento objev naznačuje, že Creality připravuje v blízké budoucnosti uvedení nového hardwarového produktu na trh.",
       "Podrobnosti o technických specifikacích stroje nebo oficiálním datu vydání zatím zůstávají neznámé."
     ],
@@ -4522,7 +4522,7 @@
     "summary_bullets_cs": [
       "Čínská firma SnowX vstupuje na trh s cenově dostupným 3D tiskem metodou LPBF.",
       "Společnost plánuje uvést svou tiskárnu SnowPod prostřednictvím platformy Kickstarter.",
-      "Zařízení s tiskovým prostorem 80 mm bude konkurovat projektům jako MetalBase a ScrapLabs."
+      "Zařízení s tiskovým objemem 80 mm bude konkurovat projektům jako MetalBase a ScrapLabs."
     ],
     "tags": [
       "Hardware",
@@ -4733,7 +4733,7 @@
     ],
     "summary_bullets_cs": [
       "Společnost Formlabs se vrací do segmentu spotřebitelského 3D tisku s novinkou Studio 1.",
-      "Cílem firmy je stát se pro resinový tisk tím, čím je Bambu Lab pro FFF technologii.",
+      "Cílem firmy je stát se pro tisk z pryskyřice tím, čím je Bambu Lab pro FFF technologii.",
       "Tento krok představuje strategický posun směrem k zpřístupnění profesionálního tisku z pryskyřice pro širokou veřejnost."
     ],
     "tags": [
@@ -5112,7 +5112,7 @@
     ],
     "summary_bullets_cs": [
       "Společnosti HP a DyeMansion spolupracují na zefektivnění kompletní výroby ortopedických a protetických pomůcek na míru.",
-      "Partnerství se zaměřuje na integraci pokročilého hardwaru pro 3D tisk s automatizovanými procesy následného zpracování.",
+      "Partnerství se zaměřuje na integraci pokročilého hardwaru pro 3D tisk s automatizovanými procesy dokončovacích prací.",
       "Cílem je snížit složitost výroby zdravotnických prostředků na míru pacientům, od prvotního měření až po finální produkt."
     ],
     "tags": [
@@ -5143,7 +5143,7 @@
     "summary_bullets_cs": [
       "Společnost ICON získala investici 200 milionů dolarů a firma Fathom rozšířila své portfolio o tři akvizice.",
       "Nová data od společnosti CONTEXT přinášejí přehled o aktuálním stavu trhu s 3D tiskárnami.",
-      "Solukon představil nový systém pro odstraňování prášku, který zefektivňuje post-processing.",
+      "Solukon představil nový systém pro odstraňování prášku, který zefektivňuje dokončovací práce.",
       "Objevila se řada nástrojů, které umožňují přejít od nápadu k tisku bez nutnosti znalosti CAD softwaru."
     ],
     "tags": [
@@ -5216,7 +5216,7 @@
     "region": "SE"
   },
   {
-    "title": "Drony, rakety a telefony ženou příjmy z průmyslových 3D tiskáren o 40 % nahoru, zatímco trh s desktopovými tiskárnami vykazuje známky nasycení",
+    "title": "Drony, rakety a telefony ženou příjmy z průmyslových 3D tiskáren o 40 % nahoru, zatímco trh se stolními tiskárnami vykazuje známky nasycení",
     "summary": "Spend less time fixing files. Discover smarter workflows at AMA: Software 2026.  Global 3D printer hardware revenues grew 31% year-on-year (YoY) in the second quarter of 2026, according to new figures from global market intelligence firm CONTEXT. The data points to a return to growth across the additive manufacturing (AM) market, led by a continued&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/Chart-Trailing-Twelve-Months-TTM-Global-3D-Printer-System-Revenue-Share-and-Growth-by-Price-Class.-Image-via-CONTEXT.--150x100.png",
     "source": "3D Printing Industry",
@@ -5233,7 +5233,7 @@
     "summary_bullets_cs": [
       "Globální příjmy z hardwaru pro 3D tisk vzrostly ve druhém čtvrtletí roku 2026 meziročně o 31 %, což značí silné oživení trhu.",
       "Průmyslová aditivní výroba je poháněna sektory s vysokým růstem, jako jsou letectví, drony a spotřební elektronika.",
-      "Segment desktopových 3D tiskáren vykazuje známky nasycení, což přesouvá pozornost průmyslu k řešením na průmyslové úrovni.",
+      "Segment stolních 3D tiskáren vykazuje známky nasycení, což přesouvá pozornost průmyslu k řešením na průmyslové úrovni.",
       "Nové softwarové postupy se stávají klíčovými pro zkrácení času oprav souborů a zvýšení celkové efektivity výroby."
     ],
     "tags": [
@@ -5409,7 +5409,7 @@
     ],
     "summary_bullets_cs": [
       "University of Maine se snaží získat nové patenty pro koncept naklápění tiskové podložky u 3D tiskáren.",
-      "Naklápění podložky je známá technika, která se využívá k eliminaci nutnosti podpůrných struktur během tisku.",
+      "Naklápění podložky je známá technika, která se využívá k eliminaci nutnosti podpěr během tisku.",
       "Článek zpochybňuje novost těchto patentových přihlášek s poukazem na to, že tento princip je v oboru známý již řadu let."
     ],
     "tags": [
@@ -5499,7 +5499,7 @@
     ],
     "summary_bullets_cs": [
       "Společnosti Snapmaker a Phaetus spojily síly a představily nový vysokoprůtokový hotend Liber pro tiskárnu Snapmaker U1.",
-      "Hotend využívá licencovanou technologii FlowCore od společnosti E3D pro zvýšení výkonu vytlačování.",
+      "Hotend využívá licencovanou technologii FlowCore od společnosti E3D pro zvýšení výkonu extruze.",
       "Partnerství má za cíl přinést pokročilé možnosti vysokorychlostního tisku do ekosystému Snapmaker."
     ],
     "tags": [
@@ -5812,7 +5812,7 @@
     "region": "US"
   },
   {
-    "title": "Formlabs uvádí na trh resinovou 3D tiskárnu Form Studio 1 za 699 USD",
+    "title": "Formlabs uvádí na trh pryskyřičnou 3D tiskárnu Form Studio 1 za 699 USD",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/971530244/0/fabbaloo/default~Formlabs-Launches-US-Form-Studio-Resin-D-Printer\" rel=\"nofollow\" title=\"Formlabs Launches US$699 Form Studio 1 Resin 3D Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/form-studio-1-cover-300x169.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Huge news from Formlabs today: they are introducing a new desktop resin 3D printer that is at a very affordable price.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971530244/0/fabbaloo/default~Formlabs-Launches-US-Form-Studio-Resin-D-Printer\" rel=\"nofollow\">Formlabs Launches US$699 Form Studio 1 Resin 3D Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/form-studio-1-cover-300x169.jpg",
     "source": "Fabbaloo",
@@ -5826,7 +5826,7 @@
       "The printer is priced at just US$699, marking a significant shift in the company's pricing strategy."
     ],
     "summary_bullets_cs": [
-      "Společnost Formlabs představila novou stolní resinovou 3D tiskárnu s názvem Form Studio 1.",
+      "Společnost Formlabs představila novou stolní pryskyřičnou 3D tiskárnu s názvem Form Studio 1.",
       "Zařízení je navrženo jako cenově velmi dostupná varianta pro širokou veřejnost.",
       "Tiskárna vstupuje na trh s agresivní cenovkou 699 USD."
     ],
@@ -5854,7 +5854,7 @@
     ],
     "summary_bullets_cs": [
       "Společnost Prusa uvedla na trh nový typ materiálu ve formě granulátu, který není kompatibilní s žádnou z jejich současných 3D tiskáren.",
-      "Tento krok naznačuje strategický posun firmy směrem k rozšíření portfolia mimo tradiční tisk z filamentu.",
+      "Tento krok naznačuje strategický posun firmy směrem k rozšíření portfolia mimo tradiční tisk z tiskové struny.",
       "Vývoj naznačuje, že se Prusa zaměřuje na průmyslový trh s granulátovým tiskem nebo připravuje budoucí hardware, který tento materiál využije."
     ],
     "tags": [
@@ -5864,7 +5864,7 @@
       "Pellet Extrusion",
       "3D Printing"
     ],
-    "region": "WORLD"
+    "region": "CZ"
   },
   {
     "title": "Výzkumníci vylepšují komerční technologii 3D tisku a usilují o patentovou ochranu",
@@ -5899,7 +5899,7 @@
     "region": "US"
   },
   {
-    "title": "Formlabs představuje Form Studio 1, resinovou 3D tiskárnu za 699 dolarů",
+    "title": "Formlabs představuje Form Studio 1, pryskyřičnou 3D tiskárnu za 699 dolarů",
     "summary": "With aggressive pricing and new technology, Formlabs once again enters territory traditionally dominated by consumer resin printer manufacturers",
     "image": "https://substackcdn.com/image/fetch/$s_!mMmv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19d99b6b-2268-48db-8469-e6048f576750_700x501.jpeg",
     "source": "The 3D Printing Journal",
@@ -5914,9 +5914,9 @@
       "The company aims to challenge established manufacturers currently dominating the entry-level space."
     ],
     "summary_bullets_cs": [
-      "Formlabs uvádí na trh Form Studio 1, novou resinovou 3D tiskárnu s cenovkou 699 dolarů.",
+      "Formlabs uvádí na trh Form Studio 1, novou pryskyřičnou 3D tiskárnu s cenovkou 699 dolarů.",
       "Zařízení využívá novou technologii a cílí na segment spotřebitelských tiskáren.",
-      "Tímto krokem Formlabs agresivně vstupuje do oblasti, které dosud dominovali výrobci levných resinových tiskáren."
+      "Tímto krokem Formlabs agresivně vstupuje do oblasti, které dosud dominovali výrobci levných pryskyřičných tiskáren."
     ],
     "tags": [
       "Hardware",
@@ -5973,7 +5973,7 @@
       "The launch coincides with the upcoming AMA: Software 2026 event, focusing on the role of AI in 3D printing."
     ],
     "summary_bullets_cs": [
-      "Společnost Formlabs představila novou resinovou 3D tiskárnu Form Studio 1.",
+      "Společnost Formlabs představila novou pryskyřičnou 3D tiskárnu Form Studio 1.",
       "Jde o první zařízení ve své kategorii, které získalo certifikaci UL GREENGUARD Gold pro kvalitu vnitřního ovzduší.",
       "Výrobce klade větší důraz na bezpečnost a certifikaci než na samotnou cenu.",
       "Téma využití umělé inteligence v 3D tisku bude hlavním bodem nadcházející akce AMA: Software 2026."
@@ -6093,7 +6093,7 @@
     ],
     "summary_bullets_cs": [
       "Objevte exkluzivní softwarové poznatky na akci AMA: Software 2026, která se koná 22. října. Registrace je zdarma!",
-      "Divize Gränges Powder Metallurgy spolupracuje se specialistou na kovové komponenty Pint a francouzským výzkumným ústavem IRT M2P na vývoji dvou hliníkovo-skandiových slitin pro 3D tisk metodou Laser Powder Bed Fusion (LPBF)."
+      "Divize Gränges Powder Metallurgy spolupracuje se specialistou na kovové komponenty Pint a francouzským výzkumným ústavem IRT M2P na vývoji dvou hliníkovo-skandiových slitin pro laserový 3D tisk z kovového prášku (LPBF)."
     ],
     "tags": [
       "Material",
@@ -6342,7 +6342,7 @@
     "region": "US"
   },
   {
-    "title": "Odvětrávání u resinového 3D tisku je stále snadné podcenit",
+    "title": "Odvětrávání u tisku z pryskyřice je stále snadné podcenit",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/971396690/0/fabbaloo/default~Resin-D-Printing-Ventilation-Is-Still-Easy-To-Get-Wrong\" rel=\"nofollow\" title=\"Resin 3D Printing Ventilation Is Still Easy To Get Wrong\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/fayetteville-resin-cover-300x204.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Resin 3D printers are easy to install. The ventilation for them isn't as simple.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971396690/0/fabbaloo/default~Resin-D-Printing-Ventilation-Is-Still-Easy-To-Get-Wrong\" rel=\"nofollow\">Resin 3D Printing Ventilation Is Still Easy To Get Wrong</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/fayetteville-resin-cover-300x204.jpg",
     "source": "Fabbaloo",
@@ -6357,10 +6357,10 @@
       "Proper air management is critical for maintaining a safe home or workshop environment when using resin-based technology."
     ],
     "summary_bullets_cs": [
-      "Resinové 3D tiskárny se snadno instalují, ale zajištění správného odvětrávání zůstává složitou výzvou.",
+      "Pryskyřičné 3D tiskárny se snadno instalují, ale zajištění správného odvětrávání zůstává složitou výzvou.",
       "Mnoho uživatelů podceňuje zdravotní rizika spojená s těkavými organickými látkami (VOC), které se při tisku uvolňují.",
       "Efektivní odvětrávání vyžaduje více než jen základní ventilátor; pro zajištění bezpečnosti je nutný dobře navržený odtahový systém.",
-      "Správná cirkulace vzduchu je při používání resinové technologie klíčová pro udržení bezpečného prostředí v domácnosti či dílně."
+      "Správná cirkulace vzduchu je při používání pryskyřičné technologie klíčová pro udržení bezpečného prostředí v domácnosti či dílně."
     ],
     "tags": [
       "Hardware",
@@ -6373,7 +6373,7 @@
     "region": "WORLD"
   },
   {
-    "title": "String Cubed navrhuje využít vlhký filament k ochraně materiálů citlivých na teplo",
+    "title": "String Cubed navrhuje využít vlhkou tiskovou strunu k ochraně materiálů citlivých na teplo",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/971390423/0/fabbaloo/default~String-Cubed-Proposes-Using-Wet-Filament-to-Protect-HeatSensitive-Materials\" rel=\"nofollow\" title=\"String Cubed Proposes Using Wet Filament to Protect Heat-Sensitive Materials\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/string-cubed-cover-300x147.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>A startup company wants to purposely use wet filament.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971390423/0/fabbaloo/default~String-Cubed-Proposes-Using-Wet-Filament-to-Protect-HeatSensitive-Materials\" rel=\"nofollow\">String Cubed Proposes Using Wet Filament to Protect Heat-Sensitive Materials</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/string-cubed-cover-300x147.jpg",
     "source": "Fabbaloo",
@@ -6418,7 +6418,7 @@
       "This approach aims to improve quality control by detecting issues before they result in a failed print."
     ],
     "summary_bullets_cs": [
-      "Společnost GE si nechala patentovat novou metodu pro detekci vad při 3D tisku kovů pomocí technologie LPBF (Laser Powder Bed Fusion).",
+      "Společnost GE si nechala patentovat novou metodu pro detekci vad při 3D tisku kovů pomocí laserového 3D tisku z kovového prášku (LPBF).",
       "Technologie sleduje „blikání“ laseru, čímž identifikuje nekonzistence v práškovém loži, které jsou pro běžné senzory neviditelné.",
       "Tento přístup má za cíl zlepšit kontrolu kvality tím, že odhalí problémy dříve, než dojde k selhání tisku."
     ],
@@ -6940,7 +6940,7 @@
     "region": "US"
   },
   {
-    "title": "Společnosti INSLOGIC a Neural4D spouštějí kampaň „Od promptu k tisku“, která propojuje generování 3D modelů pomocí AI s tiskem z filamentu",
+    "title": "Společnosti INSLOGIC a Neural4D spouštějí kampaň „Od promptu k tisku“, která propojuje generování 3D modelů pomocí AI s tiskem z tiskové struny",
     "summary": "Where is AI unlocking advantages? Explore what is possible at AMA: Software 2026. Filament maker INSLOGIC and AI 3D asset generation platform Neural4D (N4D) will run a joint creator campaign from October 15 to November 15, 2026, showing makers how to take an idea from a text prompt or image to a finished 3D printed&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/banner-1-150x100.png",
     "source": "3D Printing Industry",
@@ -6969,7 +6969,7 @@
     "region": "WORLD"
   },
   {
-    "title": "UniFormation S10 míří na Kickstarter s integrovaným systémem pro 3D tisk z resinu a následné zpracování",
+    "title": "UniFormation S10 míří na Kickstarter s integrovaným systémem pro 3D tisk z pryskyřice a dokončovací práce",
     "summary": "UniFormation will launch its S10 desktop resin 3D printer on Kickstarter on October 22, 2026, with pledges starting at $999. The S10 integrates printing, washing, and drying, allowing a print...",
     "image": "https://3dprint.com/wp-content/uploads/2026/10/2-1024x287.png",
     "source": "3DPrint.com | Additive Manufacturing Business",
@@ -6983,8 +6983,8 @@
       "Early bird pledges for the new system will start at $999."
     ],
     "summary_bullets_cs": [
-      "Společnost UniFormation uvede 22. října 2026 na platformě Kickstarter svou stolní resinovou 3D tiskárnu S10.",
-      "Model S10 integruje tisk, mytí a sušení do jednoho zařízení, což umožňuje automatizovaný proces tisku.",
+      "Společnost UniFormation uvede 22. října 2026 na platformě Kickstarter svou stolní pryskyřičnou 3D tiskárnu S10.",
+      "Model S10 integruje tisk, mytí a vytvrzování do jednoho zařízení, což umožňuje automatizovaný proces tisku.",
       "Ceny v rámci kampaně začínají na 999 dolarech."
     ],
     "tags": [
@@ -7444,7 +7444,7 @@
     "region": "WORLD"
   },
   {
-    "title": "Kolikrát je skutečně potřeba omýt resinový 3D výtisk?",
+    "title": "Kolikrát je skutečně potřeba omýt 3D výtisk z pryskyřice?",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/971192012/0/fabbaloo/default~How-Many-Washes-Does-a-Resin-D-Print-Really-Need\" rel=\"nofollow\" title=\"How Many Washes Does a Resin 3D Print Really Need?\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/wash-count-cover-1-300x225.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>I’m reading an interesting post about washing resin prints.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971192012/0/fabbaloo/default~How-Many-Washes-Does-a-Resin-D-Print-Really-Need\" rel=\"nofollow\">How Many Washes Does a Resin 3D Print Really Need?</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/wash-count-cover-1-300x225.jpeg",
     "source": "Fabbaloo",
@@ -7458,9 +7458,9 @@
       "The content provides practical insights into post-processing workflows for SLA/DLP printing enthusiasts."
     ],
     "summary_bullets_cs": [
-      "Článek zkoumá optimální počet mycích cyklů potřebných pro resinové 3D výtisky.",
+      "Článek zkoumá optimální počet mycích cyklů potřebných pro 3D výtisky z pryskyřice.",
       "Zabývá se rovnováhou mezi dosažením čistého povrchu a zamezením nadměrného vystavení rozpouštědlům.",
-      "Obsah poskytuje praktické rady pro post-processing v rámci workflow nadšenců do SLA/DLP tisku."
+      "Obsah poskytuje praktické rady pro dokončovací práce v rámci workflow nadšenců do SLA/DLP tisku."
     ],
     "tags": [
       "Hardware",
@@ -7807,7 +7807,7 @@
     "region": "US"
   },
   {
-    "title": "Studie zjistila, že některé filamenty pro 3D tisk mohou ovlivňovat kožní buňky",
+    "title": "Studie zjistila, že některé tiskové struny pro 3D tisk mohou ovlivňovat kožní buňky",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/971155361/0/fabbaloo/default~Study-Finds-Some-D-Printer-Filaments-Can-Affect-Skin-Cells\" rel=\"nofollow\" title=\"Study Finds Some 3D Printer Filaments Can Affect Skin Cells\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/toxic-filaments-cover2-1-300x210.jpeg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Are 3D printer filaments toxic? It turns out they might be.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971155361/0/fabbaloo/default~Study-Finds-Some-D-Printer-Filaments-Can-Affect-Skin-Cells\" rel=\"nofollow\">Study Finds Some 3D Printer Filaments Can Affect Skin Cells</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/toxic-filaments-cover2-1-300x210.jpeg",
     "source": "Fabbaloo",
@@ -8190,7 +8190,7 @@
       "Core One",
       "Hotend"
     ],
-    "region": "WORLD"
+    "region": "CZ"
   },
   {
     "title": "Kalifornie přijala zákon o 3D tisku se stanovenými standardy",
@@ -8364,7 +8364,7 @@
       "Core One L+",
       "Review"
     ],
-    "region": "WORLD"
+    "region": "CZ"
   },
   {
     "title": "Jak by měly firmy budovat nový byznys? Dirk Simon radí – 1. část",
@@ -8614,7 +8614,7 @@
       "Proper testing and understanding of material properties are essential to avoid misconceptions about strength improvements in FFF printing."
     ],
     "summary_bullets_cs": [
-      "Filamenty plněné uhlíkovými vlákny jsou často vnímány jako snadné vylepšení vlastností 3D tištěných dílů.",
+      "Tiskové struny plněné uhlíkovými vlákny jsou často vnímány jako snadné vylepšení vlastností 3D tištěných dílů.",
       "Realita používání těchto materiálů je složitější, protože samotná příměs vláken nezaručuje vyšší strukturální pevnost.",
       "Pro správné pochopení vlastností materiálu je nezbytné testování, aby se předešlo mylným představám o zvýšení odolnosti u FFF tisku."
     ],
@@ -8645,7 +8645,7 @@
     "summary_bullets_cs": [
       "Společnost Lynxel oznámila zcela novou technologii 3D tisku s názvem LMS.",
       "Tento proces je speciálně navržen pro plnobarevný 3D tisk z pryskyřice.",
-      "Inovace slibuje přinést pokročilé barevné možnosti na trh s resinovými tiskárnami."
+      "Inovace slibuje přinést pokročilé barevné možnosti na trh s pryskyřičnými tiskárnami."
     ],
     "tags": [
       "Hardware",
@@ -8658,7 +8658,7 @@
     "region": "WORLD"
   },
   {
-    "title": "Okres San Diego žaluje společnost Polymaker kvůli marketingu filamentů pro výrobce nelegálních zbraní",
+    "title": "Okres San Diego žaluje společnost Polymaker kvůli marketingu tiskových strun pro výrobce nelegálních zbraní",
     "summary": "AppLovin and Roblox face separate lawsuits as San Diego County launches its new consumer protection unit",
     "image": "https://substack-post-media.s3.amazonaws.com/public/images/c27e81c1-a149-4516-a347-3eb1740703c1_700x500.jpeg",
     "source": "The 3D Printing Journal",
@@ -8672,7 +8672,7 @@
       "This case is part of a broader initiative by the county's new consumer protection unit, which is also targeting tech firms AppLovin and Roblox."
     ],
     "summary_bullets_cs": [
-      "Okres San Diego podal žalobu na výrobce 3D tiskových strun, společnost Polymaker.",
+      "Okres San Diego podal žalobu na výrobce 3D filamentů, společnost Polymaker.",
       "Žaloba tvrdí, že firma cíleně propagovala své produkty výrobcům neoznačených „ghost guns“ (tzv. duchových zbraní).",
       "Tento případ je součástí širší iniciativy nové jednotky pro ochranu spotřebitelů, která se zaměřuje také na technologické firmy AppLovin a Roblox."
     ],
@@ -8831,7 +8831,7 @@
     "region": "WORLD"
   },
   {
-    "title": "Soubor dovnitř, čistý výtisk ven: Nová tiskárna S10 od UniFormation řeší největší nepořádek v resinovém 3D tisku",
+    "title": "Soubor dovnitř, čistý výtisk ven: Nová tiskárna S10 od UniFormation řeší největší nepořádek v 3D tisku z pryskyřice",
     "summary": "Discover exclusive software insights at AMA: Software 2026, on October 22. Register for free! Resin 3D printing tends to look cleaner in promotion than it does in practice. The print finishes, and then the real work begins. Lifting a dripping build plate, transferring it into a wash station, waiting, moving the model to a separate&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/UFN1-150x100.png",
     "source": "3D Printing Industry",
@@ -8847,7 +8847,7 @@
     ],
     "summary_bullets_cs": [
       "Objevte exkluzivní vhled do softwaru na akci AMA: Software 2026, která se koná 22. října. Registrace je zdarma!",
-      "Resinový 3D tisk vypadá v reklamách čistěji než v praxi; po dokončení tisku začíná náročná práce s odkapávající tiskovou podložkou a následným mytím modelu."
+      "3D tisk z pryskyřice vypadá v reklamách čistěji než v praxi; po dokončení tisku začíná náročná práce s odkapávající tiskovou podložkou a následným mytím modelu."
     ],
     "tags": [
       "Hardware",
@@ -8889,7 +8889,7 @@
     "region": "US"
   },
   {
-    "title": "AMPOWER: Pohled na desktopový 3D tisk, boom desktopového 3D tisku mění ekonomiku továren",
+    "title": "AMPOWER: Pohled na stolní 3D tisk, boom stolního 3D tisku mění ekonomiku továren",
     "summary": "Where can AI actually help your print workflow? Find out at AMA Software, online on October 22nd. At Huafast’s 3D printing operation in Shenzhen, thousands of desktop machines manufacture toys and other products. On some of the equipment, getting a design into production still involves carrying an SD card to the printer. Wireless interference makes&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/09/Rows-of-Bambu-Lab-desktop-3D-printers-operating-at-Huafast-in-Guangming.-Photo-by-Michael-Petch-150x100.jpg",
     "source": "3D Printing Industry",
@@ -8904,9 +8904,9 @@
       "An upcoming AMA Software event on October 22nd will explore how AI can optimize these 3D printing workflows."
     ],
     "summary_bullets_cs": [
-      "Desktopový 3D tisk mění ekonomiku výroby, což dokládají rozsáhlé provozy, jako je Huafast v Šen-čenu.",
+      "Stolní 3D tisk mění ekonomiku výroby, což dokládají rozsáhlé provozy, jako je Huafast v Šen-čenu.",
       "Navzdory velkému měřítku výroby se pracovní postupy stále často spoléhají na manuální přenos dat pomocí SD karet.",
-      "Rušení bezdrátového signálu zůstává významnou překážkou při škálování farem desktopových tiskáren.",
+      "Rušení bezdrátového signálu zůstává významnou překážkou při škálování farem stolních tiskáren.",
       "Nadcházející akce AMA Software, která se koná 22. října, se zaměří na to, jak může umělá inteligence optimalizovat procesy 3D tisku."
     ],
     "tags": [
@@ -9013,7 +9013,7 @@
     "region": "WORLD"
   },
   {
-    "title": "Uniformation chystá uvedení plně automatizované resinové tiskárny",
+    "title": "Uniformation chystá uvedení plně automatizované pryskyřičné tiskárny",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/971019707/0/fabbaloo/default~Uniformation-to-Launch-for-Fully-Automated-Resin-Printer\" rel=\"nofollow\" title=\"Uniformation to Launch for Fully Automated Resin Printer\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/10/uniformation-s1-campaign-cover-300x176.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>Now here’s a new take on resin 3D printing: full automation, on the desktop.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/971019707/0/fabbaloo/default~Uniformation-to-Launch-for-Fully-Automated-Resin-Printer\" rel=\"nofollow\">Uniformation to Launch for Fully Automated Resin Printer</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/10/uniformation-s1-campaign-cover-300x176.jpg",
     "source": "Fabbaloo",
@@ -9027,8 +9027,8 @@
       "This launch represents a significant shift toward automated production in the desktop SLA/DLP market."
     ],
     "summary_bullets_cs": [
-      "Společnost Uniformation představuje novou stolní resinovou 3D tiskárnu zaměřenou na plnou automatizaci.",
-      "Zařízení má za cíl zjednodušit proces resinového tisku, který je tradičně náročný na manuální obsluhu.",
+      "Společnost Uniformation představuje novou stolní pryskyřičnou 3D tiskárnu zaměřenou na plnou automatizaci.",
+      "Zařízení má za cíl zjednodušit proces tisku z pryskyřice, který je tradičně náročný na manuální obsluhu.",
       "Toto uvedení na trh představuje významný posun směrem k automatizované výrobě v segmentu stolních SLA/DLP tiskáren."
     ],
     "tags": [
@@ -9211,7 +9211,7 @@
     ],
     "summary_bullets_cs": [
       "Společnost INTAMSYS rozšiřuje svou řadu průmyslových FFF tiskáren o nový model Funmat Pro 310 NEO.",
-      "Tiskárna disponuje systémem nezávislých duálních extruderů (IDEX) pro vyšší flexibilitu a tisk z více materiálů.",
+      "Tiskárna disponuje systémem nezávislých duálních extrudérů (IDEX) pro vyšší flexibilitu a tisk z více materiálů.",
       "Zařízení nabízí plně uzavřenou, aktivně vyhřívanou komoru s teplotou až 100 °C, což je ideální pro náročné technické polymery.",
       "Stroj je navržen tak, aby vyhovoval specifickým potřebám malých a středních podniků (SME)."
     ],
@@ -9328,7 +9328,7 @@
       "The printer is designed for industrial applications requiring high-volume metal additive manufacturing."
     ],
     "summary_bullets_cs": [
-      "Společnost Faiborida 3D se sídlem v čínském Fo-šanu uvedla na trh SLM M500, velkoformátovou 3D tiskárnu na kov s tiskovým prostorem 500 × 500 × 500 mm.",
+      "Společnost Faiborida 3D se sídlem v čínském Fo-šanu uvedla na trh SLM M500, velkoformátovou 3D tiskárnu na kov s tiskovým objemem 500 × 500 × 500 mm.",
       "Zařízení využívá čtyři 500W lasery, které mají za cíl zvýšit rychlost a efektivitu výroby v rámci jedné tiskové úlohy.",
       "Tento průmyslový systém je určen pro uživatele, kteří vyžadují vysokou produktivitu při výrobě kovových dílů."
     ],
@@ -9960,7 +9960,7 @@
       "The innovation aims to increase efficiency and flexibility in industrial metal 3D printing processes."
     ],
     "summary_bullets_cs": [
-      "Společnost Additive Industries si nechala patentovat technologii, která rozděluje tisková lože LPBF na několik nezávisle ovládaných zón.",
+      "Společnost Additive Industries si nechala patentovat technologii, která rozděluje tiskové podložky LPBF na několik nezávisle ovládaných zón.",
       "Tato inovace v podstatě mění jednu velkou tiskovou plochu na soubor menších, autonomně fungujících tiskových jednotek.",
       "Cílem tohoto řešení je zvýšení efektivity a flexibility v průmyslovém 3D tisku z kovů."
     ],
@@ -10020,8 +10020,8 @@
     ],
     "summary_bullets_cs": [
       "Společnost E3D oficiálně představila nový licenční program pro svou technologii vysokoprůtokové extruze FlowCore.",
-      "Tato iniciativa umožňuje výrobcům třetích stran integrovat pokročilé vytlačovací systémy E3D do jejich vlastních 3D tiskáren.",
-      "Cílem tohoto kroku je standardizace vysoce výkonných vytlačovacích technologií v celém odvětví aditivní výroby."
+      "Tato iniciativa umožňuje výrobcům třetích stran integrovat pokročilé extruzní systémy E3D do jejich vlastních 3D tiskáren.",
+      "Cílem tohoto kroku je standardizace vysoce výkonných extruzních technologií v celém odvětví aditivní výroby."
     ],
     "tags": [
       "Hardware",
@@ -10064,7 +10064,7 @@
     "region": "WORLD"
   },
   {
-    "title": "Geometrie rozhraní může zachránit vícebarevné PLA výtisky",
+    "title": "Geometrie rozhraní může zachránit vícemateriálové PLA výtisky",
     "summary": "<a href=\"https://feeds.fabbaloo.com/~/970850291/0/fabbaloo/default~Interface-Geometry-Can-Save-Multimaterial-PLA-Prints\" rel=\"nofollow\" title=\"Interface Geometry Can Save Multimaterial PLA Prints\"><img alt=\"Photographs of fractured double-dovetail bicomponent 3D-printed tensile specimens, showing the blue and gray materials and the fracture regions.\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/09/research-10.56958_jesi.2026.11.1.31-headline-300x131.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"300\" /></a><p>It turns out that FFF printed dovetail joints are not always the strongest way to join multi-material parts.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/970850291/0/fabbaloo/default~Interface-Geometry-Can-Save-Multimaterial-PLA-Prints\" rel=\"nofollow\">Interface Geometry Can Save Multimaterial PLA Prints</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
     "image": "https://www.fabbaloo.com/wp-content/uploads/2026/09/research-10.56958_jesi.2026.11.1.31-headline-300x131.jpg",
     "source": "Fabbaloo",
@@ -10079,10 +10079,10 @@
       "The study provides insights into overcoming common adhesion and fracture issues in multi-material additive manufacturing."
     ],
     "summary_bullets_cs": [
-      "Nový výzkum zkoumá, jak geometrie rozhraní ovlivňuje strukturální integritu vícebarevných FFF 3D výtisků.",
+      "Nový výzkum zkoumá, jak geometrie rozhraní ovlivňuje strukturální integritu vícemateriálových FFF 3D výtisků.",
       "Tradiční rybinové spoje nejsou vždy nejúčinnějším způsobem spojování různých PLA materiálů.",
       "Optimalizace tvaru kontaktní plochy výrazně zlepšuje mechanickou pevnost kompozitních dílů.",
-      "Studie přináší poznatky o tom, jak překonat běžné problémy s adhezí a praskáním u vícebarevné aditivní výroby."
+      "Studie přináší poznatky o tom, jak překonat běžné problémy s adhezí a praskáním u vícemateriálové aditivní výroby."
     ],
     "tags": [
       "Material",
@@ -10204,7 +10204,7 @@
       "Společnosti Jingye a Interstellar Exploration plánují výstavbu továren na kovové prášky a kovový 3D tisk.",
       "Firma Xihe Additive sází na vývoj v oblasti měděného 3D tisku.",
       "Bambu Lab rozšiřuje svou maloobchodní síť v obchodech Apple.",
-      "Výrobci Phrozen a Flashforge představili nové resinové 3D tiskárny."
+      "Výrobci Phrozen a Flashforge představili nové pryskyřičné 3D tiskárny."
     ],
     "tags": [
       "Hardware",
@@ -10326,7 +10326,7 @@
       "This approach uses a diode array to project light patterns, potentially increasing speed and efficiency in metal additive manufacturing."
     ],
     "summary_bullets_cs": [
-      "Lawrence Livermore National Laboratory (LLNL) si nechal patentovat novou technologii pro tisk z kovových prášků (LPBF).",
+      "Lawrence Livermore National Laboratory (LLNL) si nechal patentovat novou technologii pro laserový 3D tisk z kovového prášku (LPBF).",
       "Systém nahrazuje tradiční laserové rastrování digitální světelnou maskou, podobně jako u MSLA tiskáren pro pryskyřici.",
       "Tento přístup využívá pole diod k promítání světelných vzorů, což může zvýšit rychlost a efektivitu aditivní výroby kovů."
     ],
