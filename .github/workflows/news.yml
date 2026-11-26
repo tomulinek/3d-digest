@@ -11,12 +11,16 @@ on:
       action:
         description: 'Co spustit'
         type: choice
-        options: [run, add-url, clean, smoke-test]
+        options: [run, add-url, clean, smoke-test, backfill-region]
         default: run
       url:
         description: 'Adresa článku (jen pro add-url)'
         required: false
         default: ''
+      since:
+        description: 'Od měsíce RRRR-MM (jen pro backfill-region)'
+        required: false
+        default: '2026-09'
 
 permissions:
   contents: write
@@ -48,10 +52,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ACTION: ${{ inputs.action }}
           ARTICLE_URL: ${{ inputs.url }}
+          SINCE: ${{ inputs.since }}
         run: |
           case "$ACTION" in
             add-url)    python generate_news_json_github.py --add-url "$ARTICLE_URL" ;;
             clean)      python generate_news_json_github.py --clean ;;
             smoke-test) python generate_news_json_github.py --smoke-test ;;
+            # Zapisuje po měsících; přerušený běh stačí spustit znovu, pokračuje od článků bez oblasti
+            backfill-region) python generate_news_json_github.py --backfill-region "$SINCE" ;;
             *)          python generate_news_json_github.py ;;
           esac

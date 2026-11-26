@@ -17,6 +17,9 @@ Ruční spuštění: Actions → Novinky → Run workflow:
 - `run` – běžný běh,
 - `add-url` + adresa – ručně přidá jeden článek,
 - `clean` – přerovná archiv podle měsíce vydání a odstraní duplicity,
-- `smoke-test` – jedno zkušební volání Gemini, nic nezapisuje.
+- `smoke-test` – jedno zkušební volání Gemini, nic nezapisuje,
+- `backfill-region` + měsíc `RRRR-MM` – doplní kód oblasti (`region`) článkům od daného měsíce, které ho nemají.
+
+Oblast článku je pole `region`: kód země podle ISO 3166-1 alpha-2 (`CZ`, `DE`, `US`…), nebo zóna `EUROPE`, `AMERICAS`, `ASIA`, `AFRICA`, `OCEANIA`, `WORLD`. Nahrazuje starší textová pole `region_cs` a `region_en`.
 
 Místně: `python generator/generate_news_json_github.py --dry-run SLOŽKA` zapisuje jen do složky, ne na GitHub.
