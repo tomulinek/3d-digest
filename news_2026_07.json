@@ -489,7 +489,7 @@
     ]
   },
   {
-    "title": "Nová průmyslová filamentová 3D tiskárna HP 600 HT si troufá na pokročilé polymery",
+    "title": "Nová průmyslová 3D tiskárna na tiskovou strunu HP 600 HT si troufá na pokročilé polymery",
     "summary": "After more than a decade pioneering powder-based additive manufacturing with its Multi Jet Fusion (MJF) technology, HP is now entering the Fused Filament Fabrication (FFF) space. The HP Industrial Filament (IF) 3D Printer 600 High Temperature (HT) is HP’s first FFF platform, a move rooted in the company’s conviction that high-temperature filament printing unlocks a&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/07/hero-desktop-150x100.jpg",
     "source": "3D Printing Industry",
@@ -6434,7 +6434,7 @@
     "summary_bullets_cs": [
       "Výzkumný tým z KU Leuven prokázal schopnost lokálně ovlivňovat mikrostrukturu kovu přímo během procesu 3D tisku.",
       "Tento postup umožňuje vyhnout se dodatečnému tepelnému zpracování po dokončení tisku.",
-      "Výsledky naznačují širší možnosti využití systémů s více lasery (multi-laser powder bed fusion) pro pokročilé inženýrství materiálů."
+      "Výsledky naznačují širší možnosti využití systémů s více lasery pro 3D tisk z kovového prášku (PBF) pro pokročilé inženýrství materiálů."
     ],
     "tags": [
       "Hardware",
