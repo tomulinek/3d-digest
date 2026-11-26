@@ -1,5 +1,87 @@
 [
   {
+    "title": "Ani LEGO nenašlo cestu k udržitelnější výrobě bez bolavých, nákladných a slepých uliček",
+    "summary": "Proč LEGO zastavilo kostku z recyklovaných PET lahví, kde je v tom 3D tisk a jak může aditivní výroba pomoci předejít drahým omylům s novými materiály.",
+    "image": "https://blog.aditivni.cz/_astro/LEGO-recyklovana-kostka.BLhGYlfS.jpg",
+    "source": "Blog ADITIVNÍ.cz",
+    "published": "2026-11-26T11:00:00+00:00",
+    "url": "https://blog.aditivni.cz/blog/lego-udrzitelnejsi-vyroba-a-3d-tisk/",
+    "forced_tags": [
+      "ADITIVNI.cz"
+    ],
+    "title_en": "Even LEGO hasn't found a path to more sustainable manufacturing without painful, costly dead ends",
+    "summary_bullets_en": [
+      "LEGO halted the development of a brick made from recycled PET bottles.",
+      "The article focuses on the role 3D printing plays in this process.",
+      "Additive manufacturing can help prevent costly mistakes when introducing new materials."
+    ],
+    "summary_bullets_cs": [
+      "LEGO zastavilo vývoj kostky z recyklovaných PET lahví.",
+      "Článek se zaměřuje na to, jakou roli v tomto procesu hraje 3D tisk.",
+      "Aditivní výroba může pomoci předejít drahým omylům při zavádění nových materiálů."
+    ],
+    "tags": [
+      "Material",
+      "LEGO",
+      "ADITIVNI.cz"
+    ],
+    "region_cs": "🌐 Svět",
+    "region_en": "🌐 Worldwide"
+  },
+  {
+    "title": "Patent společnosti Ricoh páruje vadné 3D tištěné díly za účelem snížení odpadu",
+    "summary": "<a href=\"https://feeds.fabbaloo.com/~/974054819/0/fabbaloo/default~Ricoh-Patent-Matches-Failed-D-Printed-Parts-to-Reduce-Waste\" rel=\"nofollow\" title=\"Ricoh Patent Matches Failed 3D Printed Parts to Reduce Waste\"><img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" src=\"https://www.fabbaloo.com/wp-content/uploads/2026/11/richo-quality-patent-cover.jpg\" style=\"height: auto !important; width: 100%; float: left; margin-right: 5px;\" width=\"750\" /></a><p>Sometimes two out-of-tolerance parts can make one good assembly.</p>\n<p>The post <a href=\"https://feeds.fabbaloo.com/~/974054819/0/fabbaloo/default~Ricoh-Patent-Matches-Failed-D-Printed-Parts-to-Reduce-Waste\" rel=\"nofollow\">Ricoh Patent Matches Failed 3D Printed Parts to Reduce Waste</a> appeared on <a href=\"https://www.fabbaloo.com\" rel=\"nofollow\">Fabbaloo</a>.</p>",
+    "image": "https://www.fabbaloo.com/wp-content/uploads/2026/11/richo-quality-patent-cover.jpg",
+    "source": "Fabbaloo",
+    "published": "2026-11-26T08:18:00+00:00",
+    "url": "https://feeds.fabbaloo.com/~/974054819/0/fabbaloo/default~Ricoh-Patent-Matches-Failed-D-Printed-Parts-to-Reduce-Waste",
+    "forced_tags": [],
+    "title_en": "Ricoh Patent Matches Failed 3D Printed Parts to Reduce Waste",
+    "summary_bullets_en": [
+      "Ricoh has a patent focused on matching failed 3D printed parts.",
+      "The concept relies on combining two out-of-tolerance parts to create one functional assembly.",
+      "This approach is designed to reduce waste."
+    ],
+    "summary_bullets_cs": [
+      "Společnost Ricoh získala patent zaměřený na párování vadných 3D tištěných dílů.",
+      "Princip spočívá ve spojení dvou dílů mimo toleranci, které společně vytvoří jednu funkční sestavu.",
+      "Cílem tohoto přístupu je snížení odpadu při výrobě."
+    ],
+    "tags": [
+      "Ricoh",
+      "Software",
+      "Hardware"
+    ],
+    "region_cs": "🌐 Svět",
+    "region_en": "🌐 Worldwide"
+  },
+  {
+    "title": "Finanční výsledky 3D tisku: Další dvouciferný růst tržeb z aditivní výroby v silném čtvrtletí pro HP",
+    "summary": "HP plays a unique role in additive manufacturing (AM), befitting its status as one of the rare major legacy hardware brands with an active industry presence. Many have tried, but...",
+    "image": "https://3dprint.com/wp-content/uploads/2026/11/ometry-hp-build-fill-half-width-2-scaled.png",
+    "source": "3DPrint.com | Additive Manufacturing Business",
+    "published": "2026-11-26T08:00:38+00:00",
+    "url": "https://3dprint.com/337657/3d-printing-financials-more-double-digit-am-revenue-growth-in-strong-quarter-for-hp/",
+    "forced_tags": [],
+    "title_en": "3D Printing Financials: More Double-Digit AM Revenue Growth in Strong Quarter for HP",
+    "summary_bullets_en": [
+      "HP achieved further double-digit revenue growth in additive manufacturing during a strong quarter.",
+      "HP plays a unique role in AM as one of the rare major legacy hardware brands with an active industry presence.",
+      "The article focuses on HP's financial performance within the 3D printing market."
+    ],
+    "summary_bullets_cs": [
+      "Společnost HP zaznamenala v silném čtvrtletí další dvouciferný růst tržeb v oblasti aditivní výroby.",
+      "HP hraje v aditivní výrobě jedinečnou roli jako jedna z mála velkých tradičních hardwarových značek s aktivní přítomností v oboru.",
+      "Článek se zaměřuje na finanční výsledky společnosti HP v kontextu trhu s 3D tiskem."
+    ],
+    "tags": [
+      "Hardware",
+      "HP"
+    ],
+    "region_cs": "🌐 Svět",
+    "region_en": "🌐 Worldwide"
+  },
+  {
     "title": "Projekt JATEC se zaměřuje na 3D tisk pro opravy dronů a dodávky komponentů",
     "summary": "The NATO-Ukraine Joint Analysis, Training and Education Centre (JATEC) is running a project to develop additive manufacturing (AM) systems for unmanned aerial vehicles (UAVs), according to the Ministry of Defence of Ukraine. The ministry says the project&#8217;s goal is to introduce new technologies that support the defense of Ukraine and of member states of the&#8230;",
     "image": "https://3dprintingindustry.com/wp-content/uploads/2026/11/large_3d-printers-for-uavs-site-01-en-c9bfa1371f-150x100.jpg",
