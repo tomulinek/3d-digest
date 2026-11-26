@@ -11,14 +11,14 @@ on:
       action:
         description: 'Co spustit'
         type: choice
-        options: [run, add-url, clean, smoke-test, backfill-region]
+        options: [run, add-url, clean, smoke-test, backfill-region, recheck-world-region]
         default: run
       url:
         description: 'Adresa článku (jen pro add-url)'
         required: false
         default: ''
       since:
-        description: 'Od měsíce RRRR-MM (jen pro backfill-region)'
+        description: 'Od měsíce RRRR-MM (jen pro backfill-region a recheck-world-region)'
         required: false
         default: '2026-09'
 
@@ -60,5 +60,7 @@ jobs:
             smoke-test) python generate_news_json_github.py --smoke-test ;;
             # Zapisuje po měsících; přerušený běh stačí spustit znovu, pokračuje od článků bez oblasti
             backfill-region) python generate_news_json_github.py --backfill-region "$SINCE" ;;
+            # Doplní chybějící oblasti a znovu posoudí články s WORLD (po změně pravidla oblasti)
+            recheck-world-region) python generate_news_json_github.py --backfill-region "$SINCE" --recheck-world ;;
             *)          python generate_news_json_github.py ;;
           esac

@@ -387,6 +387,25 @@ def test_doplneni_oblasti_po_soubeznem_zapisu_nic_neztrati():
     assert stored['https://a/1']['region'] == 'DE' and 'https://x/soubezny' in stored
 
 
+def test_prepocet_world_zmeni_jen_world_a_bez_prepinace_se_world_neposila():
+    storage = MemoryStorage({'news_2026_11.json': [
+        art('https://a/svet', region='WORLD'), art('https://a/us', region='US'), art('https://a/nic')]})
+    plain = FakeEnricher()
+    gen.backfill_regions(storage, plain, ['2026_11'])
+    assert plain.seen == [['https://a/nic']], 'bez přepínače se WORLD znovu neposuzuje'
+    recheck = FakeEnricher({'https://a/svet': 'CN'})
+    gen.backfill_regions(storage, recheck, ['2026_11'], recheck_world=True)
+    assert recheck.seen == [['https://a/svet']]
+    stored = {a['url']: a['region'] for a in storage.read('news_2026_11.json')[0]}
+    assert stored == {'https://a/svet': 'CN', 'https://a/us': 'US', 'https://a/nic': 'DE'}
+
+
+def test_pravidlo_oblasti_v_zadani():
+    prompt = gen.build_prompt(art('https://a/1', summary='x'), 'en')
+    assert 'podle dopadu' in prompt and 'Výzkum' in prompt and 'WORLD použij jen' in prompt
+    assert 'podle dopadu' in gen.region_prompt([art('https://a/1')])
+
+
 @pytest.mark.parametrize('value', ['2026-13', '2026/09', '', 'září'])
 def test_mesic_pro_doplneni_musi_mit_tvar_rrrr_mm(value):
     with pytest.raises(ValueError):
