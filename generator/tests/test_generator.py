@@ -402,8 +402,9 @@ def test_prepocet_world_zmeni_jen_world_a_bez_prepinace_se_world_neposila():
 
 def test_pravidlo_oblasti_v_zadani():
     prompt = gen.build_prompt(art('https://a/1', summary='x'), 'en')
-    assert 'podle dopadu' in prompt and 'Výzkum' in prompt and 'WORLD použij jen' in prompt
-    assert 'podle dopadu' in gen.region_prompt([art('https://a/1')])
+    assert 'dopadu novinky' in prompt and 'Výzkum' in prompt and 'WORLD použij jen' in prompt
+    assert 'China Watch' in prompt and 'Formnext → DE' in prompt
+    assert 'dopadu novinky' in gen.region_prompt([art('https://a/1')])
 
 
 @pytest.mark.parametrize('value', ['2026-13', '2026/09', '', 'září'])
